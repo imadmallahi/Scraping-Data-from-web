@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1416028-A1" country="EP" doc-number="1416028" kind="A1" lang="EN" family-id="32087968" status="new" date-produced="20090516" date="20040506"><bibliographic-data><publication-reference ucid="EP-1416028-A1" status="new" fvid="24023254"><document-id status="new" format="original"><country>EP</country><doc-number>1416028</doc-number><kind>A1</kind><date>20040506</date></document-id></publication-reference><application-reference ucid="EP-02024183-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>02024183</doc-number><kind>A</kind><date>20021030</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-02024183-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>02024183</doc-number><kind>A</kind><date>20021030</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C07F   5/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07F   5/02        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C07F   5/02C</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Neues Verfahren zur Herstellung von Monomeren verwendbar für die Herstellung von Halbleiterpolymeren</invention-title><invention-title load-source="ep" status="new" lang="EN">New method for the production of monomers useful in the manufacture of semiconductive polymers</invention-title><invention-title load-source="ep" status="new" lang="FR">Nouvelle methode de production de monomères utiles dans la fabrication de polymères semi-conducteurs</invention-title><citations><patent-citations><patcit ucid="DE-19846766-A1" status="new"><document-id status="new" format="epo"><country>DE</country><doc-number>19846766</doc-number><kind>A1</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="DE-19846767-A1" status="new"><document-id status="new" format="epo"><country>DE</country><doc-number>19846767</doc-number><kind>A1</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1997033323-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1997033323</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>NAHM S ET AL: "N-METHOXY-N-METHYLAMIDES AS EFFECTIVE ACYLATING AGENTS" TETRAHEDRON LETTERS, ELSEVIER SCIENCE PUBLISHERS, AMSTERDAM, NL, vol. 22, no. 39, 1981, pages 3815-3818, XP002019576 ISSN: 0040-4039</text><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>COVION ORGANIC SEMICONDUCTORS</name><address><country>DE</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>COVION ORGANIC SEMICONDUCTORS GMBH</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Covion Organic Semiconductors GmbH</last-name><address><street/><city>65926 Frankfurt</city><country>DE</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="original"><addressbook><last-name>The designation of the inventor has not yet been filed</last-name></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Luderschmidt, Schüler &amp;amp; Partner</last-name><address><street>Patentanwälte Industriepark Höchst</street><city>65926 Frankfurt</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The instant invention relates to a new method for the synthesis of monomers and their
+use inter alia in the manufacture of semiconductive polymers. Monomers, in particular,
+asymmetric monomers, such as asymmetric fluorene compounds, are valuable material
+in the manufacture of semiconductive polymers. The know methods for producing
+asymmetric monomers, such as asymmetric fluorene compounds, are expensive due to
+the formation of by-products.</p><p>The method according to the present invention avoids the formation of such by-products
+and is described in more detail in claims 1 to 14.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><b>Field of the Invention</b></heading><p num="0001">This invention relates to a new method for the synthesis of monomers and their use inter
+alia in the manufacture of semiconductive polymers.</p><heading><b>Background of the Invention</b></heading><p num="0002">Electroactive polymers are now frequently used in a number of optical devices such as in
+polymeric light emitting diodes ("PLEDs") as disclosed in WO 90/13148, photovoltaic
+devices as disclosed in WO 96/16449 and photodetectors as disclosed in US 5523555.</p><p num="0003">One class of electroluminescent polymers are polyfluorenes as disclosed in, for
+example, Adv. Mater. 2000 12(23) 1737-1750. These polyfluorenes have the
+advantages of being soluble in conventional organic solvents and have good film forming
+properties. Furthermore, fluorene monomers are amenable to Suzuki or Yamamoto
+polymerisation which enables a high degree of control over the regioregularity of the
+resultant polymer and the formation of block copolymers wherein different blocks have
+different functions as disclosed in WO 00/55927.</p><p num="0004">Each fluorene repeat unit of these polyfluorenes is normally provided with two 9-substituents
+to modifiy the properties of the polymer. For example, alkyl groups have
+been used as 9-substituents for the purpose of increasing the solubility of the polymer.
+Other substituents, such as phenyl, have also been used.</p><p num="0005">The two 9-substituents are often the same for simplicity of manufacture, however this
+means that the fluorene repeat unit is symmetric which has been found to be problematic
+in that polymers comprising symmetrical fluorene repeat units have a tendency to
+aggregate.</p><p num="0006">To overcome this problem, efforts have been directed towards production of asymmetric
+fluorene monomers, i.e. fluorene monomers wherein the two 9-substituents are different,
+as disclosed in WO 00/22026 and DE 19846767. Processes disclosed in these
+documents include reaction of fluorenone or biphenyl-2-carboxylic acid ester with two
+different organometallics. </p><p num="0007">Biphenyl-2-amides are known - see for example WO 00/00374 and US 6329534.
+However, these disclosures do not teach such carboxamides comprising polymerisable
+groups, asymmetric substitution or a method of forming monomers therefrom.</p><p num="0008">Tetrahedron Letters 22(39), 3815-3818, 1981, describes a process of reacting N-methoxy
+amides with organometallic reagents to form ketones. The reaction proceeds
+via a 5-membered intermediate that is resistant to over-reaction to form an alcohol. This
+disclosure is not concerned with the formation of asymmetric systems, polycyclic
+systems or monomers.</p><heading><b>Summary of the Invention</b></heading><p num="0009">The present inventors have found that the prior art methods of forming asymmetric
+compounds, in particular asymmetric fluorene compounds, have drawbacks. When an
+ester starting material is used, the inventors have found that some of the starting
+material may not react at all with the first organometallic, and the proportion that does
+react may go on to react with a second equivalent resulting in a symmetric fluorene.
+Additional by-products may also form. Thus, the desired ketone intermediate is not only
+present in low quantities, it is also difficult to separate from the other products and
+residual starting material.</p><p num="0010">It is therefore a purpose of the present invention to provide a material for production of
+an asymmetric monomer that is not susceptible to over-reaction to form a symmetric
+monomer and that does not present difficulties in isolating the desired product. It is a
+further purpose of the invention to provide a method of forming a monomer via use of
+said material.</p><p num="0011">The present inventors have devised a method of forming polycyclic compounds with
+asymmetric substituents, in particular compounds suitable for use as monomers, via an
+amide starting material. In addition to the reaction of the amide, the method of the
+present invention includes the further steps of reacting the resultant ketone with a further
+equivalent of a different organometallic reagent and the yet further step of a ring closing
+elimination reaction. </p><p num="0012">Accordingly, in a first aspect the invention provides a method according to scheme 1 of
+forming a compound of formula (IV):
+<img id="img-00030001" orientation="unknown" wi="140" img-format="tif" img-content="cf" file="00030001.tif" inline="no" he="102"/>
+said method comprising the steps of:
+<sl><li>a) reacting a compound of formula (I) with a compound of formula S<sup>1</sup>-M to give a
+compound of formula (II);</li><li>b) reacting the compound of formula (II) with a compound of formula S<sup>2</sup>-M to give a
+compound of formula (III); and</li><li>c) eliminating H<sub>2</sub>X from the compound of formula (III) to give a compound of formula
+(IV).</li></sl>
+wherein
+
+Ar<sup>1</sup> and Ar<sup>2</sup> are independently selected from optionally substituted aryl or heteroaryl
+groups;
+
+X is selected from O, S, NH and NR;
+
+L is a bond or a linking group of 1-2 atoms,
+
+R and R<sup>1</sup> are independently selected from optionally substituted alkyl, alkylaryl, arylalkyl,
+aryl and heteroaryl groups;
+ 
+R<sup>2</sup> is selected from the group consisting of alkoxy, aryloxy, arylalkyloxy, alkylaryloxy,
+alkylthio, arylthio, alkylarylthio, arylalkylthio;
+
+H is bound to a carbon atom C' of Ar<sup>2</sup>;
+
+C' and the carbon atom of C=X are separated by 3-5 atoms;
+
+S<sup>1</sup> and S<sup>2</sup> are each selected from optionally substituted alkyl, aryl or heteroaryl groups;
+
+M comprises a metal; and
+
+M is linked to S<sup>1</sup> and S<sup>2</sup> by a carbon-metal bond.</p><p num="0013">Preferably, alkyl is C<sub>1</sub>-C<sub>20</sub>-alkyl which can be each straight-chain, branched or cyclic,
+where one or more non-adjacent CH2 groups may be replaced by oxygen, sulphur,
+- CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup> or -CONR<sup>13</sup>-, in particular preferred methyl,
+ethyl, n-propyl, i-propyl, n-butyl, i-butyl, s-butyl, t-butyl, n-pentyl, s-pentyl, cyclopentyl, n-hexyl,
+cyclohexyl, n-octyl or cyclooctyl, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different
+and are hydrogen or an aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon
+atoms.</p><p num="0014">Preferably, arylalkyl is C<sub>7</sub>-C<sub>20</sub>-arylalkyl, where one or more non-adjacent CH2 groups
+may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup> or
+-CONR<sup>13</sup>-, in particular preferred o-tolyl, m-tolyl, p-tolyl, 2,6-dimethylphenyl, 2,6-diethylphenyl,
+2,6-di-i-propylphenyl, 2,6-di-t-butylphenyl, o-t-butylphenyl, m-t-butylphenyl
+or p-t-butylphenyl, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are hydrogen or an
+aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0015">Preferably, alkylaryl is C<sub>7</sub>-C<sub>20</sub>-alkylaryl, where one or more non-adjacent CH2 groups
+may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup> or
+-CONR<sup>13</sup>-, in particular preferred benzyl, ethylphenyl, propylphenyl, diphenylmethyl,
+triphenylmethyl or naphthalinylmethyl, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and
+are hydrogen or an aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon
+atoms.</p><p num="0016">Preferably, aryl is C<sub>6</sub>-C<sub>20</sub>-aryl, in particular preferred phenyl, biphenyl, naphthyl,
+anthracenyl, triphenylenyl, [1,1';3',1"]terphenyl-2'-yl, binaphthyl or phenanthreny.l</p><p num="0017">Preferably, heteroaryl is C<sub>5</sub>-C<sub>20</sub>-heteroaryl, in particular preferred 2-pyridyl, 3-pyridyl, 4-pyridyl,
+chinolinyl, isochinolinyl, acridinyl, benzochinolinyl or benzoisochinolinyl.</p><p num="0018">Preferably, alkoxy is C<sub>1</sub>-C<sub>20</sub>-alkoxy, where one or more non-adjacent CH2 groups may
+be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup> or
+- CONR<sup>13</sup>-, in particular preferred methoxy, ethoxy, n-propoxy, i-propoxy, n-butoxy, i-butoxy, 
+s-butoxy or t-butoxy, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are
+hydrogen or an aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0019">Preferably, aryloxy is C<sub>6</sub>-C<sub>20</sub>-Aryloxy, in particular preferred phenoxy, naphthoxy,
+biphenyloxy, anthracenyloxy or phenanthrenyloxy.</p><p num="0020">Preferably, arylalkyloxy is C<sub>7</sub>-C<sub>20</sub>-arylalkyloxy where one or more non-adjacent CH2
+groups may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup>
+or -CONR<sup>13</sup>-, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are hydrogen or an
+aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0021">Preferably, alkylaryloxy is C<sub>7</sub>-C<sub>20</sub>-alkylaryloxy, where one or more non-adjacent CH2
+groups may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup>
+or -CONR<sup>13</sup>-, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are hydrogen or an
+aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0022">Preferably, alkylthio is C<sub>1</sub>-C<sub>20</sub>-alkylthio where one or more non-adjacent CH2 groups
+may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup> or
+-CONR<sup>13</sup>- and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are hydrogen or an
+aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0023">Preferably, arylthio is C<sub>6</sub>-C<sub>20</sub>-arylthio.</p><p num="0024">Preferably, alkylarylthio is C<sub>7</sub>-C<sub>20</sub>-alkylarylthio where one or more non-adjacent CH2
+groups may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup>
+or -CONR<sup>13</sup>-, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are hydrogen or an
+aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0025">Preferably, arylalkylthio is C<sub>7</sub>-C<sub>20</sub>-arylalkylthio, where one or more non-adjacent CH2
+groups may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup>
+or-CONR<sup>13</sup>-, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are hydrogen or an
+aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0026">Intermediate products (II) and (III) may or may not be isolated from the reaction mixture
+prior to the subsequent step according to the method of the first aspect of the invention.</p><p num="0027">Preferably, Ar<sup>1</sup> and Ar<sup>2</sup> are each phenyl or substituted phenyl.</p><p num="0028">Preferably, X is O or S.</p><p num="0029">Preferably, L is a bond.</p><p num="0030">Preferably, R is C1-10 alkyl</p><p num="0031">Preferably, R<sup>1</sup> is C1-10 alkyl.</p><p num="0032">Preferably, R<sup>2</sup> is C1-10 alkoxy. </p><p num="0033">Preferably, M is lithium, zinc or Mg-Hal wherein Hal is a halide.</p><p num="0034">Preferably, S<sup>1</sup> and S<sup>2</sup> are independently selected from optionally substituted aryl or alkyl,
+in particular preferred S<sup>1</sup> and S<sup>2</sup> are different from each other.</p><p num="0035">In one preferred embodiment of the first aspect of the invention, Ar<sup>1</sup> and Ar<sup>2</sup> of the
+compound of formula (I) are each substituted with a polymerisable group P.</p><p num="0036">In a second preferred embodiment of the first aspect of the invention, there is a further
+step of providing each of Ar<sup>1</sup> and Ar<sup>2</sup> of the compound of formula (II), (III) or (IV) with a
+polymerisable group P.</p><p num="0037">Preferably, each polymerisable group P is independently selected from a halide,
+(preferably chlorine, bromine or iodine, most preferably bromine, or a boron derivative
+group selected from a boronic acid group, a boronic ester group and a borane group.</p><p num="0038">The method of the first aspect of the invention preferably comprises the step of
+polymerising the compound of formula (IV) by reaction of polymerisable group P.</p><p num="0039">According to one preferred method of polymerisation, each polymerisable group P is a
+halide and the compound of formula (IV) is polymerised in a reaction mixture comprising
+a catalytic amount of a nickel (0) catalyst suitable for catalysing the polymerisation of the
+compound of formula (IV).</p><p num="0040">According to another preferred method of polymerisation, at least 1 polymerisable group
+P is a boron derivative group and the compound of formula (IV) is polymerised in a
+reaction mixture comprising a catalytic amount of a palladium catalyst suitable for
+catalysing the polymerisation of the compound of formula (IV), and a base sufficient to
+convert the boron derivative functional groups into boronate anionic groups.</p><p num="0041">The compound of formula (IV) may or may not be isolated from the reaction mixture in
+which it is formed prior to its polymerisation.</p><p num="0042">In a second aspect, the invention provides a method for the production of an optical
+device or a component for an optical device, which comprises providing a substrate,
+producing a polymer in accordance with the first aspect of the invention and depositing
+the polymer on the substrate. Preferably, the optical device comprises an
+electroluminescent device. </p><p num="0043">In a third aspect, the invention provides an optionally substituted compound of formula
+(V):
+<img id="img-00070001" orientation="unknown" wi="44" img-format="tif" img-content="cf" file="00070001.tif" inline="no" he="36"/>
+wherein Ar<sup>1</sup>, Ar<sup>2</sup>, L, X, R<sup>1</sup> and R<sup>2</sup> are as defined in formula (I) of Scheme 1; P is
+independently selected from a halide, preferably chlorine, bromine or iodine, most
+preferably bromine, or a boron derivative group selected from a boronic acid group, a
+boronic ester group and a borane group, H is bound to a carbon atom C' of Ar<sup>2</sup>; and C'
+and the carbon atom of C=X are separated by 3-5 atoms.</p><p num="0044">Preferably, each Ar<sup>1</sup> and Ar<sup>2</sup> is phenyl or substituted phenyl.</p><p num="0045">Preferably, X is O, S.</p><p num="0046">Preferably, L is a bond.</p><p num="0047">Preferably, each P is independently selected from a halide or a boron derivative group
+selected from a boronic acid group, a boronic ester group and a borane group.</p><p num="0048">Preferably, R<sup>1</sup> is C1-10 alkyl.</p><p num="0049">Preferably, R<sup>2</sup> is C1-10 alkoxy.</p><p num="0050">Preferably, the compound of the third aspect of the invention is a compound of formula
+(VI):
+<img id="img-00070002" orientation="unknown" wi="76" img-format="tif" img-content="cf" file="00070002.tif" inline="no" he="43"/>
+wherein P, R<sup>1</sup> and R<sup>2</sup> are as defined in formula (V) above.</p><p num="0051">The present inventors have surprisingly found that compounds of formula (IV) may be
+prepared according to the method of the invention without over-reaction to form
+symmetric compounds and with the product being obtained in high purity. In particular,
+compounds of formula (IV) may be prepared using compounds of formula (VI). </p><p num="0052">Furthermore, the present inventors have surprisingly found that the method of the
+present invention is effective with standard organometallic reagents (such as
+organolithium or Grignard reagents) whereas the prior art methods may only be effective
+with the more reactive reagents such as organolithium. Finally, the present inventors
+have found that a wider range of substituents S<sup>1</sup> and / or S<sup>2</sup> may be provided by the
+method of the invention than by the aforementioned prior art methods. As a result, a
+straightforward route to a wider range of asymmetric monomers is made available which
+in turn provides greater flexibility in terms of synthesis of polymers and copolymers with
+improved solubility, morphology, etc.</p><heading><b>Detailed Description of the Invention</b></heading><p num="0053">The method of the invention may be employed to prepare symmetric or asymmetric
+compounds, in particular symmetric or asymmetric fluorenes, wherein both substituents
+are aromatic, in particular phenyl; both substituents are aliphatic, in particular C1-10
+branched or linear alkyl; or one substituent is aromatic and the other substituent is
+aliphatic. Accordingly, a wide range of materials with differing substituents, and
+therefore different electronic properties, may be prepared.</p><p num="0054">The materials prepared in accordance with the invention may be useful as monomers, in
+particular monomers for the preparation of electroactive, more particularly
+semiconducting, polymers. These polymers may be homopolymers or copolymers.</p><p num="0055">The monomers according to the invention preferably comprise only two reactive groups
+P in order that linear polymers be produced, however monomers with more than two P
+groups, e.g. for production of cross-linked polymers, are also within the scope of the
+invention.</p><p num="0056">The asymmetric monomers according to the invention may be formed from a range of
+combinations of groups S<sup>1</sup> and S<sup>2</sup> including, but not limited to the following:
+<sl><li>S<sup>1</sup> = unsubstituted phenyl; S<sup>2</sup> = phenyl bearing one or more alkyl or alkoxy substituents;</li><li>S<sup>1</sup> and S<sup>2</sup> are both phenyl, each bearing a different alkyl or alkoxy substituent and / or
+the same alkyl or alkoxy groups substituted in different positions;</li><li>S<sup>1</sup> = optionally substituted phenyl or heteroaryl; S<sup>2</sup> = optionally substituted alkyl;</li><li>S<sup>1</sup> = optionally substituted phenyl; S<sup>2</sup> = optionally substituted heteroaryl.</li></sl></p><p num="0057">The compound of formula (IV) according to the invention is preferably a fluorene bearing
+substituents S<sup>1</sup> and S<sup>2</sup>.</p><p num="0058">The polymers prepared using monomers according to the invention may be
+homopolymers or copolymers. A wide range of co-monomers for polymerisation with the 
+monomers of the invention will be apparent to the skilled person. Examples of
+comonomers include triarylamines as disclosed in, for example, WO 99/54385 and
+heteroaryl units as disclosed in, for example, WO 00/46321 and WO 00/55927.</p><p num="0059">Particularly preferred triarylamine repeat units for such copolymers include units of
+formulae 1-6:
+<img id="img-00090001" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00090001.tif" inline="no" he="44"/><img id="img-00090002" orientation="unknown" wi="162" img-format="tif" img-content="cf" file="00090002.tif" inline="no" he="40"/><img id="img-00090003" orientation="unknown" wi="162" img-format="tif" img-content="cf" file="00090003.tif" inline="no" he="43"/>
+X and Y may be the same or different and are substituent groups. A, B, C and D may be
+the same or different and are substituent groups. It is preferred that one or more of X, Y,
+A, B, C and D is independently selected from the group consisting of alkyl, aryl,
+perfluoroalkyl, thioalkyl, cyano, alkoxy, heteroaryl, alkylaryl and arylalkyl groups. One or
+more of X, Y, A, B, C and D also may be hydrogen. It is preferred that one or more of X,
+Y, A, B, C and D is independently an unsubstituted, isobutyl group, an n-alkyl, an n-alkoxy
+or a trifluoromethyl group because they are suitable for helping to select the
+HOMO level and/or for improving solubility of the polymer. </p><p num="0060">Particularly preferred heteroaryl repeat units for such copolymers include units of
+formulae 7-24:
+<img id="img-00100001" orientation="unknown" wi="61" img-format="tif" img-content="cf" file="00100001.tif" inline="no" he="51"/>
+wherein R<sub>3</sub> and R<sub>4</sub> are the same or different and are each independently a substituent
+group. Preferably, one or more of R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub> or R<sub>4</sub> may be selected from hydrogen, alkyl,
+aryl, perfluoroalkyl, thioalkyl, cyano, alkoxy, heteroaryl, alkylaryl, or arylalkyl. These
+groups are preferred for the same reasons as discussed in relation to X, Y, A, B, C and
+D above. Preferably, for practical reasons, R<sub>3</sub> and R<sub>4</sub> are the same. More preferably,
+they are the same and are each a phenyl group.
+<img id="img-00100002" orientation="unknown" wi="159" img-format="tif" img-content="cf" file="00100002.tif" inline="no" he="53"/><img id="img-00100003" orientation="unknown" wi="162" img-format="tif" img-content="cf" file="00100003.tif" inline="no" he="51"/><img id="img-00110001" orientation="unknown" wi="155" img-format="tif" img-content="cf" file="00110001.tif" inline="no" he="70"/><img id="img-00110002" orientation="unknown" wi="156" img-format="tif" img-content="cf" file="00110002.tif" inline="no" he="57"/><img id="img-00110003" orientation="unknown" wi="156" img-format="tif" img-content="cf" file="00110003.tif" inline="no" he="69"/><img id="img-00120001" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00120001.tif" inline="no" he="49"/><img id="img-00120002" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00120002.tif" inline="no" he="45"/><img id="img-00120003" orientation="unknown" wi="85" img-format="tif" img-content="cf" file="00120003.tif" inline="no" he="50"/><img id="img-00120004" orientation="unknown" wi="132"  img-format="tif" img-content="cf" file="00120004.tif" inline="no" he="68"/><img id="img-00130001"  orientation="unknown"  wi="73"  img-format="tif" img-content="cf" file="00130001.tif" inline="no" he="50"/><img id="img-00130002" orientation="unknown" wi="123" img-format="tif" img-content="cf" file="00130002.tif" inline="no" he="56"/>
+wherein each R<sup>5</sup> is independently selected from hydrogen, optionally substituted alkyl,
+alkoxy, aryl, heteroaryl, arylalkyl, alkylaryl, aryloxy, arylalkyloxy or alkylaryloxy.</p><p num="0061">Preferably, optionally substituted alkyl is C<sub>1</sub>-C<sub>20</sub>-alkyl, which can be each straight-chain,
+branched or cyclic, where one or more non-adjacent CH2 groups may be replaced by
+oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup> or -CONR<sup>13</sup>-, in particular
+preferred methyl, ethyl, n-propyl, i-propyl, n-butyl, i-butyl, s-butyl, t-butyl, n-pentyl, s-pentyl,
+cyclopentyl, n-hexyl, cyclohexyl, n-octyl or cyclooctyl, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are
+identical or different and are hydrogen or an aliphatic or aromatic hydrocarbon radical
+having 1 to 20 carbon atoms.</p><p num="0062">Preferably, arylalkyl is C<sub>7</sub>-C<sub>20</sub>-arylalkyl, where one or more non-adjacent CH2 groups
+may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup> or
+-CONR<sup>13</sup>-, in particular preferred o-tolyl, m-tolyl, p-tolyl, 2,6-dimethylphenyl, 2,6-diethylphenyl,
+2,6-di-i-propylphenyl, 2,6-di-t-butylphenyl, o-t-butylphenyl, m-t-butylphenyl
+or p-t-butylphenyl, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are hydrogen or an
+aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0063">Preferably, alkylaryl is C<sub>7</sub>-C<sub>20</sub>-alkylaryl, where one or more non-adjacent CH2 groups
+may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup> or 
+- CONR<sup>13</sup>-, in particular preferred benzyl, ethylphenyl, propylphenyl, diphenylmethyl,
+triphenylmethyl or naphthalinylmethyl, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and
+are hydrogen or an aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon
+atoms.</p><p num="0064">Preferably, aryl is C<sub>6</sub>-C<sub>20</sub>-aryl, in particular preferred phenyl, biphenyl, naphthyl,
+anthracenyl, triphenylenyl, [1,1';3',1"]terphenyl-2'-yl, binaphthyl or phenanthreny.l</p><p num="0065">Preferably, heteroaryl is C<sub>5</sub>-C<sub>20</sub>-heteroaryl, in particular preferred 2-pyridyl, 3-pyridyl, 4-pyridyl,
+chinolinyl, isochinolinyl, acridinyl, benzochinolinyl or benzoisochinolinyl.</p> <p num="0066">Preferably, alkoxy is C<sub>1</sub>-C<sub>20</sub>-alkoxy, where one or more non-adjacent CH2 groups may
+be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup> or
+-CONR<sup>13</sup>-, in particular preferred methoxy, ethoxy, n-propoxy, i-propoxy, n-butoxy, i-butoxy,
+s-butoxy or t-butoxy, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are
+hydrogen or an aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0067">Preferably, aryloxy is C<sub>6</sub>-C<sub>20</sub>-Aryloxy, in particular preferred phenoxy, naphthoxy,
+biphenyloxy, anthracenyloxy or phenanthrenyloxy.</p><p num="0068">Preferably, arylalkyloxy is C<sub>7</sub>-C<sub>20</sub>-arylalkyloxy where one or more non-adjacent CH2
+groups may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R <sup>12</sup>)<sup>+</sup>-A<sup>-</sup>
+or -CONR<sup>13</sup>-, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are hydrogen or an
+aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0069">Preferably, alkylaryloxy is C<sub>7</sub>-C<sub>20</sub>-alkylaryloxy, where one or more non-adjacent CH2
+groups may be replaced by oxygen, sulphur, -CO-, -COO-, -O-CO-, NR<sup>10</sup>-, -(NR<sup>11</sup>R<sup>12</sup>)<sup>+</sup>-A<sup>-</sup>
+or -CONR<sup>13</sup>-, and R<sup>10</sup>, R<sup>11</sup>, R<sup>12</sup>, R<sup>13</sup> are identical or different and are hydrogen or an
+aliphatic or aromatic hydrocarbon radical having 1 to 20 carbon atoms.</p><p num="0070">The polymer may have hole transporting, electron transporting and / or emissive
+properties. The polymer may have one or more of these properties. Where the polymer
+has more than one of these properties, different properties may be provided by different
+segments of the polymer, in particular segments of the polymer backbone as described
+in WO 00/55927 or pendant groups as described in WO 02/26859. Alternatively, if the
+polymer of the invention has only one or two of the properties of hole transport, electron
+transport and emission, it may be blended with one or more further polymers having the
+remaining required property or properties.</p> <p num="0071">Preferred methods for polymerisation of these monomers are Suzuki polymerisation as
+described in, for example, WO 00/53656 and Yamamoto polymerisation as described in,
+for example, T. Yamamoto,"Electrically Conducting And Thermally Stable π-Conjugated
+Poly (arylene) s Prepared by Organometallic Processes", Progress in 
+Polymer Science 1993, 17, 1153-1205 or Stille coupling. For example, in the synthesis
+of a linear polymer by Yamamoto polymerisation, a monomer having two reactive halide
+groups P is used. Similarly, according to the method of Suzuki polymerisation, at least
+one reactive group P is a boron derivative group.</p> <p num="0072">Suzuki polymerisation may be used to prepare regioregular, block and random
+copolymers. In particular, random copolymers may be prepared when one reactive
+group P is a halogen and the other reactive group P is a boron derivative group.
+Alternatively, block or regioregular, in particular AB, copolymers may be prepared when
+both reactive groups of a first monomer are boron and both reactive groups of a second
+monomer are halide.</p> <p num="0073">Polymers made in accordance with the invention may be used in any of the
+aforementioned optical devices. In forming these devices, the polymer may deposited
+from solution by any one of a range of techniques including in particular techniques such
+as spin-coating, inkjet printing as disclosed in EP 0880303, laser transfer as described in
+EP 0851714, flexographic printing, screen printing and doctor blade coating.</p><p num="0074">A PLED comprises an electroluminescent polymer between an anode and a cathode
+and is supported on a substrate.</p><p num="0075">Optical devices tend to be sensitive to moisture and oxygen. Accordingly, the substrate
+preferably has good barrier properties for prevention of ingress of moisture and oxygen
+into the device. The substrate is commonly glass, however alternative substrates may
+be used, in particular where flexibility of the device is desirable. For example, the
+substrate may comprise a plastic as in US 6268695 which discloses a substrate of
+alternating plastic and barrier layers or a laminate of thin glass and plastic as disclosed
+in EP 0949850.</p><p num="0076">Although not essential, the presence of a layer of organic hole injection material over the
+anode is desirable as it assists hole injection from the anode into the layer or layers of
+semiconducting polymer. Examples of organic hole injection materials include PEDT /PSS
+as disclosed in EP 0901176 and EP 0947123, or polyaniline as disclosed in US
+5723873 and US 5798170.</p><p num="0077">The cathode is selected in order that electrons are efficiently injected into the device and
+as such may comprise a single conductive material such as a layer of aluminium.
+Alternatively, it may comprise a plurality of metals, for example a bilayer of calcium and
+aluminium as disclosed in WO 98/10621, or a thin layer of dielectric material such as
+lithium fluoride to assist electron injection as disclosed in, for example, WO 00/48258.</p><p num="0078">The device is preferably encapsulated with an encapsulant to prevent ingress of
+moisture and oxygen. Suitable encapsulants include a sheet of glass, films having
+suitable barrier properties such as alternating stacks of polymer and dielectric as 
+disclosed in, for example, WO 01/81649 or an airtight container as disclosed in, for
+example, WO 01/19142.</p><p num="0079">In a practical device, at least one of the electrodes is semi-transparent in order that light
+may be absorbed (in the case of a photoresponsive device) or emitted (in the case of a
+PLED). Where the anode is transparent, it typically comprises indium tin oxide.
+Examples of transparent cathodes are disclosed in, for example, GB 2348316.</p><p num="0080">The PLED may be a passive matrix or active matrix device.</p><heading><b><u style="single">Examples</u></b></heading><heading><b><u style="single">2-(N-methyl-N-methoxyamido)-4,4'-dibromobiphenyl</u></b></heading><p num="0081"><img id="img-00160001" orientation="unknown" wi="164" img-format="tif" img-content="cf" file="00160001.tif" inline="no" he="51"/><i>NMR</i> uses a Varian 400MHz system, using CDCl<sub>3</sub> (unless indicated otherwise) with a
+TMS standard.</p><heading><b>(1) 2,7-Dibromofluorenone</b></heading><p num="0082">To a 3L round bottom flask, equipped with reflux condenser, off-gas scrubber,
+mechanical stirrer and nitrogen bubbler was added fluorenone (100.006g, 0.555 mol),
+phosphorus pentoxide (110.148g, 0.776 mol) and trimethylphosphite (1200 mL). Under
+mechanical stirring, a solution of bromine (63 mL, 1.23 mol) in trimethylphosphite (200
+mL) was quickly added. This clear solution was then heated for 22 hours at 120 °C. The
+mixture was allowed to cool to room temperature, then poured into 3L of water. When
+sodium thiosulfate was added (50.045g) the mixture turned yellow. Stirring was
+maintained for 1 hour, then the yellow solid was filtered. This solid was heated in
+methanol to remove the mono-brominated compound and gave 176.183g (98% pure by
+HPLC, 94% yield).</p><p num="0083"><sup>1</sup>H NMR (CDCl<sub>3</sub>) 7.73 (2H, d, <i>J</i> 2.0), 7.61 (2H, dd, <i>J</i> 7.6, 2.0), 7.36 (2H, d, <i>J</i> 8.0) ; <sup>13</sup>C
+NMR (CDCl<sub>3</sub>) 142.3, 137.5, 135.3, 127.9, 123.3, 121.8, 109.8. </p><heading><b>(2) 4,4'-Dibromo-2-carboxylic acid-1,1'-biphenyl</b></heading><p num="0084">To a 5L 3-necked flask, equipped with reflux condenser, nitrogen bubbler and overhead
+mechanical stirrer, was added 2,7-dibromofluorenone (533.0g, 1.582 mol), potassium
+hydroxide (finely powdered flakes, 300.0g, 5.357 mol, 3.39 eq.) and toluene (3000 mL).
+The resulting mixture was heated at 120 °C for six hours then left to cool to room
+temperature. During this time, the appearance of the solution changed from a bright
+orange thin suspension into a completely white, thick suspension.</p><p num="0085">In a 10L beaker, equipped with mechanical stirrer was added deionised water and then
+the cooled suspension was added over 3 minutes. The residual material in the flask was
+rinsed using extra toluene (2 x 500mL). The resulting mixture was stirred at room
+temperature for 30 mins, allowing the potassium salt to dissolve. The toluene phase was
+removed and extracted twice with deionised water (1000mL). The toluene phase was
+then discarded and the aqueous phases combined and acidified to pH 1-3 using
+concentrated hydrochloric acid (10M) added dropwise from a dropping funnel. During
+this time, the product evolved as a white suspension. The mixture was allowed to settle
+and the excess aqueous removed by decantation. The resulting product slurry was then
+filtered and the cake rinsed with fresh water (1000mL) until the liquors were about pH 3-4.
+The cake was air dried and then dried in vacuo for 18h at 65°C. The product was
+afforded as an off-white solid (468g, 83%). <sup>1</sup>H NMR ((CD<sub>3</sub>)<sub>2</sub>CO) 8.00 (1H, d, <i>J</i> 2.0), 7.77
+(1H, dd, <i>J</i> 8.0, 2.4), 7.57 (2H, d, <i>J</i> 8.0), 7.34 (1H, d, <i>J</i> 8.4), 7.29 (2H, d, <i>J</i> 8.8) ; <sup>13</sup>C NMR
+((CD<sub>3</sub>)<sub>2</sub>CO) 167.1, 140.4, 139.8, 134.2, 133.5, 132.8, 132.7, 131.2, 130.6, 121.4, 121.1.</p><heading><b>(3) 4,4'-Dibromo-2-methyl ester-1,1'-biphenyl</b></heading><p num="0086">To a 5L 3-neck round-bottom flask, equipped with reflux condenser, nitrogen bubbler
+and mechanical stirrer was added 4,4-dibromo-2-carboxylic (467.8g, 1.264 mol) and
+methanol (3000 mL). Sulfuric acid (50 mL) was then added cautiously and the mixture
+then heated to 90 °C for 21 hours. The suspended solid had all dissolved after this time
+to form a transparent solution. The solution was allowed to cool slightly (by about 10°C)
+and then solid sodium carbonate (~75g) added portionwise, until any sign of
+effervescence ceased. The hot solution was stirred for 5 mins then the stirrer stopped
+and the solids allowed to settle. The hot solution was then decanted into a 5L round
+bottom flask equipped with mechanical stirrer (filtering was found to cause rapid
+crystallisation of the product) and allowed to crystallise overnight. The solid was
+collected by filtration and washed with cold methanol. The solid was air dried and then
+dried in vacuo at 45°C. The product was isolated as a white solid (354g, 76%).</p><p num="0087"><sup>1</sup>H NMR (CDCl<sub>3</sub>) 7.99 (1H, d, <i>J</i> 2.0), 7.64 (1H, dd, <i>J</i> 8.0, 1.6), 7.51 (2H, d, <i>J</i> 8.4), 7.19
+(1H, d, <i>J</i> 8.8), 7.13 (2H, d, <i>J</i> 8.8) , 3.67 (3H, s) ; <sup>13</sup>C NMR (CDCl<sub>3</sub>) 167.1, 140.3, 139.1, 
+134.4, 132.9, 132.1, 132.0, 131.3, 129.8, 121.9, 121.5, 52.3. GCMS: M<sup>+</sup> = 370, purity
+99.5%+.</p><p num="0088"><b>Literature ref: J.Am.Chem.Soc., 114, 15 (1992)</b></p><heading><b>(4) Amide intermediate: 2-(N,O-dimethylamido)-4,4'-dibromo-1,1'-biphenyl</b></heading><p num="0089">To a 5L 3-neck round-bottom flask, equipped with reflux condenser, nitrogen bubbler,
+500mL graduated pressure-equalised addition funnel, internal low temperature
+thermometer (-100 to +30°C) and mechanical stirrer was added 4,4-dibromo-2-methyl
+ester-1,1'-biphenyl (716.49g, 1.936mol, 1.0 eq.) in anhydrous THF (1500mL). To the
+stirred solution was added N,O-dimethylhydroxylamine hydrochloride (288g, 3.0 mol,
+1.55 eq.) and the resulting suspension cooled to -20°C. <i>I</i>so-propylmagnesium chloride
+(2.0M in THF) was then added over about 1h, ensuring the internal temperature of the
+mixture did not rise about -5°C. The resulting solution was then allowed to warm to
+ambient temperature over about 16h. The reaction mixture was carefully diluted with
+toluene (2000mL) and then quenched into a 10L beaker containing 5L of 2M aqueous
+hydrochloric acid solution. The resulting mixture was stirred at ambient for 30 mins and
+the toluene phase separated. The aqueous phase was extracted with toluene (2000mL)
+and the organic phases combined and evaporated to dryness in vacuo. The resulting
+product was then triturated from MeOH (1500mL). The product (white solid) was
+collected by filtration and washed with cold MeOH (500mL). The product was then dried
+for 16h in vacuo at 45°C. The product was afforded as a white solid (521g, 67%), purity
+99.5%+ by GCMS.</p><p num="0090">This amide, hereinafter referred to as amide 1 was used to prepare a range of
+asymmetric compounds according to the following scheme, wherein S1, S2 and M are
+as defined in the claims.
+<img id="img-00180001" orientation="unknown" wi="133" img-format="tif" img-content="cf" file="00180001.tif" inline="no" he="82"/></p><heading><b><u style="single">Ketone 1: 4,4'-Dibromo-2-phenylketone-1,1'-biphenyl</u></b></heading><p num="0091"><img id="img-00190001" orientation="unknown" wi="54" img-format="tif" img-content="cf" file="00190001.tif" inline="no" he="39"/></p><p num="0092">To a 3L, 3-necked round bottom flask, equipped with mechanical stirrer, low temperature
+thermometer (-100 to +30°C), nitrogen inlet and bubbler, and 500mL graduated
+pressure-equalising dropping funnel, was added amide 1 (275.67g, 0.691 mol, 1.0 eq.)
+and anhydrous THF (500mL). The resulting suspension was stirred under nitrogen and
+cooled to -5°C (MeOH-Cardice) and then tert-butylphenylmagnesium chloride (2M in
+diethyl ether, 380mL, 0.76 mol, 1.1 eq.) was added at such a rate as to maintain the
+internal temperature of the vessel between -5 and 0°C. The resulting suspension was
+then allowed to warm to room temperature and stirred for 16h.</p><p num="0093">The reaction mixture was carefully diluted with toluene (1000mL) poured into a
+5L beaker containing 2M aqueous hydrochloric acid solution (2000mL) and the mixture
+stirred by a mechanical stirrer for 30 mins. The stirrer was stopped and the layers
+allowed to settle. The organic phase was removed by residual vacuum transfer and the
+aqueous phase extracted with a further 1000mL of toluene. The organic phases were
+combined and concentrated to dryness in vacuo on a rotary evaporator. The resulting
+crude product was suspended in MeOH (1250mL) and stirred at room temperature for
+16h (trituration). The product was then recovered by filtration using Buchner apparatus
+and the cake washed with fresh MeOH (2 x 350mL). The cake was air dried and the
+solid then dried at 45°C in vacuo for 16h.</p><p num="0094">The product ketone was afforded as a white solid (266.95g, 74%). The product
+was analysed by GC-MS and found to display m/z 472 (M+) and a single peak
+(estimated purity 99.8%). </p><heading><b><u style="single">Asymmetric compound 1 precursor: 4,4'-Dibromo-2-phenyl(4-tert-butylphenyl)hydroxymethyl-1,1'-biphenyl</u></b></heading><p num="0095"><img id="img-00200001" orientation="unknown" wi="55" img-format="tif" img-content="cf" file="00200001.tif" inline="no" he="38"/></p><p num="0096">To a 250mL round bottomed flask, equipped with low temperature thermometer (-100
+to +30°C), magnetic stirrer bar, 100mL graduated pressure-equalised dropping
+addition funnel and nitrogen inlet and bubbler was added bromobenzene (7.98g,
+5.35mL, 50.82mmol, 1.2eq.) and anhydrous THF (50mL) and the resulting solution
+cooled to -72°C (acetone-cardice). N-Butyllithium (2.5M in hexanes) (22.02mL,
+55.06mmol, 1.3eq.) was added dropwise, maintaining the internal temperature below -
+65°C. After complete addition, the solution was maintained at -70°C and stirred for 1h. A
+solution of ketone 1 (20.0g, 42.35mmol, 1.0eq.) in anhydrous THF (50.0mL) was added,
+keeping the internal temperature below -60°C. The solution was allowed to warm to
+room temperature over 4h, then quenched into 2M aqueous hydrochloric acid solution
+(250mL). The products were extracted into toluene (2 x 250mL), the organic phases
+combined and evaporated to dryness in vacuo on a rotary evaporator. IPA was added
+(200mL) and the product crystallised over 16h. The product was recovered by filtration
+and the cake washed with cold IPA (50mL). The product was then air dried and dried at
+45°C in vacuo for 16h. A second crop was crystallised from the liquors.
+
+The product was afforded as a white solid (18.63g, 80%). The product was analysed by
+GCMS and displayed an m/z-H<sub>2</sub>O peak at m/z 532. Purity estimated at 99%+.</p><heading><b><u style="single">Asymmetric compound 1: 9-phenyl-9'-(tert-butylphenyl-2,7-dibromofluorene</u></b></heading><p num="0097"><img id="img-00200002" orientation="unknown" wi="54" img-format="tif" img-content="cf" file="00200002.tif" inline="no" he="37"/></p><p num="0098">To a 250mL round bottomed flask, equipped with magnetic stirrer bar, reflux
+condenser and nitrogen inlet and bubbler was added asymmetric compound 1 precursor
+(6.87g, 12.5mmol, 1.0 eq.) and glacial acetic acid (100mL). To the stirred suspension at 
+room temperature was added concentrated hydrochloric acid (2mL) and the resulting
+suspension heated to reflux. After 5h at reflux, in-process check indicated the reaction to
+be complete (GCMS). The solution was allowed to cool to room temperature and poured
+into water (200mL) with stirring for 10 mins. This caused precipitation of the product
+which was recovered by filtration. The filter cake was washed with water (2 x 100 mL)
+and then displacement wash with MeOH (100mL). The crude product was recrystallised
+from a mixture of acetonitrile and toluene to afford asymmetric compound 1 as a white
+solid (3.2g, 48%).</p><p num="0099">HPLC indicated 99.2% purity. GCMS indicated the correct product (m/z 532).</p><heading><b><u style="single">Asymmetric Compound 2 Precursor: 4,4'-Dibromo-2-biphenyl(tert-butylphenyl)hydroxymethyl-1,1'-biphenyl)</u></b></heading><p num="0100"><img id="img-00210001" orientation="unknown" wi="62" img-format="tif" img-content="cf" file="00210001.tif" inline="no" he="42"/></p><p num="0101">To a 250mL round bottomed flask, equipped with low temperature thermometer (-100
+to +30°C), magnetic stirrer bar, 100mL graduated pressure-equalised dropping
+addition funnel and nitrogen inlet and bubbler was added 4-bromobiphenyl (15.99g,
+68.6mmol, 1.2eq.) and anhydrous THF (100mL) and the resulting solution cooled to -
+72°C (acetone-Cardice). N-Butyllithium (2.5M in hexanes) (29.73mL, 74.30mmol, 1.3eq.)
+was added dropwise, maintaining the internal temperature below -65°C. After complete
+addition, the solution was maintained at -70°C and stirred for 1h. A solution of ketone 1
+(27.0g, 57.2mmol, 1.0eq.) in anhydrous THF (75mL) was added, keeping the internal
+temperature &lt;-60°C. The solution was allowed to warm to RT over 4h, and then
+quenched into 2M aqueous hydrochloric acid solution (500mL). The products were
+extracted into toluene (2 x 350mL), and the organic phases combined and washed to
+neutrality with water (3 x 500mL). The organic phases were combined and evaporated to
+dryness in vacuo on a rotary evaporator. MeCN was added (200mL) and the product
+crystallised over 16h. The product was recovered by filtration and the cake washed with
+cold MeCN (50mL). The product was air dried and then dried at 45°C in vacuo for 16h. A
+second crop was crystallised from the liquors. </p><p num="0102">The product was afforded as a white solid (26.5g, 74%). The product was
+analysed by GCMS and displayed an m/z-H<sub>2</sub>O peak at m/z 611. Purity estimated at
+95%+.</p><heading><b><u style="single">Asymmetric compound 2: 9-biphenyl-9-(4-tert-butylphenyl)-2,7-dibromofluorene</u></b></heading><p num="0103"><img id="img-00220001" orientation="unknown" wi="56" img-format="tif" img-content="cf" file="00220001.tif" inline="no" he="42"/></p><p num="0104">To a 250mL round bottomed flask, equipped with magnetic stirrer bar, reflux
+condenser and nitrogen inlet and bubbler was added the asymmetric compound 2
+precursor (26g, 41.5mmol, 1.0 eq.) and glacial acetic acid (500mL). To the stirred
+suspension at room temperature was added concentrated hydrochloric acid (1mL) and
+the resulting suspension heated to reflux. After 2h at reflux, in-process check indicated
+the reaction to be complete (GCMS). The solution was allowed to cool to room
+temperature and poured into water (2000mL) with stirring for 10 mins. This caused
+precipitation of the product which was recovered by filtration. The filter cake was washed
+with water (3 x 1000 mL) and then displacement wash with MeOH (500mL). The crude
+product was recrystallised from a mixture of acetonitrile and toluene to afford the product
+as a white solid (13.7g, 54%). HPLC indicated 99.42% purity. GCMS indicated the
+correct product (m/z 609).</p><heading><b><u style="single">Asymmetric compound 3 precursor: 4,4'-Dibromo-2-(4'-tert-butyl-1,1'-biphenyl)-(tert-butylphenyl)hydroxymethyl-1,1'-biphenyl</u></b></heading><p num="0105"><img id="img-00220002" orientation="unknown" wi="68" img-format="tif" img-content="cf" file="00220002.tif" inline="no" he="58"/></p><p num="0106">To a 500mL round bottomed flask, equipped with low temperature thermometer (-100
+to +30°C), mechanical stirrer, 100mL graduated pressure-equalised dropping
+addition funnel and nitrogen inlet and bubbler was added 4-tert-butyl-4'-bromo-1,1'-biphenyl
+(11.36g, 39.28mmol, 1.2eq.) and anhydrous THF (100mL) and the resulting
+solution cooled to -72°C (acetone-Cardice). N-Butyllithium (2.5M in hexanes) (21.28mL,
+42.55mmol, 1.3eq.) was added dropwise, maintaining the internal temperature below -
+65°C. After complete addition, the solution was maintained at -70°C and stirred for 1h. A
+solution of ketone 1 (15.45g, 32.73mmol, 1.0eq.) in anhydrous THF (125.0mL) was
+added, keeping the internal temperature &lt;-60°C. The solution was allowed to warm to
+RT over 4h, then quenched into 2M aqueous hydrochloric acid solution (500mL). The
+products were extracted into toluene (2 x 500mL), the organic phases combined and
+washed with water to neutrality (3 x 500mL). The toluene phase was evaporated to
+dryness in vacuo on a rotary evaporator. MeCN was added (200mL) and the product
+crystallised over 16h. The product was recovered by filtration and the cake washed with
+cold IPA (50mL). The product was then air dried and dried at 45°C in vacuo for 16h. A
+second crop was crystallised from the liquors.</p><p num="0107">The product was afforded as a white solid (14g, 52%). Purity estimated at 99%+.</p><heading><b><u style="single">Asymmetric compound 3: 9-(4'-tert-butyl-1,1'-biphenyl)-9-(4-tert-butylphenyl)-2,7-dibromofluorene</u></b></heading><p num="0108"><img id="img-00230001" orientation="unknown" wi="71" img-format="tif" img-content="cf" file="00230001.tif" inline="no" he="49"/></p><p num="0109">To a 1L round bottomed flask, equipped with magnetic stirrer bar, reflux
+condenser and nitrogen inlet and bubbler was added asymmetric compound 3 precursor
+(14g, 20.5mmol, 1.0 eq.) and glacial acetic acid (500mL). To the stirred suspension at
+room temperature was added concentrated hydrochloric acid (2mL) and the resulting
+suspension heated to reflux. After 3h at reflux, in-process check indicated the reaction to
+be complete (GCMS). The solution was allowed to cool to room temperature and poured
+into water (2000mL) with stirring for 10 mins. This caused precipitation of the product
+which was recovered by filtration. The filter cake was washed with water (2 x 1000 mL). 
+The crude product was recrystallised from a mixture of acetonitrile and toluene to afford
+asymmetric compound 3 as a white solid (10.63g, 78%).</p><p num="0110">HPLC indicated 99.6% purity. GCMS indicated the correct product (m/z 664).</p><heading><b><u style="single">Asymmetric compound 4 precursor: 4,4'-dibromo-2-(4-tert-butylphenyl)-2-thienyl-hydroxymethyl-1,1'-biphenyl</u></b></heading><p num="0111"><img id="img-00240001" orientation="unknown" wi="53" img-format="tif" img-content="cf" file="00240001.tif" inline="no" he="43"/></p><p num="0112">To a 500mL round bottomed flask, equipped with low temperature thermometer (-100
+to +30°C), mechanical stirrer, 100mL graduated pressure-equalised dropping
+addition funnel and nitrogen inlet and bubbler was added 2-bromothiophene (6.21g,
+38.11 mmol, 1.2eq.) and anhydrous THF (100mL) and the resulting solution cooled to -
+72°C (acetone-cardice). N-Butyllithium (2.5M in hexanes) (20.64mL, 41.29mmol, 1.3eq.)
+was added dropwise, maintaining the internal temperature below -65°C. After complete
+addition, the solution was maintained at -70°C and stirred for 1h. A solution of ketone 1
+(15.0g, 31.76mmol, 1.0eq.) in anhydrous THF (125.0mL) was added, keeping the
+internal temperature &lt;-60°C. The solution was allowed to warm to RT over 4h, then
+quenched into 2M aqueous hydrochloric acid solution (500mL). The products were
+extracted into toluene (2 x 300mL), the organic phases combined and washed with water
+to neutrality (3 x 500mL). The toluene phase was evaporated to dryness in vacuo on a
+rotary evaporator. The product was purified by column chromatography using a mixture
+of dichloromethane and hexanes (1 : 1).</p><p num="0113">The product was afforded as a red solid (15g, 72%). The product was analysed
+by GCMS and displayed an m/z-H<sub>2</sub>O peak at m/z 538. Purity estimated at 96.8%+. </p><heading><b><u style="single">Asymmetric compound 4: 9-(4-tert-butylphenyl)-9-thien-2-yl-2,7-dibromofluorene</u></b></heading><p num="0114"><img id="img-00250001" orientation="unknown" wi="64" img-format="tif" img-content="cf" file="00250001.tif" inline="no" he="37"/></p><p num="0115">To a 500mL round bottomed flask, equipped with magnetic stirrer bar, reflux
+condenser and nitrogen inlet and bubbler was added the asymmetric compound 4
+precursor (15.1g, 27.15mmol, 1.0 eq.) and glacial acetic acid (500mL). To the stirred
+suspension at room temperature was added concentrated hydrochloric acid (2mL) and
+the resulting suspension heated to reflux. After 4h at reflux, in-process check indicated
+the reaction to be complete (GCMS). The solution was allowed to cool to room
+temperature and poured into water (1000mL) with stirring for 10 mins. This caused
+precipitation of the product which was recovered by filtration. The filter cake was washed
+with water (2 x 1000 mL). The crude product was triturated from hexanes to afford
+asymmetric compound 4 as a dark solid (14g, 90%).</p><p num="0116">HPLC indicated &gt;80% purity.</p><heading><b><u style="single">Ketone 2: 4,4'-dibromo-2-n-octylketone-1,1'-biphenyl</u></b></heading><p num="0117"><img id="img-00250002" orientation="unknown" wi="60" img-format="tif" img-content="cf" file="00250002.tif" inline="no" he="24"/></p><p num="0118">To a 500mL round bottomed 3-necked flask, equipped with mechanical stirrer,
+reflux condenser, 100mL pressure-equalised dropping addition funnel, nitrogen inlet and
+bubbler and low temperature thermometer (-100 to +30°C) was added amide 1 (30.0g,
+75.2mmol, 1.0 eq.) and anhydrous THF (200mL). The resulting solution was stirred
+under nitrogen and cooled to -20°C (MeOH-cardice). A solution of n-octylmagnesium
+bromide (2.0M in THF, 48.7mL, 97.7mmol, 1.3eq.) was added dropwise, maintaining the
+internal solution temperature below -10°C. After complete addition, the solution was
+allowed to warm to room temperature overnight. The reaction mixture was poured into
+2M aqueous hydrochloric acid solution (500mL) and the products extracted into toluene
+(2 x 300mL). The toluene extracts were washed with water (3 x 500mL). The toluene
+phase was then concentrated to dryness in vacuo using a rotary evaporator. </p><p num="0119">The crude product was purified using column chromatography using 100%
+hexanes to 4 : 1 dichloromethane : hexanes as eluant. Product was isolated as an oil
+(22.91 g, 67.4%). GCMS indicated m/z 452, purity almost 100%.</p><heading><b><u style="single">Asymmetric compound 5 precursor: 4,4'-Dibromo-2-n-octyl-2-phenylhydroxymethyl-1,1'-biphenyl</u></b></heading><p num="0120"><img id="img-00260001" orientation="unknown" wi="59" img-format="tif" img-content="cf" file="00260001.tif" inline="no" he="36"/></p><p num="0121">To a 500mL round bottomed flask, equipped with low temperature thermometer (-100
+to +30°C), mechanical stirrer, 100mL graduated pressure-equalised dropping
+addition funnel and nitrogen inlet and bubbler was added bromobenzene (9.55g,
+60.79mmol, 1.2eq.) and anhydrous THF (150mL) and the resulting solution cooled to -
+72°C (acetone-cardice). N-Butyllithium (2.5M in hexanes) (26.34mL, 65.86mmol, 1.3eq.)
+was added dropwise, maintaining the internal temperature below -65°C. After complete
+addition, the solution was maintained at -70°C and stirred for 1h. A solution of ketone 2
+(22.91g, 50.66mmol, 1.0eq.) in anhydrous THF (125.0mL) was added, keeping the
+internal temperature &lt;-60°C. The solution was allowed to warm to RT over 4h, then
+quenched into 2M aqueous hydrochloric acid solution (500mL). The products were
+extracted into toluene (2 x 300mL), the organic phases combined and washed with water
+to neutrality (3 x 500mL). The toluene phase was evaporated to dryness in vacuo on a
+rotary evaporator. The product was purified by column chromatography using a mixture
+of dichloromethane and hexanes (1 : 4).</p><p num="0122">The product was afforded as a colourless oil (12.1g, 45%). The product was
+analysed by GCMS and displayed an m/z-H<sub>ny</sub>O peak at m/z 512. Purity estimated at
+87%+. </p><heading><b><u style="single">Asymmetric compound 5: 9-n-octyl-9-phenyl-2,7-dibromofluorene</u></b></heading><p num="0123"><img id="img-00270001" orientation="unknown" wi="48" img-format="tif" img-content="cf" file="00270001.tif" inline="no" he="30"/></p><p num="0124">To a 500mL round bottomed flask, equipped with magnetic stirrer bar, reflux
+condenser and nitrogen inlet and bubbler was added the asymmetric compound 5
+precursor (12.1g, 22.83mmol, 1.0 eq.) and glacial acetic acid (500mL). To the stirred
+suspension at room temperature was added concentrated hydrochloric acid (2mL) and
+the resulting suspension heated to reflux. After 4h at reflux, in-process check by GCMS
+indicated the reaction to be complete. The solution was allowed to cool to room
+temperature and poured into water (1000mL) with stirring for 10 mins. This caused
+precipitation of the product which was recovered by filtration. The filter cake was washed
+with water (2 x 1000 mL). The crude product was triturated from hexanes to afford
+asymmetric compound 5 as an oil (10g, 83%).</p><p num="0125">GCMS indicated 97.06% purity.</p><heading><b>Ketone 3: 4,4'-Dibromo-2-phenylketone-1,1'-biphenyl</b></heading><p num="0126"><img id="img-00270002" orientation="unknown" wi="57" img-format="tif" img-content="cf" file="00270002.tif" inline="no" he="31"/></p><p num="0127">To a 2L, 3-necked round bottom flask, equipped with mechanical stirrer, low
+temperature thermometer (-100 to +30°C), nitrogen inlet and bubbler, and 500mL
+graduated pressure-equalising dropping funnel, was added amide 1 (150g, 0.376mol,
+1.0 eq.) and anhydrous THF (500mL). The resulting solution was stirred under nitrogen
+and cooled to -5°C (MeOH-cardice) and then phenylmagnesium bromide (3M in THF,
+140mL, 0.414 mol, 1.1 eq.) was added at such a rate as to maintain the internal
+temperature of the vessel between -5 and 0°C. The resulting suspension was then
+allowed to warm to room temperature and stirred for 16h.</p><p num="0128">The reaction mixture was carefully diluted with toluene (1000mL) poured into a
+5L beaker containing 2M aqueous hydrochloric acid solution (2000mL) and the mixture
+stirred by a mechanical stirrer for 30 mins. The stirrer was stopped and the layers
+allowed to settle. The organic phase was removed by residual vacuum transfer and the 
+aqueous phase extracted with a further 1000mL of toluene. The organic phases were
+combined and concentrated to dryness in vacuo on a rotary evaporator. The resulting
+crude product was suspended in MeOH (750mL) and stirred at room temperature for 16h
+(trituration). The product was then recovered by filtration using Buchner apparatus and
+the cake washed with fresh MeOH (2 x 250mL). The cake was air dried and the solid
+then dried at 45°C in vacuo for 16h.</p><p num="0129">The product ketone was afforded as a white solid (147.84g, 94%). The product
+was analysed by GC-MS and found to display m/z 416 (M+) and a single peak
+(estimated purity 99.8%).</p><heading><b><u style="single">Asymmetric compound 6 precursor: 4,4'-dibromo-2-phenyl(4-decyloxyphenyl)hydroxymethyl-1,1'-biphenyl)</u></b></heading><p num="0130"><img id="img-00280001" orientation="unknown" wi="55" img-format="tif" img-content="cf" file="00280001.tif" inline="no" he="41"/></p><p num="0131">To a 250mL round bottomed flask, equipped with low temperature thermometer (-100
+to +30°C), magnetic stirrer bar, 100mL graduated pressure-equalised dropping
+addition funnel and nitrogen inlet and bubbler was added 4-decyloxybenzene (16.5g,
+53.0mmol, 1.1q.) and anhydrous THF (100mL) and the resulting solution cooled to -
+72°C (acetone-cardice). N-Butyllithium (2.5M in hexanes) (23.0mL, 58.0mmol, 1.2eq.)
+was added dropwise, maintaining the internal temperature below -65°C. After complete
+addition, the solution was maintained at -70°C and stirred for 1h. A solution of ketone 3
+(20.0g, 48.0mmol, 1.0eq.) in anhydrous THF (50.0mL) was added, keeping the internal
+temperature &lt;-60°C. The solution was allowed to warm to RT over 4h, then quenched
+into 2M aqueous hydrochloric acid solution (250mL). The products were extracted into
+toluene (2 x 250mL), the organic phases combined and evaporated to dryness in vacuo
+on a rotary evaporator. IPA was added (200mL) and the product crystallised over 16h.
+The product was recovered by filtration and the cake washed with cold IPA (50mL). The
+product was then air dried and dried at 45°C in vacuo for 16h.
+
+The product was afforded as a white solid (18.6g, 90%). The product as analysed by
+GCMS showed a mixture of products. </p><heading><b><u style="single">Asymmetric compound 6 precursor: 2,7-dibromo-9-phenyl-9-(4-decyloxyphenyl)fluorene</u></b></heading><p num="0132"><img id="img-00290001" orientation="unknown" wi="58" img-format="tif" img-content="cf" file="00290001.tif" inline="no" he="40"/></p><p num="0133">Asymmetric compound 6 was prepared by dehydration of asymmetric compound 5
+according to the method described above for the preparation of asymmetric compound
+1.</p><heading><b><u style="single">Pinacol diester of asymmetric compound 1 (method 1): 9-phenyl-9-tert-butylphenylfluorene-2,7-pinacolatoboron
+ester</u></b></heading><p num="0134"><img id="img-00290002" orientation="unknown" wi="77" img-format="tif" img-content="cf" file="00290002.tif" inline="no" he="41"/></p><p num="0135">To a 3-necked round bottomed 2L flask, equipped with mechanical stirrer, reflux
+condenser, nitrogen inlet and bubbler, low temperature thermometer (-100 to +30°C) and
+pressure-equalised, 250mL graduated dropping addition funnel (inerted with nitrogen
+before use) was added asymmetric compound 1 (54.97g, 0.103mol, 1.0 eq.) and
+anhydrous THF (550mL). The resulting solution was cooled to -78°C (acetone-cardice)
+and n-butyllithium (2.5M in hexanes) (90.64mL, 0.227mol, 2.2 eq.) was added dropwise
+so as to maintain the internal temperature below -65°C. After complete addition, the
+solution was stirred at -78↑8C for a further 1h, before the addition of triisopropylborate
+(58.12g, 71mL, 0.309mol, 3.0 eq.) dissolved in anhydrous THF (160mL), again
+maintaining the internal temperature below -65°C. The resulting solution was then
+allowed to warm slowly to room temperature.</p><p num="0136">The solution was cooled to 0°C (ice-water) and HCl in ether solution (2M)
+(134mL, 0.27mol, 2.6 eq.) was added and the solution allowed to warm to room
+temperature before filtering through a No. 3 porosity sinter funnel (to remove precipitated
+inorganic salts). The solvent was removed in vacuo and the residue re-dissolved in
+toluene (250mL). The solution was cooled and filtered (paper) into a 1L flask. Pinacol 
+(58.12g, 0.27mol, 3.0eq.) was added, followed by para-toluenesulfonic acid (1g) and the
+reaction heated under Dean-Stark conditions for 4h. The solution was allowed to cool
+and 2g of potassium carbonate added. The mixture was stirred for 30mins at RT, filtered
+and the solution concentrated to dryness in vacuo. The solid was recrystallised from a
+toluene/acetonitrile mixture to afford the product, which was recovered by filtration.</p><p num="0137">The product was dried at 45°C for 16h. The title compound was afforded as a
+white solid (43g, 66%). HPLC indicated a purity (npa) of 93%.</p><heading><b><u style="single">Pinacol diester of asymmetric compound 1 (method 2): 9-phenyl-9-tert-butylphenylfluorene-2,7-pinacolatoboron
+ester</u></b></heading><p num="0138"><img id="img-00300001" orientation="unknown" wi="84" img-format="tif" img-content="cf" file="00300001.tif" inline="no" he="42"/></p><p num="0139">To a 500mL 3 neck round bottomed flask, equipped with reflux condenser,
+mechanical stirrer and septum cap (cooled under nitrogen before use) was added
+asymmetric compound 1 (33g, 62mmol, 1.0eq.), anhydrous toluene (400mL), PdCl<sub>2</sub>[(<i>o</i>-tol)<sub>3</sub>P]<sub>2</sub>
+(2.44g, 3.1mmol, 5mol%) and ortho-tolylphosphine (1.89g, 10mol%). The
+solution was degassed by sparging with nitrogen for 1 hour, then triethylamine (37.64g,
+0.186mmol, 6.0 eq.) added, followed by degassing for 15 mins. Pinacolborane (23.80g,
+0.186mol, 3.0eq.) was then added and the solution heated to reflux for 4h. The reaction
+mixture was allowed to cool to room temperature and then filtered through a short pad of
+silica gel, eluting with toluene (500mL). The toluene solution was concentrated to
+dryness in vacuo. The crude solid was then purified by recrystallisation from a
+toluene/acetonitrile mixture to afford the product, which was recovered by filtration.</p><p num="0140">The product was dried at 45°C for 16h. The title compound was afforded as a
+white solid (15g, 39%). HPLC indicated a purity (npa) of 99%. GC-MS indicated the
+correct mass (m/z 626). </p><heading><b><u style="single">Comparative Example</u></b></heading><p num="0141">Synthesis of ketone 1 was attempted in accordance with the method described above,
+except that ester 1, shown below, was used in place of amide 1:
+<img id="img-00310001" orientation="unknown" wi="55" img-format="tif" img-content="cf" file="00310001.tif" inline="no" he="31"/></p><p num="0142">The product mixture was found to comprise starting material, ketone 1 and the alcohol
+resulting from over-reaction of ketone 1 with the Grignard reagent. Difficulty was
+encountered in attempting to separate these products.</p><p num="0143">Although the present invention has been described in terms of specific exemplary
+embodiments, it will be appreciated that various modifications, alterations and / or
+combinations of features disclosed herein will be apparent to those skilled in the art
+without departing from the spirit and scope of the invention as set forth in the following
+claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A method of forming a compound of formula (IV):
+
+said method comprising the steps of:
+<claim-text><claim-text>a) reacting a compound of formula (I) with a compound of formula S1-M to give a
+compound of formula (II);</claim-text><claim-text>b) reacting the compound of formula (II) with a compound of formula S2-M to give a
+compound of formula (III); and</claim-text><claim-text>c) eliminating H2X from the compound of formula (III) to give a compound of formula
+(IV).</claim-text></claim-text>
+wherein
+Ar1 and Ar2 are independently selected from optionally substituted aryl or heteroaryl
+groups;
+X is selected from O, S, NH and NR;
+L is a bond or a linking group of 1-2 atoms,
+R and R1 are independently selected from optionally substituted alkyl, aryl, alkylaryl,
+arylalkyl and heteroary groups;
+R2 is selected from the group consisting of alkoxy, aryloxy, arylalkyloxy, alkylaryloxy,
+alkylthio, arylthio, alkylarylthio and arylalkylthio;
+H is bound to a carbon atom C' of Ar2;
+C' and the carbon atom of C=X are separated by 3-5 atoms;
+S1 and S2 are each selected from optionally substituted alkyl, aryl or heteroaryl
+groups,
+M comprises a metal; and
+M is linked to S1 and S2 by a carbon-metal bond.</claim-text></claim><claim num="2"><claim-text>A method according to claim 1 wherein alkyl is C1-C20-alkyl, arylalkyl is C7-C20-arylalkyl,
+alkylaryl is C7-C20-alkylaryl, aryl is C6-C20-aryl, heteroaryl is C5-C20-heteroaryl,
+alkoxy is C1-C20-alkoxy, aryloxy is C6-C20-Aryloxy, arylalkyloxy is C7-C20-arylalkyloxy,
+alkylaryloxy is C7-C20-alkylaryloxy, alkylthio is C1-C20-alkylthio, arylthio is
+C6-C20-arylthio, alkylarylthio is C7-C20-alkylarylthio, arylalkylthio is C7-C20-arylalkylthio.</claim-text></claim><claim num="3"><claim-text>A method according to claim 1 wherein Ar1 and Ar2 are phenyl or substitutet phenyl.</claim-text></claim><claim num="4"><claim-text>A method according to claim 1 or 2 wherein X is O or S.</claim-text></claim><claim num="5"><claim-text>A method according to any preceding claim wherein L is a bond.</claim-text></claim><claim num="6"><claim-text>A method according to any preceding claim wherein R is C1-10 alkyl.</claim-text></claim><claim num="7"><claim-text>A method according to any preceding claim wherein R1 is C1-10 alkyl.</claim-text></claim><claim num="8"><claim-text>A method according to any preceding claim wherein R2 is C1-10 alkoxy.</claim-text></claim><claim num="9"><claim-text>A method according to any preceding claim wherein M is lithium, zinc or Mg-Hal
+wherein Hal is a halide.</claim-text></claim><claim num="10"><claim-text>A method according to any preceding claim wherein S1 and S2 are independently
+selected from optionally substituted aryl or alkyl.</claim-text></claim><claim num="11"><claim-text>A method according to any preceding claim wherein S1 and S2 are independently
+selected from optionally substituted aryl or alkyl and S1 and S2 are are different from
+each other.</claim-text></claim><claim num="12"><claim-text>A method according to any preceding claim wherein Ar1 and Ar2 of the compound of
+formula (I) are each substituted with a polymerisable group P.</claim-text></claim><claim num="13"><claim-text>A method according to any one of claims 1-10 comprising the further step of
+providing each of Ar1 and Ar2 of the compound of formula (II), (III) or (IV) with a
+polymerisable group P.</claim-text></claim><claim num="14"><claim-text>A method according to claim 12 or 13 wherein each polymerisable group P is
+independently selected from a halide or a boron derivative group selected from a
+boronic acid group, a boronic ester group and a borane group.</claim-text></claim><claim num="15"><claim-text>A compound of formula (V):
+
+wherein
+P, Ar1, Ar2, L, X, R1 and R2 are as defined in any one of claims 1-14;
+H is bound to a carbon atom C' of Ar2; and
+C' and the carbon atom of C=X are separated by 3-5 atoms.</claim-text></claim><claim num="16"><claim-text>A compound according to claim 15 wherein each Ar1 and Ar2 is phenyl or substituted
+phenyl.</claim-text></claim><claim num="17"><claim-text>A compound according to claim 15 or 16 wherein X is O or S.</claim-text></claim><claim num="18"><claim-text>A compound according to any one of claims 15-17 wherein L is a bond.</claim-text></claim><claim num="19"><claim-text>A compound according to any one of claims 15-18 wherein each P is independently
+selected from a halide or a boron derivative group selected from a boronic acid
+group, a boronic ester group and a borane group.</claim-text></claim><claim num="20"><claim-text>A compound according to any one of claims 15-19 wherein R1 is C1-10 alkyl.</claim-text></claim><claim num="21"><claim-text>A compound according to any one of claims 15-20 wherein R2 is C1-10 alkoxy.</claim-text></claim><claim num="22"><claim-text>An compound of formula (VI):
+
+wherein
+P is as defined in claim 14, R1 is as defined in claim 7 and R2 is as defined in claim
+8.</claim-text></claim><claim num="23"><claim-text>Use of at least one of the compounds of formula (V) and/or formula (VI) for the
+manufacture of compounds of the formula (IV)</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

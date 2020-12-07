@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1312625-A1" country="EP" doc-number="1312625" kind="A1" lang="EN" family-id="8183173" status="new" date-produced="20090516" date="20030521"><bibliographic-data><publication-reference ucid="EP-1312625-A1" status="new" fvid="23743598"><document-id status="new" format="original"><country>EP</country><doc-number>1312625</doc-number><kind>A1</kind><date>20030521</date></document-id></publication-reference><application-reference ucid="EP-01430035-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01430035</doc-number><kind>A</kind><date>20011120</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-01430035-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>01430035</doc-number><kind>A</kind><date>20011120</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C08F   2/34        20060101A I20060521RMWO        </classification-ipcr><classification-ipcr status="new">C08F   2/34        20060101C I20060521RMWO        </classification-ipcr><classification-ipcr status="new">C08F   4/00        20060101C I20060521RMWO        </classification-ipcr><classification-ipcr status="new">C08F   4/645       20060101A I20060521RMWO        </classification-ipcr><classification-ipcr status="new">C08F   4/659       20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F   4/6592      20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F 210/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F 210/16        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08F 210/16+2/34</classification-symbol><classification-symbol scheme="EC">C08F 210/16+4/659D</classification-symbol><classification-symbol scheme="ICO">M08F4:6592</classification-symbol><classification-symbol scheme="ICO">M08F4:659K</classification-symbol><classification-symbol scheme="ICO">M08F4:659L</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Gasphasenpolymerisationsverfahren</invention-title><invention-title load-source="ep" status="new" lang="EN">Gas phase polymerization process</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédé de polymérisation en phase gazeuse</invention-title><citations><patent-citations><patcit ucid="WO-1995007942-A1"  status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1995007942</doc-number><kind>A1</kind></document-id><sources><source category="XD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1997044371-A1" status="new"><document-id status="new"  format="epo"><country>WO</country><doc-number>1997044371</doc-number><kind>A1</kind></document-id><sources><source category="X"  name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="WO-2000068285-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2000068285</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>BP CHEMICALS SNC</name><address><country>FR</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>BP CHEMICALS SNC</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>BP Chemicals SNC</last-name><address><street>Parc Saint Christophe, Bât. Newton 1, 10, avenue de l'Entreprise</street><city>95866 Cergy Pontoise Cedex</city><country>FR</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="original"><addressbook><last-name>The designation of the inventor has not yet been filed</last-name></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>De Kezel, Eric</last-name><address><street>BP Chemicals S.N.C., CRT/LPID, B.P. no 6</street><city>13117 Lavéra</city><country>FR</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>Copolymers of ethylene and alpha-olefins containing from three to twenty
+carbon atoms having an activation energy of greater than or equal to 40 kJ/mol and a
+Mw/Mn of less than 8 are prepared in the gas phase using a catalyst system comprising
+a monocyclopentadienyl complex.</p><p>The catalyst system preferably comprises a combination of an organoborane and
+aluminoxane as activator.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to a process for polymerizing olefins and in
+particular to a process for the polymerization of olefins in the gas phase to prepare
+polymers having a broad molecular weight distribution, toughness and improved
+processability.</p><p num="0002">In recent years there have been many advances in the production of polyolefin
+copolymers due to the introduction of metallocene catalysts. Metallocene catalysts offer
+the advantage of generally higher activity than traditional Ziegler catalysts and are
+usually described as catalysts which are single-site in nature. Because of their single-site
+nature the polyolefin copolymers produced by metallocene catalysts often are quite
+uniform in their molecular structure. For example, in comparison to traditional Ziegler
+produced materials, they have relatively narrow molecular weight distributions (MWD)
+and narrow Short Chain Branching Distribution (SCBD). Although certain properties
+of metallocene products are enhanced by narrow MWD, difficulties are often
+encountered in the processing of these materials into useful articles and films relative to
+Ziegler produced materials. In addition, the uniform nature of the SCBD of metallocene
+produced materials does not readily permit certain structures to be obtained.</p><p num="0003">An approach to improving processability has been the inclusion of long chain
+branching (LCB), which is particularly desirable from the viewpoint of improving
+processability without damaging advantageous properties. US Patent No.s 5,272,236;
+5,278,272; 5,380,810; and EP 659,773, EP 676,421, relate to the production of
+polyolefins with long chain branching.</p><p num="0004">Another approach is the addition of the polymer processing aids to the polymer 
+prior to fabrication into films or articles. This requires extra processing and is
+expensive.</p><p num="0005">A different approach to the problem has been to make compositions which are
+blends or mixtures of individual polymeric materials with the aim being to maximise the
+beneficial properties of given component while minimising its processing problems.
+This also requires extra processing which increases the cost of materials produced. US
+Patent No.'s 4,598,128; 4,547,551; 5,408,004; 5,382,630; 5,383,631; and 5,326,602; and
+WO 94/22948 and WO 95/25141 relate to typical blends.</p><p num="0006">Another way to provide a solution for the processability problems and to vary
+SCBD has been the development of various cascade processes, where the material is
+produced by a series of polymerizations under different reactor conditions, such as in a
+series of reactors. Essentially, a material similar in some ways to a blend is produced,
+with a modality greater than one for various physical properties, such as the molecular
+weight distribution. While polyolefin compositions with superior processability
+characteristics can be produced this way, these methods are expensive and complicated
+relative to the use of a single reactor. Processes of interest are disclosed in US Patent
+No. 5,442,018, WO 95/26990, WO 95/07942 and WO 95/10548.</p><p num="0007">Another potentially feasible approach to improving processability and varying
+SCBD has been to use a multicomponent catalyst. In some cases, a catalyst which has a
+metallocene catalyst and a conventional Ziegler-Natta catalyst on the same support are
+used to produce a multimodal material. In other cases two metallocene catalysts have
+been used in polyolefin polymerizations. Components of different molecular weights
+and compositions are produced in a single reactor operating under a single set of
+polymerisation conditions. This approach is difficult from the point of view of process
+control and catalyst preparation. Catalyst systems of interest are disclosed in WO
+95/11264 and EP 676,418.</p><p num="0008">US 5462999 and US 5405922 teaches the preparation of ethylene copolymers in
+the gas-phase using a silica supported metallocene catalyst. It is believed, however, that
+the products produced by following the examples will not contain long chain branching.</p><p num="0009">EP 676421 also teaches the preparation of copolymers having long chain
+branching in the gas phase using a supported metallocene catalyst based on
+bis(cyclopentadienyl) metallocene complexes. </p><p num="0010">EP 452920 and EP495099 teach the production of ethylene copolymers also
+using bis(cyclopentadienyl) metallocene catalysts. Once again it is believed that the
+examples contained therein will not produce products with some or all of the desirable
+characteristics mentioned below</p><p num="0011">Our earlier application WO 99/35174 describes copolymers having improved
+processability and which exhibit specific melt strength characteristics. Such
+copolymers are advantageously prepared using a single metallocene catalyst system
+using a single gas-phase, fluidised bed reactor. The copolymers are preferably prepared
+by use of bis(cyclopentadienyl) diene complexes as part of the metallocene catalyst
+system.</p><p num="0012">It would be advantageous to prepare such copolymers by use of other
+metallocene catalyst systems in order to be able to have a choice of methods of
+preparation giving the potential for economic savings.</p><p num="0013">US 6025448 describes the preparation of copolymers in the gas phase using
+monocyclopentadienyl complexes. The copolymers obtained however exhibit properties
+different from those described in the aforementioned WO 99/35174.</p><p num="0014">We have now surprisingly found that copolymers as described in the
+WO 993517 and which have the processability and impact strength similar to highly
+branched low density polyethylene (LDPE) may now be prepared in the gas phase using
+a single metallocene catalyst system comprising a monocyclopentadienyl complex. The
+complex is preferably supported and used in a polymerisation process using a single
+fluidised bed reactor, operating semi-continuously or, preferably, continuously under a
+single set of reactor conditions.</p><p num="0015">Thus according to the present invention there is provided a process for the
+preparation of copolymers of ethylene and one or more alpha olefins containing from
+three to twenty carbon atoms said copolymer having:-
+<sl><li>(a) an activation energy, Ea, of value greater than or equal to 40 kJ/mol,</li><li>(b) a Mw/Mn value of less than 8,</li></sl>
+characterised in that said process is carried out in the gas phase in the presence of a
+metallocene catalyst system comprising a monocyclopentadienyl complex.</p><p num="0016">Preferred metallocene complexes for use in the preparation of the copolymers of
+the present invention may be represented by the general formula: <img id="img-00040001" orientation="unknown" wi="65" img-format="tif" img-content="cf" file="00040001.tif" inline="no" he="62"/>
+   wherein:-
+<sl><li>R' each occurrence is independently selected from hydrogen,
+hydrocarbyl, silyl, germyl, halo, cyano, and combinations thereof, said R' having up to
+20 nonhydrogen atoms, and optionally, two R' groups (where R' is not hydrogen, halo or
+cyano) together form a divalent derivative thereof connected to adjacent positions of the
+cyclopentadienyl ring to form a fused ring structure;</li><li>X is a neutral →<sup>4</sup> bonded diene group having up to 30 non-hydrogen
+atoms, which forms a π complex with M;</li><li>Y is -O-, -S-, -NR*-, -PR*-,</li><li>M is titanium or zirconium in the + 2 formal oxidation state;</li><li>Z* is SiR*<sub>2</sub>, CR*<sub>2</sub>, SiR*<sub>2</sub>SIR*<sub>2</sub>, CR*<sub>2</sub>CR*<sub>2</sub>, CR*=CR*, CR*<sub>2</sub>SIR*<sub>2</sub>, or</li><li>GeR*<sub>2</sub>, wherein:
+
+   R* each occurrence is independently hydrogen, or a member selected
+from hydrocarbyl, silyl, halogenated alkyl, halogenated aryl, and combinations thereof,
+said R* having up to 10 non-hydrogen atoms, and optionally, two R* groups from Z*
+(when R* is not hydrogen), or an R* group from Z* and an R* group from Y form a
+ring system.</li></sl></p><p num="0017">Examples of suitable X groups include s-trans-<sup>4</sup>-1,4-diphenyl-1,3-butadiene,
+s-trans-→<sup>4</sup>-3-methyl-1,3-pentadiene; s-trans-→<sup>4</sup>-2,4-hexadiene; s-trans-→<sup>4</sup>-1,3-pentadiene;
+s-trans-→<sup>4</sup>-1,4-ditolyl-1,3-butadiene; s-trans-→<sup>4</sup>-1,4-bis(trimethylsilyl)-1,3-butadiene;
+s-cis-→<sup>4</sup>-3-methyl-1,3-pentadiene; s-cis-→<sup>4</sup>-1,4-dibenzyl-1,3-butadiene;
+s-cis-→<sup>4</sup>-1,3-pentadiene; s-cis-→<sup>4</sup>-1,4-bis(trimethylsilyl)-1,3-butadiene,
+said s-cis diene group forming a π-complex as defined herein with the metal. </p><p num="0018">Most preferably R' is hydrogen, methyl, ethyl, propyl, butyl, pentyl, hexyl,
+benzyl, or phenyl or 2 R' groups (except hydrogen) are linked together, the entire
+C<sub>5</sub>R'<sub>4</sub> group thereby being, for example, an indenyl, tetrahydroindenyl, fluorenyl,
+terahydrofluorenyl, or octahydrofluorenyl group.</p><p num="0019">Highly preferred Y groups are nitrogen or phosphorus containing groups
+containing a group corresponding to the formula -N(R")- or -P(R3)- wherein R" is C<sub>1-10</sub>
+hydrocarbyl.</p><p num="0020">Most preferred complexes are amidosilane - or amidoalkanediyl complexes.</p><p num="0021">Most preferred complexes are those wherein M is titanium.</p><p num="0022">Specific complexes suitable for use in the preparation of the copolymers of the
+present invention are those disclosed in WO 95/00526, the relevant parts of which are
+incorporated herein by reference.</p><p num="0023">A particularly preferred complex for use in the preparation of the copolymers of
+the present invention is (t-butylamido) (tetramethyl-→<sup>5</sup> - cyclopentadienyl) dimethyl
+silanetitanium -→<sup>4</sup> -1,3-pentadiene.</p><p num="0024">The monocyclopentadienyl complexes of the present invention are used in the
+presence of a suitable activator or cocatalyst. Preferred activators for use in the process
+of the present invention are organometallic compounds.</p><p num="0025">The preferred activator is a combination of two organometallic compounds. For
+example a combination of an organoboron compound and an organoaluminium
+compound may be suitable for use in the process of the present invention. The
+combination of a triarylborane and an aluminoxane is particularly suitable for use in the
+process of the present invention.</p> <p num="0026">The preferred activator is the combination of tris(pentafluorophenyl) borane
+(FAB) and methyl aluminoxane (MAO).</p><p num="0027">The monocyclopentadienyl complexes suitable for use in the present invention
+are most suitably supported. Typically the support can be any organic or inorganic inert
+solid. However particularly porous supports such as talc, inorganic oxides and resinous
+support materials such as polyolefins which have well-known advantages in catalysis
+are preferred.. Suitable inorganic oxide materials which may be used include Group 2,
+13, 14 or 15 metal oxides such as silica, alumina, silica-alumina and mixtures thereof.
+Other inorganic oxides that may be employed either alone or in combination with the 
+silica, alumina or silica-alumina are magnesia, titania or zirconia. Other suitable
+support materials may be employed such as finely divided polyolefins such as
+polyethylene.</p><p num="0028">The most preferred support material for use with the supported catalysts
+according to the process of the present invention is silica. Suitable silicas include
+Crossfield ES70 and Davidson 948 silicas.</p><p num="0029">The support material may be subjected to a heat treatment and/or chemical
+treatment to reduce the water content or the hydroxyl content of the support material.
+Typically chemical dehydration agents are reactive metal hydrides, aluminium alkyls
+and halides. Prior to its use the support material may be subjected to treatment at
+100°C to 1000°C and preferably at 200 to 850°C in an inert atmosphere under reduced
+pressure, for example, for 5 hrs.</p><p num="0030">The support material may be pretreated with an aluminium alkyl, for example
+triethylaluminium, at a temperature of -20°C to 150°C and preferably at 20°C to
+100°C.</p> <p num="0031">The pretreated support is preferably recovered before use in the preparation of
+the supported catalysts of the present invention.</p> <p num="0032">Thus according to another aspect of the present invention there is provided a
+process for the preparation of copolymers of ethylene and one or more alpha olefins
+containing from three to twenty carbon atoms said copolymer having:-
+<sl><li>(c) an activation energy, Ea, of value greater than or equal to 40 kJ/mol,</li> <li>(d) a Mw/Mn value of less than 8,</li></sl>
+characterised in that said process is carried out in the gas phase in the presence of a
+supported metallocene catalyst system comprising
+<sl><li>(a) a support material,</li><li>(b) a monocyclopentadienyl complex, and</li><li>(c) an activator comprising an organoboron compound and an aluminoxane</li></sl></p><p num="0033">The preferred activator comprises tris(pentafluorophenyl) borane (FAB) and
+methyl aluminoxane (MAO).</p><p num="0034">The preferred monocyclopentadienyl complex is (t-butylamido) (tetramethyl-→<sup>5</sup>-
+cyclopentadienyl) dimethyl silanetitanium -→<sup>4</sup> -1,3-pentadiene.</p><p num="0035">The preferred supported metallocene catalyst system for use in the process of the 
+present invention is preferably prepared by
+<sl><li>(a) mixing an organoboron compound with an aluminoxane in a suitable
+solvent,</li><li>(b) addition to the mixture from step (a) of a monocyclopentadienyl complex in
+a suitable solvent,</li><li>(c) addition of the resultant mixture from step (b) to a support material in a
+suitable solvent, and</li><li>(d) removal of the solvent.</li></sl></p><p num="0036">The copolymers of the present invention are suitably prepared by continuous
+polymerisation of the required monomer(s) in the presence of a single metallocene
+catalyst system in a single reactor. By the term continuous polymerisation is meant a
+process which for at least a significant period of time is operated with continuous
+feeding of the monomer(s) to the reactor in parallel with continuous or periodic
+withdrawing of copolymer product. Preferably the continuous polymerisation is
+effected in the gas phase at elevated temperature in the presence of a fluidised bed of
+polymer particles and continuous recycle of unreacted monomer(s) around a loop
+joining the inlet and outlet of the reactor containing the fluidised bed. Examples of two
+possible approaches are described in EP 89961, US 53527947 and US 5541270 the
+complete texts of which are herein incorporated by reference. EP 699213 also
+illustrates a possible approach and again the complete text of this publication is
+incorporated by reference.</p><p num="0037">The copolymers of the present invention are copolymers of ethylene with one or
+more alpha-olefins having from three to twenty carbon atoms. Preferably the alphaolefin
+has between three and ten carbon atoms most preferably three and eight.
+Examples of the most preferred alpha olefins include 1-butene, 1-hexene, 4-methyl-1-pentene,
+1-octene. Particular suitable are copolymers of ethylene with 1-hexene or 4-methyl-1-pentene.</p><p num="0038">The copolymers prepared according to the process of the present invention have
+an activation energy, Ea, of value greater than or equal to 40 kJ/mol, and most
+preferably greater than or equal to 55 kJ/mol., and even more preferably greater than or
+equal to 60 kJ/mol.</p><p num="0039">The copolymers have a molecular weight distribution (Mw/Mn) value of 
+less than 8 and most preferably less than 6.</p><p num="0040">The preferred molecular weight distribution (Mw/Mn) is in the range 3.0 to 6.0.</p><p num="0041">The copolymers prepared by the process of the present invention are described
+in detail in the aforementioned WO 99/35174 and in addition to the parameters of
+activation energy (Ea) and molecular weight distribution (Mw/Mn) may be described
+by means of long chain branching (g'), melt strength, extrusion pressure and shear rate.
+Full details of these parameters are incorporated herein from WO 99/35174.</p><p num="0042">For example the copolymers prepared by use of the process of the present
+invention comprise copolymers of ethylene and one or more alpha olefins containing
+from three to twenty carbon atoms having:-
+<sl><li>a) a long chain branching g' value of less than or equal to 0.9 and</li><li>b) a value of the derivative function δ(MS)/δ(P) of greater than 0.6</li></sl>
+wherein MS is the melt strength of the copolymer in cN and P is the extrusion pressure
+of the copolymer in MPa.</p><p num="0043">The process of the present invention will now be illustrated by reference to the
+following examples:</p><heading><u style="single">Example 1</u></heading><heading><u style="single">Preparation of support material</u></heading><p num="0044">To 5.367 g of silica Grace 948 (previously calcined at 250°C for 5 hours) in
+(hexane) was added a solution of triethylaluminium (TEA) in hexane (1.06 mol/l, 10 ml,
+10.6 mmol). The mixture was allowed to react for 30 minutes then the liquid fraction
+was filtered and the remaining solid was washed with 3 x 20 ml of hexane and finally
+dried under vacuum.
+
+[Al]=1.45 mmol/g of support (measured by ICP).</p><heading><u style="single">Preparation of metallocene/activator</u></heading><p num="0045">To 30 ml of toluene were added 6.367 g of a 6.12wt% toluene solution of tris
+(pentafluorophenyl) boron (FAB) (0.761 mmol) and 3.148g of a 10wt% toluene solution
+of methyl aluminoxane (MAO) (5.43 mmol). To 15 ml. of the resultant mixture was
+added 0.494g of a 9.17 wt% heptane solution of (t-butylamido) (tetramethyl-→<sup>5</sup>-cyclopentadienyl)
+dimethyl silanetitanium -→<sup>4</sup>-1,3-pentadiene (0.695 ml, 0.12 mmol)
+and the reaction mixture stirred for 2 hrs. at room temperature.</p><heading><u style="single">Preparation of supported catalyst</u></heading><p num="0046">To a suspension of the support material (1.975 g) in toluene (10 ml) was added
+the metallocene/activator mixture. The resultant mixture was allowed to react for 1 hour
+at room temperature, then dried under vacuum. A green-beige free flowing powder was
+obtained.
+
+[Ti] = 0.046 mmol/g catalyst; [Al] = 1.73 mmol/g catalyst</p><heading><u style="single">Example 2</u></heading><heading><u style="single">Polymerization</u></heading><p num="0047"><tables><table><tgroup cols="2"><tbody><row><entry>The supported catalyst prepared in example 1 was used for the copolymerization of ethylene and 1-hexene in the gas phase under the following conditions:</entry></row><row><entry align="left">Ethylene</entry><entry align="left">7 bar</entry></row><row><entry align="left">Hydrogen</entry><entry align="left">40 ml</entry></row><row><entry align="left">1-hexene</entry><entry align="left">5000 ppm</entry></row><row><entry align="left">Catalyst injected</entry><entry align="left">0.5mg</entry></row><row><entry align="left">Polymerisation time</entry><entry align="left">1 hour</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Product characteristics</u></heading><p num="0048"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Activity</entry><entry align="left">21 g/g.h.bar</entry></row><row><entry align="left">MI (2.16 kg)</entry><entry align="left">0.194 g/10 min</entry></row><row><entry align="left">density</entry><entry align="left">0.918 g/ml</entry></row><row><entry align="left">Ea</entry><entry align="left">60.5 kJ/mol</entry></row><row><entry align="left">Mn</entry><entry align="left">43600</entry></row><row><entry align="left">Mw</entry><entry align="left">150400</entry></row><row><entry align="left">MWD</entry><entry align="left">3.4</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Melt Flow Rate (2.16 kg)</u></heading><p num="0049">The melt flow rate (MFR) of the polymers was measured under conditions
+which conform to ISO 1133 (1991) and BS 2782:PART 720A:1979 procedures. The
+weight of polymer extruded through a die of 2.095 mm diameter, at a temperature of
+190°C, during a 600 second time period and under a standard load of 2.16 kg is
+recorded.</p><heading><u style="single">Molecular Structure Characterisation</u></heading><p num="0050">Various techniques (eg <sup>13</sup>C NMR, GPC/LALLS, GPC/intrinsic viscosity,
+GPC/on-line viscometry and rheological flow activation energy, etc) have been
+developed to indicate the presence of long chain branching in polymers. </p><heading><u style="single">Molecular Weight Distribution (M<sub>w</sub>/M<sub>n</sub>)</u></heading><p num="0051">Molecular weight distribution and associated averages, were determined by Gel
+Permeation Chromatography using a Waters GPCV 2000. The Millennium version
+3.05.01 software supplied by Waters was used for data treatment. The solvent used was
+1,2,4 Trichlorobenzene at 150°C, stabilised with 0.05% BHT. The nominal flow rate
+was 1 ml/min. Solutions of concentration around 0.1%w/w were prepared at 150°C for 2
+hours on a hot plate, and the nominal injection volume was set at 217.5 ml. 2 Shodex
+AT806M/S and 1 Waters HT2 columns were used with a plate count (at half height) of
+typically 28,000. The system was calibrated using 12 polystyrene standards supplied by
+Polymer Laboratories.</p><p num="0052"><u style="single">Apparent molecular weight distribution</u> and associated averages, uncorrected for
+long chain branching, were determined using the differential refractometer detector
+alone. Molecular weight of Ps standards were converted to polyethylene molecular
+weights using the Mark Houwink parameters K<sub>ps</sub> = 1.75 x10<sup>-4</sup> dl/g, □<sub>ps</sub>= 0.67,
+K<sub>pe</sub> = 4.1 x 10<sup>-4</sup> dl/g, □<sub>pe</sub> = 0.706 [Polymer Handbook, J. Bandrup and E.H.
+Immergut, 3<sup>rd</sup> Edition].</p><p num="0053">This calibration has been checked against the NIST certified polyethylene
+SRM1475, the values obtained being 54,100 g/mol for M<sub>w</sub> and 17,300 g/mol for M<sub>n</sub>.</p><heading><u style="single">Flow Activation Energy (Ea) Measurement</u></heading><p num="0054">Rheological measurements were carried out on a Rheometrics RDS-2 with 25
+mm diameter parallel plates in the dynamic mode. Two strain sweep (SS) experiments
+were initially carried out to determine the linear viscoelastic strain that would generate a
+torque signal which is greater than 10% of the full scale (2000 g-cm) of the transducer
+over the full frequency (eg 0.01 to 100 rad/s) and temperature (eg 170° to 210°C)
+ranges. The first SS experiment was carried out at the highest test temperature (eg
+210°C) with a low applied frequency of 0.1 rad/s. This test is used to determine the
+sensitivity of the torque at low frequency. The second experiment was carried out at the
+lowest test temperature (eg 170°C) with a high applied frequency of 100 rad/s. This is
+to ensure that the selected applied strain is well within the linear viscoselastic region of
+the polymer so that the oscillatory rheological measurements do not induce structural
+changes to the polymer during testing. This procedure was carried out for all the
+samples. </p><p num="0055">The bulk dynamic rheological properties (eg G', G" and η*) of all the polymers
+were then measured at 170°, 190° and 210°C. At each temperature, scans were
+performed as a function of angular shear frequency (from 100 to 0.01 rad/s) at a
+constant shear strain appropriately determined by the above procedure.</p><p num="0056">The dynamic rheological data was then analysed using the Rheometrics RHIOS
+V4.4 Software. The following conditions were selected for the time-temperature (t-T)
+superposition and the determination of the flow activation energies (<b>E</b><sub>a</sub>) according to an
+Arrhenius equation, <b>a</b><sub>T</sub> = exp (<b>E</b><sub>a</sub>/kT), which relates the shift factor (<b>a</b><sub>T</sub>) to <b>E</b><sub>a</sub>:
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Rheological Parameters</entry><entry align="left">G'(ω), G"(ω) &amp; η*(ω)</entry></row><row><entry align="left">Reference Temperature</entry><entry align="left">190°C</entry></row><row><entry align="left">Shift Mode</entry><entry align="left">2D (ie horizontal &amp; vertical shifts)</entry></row><row><entry align="left">Shift Accuracy</entry><entry align="left">High</entry></row><row><entry align="left">Interpolation Mode</entry><entry align="left">Spline</entry></row></tbody></tgroup></table></tables></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A process to the preparation of copolymers of ethylene and one or more alpha
+olefins containing from three to twenty carbon atoms said copolymer having:-
+<claim-text><claim-text>(a) an activation energy, Ea, of value greater than or equal to 40 kJ/mol,</claim-text><claim-text>(b) a Mw/Mn value of less than 8,</claim-text></claim-text>characterized in that said process is carried out in the gas phase in the presence of a
+metallocene catalyst system comprising a monocyclopentadienyl complex.</claim-text></claim><claim num="2"><claim-text>A process according to claim 1 wherein the monocyclopentadienyl complex has
+the general formula:-
+
+   wherein:-
+<claim-text><claim-text>R' each occurrence is independently selected from hydrogen,
+hydrocarbyl, silyl, germyl, halo, cyano, and combinations thereof, said R' having up to
+20 nonhydrogen atoms, and optionally, two R' groups (where R' is not hydrogen, halo or
+cyano) together form a divalent derivative thereof connected to adjacent positions of the
+cyclopentadienyl ring to form a fused ring structure;</claim-text><claim-text>X is a neutral →4 bonded diene group having up to 30 non-hydrogen
+atoms, which forms a π complex with M;</claim-text><claim-text>Y is -O-, -S-, -NR*-, -PR*-,</claim-text><claim-text>M is titanium or zirconium in the + 2 formal oxidation state;</claim-text><claim-text>Z* is SiR*2, CR*2, SiR*2SIR*2, CR*2CR*2, CR*=CR*, CR*2SIR*2, or
+GeR*2, wherein:
+<claim-text><claim-text>R* each occurrence is independently hydrogen, or a member selected from
+hydrocarbyl, silyl, halogenated alkyl, halogenated aryl, and combinations thereof, said
+R* having up to 10 non-hydrogen atoms, and optionally, two R* groups from Z* (when
+R* is not hydrogen), or an R* group from Z* and an R* group from Y form a ring
+system.</claim-text></claim-text></claim-text></claim-text></claim-text></claim><claim num="3"><claim-text>A process according to either of the preceding claims wherein the catalyst
+system further comprises an activator comprising an organoboron compound and an
+aluminoxane.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1518867-A1" country="EP" doc-number="1518867" kind="A1" lang="EN" family-id="34137758" status="new" date-produced="20090516" date="20050330"><bibliographic-data><publication-reference ucid="EP-1518867-A1" status="new" fvid="24313012"><document-id status="new" format="original"><country>EP</country><doc-number>1518867</doc-number><kind>A1</kind><date>20050330</date></document-id></publication-reference><application-reference ucid="EP-04075476-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>04075476</doc-number><kind>A</kind><date>20040216</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="GB-0318757-A" status="new"><document-id status="new" format="epo"><country>GB</country><doc-number>0318757</doc-number><kind>A</kind><date>20030811</date></document-id></priority-claim><priority-claim ucid="GB-0401678-A" status="new"><document-id status="new" format="epo"><country>GB</country><doc-number>0401678</doc-number><kind>A</kind><date>20040127</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B32B  27/32        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B32B  27/32        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F   2/38        20060101A I20060521RMWO        </classification-ipcr><classification-ipcr status="new">C08F   2/38        20060101C I20060521RMWO        </classification-ipcr><classification-ipcr status="new">C08F 210/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F 210/02        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08J   5/18        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C08J   5/18        20060101C I20070721RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B32B  27/32</classification-symbol><classification-symbol scheme="EC">B32B  27/32A</classification-symbol><classification-symbol scheme="EC">C08F 210/02+2/00</classification-symbol><classification-symbol scheme="EC">C08F 210/02+2/00B</classification-symbol><classification-symbol scheme="EC">C08F 210/02+2/38</classification-symbol><classification-symbol scheme="EC">C08J   5/18+L23/04</classification-symbol><classification-symbol scheme="ICO">M08F210:02+M08F218/08+FILM+EACT+MWDB+SRAT+SCB+L</classification-symbol><classification-symbol scheme="ICO">M08F210:02+M08F218/08+FILM+EACT+MWDN+SRAT+SCB+L</classification-symbol><classification-symbol scheme="ICO">M08F210:02+M08F220/10+FILM+EACT+MWDB+SRAT+SCB</classification-symbol><classification-symbol scheme="ICO">M08F210:02+M08F220/10+FILM+SCB</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">POLYMERE, BESTEHEND AUS ETHYLEN UND GEGEBENENFALLS COPOLYMERISIERBAREN ESTERN, FILME AUS DIESEN POLYMEREN UND DIESES FILME VERWENDENDES STRETCHFOLIENHAUBENVERPACKUNGSVERFAHREN</invention-title><invention-title load-source="ep" status="new" lang="EN">Polymers of ethylene and optionally, copolymerizable esters, films using such polymers and stretch hood packaging processesusing such films</invention-title><invention-title load-source="ep" status="new" lang="FR">Polymères d'éthylène, éventuellement avec des esters copolymérisables, films obtenus avec ceux-ci et procédé pour emballer avec une housse étirable utilisant ces films</invention-title><citations><patent-citations><patcit ucid="EP-0361363-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0361363</doc-number><kind>A2</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0461667-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0461667</doc-number><kind>A1</kind></document-id><sources><source category="YD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0985687-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0985687</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1270652-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1270652</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1362793-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1362793</doc-number><kind>A2</kind></document-id><sources><source category="XP" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-2002273842-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002273842</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4788265-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4788265</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5376739-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5376739</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6291038-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6291038</doc-number><kind>B1</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6297338-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6297338</doc-number><kind>B1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6306986-B1"  status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6306986</doc-number><kind>B1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6495266-B1" status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>6495266</doc-number><kind>B1</kind></document-id><sources><source category="A"  name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="WO-1994009060-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1994009060</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2001018097-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2001018097</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2002100637-A2" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2002100637</doc-number><kind>A2</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>EXXONMOBIL CHEM PATENTS INC</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>EXXONMOBIL CHEMICAL PATENTS INC.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Exxonmobil Chemical Patents Inc.</last-name><address><street>5200 Baytown Drive</street><city>Baytown, TX 77520-5200</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>DONCK JAN C</name><address><country>BE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>LAUWERS BART</name><address><country>BE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>OHLSSON STEFAN BERTIL</name><address><country>BE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>VAES JEF</name><address><country>BE</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>DONCK, JAN C.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>LAUWERS, BART</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>OHLSSON, STEFAN BERTIL</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>VAES, JEF</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>DONCK, JAN C.</last-name><address><street>Bruul 20C</street><city>3220 Holsbeek</city><country>BE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>LAUWERS, BART</last-name><address><street>Pachterslei 2D</street><city>2223 Schriek</city><country>BE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>OHLSSON, STEFAN BERTIL</last-name><address><street>Dijkstraat 8</street><city>3150 Wespelaar</city><country>BE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>VAES, JEF</last-name><address><street>Hortweide 66A</street><city>3520 Zonhoven</city><country>BE</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Veldhuizen, Albert Dirk Willem</last-name><address><street>ExxonMobil Chemical Europe Inc. Law Technology P.O. Box 105</street><city>1830 Machelen</city><country>BE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>HU</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>RO</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The invention relates to a polymer comprising units derived from ethylene, said
+polymer having: a) a Melt Index of from 0.05 to 20 g/10 min as determined by
+ASTM-1238 Condition E; b) at least 10 per 1000 C-atoms of short chain branches,
+containing five carbon atoms or less, as determined by C13 NMR, and less than
+3.5 mol %, of units derived from a copolymerizable ethylenically unsaturated ester, c)
+a density of from 0.90 to 0.94 g/cm<sup>3</sup>, preferably 0.91 to 0.935 g/cm<sup>3</sup>, especially 0.92
+to 0.93 g/cm<sup>3</sup> as determined by ASTM D1505, and d) a relaxation time as described
+herein of at least 10 s. Such polymers are obtainable by polymerization by free radical
+polymerization using a chain transfer agent that incorporates into the polymer chain
+such as an alpha-olefin, preferably propylene, as a chain transfer agent, preferably in
+a tubular reactor under circumstances to favor LCB formation in a down stream part
+of the tubular reactor.</p><p>The polymer may be used for stretch hood film, preferably as a blown film
+coextruded tube comprising: a) a core of the above polymer; and b) a skin layer, on
+each side of the core which may be of the same or different composition, comprising
+at least 60 wt % of an LLDPE having density of 0.91 to 0.94 g/cm<sup>3</sup> as determined by
+ASTM-D 1238 Condition E and hexane extractables less than 1.5 wt %, said skin
+layer containing less than 7500 ppm of anti-block particulates and said film having an
+elastic recovery after a 100 % stretch of at least 40 % and providing a normalized
+holding force per 100 µm thickness pre-stretch at 85 % stretch after an initial stretch
+of 100 % of at least 20 N/50 mm at a deformation rate of less than 10 % of the
+starting length per second.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><b><u style="single">FIELD OF INVENTION</u></b></heading><p num="0001">The invention relates polymers of ethylene and, optionally,
+copolymerizable esters, to films using such polymers and stretch hood packaging
+process using such films. The films may, in one use, be employed to package an
+object or collection of objects generally supported on a pallet or other supporting
+platform for storage or transportation. The invention relates especially to cases where
+the polymer is an interpolymer of ethylene and a copolymerizable ester and to multi-layer
+films where a skin layer is provided on one or both sides of a core layer.</p><heading><b><u style="single">BACKGROUND OF THE INVENTION</u></b></heading><p num="0002">The term stretch hood refers to one form of packaging system in which a
+film tube is used to form a hood to bundle and protect goods. The goods may be a
+single object such as white goods (a washing machine or refrigerator) or electronic
+goods. The goods may be a collection of objects such as bottles, bags of soil, cement,
+fertilizer, polymer pellets or concrete blocks, bricks, tiles, insulation materials. The
+object or objects are often supported on a pallet or other supporting platform, referred
+to herein as a palletized load, to permit handling by a forklift device. The film tube is
+conveniently produced by blown film extrusion, which may involve coextrusion, to
+produce a tube from an annular die. Using blown film extrusion, the extruded tube is
+flattened for later use without slitting it longitudinally. Stretch hood relies on elastic
+contraction of the film tube around the object or collection of objects to be packaged,
+after a stretching device has placed the tube in a stretched condition around the object
+or collection of objects to be packaged to form the hood. The hood protects, holds the
+palletized load together against spillage if necessary and shields the palletized load
+from damage and environmental factors (moisture) during transportation and storage. 
+The hood may be sealed at one end to protect and cover the top of the palletized load.
+Alternatively, the hood may be open at the top where protection is a lower priority.</p><p num="0003">Stretch hood packaging systems may provide certain advantages over
+other forms of packaging of palletized loads such as shrink hood, where a film tube is
+shrunk by the application of heat, or stretch wrap where a flat film is wrapped around
+the object or collection of objects to be packaged. In shrink hood a film containing a
+highly oriented polymer (often LDPE with optionally some LLDPE) is melt oriented
+upon extrusion and shrinks and thickens when shrunk around and onto a palletized
+load. Heat has to be applied to shrink the film into the position where it provides the
+holding force that holds load together against spillage. The process consumes
+significant energy and the use of heat creates safety debits. The film is relatively thick
+and stiff and need not be designed to stretch easily prior to heat shrinking. In stretch
+wrap, a more linear polymer (often linear low-density polyethylene LLDPE with
+optionally some VLDPE (an ethylene copolymer of lower density than the LLDPE) is
+extruded to provide the required stretching characteristics. A tackifying polymer or
+other ingredients must be added to establish sufficient a cling force on the surface.
+The film can cling to itself strongly when rolled up (referred to as blocking) and
+excessive noise may result when unrolling the film at high speed. The film is
+relatively thin and designed to stretch easily to considerable levels of over 200 % for
+its application around a load. The holding force is provided by the contracting force
+exerted by the stretched film. Stretch wrap is applied as a flat, non-tubular film and
+may give incomplete protection against environmental factors.</p><p num="0004">This invention concerns inter-polymers, and multi-layer films, which are
+described in terms of their utility for stretch hood applications. However these
+polymers and films may have performance features that provide utility elsewhere.
+Appropriate uses might be stretch sleeve to apply a label to a bottle or agricultural
+films for silage or greenhouse film or for collation shrink applications. </p><p num="0005">The application of a film tube to package the object or collection of
+objects on a stretch hood packaging machine involves the steps described by way of
+example in EP0461667 for the case where the top of the stretch hood is sealed.</p><p num="0006">In a first step (see Figure 1 and 2 of EP0461667) a flattened film tube is
+unrolled and opened up to fit around a stretcher, which may be in the form of a frame
+as shown or in the form of four comer devices as illustrated in Figure 6. At this stage
+the top of the tube can be heat sealed before it is cut-off, creating an inverted bag. The
+stretcher device can enter the inverted bag from below. The film material is gathered
+around the stretcher by take down rollers at each comer (not shown in the Figures).
+The film is gripped in a nip between the stretcher and the rollers. The takedown
+rollers cause the film to be folded transversely and gathered on the stretcher. The film
+and rollers have to have enough friction for an efficient gathering and take down
+operation. The heat sealing at the top end of the tube requires high hot tack and seal
+strength to survive subsequent stretching. The gathered, transversely folded tube is
+then expanded by the stretcher in the transverse film direction beyond the external
+dimensions of the palletized load. This requires a pre-determined elasticity that
+permits stretching and a reversion of the stretch later upon relaxation (see Figure 3 of
+EP0461667). The expanded stretcher with the transversely stretched film tube is then
+passed downwards over the palletized load unfolding and releasing the film (see
+Figure 4 of EP0461667). This requires that the film tube, in its tensioned condition,
+has a moderate coefficient of friction with the stretcher to allow it to be released
+easily from the stretcher while at the same time submitting the film to a sufficient
+force in the machine direction to achieve a moderate degree of machine direction
+stretch. The stretcher remains in the expanded state after releasing the lower edge of
+the film hood and returns upwards to the starting positions past the hood, sealed at the
+top, now contracted around the palletized load. </p><p num="0007">Different film tube structures have been suggested for stretch hood.
+WO00/37543 discloses on a three-layer film using a blend of a metallocene produced
+plastomer (page 8, lines 10 to 16) and a predominant amount of ethylene (E) vinyl
+acetate (VA) with a high amount of VA in a core layer and surface layers of an EVA
+with low VA content containing SiO<sub>2</sub> as anti-block friction modifier. The term
+plastomer is used to indicate a low density copolymer of ethylene and α-olefins. The
+EVA polymers used in WO00/37543 are produced in a high-pressure process,
+generally in an autoclave reactor as described by way of example in EP0099646.
+These polymers generally come in the two types referred to in WO00/37543: low VA
+and high VA.</p><p num="0008">The use of high EVA limits the contracting force of the film hood. The
+film tends to be soft, is easily stretched but only exerts a limited force to return to its
+pre-stretched state. The high EVA is vulnerable to ambient heat and the film holding
+force may be weakened. These drawbacks can only be partially compensated by the
+addition of the plastomer. The surface friction provided by the low EVA skin layers,
+generally having a broader molecular weight distribution, can only controlled
+imprecisely by high amounts of anti-block, which has a negative effect on the
+transparency and mechanical properties.</p><p num="0009">Overall the film of WO00/37543 provides a weak holding force upon
+contraction after it has been stretched to a considerable degree in stretch hood
+packaging. The film thickness may have to be increased to obtain a sufficient holding
+force. Once stretched and contracted around a load, the hood may have a low
+puncture resistance and, once punctured, a poor tear propagation resistance, which
+can easily provoke a spill of the palletized load. Full stretching can also lead to wash
+boarding where different parts of the film stretch differently, giving rise to thicker
+and thinner film portions. Furthermore, the holding force can weaken when the
+palletized load is exposed to more elevated temperatures. Adjustment of the 
+coefficient of friction for a particular stretch hood packaging machine or packaging
+purpose may be unduly limited in range and/or difficult to achieve without detracting
+from other desired film properties. Many stretchable, elastomeric polymers are
+inherently sticky. If such a polymer is selected for the surface of stretch hood film,
+high levels of anti-block may be needed to allow the heat-sealed top of the hood to
+flatten and fit closely around the pelletized load. Such anti-block levels may make the
+film opaque and interfere with the mechanical and optical properties.</p><p num="0010">US6291038 described a heat shrinkable film with a medium VA EVA
+having from 9 to 20 wt % of VA, and a narrow molecular weight distribution and
+high degree of short chain branching.</p><p num="0011">As used herein, short chain branching refers to alkyl branches, detectable
+through 13C NMR techniques and excludes acetoxy branches from the incorporation
+of vinyl acetate comonomer. Short chain branching as so defined in polymers made in
+high-pressure free-radical polymerization, results mainly from the Roedel backbiting
+mechanisms that lead to ethyl and butyl type branches as well as some higher levels
+of branching. Other short chain branches result from the incorporation along the chain
+of α-olefins which have generally the effect or the intent of lowering the molecular
+weight and are referred to as telogens or transfer agents. The use of propylene transfer
+agent results in methyl-type short chain branches. The use of isobutylene would also
+result in methyl-type short chain branches. Using NMR techniques the number of
+carbon atoms in the short chain branch can be determined and also the number of the
+respective types of short chain branches. Where reference is made 1000 C atoms as
+the basis for expressing the amount of SCB or LCB, the reference to the 1000 C
+atoms refers to all carbon atoms, including carbon atoms in acetoxy groups, unless
+otherwise mentioned. </p><p num="0012">Atofina markets a grade of low VA content EVA polymer: EVATANE
+(Registered Trade Mark) 1005VN3, which has a VA content of 3.5 mol % (9.8 wt %)
+and a Melt Index of 0.33. The film has limited short chain branching and a low
+relaxation time.</p><p num="0013">Accordingly, known film structures for stretch hood packaging limit the
+performance and savings obtainable from stretch-hood packaging systems. The range
+of applications in which it would perform competitively against stretch film or shrink
+hood packaging maybe unduly restricted.</p><p num="0014">It is among the objects of the invention to improve the performance of
+stretch hood packaging films. In particular it is among the objects to achieve a better
+balance between stretchability and holding force. It is among the objects to permit a)
+a reduction in the weight of film needed to provide a given holding force in stretch
+hood packaging; b) better friction control and a more even stretching of the film for
+the stretch hood packaging operation and/or c) improved package integrity and
+transparency, resistance to puncture and tearing, and/or reduced stress relaxation at
+higher ambient temperatures after the stretch hood packaging operation has been
+completed.</p><heading><b><u style="single">SUMMARY OF THE INVENTION</u></b></heading><p num="0015">The invention has as one aspect a new ethylene based polymer, which may
+be used to improve stretch film performance. The invention has as another aspect a
+new film structure and composition which may be used to improve stretch film
+performance. In the aspect relating to the film structure the new ethylene polymer
+may be used as a core layer. Alternatively core layers of yet different compositions,
+such as conventional EVA inter-polymers, may be used in the film structure context.
+Each of these aspects can contribute to the stretch hood film performance; the aspects 
+are cumulative with the superior performance available from a combination of these
+aspects.</p><p num="0016">In one aspect there is provided a polymer comprising units derived from
+ethylene, said polymer having:
+<sl><li>a) a Melt Index of from 0.05 to 20 g/10 min as determined by ASTM-1238
+Condition E;</li><li>b) at least 10 per 1000 C-atoms of short chain branches, containing five
+carbon atoms or less, as determined by C13 NMR, and less than 3.5 mol % of units
+derived from a copolymerizable ethylenically unsaturated ester,</li><li>c) a density of from 0.90 to 0.94 g/cm<sup>3</sup>, preferably 0.91 to 0.935 g/cm<sup>3</sup>,
+especially 0.92 to 0.93 g/cm<sup>3</sup> as determined by ASTM D1505, and</li><li>d) a relaxation time as described herein of at least 10 s.</li></sl></p><p num="0017">Most of these parameters are well known in the art. The relaxation time is
+rheologically derived and reflects the time taken for the polymer chains to relax after
+deformation in a molten condition. It is influenced by aspects of the polymer structure
+such as the long chain branching level, molecular weight and molecular weight
+distribution if the relaxation time is too high the polymer will strain harden
+prematurely during cold stretching. A higher relaxation time encourages balanced
+melt orientation of the film during blown film extrusion. In use Transverse Direction
+(TD) stretching will then permit some stretching in the Machine Direction (MD)
+without rupture to provide a top to bottom holding force in addition to a sideways
+holding force.</p><p num="0018">Preferably the polymer contains at least four, especially five SCB per
+thousand carbon atoms containing three carbon atoms or less. Preferably the
+relaxation time is at least 11 and/or less than 20, or less than 15. </p><p num="0019">The polymer of the invention may conveniently be produced in free-radical
+polymerization, preferably using a tubular reactor. The ethylene derived units
+suitably form more than 85 wt % of the polymer. The amount of short chain
+branches, containing 5 carbon atoms or less, is suitably less than 30, preferably less
+than 20 per 1000 C-atoms.</p><p num="0020">The copolymerizable ethylenically unsaturated ester may be absent but
+preferably the polymer contains from 1 to 3 mol % of units derived from the
+copolymerizable ethylenically unsaturated ester and/or at least 1 per 1000 C-atoms of
+long chain branches containing 6 or more carbon atoms as determined by C13 NMR.
+The ethylenically unsaturated ester may be ethylene methacrylate and its higher
+acrylate analogues such as ethylene ethyl acrylate but is preferably ethylene vinyl
+acetate. If the VA content is too high ester the polymer may not contract sufficiently
+after extension to develop the desired holding force. Suitably also the polymer has a
+bimodal molecular weight distribution as determined by GPC DRI and/or the
+relaxation time is less than 20 s. The bimodality may be apparent as a shoulder in a
+graph representing the molecular weight distribution.</p><p num="0021">While the polymer may have a Melt Index of less than 20 g/10 min,
+preferably less than 15 and especially less than 10 g/10 min, it is preferred for blown
+film extrusion that the polymer has a Melt Index of from 0.1 to 4 g/10 min; preferably
+less than 2 g/10 min and especially less than 1 g/10 min.</p><p num="0022">In another aspect the invention, the polymer is described in terms of the
+process features used in its manufacture, which result in its unique properties. In this
+preferred aspect the invention provides a polymer comprising units derived from
+ethylene obtainable by free radical polymerization using a chain transfer agent that
+incorporates into the polymer chain, preferably propylene, as a chain transfer agent to
+provide a polymer having a Melt Index of from 0.05 to 20 g/10 min as determined by 
+ASTM-D 1238 Condition E; and at least 10 per 1000 C-atoms of short chain
+branches, containing five carbon atoms or less, as determined by C 13 NMR and less
+than 3.5 mol % of units derived from a copolymerizable ethylenically unsaturated
+ester.</p><p num="0023">The free radical polymerization may be performed in a stirred autoclave
+but is preferably produced in a tubular reactor under circumstances to favor LCB
+formation in a down stream part of the tubular reactor and preferably has a density of
+from 0.90 to 0.94 g/cm<sup>3</sup>, more preferably 0.91 to 0.935 g/cm<sup>3</sup>, especially 0.92 to 0.93
+g/cm<sup>3</sup> as determined by ASTM D1505, and/or preferably has a relaxation time as
+described herein of at least 10 s. LCB formation may be favored reduced transfer
+agent concentration and/or increased temperature in a downstream part of the tubular
+reactor. The features of the polymer of the invention discussed above in terms of the
+density, relaxation time, ethylene content, short chain branch levels, molecular weight
+distribution and Melt Index can equally be applied to this aspect of the invention.</p><p num="0024">The transfer agent is preferably selected to provide a high propensity to
+incorporate. Hence propylene is preferred and comprises preferably from 60 to 100 %
+of the total transfer agent content. However smaller amounts of other transfer agents
+(isobutylene, aldehydes) may be used.</p><p num="0025">More broadly the process for producing the polymer may be a free radical
+polymerization process comprising feeding ethylene and a copolymerizable
+ethylenically unsaturated ester and propylene as a chain transfer agent, under
+conditions favoring formation of short chain branches by backbiting and propylene
+incorporation to provide a polymer having a Melt Index of from 0.05 to 20 g/10 min
+as determined by ASTM-D 1238 Condition E; and optionally less than 3.5 mol % of
+units derived from the copolymerizable ethylenically unsaturated ester. The 
+conditions of polymerization may be adapted to obtain the optional and preferred
+polymer features described previously.</p><p num="0026">Preferably the polymerization is performed in a tubular reactor at from
+2200 to 2700 bar and from 180 to 330 °C with multiple injection of feed and initiator
+but with reduced or no injection of monomer and optionally reduced and/or no or
+reduced injection of transfer agent at a downstream reaction zone. A final
+temperature peak at a downstream reaction zone with reduced or no monomer
+injection may be in excess of the temperature peak of at least two temperature peaks
+at two reaction zones upstream of the final reaction zone. The final temperature peak
+at a downstream reaction zone with reduced or no monomer injection may be in
+excess of the temperature peak of at least one temperature peak at a reaction zone
+upstream thereof at which monomer is injected.</p><p num="0027">The polymer of the invention may be used for stretch hood packaging by
+forming the polymer into a film, which may be a mono-layer or multi-layer structure,
+capable of TD stretching by at least 100 % and ensuring retention of that film around
+a load by subsequent elastic recovery. The film structure is selected appropriately.</p><p num="0028">Preferably the film has a main layer with at least 50 wt %, based on the
+total weight of polymers in the main layer, of a polymer with any one or more of the
+features described previously, said film having an elastic recovery after a 100 %
+stretch of at least 40 % and providing a normalized holding force per 100 µm
+thickness pre-stretch at 85 % stretch, after an initial stretch of 100 %, of at least 20
+N/50 mm at a deformation rate of less than 10 % of the original starting length per
+second.</p><p num="0029">In industrial application the behavior and performance of the film when
+processed at the speeds practised in industry, generally higher than those used in 
+laboratory equipment, is important. A suitable mono-or multi-layer structure can
+provide such performance also at higher rates of deformation such as those in excess
+of 12 % of the original starting length per second. Such a film can be used to
+minimize the amount of film material needed to establish a sufficient holding force
+and also optimize the film behavior during extension and after contraction around a
+load on a stretch hood packaging line with reduced risk of tearing or puncturing.</p><p num="0030">The tensile-stress behavior when the film is stretched at ambient
+temperatures for stretch hood packaging is also of interest. Usually in a graph of the
+extension or stretch versus the stress applied, the initial slope is steepest. The
+information can be extracted as the Secant Modulus. Preferably the Secant modulus
+of the un-stretched film is less than 120 MPa. The Elmendorf tear strength is at least
+10 g/µm, preferably at least 12 g/µm and less than 25 g/µm.</p><p num="0031">Generally speaking the steeper the initial slope, the stiffer the film and the
+more power will be needed to stretch it initially. After the initial extension, the slope
+flattens and less force is needed for each further increment of extension of the film.
+The slope may become negative where a further increment of extension requires less
+force than a previous increment. Preferably the film can be extended up to 100 %
+while providing a minimum tensile test slope of at least 0.01 MPa per % elongation.
+This helps to avoid "wash boarding" which undermines the visual appearance and
+creates highly stretched parts that are prone to puncture and can split the film after it
+has contracted around a load. The polymer of the invention assists in maintaining
+minimum tensile test slope of at least 0.01 MPa per % elongation throughout the
+stretching process.</p><p num="0032">In the film the polymer of the invention may be used on its own or in a
+mixture with another polymer. The reasons for adding another polymeric component
+include helping processability by increased presence of long chain branching or 
+broader molecular weight distribution; or increasing strength in the end film by use of
+a more crystalline polymer. If necessary the film may comprise a copolymerizable
+ethylenically unsaturated ester, preferably vinyl acetate, having a content of
+copolymerizable ethylenically unsaturated ester of from 4 to 10 mol % and/or an
+ethylene α-olefin interpolymer having a density of from 0.915 to 0.86 and an MI of
+from 0.5 to 5 to help in achieving the positive tensile slope of at least 0.01 MPa per %
+elongation up to 100 % stretch. Presence of the ethylene α-olefin interpolymer can
+contribute to snap-back, that is to say the speed of elastic recovery.</p><p num="0033">Suitably the film has a multi-layer structure (such as a three or five layer
+structure) with a skin layer arranged to one or both sides of the main layer. The skin
+layer or layers may comprise a linear low density ethylene copolymer (LLDPE)
+having a density of from 0.91 to 0.94. The structure is preferably an A/B/C structure
+where C may be the same as or different from A. At least one skin layer should be an
+LLDPE. The other skin layer may be a different LLDPE or a non-LLDPE material.
+The film of the invention may be made by blown film extrusion in tubular form
+adapted to form a stretch hood capable of transverse direction extension of at least
+100 % and subsequent elastic recovery.</p><p num="0034">The film appearance is preserved upon extension and significant
+immobilizing or holding force can be developed. Depending on the composition of
+the film, the loss in holding force encountered upon heating of the palletized load can
+be substantially restricted to less than 40 % of that originally when heated to
+temperatures of up to 45 °C, possibly even up 50 °C or 55 °C or 60 °C.</p><p num="0035">In yet another aspect of the invention there is provided a film having a
+coefficient of friction of from 0.2 to 10, preferably from 0.3 to 0.8, and most
+preferably from 0.4 to 0.7 for stretch hood packaging comprising:
+<sl><li>a) a core polymeric layer; and </li><li>b) a skin layer , on each side of the core which may be of the same or
+different composition, comprising at least 60 wt % of an LLDPE having density of
+0.91 to 0.94 g/cm<sup>3</sup> as determined by ASTM-D 1238 Condition E and hexane
+extractables less than 1.5 wt %, preferably less than 1 wt %, especially less than
+0.6 wt %, said skin layer containing less than 7500 , preferably less than 3000 ppm of
+anti-block particulates and said film having an elastic recovery after a 100 % stretch
+of at least 40 % and providing a normalized holding force per 100 µm thickness pre-stretch
+at 85 % stretch after an initial stretch of 100 % of at least 20 N/50 mm. This is
+normally done at a deformation rate of less than 10 % of the starting length per
+second. The FDA hexane extractable test used here and in the examples was from the
+version current to 07 July 2003. The test was performed according to 21 CFR
+177.1520 (d)(3)(ii)(e) using a film for extraction and weighing the dried film after ;
+extraction and drying to measure the weight loss.</li></sl></p><p num="0036">The LLDPE can be conveniently prepared by polymerization using a
+transition metal compound as a catalyst. The polymerization may be gas phase, slurry
+or solution polymerization for example.</p><p num="0037">The anti-block particulates project from the surface of the film to reduce
+the areas of inter-film contact. Its use is generally minimized to maintain film clarity.
+Preferably the skin layer contains less than 2500 ppm of particulate, more preferably
+less than 2000. Particle sizes of talc or silica anti-block useful for anti-block in films
+may vary as is well known in the art. The slip agents are designed to migrate to the
+surface to provide a lubricating film to reduce the coefficient of friction. The relative
+amounts of slip-agent and any anti-block are influenced by the basic frictional and
+cling characteristics of the LLDPE skin. Using the invention, coefficients of friction
+suitable for stretch hood packaging can be established. </p><p num="0038">The handling of the film under tension during the stretch hood packaging
+operation may be improved in this way and be adapted more easily to different
+requirements. The use of an elastic film, which has to be treated with high levels of
+anti-block to reduce friction, is avoided. Instead of starting from a low level of anti-block
+present, the target coefficient of friction can be obtained by the judicious
+addition of a slip agent. The wash-boarding problem can be mitigated by the use of an
+LLDPE made using a single site catalyst (e.g. a metallocene) having a tensile test
+slope of at least 0.01 MPa per % elongation up to 100 % extension, for example that
+made as described in WO98/44011 incorporated by reference herein for US purposes.
+The top of the stretch hood can be heat sealed to provide a high bond strength.</p><p num="0039">Having used slip agent to achieve a target coefficient of friction, it can be
+advantageous to ensure that coefficient is maintained after manufacture of the film
+and before use in stretch hood packaging. This may be achieved by using an amount
+of migratable component in the core layer to minimize changes in the coefficient of
+friction in the skin layer by cross-migration between the layers. By making this film
+structure using blown film extrusion, the film solidification after extrusion of the
+bubble is influenced so as to provide improved transparency.</p><p num="0040">The core layer may be chosen from a wide range of options including high
+EVA; blends of high EVA with other materials. However superior results may be
+obtained by using as the core layer of the main layer described with the reference to
+the polymer of the invention. The film then may undergo major levels of stretching
+(well over 50 %) on a stretching device of the stretch hood packaging machine in the
+course of the application of the stretch hood to the palletized load. The resistance to
+stretching by friction against a gripper surface of the stretch hood packaging machine
+then has to be controlled carefully, particularly when thin films are used which
+become even thinner in the course of stretching. Thus this aspect of the invention, for
+giving medium to low friction skin layers, may be usefully combined with the other 
+aspect of the invention, which provides a polymer and films with a high level of SCB
+and a high relaxation time that can be highly stretched.</p><p num="0041">Satisfactory results are obtained where the skin layers constitute jointly
+from 10 to 60 % of the overall film thickness, preferably from 30 to 50 %. The film
+thickness can vary within plus or minus 5 % of the average, yet wash boarding can be
+minimized. Advantageously the average thickness of the film pre-stretch varies from
+25 to 300 µm. Advantageously the overall average film thickness may be from 25 to
+75 µm while still providing satisfactory stretch hood packaging performance. The
+film can be formulated overall to provide a minimum tensile test slope of at least
+0.01 MPa; a Secant modulus before stretching of less than 120 MPa and/or an
+Elmendorf tear strength of at least 10 g/µm. The film structure is selected
+appropriately.</p><p num="0042">The high puncture and tear resistance can permit the production of films
+that are perforated to facilitate fluid permeability of the stretch hood package, for
+example to permit continued drying etc. The multi-layer film may be made by blown
+film extrusion in tubular form adapted to form a stretch hood capable of transverse
+direction extension of at least 100 % and subsequent elastic recovery.</p><p num="0043">The skin and core may also be modified by the use of additives. The core
+and/or skin may be modified by the incorporation of a PPA processing additives or a
+slip additive, including PP or HDPE as a polymeric anti-block additive.</p><p num="0044">Using various aspects of the invention, alone or in combination, stretch
+hood systems can be optimized to minimize the amount of film needed, the energy
+consumption for shrinking and/or applying the film and stickiness in the film
+necessary for adhesion. The films can be applied and the packaged good stored in a
+wide range of temperature conditions. In production by blown extrusion, good bubble 
+stability can be achieved and the resulting film can have a high transparency due to
+the low amount of particulate anti-block.</p><heading><b><u style="single">DETAILS OF THE INVENTION</u></b></heading><p num="0045">The ethylenically unsaturated ester may be vinyl acetate, methyl acrylate,
+butyl acrylate and ethyl acrylate or a combination. The transfer agent used in the
+production of the polymer of the invention can incorporate into the chain and this
+assists in creating the short chain branches of the polymer. Preferably the transfer
+agent is propylene, although higher olefins such as iso-butylene or butene-1 may be
+used. NMR techniques struggle to differentiate branches having six or more carbon
+atoms and these are referred to collectively as Long Chain Branches (LCB). The
+presence of LCB in whatever amount or structure is reflected in the relaxation time.
+The molecular weight distribution Mw/Mn by DRI is preferably at least 8 and
+preferably bimodal, under which circumstances a high load/low load MI ratio is less
+suited to reflect the influence of LCB.</p><p num="0046">The LLDPE for the skin layer of the film of the invention may be made by
+gas phase polymerization processes such as those described in WO9425495
+incorporated by reference for US purposes. The preferred material is an LLDPE with
+some long chain branching which may be made by the process described in
+WO98/44011 incorporated by reference for US purposes. The molecular weight
+distribution expressed as a Mw/Mn value, as measured by DRI GPC, for the LLDPE
+may vary from 2.0 to 3, preferably at least 2.5, especially at least 4, to 8, especially
+less than 7. Overall orientation upon extrusion may be limited by selection of low
+Mw/Mn such as from 2.3 to 3.5. This permits the orientation of the core layer to
+dominate the film stretch properties. Some Long Chain Branching may assist in
+establishing transverse orientation helpful against wash boarding. Short chain
+branching may be provided by alpha-olefin comonomers having from 3 to 10 C-atoms,
+such as butene-1, hexen-1 and octene-1. The Melt Index Ratio expressed in 
+I<sub>21.6</sub>/I<sub>2.16</sub> may vary from 10, preferably more than 30, to 100, especially less than 80.
+While the disclosures rely on metallocene single site supported catalysts, other
+transition metal components may serve as single site catalysts and provide
+appropriate polymer homogeneity and absence of low molecular weight extractables.
+In addition conventional titanium based Ziegler Natta catalyst systems may be
+optimized to reduce the production of low molecular weight extractables. Such
+polymers can be equally suitable for the films of the invention.</p><p num="0047">The skin layer in the multi-layer film structures of the invention may
+contain, in admixture with the LLDPE, small amounts, generally less than 20 wt % of
+a high pressure low density polyethylene; a linear high density polyethylene or
+polypropylene or a combination thereof. The core layer may contain small amounts,
+generally less than 40 wt % of a linear very low density polyethylene having a
+density of from 0.86 to 0.90, an LLDPE having a density of from 0.91 to 0.94; and/or
+an elastomer with ethylene or propylene derived crystallinity. Layers may be
+interposed between the core and skin layers, part of the purpose may be to limit the
+amount of the more expensive polymers for the skin and core layers.</p><p num="0048">The amount of slip agent employed, especially that in the skin layers, is
+preferably limited to max 500 ppm. If there is too much slip agent employed, then the
+coefficient of friction will become too low, with resultant poor film handling in the
+packaging machine. More preferably an amount of slip agent of 150 to 300 ppm is
+used. Examples of slip agent that may be used are primary or secondary amides, such
+as erucamide and oleamide. In addition to or instead of slip agent, an anti-agglomeration
+additive may be used, for example stearates. If employed, such
+additives would normally be used in greater amounts than required for the slip agent,
+e.g. from 1000 to 5000 ppm. </p><p num="0049">The film preferably does not contain any tackifying agents such as PIB or
+castor oil or similar additive. The presence of such tackifying additives will generally
+have an adverse effect on control of coefficient of friction. It is believed, without
+being bound by theory, that the core and skin layers each make distinct contributions
+to the overall film properties. When the polymer composition of the skin and core
+layers are blended into a single layer, the effects differ from when they are used in
+distinct layers. Each layer makes its own contribution. By suitable combination of
+skin and core layers, a film can be made which permits considerable stretching while
+retaining its physical integrity and tear resistance, while at the same time the core
+layer remains able to provide a optimized contracting force.</p><heading><b><u style="single">EXAMPLES</u></b></heading><p num="0050">The invention is explained by reference to the Examples in which mention
+is made of the following Figures:
+<sl><li>Figure 1 is a schematic layout of a tubular reactor plant used to make the EVA
+polymer according to the invention referred to in the Examples;</li><li>Figure 2 is a temperature profile used to run the reactor of Figure 1 so as to provide
+the EVA copolymer according to the invention referred to in the Examples;</li><li>Figure 3A and 3B show a 13C NMR plots of the EVA copolymer according to the
+invention and a comparative grade UL00109 referred to in the Examples;</li><li>Figure 4 shows a graph plotting shear rate and viscosity for calculation of the
+relaxation time of the EVA copolymer according to the invention referred to in the
+Examples;</li><li>Figure 5 shows a bar chart indicating stretch hood relaxation and retained force at
+elevated temperatures (75% initial stretch - 60 % final stretch) of a film of the
+invention made using the EVA copolymer referred to in the Examples;</li><li>Figure 6A and 6B show graphs illustrating tear propagation behavior of different
+films including a film according to the invention; and </li><li>Figure 7 shows a three dimensional graph, illustrating of the effect on Coefficient of
+Friction of different amounts of Exceed polymer and film thickness of films
+according to the invention.</li></sl></p><heading><u style="single">Polymer components</u></heading><p num="0051">In general the EVA copolymer is produced in a tubular polymerization
+reactor by free radical initiation. Initiators used may be oxygen, peroxides and
+similar agents. The chain transfer agent, instrumental in increasing the amount of
+short chain branching is an alpha-olefin, generally consisting substantially of
+propylene. The highly exothermic reaction is performed in a reactor operating under
+high pressure (2000 to 3200 bar), under turbulent flow and at high temperatures (150
+to 330 °C). The heat of polymerization is removed through the tube wall. Operating
+conditions like reactor pressure, reactor temperature in the different reaction zones
+and co-monomer and chain transfer agent concentrations are adjusted to achieve the
+required product properties. The effect of operating conditions on product properties,
+is discussed in (Ehrlich and Pittilo [1], Ehrlich and Mortimer [2], Luft [3], Marano
+and Jenkins [4], Yamamoto and Sugimoto [5], Goto et al. [6], Luft et al. [7, 8], Ogo
+[9], Beasly [10].)</p><heading><u style="single">References</u></heading><p num="0052"><sl><li>[1] P. Ehrlich and R.N. Pitillo, J. Polym. Sci., 43, 389 (1960).</li><li>[2] P. Ehrlich and G.A. Mortimer, Adv. Polym. Sci., 7(3), 386 (1970).</li><li>[3] G. Luft in "Polymer Handbook". (Eds. J. Brandrup and E.H. Immergut),
+Wiley, New York (1975).</li><li>[4] J.P. Marano Jr. and J.M. Jenkins, in "High Pressure Technology"
+(edited by I.L. Spain and J. Paauwe) 61 (1977).</li><li>[5] K. Yamamoto and M. Sugimoto, J.Macrom. Sci.-Chem., A13(8), 1067
+(1979). </li><li>[6] S. Goto, K.Yamamoto, S. Furui and M. Sugimoto.
+J. Appl. Polym. Sci.: Appl. Polym. Symp., 36, 21 (1981).</li><li>[7] G. Luft, P. Lim and M. Yakawa, Makromol. Chem., 184,207 (1983a).</li><li>[8] G. Luft, P. Lim and M. Yakawa, Makromol. Chem., 184, 849 (1983b).</li><li>[9] Y. Ogo, JMS-Rev. Macrom. Chem. Phys., C24(1), 1 (1984).</li><li>[10] J.K. Beasly in "Comprehensive Polymer Science", 3, 273 (1989).</li></sl></p><p num="0053">With reference to Figures 1 and 2 in a tubular reactor, a monomer feed of
+ethylene, vinyl acetate and transfer agent is supplied to a primary compressor 4 and
+hence to a secondary compressor 6. The discharge flow of the secondary compressor
+6 is divided in the number of streams required for the front and side streams of the
+tubular reactor 8 as indicated by arrows Ib to IVb in Figure 2. The flow to the front
+(upstream end) of the reactor 8 is heated at 10 while the flows to the side stream entry
+points are cooled at 12. The side stream flows are then fed to injection points along
+the length of the tubular reactor 8.</p><p num="0054">The tubular reactor 8 is a plug flow reactor with limited back-mixing.
+Peroxide type initiator is supplied from storage at 20, mixed with solvent and
+supplied by pump 22 to the reactor 8 at position indicated in Figure 2 at Ia to VIa.
+Multiple peroxide injection points 24 are used along the length of the reactor 8 to
+maximize conversion of ethylene to EVA polymer and optimize product properties.
+Four or more injection points are used. It is to be noted that the final injection point or
+points is in a tube section where the monomer feed is not supplied. Reactor
+conversion rates can approach 40%.</p><p num="0055">The peroxide initiator initiates the free radical, exothermic polymerization
+reaction. The reaction heat is removed by an increase of the temperature of the
+ethylene, by injection of the cold side stream of ethylene and by heat transfer through
+the reactor wall to a closed-loop jacket water cooling system. It is to be noted that in 
+comparison with the usual temperature fluctuation as shown by line A, the
+temperature fluctuates as shown by line B (see Figure 2). The temperature initially is
+lower than usual. The temperature at the downstream portion, where no monomer
+feed is supplied by a side-stream, is allowed to become higher than usual. The
+conversion of ethylene to polymer is maximized by the use of reactor jacket water at
+suitable cooling water temperatures. This cool jacket water maximizes the heat
+transfer through the thick walled reactor pipes. The pressure drop along the length of
+the reactor is minimized through the use of a stepped profile on reactor tube
+diameters. Line A indicates the usual pressure-drop along the reactor length for
+conventional EVA production; line B is indicative of the absolute pressure employed
+for the EVA of the invention. This stepped profile optimizes the gas velocity along
+the length of the reactor, which virtually eliminates fouling on the interior wall of the
+tubular reactor.</p><p num="0056">An extensive distributed computer control system is used to control the
+reactor temperature profile and other key process variables.</p><p num="0057">After polymerization (which takes about 20 to 40 seconds in tube with a
+length of 1.8 km and a diameter of approximately 32.65 mm), the reaction fluid is
+decompressed through the reactor pressure control valve 30 to about 300 barg and
+cooled with the low pressure cold quench from the primary compressor discharge.
+The mixture is then fed to the high pressure separator 32 where polymer is separated
+from unreacted monomer. The use of the low pressure quench minimizes the
+formation of gels and improves the clarity. Recycled monomer is recycled as at 33 to
+the secondary compressor 6.</p><p num="0058">The molten polymer and a small amount of entrained ethylene are again
+decompressed to approx. 0.7 barg through a low pressure let-down valve and fed to 
+the low pressure separator 34. At this point most of the remaining entrained monomer
+is separated from the EVA and is sent to the purge gas compression system 35.</p><p num="0059">The purge gas compressor 35 boosts the low pressure separator off-gas to
+the suction pressure of the primary compressor 4 (operated at ethylene pipeline
+pressure). At this point, part of the gas is purged from the EVA line to the monomer
+recovery system, while the majority of this gas is recycled via the primary
+compressor back to the reactor system.</p><p num="0060">The polymer melt from the low pressure separator 34 is fed to the hot melt
+extruder 36. In the hot melt extruder additives are mixed in. This is typically done via
+a sidearm extruder 38 utilizing the masterbatch technique. Note that the masterbatch
+can contain additives such as slip, antiblock and antioxidant. Alternatively, liquid
+additive injection can be considered.</p><p num="0061">The polymer strands leaving the die of the extruder are cut into pellets
+underwater, and the pellets are cooled, dried at 40 and pneumatically transferred to
+weigh-bins 42 or blenders 44, in which the pellets are purged to reduce the residual
+ethylene concentration to a safe to store concentration (&lt; 50 wppm). After blending
+the pellets are conveyed to bulk loading or bagging facilities 46.</p><p num="0062">To make the particular EVA's of the invention and those used in the
+Examples, process conditions are adjusted to achieve a broad molecular weight
+distribution with the appropriate amount of branching on the polymer while keeping
+the melt index sufficiently low. The conversion is targeted to be high by using four or
+more injection points for the initiator and injecting ethylene monomer with modifier
+or transfer agent diluted in the monomer, upstream of the final initiator injection
+point, at one or more locations. The depletion of the modifier permits extensive
+branching in the final polymerization stages. This process can be operated to give the 
+desired low MI and broad molecular weight distribution. Reactor pressures are
+towards the low end of the range conventionally used (2200 to 2700 bar) while the
+reactor temperatures lowers progressively along the length of the tube. The average
+temperature is increased to above 220 °C, towards 300 °C at the upper end of the
+conventional range (180 to 330 °C.), so as to favor formation of short chain branches
+and maximize the long chain branching. The temperature is increased downstream of
+the final injection point in comparison with conventional operating conditions to
+increase long chain branching further. Propylene is used as the olefinic chain transfer
+agent to increase the short chain branching of the polymer backbone further. The
+actual concentration at VA and propylene in the respective streams can be varied to
+yield and molecular weight.
+
+The EVA's used in these Examples had the following characteristics: <tables><table><tgroup cols="6"><tbody><row><entry align="left"><b>Characteristic</b></entry><entry align="left"><b>Measured by</b></entry><entry align="left"><b>Inventive EVA</b></entry><entry align="left"><b>EVA<!--footnotes removed--> UL00109</b></entry><entry align="left"><b>EVA<!--footnotes removed--> UL00018</b></entry><entry align="left"><b>EVATANE <!--footnotes removed--> 1005VN3</b></entry></row><row><entry align="left">Melt Index (MI) g/10 min</entry><entry align="left">ASTM-D 1238 Condition E</entry><entry align="left">0.41</entry><entry align="left">0.49</entry><entry align="left">0.35</entry><entry align="left">0.33</entry></row><row><entry align="left">Melt Index Ratio</entry><entry align="left">ASTM D1238 D I<sub>21</sub>/I<sub>2</sub></entry><entry align="left">79</entry><entry align="left">80</entry><entry align="left">86</entry><entry align="left">105</entry></row><row><entry align="left">VA mol %</entry><entry align="left">NMR 16-1.2L</entry><entry align="left">2.3</entry><entry align="left">3.2</entry><entry align="left">6.9</entry><entry align="left">3.5</entry></row><row><entry align="left">Density (g/cm<sup>3</sup>)</entry><entry align="left">ASTM-D 1505</entry><entry align="left">0.9275</entry><entry align="left">0.9324</entry><entry align="left">N/A</entry><entry align="left">N/A</entry></row><row><entry align="left">Heat of Fusion</entry><entry align="left">ASTM-D 3417-3418</entry><entry align="left">95.5 J/g</entry><entry align="left">112.5 J/g</entry><entry align="left">69.5 J/g</entry><entry align="left">96.9 J/g</entry></row><row><entry align="left">Peak Melt Temp.</entry><entry align="left">ASTM-D 3417-3418</entry><entry align="left">98 °C</entry><entry align="left">100.5 °C</entry><entry align="left">85 °C</entry><entry align="left">97 °C</entry></row><row><entry align="left">SCB per 1000C with five carbon atoms or less</entry><entry align="left">NMR 04-1.1</entry><entry align="left">14.3</entry><entry align="left">7.13</entry><entry align="left">6.6</entry><entry align="left">10.4</entry></row><row><entry align="left">SCB per 1000C with three carbon atoms or less</entry><entry align="left">NMR 04-1.1</entry><entry align="left">6.29</entry><entry align="left">2.66</entry><entry align="left">2.40</entry><entry align="left">3.28</entry></row><row><entry align="left">Relaxation time 230 °C (s)</entry><entry align="left">WO97/45244 page 5 lines 1 to 19.</entry><entry align="left">11.7</entry><entry align="left">6.9</entry><entry align="left">15.5</entry><entry align="left">8.8</entry></row><row><entry align="left">Mw/Mn</entry><entry align="left">GPC 03-2.1</entry><entry align="left">9.2</entry><entry align="left">5.1</entry><entry align="left">4.4</entry><entry align="left">5.1<!--footnotes removed--><!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0063">The VA mol % is calculated using the CH resonances between 75 and 68
+ppm and the resonances between 50 and 0 ppm including the CH<sub>2</sub>, CH<sub>3</sub> from VA and
+the CH<sub>2</sub>, CH and CH<sub>3</sub> from Ethyl moieties. The correlation with wt % of VA is that 1
+mol % VA equals 2.7 wt % VA.</p><p num="0064">SCB is determined by reference to the content of alkyl type SCB with five
+carbon atoms or less as illustrated below. Figure 3A shows a 13C NMR plot of the
+EVA copolymer according to the invention referred to in the Examples and provides
+the data for Table 2: Figure 3B gives the same plot of a known EVA for comparison.
+<tables><table><tgroup cols="6"><tbody><row><entry align="left">Configuration measured</entry><entry align="left">Peak location in ppm<!--footnotes removed--></entry><entry align="left">Inventive EVA<!--footnotes removed--></entry><entry align="left"><b>EVA<!--footnotes removed--> UL00109</b></entry><entry align="left"><b>EVA<sup>(1)</sup> UL00018</b></entry><entry align="left">EVATANE<!--footnotes removed--> 1005VN3</entry></row><row><entry align="left">Methyl <!--footnotes removed--></entry><entry align="left">19.948.</entry><entry align="left">1.19</entry><entry align="left">0.00</entry><entry align="left">0.00</entry><entry align="left">0.00</entry></row><row><entry align="left">Ethyl</entry><entry align="left">9.539+10.996</entry><entry align="left">5.1022</entry><entry align="left">2.66</entry><entry align="left">2.40</entry><entry align="left">3.28</entry></row><row><entry align="left">Dimethyl</entry><entry align="left">42.7</entry><entry align="left">0</entry><entry align="left">0.87</entry><entry align="left">0.06</entry><entry align="left">0</entry></row><row><entry align="left">Butyl</entry><entry align="left">23.359</entry><entry align="left">6.08</entry><entry align="left">3.34</entry><entry align="left">2.89</entry><entry align="left">5.42</entry></row><row><entry align="left">Amyl</entry><entry align="left">32.679.</entry><entry align="left">2.12</entry><entry align="left">1.13</entry><entry align="left">1.31</entry><entry align="left">1.93</entry></row><row><entry align="left">Total SCB with five carbon atoms or less</entry><entry align="right"/><entry align="left">14.3</entry><entry align="left">8.00</entry><entry align="left">6.66</entry><entry align="left">10.38</entry></row><row><entry align="left">Hexyl+ LCB with six carbon atoms or more <!--footnotes removed--></entry><entry align="left">32.165</entry><entry align="left">3.55</entry><entry align="left">1.77</entry><entry align="left">2.04</entry><entry align="left">2.34</entry></row><row><entry align="left">2-ethyl hexyl</entry><entry align="left">24</entry><entry align="left">1.51</entry><entry align="left">0.79</entry><entry align="left">1.13</entry><entry align="left">0.97</entry></row><row><entry align="left">2-ethyl-heptyl</entry><entry align="left">23.6</entry><entry align="left">1.58</entry><entry align="left">0.89</entry><entry align="left">1.12</entry><entry align="left">1.41</entry></row><row><entry align="left">VA carbonyl</entry><entry align="left">169 ppm.</entry></row><row><entry align="left">VA CH<sub>2</sub>O</entry><entry align="left">74 ppm.<!--footnotes removed--><!--footnotes removed--><!--footnotes removed--><!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0065">The relaxation time was determined from the following data plotted in
+Figure 4 from determinations of shear rate and viscosity of the EVA copolymer
+according to the invention referred to in the Examples. <tables><table><tgroup cols="5"><tbody><row><entry nameend="5" namest="1">Temp: 230 °C</entry></row><row><entry align="center" namest="1">Shear rate</entry><entry nameend="3" align="center" namest="2">Measured</entry><entry nameend="5" align="center" namest="4">Predicted</entry></row><row><entry align="center"/><entry align="center">Viscosity</entry><entry align="center">Shear stress</entry><entry align="center">Viscosity</entry><entry align="center">Shear stress</entry></row><row><entry align="left">(s^-1)</entry><entry align="left">(Pa*s)</entry><entry align="left">(Pa)</entry><entry align="left">(Pa*s)</entry><entry align="left">(Pa)</entry></row><row><entry align="left">3.41E+02</entry><entry align="left">1.88E+02</entry><entry align="left">64158</entry><entry align="left">284</entry><entry align="left">96792</entry></row><row><entry align="left">2.32E+02</entry><entry align="left">2.64E+02</entry><entry align="left">61190</entry><entry align="left">346</entry><entry align="left">80359</entry></row><row><entry align="left">1.58E+02</entry><entry align="left">3.44E+02</entry><entry align="left">54467</entry><entry align="left">422</entry><entry align="left">66673</entry></row><row><entry align="left">1.08E+02</entry><entry align="left">4.40E+02</entry><entry align="left">47373</entry><entry align="left">513</entry><entry align="left">55277</entry></row><row><entry align="left">7.34E+01</entry><entry align="left">5.55E+02</entry><entry align="left">40726</entry><entry align="left">624</entry><entry align="left">45786</entry></row><row><entry align="left">5.00E+01</entry><entry align="left">6.95E+02</entry><entry align="left">34763</entry><entry align="left">758</entry><entry align="left">37883</entry></row><row><entry align="left">3.41E+01</entry><entry align="left">8.65E+02</entry><entry align="left">29479</entry><entry align="left">919</entry><entry align="left">31302</entry></row><row><entry align="left">2.32E+01</entry><entry align="left">1.07E+03</entry><entry align="left">24846</entry><entry align="left">1113</entry><entry align="left">25821</entry></row><row><entry align="left">1.58E+01</entry><entry align="left">1.32E+03</entry><entry align="left">20815</entry><entry align="left">1345</entry><entry align="left">21259</entry></row><row><entry align="left">1.08E+01</entry><entry align="left">1.61E+03</entry><entry align="left">17339</entry><entry align="left">1621</entry><entry align="left">17463</entry></row><row><entry align="left">7.34E+00</entry><entry align="left">1.96E+03</entry><entry align="left">14351</entry><entry align="left">1949</entry><entry align="left">14305</entry></row><row><entry align="left">2.32E+00</entry><entry align="left">3.37E+03</entry><entry align="left">7820</entry><entry align="left">3314</entry><entry align="left">7692</entry></row><row><entry align="left">1.58E+00</entry><entry align="left">3.98E+03</entry><entry align="left">6298</entry><entry align="left">3919</entry><entry align="left">6196</entry></row><row><entry align="left">1.08E+00</entry><entry align="left">4.68E+03</entry><entry align="left">5038</entry><entry align="left">4606</entry><entry align="left">4962</entry></row><row><entry align="left">7.34E-01</entry><entry align="left">5.44E+03</entry><entry align="left">3996</entry><entry align="left">5378</entry><entry align="left">3947</entry></row><row><entry align="left">5.00E-01</entry><entry align="left">6.29E+03</entry><entry align="left">3143</entry><entry align="left">6233</entry><entry align="left">3117</entry></row><row><entry align="left">3.41E-01</entry><entry align="left">7.19E+03</entry> <entry align="left">2450</entry><entry align="left">7165</entry><entry align="left">2441</entry></row><row><entry align="left">2.32E-01</entry> <entry align="left">8.16E+03</entry> <entry align="left">1894</entry> <entry align="left">8163</entry><entry align="left">1895</entry></row><row><entry align="left">1.58E-01</entry><entry align="left">9.19E+03</entry><entry align="left">1452</entry><entry align="left">9214</entry><entry align="left">1457</entry></row><row><entry align="left">1.08E-01</entry><entry align="left">1.02E+04</entry><entry align="left">1103</entry><entry align="left">10298</entry><entry align="left">1109</entry></row><row><entry align="left">7.34E-02</entry><entry align="left">1.13E+04</entry><entry align="left">830</entry><entry align="left">11396</entry><entry align="left">836</entry></row><row><entry align="left">5.00E-02</entry><entry align="left">1.24E+04</entry><entry align="left">620</entry><entry align="left">12485</entry><entry align="left">624</entry></row><row><entry align="left">3.41E-02</entry><entry align="left">1.35E+04</entry><entry align="left">459</entry><entry align="left">13544</entry><entry align="left">461</entry></row><row><entry align="left">2.32E-02</entry><entry align="left">1.47E+04</entry><entry align="left">342</entry><entry align="left">14554</entry><entry align="left">338</entry></row></tbody></tgroup></table></tables>
+The predicted data is from the Cross model in which: <st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">Shear Stress = (Zero shear viscosity * shear rate) / (1+relaxation time, λ * shear rate)<st32:break type="required"/>∧ powerlaw index, m.</st32:df></p><p num="0066">The loss function for best fit, measured versus the predicted, is defined as
+the sum of the differences in squares; SUMXMY2 where the x and y array is
+measured and predicted viscosity respectively. The solver tool in Microsoft Excel
+Windows 2000 version is issued to perform the curve fitting. The relaxation time is
+derived from the Cross model parameters that will results in the minimum sum of the
+square differences. The Cross parameters provided by the curve fitting are set out in
+Table 4:
+<img id="img-00280001" orientation="unknown" wi="114" img-format="tif" img-content="tb" file="00280001.tif" inline="no" he="31"/></p><p num="0067">Lambda is the relaxation time. M represents the power low index. The
+Zero shear is indicative of the plateau viscosity. M is indicative of the slope of the
+shear curve in the high shear rate region.</p><p num="0068">The GPC procedure used in this and the later Tables is as follows. Mw
+and Mn were measured by GPC (Gel Permeation Chromatography) on a Waters 150
+gel permeation chromatograph equipped with a differential refractive index (DRI)
+detector and Chromatix KMX-6 on line light scattering photometer. The system was
+used at 135°C with 1,2,4-trichlorobenzene as the mobile phase. Shodex (Showa
+Denko America, Inc) polystyrene gel columns 802, 803, 804 and 805 were used.
+This technique is discussed in "Liquid Chromatography of Polymers and Related
+Materials III", J. Cazes, editor, Marcel Dekker. 1981, p. 207, which is incorporated
+herein by reference. No corrections for column spreading were employed; however,
+data on generally accepted standards, e.g. National Bureau of Standards Polyethylene 
+1484 and anionically produced hydrogenated polyisoprenes (an alternating ethylenepropylene
+copolymer) demonstrated that such corrections on Mw/Mn (=MWD) were
+less than 0.05 units. Mw/Mn was calculated from elution times. The numerical
+analyses were performed using the commercially available Beckman/CIS customised
+LALLS software in conjunction with the standard Gel Permeation package.</p><p num="0069">The plastomer was made by the process generally described in
+WO00/24793 incorporated by reference for US purposes and is sold commercially by
+ExxonMobil Chemical Company as EXACT 0201. It had the following
+characteristics:
+<tables><table><tgroup cols="3"><tbody><row><entry align="left"><b>Characteristic</b></entry><entry align="left"><b>Measured by</b></entry><entry align="left"><b>Value</b></entry></row><row><entry align="left">Melt Index (MI) g/10 min</entry><entry align="left">ASTM-D 1238 Condition E</entry><entry align="left">1.1</entry></row><row><entry align="left">Melt Index Ratio</entry><entry align="left">ASTM-D 1238 I<sub>21</sub>/I<sub>2</sub></entry><entry align="left">33</entry></row><row><entry align="left">1-Octene mol %</entry><entry align="left">NMR 04-1.1</entry><entry align="left">5.15</entry></row><row><entry align="left">Density(g/cm<sup>3</sup>)</entry><entry align="left">ASTM-D 1505</entry><entry align="left">0.902</entry></row><row><entry align="left">Heat of Fusion</entry><entry align="left">ASTM-D 3417-3418</entry><entry align="left">86 J/g</entry></row><row><entry align="left">Peak Melt Temp</entry><entry align="left">ASTM-D 3417-3418</entry><entry align="left">94 °C</entry></row><row><entry align="left">Mw/Mn</entry><entry align="left">GPC 03-21</entry><entry align="left">2.8</entry></row></tbody></tgroup></table></tables></p><p num="0070">The EXACT grades are available with HS additivation including slip and
+anti-block and without such additives in which there is no suffix. The polymer used
+for the skin layers is made by the process generally described in WO94/25495 and
+sold commercially by ExxonMobil Chemical Company as EXCEED 1018 CA
+without anti-block and EXCEED 1018 EB with anti-block. These grades contain antioxidants
+and PPA (a fluoropolymer based material supplied under the Trade Mark
+Dynamar by Dyneon) in the usual amounts. Exceed 1018 CA contains no slip and no
+anti-block. Exceed 1018 EB contains 750 ppm of erucamide and 1500 ppm. talc as 
+anti-block and has an extractability according to FDA177.1520d3ii as set out herein
+of 0.3-0.4 wt %.</p><p num="0071">These EB and CA grades have the following shared characteristics:
+<tables><table><tgroup cols="3"><tbody><row><entry align="left"><b>Characteristic</b></entry><entry align="left"><b>Measured by</b></entry><entry align="left"><b>Value</b></entry></row><row><entry align="left">Melt Index (MI) g/10 min</entry><entry align="left">ASTM-D 1238 Condition E</entry><entry align="left">1</entry></row><row><entry align="left">Melt Index Ratio</entry><entry align="left">ASTM D1505</entry><entry align="left">17</entry></row><row><entry align="left">1-Hexene mol %</entry><entry align="left">NMR 04-1.1</entry><entry align="left">2.8</entry></row><row><entry align="left">Density(g/cm<sup>3</sup>)</entry><entry align="left">ASTM D1505</entry><entry align="left">0.918</entry></row><row><entry align="left">Heat of Fusion</entry><entry align="left">ASTM-D 3417-3418</entry><entry align="left">127.5 J/g</entry></row><row><entry align="left">Mw/Mn</entry><entry align="left">GPC 0.3 2.1</entry><entry align="left">2.16</entry></row><row><entry align="left">Peak Melt Temp.</entry><entry align="left">ASTM-D 3417-3418</entry><entry align="left">118 °C</entry></row></tbody></tgroup></table></tables></p><p num="0072">In some embodiments a different type of LLDPE may be used, prepared
+as described W09844011. This LLDPE has, it is assumed, some long chain branch
+formation, and the following properties:
+<tables><table><tgroup cols="3"><tbody><row><entry align="left"><b>Characteristic</b></entry><entry align="left"><b>Measured by</b></entry><entry align="left"><b>Value</b></entry></row><row><entry align="left">Melt Index (MI) g/10 min</entry><entry align="left">ASTM-D 1238 Condition E</entry><entry align="left">1</entry></row><row><entry align="left">Melt Index Ratio</entry><entry align="left">ASTM-D 1238</entry><entry align="left">40</entry></row><row><entry align="left">1-Hexene mol %</entry><entry align="left">NMR 04-1.1</entry><entry align="left">2-3 mol % approximately</entry></row><row><entry align="left">Density(g/cm<sup>3</sup>)</entry><entry align="left">ASTM D1505</entry><entry align="left">0.92</entry></row><row><entry align="left">Heat of Fusion</entry><entry align="left">ASTM-D 3417-3418</entry><entry align="left">140.5</entry></row><row><entry align="left">Mw/Mn</entry><entry align="left">GPC 03-2.1</entry><entry align="left">3</entry></row><row><entry align="left">Peak Melt Temp.</entry><entry align="left">ASTM-D 3417-3418</entry><entry align="left">117 °C</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Blending and coextrusion</u></heading><p num="0073">The EVA's and EXACT plastomer were blended in the blown film
+extruder from the polymers supplied in pelletized form. The materials were
+coextruded in a Windmoeller &amp; Holscher coextrusion blown film line as follows for
+Examples 1, 2 and 3:
+<tables><table><tgroup cols="4"><tbody><row><entry align="left"><b>Coextrusion component</b></entry><entry align="left"><b>Skin layer A outside of tube</b></entry><entry align="left"><b>Core layer B</b></entry><entry align="left"><b>Skin layer C inside of tube</b></entry></row><row><entry align="left">Screw Diameter</entry><entry align="left">60 mm</entry><entry align="left">90 mm</entry><entry align="left">60 mm</entry></row><row><entry align="left">L/D ratio</entry><entry align="left">30</entry><entry align="left">30</entry><entry align="left">30</entry></row><row><entry align="left">Feed section bore surface</entry><entry align="left">Smooth</entry><entry align="left">Grooved</entry><entry align="left">Grooved</entry></row><row><entry nameend="2" align="left" namest="1">Die diameter 250mm; die gap 1.4 mm IBC; Optifil P2K</entry><entry nameend="4" align="left" namest="3">Contact winder</entry></row></tbody></tgroup></table></tables></p><p num="0074">For Examples 4, 5 and 6 the conditions were as follows:
+<tables><table><tgroup cols="4"><tbody><row><entry align="left"><b>Coextrusion component</b></entry><entry align="left"><b>Skin layer A outside of tube</b></entry><entry align="left"><b>Core layer B</b></entry><entry align="left"><b>Skin layer C inside of tube</b></entry></row><row><entry align="left">Screw Diameter</entry><entry align="left">60 mm</entry><entry align="left">90 mm</entry><entry align="left">60 mm</entry></row><row><entry align="left">L/D ratio</entry><entry align="left">30</entry><entry align="left">30</entry><entry align="left">30</entry></row><row><entry align="left">Feed section bore surface</entry><entry align="left">Grooved</entry><entry align="left">Grooved</entry><entry align="left">Grooved</entry></row><row><entry nameend="2" align="left" namest="1">Die diameter 280mm; die gap HQ 1.4 mm (in range 0.8-2.2) IBC; Optifil P2, 200 °C ( in range 180-240 °C), Output 200 kg/hr.</entry><entry nameend="4" align="left" namest="3">Contact winder</entry></row></tbody></tgroup></table></tables></p><p num="0075">The resulting structures are as follows: <tables><table><tgroup cols="10"><tbody><row><entry align="left"><b>Example</b></entry><entry align="center"/><entry align="left"><b>1</b></entry><entry align="left"><b>2</b></entry><entry align="left"><b>3</b></entry><entry align="left"><b>4</b></entry><entry align="left"><b>5</b></entry><entry align="left"><b>6</b></entry><entry align="left"><b>7</b></entry><entry align="left"><b>Range</b></entry></row><row><entry align="left">Core Layer B</entry><entry align="left">wt % EVA</entry><entry align="left">100<!--footnotes removed--></entry><entry align="left">85<!--footnotes removed--></entry><entry align="left">70<!--footnotes removed--></entry><entry align="left">70<!--footnotes removed-->)</entry><entry align="left">70<!--footnotes removed--></entry><entry align="left">70<!--footnotes removed--></entry><entry align="left">100 <!--footnotes removed--></entry><entry align="left">50-100</entry></row><row><entry align="left"/><entry align="left">EXACT <sup><!--footnotes removed--></sup></entry><entry align="left">0</entry><entry align="left">15</entry><entry align="left">30</entry><entry align="left">30 HS</entry><entry align="left">30 HS</entry><entry align="left">30 HS</entry><entry align="left">0</entry><entry align="left">0-50</entry></row><row><entry align="left">Slip agent</entry><entry align="left">Erucamide</entry><entry align="left">150 ppm</entry><entry align="left">150 ppm</entry><entry align="left">150 ppm</entry><entry align="left">0 ppm</entry><entry align="left">0 ppm</entry><entry align="left">0</entry><entry align="left">0</entry><entry align="left">0-450 ppm.</entry></row><row><entry align="left">Skin Layer A/C</entry><entry align="left">CA+EB wt%<!--footnotes removed--></entry><entry align="left">62.5+ 37.5</entry><entry align="left">62.5+ 37.5</entry><entry align="left">62.5+ 37.5</entry><entry align="left">0+100</entry><entry align="left">0+100</entry><entry align="left">0+100</entry><entry align="left">100+0</entry><entry align="left">0-100</entry></row><row><entry align="left"/><entry align="left">Talc ppm</entry><entry align="left">2500</entry><entry align="left">0</entry><entry align="left">2500</entry><entry align="left">0</entry><entry align="left">0</entry><entry align="left">0</entry><entry align="left">0</entry><entry align="left">0-10000</entry></row><row><entry align="left">Film</entry><entry align="left">Thickness</entry><entry align="left">140</entry><entry align="left">140</entry><entry align="left">140</entry><entry align="left">150</entry><entry align="left">150</entry><entry align="left">80</entry><entry align="left">80</entry><entry align="left">50-200</entry></row><row><entry align="left"/><entry align="left">A/B/C ratio</entry><entry align="left">1/3/1</entry><entry align="left">1/3/1</entry><entry align="left">1/3/1</entry><entry align="left">1/3/1</entry><entry align="left">1/3/1</entry><entry align="left">1/3/1</entry><entry align="left">1/3/1</entry><entry align="left">1/1/1-1/8/1</entry></row><row><entry align="left">Extrusion</entry><entry align="left">Blow up ratio</entry><entry align="left">3.18</entry><entry align="left">3.18</entry><entry align="left">3.18</entry><entry align="left">2.85</entry><entry align="left">2.85</entry><entry align="left">2.85</entry><entry align="left">2.85</entry><entry align="left">2-5</entry></row><row><entry align="left"/><entry align="left">Frostline height</entry><entry align="left">750</entry><entry align="left">750</entry><entry align="left">750</entry><entry align="left">740</entry><entry align="left">885</entry><entry align="left">885</entry><entry align="left">885<!--footnotes removed--><!--footnotes removed--><!--footnotes removed--><!--footnotes removed--><!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0076">The film was used on a stretch hood packaging machine Multiflex
+supplied by Lachenmeier (Denmark) to immobilize stacks of paper.
+<tables><table><tgroup cols="3"><tbody><row><entry align="center"/><entry align="center"/><entry align="left"><b>Value</b></entry></row><row><entry align="left">Transverse direction stretch</entry><entry align="left">Stretch applied by m/c
+
+Stretch contracted on pallet</entry><entry align="left">106 %
+
+90 %</entry></row><row><entry align="left">Machine direction stretch</entry><entry align="left">Estimated</entry><entry align="left">25 % approx.</entry></row><row><entry align="left">Top sealing conditions</entry><entry align="left">Impulse sealing</entry><entry align="left">50 Hz 0.9-1.1 sec.</entry></row></tbody></tgroup></table></tables></p><p num="0077">The film subsequent to contraction had the following properties.
+References 4 to 7 are comparative. Reference 1 is a commercially available film for
+stretch hood packaging which is a coextruded structure combining high EVA on the
+inside and low EVA on the surface. Reference 2 is a commercially available mono-layer
+film from a blend of high and low EVA. <tables><table><tgroup cols="10"><tbody><row><entry align="left"><b>Example</b></entry><entry align="left"><b>1</b></entry><entry align="left"><b>2</b></entry><entry align="left"><b>3</b></entry><entry align="left"><b>4</b></entry><entry align="left"><b>5</b></entry><entry align="left"><b>6</b></entry><entry align="left"><b>7</b></entry><entry align="left"><b>Ref 1</b></entry><entry align="left"><b>Ref 2</b></entry></row><row><entry align="left">Thickness</entry><entry align="left">144</entry><entry align="left">143</entry><entry align="left">143</entry><entry align="left">150</entry><entry align="left">150</entry><entry align="left">80</entry><entry align="left">80</entry><entry align="left">153</entry><entry align="left">152</entry></row><row><entry align="left">Holding Force N/50 mm</entry><entry align="left">35.3</entry><entry align="left">35.0</entry><entry align="left">34.6</entry><entry align="left">38.0</entry><entry align="left">34.0</entry><entry align="left">17.8</entry><entry align="left">15.4</entry><entry align="left">26.6</entry><entry align="left">31.3</entry></row><row><entry align="left">Normalized Holding Force 100 µm N/50 mm</entry><entry align="left">24.7</entry><entry align="left">24.5</entry><entry align="left">24.3</entry><entry align="left">24.0</entry><entry align="left">22.0</entry><entry align="left">22.2</entry><entry align="left">19.5</entry><entry align="left">17.4</entry><entry align="left">20.6</entry></row><row><entry align="left">Elastic Recovery %</entry><entry align="left">50</entry><entry align="left">51</entry><entry align="left">51</entry><entry align="left">51</entry><entry align="left">53</entry><entry align="left">51</entry><entry align="left">53</entry><entry align="left">56</entry><entry align="left">48</entry></row><row><entry align="left">Tensile TD (MPa) ASTM D 882</entry><entry align="left">36.4</entry><entry align="left">37</entry><entry align="left">37.6</entry><entry align="left">36.8</entry><entry align="left">41.3</entry><entry align="left">46.1</entry><entry align="left">41.7</entry><entry align="left">28.4</entry><entry align="left">26.1</entry></row><row><entry align="left">Secant Mod TD (MPa) ASTM D 882</entry><entry align="left">153</entry><entry align="left">149</entry><entry align="left">147</entry><entry align="left">145</entry><entry align="left">128</entry><entry align="left">119</entry><entry align="left">106</entry><entry align="left">116</entry><entry align="left">126</entry></row><row><entry align="left">Elmendorf MD (g/µm) ASTM D1922</entry><entry align="left">12.4</entry><entry align="left">12.1</entry><entry align="left">13.5</entry><entry align="left">15.3</entry><entry align="left">15.3</entry><entry align="left">12.5</entry><entry align="left">11.3</entry><entry align="left">8.4</entry><entry align="left">9.2</entry></row><row><entry align="left">Elmendorf TD (g/µm) ASTM D1922</entry><entry align="left">16.9</entry><entry align="left">15.6</entry><entry align="left">15.8</entry><entry align="left">17.3</entry><entry align="left">17.5</entry><entry align="left">18.0</entry><entry align="left">14.1</entry><entry align="left">10.9</entry><entry align="left">11.1</entry></row><row><entry align="left">Puncture Force N/15mm</entry><entry align="left">2.02</entry><entry align="left">2.14</entry><entry align="left">2.11</entry><entry align="left">2.9</entry><entry align="left">2.4</entry><entry align="left">2.0</entry><entry align="left">2.7</entry><entry align="left">0.96</entry><entry align="left">0.83</entry></row><row><entry align="left">Tear Propagation at 100 % stretch</entry><entry align="left">OK</entry><entry align="left">OK</entry><entry align="left">OK</entry><entry align="left">OK</entry><entry align="left">OK</entry><entry align="left">OK</entry><entry align="left">OK</entry><entry align="left">Bad</entry><entry align="left">Bad</entry></row></tbody></tgroup></table></tables></p><p num="0078">The test protocols for measurement of the above film properties, other
+than the established ASTM methods indicated, are:
+<sl><li>a) Holding Force/Elastic Recovery are determined by a method based on
+an ASTM D5459 standard test method for elastic recovery, permanent deformation 
+and stress retention of stretch film but modified in that the film sample is stretched to
+a certain elongation (100 %) at a certain cross-head speed (1000 mm/min). When the
+100 % elongation is reached, the cross-head is kept in this position for 5 sec and then
+reversed to a certain 85 % elongation. The load on the sample is then measured after a
+60 sec waiting time in (N/50 mm) and recorded as the holding force in the Table. This
+mimics the holding force acting on the palletized load. Subsequently the cross-head is
+returned to a position where the force reads zero. The elongation is recorded as the
+elastic recovery in the Table. The normalized holding force is calculated by adjusting
+the holding force according to the thickness of the film to a thickness of 100 µm N/50
+mm (e.g. the measured value is doubled for a film with an initial thickness of 50 µm).</li><li>b) The Tear Propagation is measured based on ASTM 882 but modified
+in that a film sample (50 * 50 mm) with a small pre-cut (2mm wide in MD) is
+stretched in TD to 100 % elongation at 1000 mm/min cross head speed. To pass the
+test the film should not tear uncontrolled but show an intermittent tear propagation
+behavior, where the tearing is arrested and further force application is required to
+restart it.</li><li>c) The puncture force is measured to determine the low speed puncture
+properties of plastic film samples. The method aims to provide load versus
+deformation response under multi-axial deformation conditions at a fixed relatively
+low test speed (500 mm/min) to mimic the conditions under which the stretch hood
+immobilizes a palletized load with sharp articles. In this test a piston with a standard
+probe fixed to a load cell is pushed through a film sample in a circular sample holder
+with a 90 mm diameter until the film punctures and breaks. The load is measured on
+the load cell and the deformation is measured by the travel of the cross-head.</li></sl></p><p num="0079">To further illustrate the benefits provided by the Examples, reference is
+made to the drawings and following discussion with reference to the drawings. </p><p num="0080">Figure 4 is a bar chart showing variation in holding force with heating
+and cooling cycle temperature. The testing protocol (stretch hood relaxation test) for
+assessing the effect of heating and cooling cycles was as follows:
+<sl><li>The relaxation test was performed using a test jig equipped with two vertically spaced
+horizontal bars. The upper bar is movable vertically to apply a predetermined
+elongation to the film, which is attached to the bars in the form of a sleeve 50 mm
+wide by 100 mm long. The lower bar is attached to a strain gauge to measure the
+force acting on the film and the force is recorded using a data-logger. The test at
+elevated temperature is performed by putting the whole test jig into a hot-air heated
+oven at the desired temperature. To simulate the initial force acting on a shrink film,
+the film is pre-tensioned to 3 % elongation which corresponds to the tension typically
+found in commercially used pallet shrink film. The predetermined elongation applied
+to the film as tested was developed by stretching by an initial 75 % and then allowing
+the film to relax back to 60 %. The jig can be subjected to the desired heating and
+cooling cycles to record the increase or decrease from the initial tension.</li></sl></p><p num="0081">The data, reflected in Figure 4, are in Table 10. Firstly with 150 micron
+LDPE based shrink film shown at A, the holding force upon heating to 60 °C drops
+drastically to a fraction of the initial holding force at room temperature. There is a
+limited recovery upon cooling. At subsequent cycles the holding force deteriorates
+further. All this necessitates the use of a thicker film than would otherwise be the
+case. The film shown at B is a high EVA (18 wt % VA) with EXCEED surface layers
+coextruded to a film of 80 microns thick. In this case after an initial drastic drop in
+holding force upon heating to 60 °C, the holding force drops further upon subsequent
+cooling to ambient temperature. The film has to be of sufficient thickness to
+accommodate the loss in holding force. The film at C corresponds to film 5 in Table
+12 but with a reduced thickness of 80 microns. In this case, the losses in holding force
+are reduced over films A and B. However they are still significant. Film D is
+according the invention and corresponds to film 1 in Table 12 but with a reduced 
+thickness to 80 micron. In this case there is still a loss of holding force upon heating
+to 60 °C. For a given thickness the film D provides a better holding force at 60 °C
+than film C, which performance is maintained during subsequent heating and cooling
+cycles, leading to a marked superiority after repeated heating and cooling cycles.
+<tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1"><b>Retained Force (N/50 mm)</b></entry></row><row><entry nameend="2" align="center" namest="1">Temperature</entry><entry align="center" namest="3">23°C</entry><entry align="center" namest="4">60°C
+
+(1st cycle)</entry><entry align="center" namest="5">23°C</entry><entry align="center" namest="6">60°C
+
+(2nd cycle)</entry><entry align="center" namest="7">23°C</entry></row><row><entry align="center">Film:</entry><entry align="center">A</entry><entry align="center">18.00</entry><entry align="center">4.50</entry><entry align="center">10.40</entry><entry align="center">4.10</entry><entry align="center">9.90</entry></row><row><entry align="right"/><entry align="center">B</entry><entry align="center">15.00</entry><entry align="center">7.20</entry><entry align="center">5.40</entry><entry align="center">6.80</entry><entry align="center">5.30</entry></row><row><entry align="right"/><entry align="center">C</entry><entry align="center">17.50</entry><entry align="center">9.50</entry><entry align="center">8.30</entry><entry align="center">9.00</entry><entry align="center">7.60</entry></row><row><entry align="right"/><entry align="center">D</entry><entry align="center">20.20</entry><entry align="center">11.00</entry><entry align="center">10.40</entry><entry align="center">11.00</entry><entry align="center">9.80</entry></row><row><entry>A: Shrink Hood (LDPE based), 150 micron
+
+B: Coex (EVA core layer 18 %VA), 80 micron
+
+C: Coex (EVA core layer 18 %VA + 30 % Exact 0201, 80 micron)
+
+D: Coex (Inventive EVA core layer), 80 micron</entry></row></tbody></tgroup></table></tables></p><p num="0082">Figures 6A and 6B illustrate the tear propagation for the different films in
+Table 12. As an indication of the weight saving in the hood which is available with
+the invention, Film 1 according to the invention and Reference 1 can be compared. It
+should be noted that at 100 % stretch, the tear propagation for Reference 1 is bad. In
+practice that means that it can only be stretched to a level well below 100 % so as to
+preserve package integrity in the event of a film puncture and subsequent tear
+propagation. In turn the reduced degree of stretch for Reference 1 which is
+compatible with package integrity means that the holding force for a given film
+weight would be reduced. Thus a thicker film must be used. In addition the 
+comparison shows that even ignoring the requirement for package integrity the film
+according to the invention gives a higher holding force for the same film weight.</p><p num="0083">The Examples according to the invention have "intermittent tear"
+characteristics in that after initial stretch, a puncture only spreads progressively stepwise
+if the load is increased further. In intervening zones, tear propagation can be
+arrested. As illustrated the intermittent tear zone starts after about 70 % stretch.
+Reference 1 and 2 in Table 12 above suffer from progressive tear after about 60 %
+stretch with no intervening tear-arresting plateau. Such highly stretched prior art
+films, if punctured while containing a load, can tear catastrophically, spilling the load.
+With the invention a higher degree of stretch can be safely applied.</p><p num="0084">Figure 7 is a graph showing the sensitivity of the coefficient of friction
+with different compositions of the skin layers. With reference to Figures 7, it is
+apparent that the coefficient of friction (COF) can be adapted to that required by
+particular stretch hood packaging machines over a broad range of from 0.2 to 1.2,
+spanning the preferred range of around 0.4 to 0.6, by the judicious combination of
+anti-block and slip agent. The desired combination can be achieved by the use of a
+mixture of existing metallocene derived LLDPE grades with inherently low blocking
+characteristics. The performance is stabilized by the matching inclusion of such
+additives that are migratable (such as the slip agent) in the core layer. Figure 7 also
+shows that COF is substantially constant over a broad range of thicknesses, which
+indicates the film to have very good machine performance. This has the added
+advantage that the need to reformulate or to adjust the skin layer composition, for
+different thicknesses, is reduced.</p><p num="0085">The data on the coefficient of friction as shown in Figure 7 were
+developed by means of a designed experiment (4 factors, 3 levels) in which was
+studied the effect on coefficient of friction of four parameters [(a) antiblock added in 
+addition to the amount already present in the additivated polymer component of the
+skin layer, (b) film thickness, (c) plastomer level in core layer and (d) amount of slip-
+and antiblock- additivated Exceed-1018EB (as a percentage of total additivated and
+unadditivated (Exceed 1018CA) polymer in the skin layer)]. The films to be tested
+were produced by the method and equipment described with reference to Table 8 with
+a layer distribution of A= 20 %, B= 60 %, C= 20 %. The coefficient of friction (COF)
+was measured following ASTM D1894. A series of films to be tested was formed
+used various combinations of the four parameters mentioned above, each parameter
+being employed at three levels. These levels were: (a) 0, 2500, 5000 ppm, anti-block
+(b) 80, 110, 140 micron, film thickness (c) 0, 37.5, 75 %, additivated Exceed EB (d)
+0, 15, 30 % plastomer. The data were analyzed using a Design of Experiment
+software package (DesignExpert). Figure 7 is a statistical model derived from the
+results obtained in the designed experiments and represents films where the antiblock
+level (a) is at 1250 ppm; and the plastomer level in the core layer (c) is zero. The
+figure shows the kinetic COF performance of the films as parameters (b) and (c) are
+varied.</p><p num="0086">The impact of higher stretch and thinner films, as well as better
+preservation of the holding force as a result of temperature variations, can be
+exploited to provide savings in amount of polymer consumed per palletized load in
+excess of 50 % over prior art films for containing palletized loads. Wash boarding can
+be minimized, especially if thicker films are desired by the use of an EVA with a low
+VA content and high SCB content and/or the admixture of EXACT and/or the use of
+an LLDPE containing LCB. Such steps render the tensile curve positive or less
+negative over a greater degree of film stretch.</p><p num="0087">The benefits of the films of the invention and the optimized EVA
+described herein can be exploited in wide variety of ways. While the invention has
+been described against the background of stretch hood packaging requirements, the 
+unique characteristics of the EVA may also be suitable for the modification of the
+performance of shrink hood film or stretch wrap films as well as other film
+applications. In the field of stretch hood packaging the improved characteristics may
+be exploited to lower the cost of packaging by reducing the weight of films used by
+employing thinner and/or more highly stretched films. The improved characteristics
+may also be employed to strengthen the holding force, transparency etc. so as to
+qualify stretch hood packaging films for more demanding applications where until
+now their performance had not been sufficient.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>Polymer comprising units derived from ethylene, said polymer having:
+<claim-text><claim-text>a) a Melt Index of from 0.05 to 20 g/10 min as determined by ASTM-1238
+Condition E;</claim-text><claim-text>b) at least 10 per 1000 C-atoms of short chain branches, containing five
+carbon atoms or less, as determined by C13 NMR, and less than 3.5 mol % of units
+derived from a copolymerizable ethylenically unsaturated ester,</claim-text><claim-text>c) a density of from 0.90 to 0.94 g/cm3, preferably 0.91 to 0.935 g/cm3,
+especially 0.92 to 0.93 g/cm3 as determined by ASTM D1505, and</claim-text><claim-text>d) a relaxation time as described herein of at least 10 s.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>Polymer according to Claim 1 which contains at least four , preferably five, short
+chain branches per thousand carbon atoms containing three carbon atoms or less.</claim-text></claim><claim num="3"><claim-text>Polymer according to Claim 1 or Claim 2 which contains less than 30 and
+preferably less than 20 per 1000 C-atoms of short chain branches, containing five
+carbon atoms or less, as determined by C13 NMR.</claim-text></claim><claim num="4"><claim-text>Polymer according to any of the preceding claims in which the polymer contains
+from 1 to 3 mol % of units derived from a copolymerizable ethylenically
+unsaturated ester and/or at least 1, preferably at least 5, per 1000 C-atoms of all
+long chain branches, containing 6 or more carbon atoms as determined by C 13
+NMR.</claim-text></claim><claim num="5"><claim-text>Polymer according to any of the preceding claims in which the polymer has a
+bimodal molecular weight distribution as determined by GPC DRI and/or the
+relaxation time is less than 20 s.</claim-text></claim><claim num="6"><claim-text>Polymer according to any of the preceding claims in which the polymer has a
+Melt Index of less than 15 g/10 min and especially less than 10 g/10 min.</claim-text></claim><claim num="7"><claim-text>Polymer according to any of the preceding claims the polymer has a Melt Index
+of from 0.1 to 4 g/10 min; preferably less than 2 g/10 min and especially less than
+1 g/10 min for blown film extrusion.</claim-text></claim><claim num="8"><claim-text>Polymer, comprising units derived from ethylene, obtainable by free radical
+polymerization using a chain transfer agent that incorporates into the polymer
+chain such as an alpha-olefin, preferably propylene, to provide a polymer having
+a Melt Index of from 0.05 to 20 g/10 min as determined by ASTM-D 1238
+Condition E; and at least 10 per 1000 C-atoms of short chain branches, containing
+five carbon atoms or less, as determined by C13 NMR and optionally less than
+3.5 mol % of units derived from a copolymerizable ethylenically unsaturated
+ester.</claim-text></claim><claim num="9"><claim-text>Polymer according to Claim 8 in the which the polymer is produced in a tubular
+reactor under circumstances to favor LCB formation in a down stream part of the
+tubular reactor and preferably has a density of from 0.90 to 0.94 g/cm3, more
+preferably 0.91 to 0.935 g/cm3, especially 0.92 to 0.93 g/cm3 as determined by
+ASTM D1505, and/or preferably has a relaxation time as described herein of at
+least 10 s.</claim-text></claim><claim num="10"><claim-text>Free radical polymerization process comprising feeding ethylene and a
+copolymerizable ethylenically unsaturated ester and propylene as a chain transfer
+agent, under conditions favoring formation of short chain branches by backbiting
+and propylene incorporation to provide a polymer having a Melt Index of from
+0.05 to 20 g/10 min as determined by ASTM-D 1238 Condition E; and optionally
+less than 3.5 mol % of units derived from the copolymerizable ethylenically
+unsaturated ester.</claim-text></claim><claim num="11"><claim-text>Process according to Claim 10 in which the polymer has a density of from 0.90 to
+0.94 g/cm3, preferably 0.91 to 0.935 g/cm3, especially 0.92 to 0.93 g/cm3 as
+determined by ASTM D1505.</claim-text></claim><claim num="12"><claim-text>Process according to Claim 10 or 11 in which the polymer has a relaxation time
+as described herein of at least 10 s.</claim-text></claim><claim num="13"><claim-text>Process according to any of Claims 10 to 12 in which the polymer contains from
+1 to 3 mol % of units derived from a copolymerizable ethylenically unsaturated
+and/or at least 1 per 1000 C-atoms of long chain branches, containing 6 or more
+carbon atoms as determined by C 13 NMR.</claim-text></claim><claim num="14"><claim-text>Process according to any of Claims 10 to 13 in which the polymer the polymer
+has a bimodal molecular weight distribution as determined by GPC DRI.</claim-text></claim><claim num="15"><claim-text>Process according to any of Claims 10 to 14 in which the polymer has a Melt
+Index of less than 15 g/10 min and especially less than 10 g/10 min.</claim-text></claim><claim num="16"><claim-text>Process according to any of Claims 10 to 15 the polymer has a Melt Index of from
+0.1 to 4 g/10 min; preferably less than 2 g/10 min and especially less than 1 g/10
+min for blown film extrusion.</claim-text></claim><claim num="17"><claim-text>Process according to any of Claims 10 to 16 in which the polymer has at least 10
+per 1000 C-atoms of short chain branches, containing four carbon atoms or less,
+as determined by C13 NMR.</claim-text></claim><claim num="18"><claim-text>Process according to any of claims 10 to 17 in which the polymerization is
+performed in a tubular reactor at from 2200 to 2700 bar and from 180 to 330 °C
+with multiple injection of feed and initiator but with reduced or no injection of
+monomer and optionally reduced and/or no or reduced injection of transfer agent
+at a downstream reaction zone.</claim-text></claim><claim num="19"><claim-text>Process according to Claim 18 in which a final temperature peak at a downstream
+reaction zone with reduced or no monomer injection is in excess of the
+temperature peak of at least two temperature peaks at two reaction zones
+upstream of the final reaction zone.</claim-text></claim><claim num="20"><claim-text>Process according to Claim 18 or Claim 19 in which a final temperature peak at a
+downstream reaction zone with reduced or no monomer injection is in excess of
+the temperature peak of at least one temperature peak at a reaction zone upstream
+thereof at which monomer is injected.</claim-text></claim><claim num="21"><claim-text>Use of a polymer according to any of claims 1 to 9 or obtainable by a process
+according to any of claims 10 to 20 for stretch hood packaging by forming the
+polymer into a multi-layer film capable of TD stretching by at least 100 % and
+retention around a load by subsequent elastic recovery.</claim-text></claim><claim num="22"><claim-text>Multi-layer film comprising a main layer with at least 50 wt %, based on the total
+weight of polymers in the main layer, of a polymer according to any of claims 1
+to 9 or obtainable by a process according to any of claims 10 to 20, said film
+having an elastic recovery after a 100 % stretch of at least 40 % and providing a
+normalized holding force per 100 µm thickness pre-stretch at 85 % stretch, after
+an initial stretch of 100 %, of at least 20 N/50 mm.</claim-text></claim><claim num="23"><claim-text>Film according to claim 22 in which the film can be extended up to 100 % while
+providing a minimum tensile test slope of at least 0.01 MPa per % elongation.</claim-text></claim><claim num="24"><claim-text>Film according to any of the preceding claims 22 or 23 in which the Secant
+modulus of the un-stretched film is less than 180 MPa, optionally less than 120
+Mpa.</claim-text></claim><claim num="25"><claim-text>Film according to any of the preceding claims 22 to 24 in which the film has a
+multi-layer structure (such as a three or five layer structure) with a skin layer
+arranged to one or both sides of the main layer comprising a linear low density
+ethylene copolymer (LLDPE) having a density of from 0.91 to 0.94 and is
+preferably an A/B/C structure where C may be the same or different as A.</claim-text></claim><claim num="26"><claim-text>Film according to any of the preceding claims 22 to 25 made by blown film
+extrusion in tubular form adapted to form a stretch hood upon stretching in a
+transverse direction, which is capable of extension to at least 100 % at an overall
+deformation rate in excess of 12 % of the original starting length per second at
+constant cross-head speed.</claim-text></claim><claim num="27"><claim-text>Film having a coefficient of friction of from 0.2 to 1 for stretch hood packaging
+comprising:
+<claim-text><claim-text>a) a core polymeric layer; and</claim-text><claim-text>b) a skin layer, on each side of the core which may be of the same or
+different composition, comprising at least 60 wt % of an LLDPE having density of
+0.91 to 0.94 g/cm3 as determined by ASTM-D 1238 Condition E and hexane
+extractables less than 1.5 wt %, said skin layer containing less than 7500 ppm of anti-block
+particulates and said film having an elastic recovery after a 100 % stretch of at
+least 40 % and providing a normalized holding force per 100 µm thickness pre-stretch
+at 85 % stretch after an initial stretch of 100 % of at least 20 N/50 mm.</claim-text></claim-text></claim-text></claim><claim num="28"><claim-text>Film according to Claim 27 in which the coefficient of friction is from 0.4 to 0.7
+provided by an LLDPE skin layer having density of 0.91 to 0.94 g/cm3 containing
+less than 3000 ppm of anti-block particulates.</claim-text></claim><claim num="29"><claim-text>Film according to Claim 27 or Claim 28 in which one or both skin layers
+comprise an LLDPE made using a single site catalyst (e.g. a metallocene) having
+a tensile test slope of at least 0.01 MPa per % elongation up to 100 % extension.</claim-text></claim><claim num="30"><claim-text>Film according any of the Claims 27 to 29 in which one or both skin layers
+contain migratable slip agent to provide a coefficient of friction as defined herein
+between 0.4 to 0.7 and the main, core layer contains an amount of migratable
+component to minimize changes in the coefficient of friction by cross-migration
+of slip agent between the core and skin layers.</claim-text></claim><claim num="31"><claim-text>Film according to any of Claims 27 to 30 in which one or both skin layers contain
+non-migratable polymeric surface modifier such as a high molecular weight
+UHDPE having a molecular weight of above 500 000 and a density of 0.94 or
+more to provide a coefficient of friction as defined herein between 0.4 to 0.7 and
+increased friction under the holding force pressure with a palletized load.</claim-text></claim><claim num="32"><claim-text>Film according to any of Claims 27 to 31 in which an intermediate layer is
+interposed between the core layer and one or both skin layers, said intermediate
+layer being a polymer composition having a modulus more than 40, optionally
+more than 50 MPa below that of the adjacent skin layer.</claim-text></claim><claim num="33"><claim-text>Film according to any of Claims 27 to 32 in which the skin layers have different
+contents of anti-block, slip and/or surface modifier additives.</claim-text></claim><claim num="34"><claim-text>Film according to any of claims 27 to 33 in which the core layer comprises a
+polymer according to any of claims 1 to 9 or obtainable by a process according to
+any of claims 10 to 20.</claim-text></claim><claim num="35"><claim-text>Film according to any of claims 27 to 34 in which the skin layers constitute
+jointly from 10 to 60 % of the overall film thickness, preferably from 30 to 50 %.</claim-text></claim><claim num="36"><claim-text>Film according to any of the preceding claims 27 to 35 made by blown film
+extrusion in seamless tubular form adapted to form a stretch hood upon transverse
+direction capable of extension to at least 100 % and subsequent elastic relaxation.</claim-text></claim><claim num="37"><claim-text>Stretch hood packaging process using a film according to any of claims 22 to 36.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1323788-A1" country="EP" doc-number="1323788" kind="A1" lang="EN" family-id="9928364" status="new" date-produced="20090516" date="20030702"><bibliographic-data><publication-reference ucid="EP-1323788-A1" status="new" fvid="23800909"><document-id status="new" format="original"><country>EP</country><doc-number>1323788</doc-number><kind>A1</kind><date>20030702</date></document-id></publication-reference><application-reference ucid="EP-02028498-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>02028498</doc-number><kind>A</kind><date>20021219</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="GB-0130897-A" status="new"><document-id status="new" format="epo"><country>GB</country><doc-number>0130897</doc-number><kind>A</kind><date>20011222</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09D  11/00C2</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Pigmentierte Tinten für Tintenstrahldrucker</invention-title><invention-title load-source="ep" status="new" lang="EN">Pigmented inks for ink jet printers</invention-title><invention-title load-source="ep" status="new" lang="FR">Encres pigmentées pour des imprimantes à jet d'encre</invention-title><citations><patent-citations><patcit ucid="EP-0899311-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0899311</doc-number><kind>A1</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1114851-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1114851</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5803958-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5803958</doc-number><kind>A</kind></document-id><sources><source category="AD"  name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>ILFORD IMAGING UK LTD</name><address><country>GB</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ILFORD IMAGING UK LIMITED</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Ilford Imaging UK Limited</last-name><address><street>Town Lane, Mobberley</street><city>Knutsford, Cheshire WA16 7JL</city><country>GB</country></address></addressbook></applicant></applicants><inventors><inventor status="new"  format="epo"><addressbook><name>REDFEARN GRAHAM</name><address><country>GB</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>ROSE PETER EDWARD</name><address><country>GB</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>WALKER NICHOLAS ALEXANDER</name><address><country>GB</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>REDFEARN, GRAHAM</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>ROSE, PETER EDWARD</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>WALKER, NICHOLAS ALEXANDER</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>REDFEARN, GRAHAM</last-name><address><street>9 Regency Court</street><city>Winsford, Cheshire CW7 1FE</city><country>GB</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>ROSE, PETER EDWARD</last-name><address><street>6 Rookery Rise</street><city>Winsford, Cheshire CW7 3EA</city><country>GB</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>WALKER, NICHOLAS ALEXANDER</last-name><address><street>Silverburn, Brereton Heath Lane, Brereton Heath</street><city>Congleton, Cheshire CW12 4EZ</city><country>GB</country></address></addressbook></inventor></inventors></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>There is provided an aqueous ink jet ink composition suitable for use in continuous ink jet
+printers comprising:-
+<sl><li>(a) a surface modified carbon black pigment;</li><li>(b) at least one organic pigment; and</li><li>(c) an aqueous carrier medium.</li></sl></p><p>The ink may also comprise at least one dispersant for the organic pigment. The black
+aqueous pigment ink formulated in accordance with this composition provides a dried ink
+film whereof the resistivity is increased to a level whereby no printer failure or print
+defects are caused by electrical shorts when the printer has been out of use for a sufficient
+time to allow the ink to dry out in parts of the apparatus.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">Field of the Invention</u></heading><p num="0001">This invention relates to improved black pigmented ink jet inks, and in particular to a black
+ink jet ink suitable for use in continuous ink jet printers.</p><heading><u style="single">Background of the Invention</u></heading><p num="0002">Ink jet printing is a non-impact method that in response to a digital signal produces
+droplets of ink that are deposited on a substrate such as paper or transparent film. Ink jet
+printers have found broad application as output for personal computers in the office and the
+home. There are several classes of ink jet printer, for instance thermal drop-on-demand
+printers, piezo drop-on-demand printers, and continuous ink jet printers.</p><p num="0003">Continuous ink jet recording has several advantages in that it produces low noise and can
+obtain a high-resolution recorded image at a high speed by utilising a highly integrated
+head. It is common to use a solution obtained by dissolving one or more water-soluble dyes
+in water or a solvent mixture of water and an organic solvent as the ink for such an ink jet
+recording method. In addition to the properties required of the ink for good printing
+performance, there are other requirements affecting the start up of the printing apparatus
+after it has been turned off for any length of time. For example, firstly, any ink which dries
+on the orifice plate or other surfaces should redissolve rapidly when the apparatus is
+restarted, and secondly, it is also important that the dried ink film should have adequate
+electrical resistivity to prevent shorting out electrodes in the system when an attempt is
+made to restart the printhead. Current state-of-the-art aqueous ink jet inks which utilise
+water soluble dyes achieve acceptable performance in these respects.</p><p num="0004">Several suitable water soluble dyes which have been perfected for ink jet use are known,
+but there are some deficiencies to the use of these dyes. For instance they remain soluble in
+water on the printed page and are therefore subject to print defects such as feathering and to
+blurring and leaching by water, for example rain water and coffee. Furthermore, many of 
+the dyes in use have poor light fastness and fade even on exposure to fluorescent lighting
+used in offices.</p><p num="0005">Consequently there is interest in the use of a black pigment such as carbon black in inks for
+continuous ink jet printers. The term pigment describes a colorant which is substantially
+insoluble in the aqueous ink medium. It is expected that prints produced using a pigmented
+ink will display better light stability and also improved fastness to washing and weathering
+as the pigment is dispersed rather than dissolved.</p><p num="0006">However the use of pigments rather than dyes creates some complications in the use of the
+ink. For instance, redispersion rather than redissolvability must be achieved to have good
+system start-up. In addition, pigmented black inks based on carbon black dry down to
+provide films which are electrically conductive, presumably due to the interparticle contact
+at the bare carbon particle surface. This means that when a continuous ink jet printhead is
+shut down, the films formed from the dried inks on surfaces in the apparatus tend to short
+out electrodes in the system and that start up performance is poor.</p><p num="0007">Thus there is a need to increase the electrical resistivity of dried ink films from pigmented
+black inks. To a certain extent the problem may be overcome by reducing the concentration
+of the black pigment, but the density of the printed image then becomes inferior to that of
+the image printed by using a dyed ink and also the image tends to become brown shaded or
+warm toned. Although under certain circumstances toned images may be desired, a neutral
+or nearly neutral shade is normally preferred. Further, it is known according to United
+States Patent 5,609,671 that the use of inks incorporating dispersions prepared from surface
+treated or chemically modified black pigments will increase the electrical resistivity of
+dried ink films. However this is normally insufficient to overcome the problem.
+Furthermore, it is also known that the addition of various polymers to pigmented inks will
+increase the dried ink film resistance. For instance United States Patent 6,203,605 discloses
+an ink jet ink composition comprising a liquid vehicle, a chemically modified pigment
+dispersion, and also incorporating a polymer to provide a synergistic effect in increasing
+the dried ink film resistance values. However the amount of polymer which may be added
+to the ink is limited as the viscosity is otherwise excessive for satisfactory use. </p><p num="0008">It is seen then that there is a need for an improved pigment based black ink suitable for use
+in continuous ink jet printers. We have developed an ink formulation which provides
+acceptably resistive dried ink films for use in continuous ink jet printers.</p><p num="0009">European Patent Application 0 899 311 A discloses use of a combination of carbon black
+with an organic pigment in an ink jet ink and United States Patent 5,803,958 discloses use
+of carbon black in combination with cyan and magenta pigments. However neither of these
+disclose inks that are used in continuous ink jet printers and nor do they disclose the use of
+surface treated carbon black with an organic pigment.</p><heading><u style="single">Summary of the Invention</u></heading><p num="0010">According to this invention there is provided an aqueous ink jet ink composition suitable
+for use in continuous ink jet printers comprising:
+<sl><li>(a) a surface modified carbon black pigment;</li><li>(b) at least one organic pigment; and</li><li>(c) an aqueous carrier medium.</li></sl></p><p num="0011">The term pigment describes a colorant which is essentially insoluble in the aqueous ink
+medium. Carbon black is listed in the Pigments and Solvent Dyes section of the Colour
+Index International, published by the Society of Dyers and Colourists in 1997 as C.I.
+Pigment Black 7. Examples include furnace black, lamp black, acetylene black, and
+channel black. By a surface modified carbon black is meant a carbon black pigment, the
+particles of which have been modified by incorporation of organic groups at the surface
+such as, for example, carboxylic or sulphonic acid groups. Such chemically modified
+carbon black pigments are known and commercially available from suppliers such as Cabot
+Corporation and Orient Corporation, and may include so-called self dispersing carbon
+black and graft carbon black pigments.</p><p num="0012">Suitable organic pigments may include almost any insoluble coloured organic compound.
+Many such compounds are described in the book Industrial Organic Pigments by W.Herbst
+and K.Hunger, 2nd edition published by VCH Weinheim in 1997. Suitable pigments
+include those classified by the Colour Index as C.I. Pigment Black 1; C.I. Pigment Yellow 
+1, 3, 12, 13, 14, 17, 24, 55, 74, 81, 83, 87, 95, 97, 98, 100, 101, 104, 108, 109, 110, 117,
+120, 138, 151, 154, 155 and 180; C.I. Pigment Orange 5, 13, 16, 17, 36, 43, and 51; C.I.
+Pigment Red 1, 2, 3, 9, 17, 22, 23, 31, 38, 48:1, 48:2, 48:3, 48:4, 49:1, 52:2, 53:1, 57:1,
+60:1, 63:1, 63:2, 64:1, 81, 83, 88, 112, 114, 122, 123, 146, 149, 166, 168, 170, 172, 177,
+178, 179, 184, 188, 190, 202, and 209; C.I. Pigment Violet 1, 3, 5:1, 19, 23, 35, and 37;
+C.I. Pigment Blue 1, 2, 15:1, 15:2, 15:3, 15:4, 15:6, 16, 56, 60, 76, 79, and 80; and C.I.
+Pigment Green 1, 4, 7, 8, 10, and 36. Preferably the pigment is a blue pigment or a violet
+pigment, and most preferably it is selected from Copper Phthalocyanine pigments, for
+example C.I. Pigment Blue 15:1, 15:2, 15:3, 15:4, and 15:6, dioxazine pigments, for
+example C.I. Pigment Violet 23 and C.I. Pigment Blue 80, and indanthrone pigments, for
+example C.I. Pigment Blue 60. Pigment Blue 60 is especially preferred. It is also possible
+to mix more than one organic pigment in the inks of the invention.</p><p num="0013">The pigment may be used in the form of a dry powder. However organic pigments are
+often supplied commercially as a concentrated aqueous pigment dispersion, and this
+invention is also useful for pigments supplied as such dispersions, which commonly
+include dispersants and organic cosolvents as well as water. Alternatively the organic
+pigment may be supplied in the form of a water wet presscake. In presscake form, the
+pigment is not aggregated to the extent that it is in dry form and thus the pigment does not
+require as much deaggregation in the process of preparing the inks from dry pigments.
+Further, self dispersing organic pigments and grafted organic pigments may also be used in
+the inks of the invention.</p><p num="0014">The total pigment concentration of the ink may be up to approximately 30% by weight, but
+will generally be between about 1% and about 15%, preferably approximately 3 to 8%, by
+weight of the total ink composition. The ratio of the black pigment to the organic pigment
+may be between 10:1 and 1:2, preferably between approximately 2:1 and approximately
+1:1, by weight. The ratio depends on the particular organic pigment, the grade and type of
+the black pigment, the ink formulation, and the printing medium. By appropriate choice of
+the organic pigment or pigments and the ratio between the organic pigment and carbon
+black it is possible to obtain prints of pleasant neutral tones. In addition to providing 
+neutral toned prints, controlled warm or cold toned prints may be produced by appropriate
+choice of the pigments and the ratio between the organic pigment and carbon black.</p><p num="0015">By an aqueous carrier medium is meant a medium which is water or is predominantly
+water, but may also comprise one or more water soluble organic cosolvent. Deionised
+water is commonly used. The ink composition may contain up to 50% of the organic
+cosolvent or mixture of organic cosolvents, but preferably the ink comprises less than 10%
+organic cosolvent, and most preferably substantially no organic cosolvent is present in the
+ink.</p><p num="0016">The water soluble organic cosolvent may be any organic solvent which has sufficient
+solubility in water. Preferred examples of water-soluble organic solvents that may be
+selected include nitrogen containing organic compounds such as 1,3-dimethyl
+imidazolidinone, urea, pyrrolidone and N-methyl-2-pyrrolidone and hydroxylic organic
+solvents, especially solvents having at least 2 hydroxyl groups; for example diethylene
+glycol, triethylene glycol, polyethylene glycol, thiodiglycol, glycerol, 1,2-hexanediol,
+1,5-pentanediol, and mixtures comprising these solvents.</p><p num="0017">Optionally and preferably the ink may also comprise at least one dispersant for the organic
+pigment. The purpose of the dispersant is to stabilise the particles and prevent flocculation,
+aggregation, and settling of the ink. Suitable dispersants for pigmented ink jet inks are well
+known in the art, and include polymeric dispersants as well as some non-polymeric
+compounds of the surfactant type. Suitable dispersants for the inks of this invention include
+macromolecular polyionic dispersants, for example copolymers of styrene with acrylic,
+methacrylic, or maleic acids; various types of poly(ethylene oxide) condensates such as
+alkyl polyethylene oxide ethers and sulphate or phosphate esters thereof; and surfactants
+such as sarcosinate compounds. There may be present up to 400% of the dispersant by
+weight on the pigment, but preferably between about 10% and about 100% by weight on
+the pigment, and most preferably approximately 20 to 50% by weight on the pigment,
+depending on the pigment used and other properties desired of the ink.</p><p num="0018">A preferred dispersant is a styrene/acrylate copolymer, by which is meant a copolymer
+comprising styrene or a substituted styrene; acrylic, methacrylic, or maleic acids; and 
+optionally with additional vinylically unsaturated comonomers such as acrylate esters.
+Preferably this dispersant is characterised by an acid number of between about 150 and
+about 250, a glass transition temperature between about 70°C and about 100°C, and a
+molecular weight of between about 2000 and about 20000, and most preferably the acid
+number is between 150 and 200 and the molecular weight is approximately 5000 - 15000.
+Many suitable styrene acrylate dispersants are commercially available. Such styrene
+acrylate copolymer dispersants may be supplied commercially in the form of concentrated
+solutions in aqueous base, or as solids which are to be dissolved in water in the presence of
+a base. Suitable bases for dissolving such dispersants include sodium or potassium
+hydroxide, ammonia, or an organic amine base such as ethanolamine, diethanolamine,
+triethanolamine, dimethylaminoethanol, 1-(dimethylamino)-2-propanol, or 2-amino-2-methyl-1-propanol.
+It is also possible to use mixtures of such bases to dissolve the styrene
+acrylate copolymer.</p><p num="0019">The pH of the ink may be controlled by the quantity of base added to the dispersant or by
+appropriate addition of acid or base to the final ink. Generally the pH of the ink is between
+about 7 and about 11.5, typically between approximately 8.5 and 10.</p><p num="0020">The pigmented inks of the invention may also comprise other components which are
+advantageously added to aqueous ink jet inks, such as surfactants, viscosity modifiers, and
+biocides. In addition, sequestering agents such as EDTA may also be included to eliminate
+deleterious effects of heavy metal impurities. The surface tension may be adjusted by
+appropriate addition of surfactant to be about 20 dyne/cm or greater. For printing on plain
+paper the surface tension is preferably at least about 40 dyne/cm and most preferably at
+least about 50 dyne/cm, depending on the printer and other criteria. The viscosity is
+generally no greater than 10 cP, preferably between about 1 cP and about 2 cP. One of the
+advantages of the invention is the desirably low viscosity of the inks.</p><p num="0021">It is generally desirable to prepare a concentrated dispersion by dispersing the organic
+pigment in water in the presence of one or more dispersants, and then dilute this dispersion
+with additional water together with any other additives to form the ink. This technique
+permits preparation of a greater quantity of pigmented ink from the equipment. The inks of
+the invention may either be prepared by dispersing the pigments separately and then 
+combining them at dilution, or by dispersing a combination of the pigments. By dilution,
+the ink is adjusted to provide the desired concentration, colour strength, and other
+properties for the particular application. The dispersing step may be accomplished by many
+well known methods, for example in a horizontal mini mill, a ball mill, a roll mill, an
+attritor, a homogeniser or by passing the mixture through a plurality of nozzles within a
+liquid jet interaction chamber at a liquid pressure of at least 1000 psi (6.89 MPa) to
+produce a uniform dispersion of the pigment particles in the aqueous carrier medium.</p><p num="0022">A suitable average particle size of the pigment is 10 µm or less, preferably 1 µm or less and
+most preferably from 0.005 to 0.3 µm.</p><p num="0023">In another embodiment of the present invention, there is provided a process of printing
+using the ink of the invention. The printing is effected by using the ink in a continuous ink
+jet printer, and applying the ink to a printing medium which can be any of the substrates
+commonly used for ink-jet printing, for example so-called plain paper, coated paper, wet
+strength paper, fine art paper, canvas, self-adhesive vinyl, scrim vinyl, overhead
+transparencies, fabrics, and synthetic media such as white polyester and bonded nonwoven
+polyolefin film-fibril sheets such as polyethylene or polypropylene banner materials. The
+inks of the invention produce pleasing high quality images of good image tone and high
+maximum density. Furthermore the prints exhibit excellent lightfastness.</p><p num="0024">The stability of the ink formulation also allows long storage periods without any loss of
+printability.</p><p num="0025">The following examples will serve to illustrate the invention:-</p><heading><b><u style="single">Example 1.</u></b></heading><p num="0026">In this example, a comparison ink prepared with a conventional carbon black pigment is
+compared with an ink using a surface modified black pigment alone, with an inventive ink
+prepared using a combination of modified black pigment and an organic pigment, and with
+a control ink using organic pigment alone. A comparative black pigment dispersion <b>1</b>
+according to the composition shown in Table 1 was prepared using a Microfluidiser Model
+M210C at 30000psi (207 MPa). The dispersion was then centrifuged to remove oversized 
+particles. A commercial sample of a conventional Carbon Black pigment was used
+available from Degussa - Hüls under the trade name Black S170. The dispersant used was a
+commercially available styrene acrylate copolymer having an acid number of 215, a Tg of
+95°C and a molecular weight of 7000 to 9000 neutralised with potassium hydroxide. This
+dispersant is available from SC Johnson Polymers.
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Component</entry><entry align="center">% by weight</entry></row><row><entry align="left">Carbon Black Pigment</entry><entry align="right">10</entry></row><row><entry align="left">Dispersant</entry><entry align="right">2</entry></row><row><entry align="left">Deionised Water to make</entry><entry align="right">100</entry></row></tbody></tgroup></table></tables>
+The average particle size of the dispersion was less than 200nm.</p><p num="0027">The black dispersion <b>2</b> for the inventive ink consisted of a commercially available
+dispersion from Cabot Corporation containing 15% of a carbon black pigment, surface
+modified with carboxyl groups.</p><p num="0028">A blue pigment dispersion <b>3</b> according to the composition shown in Table 2 was prepared
+using a Microfluidiser Model M110 at 12000 psi (82.7 MPa). A commercial sample of C.I.
+Pigment Blue 60 from Dainippon Ink and Chemicals under the trade name Fastogen Super
+Blue 6070S was used. The dispersant used was the same as for the black dispersion <b>1</b>,
+neutralised with potassium hydroxide. The dispersion was then centrifuged at 3000 rpm for
+20 minutes to remove oversized particles.
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Component</entry><entry align="center">% by weight</entry></row><row><entry align="left">Pigment Blue 60</entry><entry align="right">10</entry></row><row><entry align="left">Dispersant</entry><entry align="right">2</entry></row><row><entry align="left">Deionised Water to make</entry><entry align="right">100</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Preparation of inks</u></heading><p num="0029">Inks were prepared using the components listed in table 3 by diluting the appropriate
+quantity of dispersion with deionised water where necessary to give a final total pigment
+loading of 5% in all cases. All parts are measured by weight. Approximately 0.2% of a 
+fluorinated surfactant commercially available under the trade name Zonyl FSO was added
+to all inks to give a surface tension of about 25 dynes/cm, and the pH was adjusted to 8.5
+when necessary by appropriate addition of potassium hydroxide.</p><p num="0030">The resistivity of dried ink films was determined by drawing the inks down a cellulose
+triacetate sheet, allowing the inks to dry, and measuring the surface resistivity of the dried
+ink film between a pair of electrodes using a 'Megger' Megohmmeter. A test voltage of
+500 volts was applied across two electrodes each 60mm long held parallel and 15mm apart
+in contact with the surface of the dried ink. The resistance was measured, and the surface
+resistivity in ohms/square, r, calculated from resistance, R using the formula:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">r = <st32:frac align="centre">R x l<st32:over>d</st32:over></st32:frac></st32:df></p><p num="0031">Where l = electrode length; and d = distance between electrodes. The results are
+given in table 3. Under these conditions, an acceptable minimum resistivity is
+approximately 10<sup>6</sup> ohms/square, preferably between about 10<sup>6</sup> and about 10<sup>9</sup> ohms/square.
+It is seen that the resistivity of the comparison black ink containing a conventional carbon
+black pigment <b>1</b> and that of the control black ink <b>4</b> containing a surface treated black
+pigment were too low to measure and unacceptable, but that the inventive ink <b>3</b> and
+comparison blue ink <b>2</b> are acceptable. The drawdown of the inventive ink <b>3</b> was of a dense
+neutral black shade.
+<tables><table><tgroup cols="5"><tbody><row><entry align="left" namest="1">Component</entry><entry nameend="5" align="center" namest="2">% by Weight</entry></row><row><entry align="center"/><entry align="center"><b>Ink 1</b> Comparison</entry><entry align="center"><b>Ink 2</b> Comparison</entry><entry align="center"><b>Ink 3</b> Invention</entry><entry align="center"><b>Ink 4</b> Control</entry></row><row><entry align="left">Black pigment dispersion <b>1</b></entry><entry align="center">50</entry></row><row><entry align="left">Black pigment dispersion <b>2</b></entry><entry align="right"/><entry align="right"/><entry align="center">16.7</entry><entry align="center">33.3</entry></row><row><entry align="left">Blue pigment dispersion <b>3</b></entry><entry align="right"/><entry align="center">50</entry><entry align="center">25</entry></row><row><entry align="left">Deionised Water to make</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="left">Resistivity ohms/square</entry><entry align="center">&lt;1×10<sup>5</sup></entry><entry align="center">2.2×10<sup>8</sup></entry><entry align="center">3.1×10<sup>6</sup></entry><entry align="center">&lt;1×10<sup>5</sup></entry></row></tbody></tgroup></table></tables></p><heading><b><u style="single">Example 2.</u></b> </heading><p num="0032">A blue pigment dispersion <b>4</b> according to the composition shown in Table 4 was prepared
+using a Microfluidiser Model M110 at 12000 psi (82.7 MPa). A commercial sample of C.I.
+Pigment Blue 15:3 from Clariant under the trade name Hostaperm Blue B2G02 was used.
+The dispersant used was a the same as for the black dispersion <b>1</b>, neutralised with
+potassium hydroxide. The dispersion was then centrifuged at 3000 rpm for 20 minutes to
+remove oversized particles.
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Component</entry><entry align="center">% by weight</entry></row><row><entry align="left">Pigment Blue 15:3</entry> <entry align="right">10</entry> </row> <row><entry align="left">Dispersant</entry><entry align="right">2</entry></row><row><entry align="left">Deionised Water to make</entry><entry align="right">100</entry></row></tbody></tgroup></table></tables>
+The black dispersion <b>5</b> consisted of a commercially available dispersion from Cabot
+Corporation containing 20% of a carbon black pigment, surface modified with sulphonic
+acid groups.</p><heading><u style="single">Preparation of inks</u></heading><p num="0033">Inks were prepared using the components listed in table 5 by diluting the appropriate
+quantity of dispersion with deionised water to give a final total pigment loading of 5% in
+both cases. Approximately 0.2% of a fluorinated surfactant commercially available under
+the trade name Zonyl FSO was added to all inks to give a surface tension of about 25
+dynes/cm, and the pH was adjusted to 8.5 when necessary by appropriate addition of
+potassium hydroxide. The resistivity of dried ink films was determined as in Example 1,
+and the results are given in table 5. It will be seen that both the inventive inks give
+acceptable resistivity. <tables><table><tgroup cols="3"><tbody><row><entry align="left" namest="1">Component</entry><entry nameend="3" align="center" namest="2">% by Weight</entry></row><row><entry align="center"/><entry align="center"><b>Ink 5</b> Invention</entry><entry align="center"><b>Ink 6</b> Invention</entry></row><row><entry align="left">Black pigment dispersion <b>5</b></entry><entry align="center">12.5</entry><entry align="center">12.5</entry></row><row><entry align="left">Blue pigment dispersion <b>4</b></entry><entry align="center">25</entry></row><row><entry align="left">Blue pigment dispersion <b>3</b></entry><entry align="right"/><entry align="center">25</entry></row><row><entry align="left">Deionised Water to make</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="left">Resistivity ohms/square</entry><entry align="center">3.0×10<sup>6</sup></entry><entry align="center">1.92×10<sup>6</sup></entry></row></tbody></tgroup></table></tables></p><heading><b><u style="single">Example 3.</u></b></heading><p num="0034">The black dispersion <b>6</b> consisted of a commercially available dispersion from Orient
+Corporation of America containing 20% of a carbon black pigment, surface modified with
+a combination of lactone and carboxylic acid groups.</p><heading><u style="single">Preparation of inks</u></heading><p num="0035">Inks were prepared using the components listed in table 6 by diluting the appropriate
+quantity of dispersion with deionised water to give a final total pigment loading of 5% in
+both cases. Approximately 0.2% of a fluorinated surfactant commercially available under
+the trade name Zonyl FSO was added to all inks to give a surface tension of about 25
+dynes/cm, and the pH was adjusted to 8.5 when necessary by appropriate addition of
+potassium hydroxide. The resistivity of dried ink films was determined as in Example 1,
+and the results are given in table 6. It will be seen that both the inventive inks give
+acceptable resistivity.
+<tables><table><tgroup cols="3"><tbody><row><entry align="left" namest="1">Component</entry><entry nameend="3" align="center" namest="2">% by Weight</entry></row><row><entry align="center"/><entry align="center"><b>Ink 7</b> Invention</entry><entry align="center"><b>Ink 8</b> Invention</entry></row><row><entry align="left">Black pigment dispersion <b>6</b></entry><entry align="center">12.5</entry><entry align="center">2.5</entry></row><row><entry align="left">Blue pigment dispersion <b>4</b></entry><entry align="center">25</entry></row><row><entry align="left">Blue pigment dispersion <b>3</b></entry><entry align="right"/><entry align="center">25</entry></row><row><entry align="left">Deionised Water to make</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="left">Resistivity ohms/square</entry><entry align="center">3.96×10<sup>7</sup></entry><entry align="center">1.66×10<sup>7</sup></entry></row></tbody></tgroup></table></tables></p><heading><b><u style="single">Example 4.</u></b></heading><p num="0036">Further blue pigment dispersions were prepared exactly as described for blue dispersions <b>3</b>
+and <b>4</b> using the additional commercial pigments listed in table 7.
+<tables><table><tgroup cols="3"><tbody><row><entry align="left">Dispersion</entry><entry align="left">C.I. Pigment</entry><entry align="center">Supplier; trade name</entry></row><row><entry align="left"><b>7</b></entry><entry align="left">Blue 60</entry><entry align="left">Ciba; Chromophthal Blue A3R</entry></row><row><entry align="left"><b>8</b></entry><entry align="left">Blue 60</entry><entry align="left">Ciba; Irgazin Blue A3RN</entry></row><row><entry align="left"><b>9</b></entry><entry align="left">Blue 60</entry><entry align="left">Clariant; Hostaperm Blue RL01</entry></row><row><entry align="left"><b>10</b></entry><entry align="left">Blue 15:1</entry><entry align="left">Clariant; Hostaperm Blue A4R</entry></row><row><entry align="left"><b>11</b></entry><entry align="left">Blue 61</entry><entry align="left">Clariant; Reflex Blue R54</entry></row></tbody></tgroup></table></tables>
+A violet pigment dispersion <b>12</b> according to the composition shown in Table 8 was
+prepared using a Microfluidiser Model M110 at 12000 psi (82.7 MPa). A commercial
+sample of C.I. Pigment Violet 23 from Clariant under the trade name Hostaperm Violet
+RL-NF was used. The dispersant used was a commercially available styrene acrylate
+copolymer having an acid number of 190 and a Tg of 70°C neutralised with potassium
+hydroxide. This dispersant is available from BF Goodrich. The dispersion was then
+centrifuged at 3000 rpm for 20 minutes to remove oversized particles.
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Component</entry><entry align="center">% by weight</entry></row><row><entry align="left">Pigment Violet 23</entry><entry align="center">10</entry></row><row><entry align="left">Dispersant</entry><entry align="center">0.15</entry></row><row><entry align="left">Deionised Water to make</entry><entry align="center">100</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Preparation of inks</u></heading><p num="0037">Inks were prepared as in the previous examples using the components listed in table 9,
+except that the surface tension was not adjusted by the fluorinated surfactant. Ink <b>1a</b> is the
+same as ink <b>1</b> but without the fluorinated surfactant.</p><p num="0038">Dried ink films were made by drawdown on plain paper, the resistivity was determined as
+in Example 1, and the results are given in table 9. It will be seen that the comparison ink
+gives a drawdown which is unacceptably conductive, the control ink is marginally
+acceptable, and that the inventive inks provide acceptable resistivity. <img id="img-00130001" orientation="unknown" wi="98" img-format="tif" img-content="tb" file="00130001.tif" inline="no" he="231"/></p><heading><b><u style="single">Example 5.</u></b></heading><p num="0039">Yellow, Magenta and Cyan pigment dispersions <b>13, 14</b> and <b>15</b> according to the
+compositions shown in Table 10 were prepared using a Microfluidiser Model M210C at
+30000 psi (207 MPa). The dispersions were then centrifuged to remove oversized particles.
+Commercial samples of C.I. Pigment Yellow 155 from Clariant under the trade name
+Novoperm Yellow 4G, CI Pigment Red 122 from Ciba under the trade name Cromophtal
+Pink PT and CI Pigment Blue 15:3 from Clariant under the trade name Hostaperm Blue
+B2G02 were used. The dispersant used in all cases was a the same as for the black
+dispersion <b>1</b>, neutralised with potassium hydroxide.
+<tables><table><tgroup cols="5"><tbody><row><entry align="left" namest="1">Dispersion</entry><entry align="left" namest="2">Component</entry><entry nameend="5" align="center" namest="3">% by weight</entry></row><row><entry align="left"><b>13</b></entry><entry align="left">Pigment Yellow 155</entry><entry align="center">10</entry></row><row><entry align="left"><b>14</b></entry><entry align="left">Pigment Red 122</entry><entry align="right"/><entry align="center">10</entry></row><row><entry align="left"><b>15</b></entry><entry align="left">Pigment Blue 15:3</entry><entry align="right"/><entry align="right"/><entry align="center">10</entry></row><row><entry align="left"/><entry align="left">Dispersant</entry><entry align="center">0.2</entry><entry align="center">0.2</entry><entry align="center">0.2</entry></row><row><entry align="left"/><entry align="left">Deionised Water to make</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Preparation of inks</u></heading><p num="0040">Inks were prepared as in example 3 using the components listed in table 11. Dried ink
+films were made by drawdown on plain paper, the resistivity was determined as in
+Example 1, and the results are given in Table 11. It will be seen that the inventive ink
+provides acceptable resistivity. The drawdown of the inventive ink was of a dense neutral
+black shade. <tables><table><tgroup cols="2"><tbody><row><entry align="left">Component</entry><entry align="center">% by Weight</entry></row><row><entry align="center"/><entry align="center"><b>Ink 17</b> Invention</entry></row><row><entry align="left">Black dispersion <b>6</b></entry><entry align="center">12.5</entry></row><row><entry align="left">Yellow dispersion <b>12</b></entry><entry align="center">8.3</entry></row><row><entry align="left">Magenta Dispersion <b>13</b></entry><entry align="center">8.3</entry></row><row><entry align="left">Cyan Dispersion <b>14</b></entry><entry align="center">8.3</entry></row><row><entry align="left">Deionised Water to</entry><entry align="center">100</entry></row><row><entry align="left">Resistivity ohms/square</entry><entry align="center">1.68×10<sup>7</sup></entry></row></tbody></tgroup></table></tables></p><heading><b><u style="single">Example 6.</u></b></heading><p num="0041">An inventive ink <b>3a</b> was prepared exactly as described for ink <b>3</b> in example 1 except that
+the fluorinated surfactant was omitted. The resulting ink has a surface tension of 58.5
+dynes/cm suitable for printing on plain paper and a desirably low viscosity of 1.11 Cp.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An aqueous ink jet ink composition suitable for use in continuous ink jet printers
+which comprises:-
+<claim-text><claim-text>(a) a surface modified carbon black pigment;</claim-text><claim-text>(b) at least one organic pigment; and</claim-text><claim-text>(c) an aqueous carrier medium.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>An aqueous ink jet ink composition according to claim 1 which additionally
+comprises at least one dispersant.</claim-text></claim><claim num="3"><claim-text>An aqueous ink jet ink composition according to claim 2 wherein the dispersant is a
+styrene/acrylate copolymer.</claim-text></claim><claim num="4"><claim-text>An aqueous ink jet ink composition according to claim 3 wherein the
+styrene/acrylate copolymer is characterised by an acid number of between about
+150 and about 250, a glass transition temperature between about 70°C and about
+100°C, and a molecular weight of between about 2000 and about 20000.</claim-text></claim><claim num="5"><claim-text>An aqueous ink jet ink composition according to any of claims 1 - 4 wherein the
+surface modified carbon black pigment is modified by the incorporation of
+carboxylic or sulphonic acid groups.</claim-text></claim><claim num="6"><claim-text>An aqueous ink jet ink composition according to any of claims 1 - 5 wherein the
+organic pigment is selected from a blue pigment and a violet pigment.</claim-text></claim><claim num="7"><claim-text>An aqueous ink jet ink composition according to claim 6 wherein the organic
+pigment is selected from a Copper Phthalocyanine pigment, a dioxazine pigment,
+and an indanthrone pigment.</claim-text></claim><claim num="8"><claim-text>An aqueous ink jet ink composition according to claim 1 wherein the ratio of the
+black pigment to the organic pigment is between 10:1 and 1:2, by weight.</claim-text></claim><claim num="9"><claim-text>An aqueous ink jet ink composition according to any of claims 1 - 8 wherein the
+aqueous carrier medium comprises water with substantially no organic cosolvent.</claim-text></claim><claim num="10"><claim-text>A process for printing which comprises using an aqueous ink jet ink composition
+according to any of the preceding claims in a continuous ink jet printer, and
+applying the ink to a printing medium with the ink jet printer.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1405850-A1" country="EP" doc-number="1405850" kind="A1" lang="EN" family-id="31996238" status="new" date-produced="20090516" date="20040407"><bibliographic-data><publication-reference ucid="EP-1405850-A1" status="new" fvid="24003211"><document-id status="new" format="original"><country>EP</country><doc-number>1405850</doc-number><kind>A1</kind><date>20040407</date></document-id></publication-reference><application-reference ucid="EP-03103578-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03103578</doc-number><kind>A</kind><date>20030926</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2002289226-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002289226</doc-number><kind>A</kind><date>20021001</date></document-id></priority-claim><priority-claim ucid="JP-2002289227-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002289227</doc-number><kind>A</kind><date>20021001</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C07D 305/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 305/06        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09K  19/34        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09K  19/34        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C07D 305/06</classification-symbol><classification-symbol scheme="EC">C09K  19/34A</classification-symbol><classification-symbol scheme="ICO">M07D305:06</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">(Meth)acrylverbindung mit einer Oxetanylgruppe und damit hergestellter Flüssigkristallfilm</invention-title><invention-title load-source="ep" status="new" lang="EN">(Meth)acrylic compound having an oxetanyl group and liquid crystal film produced by using the same</invention-title><invention-title load-source="ep" status="new" lang="FR">Composé (méth)acrylique contenant un groupe oxétanyl et film à cristaux liquides produit en utilisant le même</invention-title><citations><patent-citations><patcit ucid="JP-2002250805-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002250805</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="Y"/></sources></patcit><patcit ucid="WO-2002028985-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2002028985</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>DATABASE WPI Derwent Publications Ltd., London, GB;  AN 2001-075363 XP002265550 &amp; JP 2000 319527 A (NITTO DENKO CORP.), 21 November 2000 (2000-11-21)</text><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN &amp; JP 2002 250805 A (TOPPAN PRINTING CO LTD.), 6 September 2002 (2002-09-06)</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>NIPPON OIL CORP</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>NIPPON OIL CORPORATION</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Nippon Oil Corporation</last-name><address><street>3-12, Nishi-shimbashi 1-chome, Minato-ku</street><city>Tokyo 105-8412</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>KOBAYASHI MASAAKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MATSUMOTO TAKUYA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MAZAKI HITOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NAKAMURA TORU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KOBAYASHI, MASAAKI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MATSUMOTO, TAKUYA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MAZAKI, HITOSHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>NAKAMURA, TORU</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KOBAYASHI, MASAAKI</last-name><address><street>c/o Nippon Oil Corporation, 8 Chidori-cho, Naka-ku</street><city>Yokohama-shi, 231-0815, Kanagawa</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MATSUMOTO, TAKUYA</last-name><address><street>c/o Nippon Oil Corporation, 8 Chidori-cho, Naka-ku</street><city>Yokohama-shi, 231-0815, Kanagawa</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MAZAKI, HITOSHI</last-name><address><street>c/o Nippon Oil Corporation, 8 Chidori-cho, Naka-ku</street><city>Yokohama-shi, 231-0815, Kanagawa</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NAKAMURA, TORU</last-name><address><street>c/o Nippon Oil Corporation, 8 Chidori-cho, Naka-ku</street><city>Yokohama-shi, 231-0815, Kanagawa</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Janson, Ronny</last-name><address><street>Ehrner &amp;amp; Delmar Patentbyra AB, Box 10316</street><city>100 55 Stockholm</city><country>SE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FI</country><country>FR</country><country>GB</country><country>NL</country><country>SE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The present invention provides a novel compound
+which is suitable as the starting material of a
+side-chain type liquid crystalline polymeric substance
+having a reactive group which is excellent in
+reactivity upon fixation of the liquid crystal
+orientation structure. The novel compound is a
+(meth)acrylic compound having an oxetanyl group
+represented by the formula
+<img id="img-80000001" orientation="unknown" wi="160" img-format="tif" img-content="cf" file="80000001.tif" inline="no" he="24"/>
+wherein R<sup>1</sup> is hydrogen or methyl, R<sup>2</sup> is hydrogen, methyl,
+or ethyl, "-L<sub>1</sub>-M-L<sub>2</sub>-" represents a mesogen portion, and
+n and m are each an integer of 0 to 10. The present
+invention also provides a liquid crystal film
+containing the side-chain type liquid crystalline
+polymeric substance and a liquid crystal display
+mounted with such a liquid crystal film.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">This invention relates to a novel (meth)acrylic
+compound having a polymerizable oxetanyl group and a
+novel side-chain type liquid crystalline polymeric
+substance derived from the (meth)acrylic compound.
+This invention also relates to a liquid crystal film
+containing such a polymeric substance and a liquid
+crystal display mounted with such a liquid crystal
+film.</p><p num="0002">In recent years, as a result of the researches and
+developments which have been actively conducted to
+apply liquid crystal materials to optical purposes, a
+liquid crystal film produced by aligning a liquid
+crystal material has practically used for the purposes
+of providing a liquid crystal display with color
+compensation and wide viewing angle properties.</p><p num="0003">Various methods of forming a liquid crystal
+material into a film are known. For example, there is
+a method in which a liquid crystal film is produced by
+forming a liquid crystalline polymeric substance film
+over a substrate which can align the substance and then
+heating the film to a temperature equal to or higher
+than the glass transition temperature "Tg", followed
+by rapid cooling of the film so as to fix the orientation 
+of the liquid crystal, as disclosed in Japanese Patent
+Laid-Open Publication No. 3-9321. However, although
+this method is applicable to both main chain- and side
+chain-type liquid crystalline polymeric substances, it
+has problems that the process would be increased in load
+and eligible alignment substrates are limited when
+using a main-chain type liquid crystalline polymeric
+substance with a high Tg. Furthermore, when using a
+side-chain type liquid crystalline polymeric substance,
+this method has a problem in the heat resistance of the
+resulting liquid crystal film and a drawback that the
+orientation of the liquid crystal would be disordered
+at a temperature in the vicinity of the Tg.</p><p num="0004">Alternatively, as disclosed in Japanese Patent
+Laid-Open Publication No. 8-21915, there is a method
+in which a liquid crystal film is produced by pouring
+a liquid crystalline low molecular weight substance
+having a reactive group into a liquid crystal cell
+provided with an alignment substrate and heating the
+cell to a temperature at which the substance exhibits
+a liquid crystal phase so as to be oriented in a liquid
+crystal orientation state, followed by fixing the
+orientation by polymerizing the substance with an
+external force such as light or heat. However, in this
+method, it is difficult to control the parameters of
+the resulting liquid crystal film because the liquid
+crystal to be oriented is a low molecular weight 
+substance and thus the physical properties such as
+fluidity and birefringence are heavily dependent on
+temperature. Further, this method may often have a
+problem with the heat resistance of the resulting
+liquid crystalline film because the structure of the
+liquid crystal after polymerization becomes similar to
+that of a side chain-type liquid crystalline polymeric
+substance and thus the sufficiently high Tg can not be
+obtained.</p><p num="0005">As an alternative for polymerizing and fixing a
+liquid crystal orientation by an external force, there
+is a method in which a mixture of a liquid crystalline
+polymeric substance and a reactive low molecular weight
+substance is allowed to be oriented to a liquid crystal
+phase and subjected to an external force so as to be
+reacted and cured, as reported in Japanese Patent
+Laid-Open Publication No. 10-120640. However,
+because the reaction between the liquid crystalline
+polymeric substance and the reactive low molecular
+weight substance does not progress sufficiently, the
+Tg is not sufficiently raised, leading to a problem with
+the heat resistance of the resulting liquid crystal
+film.</p><p num="0006">In view of these problems, a method as disclosed
+in Japanese Patent Laid-Open Publication No.
+2000-319527 is now considered to be the most effective
+in which method a reactive group is directly introduced 
+into a liquid crystalline polymeric substance with a
+relatively low Tg, such as a side chain-type and then
+subjected to an external force such as light or heat
+to be cross-linked after orienting the reactive group
+to a liquid crystal state, thereby raising the Tg.
+However, this method has a problem that it is difficult
+to synthesize such a side chain-type liquid crystalline
+polymeric substance with a reactive group. For example,
+when the polymeric structure is constructed prior to
+the introduction of a reactive group, the amount
+thereof may be insufficient. On the other hand, in a
+method in which from a monomer having two reactive
+groups, a side chain-type liquid crystalline polymeric
+substance having a reactive group is synthesized by
+polymerizing one of the reactive group, it is necessary
+that the reactivity of the other reactive group must
+be maintained lower than that of the reactive group to
+be reacted, leading to a problem that the reactive group
+of the polymeric substance after being oriented to a
+liquid crystal phase tends to be insufficient.</p><p num="0007">The present invention was made in view of the
+foregoing problems and provides a novel compound which
+is suitable as the starting material of a side
+chain-type liquid crystalline polymeric substance
+having a reactive group with an excellent reactivity
+upon fixation of a liquid crystal orientation and a side
+chain-type liquid crystalline polymeric substance 
+derived from such a compound. Furthermore, the present
+invention also provides a liquid crystal film with an
+excellent heat resistance which is produced from a
+liquid crystal material containing such a side chain-type
+liquid crystalline polymeric substance by fixing
+the orientation state of the liquid crystal material
+and a liquid crystal display mounted with the liquid
+crystal film.</p><p num="0008">After an extensive research and study made by the
+present inventors, they found a novel polymerizable
+compound having an oxetanyl group which can be used as
+the starting material of a side chain-type liquid
+crystalline polymeric substance which can be easily
+synthesized and is excellent in orientability and
+fixation of the orientation structure.</p><p num="0009">That is, according to a first aspect of the present
+invention, there is provided a (meth)acrylic compound
+having an oxetanyl group represented by the formula
+<img id="img-00050001" orientation="unknown" wi="162" img-format="tif" img-content="cf" file="00050001.tif" inline="no" he="24"/>
+wherein R<sup>1</sup> is hydrogen or methyl, R<sup>2</sup> is hydrogen, methyl,
+or ethyl, L<sub>1</sub> and L<sub>2</sub> each are selected from a single bond,
+-O-, -O-CO- and -CO-O-, M represents a formula
+selected from formulas (2), (3) and (4) below, and n
+and m are each independently an integer from 0 to 10: <st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">- P<sub>1</sub>-L<sub>3</sub>-P<sub>2</sub>-L<sub>4</sub>-P<sub>3</sub>-</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">- P<sub>1</sub>-L<sub>3</sub>-P<sub>3</sub>-</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">- P<sub>3</sub>-</st32:che>
+wherein P<sub>1</sub> and P<sub>2</sub> are each independently a group selected
+from formulas (5) below, P<sub>3</sub> is a group selected from
+formulas (6) below, and L<sub>3</sub> and L<sub>4</sub> are each independently
+selected from a single bond, -CH=CH-, -C≡C-, -O-,
+-O-CO- and -CO-O-:
+<img id="img-00060001" orientation="unknown" wi="151" img-format="tif" img-content="cf" file="00060001.tif" inline="no" he="74"/>
+and
+<img id="img-00060002" orientation="unknown" wi="159" img-format="tif" img-content="cf" file="00060002.tif" inline="no" he="54"/></p><p num="0010">According to a second aspect of the present
+invention, there is provided a side chain-type liquid
+crystalline polymeric substance obtained by
+homopolymerizing the (meth)acrylic portion of the 
+(meth)acrylic compound having an oxetanyl group
+represented by formula (1) or copolymerizing same with
+another (meth)acrylic compound.</p><p num="0011">According to a third aspect of the present
+invention, there is provided the side chain-type liquid
+crystalline polymeric substance having a unit
+represented by formula (7) below derived from a
+(meth)acrylic compound having an oxetanyl group of
+formula (1) above:
+<img id="img-00070001" orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00070001.tif" inline="no" he="47"/></p><p num="0012">According to a fourth aspect of the present
+invention, there is provided the side chain-type liquid
+crystalline polymeric substance containing a unit of
+formula (7) above in an amount of 5 to 100 percent by
+mol.</p><p num="0013">According to a fifth aspect of the present
+invention, there is provided the side chain-type liquid
+crystalline polymeric substance of whose
+weight-average molecular weight is from 2,000 to
+100, 000.</p><p num="0014">According to a sixth aspect of the present
+invention, there is provided a liquid crystal material 
+containing the side-chain type liquid crystalline
+polymeric substance in an amount of 10 percent by mass
+or more.</p><p num="0015">According to a seventh aspect of the present
+invention, there is provided the liquid crystal
+material which further contains a photo cationic
+initiator and/or a thermal cationic initiator.</p><p num="0016">According to an eighth aspect of the present
+invention, there is provided a liquid crystal film
+formed by fixing the orientation state of the liquid
+crystal material</p><p num="0017">According to a ninth aspect of the present
+invention, there is provided a method of producing a
+liquid crystal film wherein the liquid crystal material
+is developed over an alignment substrate so as to align
+the liquid crystal material in a liquid crystal
+orientation state, followed by fixing the orientation
+by light irradiation and/or a heat treatment.</p><p num="0018">According to a tenth aspect of the present
+invention, there is provided the method of producing
+a liquid crystal film wherein the orientation state is
+one obtained by fixing a orientation state selected
+from the group consisting of nematic, twisted nematic,
+cholesteric, and nematic hybrid orientations.</p><p num="0019">According to an eleventh aspect of the present
+invention, there is provided an optical film comprising
+the liquid crystal film. </p><p num="0020">According to a twelfth aspect, there is provided
+the optical film is one selected from the group
+consisting of a retardation film, a color compensation
+film, a viewing angle improving film, a circular
+polarizing film, and an optical rotatory film.
+<sl><li>FIG. 1 shows the <sup>1</sup>H-NMR spectrum of the acrylic
+compound 1 obtained in Example 1.</li><li>FIG. 2 shows the <sup>1</sup>H-NMR spectrum of the acrylic
+compound 2 obtained in Example 2.</li><li>FIG. 3 shows the <sup>1</sup>H-NMR spectrum of the acrylic
+compound 3 obtained in Example 3.</li><li>FIG. 4 shows the <sup>1</sup>H-NMR spectrum of the acrylic
+compound 4 obtained in Example 4.</li><li>FIG. 5 shows the <sup>1</sup>H-NMR spectrum of the acrylic
+compound 5 obtained in Example 5.</li><li>FIG. 6 shows the <sup>1</sup>H-NMR spectrum of the acrylic
+compound 6 obtained in Example 6.</li><li>FIG. 7 shows the <sup>1</sup>H-NMR spectrum of the acrylic
+compound 7 obtained in Reference Example 1.</li><li>FIG. 8 shows the <sup>1</sup>H-NMR spectrum of the acrylic
+compound 8 obtained in Reference Example 1.</li><li>FIG. 9 shows the <sup>1</sup>H-NMR spectrum of the side-chain
+type liquid crystalline polyacrylate 4 obtained in
+Example 7.</li><li>FIG. 10 shows the <sup>1</sup>H-NMR spectrum of the side
+chain-type liquid crystalline polyacrylate 13 obtained
+in Reference Example 2. </li><li>FIG. 11 shows the <sup>1</sup>H-NMR spectrum of the
+difunctional oxetane monomer in Reference Example 3.</li><li>FIG. 12 is a schematic view showing the axial
+arrangement of each of the components constituting the
+liquid crystal display used in Example 10.</li><li>FIG. 13 is a schematic view showing the axial
+arrangement of each of the components constituting the
+liquid crystal display used in Example 11.</li></sl></p><p num="0021">The present invention will be described in more
+detail below.</p><p num="0022">The (meth)acrylic compound having an oxetanyl
+group of the present invention is represented by the
+formula
+<img id="img-00100001" orientation="unknown" wi="165" img-format="tif" img-content="cf" file="00100001.tif" inline="no" he="27"/></p><p num="0023">In formula (1), R<sup>1</sup> is hydrogen or methyl, R<sup>2</sup> is
+hydrogen, methyl, or ethyl, L<sub>1</sub> and L<sub>2</sub> each are selected
+from a single bond, -O-, -O-CO-, and -CO-O-, M
+represents a formula selected from formulas (2), (3)
+and (4) below, and n and m are each independently an
+integer from 0 to 10:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">-P<sub>1</sub>-L<sub>3</sub>-P<sub>2</sub>-L<sub>4</sub>-P<sub>3</sub>-</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">- P<sub>1</sub>-L<sub>3</sub>-P<sub>3</sub>-</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">-P<sub>3</sub>-</st32:che>
+wherein P<sub>1</sub> and P<sub>2</sub> are each independently a group selected 
+from formulas (5) below, P<sub>3</sub> is a group selected from
+formulas (6) below, and L<sub>3</sub> and L<sub>4</sub> are each independently
+selected from a single bond, -CH=CH-, -C≡C-, -O-,
+-O-CO- and -CO-O-:
+<img id="img-00110001" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00110001.tif" inline="no" he="70"/>
+and
+<img id="img-00110002"  orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00110002.tif"  inline="no"  he="50"/></p><p num="0024">That is, the (meth)acrylic compound having an
+oxetanyl group of the present invention is
+characterized in that it contains a mesogen portion
+comprising an aromatic ester, spacer portions bonding
+thereto and comprising a hydrocarbon chain, a reactive
+oxetanyl group at one terminal end, and a (meth) acrylic
+group at the other terminal end as constituting units 
+and a polymeric substance obtained by homopolymerizing
+the (meth)acrylic group of this compound or
+copolymerizing same with another (meth)acrylic
+compound exhibits liquid crystallinity.</p><p num="0025">First of all, each of the constituting units will
+be described.</p><p num="0026">The mesogen portion of the (meth) acrylic compound
+having an oxetanyl group of the present invention is
+represented by "-L<sub>1</sub>-M-L<sub>2</sub>-" in formula (1) wherein M is
+represented by "-P<sub>1</sub>-L<sub>3</sub>-P<sub>2</sub>-L<sub>4</sub>-P<sub>3</sub>-", "-P<sub>1</sub>-L<sub>3</sub>-P<sub>3</sub>-", or
+"-P<sub>3</sub>-". The mesogen portion has such a structure that
+1 to 3 aromatic- or cyclohexane-rings are bonded
+directly (single bond) or via an ether bond (-O-) or
+an ester bond (-CO-O-) to the spacer portion, oxetanyl
+group or (meth)acrylic group.</p><p num="0027">In formula (1) , L<sub>1</sub>, L<sub>2</sub>, L<sub>3</sub>, and L<sub>4</sub> are each
+independently a single bond (this means that the groups
+of the both sides bond directly without via the group
+represented by "L") or represents -CH=CH-, -C≡C-, -O-,
+-O-CO- or -CO-O-. P<sub>1</sub> and P<sub>2</sub> are each independently a
+group selected from formulas (5), while P<sub>3</sub> is a group
+selected from formulas (6).</p><p num="0028">Although the mesogen portion may be selected
+arbitrary from the above-described combinations,
+preferred examples are those represented by the
+following formulas: <img id="img-00130001"  orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00130001.tif" inline="no" he="28"/><img id="img-00130002" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00130002.tif" inline="no" he="21"/><img id="img-00130003" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00130003.tif" inline="no" he="22"/></p><p num="0029">The spacer portions represented by "- (CH<sub>2</sub>)<sub>n</sub>-" and
+"-(CH<sub>2</sub>)<sub>m</sub>-" in formula (1) each represent a single bond
+which means that "n" or "m" is 0 or a divalent
+straight-chain hydrocarbon having 1 to 10 carbon atoms,
+i. e. , "n" or "m" is an integer of 1 to 10. As long as
+the intended compound exhibits liquid crystallinity,
+the mesogen portion may bond directly without via the
+spacer portions or bond via an ether bond (-O-) or an
+ester bond (-CO-O-), to the oxetanyl group portion and
+the (meth)acrylic portion. In general, too short
+spacers between the mesogen portion and the
+(meth)acrylic group portion would narrow the
+temperature range at which the liquid crystallinity is
+exhibited, while too long spacers would adversely
+affect the heat resistance of the resulting liquid
+crystal film. In view of these, the spacer portions
+between the mesogen portion and the (meth) acrylic group
+portion has usually 1 to 8, preferably 2 to 6 carbon 
+atoms. Too long spacers between the mesogen portion
+and the oxetanyl group portion would adversely affect
+the heat resistance of the resulting liquid crystal
+film. Therefore, the spacer portions between the
+mesogen portion and the oxetanyl group portion have
+usually 0 to 6, preferably 0 to 4 carbon atoms (0 carbon
+atoms denotes herein that the mesogen portion bonds
+directly to the oxetanyl group portion).</p><p num="0030">One of the terminal ends of the (meth)acrylic
+compound having an oxetanyl group of the present
+invention is a reactive oxetanyl group, while the other
+terminal end is a (meth)acrylic group. Since the
+compound is a difunctional monomer having both an
+oxetanyl group which is a cationic polymerizable group
+and a (meth)acrylic group which is radical- or
+anionic-polymerizable group, the (meth)acrylic group
+can be polymerized only by radical- or
+anionic-polymerization, thereby obtaining a side chain
+type-liquid crystalline polymeric substance having an
+oxetanyl group which is a cationic polymerizable group.
+That is, a side chain-type liquid crystalline polymeric
+substance is synthesized by anionic-or
+radical-polymerization of the (meth)acrylic group in
+the presence of the cationic polymerizable oxetanyl
+group whose reactivity is low under the conditions
+except those for cationic polymerization. A side
+chain-type liquid crystalline polymeric substance is 
+lower in Tg than a main chain-type liquid crystalline
+polymeric substance and thus can be easily oriented at
+a low temperature. After orienting the side-chain type
+liquid crystalline polymeric substance thus obtained,
+the oxetanyl group is polymerized, i.e., cured and
+cross-linked in the presence of cations, resulting in
+the rise of Tg. Therefore, a liquid crystal film with
+improved heat resistance and mechanical strength can
+be produced from the resulting side chain-type liquid
+crystalline polymeric substance.</p><p num="0031">No particular limitation is imposed on the method
+of synthesizing the (meth)acrylic compound having an
+oxetanyl group which can, therefore, be synthesized
+using any of conventional organic chemistry synthesis
+methods.</p><p num="0032">For example, a portion having an oxetanyl group
+is coupled to a portion having a (meth)acrylic group
+by means of the Williamson's ether synthesis or an ester
+synthesis using a condensing agent thereby
+synthesizing a (meth)acrylic compound having two
+reactive functional groups, i.e., an oxetanyl group and
+a (meth)acrylic group. More specifically, the
+(meth) acrylic compound having an oxetanyl group of the
+present invention can be synthesized by the following
+processes: <img id="img-00160001" orientation="unknown" wi="164" img-format="tif" img-content="cf" file="00160001.tif" inline="no" he="139"/></p><p num="0033">The abbreviations in the above formulas indicate
+the following compounds:
+<sl><li>DCC : 1,3-dicyclohexylcarbodiimide</li><li>DMAP : 4-dimethylaminopyridine</li><li>DCM : dichloromethane</li><li>PPTS : pyridinium-p-toluene sulfonate</li><li>THF : tetrahydrofuran</li><li>DMF : dimethylformamide</li><li>BHT : 2,6-di-t-butyl-4-methylphenol</li></sl></p><p num="0034">The side chain-type liquid crystalline polymeric
+substance of the present invention is one containing 
+a unit represented by formula (7) below derived from
+a (meth)acrylic compound having an oxetanyl group
+represented by formula (1):
+<img id="img-00170001" orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00170001.tif" inline="no" he="49"/></p><p num="0035">The side chain-type liquid crystalline polymeric
+substance containing a unit represented by formula (7)
+can be easily synthesized by homopolymerizing the
+(meth)acrylic group portion of the (meth)acrylic
+compound having an oxetanyl group of formula (1) or
+copolymerizing the same with another (meth)acrylic
+compound by way of radical or anionic polymerization.
+No particular limitation is imposed on the
+polymerization conditions. Therefore, the
+polymerization may be carried out under normal
+conditions.</p><p num="0036">As an example of the radical polymerization, a
+method may be used in which a (meth)acrylic compound
+is solved in a solvent such as dimethylformamide (DMF)
+and reacted at a temperature of 80 to 90 °C for several
+hours using 2,2'-azobisisobutylonitrile (AIBN) or
+benzoyl peroxide (BPO) as an initiator. Alternatively,
+a method is effective in which in order to allow the 
+liquid crystal phase to be stably exhibited, a living
+radical polymerization is conducted using a copper (I)
+bromide/2,2'-bipyridyl-based or TEMPO-based initiator
+so as to control the molecular weight distribution.
+These radical polymerizations are needed to be
+conducted strictly under deoxidation conditions.</p><p num="0037">As an example of the anionic polymerization, a
+method may be used in which a (meth)acrylic compound
+is solved in a solvent such as tetrahydrofuran (THF)
+and reacted using a strong base such as organic lithium
+compounds, organic sodium compounds or a Grignard
+reagent. Alternatively, this polymerization can be
+converted to a living anionic polymerization by
+optimizing the initiator or reaction temperature
+thereby controlling the molecular weight distribution.
+These anionic polymerizations are needed to be
+conducted strictly under dehydration and deoxidation
+conditions.</p><p num="0038">No particular limitation is imposed on the type
+of a (meth) acrylic compound to be copolymerized as long
+as the compound exhibits a liquid crystallinity.
+However, preferred are (meth)acrylic compounds having
+a mesogen group because it can enhance the liquid
+crystallinity of the resulting polymeric substance.
+More specifically, particularly preferred are those as
+represented by the following formulas: <img id="img-00190001" orientation="unknown" wi="162" img-format="tif" img-content="cf" file="00190001.tif" inline="no" he="61"/></p><p num="0039">The side chain-type liquid crystalline polymeric
+substance of the present invention contains a unit of
+formula (7) in an amount of preferably 5 to 100 percent
+by mol and particularly preferably 10 to 100 percent
+by mol. The side chain-type liquid crystalline
+polymeric substance of the present invention has a
+weight average molecular weight of preferably 2, 000 to
+100,000 and particularly preferably 5,000 to 50,000.</p><p num="0040">Next, the polymeric liquid crystal material
+containing the side chain-type liquid crystalline
+polymeric substance of the present invention will be
+described herein below.</p><p num="0041">The polymeric liquid crystal material of the
+present invention contains the side chain-type liquid
+crystalline polymeric substance of the present
+invention in an amount of at least 10 percent by mass
+or more, preferably 30 percent by mass or more, and more
+preferably 50 percent by mass or more. A composition
+containing less than 10 percent by mass of the side
+chain-type liquid crystalline polymeric substance is 
+not preferred because the concentration of the
+polymeric group in the composition will be reduced and
+thus the mechanical strength after the polymerization
+will be insufficient.</p><p num="0042">The polymeric liquid crystalline composition of
+the present invention may contain various compounds
+which can be mixed without disturbing the liquid
+crystallinity, other than the side chain-type liquid
+crystalline polymeric substance. Examples of such
+compounds are compounds having cationic polymerizable
+functional group such as oxetanyl, epoxy and vinylether
+groups, various polymeric substances having a film
+forming capability, and various low molecular- or
+polymeric-compounds exhibiting a nematic-,
+cholesteric-, or discotic liquid crystallinity.
+Furthermore, various optically active substances
+regardless of whether it exhibits a liquid
+crystallinity or not may be blended so as to allow the
+polymeric liquid crystalline composition to exhibit a
+cholesteric liquid crystallinity.</p><p num="0043">After the polymeric liquid crystal material of the
+present invention is subjected to an orientation
+treatment, the oxetanyl group is cross-linked by
+cationic polymerization thereby improving the heat
+resistance of the resulting liquid crystal film.
+Therefore, in order to allow the cationic
+polymerization to progress easily and rapidly, the 
+polymeric liquid crystalline composition preferably
+contains a photo- or thermal-cation generator which
+generates cations by an external force such as light
+or heat. If necessary, various sensitizers may be used
+in combination.</p><p num="0044">The term "photo cation generator" used herein
+denotes a compound which can generate cations by
+irradiation of a light with a specific wavelength and
+may be organic sulfonium salt-, iodonium salt-, or
+phosphonium salt-based compounds. Counter ions of
+these compounds are preferably antimonate, phosphate,
+and borate. Specific examples are Ar<sub>3</sub>S<sup>+</sup>SbF<sub>6</sub><sup>-</sup>, Ar<sub>3</sub>P<sup>+</sup>BF<sub>4</sub><sup>-</sup>,
+and Ar<sub>2</sub>I<sup>+</sup>PF<sub>6</sub><sup>-</sup> wherein Ar indicates a phenyl or
+substituted phenyl group. Sulfonic acid esters,
+triazines, diazomethanes, β-ketosulfone,
+iminosulfonato, and benzoinsulfonate are also
+eligible.</p><p num="0045">The term "thermal cation generator" used herein
+denotes a compound which can generate cations by being
+heated to a certain temperature and may be
+benzylsulfonium salts, benzylammonium salts,
+benzylpyridinium salts, benzylphosphonium salts,
+hydradinium salts, carbonic acid esters, sulfonic acid
+esters, amineimides, antimony pentachloride-acetyl
+chloride complexes, diaryliodonium salt-dibenzyloxy
+copper, and halogenated boron-tertiary amine adducts.</p><p num="0046">Since the amount of the cation generators to be 
+added in the polymeric liquid crystalline composition
+varies depending on the structure of the mesogen
+portion or spacer portions constituting the side
+chain-type liquid crystalline polymeric substance to
+be used, the equivalent weight of the oxetanyl group,
+and the conditions for liquid crystal orientation, it
+can not be determined with certainty. However, it is
+within the range of usually 100 ppm by mass to 20 percent
+by mass, preferably 100 ppm by mass to 10 percent by
+mass, more preferably 0.2 percent by mass to 7 percent
+by mass, and most preferably 0.5 percent by mass to 5
+percent by mass. The amount of less than 100 ppm by
+mass is not preferred because the polymerization may
+not progress due to the insufficient amount of cation
+to be generated. The amount of more than 20 percent
+by mass is not also preferred because the cation
+generator remains in a large amount in the resulting
+liquid crystal film and thus the light resistance
+thereof would be deteriorated.</p><p num="0047">Next, the method of producing a liquid crystal
+film using a liquid crystal material containing the
+above-described polymeric liquid crystalline
+composition will be described hereinafter. Although
+not restricted, the liquid crystal film may be produced
+by developing the liquid crystal material over an
+alignment substrate to be oriented and fixing the
+orientation by subjecting the material to light 
+irradiation and/or a heat treatment.</p><p num="0048">First of all, the liquid crystalline material of
+the present invention is developed over an alignment
+substrate thereby aligning the material. Examples of
+the alignment substrate are films of such as polyimide,
+polyphenylene sulfide, polyphenylene oxide, polyether
+ether ketone, polyethylene naphthalate, polyethylene
+terephthalate, polyarylate, and triacetyl cellulose.
+Although some of these films exhibit a sufficient
+capability to align the liquid crystalline material and
+thus can be used as aligning substrates as they are,
+most of them are used after being subjected to a
+treatment such as rubbing, stretching, polarization
+irradiation, or skew ray irradiation such that the
+films exhibit or are enhanced in alignment capability.
+Alternatively, a conventional alignment film such as
+polyimide, polyvinyl ether, or polyvinyl cinnamate may
+be laminated over the substrate film and subjected to
+a treatment such as rubbing, stretching, polarization
+irradiation, or skew ray irradiation so as to impart
+the aligning capability.</p> <p num="0049">In the case where there are problems that the
+alignment substrate to be used is not optically
+isotropic, the resulting liquid crystal film is opaque
+at a wavelength region where it is intended to be used,
+or the alignment substrate is so thick that it causes
+a problem in practical use, the alignment substrate may 
+be used temporarily until the liquid crystal film is
+laminated over and transferred to an optically
+isotropic film or a transparent film with which the
+liquid crystal film is transparent at a wavelength
+region where it is intended to be used or attached to
+a liquid crystal cell. The transferring method may
+be any conventional method. For example, as disclosed
+in Japanese Patent Laid-Open Publication Nos. 4-57017
+and 5-333313, there may be used a method in which after
+a liquid crystal layer with an alignment substrate is
+laminated via a pressure sensitive adhesive or adhesive
+over a substrate on which the liquid crystal layer is
+to be transferred and the surface is cured using an
+pressure-sensitive adhesive or adhesive, only the
+liquid crystal film is transferred on the substrate by
+peeling off the alignment substrate.</p><p num="0050">Examples of the substrate onto which the liquid
+crystal layer is transferred are a triacetyl cellulose
+film such as Fujitack (manufactured by Fuji Photo Film
+Co., Ltd.) and Konicatack (manufactured by Konica
+Corp.); a transparent film such as TPX film
+(manufactured by Mitsui Chemical Inc.), Arton film
+(manufactured by JSR), Zeonex film (manufactured by
+Nippon Zeon Co., Ltd) and Acryprene film (manufactured
+by Mitsubishi Rayon Co., Ltd.); and a polyethylene
+terephthalate film treated with silicone or provide on
+its surface with a peelable layer. If necessary, the 
+liquid crystal film may be transferred directly to a
+polarizing film.</p><p num="0051">No particular limitation is imposed on the
+pressure sensitive adhesive or adhesive to be used for
+transferring the liquid crystal film as long as it is
+of optical grade. Therefore, there may be used
+conventional acrylic-, epoxy-, or urethane-based ones.</p><p num="0052">The liquid crystal material is developed on an
+alignment substrate and formed into a liquid crystal
+material layer by a method in which the liquid crystal
+material in a molten state is coated directly over an
+alignment substrate or a method in which a solution of
+the liquid crystal material is coated over an alignment
+substrate and dried to remove the solvent.</p><p num="0053">No particular limitation is imposed on the solvent
+used for preparing the solution as long as it can
+dissolve the liquid crystal material of the present
+invention and be evaporated under appropriate
+conditions. Preferred examples of the solvent are
+ketones such as acetone, methyl ethyl ketone, and
+isophorone; ether alcohols such as butoxyethyl alcohol,
+hexyloxyethyl alcohol, and methoxy-2-propanol; glycol
+ethers such as ethylene glycol dimethyl ether and
+diethylene glycol dimethyl ether; esters such as ethyl
+acetate and ethyl lactate; phenols such as phenol and
+chlorophenol; amides such as N,N-dimethylformamide,
+N,N-dimethylacetoamide, and N-methylpyrrolidone; 
+halogen-based solvents such as chloroform,
+tetrachloroethane, and dichlorobenzene; and mixtures
+thereof. A surfactant, a defoaming agent, or a
+leveling agent may be added to the solution so as to
+form a uniform film layer on an alignment substrate.</p> <p num="0054">No particular limitation is imposed on the methods
+of coating the liquid crystalline material directly or
+the solution thereof as long as they can ensure the
+uniformity of the film layer. Therefore, there may be
+used any conventional method. Examples of the method
+are spin coating, die coating, curtain coating, dip
+coating, and roll coating methods.</p> <p num="0055">In the method of coating the liquid crystal
+material solution, it is preferred to add a drying
+process for removing the solvent after coating. No
+particular limitation is imposed on the drying method
+as long as it can maintain the uniformity of the film
+layer. Therefore, there may be used any conventional
+method and thus the solvent may be removed in a heater
+(furnace) or blowing hot air.</p> <p num="0056">The liquid crystal material layer formed on an
+alignment substrate is subjected to a heat treatment
+or the like so as to form a liquid crystal orientation
+and further subjected to light irradiation and/or a
+heat treatment to fix the orientation. In the first
+heat treatment, the liquid crystal material is heated
+to a temperature at which it exhibits a liquid crystal 
+phase so as to allow the material to be oriented with
+a self-orientability which the material naturally has.
+Since the conditions for the heat treatment vary in the
+optimum conditions and limits depending on the liquid
+crystal phase behavior temperature (transition
+temperature) of the liquid crystal material to be used,
+it can not be determined with certainty. However, it
+is within the range of usually 10 to 250 °C and
+preferably 30 to 160 °C. The liquid crystal material
+layer is heated at preferably a temperature equal to
+the glass transition temperature or higher and more
+preferably a temperature which is 10°C higher than the
+glass transition temperature. A too low temperature
+is not preferred because there is a possibility that
+the orientation to the liquid crystal phase does not
+progress sufficiently, while a too high temperature is
+not also preferred because the cationic polymerizable
+reactive group in the liquid crystal material and the
+alignment substrate are adversely affected. The heat
+treatment is conducted for usually 3 seconds to 30
+minutes and preferably 10 seconds to 10 minutes. The
+heat treatment for less than 3 seconds is not preferred,
+because there is a possibility that the orientation may
+not be achieved sufficiently. Whereas the heat
+treatment for longer than 30 minutes is not also
+preferred, because the productivity is deteriorated.</p><p num="0057">After forming the liquid crystal orientation by 
+subjecting the liquid crystal material layer to the
+heat treatment or the like, the liquid crystal material
+is cured with the polymerization reaction of the
+cationic polymerizable reactive group in the
+composition while maintaining the liquid crystal
+orientation state. This curing process is conducted
+to fix the liquid crystal orientation thus formed by
+a curing (cross-linking) reaction thereby modifying
+the film layer to be harder.</p><p num="0058">As described above, since the liquid crystal
+material of the present invention has a cationic
+polymerizable reactive group, it is preferred to use
+a cationic polymerization initiator (cation generator)
+for polymerizing (cross-linking) the reactive group.
+As such a polymerization initiator, a photo cation
+generator is preferred to a thermal cation generator.</p><p num="0059">In the case of using a photo cation generator,
+after addition thereof, the processes prior the thermal
+treatment for the liquid crystal orientation are
+conducted under dark conditions (conditions where
+light is shielded to an extent that the photo cation
+generator does not dissociate) whereby the liquid
+crystalline material does not cure until being
+subjected to the orientation process and thus can be
+oriented to a liquid crystal phase while maintaining
+sufficient flowability. Thereafter, a light from a
+light source capable of emitting an appropriate 
+wavelength of light is irradiated so as to generate
+cations thereby curing the liquid crystal material.</p><p num="0060">The light irradiation is conducted by irradiating
+a light from a light source having a spectrum in an
+absorption wavelength of the photo cation generator to
+be used such as a metal halide lamp, a high-pressure
+mercury lamp, a low-pressure mercury lamp, a xenon lamp,
+an arc discharge lamp, and a laser thereby decomposing
+the photo cation generator. The irradiation dose per
+cm<sup>2</sup> is within the range of generally 1 to 2000 mJ and
+preferably 10 to 1000 mJ in the integrated irradiation
+dose. However, when the absorption region of the photo
+cation generator is extremely different from the
+spectrum of the light source or the liquid crystal
+material itself can absorb a light in the wavelength
+of the light source, the irradiation dose is not limited
+to the above range. In these cases, a method may be
+employed in which a suitable photo sensitizer or two
+or more kinds of photo cation generators having
+different absorption wavelengths are used.</p><p num="0061">The temperature at the time of the light
+irradiation needs to be within the range wherein the
+liquid crystal material exhibits a liquid crystal
+orientation. Furthermore, the light irradiation is
+preferably conducted at a temperature which is the Tg
+of the liquid crystalline material, or higher in order
+to conduct the curing effectively. </p><p num="0062">The liquid crystal material layer produced
+through the above-described processes becomes a
+sufficiently solid and strong film. More specifically,
+since the three-dimensional bond of the mesogen portion
+is archived by the curing reaction, the liquid crystal
+material layer (film) of the present invention is
+improved not only in heat-resistance (rise of the
+temperature at which the liquid crystal orientation is
+maintained) but also in mechanical strength such as
+resistance to scratch, wear and cracking. The present
+invention is of great significance in the industrial
+sense because it can achieve the directly-opposed
+purposes, i.e., the control of a liquid crystal
+orientation at ease and the improvements of the
+thermal/mechanical strength, at the same time.</p><p num="0063">The liquid crystal material layer wherein the
+liquid crystal orientation is fixed can be used as an
+optical film in the form in which the film remains
+supported on the alignment substrate (alignment
+substrate/(alignment layer)/liquid crystal film), in
+the form in which the film is transferred to a
+transparent substrate film or the like other than the
+alignment substrate (transparent substrate
+film/liquid crystal film), or in the form of a single
+layer of the liquid crystal film.</p><p num="0064">The liquid crystal orientation state which the
+liquid crystal material layer of the present invention 
+will be able to assume can be controlled by properly
+selecting the side chain-type liquid crystalline
+polymeric substance and the structures of the other
+compounds constituting the liquid crystal material.
+The liquid crystal material layer of the present
+invention can assume a nematic orientation, a twisted
+nematic orientation, a cholesteric orientation, a
+nematic hybrid orientation, a smectic orientation, or
+a smectic C<sup>*</sup> orientation and an optical film wherein
+the orientation is fixed can be produced.</p><p num="0065">The liquid crystal film of the present invention
+can be used particularly as an optical film and mounted
+in a liquid crystal display. Optical films have
+various uses and are preferably used as optical
+retardation films, color compensation films, viewing
+angle improving films, circular polarizer films, and
+optical rotatory films.</p><p num="0066">For example, an optical film wherein a nematic or
+twisted nematic orientation is fixed functions as an
+optical retardation film and a compensation plate for
+an STN-, TN-, OCB-, or HAN-transmission or reflection
+type liquid crystal display. An optical film wherein
+a cholesteric or smectic C<sup>*</sup> orientation is fixed can
+be used as a polarizing reflective film for luminance
+enhancement, a reflection color filter, and various
+decoration films utilizing color variations of
+reflection light depending on viewing angles due to the 
+selective reflection. An optical film wherein a
+smectic orientation is fixed can be used as a
+diffraction film. An optical film wherein a nematic
+hybrid orientation is fixed can be used as an optical
+retardation film or wave plate utilizing a retardation
+upon viewing from the front and a viewing angle
+improving film for a TN-type liquid crystal display
+utilizing the asymmetric nature of viewing angle
+dependency of retardation.</p><p num="0067">A side chain-type liquid crystalline polymeric
+substance can be easily produced by radical or anionic
+polymerization of the (meth) acrylic compound having an
+oxetanyl group of the present invention. The
+side-chain type liquid crystalline polymeric substance
+can be easily oriented at a low temperature and is
+cation-polymerized so as to polymerize and cross-link
+the oxetanyl group thereby obtaining a liquid crystal
+film with fixed orientation. The resulting liquid
+crystal film is enhanced in heat resistance and
+hardness and excellent in mechanical strength.</p><p num="0068">The present invention will be further described
+in the following examples, but the present invention
+should not be construed as being limited thereto.</p><p num="0069">The analyzing methods used in the examples are as
+follows.</p><heading>(1) <sup>1</sup>H-NMR measurement</heading><p num="0070">A compound was dissolved in deuterated chloroform 
+and the composition was determined by means of <sup>1</sup>H-NMR
+at 400 MHz (JNM-GX400 manufactured by Nippon
+Electronics Co., Ltd.).</p><heading>(2) GPC measurement</heading><p num="0071">The GPC measurement was carried out by dissolving
+a compound in tetrahydrofuran and using 8020 GPC system
+manufactured by Tosoh corporation equipped with
+TSK-GEL, Super H1000, Super H2000, Super H3000, and
+Super H4000 which are connected in series and
+tetrahydrofuran as an eluent solvent. Polystyrene was
+used as a standard for calibration of molecular weight.</p><heading>(3) Observation of phase behavior</heading><p num="0072">The liquid crystal phase behavior was observed
+using an Olympus BH2 polarizing microscope while
+heating a sample on a Metler hot stage.</p><p num="0073">The phase transition temperature was measured
+using a differential scanning calorimeter DSC7
+manufactured by Perkin Elmer Co.</p><heading>(4) Parameter measurement of liquid crystal film</heading><p num="0074">The retardation of a nematic orientation was
+measured using KOBRA manufactured by Otsuka
+Electronics Co., Ltd.</p><heading>Example 1</heading><p num="0075">In accordance with Scheme 1 below, an acrylic
+compound having an oxetanyl group (acrylic compound 1)
+was synthesized using 3-ethyl-3-hydroxymethyloxetane
+(OXT-101, manufactured by Toagosei Co., Ltd.). </p><p num="0076">The <sup>1</sup>H-NMR spectrum of the acrylic compound 1 is
+shown in Fig. 1. "x" in the figures indicates the peak
+of the impurities.
+<img id="img-00340001" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00340001.tif" inline="no" he="147"/></p><heading>Example 2</heading><p num="0077">In accordance with Scheme 2 below, an acrylic
+compound having an oxetanyl group (acrylic compound 2)
+was synthesized using 3-ethyl-3-hydroxymethyloxetane
+(OXT-101, manufactured by Toagosei Co., Ltd).</p><p num="0078">The <sup>1</sup>H-NMR spectrum of the acrylic compound 2 is 
+shown in Fig. 2.
+<img id="img-00350001" orientation="unknown" wi="164" img-format="tif" img-content="cf" file="00350001.tif" inline="no" he="79"/></p><heading>Example 3</heading><p num="0079">In accordance with Scheme 3 below, an acrylic
+compound 3 having an oxetanyl group (acrylic compound
+3) was synthesized. The <sup>1</sup>H-NMR spectrum of the acrylic
+compound 3 is shown in Fig. 3.
+<img id="img-00350002" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00350002.tif" inline="no" he="54"/></p><heading>Example 4</heading><p num="0080">In accordance with Scheme 4 below, an acrylic 
+compound 4 having an oxetanyl group (acrylic compound
+4)was synthesized. The <sup>1</sup>H-NMR spectrum of the acrylic
+compound 4 is shown in Fig. 4.
+<img id="img-00360001" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00360001.tif" inline="no" he="41"/></p><heading>Example 5</heading><p num="0081">In accordance with Scheme 5 below, an acrylic
+compound 5 having an oxetanyl group (acrylic compound
+5)was synthesized. The <sup>1</sup>H-NMR spectrum of the acrylic
+compound 5 is shown in Fig. 5.
+<img id="img-00360002" orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00360002.tif" inline="no" he="55"/></p><heading>Example 6</heading><p num="0082">In accordance with Scheme 6 below, an acrylic
+compound 6 having an oxetanyl group (acrylic compound
+6) was synthesized. The <sup>1</sup>H-NMR spectrum of the acrylic
+compound 6 is shown in Fig. 6. <img id="img-00370001" orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00370001.tif" inline="no" he="61"/></p><heading>Reference Example 1</heading><p num="0083">In accordance with Scheme 7 below, acrylic
+compounds (wherein m = 1) and (wherein m = 3) having
+no oxetanyl group (acrylic compounds 7 and 8)were
+synthesized. The <sup>1</sup>H-NMR spectrum of each the acrylic
+compounds 7 and 8 is shown in Fig. 7 and 8.
+<img id="img-00370002" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00370002.tif" inline="no" he="34"/></p><heading>Example 7</heading><heading><u style="single">Synthesis of side chain-type liquid crystalline
+polyacrylates having an oxetanyl group</u></heading><p num="0084">The acrylic compounds 1 to 8 were subjected to a
+radical-polymerization using
+2,2' -azobisisobutylonitrile as an initiator and DMF as
+a solvent under a nitrogen atmosphere at a temperature
+of 90°C for 6 hours and reprecipitated with methanol
+for purification thereby obtaining side chain-type 
+liquid crystalline polyacrylates having an oxetanyl
+group (Polyacrylates 1 to 12).</p><heading>Reference Example 2</heading><heading><u style="single">Synthesis of side chain-type liquid crystalline
+polyacrylates having no oxetanyl group</u></heading><p num="0085">With the same procedures of Example 7, side
+chain-type liquid crystalline polyacrylates having no
+oxetanyl group (Polyacrylates 13 and 14) were
+synthesized.</p><p num="0086">Table 1 below shows the formulations, molecular
+weight, Tg and phase behavior of each of Polyacrylates
+1 to 14. In Table 1, "Sm", "Nm" and "Iso" indicate
+smectic phase, nematic phase, and isotropic phase,
+respectively. A phase behavior indicated by "phase
+(Sm)-temperature-phase (Nm) also indicates that the
+polyacrylate exhibited a isotropic phase at a
+temperature of 250 °C or higher.</p><p num="0087">Figs. 9 and 10 show the <sup>1</sup>H-NMR spectrums of
+Polyacrylates 4 and 13. <tables><table><tgroup cols="12"><tbody><row><entry align="center" namest="1">Polymer No.</entry><entry nameend="9" align="center" namest="2">Monomer Unit (molar ratio, percentage)</entry><entry align="center" namest="10">Weight Average Molecular Weight</entry><entry align="center" namest="11">Tg (°C)</entry><entry align="center" namest="12">phase Behavior</entry></row><row><entry align="center"/><entry align="center">1</entry><entry align="center">2</entry><entry align="center">3</entry><entry align="center">4</entry><entry align="center">5</entry><entry align="center">6</entry><entry align="center">7</entry><entry align="center">8</entry></row><row><entry align="center">1</entry><entry align="right">100</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">39,600</entry><entry align="center">81</entry><entry align="left">Sm-170°C-Nm</entry></row><row><entry align="center">2</entry><entry align="right">50</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">50</entry><entry align="right"/><entry align="center">21,500</entry><entry align="center">78</entry><entry align="left">Sm-152°C-Nm</entry></row><row><entry align="center">3</entry><entry align="right">20</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">80</entry><entry align="right"/><entry align="center">9,700</entry><entry align="center">81</entry><entry align="left">Sm-138°C-Nm</entry></row><row><entry align="center">4</entry><entry align="right">10</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">90</entry><entry align="right"/><entry align="center">9,500</entry><entry align="center">79</entry><entry align="left">Sm-109°C-Nm</entry></row><row><entry align="center">5</entry><entry align="right"/><entry align="right">20</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">80</entry><entry align="right"/><entry align="center">21,400</entry><entry align="center">71</entry><entry align="left">Sm</entry></row><row><entry align="center">6</entry><entry align="right"/><entry align="right">20</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">80</entry><entry align="center">6,100</entry><entry align="center">61</entry><entry align="left">Sm-213°C-Nm</entry></row><row><entry align="center">7</entry><entry align="right"/><entry align="right"/><entry align="right">20</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">80</entry><entry align="right"/><entry align="center">5,500</entry><entry align="center">56</entry><entry align="left">Sm-140°C-Nm</entry></row><row><entry align="center">8</entry><entry align="right"/><entry align="right"/><entry align="right">20</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">40</entry><entry align="right">40</entry><entry align="center">5,500</entry><entry align="center">60</entry><entry align="left">Sm</entry></row><row><entry align="center">9</entry><entry align="right"/><entry align="right"/><entry align="right">20</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">80</entry><entry align="center">5,600</entry><entry align="center">63</entry><entry align="left">Sm</entry></row><row><entry align="center">10</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">50</entry><entry align="right"/><entry align="right"/><entry align="right">50</entry><entry align="right"/><entry align="center">4,900</entry><entry align="center">66</entry><entry align="left">Sm</entry></row><row><entry align="center">11</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">50</entry><entry align="right"/><entry align="right">50</entry><entry align="right"/><entry align="center">5,200</entry><entry align="center">66</entry><entry align="left">Sm-123°C-Nm</entry></row><row><entry align="center">12</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">50</entry><entry align="right">50</entry><entry align="right"/><entry align="center">9,500</entry><entry align="center">74</entry><entry align="left">Sm-144°C-Iso</entry></row><row><entry align="center">13</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">100</entry><entry align="right"/><entry align="center">6,600</entry><entry align="center">74</entry><entry align="left">Nm</entry></row><row><entry align="center">14</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">50</entry><entry align="right">50</entry><entry align="center">7,900</entry><entry align="center">59</entry><entry align="left">Sm-128°C-Nm</entry></row></tbody></tgroup></table></tables></p><heading>Reference Example 3</heading><heading><u style="single">Synthesis of a difunctional oxetane monomer</u></heading><p num="0088">In accordance with Scheme 8, a difunctional
+oxetane monomer was synthesized. The <sup>1</sup>H-NMR spectrum
+of the monomer is shown in Fig. 11.</p><p num="0089">From the DSC measurement and Metler observation,
+it was found that the monomer exhibited the phase
+behavior represented by "crystal-69°C-nematic
+phase-95°C-isotropic phase".
+<img id="img-00390001" orientation="unknown" wi="164" img-format="tif" img-content="cf" file="00390001.tif" inline="no" he="65"/></p><heading>Example 8</heading><heading><u style="single">Preparation of a liquid crystal film using a side
+chain-type liquid crystalline polyacrylate
+(Polyacrylate 4)</u></heading><p num="0090">1.0 g of Polyacrylate 4 obtained in Example 7 was
+dissolved in 9 ml of cyclohexane and to the solution
+was added in a dark place 0.05 g of a propylene carbonate
+solution with 50%
+triaryllsulfoniumhexafluoroantimonate (a reagent
+manufactured by Aldrich Co.), followed by filtration
+of the insolubles with a polytetrafluoroethylene
+filter with a pore size of 0. 45 µm thereby preparing
+a solution of a liquid crystal material.</p><p num="0091">The solution was spin-coated over a 50 µm
+thickness polyethylene naphthalate film "Teonex Q-51"
+manufactured by TEIJIN Limited whose surface had been
+subjected to a rubbing treatment with a rayon cloth and
+then dried at a temperature of 60°C on a hot plate. The
+resulting liquid crystal material layer on the film was
+irradiated with an ultraviolet light of the integrated
+irradiation dose of 450 mJ/cm<sup>2</sup> from a high-pressure
+mercury lamp under an air atmosphere while heating at
+a temperature of 150°C and then cooled thereby
+obtaining a cured liquid crystal material layer.</p><p num="0092">Since the polyethylene naphthalate film used as
+a substrate is large in birefringence and thus not
+preferred as an optical film, the resulting film (the 
+liquid crystal material layer) was transferred via an
+ultraviolet curing-type adhesive "UV-1394"
+manufactured by Toagosei Co., Ltd. onto a
+triacetylcellulose film (TAG) thereby obtaining an
+optical film. More specifically, UV-1394 with a
+thickness of 5 µm was coated over the cured liquid
+crystal material layer on the film and laminated with
+a TAC film. After the laminate was subjected to an
+irradiation of ultraviolet light of 400 mJ/cm<sup>2</sup> from the
+TAC film side so as to cure the adhesive, the
+polyethylene naphthalate film (substrate) was peeled
+off.</p><p num="0093">As a result of observations of the resulting
+optical film using a polarizing microscope, it was
+confirmed that it exhibited a monodomain uniform
+nematic liquid crystal orientation without the
+occurrence of disclination and the retardation was 115
+nm. Only the liquid crystal material portion was
+scrapped off and the glass transition temperature
+thereof was measured using a DSC. As a result, it was
+found to be 95°C. The pencil hardness of the liquid
+crystal material surface of the film was on the order
+of 2H and thus it was confirmed that the film had a
+sufficient hardness.</p><p num="0094">The optical film was laminated via a non-carrier
+pressure sensitive adhesive onto a 2mm thickness glass
+plate and over the film was laminated a polarizer 
+(SQW-862 manufactured by Sumitomo Chemical Co., Ltd. )
+such that the rubbing axis of the liquid crystal layer
+is aligned with the absorption axis of the polarizer.
+This sample was observed through the polarizer on a
+backlight and found to be a uniform film. After the
+sample was kept in a thermostat whose temperature was
+set at 80°C, for 24 hours, it was removed therefrom and
+similarly observed. As a result, neither change nor
+disorder in the liquid crystal orientation was
+observed.</p><p num="0095">As described above, it was found that the use of
+Polyacrylate 4 made it possible to produce a film which
+exhibits an excellent liquid crystal orientability and
+is improved in thermal stability and strength after
+fixation of the liquid crystal orientation.</p><heading>Reference Example 4</heading><heading><u style="single">Preparation of a liquid crystal film using a side
+chain-type liquid crystalline polyacrylate
+(Polyacrylate 13)</u></heading><p num="0096">1.0 g of Polyacrylate 13 obtained in Reference
+Example 2 was dissolved in 9 ml of cyclohexane, followed
+by filtration of the insolubles with a
+polytetrafluoroethylene filter with a pore size of 0.45
+µm thereby preparing a solution of a liquid crystal
+material.</p><p num="0097">The solution was spin-coated over a 50 µm
+thickness polyethylene naphthalate film "Teonex Q-51" 
+manufactured by TEIJIN Limited whose surface had been
+subjected to a rubbing treatment with a rayon cloth and
+then dried at a temperature of 60°C on a hot plate. The
+resulting liquid crystal material layer on the film was
+heated at a temperature of 150°C for 5 minutes and then
+quenched to room temperature thereby obtaining a liquid
+crystal material layer.</p><p num="0098">Since the polyethylene naphthalate film used as
+a substrate is large in birefringence and thus not
+preferred as an optical film, the resulting film
+(liquid crystal material layer) was transferred via an
+ultraviolet curing-type adhesive "UV-1394"
+manufactured by Toagosei Co., Ltd. onto a
+triacetylcellulose film (TAC) thereby obtaining an
+optical film. More specifically, UV-1394 with a
+thickness of 5 µm was coated over the cured liquid
+crystal material layer on the film and laminated with
+a TAC film. After the laminate was subjected to an
+irradiation of ultraviolet light of 400 mJ/cm<sup>2</sup> from the
+TAC film side so as to cure the adhesive, the
+polyethylene naphthalate film (substrate) was peeled
+off.</p><p num="0099">As a result of observations of the resulting
+optical film using a polarizing microscope, it was
+confirmed that it exhibited a monodomain uniform
+nematic liquid crystal orientation without the
+occurrence of disclination and the retardation was 100 
+nm. However, after only the liquid crystal material
+portion was scrapped off and the glass transition
+temperature thereof was measured using a DSC, it was
+found to be 80°C which is low. The pencil hardness of
+the liquid crystal material surface of the film was on
+the order of B and thus it was confirmed that the film
+was too soft to be used as an optical film.</p><p num="0100">The film was laminated via a non-carrier pressure
+sensitive adhesive onto a 2mm thickness glass plate and
+over the film was laminated a polarizer (SQW-862
+manufactured by Sumitomo Chemical Co., Ltd.) such that
+the rubbing axis of the liquid crystal layer is aligned
+with the absorption axis of the polarizer. This sample
+was observed through the polarizer on a backlight and
+found to be a uniform film. After the sample was kept
+in a thermostat whose temperature was set at 80°C, for
+24 hours, it was removed therefrom and similarly
+observed. It was found that the film had voids at
+peripheries due to the disordered liquid crystal
+orientation.</p><heading>Example 9</heading><heading><u style="single">Preparation of a liquid crystal film using a side
+chain-type liquid crystalline polyacrylate
+(Polyacrylate 4)</u></heading><p num="0101">0.8 g of Polyacrylate 4 obtained in Example 7 and
+0.2 g of the difunctional oxetane monomer obtained in
+Reference Example 3 were dissolved in 9 ml of 
+cyclohexane and to the solution was added in a dark place
+0.05 g of a propylene carbonate solution with 50%
+triallylsulfoniumhexafluoroantimonate (a reagent
+manufactured by Aldrich Co.), followed by filtration
+of the insolubles with a polytetrafluoroethylene
+filter with a pore size of 0.45 µm thereby preparing
+a solution of a liquid crystalline material.</p><p num="0102">The solution was spin-coated over a 100 µm
+thickness polyimide film "KAPTON" manufactured by Du
+Pont Co . whose surface had been subjected to a rubbing
+treatment with a rayon cloth and then dried at a
+temperature of 60°C on a hot plate. The resulting
+liquid crystal material layer on the film was
+irradiated with an ultraviolet light of the integrated
+irradiation dose of 450 mJ/cm<sup>2</sup> from a high-pressure
+mercury lamp under an air atmosphere while heating at
+a temperature of 150°C and then cooled thereby
+obtaining a cured liquid crystal material layer.</p><p num="0103">Since the polyimide film used as a substrate was
+brown and thus not preferred as an optical film, the
+resulting film (liquid crystal material layer) was
+transferred via an ultraviolet curing-type adhesive
+"UV-1394" manufactured by Toagosei Co., Ltd. onto a
+triacetylcellulose film (TAC) thereby obtaining an
+optical film. More specifically, UV-1394 with a
+thickness of 5 µm was coated over the cured liquid
+crystal material layer on the film and laminated with 
+a TAC film. After the laminate was subjected to an
+irradiation of ultraviolet light of 400 mJ/cm<sup>2</sup> from the
+TAG film side so as to cure the adhesive, the polyimide
+film (substrate) was peeled off.</p><p num="0104">As a result of observations of the resulting
+optical film using a polarizing microscope, it was
+confirmed that it exhibited a monodomain uniform
+nematic hybrid liquid crystal orientation without the
+occurrence of disclination and the retardation viewed
+from the front was 115 nm. The retardation viewed from
+a direction obliquely at an angle of 40° from the
+vertical along the rubbing axis was 141 nm, while that
+from the opposite angle, i.e., -40° was 53 nm and
+asymmetric to the 40° retardation. Furthermore,
+there was no point wherein the retardation was 0nm at
+any angle. From these observations, it was found that
+the film exhibited a nematic hybrid orientation
+structure.</p><p num="0105">Furthermore, only the liquid crystal material
+portion was scrapped off and the glass transition
+temperature thereof was measured using a DSC. As a
+result, the Tg was not observed.</p><p num="0106">The optical film was laminated via a non-carrier
+pressure sensitive adhesive onto a 2mm thickness glass
+plate and over the film was laminated a polarizer
+(SQW-862 manufactured by Sumitomo Chemical Co., Ltd.)
+such that the rubbing axis of the liquid crystal layer 
+is aligned with the absorption axis of the polarizer.
+This sample was observed through the polarizer on a
+backlight and found to be a uniform film. After the
+sample was kept in a thermostat whose temperature was
+set at 80°C, for 24 hours, it was removed therefrom and
+similarly observed. As a result, neither change nor
+disorder in the liquid crystal orientation was
+observed.</p><p num="0107">The pencil hardness of the liquid crystal material
+surface of the film was on the order of 2H and thus it
+was confirmed that the film had a sufficient hardness.
+As described above, it was found that the use of
+Polyacrylate 4 made it possible to produce a film which
+exhibits an excellent liquid crystal orientability and
+is improved in thermal stability and strength after
+fixation of the liquid crystal orientation.</p><heading>Example 10</heading><p num="0108">The optical film with a retardation of 115 nm
+obtained in Example 8 (hereinafter referred to "optical
+film A") and an optical film with a retardation of 265
+nm obtained by the same procedure of Example 8 except
+that thickness of the liquid crystal material layer
+(hereinafter referred to "optical film B") was changed
+were used in combination as a wide bandwidth λ /4 plate
+and assembled with a transflective TFT-TNECB-type
+liquid crystal cell with a reflector thereby producing
+a liquid crystal display with the arrangement shown in 
+Fig. 12. The liquid crystal cell contained ZLI-1695
+manufactured by Merck Ltd as a liquid crystal material
+which had been formed into a homogenously-oriented
+liquid crystal layer with a thickness of 5 µm. The
+pretilt angle at the cell interface was 2° , while the
+Δnd of the liquid crystal cell was 310 nm. As a
+polarizer, SQW-862 manufactured by Sumitomo Chemical
+Co., Ltd. was used.</p><p num="0109">As a result, it was confirmed that CR = 8, i.e.,
+an excellent white and black was achieved.</p><heading>Example 11</heading><p num="0110">Wide bandwidth λ/4 plates were formed with the
+optical film A, the optical film with a front
+retardation of 115nm and obtained in Example 9
+(hereinafter referred to as "optical film C") , and the
+optical film 12 obtained in Example 10 and assembled
+with a TFT-transflective ECB-type liquid crystal cell
+with a reflector thereby producing a liquid crystal
+display with the arrangement shown in Fig. 13. The
+liquid crystal cell contained ZLI-1695 manufactured by
+Merck Ltd as a liquid crystalline material which had
+been formed into a homogenously-oriented liquid
+crystal layer with a thickness of 5 µm. The pretilt
+angle at the cell interface was 2° , while the Δnd of
+the liquid crystal cell was 310 nm. As a polarizer,
+SQW-862 manufactured by Sumitomo Chemical Co. , Ltd. was
+used. </p><p num="0111">As a result, it was confirmed that CR = 8, i.e.,
+an excellent white and black was achieved. Furthermore,
+it was also confirmed that a wider viewing angle can
+be obtained with this display than that of Example 10.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A (meth)acrylic compound having an oxetanyl
+group represented by the formula
+
+wherein R1 is hydrogen or methyl, R2 is hydrogen, methyl,
+or ethyl, L1 and L2 each are selected from a single bond,
+- O-, -O-CO-, and -CO-O-, M represents a formula
+selected from formulas (2), (3) and (4) below, and n
+and m are each independently an integer from 0 to 10:
+- P1-L3-P2-L4-P3--P1-L3-P3-- P3-
+wherein P1 and P2 are each independently a group selected
+from formulas (5) below, P3 is a group selected from
+formulas (6) below, and L3 and L4 are each independently
+selected from a single bond, -CH=CH-, -C≡C-, -O-,
+-O-CO- and -CO-O-
+</claim-text></claim><claim num="2"><claim-text>A side chain-type liquid crystalline
+polymeric substance obtained by homopolymerizing the
+(meth)acrylic portion of the (meth)acrylic compound
+having an oxetanyl group as defined in claim 1 or
+copolymerizing same with another (meth)acrylic
+compound.</claim-text></claim><claim num="3"><claim-text>The side chain-type liquid crystalline
+polymeric substance according to claim 2 which has a
+unit represented by formula (7) below derived from a
+(meth)acrylic compound having an oxetanyl group as
+defined in claim 1:
+</claim-text></claim><claim num="4"><claim-text>The side chain-type liquid crystalline
+polymeric substance according to claim 3 which contains
+a unit of said formula (7) in an amount of 5 to 100
+percent by mol.</claim-text></claim><claim num="5"><claim-text>The side chain-type liquid crystalline
+polymeric substance according to claim 2 wherein the
+weight-average molecular weight is from 2,000 to
+100,000.</claim-text></claim><claim num="6"><claim-text>A liquid crystal material which contains the
+side-chain type liquid crystalline polymeric substance
+as defined in claim 2 in an amount of 10 percent by mass
+or more.</claim-text></claim><claim num="7"><claim-text>The liquid crystal material which further
+contains a photo cationic initiator and/or a thermal
+cationic initiator.</claim-text></claim><claim num="8"><claim-text>A liquid crystal film which is formed by fixing
+the orientation state of the liquid crystal material
+as defined in claim 6 or 7.</claim-text></claim><claim num="9"><claim-text>A method of producing a liquid crystal film
+wherein the liquid crystal material as defined in claim
+6 or 7 is developed over an alignment substrate so as
+to align the liquid crystal material in a liquid crystal
+orientation state, followed by fixing the orientation
+by light irradiation and/or a heat treatment.</claim-text></claim><claim num="10"><claim-text>The method of producing a liquid crystal film
+according to claim 9 wherein said orientation state
+is one obtained by fixing an orientation state selected
+from the group consisting of nematic, twisted nematic,
+cholesteric, and nematic hybrid orientations.</claim-text></claim><claim num="11"><claim-text>An optical film which comprises the liquid
+crystal film as defined in claim 8.</claim-text></claim><claim num="12"><claim-text>The optical film according to claim 11 which
+is selected from the group consisting of a retardation
+film, a color compensation film, a viewing angle
+improving film, a circular polarizing film, and an
+optical rotatory film.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

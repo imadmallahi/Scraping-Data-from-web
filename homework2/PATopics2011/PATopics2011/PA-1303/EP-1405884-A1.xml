@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1405884-A1" country="EP" doc-number="1405884" kind="A1" lang="EN" family-id="31993583" status="new" date-produced="20090516" date="20040407"><bibliographic-data><publication-reference ucid="EP-1405884-A1" status="new" fvid="24003156"><document-id status="new" format="original"><country>EP</country><doc-number>1405884</doc-number><kind>A1</kind><date>20040407</date></document-id></publication-reference><application-reference ucid="EP-03077980-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03077980</doc-number><kind>A</kind><date>20030922</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-26474002-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>26474002</doc-number><kind>A</kind><date>20021004</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/01        20060101AFI20060310RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/01        20060101CFI20060310RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101CLI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09D  11/00C</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Tintenstrahldrucktinten and Druckverfahren</invention-title><invention-title load-source="ep" status="new" lang="EN">Ink jet composition and printing method</invention-title><invention-title load-source="ep" status="new" lang="FR">Encre pour jet d'encre et procédé d'impression</invention-title><citations><patent-citations><patcit ucid="EP-1182050-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1182050</doc-number><kind>A2</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1319671-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1319671</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1319696-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1319696</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit><patcit ucid="US-20020025994-A1" status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>20020025994</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-20020032252-A1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>20020032252</doc-number><kind>A1</kind></document-id><sources><source category="A"  name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="US-5714993-A"  status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5714993</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5942560-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5942560</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>EASTMAN KODAK CO</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>EASTMAN KODAK COMPANY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>EASTMAN KODAK COMPANY</last-name><address><street>343 State Street</street><city>Rochester, New York 14650</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>CHEN HUIJUAN D</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>RECZEK JAMES A</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>WANG XIAORU</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>CHEN, HUIJUAN D.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>RECZEK, JAMES A.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>WANG, XIAORU</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>CHEN, HUIJUAN D.</last-name><address><street>Eastman Kodak Company 343 State Street</street><city>Rochester New York 14650-2201</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>RECZEK, JAMES A.</last-name><address><street>Eastman Kodak Company 343 State Street</street><city>Rochester New York 14650-2201</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>WANG, XIAORU</last-name><address><street>Eastman Kodak Company 343 State Street</street><city>Rochester New York 14650-2201</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Weber, Etienne Nicolas</last-name><address><street>Kodak Industrie, Département Brevets, CRT, Zone Industrielle</street><city>71102 Chalon sur Saône Cedex</city><country>FR</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>This invention relates to an ink jet ink composition comprising
+water, a humectant, and polymer-dye particles, wherein said polymer-dye
+particles comprise a colorant phase containing a water insoluble dye, and a
+polymer phase, said particles being associated with a water-dispersible polymeric
+co-stabilizer. This invention further relates to an inkjet printing method utilizing
+the above ink jet ink composition.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><b>FIELD OF THE INVENTION</b></heading><p num="0001">This invention relates to ink jet ink compositions comprising novel
+co-stabilizer used to prepare polymer-dye particles. It further relates to an ink jet
+printing method using said inkjet ink compositions.</p><heading><b>BACKGROUND OF THE INVENTION</b></heading><p num="0002">Ink jet printing is a non-impact method for producing images by
+the deposition of ink droplets on a substrate (paper, transparent film, fabric, etc.)
+in response to digital signals. Ink jet printers have found broad applications
+across markets ranging from industrial labeling to short run printing to desktop
+document and pictorial imaging.</p><p num="0003">In ink jet recording processes, it is necessary that the inks being
+used meet various performance requirements. Such performance requirements
+are generally more stringent than those for other liquid ink applications, such as
+for writing instruments (e.g., a fountain pen, felt pen, etc.). In particular, the
+following conditions are generally required for inks utilized in ink jet printing
+processes:
+<sl><li>(1) The ink should possess physical properties such as viscosity,
+surface tension, and electric conductivity matching the discharging conditions of
+the printing apparatus, such as the driving voltage and driving frequency of a
+piezoelectric electric oscillator, the form and material of printhead orifices, and
+the diameter of the orifices;</li><li>(2) The ink should be capable of being stored for a long period of time
+without causing clogging of printhead orifices during use;</li><li>(3) The ink should be quickly fixable onto recording media, such as
+paper, film, etc., such that the outlines of the resulting ink dots are smooth and
+there is minimal blotting of the dotted ink; </li><li>(4) The printed image should be of high quality, such as having a clear
+color tone, high density, high gloss, and high color gamut;</li><li>(5) The printed image should exhibit excellent water fastness (water
+resistance) and light fastness (light resistance);</li><li>(6) The printed (ink) images should have good adhesion to the surface
+of image receiving elements and should be durable and highly resistant to
+physical and mechanical scratches or damages;</li><li>(7) The ink should not chemically attack, corrode, or erode
+surrounding materials such as the ink storage container, printhead components,
+orifices, etc;</li><li>(8) The ink should not have an unpleasant odor and should not be
+toxic or inflammable; and</li><li>(9) The ink should exhibit low foaming and high pH stability
+characteristics.</li></sl></p><p num="0004">The inks used in various ink jet printers can be classified as either
+dye-based or pigment-based. Pigment-based inks have some deficiencies. For
+example, pigment-based inks interact differently with specially coated papers and
+films such as transparent films used for overhead projection and glossy papers or
+opaque white films used for high quality graphics and pictorial output. This
+results in images that have poor dry and wet adhesion properties and that can be
+easily smudged.</p><p num="0005">Another deficiency from which pigmented inks suffer is their poor
+storage stability due to the presence of a water-miscible organic solvent. Water-miscible
+organic solvents are used to adjust ink rheology, to maximize ink
+firability, and re-runability. These solvents prevent ink from drying in a printing
+head and lower ink surface tension to minimize the effect of air-entrapment in an
+ink formulation. Such air entrapment generates air bubbles which can seriously
+affect the head performance. Unfortunately, these water-miscible organic
+solvents can also have a negative effect on the colloidal stability of pigment
+particles in an ink formulation. </p><p num="0006">A dye is a colorant which is molecularly dispersed or solvated by a
+carrier medium. The carrier medium can be a liquid or a solid at room
+temperature. Known ink jet inks generally comprise a water soluble dye which is
+soluble in an ink vehicle such as water or a mixture comprising water and a
+known water soluble or water miscible organic solvent. Inks comprising these
+soluble dyes may exhibit many problems, such as low optical densities on plain
+paper, poor water fastness, poor lightfastness, clogging of the jetting channels as a
+result of solvent evaporation and changes in the solubility of the dyes, dye
+crystallization and ink bleeding. There is a need to develop a water resistant dye-based
+ink and to improve the existing inks. More specifically, there is a need to
+develop inks that provide high quality prints on a wide variety of recording
+media, including plain paper. Particularly, there is a great need to develop dye-based
+inks which have high optical densities on receivers and also superior
+lightfastness and colorfastness. These and other needs may be achievable in
+embodiments of the present invention.</p><p num="0007">Oil soluble (water insoluble) dyes have been studied to achieve
+these requirements. Some inks use organic solvents, but such inks have
+environmental considerations. Water-based oil soluble dye inks have the
+advantages of low pollution, low price, and good quality. It is difficult, however,
+to form a stable dispersion of oil soluble dye in water media. WO 98/14524 and
+U.S. Application Serial No. 09/510,879, filed February 23, 2000, disclose oil
+soluble colorants which have been dissolved in organic solvents and added to
+aqueous polymer latexes slowly under agitation. After mixing, the organic
+solvent is evaporated and the colorant is loaded to the polymer particles. The
+mixture is used to formulate ink jet inks with the addition of water, humectants,
+and some other additives. U.S. Patent 5,958,998 discloses an ink composition
+containing an oil soluble colorant. The composition is made by flushing pigment
+into a sulfonated polyester resin having a degree of sulfonation of 2.5 to 20 mol
+percent; dispersing the pigmented polyester resin in water at a temperature of
+from 40°C - 95°C, and thereafter separating and mixing. The dispersing is done 
+by a shearing device operating at speeds of 100 to 5000 revolutions which yields
+stable pigmented submicron sized particles of from 5 to 150 nanometers.
+However, the amount of colorant that may be loaded in the polymer is limited.</p><p num="0008">JP 00297126A discloses a process for making an ink composition
+wherein polymer-colorant particles are prepared using a batch emulsion
+polymerization process employing colorant, monomers, and an initiator. This
+process, however, involves more micelle particle nucleation and polymer particles
+are produced. When formulated into an ink jet ink, the presence of free polymers
+(both polymer particles and water-soluble polymers) can significantly increase ink
+viscosity, decrease ink storage stability, cause premature printing head failure, and
+generate image defects.</p><p num="0009">U.S. Serial Nos. 10/020,644 and 10/017,729 disclose a process for
+making ink jet ink composition comprising water, a humectant, and polymer-dye
+particles, wherein said polymer-dye particles comprise a colorant phase
+containing a water insoluble dye, and a polymer phase, said particles being
+associated with a co-stabilizer. However, the ozone stability of the above ink on
+porous receivers is still not optimized.</p><p num="0010">There is still needed a colorant particle dispersion that has
+improved compatibility with water-soluble organic solvents and improved
+stability in an ink jet composition. There is further a need for an ink composition
+which, when printed, provides images on the surface of an ink jet recording
+element having improved image quality, improved physical durability such as
+scratch and smudging resistance, and significantly improved image stability such
+as colorfastness and water fastness.</p><heading><b>SUMMARY OF THE INVENTION</b></heading><p num="0011">The present invention provides an ink jet ink composition
+comprising water, a humectant, and polymer-dye particles, wherein said polymer-dye
+particles comprise a colorant phase containing a water insoluble dye, and a
+polymer phase, said particles being associated with a co-stabilizer, wherein said 
+co-stabilizer is a water-dispersible polymeric material. In one embodiment the
+polymer-dye particles are made by a process comprising, in order:
+<sl><li>I) forming a colorant mixture comprising a water insoluble dye and an
+organic medium containing at least one ethylenically-unsaturated monomer;</li><li>II) combining said colorant mixture with an aqueous mixture comprising
+a surfactant and a water-dispersible polymeric co-stabilizer to form a colorant
+mixture/aqueous mixture;</li><li>III) causing the colorant mixture/aqueous mixture to form a stable
+aqueous droplet mixture via strong agitation; and</li><li>IV) initiating polymerization to form composite polymer-dye particles
+comprising a colorant phase and a polymer phase;</li></sl>
+   wherein an addition polymerization initiator is added prior to initiating
+polymerization; and.</p> <p num="0012">This invention further provides an ink jet printing method,
+comprising the steps of:
+<sl><li>A) providing an ink jet printer that is responsive to digital data
+signals;</li><li>B) loading said printer with an ink jet recording element
+comprising a support having thereon an image-receiving layer;</li><li>C) loading said printer with an ink jet ink composition comprising
+water, a humectant, and polymer-dye particles, wherein said
+polymer-dye particles comprise a colorant phase containing a water
+insoluble dye and a polymer phase, said particles being associated
+with a water-dispersible polymeric co-stabilizer; and</li><li>D) printing on said image-receiving layer using said ink jet ink
+composition in response to said digital data signals.</li></sl> </p> <p num="0013">The final composite polymer-dye particles utilized in the invention
+have better stability than those prepared by the prior art. The particles are also
+more stable during the manufacturing process. Inks formulated with such 
+particles have improved ozone stability, colloid stability, and good resistance to
+abrasion.</p> <heading><b>DETAILED DESCRIPTION OF THE INVENTION</b></heading><p num="0014">In accordance with the present invention, a colorant mixture is
+formed which comprises a water insoluble dye and an organic medium
+comprising ethylenically-unsaturated monomers. Generally the water insoluble
+dye is dissolved at room temperature in an organic medium containing
+ethylenically-unsaturated monomers to form the colorant mixture.</p><p num="0015">A broad range of water-insoluble dyes may be used in the
+invention such as an oil dye, a disperse dye, or a solvent dye, such as Ciba-Geigy
+Orasol Red G, Ciba-Geigy Orasol Blue GN, Ciba-Geigy Orasol Pink, and Ciba-Geigy
+Orasol Yellow. Preferred water-insoluble dyes can be xanthene dyes,
+methine dyes, polymethine dyes, anthroquinone dyes, merocyanine dyes,
+azamethine dyes, azine dyes, quinophthalone dyes, thiazine dyes, oxazine dyes,
+phthalocyanine dyes, mono or poly azo dyes, and metal complex dyes. More
+preferably, the water insoluble dyes can be an azo dye such as a water insoluble
+analog of the pyrazoleazoindole dye disclosed in U.S. Patent Application S.N.
+09/689,184 filed October 12, 2000, and the arylazoisothiazole dye disclosed in U.
+S. Patent 4,698,651; or a metal-complex dye, such as the water-insoluble
+analogues of the dyes described in U.S. Patents 5,997,622 and 6,001,161, i.e., a
+transition metal complex of an 8-heterocyclylazo-5-hydroxyquinoline. The
+solubility of the water insoluble dye used in the present invention should be less
+than 1 g/L in water, and more preferably less than 0.5 g/L in water.</p><p num="0016">The ethylenically-unsaturated monomers which can be used in the
+invention include, for example, the following monomers and their mixtures:
+acrylic acid, methacrylic acid, ethacrylic acid, methyl acrylate, ethyl acrylate,
+ethyl methacrylate, benzyl acrylate, benzyl methacrylate, propyl acrylate, propyl
+methacrylate, iso-propyl acrylate, iso-propyl methacrylate, butyl acrylate, butyl
+methacrylate, hexyl acrylate, hexyl methacrylate, octadecyl methacrylate, 
+octadecyl acrylate, lauryl methacrylate, lauryl acrylate, hydroxyethyl acrylate,
+hydroxyethyl methacrylate, hydroxyhexyl acrylate, hydroxyhexyl methacrylate,
+hydroxyoctadecyl acrylate, hydroxyoctadecyl methacrylate, hydroxylauryl
+methacrylate, hydroxylauryl acrylate, phenethylacrylate, phenethyl methacrylate,
+6-phenylhexyl acrylate, 6-phenylhexyl methacrylate, phenyllauryl acrylate,
+phenyllaurylmethacrylate, 3-nitrophenyl-6-hexyl methacrylate, 3-nitrophenyl-18-octadecyl
+acrylate, ethyleneglycol dicyclopentyl ether acrylate, vinyl ethyl
+ketone, vinyl propyl ketone, vinyl hexyl ketone, vinyl octyl ketone, vinyl butyl
+ketone, cyclohexyl acrylate,3-methacryloxypropyl-dimethylmethoxysilane,
+3-methacryloxypropyl-methyldimethoxysilane, 3-methacryloxypropyl-pentamethyldisiloxane,
+3-methacryloxypropyltris-(trimethylsiloxy)silane,
+3-acryloxypropyl-dimethylmethoxysilane, acryloxypropylmethyldimethoxysilane,
+trifluoromethyl styrene, trifluoromethyl acrylate, trifluoromethyl methacrylate,
+tetrafluoropropyl acrylate, tetrafluoropropyl methacrylate, heptafluorobutyl
+methacrylate, isobutyl acrylate, isobutyl methacrylate, 2-ethylhexyl acrylate,
+2-ethylhexyl methacrylate, isooctyl acrylate, isooctyl methacrylate, N,N-dihexyl
+acrylamide, N,N-dioctyl acrylamide, N,N-dimethylaminoethyl acrylate,
+N,N-dimethylaminoethyl methacrylate, N,N-diethylaminoethyl acrylate,
+N,N-diethylaminoethyl methacrylate, piperidino-N-ethyl acrylate, vinyl
+propionate, vinyl acetate, vinyl butyrate, vinyl butyl ether, and vinyl propyl ether
+ethylene, styrene, vinyl carbazole, vinyl naphthalene, vinyl anthracene, vinyl
+pyrene, methyl methacrylate, methyl acrylate, alpha-methylstyrene,
+dimethylstyrene, methylstyrene, vinylbiphenyl, glycidyl acrylate, glycidyl
+methacrylate, glycidyl propylene, 2-methyl-2-vinyl oxirane, vinyl pyridine,
+aminoethyl methacrylate, aminoethylphenyl acrylate, maleimide, N-phenyl
+maleimide, N-hexyl maleimide, N-vinyl-phthalimide, and N-vinyl maleimide
+poly(ethylene glycol) methyl ether acrylate, polyvinyl alcohol, vinyl pyrrolidone,
+vinyl 4-methylpyrrolidone, vinyl 4-phenylpyrrolidone, vinyl imidazole, vinyl
+4-methylimidazole, vinyl 4-phenylimidazole, acrylamide, methacrylamide,
+N,N-dimethyl acrylamide, 
+N-methyl acrylamide, N-methyl methacrylamide, aryloxy dimethyl acrylamide,
+N-methyl acrylamide, N-methyl methacrylamide, aryloxy piperidine, and N,N-dimethyl
+acrylamide acrylic acid, methacrylic acid, chloromethacrylic acid,
+maleic acid, allylamine, N,N-diethylallylamine, vinyl sulfonamide, sodium
+acrylate, sodium methacrylate, ammonium acrylate, ammonium methacrylate,
+acrylamidopropanetriethylammonium chloride, methacrylamidopropane-triethylammonium
+chloride, vinyl-pyridine hydrochloride, sodium vinyl
+phosphonate and sodium 1-methylvinylphosphonate, sodium vinyl sulfonate,
+sodium 1-methylvinyl-sulfonate, sodium styrenesulfonate, sodium
+acrylamidopropanesulfonate, sodium methacrylamidopropanesulfonate, and
+sodium vinyl morpholine sulfonate, allyl methacrylate, allyl acrylate, butenyl
+acrylate, undecenyl actylate, undecenyl methacrylate, vinyl acrylate, and vinyl
+methacrylate; dienes such as butadiene and isoprene; esters of saturated glycols or
+diols with unsaturated monocarboxylic acids such as, ethylene glycol diacrylate,
+ethylene glycol dimethacrylate, triethylene glycol dimethacrylate, 1,4-butanediol
+dimethacrylate, 1,3-butanediol dimethacrylate, pentaerythritol tetraacrylate,
+trimethylol propane trimethacrylate and polyfunctuional aromatic compounds
+such as divinylbenzene and the like.</p><p num="0017">The polymer formed by the ethylenically-unsaturated monomers
+may be a homopolymer, a co-polymer, or a cross-linked polymer. Preferably the
+resulting polymer is water insoluble. In one embodiment of the invention, the
+polymer formed is a cross-linked polymer and the ethylenically-unsaturated
+monomers which may be employed are a mixture of monomers which comprises
+a) an ethylenically-unsaturated monomer being free of ionic charge groups and
+capable of addition polymerization to form a substantially water-insoluble
+homopolymer, and b) an ethylenically-unsaturated monomer capable of being a
+cross-linker. In another embodiment, an ethylenically-unsaturated monomer
+capable of addition polymerization to form a substantially water-soluble
+homopolymer may additionally be utilized to form the co-polymer or the cross-linked
+polymer. In one suitable embodiment, the ratio of the 
+ethylenically-unsaturated monomer to the cross-linking monomer is from 97:3 to
+50:50. The ethylenically-unsaturated monomer free of ionic charge groups may
+comprise, for example, methyl methacrylate, ethyl methacrylate, butyl
+methacrylate, ethyl acrylate, butyl acrylate, hexyl acrylate, n-octyl acrylate, lauryl
+methacrylate, 2-ethylhexyl methacrylate, nonyl acrylate, benzyl methacrylate,
+2-hydroxypropyl methacrylate, acrylonitrile, methacrylonitrile, vinyl acetate,
+vinyl propionate, vinylidene chloride, vinyl chloride, styrene, t-butyl styrene,
+vinyl toluene, butadiene, or isoprene. The water soluble ethylenically-unsaturated
+monomer may comprise, for example, N,N-dimethyl acrylamide, acrylic acid,
+methacrylic acid, chloromethacrylic acid, maleic acid, allylamine,
+N,N-diethylallylamine, vinyl sulfonamide, sodium acrylate, sodium methacrylate,
+ammonium acrylate, ammonium methacrylate, acrylamidopropanetriethylammonium
+chloride, methacrylamidopropane-triethylammonium chloride,
+vinyl-pyridine hydrochloride, sodium vinyl phosphonate and sodium
+1-methylvinylphosphonate, sodium vinyl sulfonate, sodium 1-methylvinyl-sulfonate,
+or sodium styrenesulfonate. The cross-linking ethylenically-unsaturated
+monomer may comprise, for example, vinyl acrylate and vinyl
+methacrylate; dienes such as butadiene and isoprene; esters of saturated glycols or
+diols with unsaturated monocarboxylic acids, such as ethylene glycol diacrylate,
+ethylene glycol dimethacrylate, triethylene glycol dimethacrylate, 1,4-butanediol
+dimethacrylate, 1,3-butanediol dimethacrylate, pentaerythritol tetraacrylate and
+trimethylol propane trimethacrylate and polyfunctuional aromatic compounds
+such as divinylbenzene, and the like. Preferred monomer types are acrylates,
+styrenic, and others.</p><p num="0018">The organic medium may comprise only the ethylenically saturated
+monomers or it may contain an additional solvent if the dye does not have the
+required solubility in the monomers alone. The additional solvents used can be
+selected from most organic solvents, such as ethers, alcohols, tetrahydrofuran,
+chloroform, methylene chloride, ethylene dichloride, ethyl acetate, toluene, 
+methanol, ethanol, ethylene glycol, diethylene glycol, triethylene glycol, etc. If a
+solvent is utilized, it preferably is removed after the polymerization step.</p><p num="0019">In the next step of the invention the colorant mixture is combined
+with an aqueous mixture comprising a surfactant and a co-stabilizer to form a
+colorant mixture/aqueous mixture. In accordance with the invention, the co-stabilizers
+used can be, for example, any of the water dispersible polymers,
+including homopolymers and copolymers.</p><p num="0020">The preferred polymeric co-stabilizers used in the invention may
+be an aqueous dispersible polyester such as Eastman AQ® polyesters produced by
+the Eastman Chemical Company. The three polyesters, Eastman AQ 29, AQ 38,
+and AQ 55 are composed of varying amounts of isophthalic acid, sodium
+sulfoisophthalic acid, diethylene glycol, and 1,4-cyclohexanedimethanol. These
+thermoplastic, amorphous, ionic polyesters are prepared by a melt-phase
+condensation polymerization at high temperature and low pressure, and the
+molten product is extruded into small pellets. The solid polymer disperses readily
+in water at 70°C with minimal agitation to give translucent, low viscosity
+dispersions containing no added surfactants or solvents. Varying the amount of
+ionic monomers, i.e., sulfoisophthalic acid, can control the particle size.</p><p num="0021">The particle size of the co-stabilizer is preferably less than 100 nm,
+more preferably, less than 50 nm. The amount of the co-stabilizer used can be a
+0.1:1 to 10:1 ratio to the surfactants used, and more preferably a 1:1 to 10:1 ratio
+to the surfactants used. This step is normally performed at room temperature.</p><p num="0022">Surfactants that can be used in the present invention include, for
+example, a sulfate, a sulfonate, a cationic compound, a reactive surfactant, an
+amphoteric compound, and a polymeric protective colloid. Specific examples are
+described in "McCutcheon's Emulsifiers and Detergents: 1995, North American
+Editor" and will be known to those skilled in the art.</p><p num="0023">In accordance with the invention, the colorant mixture/aqueous
+mixture is mixed via strong mechanical agitation, such as by sonification, 
+homogenation or microfluidization to form a stable aqueous droplet mixture. The
+duration of the mixing time depends on the types of monomers, colorants, and
+surfactants. The agitation usually can be stopped between 1 minute to 40 minutes.
+Detailed information the process and the stabilizers can be found in "<i>Emulsion
+Polymerization and Emulsion Polymers</i> " (P. A. Lovell, M. S. El-Aasser, John
+Wiley &amp; Sons Ltd., England, 1997).</p><p num="0024">An addition polymerization initiator is introduced anytime prior to
+polymerization, preferably after the formation of the colorant mixture/aqueous
+mixture. After the formation of the aqueous droplet mixture, polymerization is
+initiated to form polymer dye particles comprising a colorant phase and a polymer
+phase. In accordance with the invention, a preferred way to cause an addition
+polymerization initiator to form a free radical is by using heat. Depending on the
+types of initiators used, the reaction temperature can vary from 30°C to 90°C.
+Preferably the reaction temperature is at least 40°C, and most preferably at least
+50°C. To ensure that no free monomer is present, usually the reaction is
+continued for a time after the monomer addition. Also, more initiator may need
+to be added as a scavenger during the final stage of the reaction to increase the
+reaction conversion.</p><p num="0025">Addition polymerization initiators useful in the practice of the
+invention include, for example, azo and diazo compounds, such as
+2,2'-azobisisobutyronitrile, 2,2'-azobis(2,4-dimethyl valeronitrile),
+2,2'-azobis(2,3-dimethyl butyronitrile), 2,2'-azobis(2-methyl butyronitrile),
+2,2'-azobis(2,3,3-trimethyl butyronitrile), 2,2'-azobis(2-isopropyl butyronitrile),
+1,1'-azobis(cyclohexane-1-carbonitrile), 2, 2'-azobis(4-methoxyl-2,4-dimethyl
+valeronitrile), 2-(carbamoylazo)isobutyronitrile, 4,4'-azobis(4-cyanovaleric acid),
+and dimethyl -2,2'azobis isobutyrate, or peroxide compounds, such as butyl
+peroxide, propyl peroxide, butyryl peroxide, benzoyl isobutyryl peroxide, and
+benzoyl peroxide, or water soluble initiators, for example, sodium persulfate, and
+potassium persulfate, or any redox initiators. Preferred initiators are the oil
+soluble initiators. Examples of particularly suitable initiators are azo, peroxide, 
+persulfate, and redox initiators. The initiators may be used in an amount varying
+from 0.2 to 4 weight percent or higher by weight of the total monomers. A chain
+transfer agent such as butyl mercaptan, may also be used to control the properties
+of the polymer formed.</p><p num="0026">The term "composite" means that the colorant particles prepared by
+the process of the invention comprise at least two physical phases, a colorant
+phase, free of solvent, and a polymer phase. The phase domains are not separated
+apart from each other, and there are bonds or interfaces between them. The
+composite polymer-dye particles preferably have a particle size of less than 1 µm,
+more preferably they have a particle size of less than 200 nm, and most preferably
+they have a particle size of less than 100 nm. It is preferred that the polymer
+phase has a molecular weight of greater than 5000 and more preferably greater
+than 10,000. In one suitable embodiment, the composite polymer-dye particles
+have a mean size of less than 200 nm, and the polymer phase of each particle has
+a molecular weight of greater than 5000. The ratio of the colorant phase to the
+polymer phase is preferably from 10:90 to 90:10, and more preferably from 20:80
+to 50:50. The co-stabilizer will remain associated with the composite polymer
+dye particles. Generally, the co-stabilizer is on the surface of the polymer dye
+particles and operates to stabilize the particles.</p><p num="0027">While the polymer-dye particles prepared by the process of the
+invention described herein are illustrated for use in ink jet inks, they may also
+have other applications such as, e.g., in paints, inks for writing pens, markers,
+cosmetic products, etc.</p><p num="0028">In forming an ink jet ink, it is desirable to make the polymer-dye
+particles in the form of a concentrate. The concentrate is then diluted with an
+appropriate solvent to a concentration best for viscosity, color, hue, saturation
+density, and print area coverage for the particular application. Acceptable
+viscosities for such inks, as determined using a Brookfield apparatus and related
+methods, are generally not greater than 20 centipoise, and are preferably in the
+range of 1 to 15 centipoise. </p><p num="0029">The polymer-dye particles prepared by the process of the invention
+can comprise up to 30% by weight of an ink jet ink composition, and preferably
+from 0.05 to 15 wt. %. Co-solvents or a humectant can also be added to the ink
+composition to help prevent the ink from drying out or crusting in the orifices of
+the printhead. Classes of co-solvents and humectants which may be employed
+include, but are not limited to, monohydric alcohols with carbon chains greater
+than 10 carbon atoms such as decanol, dodecanol, oleoyl alcohol, stearoyl
+alcohol, hexadecanol, eicosanol, polyhydric alcohols, such as ethylene glycol,
+alcohol, diethylene glycol(DEG), triethylene glycol, propylene glycol,
+tetraethylene glycol, polyethylene glycol, glycerol, 2-methyl-2,4-pentanediol, 2-ethyl-2-hydroxymethyl-1,3-propanediol(EHMP),
+1,5- pentanediol, 1,2-hexanediol,
+1,2,6-hexanetriol and thioglycol; lower alkyl mono- or di-ethers
+derived from alkylene glycols, such as ethylene glycol mono-methyl or mono-ethyl
+ether, diethylene glycol mono-methyl or mono-ethyl ether, propylene glycol
+mono-methyl or mono-ethyl ether, triethylene glycol mono-methyl or mono-ethyl
+ether, diethylene glycol di-methyl or di-ethyl ether, poly(ethylene glycol)
+monobutyl ether (PEGMBE), and diethylene glycol monobutylether(DEGMBE);
+nitrogen-containing compounds, such as urea, 2-pyrrolidinone, N-methyl-2-pyrrolidinone,
+and 1,3-dimethyl-2-imidazolidinone; and sulfur-containing
+compounds such as dimethyl sulfoxide and tetramethylene sulfone.</p><p num="0030">In an ink jet ink, the polymer phase composition can be selected to
+maximize the compatibility of the composite particles with the organic solvent
+used in the formulation, and to maximize the interaction with the substrate where
+the ink is applied. The maximized compatibility with the organic solvent
+produces long-term storage stability, and the maximized interaction with the
+substrate improves the adhesion or smudge resistance of the image area.</p><p num="0031">Polymeric binders can also be added to an ink prepared using the
+polymer-dye particles prepared by the process of the invention to improve the
+adhesion of the colorant to the support by forming a film that encapsulates the
+colorant upon drying. Examples of polymers that can be used include polyesters, 
+polystyrene/acrylates, sulfonated polyesters, polyurethanes, polyimides and the
+like. The polymers may be present in amounts of from 0.01 to 15 percent by
+weight, and more preferably from 0.01 to 5 percent by weight based on the total
+amount of components in the ink.</p><p num="0032">A biocide may be added to an ink jet ink composition to suppress
+the growth of micro-organisms such as molds, fungi, etc., in aqueous inks. A
+preferred biocide for an ink composition is Proxel® GXL (Zeneca Specialties
+Co.) at a final concentration of 0.0001-0.5 wt. %. Additional additives which
+may optionally be present in an ink jet ink composition include thickeners,
+conductivity enhancing agents, anti-kogation agents, drying agents, waterfast
+agents, dye solubilizers, chelating agents, binders, light stabilizers, viscosifiers,
+buffering agents, anti-mold agents, anti-curl agents, stabilizers and defoamers.</p><p num="0033">Ink jet inks made using polymer-dye particles prepared by the
+process of this invention are employed in ink jet printing wherein liquid ink drops
+are applied in a controlled fashion to an ink receptive substrate, by ejecting ink
+droplets from plurality of nozzles, or orifices, in a print head of ink jet printers.</p><p num="0034">Commercially available ink jet printers use several different
+methods to control the deposition of the ink droplets. Such methods are generally
+of two types: continuous stream and drop-on-demand.</p><p num="0035">In drop-on-demand systems, a droplet of ink is ejected from an
+orifice directly to a position on the ink receptive layer by pressure created by, for
+example, a piezoelectric device, an acoustic device, or a thermal process
+controlled in accordance digital data signals. An ink droplet is not generated and
+ejected through the orifices of the print head unless it is needed. Ink jet printing
+methods, and related printers, are commercially available and need not be
+described in detail.</p><p num="0036">Ink jet inks using polymer-dye particles prepared by the process of
+this invention can be employed in ink jet printing wherein liquid ink drops are
+applied in a controlled fashion to an ink receptive layer substrate, by ejecting ink 
+droplets from the plurality of nozzles, or orifices, in a print head of ink jet
+printers.</p><p num="0037">Ink-receptive substrates useful in ink jet printing are well known to
+those skilled in the art. Representative examples of such substrates are disclosed
+in U.S. Patents 5,605,750; 5,723,211; and 5,789,070 and EP 813 978 A1.</p><p num="0038">The following examples illustrate the utility of the present invention.</p><heading><b>EXAMPLES</b></heading><p num="0039">The following dyes were used in the present invention:
+<img id="img-00150001" orientation="unknown" wi="139" img-format="tif" img-content="cf" file="00150001.tif" inline="no" he="74"/></p><heading><i>Preparation of Polymer-dye Particle Dispersions</i></heading><heading><u style="single">Inventive Polymer-dye Particle Dispersion (Dispersion I)</u></heading><p num="0040">In a 400 ml beaker, 1 g of Dye-1 was added, and also added were
+2.4 g of styrene, 2.4 g of butyl methacrylate, 1.2 g of divinyl benzene, and 2.0 g
+of ethyl acetate. After the addition, the mixture was well stirred. In another
+beaker, 50 g of deionized water, 0.6 g of sodium dodecyl sulfonate surfactant, and
+1.0 g of AQ 55 were added and well stirred. The organic phase and the aqueous
+phase were agitated violently under either sonification or microfluidizer for more
+than 20 minutes. The organic aqueous mixture was added to the reactor, and 0.09
+g of initiator azobisisobutyronitrile (AIBN) in 1 gram of toluene was then added
+to the reactor. The reaction was allowed to continue for 4 more hours before the 
+reactor was cooled down to room temperature. The organic solvent was removed
+under reduced pressure. The polymer-dye particle dispersion prepared was
+filtered through glass fibers to remove any coagulum. The particles made contain
+about 50% by weight of a colorant phase and about 50% by weight of a polymer
+phase. The initiator was added before the sonification or microfluidizer. The
+particle size was measured by a Microtrac Ultra Fine Particle Analyzer (Leeds
+and Northrup) at a 50% median value. The polymer-dye particle dispersion is
+designated as Inventive Polymer-Dye Dispersion (Dispersion I). These results are
+in Table 1.</p><heading><u style="single">Comparative Polymer-dye Particle Dispersion (Dispersion C)</u></heading><p num="0041">In a 400 ml beaker, 1 g of Dye 1 was added, and also added were
+2.4 g of styrene, 2.4 g of butyl methacrylate, 1.2 g of divinyl benzene, and 2.0 g
+of ethyl acetate. After the addition, the mixture was well stirred. In another
+beaker, 50 g of deionized water, 0.6 g of sodium dodecyl sulfonate surfactant and
+1.8 g of hexadecane were added and well stirred. The organic aqueous mixture
+was added to the reactor, and 0.09 g of initiator azobisisobutyronitrile (AIBN) in
+1 gram of toluene was then added to the reactor. The reaction was allowed to
+continue for 4 more hours before the reactor was cooled down to room
+temperature. The polymer-dye particle dispersion prepared was filtered through
+glass fibers to remove any coagulum. The particles made contain about 50% by
+weight of a colorant phase and about 50% by weight of a polymer phase. The
+polymer-dye particle dispersion is designated as Comparative Polymer-dye
+Particle Dispersion (Dispersion C). The particle size was measured by a
+Microtrac Ultra Fine Particle Analyzer (Leeds and Northrup) at a 50% median
+value. These results are also in Table 1.</p><p num="0042">The procedure used to prepare the Comparative Polymer-dye
+Particle Dispersion is different compared with the one used to prepare the
+inventive Polymer-dye Particle Dispersion in that no polymeric co-stabilizer was
+added to the reactor. <tables><table><tgroup cols="5"><tbody><row><entry align="center">Polymer-dye Particle Dispersion</entry><entry align="center">Polymer Composition <!--footnotes removed--> (wt. ratios)</entry><entry align="center">Initiato r</entry><entry align="center">Co-stabilizer</entry><entry align="center">Particle Size (nm)</entry></row><row><entry align="center">Dispersion I</entry><entry align="center">S/BMA/DVB (40/40/20)</entry><entry align="center">AIBN</entry><entry align="center">AQ55</entry><entry align="center">78</entry></row><row><entry align="center">Dispersion C</entry><entry align="center">S/BMA/DVB (40/40/20)</entry><entry align="center">AIBN</entry><entry align="center">hexadecane</entry><entry align="center">120<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><heading><i>Ink Preparation</i></heading><heading><u style="single">Comparative Ink 1 (Ink C-1) (Water Soluble Dye/No Polymer in Ink)</u></heading><p num="0043">To prepare a comparative ink jet ink, 0.6 g of Control Dye 1 (10%
+active), 0.05 g Surfynol® 465 (Air Products Inc.), 1.2 g diethylene glycol, 1.0 g
+of glycerol, and 0.3 g di(propyleneglycol) methyl ether (Dowanol® DPM) were
+added distilled water so that the final ink is 10.0 g. The final ink contained 0.6%
+Control Dye-1, 0.50% Surfynol® 465, 12% diethylene glycol, 10% glycerol and
+3% di(propyleneglycol) methyl ether.</p><heading><u style="single">Comparative Ink 2 (Ink C-2) (Water Insoluble Dye/no Polymeric Co-stabilizer)</u></heading><p num="0044">This ink was prepared similar to Comparative Ink 1 (Ink C-1)
+except that Polymer-dye Particle Dispersion C (Dispersion C) was used instead of
+Control Dye 1. To prepare this ink, 5.0 g of Polymer-dye Particle Dispersion C,
+0.05 g Surfynol® 465 (Air Products Inc.), 1.2 g diethylene glycol, 0.6 g glycerol,
+and 0.3 g di(propyleneglycol) methyl ether (Dowanol® DPM) were added
+distilled water so that the final ink is 10.0 g. The final ink contained 50% of the
+Polymer-dye Particle Dispersion C (about 10% active), 0.50% Surfynol® 465,
+12.0% diethylene glycol, 6% glycerol, and 3% di(propyleneglycol) methyl ether.</p><heading><u style="single">Comparative Ink 3 (Ink C-3) (Water Insoluble Dye/AQ55 as Ink Additive)</u></heading><p num="0045">This ink was prepared similar to Comparative Ink 2 (Ink C-2)
+except that 0.32 g of AQ55 (30.9% active) was also added into the ink in addition
+to the other components. The final ink contained additional 1% AQ55. </p><heading><u style="single">Ink of the Invention (Ink I) (Water Insoluble Dye/AQ55 as Co-stabilizer)</u></heading><p num="0046">Ink I was prepared similar to Comparative Ink 2 (Ink C-2) except
+that the Inventive Polymer-dye Particle Dispersion (Dispersion I was used instead
+of the Comparative Polymer-dye Particle Dispersion (Dispersion C).</p><heading><i>Elements Used in the Present Invention</i></heading><heading><u style="single">Comparative Element 1 (C-1) (Water Soluble Dye/No Polymer in Ink)</u></heading><p num="0047">The Comparative Ink 1 (Ink C-1) was filtered through a 1 µm
+polytetrafluoroethylene filter and filled into an empty Epson 660 inkjet cartridge.
+A test image consisting of a series of 6 variable density patches, approximately 15
+by 13 mm in size, ranging from 5% dot coverage to 100% dot coverage was
+printed onto commercially available Epson Premium Glossy Paper, Cat. No
+SO41286 using the above ink with an Epson 660 inkjet printer. The sample was
+allowed to dry for 24 hours at ambient temperature and humidity.</p><heading><u style="single">Comparative Element 2 (C-2) (Water Soluble Dye/No Polymer in Ink)</u></heading><p num="0048">Comparative Element 2 was prepared similar to Comparative
+Element 1 except that a commercially available paper, Kodak Instant-Dry
+Photographic Glossy Media (Cat 8103137), was used instead of Epson Premium
+Glossy Paper.</p><heading><u style="single">Comparative Element 3 (C-3) (Water Insoluble Dye/No Polymeric Co-stabilizer)</u></heading><p num="0049">Comparative Element 3 was prepared similar to Comparative
+Element 1 except that Comparative Ink 2 (Ink C-2) was used instead of
+Comparative Ink 1 (Ink C-1).</p><heading><u style="single">Comparative Element 4 (C-4) (Water Insoluble Dye/No Polymeric Co-stabilizer)</u></heading><p num="0050">Comparative Element 4 was prepared similar to Comparative
+Element 3 except that a commercially available paper,
+ 
+Kodak Instant-Dry Photographic Glossy Media (Cat 8103137), was used instead
+of Epson Premium Glossy Paper.</p><heading><u style="single">Comparative Element 5 (C-5) (Water Insoluble Dye/AQ55 as Ink Additive)</u></heading><p num="0051">Comparative Element 5 was prepared similar to Comparative
+Element 1 except that Comparative Ink 3 (Ink C-3) was used instead of
+Comparative Ink 1 (Ink C-1).</p><heading><u style="single">Comparative Element 6 (C-6) (Water Insoluble Dye/AQ55 as Ink Additive)</u></heading><p num="0052">Comparative Element 6 was prepared similar to Comparative Element 5
+except that a commercially available paper, Kodak Instant-Dry Photographic
+Glossy Media (Cat 8103137), was used instead of Epson Premium Glossy Paper.</p><heading><u style="single">Element 1 of the Invention (I-1) (Water Insoluble Dye/AQ55 as Co-stabilizer)</u></heading><p num="0053">Element 1 of the Invention was prepared similar to Comparative
+Element 1 except that Inventive Ink (Ink I) was used instead of Comparative Ink
+1 (Ink C-1).</p><heading><u style="single">Element 2 of the Invention (I-2) (Water Insoluble Dye/AQ55 as Co-stabilizer)</u></heading><p num="0054">Element 2 of the Invention was prepared similar to Element 1 of
+the Invention except that a commercially available paper, Kodak Instant-Dry
+Photographic Glossy Media (Cat 8103137), was used instead of Epson Premium
+Glossy Paper.</p><heading><u style="single">Stability Tests</u></heading><p num="0055">The above elements were subj ected to light fade test and ozone
+test. The light fade test was done by exposing the samples to a 50 Klux high
+intensity daylight for 1 week. Ozone stability test was done by placing the above
+elements in an ozone chamber (~5 ppm ozone level, 50% relative humidity) for
+24 hours. The Status A reflection densities of the maximum density patch of the 
+elements were measured using an X-Rite® 414 densitometer before and after the
+ozone fade test. The percentages of the Status A densities retained for the 100%
+dot coverage patches were calculated and are listed in Table 2.
+<tables><table><tgroup cols="4"><tbody><row><entry align="center">Element</entry><entry align="center">Ink</entry><entry align="center">Light Stability (% Retained at 100% Dot Coverage)</entry><entry align="center">Ozone Stability (% Retained at 100% Dot Coverage)</entry></row><row><entry align="center">C-1</entry><entry align="center">Ink C-1</entry><entry align="center">7</entry><entry align="center">5</entry></row><row><entry align="center">C-3</entry><entry align="center">Ink C-2</entry><entry align="center">20</entry><entry align="center">8</entry></row><row><entry align="center">C-5</entry><entry align="center">Ink C-3</entry><entry align="center">40</entry><entry align="center">15</entry></row><row><entry align="center">I-1</entry><entry align="center">Ink I</entry><entry align="center">67</entry><entry align="center">51</entry></row><row><entry align="center">C-2</entry><entry align="center">Ink C-1</entry><entry align="center">13</entry><entry align="center">5</entry></row><row><entry align="center">C-4</entry><entry align="center">Ink C-2</entry><entry align="center">3 6</entry><entry align="center">11</entry></row><row><entry align="center">C-6</entry><entry align="center">Ink C-3</entry><entry align="center">50</entry><entry align="center">32</entry></row><row><entry align="center">I-2</entry><entry align="center">Ink I</entry><entry align="center">74</entry><entry align="center">61</entry></row></tbody></tgroup></table></tables></p><p num="0056">The above results show that the ink of the invention that although
+there is some image stability improvement to light and ozone using inks
+formulated from particles prepared using a non-polymeric co-stabilizer compared
+with inks formulated with water soluble dye, a further significant image stability
+improvement towards light and ozone was achieved using inks of the present
+invention, as compared to inks formulated from particles prepared without the
+polymeric co-stabilizer, as well as to inks simply using the co-stabilizer polymer
+as an ink additive.</p><p num="0057">The invention has been described in detail with particular reference
+to certain preferred embodiments thereof, but it will be understood that variations
+and modifications can be effected within the spirit and scope of the invention.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An inkjet ink composition comprising water, a humectant, and
+polymer-dye particles, wherein said polymer-dye particles comprise a colorant
+phase containing a water insoluble dye, and a polymer phase, said particles being
+associated with a water-dispersible polymeric co-stabilizer.</claim-text></claim><claim num="2"><claim-text>The inkjet ink composition of Claim 1 wherein the water-dispersible
+polymeric co-stabilizer is a polyester.</claim-text></claim><claim num="3"><claim-text>The ink jet ink composition of Claim 1 wherein the mean
+particle size of the water-dispersible polymeric co-stabilizer is less than 200 nm.</claim-text></claim><claim num="4"><claim-text>The inkjet ink composition of Claim 1 wherein the water
+insoluble dye is an azo dye or a metal complex dye.</claim-text></claim><claim num="5"><claim-text>The ink jet ink composition of Claim 1 wherein the composite
+polymer-dye particles have a particle size of less than 1 µm.</claim-text></claim><claim num="6"><claim-text>The inkjet ink composition of Claim 1 wherein the polymer
+phase has a molecular weight of greater than 10,000.</claim-text></claim><claim num="7"><claim-text>The ink jet ink composition of Claim 1 wherein the polymer-dye
+particles are made by a process comprising the steps of:
+<claim-text><claim-text>I) forming a colorant mixture comprising a water insoluble dye and an
+organic medium containing at least one ethylenically-unsaturated monomer;</claim-text><claim-text>II) combining said colorant mixture with an aqueous mixture comprising
+a surfactant and a water-dispersible polymeric co-stabilizer to form a colorant
+mixture/aqueous mixture;</claim-text><claim-text>III) causing the colorant mixture/aqueous mixture to form a stable
+aqueous droplet mixture by using strong agitation; and</claim-text><claim-text>IV) initiating polymerization to form composite polymer-dye particles
+comprising a colorant phase and a polymer phase;</claim-text></claim-text>
+   wherein an addition polymerization initiator is added prior to initiating
+polymerization.</claim-text></claim><claim num="8"><claim-text>The ink jet ink composition of Claim 15 wherein the polymer
+formed is a cross-linked polymer and the organic medium contains a mixture of
+ethylenically-unsaturated monomers comprising:
+<claim-text><claim-text>a) at least one ethylenically-unsaturated monomer that is free of ionic
+charge groups and is capable of addition polymerization to form a
+substantially water-insoluble homopolymer; and</claim-text><claim-text>b) at least one ethylenically-unsaturated monomer capable of being a
+cross-linker.</claim-text></claim-text></claim-text></claim><claim num="9"><claim-text>The inkjet printing method of Claim 27 wherein the polymer-dye
+particles are made by a process comprising, in order:
+<claim-text><claim-text>I) forming a colorant mixture comprising a water insoluble dye and an
+organic medium containing at least one ethylenically-unsaturated monomer;</claim-text><claim-text>II) combining said colorant mixture with an aqueous mixture comprising
+a surfactant and a water-dispersible polymeric co-stabilizer to form a colorant
+mixture/aqueous mixture;</claim-text><claim-text>III) causing the colorant mixture/aqueous mixture to form a stable
+aqueous droplet mixture via strong agitation; and</claim-text><claim-text>IV) initiating polymerization to form composite polymer-dye particles
+comprising a colorant phase and a polymer phase;</claim-text></claim-text>
+   wherein an addition polymerization initiator is added prior to initiating
+polymerization.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

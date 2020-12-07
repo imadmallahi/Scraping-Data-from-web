@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1362841-A1" country="EP" doc-number="1362841" kind="A1" lang="EN" family-id="29268589" status="new" date-produced="20090516" date="20031119"><bibliographic-data><publication-reference ucid="EP-1362841-A1" status="new" fvid="23886540"><document-id status="new" format="original"><country>EP</country><doc-number>1362841</doc-number><kind>A1</kind><date>20031119</date></document-id></publication-reference><application-reference ucid="EP-03252946-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03252946</doc-number><kind>A</kind><date>20030512</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-6379502-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6379502</doc-number><kind>A</kind><date>20020514</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C07C  51/54        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C  51/573       20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C07C  51/573+65/24</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Verfahren zur Isolierung von Dianhydriden</invention-title><invention-title load-source="ep" status="new" lang="EN">Process to isolate dianhydrides</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédé pour isoler des dianhydrides</invention-title><citations><patent-citations><patcit ucid="DE-3213166-A1" status="new"><document-id status="new" format="epo"><country>DE</country><doc-number>3213166</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4318857-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4318857</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4340545-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4340545</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4584388-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4584388</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2003050165-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2003050165</doc-number><kind>A1</kind></document-id><sources><source category="E" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>GEN ELECTRIC</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>GENERAL ELECTRIC COMPANY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>GENERAL ELECTRIC COMPANY</last-name><address><street>1 River Road</street><city>Schenectady, NY 12345</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>GUGGENHEIM THOMAS LINK</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MONGILIO DAVID ANTHONY</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GUGGENHEIM, THOMAS LINK</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MONGILIO, DAVID ANTHONY</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GUGGENHEIM, THOMAS LINK</last-name><address><street>7160 Upton Road</street><city>Mount Vernon, Indiana 47620</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MONGILIO, DAVID ANTHONY</last-name><address><street>11220 High Point Drive</street><city>Evansville, Insiana 47712</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Szary, Anne Catherine, Dr.</last-name><address><street>GE London Patent Operation, Essex House, 12-13 Essex Street</street><city>London WC2R 3AA</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>ES</country><country>NL</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A process to isolate dianhydride from an exchange reaction comprises extracting a
+bisimide/anhydride exchange reaction aqueous phase with an organic solution
+comprising an exchange catalyst at a first temperature and pressure to form an
+extracted aqueous phase comprising water, exchange catalyst and a dianhydride
+precursor; removing water from the extracted aqueous phase at a second temperature
+and pressure to form a molten phase, wherein the second pressure is less than the first
+pressure; removing water and exchange catalyst from the molten phase at a third
+temperature and pressure to form an isolation mixture; and converting the dianhydride
+precursor in the isolation mixture to dianhydride at a fourth temperature and pressure,
+wherein the fourth temperature is greater than the second and third temperatures and
+the fourth pressure is less than the second and third pressures.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The disclosure relates to the isolation of dianhydrides. In particular, the disclosure
+relates to the isolation of dianhydrides with low color.</p><p num="0002">Polymers such as polyetherimide are most desirably colorless or very light colored
+(have low color). Polyetherimide is typically produced by reacting dianhydrides with
+diamines. It is therefore desirable that the dianhydrides and diamines have low color
+in order to produce polyetherimide with low color.</p><p num="0003">A process to isolate dianhydride from an exchange reaction comprises extracting a
+bisimide/anhydride exchange reaction aqueous phase with an organic solution
+comprising an exchange catalyst at a first temperature and pressure to result in an
+extracted aqueous phase comprising water, exchange catalyst and a dianhydride
+precursor; removing water from the extracted aqueous phase at a second temperature
+and pressure to form a molten phase wherein the second pressure is less than the first
+pressure; removing water and exchange catalyst from the molten phase at a third
+temperature and pressure to form an isolation mixture; and converting the dianhydride
+precursor in the isolation mixture to dianhydride at a fourth temperature and pressure,
+wherein the fourth temperature is greater than the second and third temperatures and
+the fourth pressure is less than the second and third pressures.</p><p num="0004">In another aspect, a process to isolate dianhydride from an exchange reaction
+comprises extracting a bisimide/anhydride exchange reaction aqueous phase with an
+organic solution comprising an exchange catalyst at a first temperature and pressure to
+form an extracted aqueous phase comprising water, exchange catalyst and dianhydride
+precursor; feeding the extracted aqueous phase to a flash vessel operated at a second
+temperature and pressure to form a molten phase; feeding the molten phase to a falling
+film evaporator operated at a third temperature and pressure to produce an isolation
+mixture having an exchange catalyst to dianhydride precursor ratio of about 0.4 to
+about 0.8; converting the dianhydride precursor in the isolation mixture to dianhydride
+in a wiped film evaporator at a fourth temperature and pressure. </p><p num="0005">In another aspect, a system for dianhydride isolation comprises a flash vessel that
+receives an extracted aqueous phase from an extraction column and forms a molten
+phase, a falling film evaporator in fluid communication with a first outlet of the flash
+vessel, wherein the falling film evaporator receives the molten phase from the flash
+vessel and forms an isolation mixture; and a wiped film evaporator in fluid
+communication with a first outlet of the falling film evaporator, wherein the wiped
+film evaporator receives the isolation mixture from the falling film evaporator and
+comprises a first outlet for collection of the isolated dianhydride.</p><p num="0006">The invention will now be described in more detail, by way of example, with
+reference to Figure 1 which is a schematic representation of a system for the isolation
+of dianhydride.</p><p num="0007">A process to isolate dianhydride from an exchange reaction comprises extracting a
+bisimide/anhydride exchange reaction aqueous phase with an organic solution
+comprising an exchange catalyst at a first temperature and pressure to form an
+extracted aqueous phase comprising water, exchange catalyst and dianhydride
+precursor. A majority of the water is then removed from the extracted aqueous phase
+at second temperature and pressure to form a molten phase, preferably in a flash
+vessel. The molten phase is then subjected to reduced pressure (a vacuum) at a third
+temperature, preferably in a falling film evaporator, to remove catalyst, water and
+optionally residual starting materials, and form an isolation mixture. The dianhydride
+precursor in the isolation mixture is then converted to dianhydride at a fourth
+temperature under further reduced pressure, preferably in a wiped film evaporator.
+This process can be performed batchwise or in a continuous manner. Preferably the
+process is continuous.</p> <p num="0008">The conditions of isolation of the dianhydride, namely the separation of the precursor
+from the exchange reaction and its subsequent conversion to dianhydride can have a
+significant effect on the color of the isolated dianhydride. Factors that contribute to
+the development of color in the dianhydride include the residence time of the
+dianhydride precursor(s) at elevated temperatures, in that long precursor residence
+times can result in highly colored dianhydride. Unexpectedly it has been discovered 
+by the inventors hereof that by reducing the amount of catalyst in the isolation mixture
+prior to converting the dianhydride precursor to dianhydride, dianhydride with
+significantly less color can be produced, even with increased residence time at
+elevated temperatures.</p><p num="0009">In another embodiment, the process to isolate dianhydride from an exchange reaction
+proceeds wholly or partially in the absence of air. The exposure of the catalyst to air
+in the presence of the dianhydride precursor at elevated temperatures can increase the
+color of the dianhydride. Without being bound by theory, it is thought that exposure
+of the exchange catalyst to air at elevated temperatures results in a reactive
+intermediate that, in turn, reacts with the dianhydride precursor or dianhydride to form
+highly colored impurities.</p><p num="0010">Dianhydrides are typically produced by the exchange reaction shown in Scheme I
+below. Molten bismide 1 is combined with phthalic anhydride 2 in the presence of
+water and an exchange catalyst. The exchange reaction produces phthalimide 3 and a
+precursor of the dianhydride such as the tetra acid salt 4.
+<img id="img-00030001" orientation="unknown" wi="155" img-format="tif" img-content="cf" file="00030001.tif" inline="no" he="63"/></p><p num="0011">The dianhydride precursor is subsequently converted to dianhydride 5.
+<img id="img-00030002" orientation="unknown" wi="60" img-format="tif" img-content="cf" file="00030002.tif" inline="no" he="32"/></p><p num="0012">The divalent bonds of the -K- group are in the 3,3', 3,4', 4,3', or the 4,4' positions, and K
+includes O, S, SO<sub>2</sub> and O-W-O wherein W includes, but is not limited, to divalent
+radicals of formula (I).
+<img id="img-00040001"  orientation="unknown" wi="109" img-format="tif" img-content="cf" file="00040001.tif"  inline="no"  he="22"/><img id="img-00040002"  orientation="unknown" wi="109" img-format="tif" img-content="cf" file="00040002.tif" inline="no" he="16"/><img id="img-00040003" orientation="unknown" wi="109" img-format="tif" img-content="cf" file="00040003.tif" inline="no" he="27"/><img id="img-00040004" orientation="unknown" wi="65" img-format="tif" img-content="cf" file="00040004.tif" inline="no" he="25"/>
+and
+<img id="img-00040005" orientation="unknown" wi="84" img-format="tif" img-content="cf" file="00040005.tif" inline="no" he="25"/>
+wherein Q includes but is not limited to a divalent moiety selected from the group
+consisting of -O-, -S-, -C(O)-, -SO<sub>2</sub>-, -SO-, -C<sub>y</sub>H<sub>2y</sub>- (y being an integer from 1 to 5),
+and halogenated derivatives thereof, including perfluoroalkylene groups. A preferred
+dianhydride is 2,2-bis(4-(3,4-dicarboxyphenoxy)phenyl)propane dianhydride.</p> <p num="0013">R is a monovalent organo radical selected from the group consisting of C<sub>1-8</sub> alkyl
+radicals and C<sub>6-13</sub> aromatic radicals. Y represents a positive ion, the identity of which
+is not particularly limited. Typically Y is the protonated form of the exchange
+catalyst.</p> <p num="0014">Exchange catalysts include, but are not limited to, C<sub>1-20</sub> trialkylamines. A preferred
+exchange catalyst is triethylamine. The exchange catalyst used in the exchange
+reaction as described above and the exchange catalyst present in the extraction column 
+may be the same trialkylamine or different trialkylamines. Preferably they are the
+same.</p> <p num="0015">In the exchange reaction molten bisimide is typically combined with about 3 to about
+8 molar excess of molten anhydride in the presence of about 60 to about 80 weight
+percent (wt %) water based on the total weight of the reaction mixture water and about
+0.5 to about 15 mole percent (mol%) of exchange catalyst with respect to anhydride at
+about 150 to about 210°C. The exchange reaction is agitated for about 0.5 to about 3
+hours. It has been observed that when the exchange reaction is run in a liquid full
+reactor and the reactants are added to the top of the reactor, a layer comprising mostly
+exchange catalyst can form. Formation of the exchange catalyst layer effectively
+removes catalyst from the reaction, causing a significant decrease in the production of
+dianhydride precursor. It is therefore preferable for the reactants to be added to the
+bottom of the reactor. When the reactants are added to the bottom of the reactor, no
+exchange catalyst layer forms and all of the exchange catalyst is available to
+participate in the reaction.</p><p num="0016">The precursor of the dianhydride resulting from the exchange reaction is resident in
+the aqueous phase. As will be appreciated by one of ordinary skill in the art, one
+dianhydride precursor is a tetra acid and may be present as such, or any number of the
+acid groups may be deprotonated and present in salt form. It is believed that a mixture
+of protonated and deprotonated species is present in the aqueous phase. The aqueous
+phase may also contain phthalic anhydride in salt form.</p><p num="0017">The aqueous phase resulting from the exchange reaction is extracted with an organic
+solution containing an exchange catalyst, preferably in an extraction column. The
+aqueous phase is contacted with the organic solution for about 1 to about 3, preferably
+about 1 to about 2, and more preferably about 1 to about 1.5 hours. The catalyst is
+present in the organic solution to convert any exchange reaction intermediate products
+to dianhydride precursor. Extraction preferably occurs at first temperature of about
+135 to about 190°C and a first pressure of about 3,000 to about 17,000 torr, preferably
+about 10,000 to about 12,000 torr, to facilitate the conversion of intermediates. The
+organic solution typically contains about 1 to about 7, preferably about 2 to about 5 
+and more preferably about 3 to about 4 wt% catalyst, based on the total weight of the
+organic solution. Suitable organic solvents for use in the organic solution include, but
+are not limited to, alkyl benzenes with alkyl groups having from 1 to 5 carbons,
+benzene, and halogenated aromatics. When using an extraction column, the aqueous
+phase from the exchange reaction is typically fed into the top of the extraction column
+while the organic solution is fed into the bottom of the exchange column.</p><p num="0018">After extraction the aqueous phase is subjected to a second temperature and pressure
+to remove water, preferably in a flash vessel, to form a molten phase, typically for
+about 60 to about 120 minutes. Useful pressures are less than about 1050, preferably
+less than about 850 and more preferably less than or equal to about 800 torr but
+greater than or equal to about 300 torr. The second pressure is less than the first
+pressure. Useful temperatures are about 100 to about 180, preferably about 140 to
+about 160, and more preferably about 145 to about 155°C. After removal the water
+may then be condensed. The condensed water may then be chilled and used in the
+condensers associated with later water and/or catalyst removal as described below or
+recycled back to the exchange reaction.</p><p num="0019">The molten phase is subjected to a third temperature and pressure for about 5 to about
+30 minutes to remove catalyst, additional water and optionally residual starting
+materials such as phthalic anhydride to form an isolation mixture that has a catalyst to
+dianhydride precursor ratio of about 0.4 to about 0.8, preferably about 0.5 to about 0.7
+and more preferably about 0.6 to about 0.65. Useful temperatures are less than about
+260, preferably less than about 220 and more preferably less than about 200°C.
+Additionally, the temperature is greater than about 150, preferably greater than about
+170 and more preferably greater than about 180°C. Useful pressures are less than
+about 400, preferably less than about 200 and more preferably less than about 150
+torr. The pressure is greater than about 30, preferably greater than about 50 and more
+preferably greater than about 100 torr.</p><p num="0020">In a preferred embodiment, the molten phase is fed to a falling film evaporator. As
+readily understood by one of ordinary skill in the art, the number of tubes, the length
+of the tubes and the diameter of the tubes contained in the falling film evaporator 
+determines the overall surface area for the formation of the film and hence relates to
+the rate at which the volatile materials are removed, primarily residual water, catalyst
+and optionally residual starting materials such as phthalic anhydride. It is well within
+the skill of one with ordinary skill in the art to match the surface area of the falling
+film evaporator to the desired flow rate of the process stream in a continuous process
+and to desired extent of water and catalyst removal. The volatile materials are
+preferably taken overhead to a condenser, such as a chilled spray condenser, wherein
+the volatile material is condensed through the use of a chilled spray. When the
+condensed material contains phthalic anhydride it is typically present in salt form.
+The condensed material itself may then be chilled in a heat exchanger and used as the
+spray in the same spray condenser, another spray condenser or recycled for use in the
+exchange reaction.</p><p num="0021">The falling film evaporator is maintained at a reduced pressure of less than about 400,
+preferably less than about 200 and more preferably less than about 150 torr. The
+pressure of the falling film evaporator is greater than about 30, preferably greater than
+about 50 and more preferably greater than about 100 torr. The temperature of the oil
+heating the tubes of the falling film evaporator is less than about 260, preferably less
+than about 220 and more preferably less than about 200°C. Additionally, the
+temperature of the oil in the falling film evaporator tubes is greater than about 150,
+preferably greater than about 170 and more preferably greater than about 180°C. The
+temperature of the falling film evaporator is preferably less than the temperature of the
+wiped film evaporator.</p><p num="0022">The isolation mixture is subjected to a fourth temperature and pressure for typically
+about 5 to about 30 minutes to convert the dianhydride precursor to dianhydride. The
+amount of time as well as the temperature is generally dependent upon the identity of
+the dianhydride and is readily determined by one of ordinary skill in the art.
+Generally, useful temperatures are less than about 350, preferably less than about 310
+and more preferably less than about 295°C. The fourth temperature is typically greater
+than about 250, more preferably greater than about 270, and most preferably greater
+than about 275°C. Useful pressures are less than about 50, preferably less than about
+30 and more preferably less than about 25 torr. The fourth pressure is greater than 
+about 5, preferably greater than about 10 and more preferably greater than about 20
+torr. The conversion of the dianhydride precursors to dianhydride is a cyclization with
+the concurrent formation of water. Advantageously, trace water, catalyst, and other
+residual volatile materials such as phthalic anhydride are also removed as vapor under
+the conditions required for conversion.</p><p num="0023">In a preferred embodiment, the conversion of the dianhydride precursor proceeds in a
+wiped film evaporator. The oil temperature of the wiped film evaporator is
+maintained at a temperature less than about 350, preferably less than about 310 and
+more preferably less than about 295°C. The oil temperature of the wiped film
+evaporator is greater than about 250, more preferably greater than about 270, and most
+preferably greater than about 275°C. The wiped film evaporator is maintained at a
+reduced pressure of less than about 50, preferably less than about 30 and more
+preferably less than about 25 torr. The pressure of the wiped film evaporator is
+greater than about 5, preferably greater than about 10 and more preferably greater than
+about 20 torr.</p><p num="0024">The volatile materials removed in the wiped film evaporator are taken to a chilled
+spray condenser operated in a manner similar to that described above for the chilled
+spray condenser associated with the falling film evaporator. Material condensed in
+the spray condenser associated with the falling film evaporator may be chilled and
+used in the spray condenser associated with the wiped film evaporator.</p><p num="0025">Use of the above described process results in dianhydride with low color. Color may
+be quantified by the yellowness index as determined according to ASTM D1925.
+Dianhydride produced by the above described method, on a commercial scale, has a
+yellowness index of about 5 to about 8 with an average of about 6, a decrease of about
+3 units when compared to dianhydride produced by prior art methods. Without being
+bound by theory, it is believed that the reduction of the yellowness index results from
+the removal of a greater amount of exchange catalyst from the precursor containing
+mixture before exposure to the high temperatures of the wiped film evaporator than
+has previously been possible. The dianhydride isolated using the above-described
+process has a catalyst content of less than about 50, preferably less than about 35 and 
+more preferably less than about 20 parts per million (ppm). In contrast, dianhydride
+isolated by prior art methods has an average triethylamine content of about 50 to about
+100 ppm and the triethylamine content is difficult to control.</p><p num="0026">Figure 1 is a schematic representation of a system for the isolation of dianhydride. In
+Figure 1, the extracted aqueous phase from the extraction column is passed through
+heat exchanger 2 and fed to flash vessel 4. In flash vessel 4 water and optionally some
+exchange catalyst are removed as a vapor, affording a molten product phase
+comprising dianhydride precursor. The water vapor from flash vessel 4 is received by
+condenser 6 where it is condensed into water and collected in an accumulator 8. Flash
+vessel 4 is in fluid connection with falling film evaporator 10 which receives the
+molten phase from flash vessel 4. Flash vessel 4 may optionally have a recycle stream
+12 that is fed through a heat exchanger 14 before returning to the flash vessel. In
+falling film evaporator 10 exchange catalyst, further water and optionally phthalic
+anhydride are removed as vapor to form an isolation mixture. The exchange catalyst
+and water vapor mixture is received by chilled spray condenser 16 where it is
+condensed to a liquid phase that is optionally recycled via recycle stream 18. The
+optional recycle stream 18 passes through chiller 20. Wiped film evaporator 22 is in
+fluid communication with falling film evaporator 10 and receives the isolation
+mixture. The isolation mixture comprises dianhydride precursors which are converted
+to dianhydride in the wiped film evaporator 22. Trace water, some residual exchange
+catalyst as well as other residual volatile materials are removed as a vapor from the
+isolation mixture in the wiped film evaporator. The vapor from the wiped film
+evaporator is received by chilled spray condenser 24, which is in fluid communication
+with the wiped film evaporator. Chilled spray condenser 24 condenses the vapor from
+the wiped film evaporator to a liquid phase which may be recycled to the chilled spray
+condenser via recycle stream 26 that passes through chiller 28 or employed in the
+bisimide/anhydride exchange reaction. Dianhydride is collected from an outlet in the
+wiped film evaporator.</p><p num="0027">The invention is further illustrated by the following non-limiting examples. </p><heading>EXAMPLES</heading><p num="0028">Laboratory studies were conducted to simulate the isolation of dianhydride with flash
+vessel and wiped film evaporator as well as a flash vessel, falling film evaporator and
+wiped film evaporator. The laboratory set up constituted a flask placed in a gas
+chromatography oven. The flask was attached to a glass dual bulb Kugelrohr type
+extension located outside the GC oven by a glass extension piece. The dual bulb was
+attached to a Kugelrohr oscillating drive and a vacuum pump. The dual bulb was
+cooled by a dry ice/methylene chloride bath.</p><p num="0029">The flask was charged with aqueous effluent from the plant aqueous extraction
+column and a slight vacuum was applied to the flask as the flask was oscillated. The
+vacuum was lowered slowly until a full vacuum was obtained (about 0.5 torr or less).
+Once a full vacuum was established one of two temperature programs were initiated in
+the gas chromatography oven. Program A simulated an isolation process employing a
+flash vessel and a wiped film evaporator (control). Program B simulated an isolation
+process employing a flash vessel, falling film evaporator and wiped film evaporator.
+At the conclusion of each temperature program the oven door was opened and the
+flask was allowed to cool while still oscillating. The dianhydride, 2,2-bis(4-(3,4-dicarboxyphenoxy)phenyl)propane
+dianhydride, was removed from the flask and
+tested for yellowness according to ASTM D1925. Results from duplicate runs are
+shown in Table 1. <tables><table><tgroup cols="3"><tbody><row><entry align="left"><b>Experiment No.</b></entry><entry align="left"><b>Temperature/Time Program</b></entry><entry align="left"><b>Yellowness Index</b></entry></row><row><entry align="left">1<!--footnotes removed--></entry><entry align="left">A</entry><entry align="center">7.64</entry></row><row><entry align="left">2<!--footnotes removed--></entry><entry align="left">A</entry><entry align="center">7.76</entry></row><row><entry align="left">3<!--footnotes removed--></entry><entry align="left">A</entry><entry align="center">8.54</entry></row><row><entry align="left">4<!--footnotes removed--></entry><entry align="left">A</entry><entry align="center">7.87</entry></row><row><entry align="left">5<!--footnotes removed--></entry><entry align="left">A</entry><entry align="center">7.54</entry></row><row><entry align="left">6<!--footnotes removed--></entry><entry align="left">A</entry><entry align="center">7.92</entry></row><row><entry align="left">7<!--footnotes removed--></entry><entry align="left">A</entry><entry align="center">8.79</entry></row><row><entry align="left">8<!--footnotes removed--></entry><entry align="left">A</entry><entry align="center">8.04</entry></row><row><entry align="left">std dev =</entry><entry align="right"/><entry align="center">0.41</entry></row><row><entry align="left">mean =</entry><entry align="right"/><entry align="center">8.01</entry></row><row><entry align="left">9</entry><entry align="left">B</entry><entry align="center">7.64</entry></row><row><entry align="left">10</entry><entry align="left">B</entry><entry align="center">7.26</entry></row><row><entry align="left">11</entry><entry align="left">B</entry><entry align="center">7.47</entry></row><row><entry align="left">std dev =</entry><entry align="right"/><entry align="center">0.19</entry></row><row><entry align="left">mean =</entry><entry align="right"/><entry align="center">7.46<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0030">Following laboratory experimentation, a falling film evaporator was installed in the
+plant and operated as described above for the preferred embodiments. The average
+yellowness index of the isolated dianhydride decreased 3 units after installation of the
+falling film evaporator in the plant. The larger decrease in the yellowness index of the
+dianhydride produced in the plant when compared to the yellowness index of the 
+dianhydride produced in the lab can be ascribed to the decreased incidence of air in
+the plant compared to the laboratory conditions.</p><p num="0031">While preferred embodiments have been shown and described, various modifications
+and substitutions may be made thereto without departing from the scope of the
+invention. Accordingly, it is to be understood that the present invention has been
+described by way of illustration and not limitations.</p><p num="0032">For completeness various aspects of the invention are set out in the following
+numbered clauses:
+<sl><li>1. A process to isolate dianhydride from an exchange reaction comprising
+extracting a bisimide/anhydride exchange reaction aqueous phase with an organic
+solution comprising an exchange catalyst at a first temperature and pressure to form
+an extracted aqueous phase comprising water, exchange catalyst and dianhydride
+precursor;
+
+removing water from the extracted aqueous phase at a second temperature and
+pressure to form a molten phase wherein the second pressure is less than the first
+pressure;
+
+removing water and exchange catalyst from the molten phase at a third temperature
+and pressure to form an isolation mixture; and
+
+converting the dianhydride precursor in the isolation mixture to dianhydride at a
+fourth temperature and pressure, wherein the fourth temperature is greater than the
+second and third temperatures and the fourth pressure is less than the second and third
+pressures.</li><li>2. The process of clause 1, wherein the dianhydride has the formula
+<img id="img-00120001" orientation="unknown" wi="56" img-format="tif" img-content="cf" file="00120001.tif" inline="no" he="28"/> 
+wherein the divalent bonds of -K- group are in the 3,3', 3,4', 4,3', or the 4,4' positions,
+and K includes O, S, SO<sub>2</sub>, and O-W-O wherein W is a divalent radical of formula (I)
+<img id="img-00130001" orientation="unknown" wi="110" img-format="tif" img-content="cf" file="00130001.tif" inline="no" he="21"/><img id="img-00130002" orientation="unknown" wi="111" img-format="tif" img-content="cf" file="00130002.tif" inline="no" he="17"/><img id="img-00130003" orientation="unknown" wi="111" img-format="tif" img-content="cf" file="00130003.tif" inline="no" he="27"/><img id="img-00130004" orientation="unknown" wi="65" img-format="tif" img-content="cf" file="00130004.tif" inline="no" he="25"/>
+and
+<img id="img-00130005" orientation="unknown" wi="86" img-format="tif" img-content="cf" file="00130005.tif" inline="no" he="27"/>
+wherein Q is a divalent moiety selected from the group consisting of -O-, -S-, -C(O)-,
+-SO<sub>2</sub>-, -SO-, -C<sub>y</sub>H<sub>2y</sub>-, and halogenated derivatives thereof, and further wherein y is an
+integer from 1 to 5.</li><li>3. The process of clause 2, wherein the dianhydride is 2,2-bis(4-(3,4-dicarboxyphenoxy)phenyl)propane
+dianhydride.</li><li>4. The process of any of the preceding clauses, wherein the exchange catalyst is
+triethylamine.</li><li>5. The process any of the preceding clauses, wherein the second temperature is
+about 100 to about 180°C and the second pressure is about 300 to about 1050 torr.</li><li>6. The process any of the preceding clauses, wherein the third temperature is
+about 150 to about 260°C and the third pressure is about 30 to about 400 torr. </li><li>7. The process any of the preceding clauses, wherein the fourth temperature is
+about 250 to about 350°C and the fourth pressure is about 5 to about 50 torr.</li><li>8. The process any of the preceding clauses, wherein the isolation mixture has an
+exchange catalyst to dianhydride ratio of about 0.4 to about 0.8.</li><li>9. The process any of the preceding clauses, wherein the dianhydride has an
+average yellowness index of about 6.</li><li>10. The process any of the preceding clauses, wherein the process is performed
+wholly or partially in the absence of air.</li><li>11. The process any of the preceding clauses, further comprising removing
+anhydride from the molten phase at the third temperature and pressure.</li><li>12. A system for dianhydride isolation comprising
+
+a flash vessel 4 that receives an extracted aqueous phase from an extraction column
+and forms a molten phase;
+
+a falling film evaporator 10 in fluid communication with a first outlet of the flash
+vessel 4, wherein the falling film evaporator 10 receives the molten phase from the
+flash vessel 4 and forms an isolation mixture; and
+
+a wiped film evaporator 22 in fluid communication with a first outlet of the falling
+film evaporator 10, wherein the wiped film evaporator 22 receives the isolation
+mixture from the falling film evaporator 10 and further wherein the wiped film
+evaporator 22 comprises a first outlet for collection of isolated dianhydride.</li><li>13. The system of Clause 12, wherein the system further comprises a first heat
+exchanger 2 disposed at an inlet of the flash vessel 4.</li><li>14. The system of Clauses 12 or 13, wherein the system further comprises a
+condenser 6 disposed at a second outlet of the flash vessel 4 that receives an aqueous
+phase from the flash vessel 4. </li><li>15. The system of Clauses 12-14, further comprising a recycle stream 18 at the
+flash vessel 4 wherein the recycle stream 18 flows through a second heat exchanger
+14.</li><li>16. The system of Clauses 12-15, further comprising a recycle stream 18 at the
+falling film evaporator 10.</li><li>17. The system of Clauses 12-16, further comprising a first chilled spray
+condenser 16 disposed at a second outlet of said falling film evaporator 10.</li><li>18. The system of Clause 17, further comprising a second chilled spray condenser
+24 disposed at a second outlet of the wiped film evaporator 22 wherein the second
+chilled spray condenser 24 receives and utilizes condensate from the first chilled spray
+condenser 16.</li><li>19. The system of Clauses 12-18, further comprising a second chilled spray
+condenser 24 disposed at a second outlet of the wiped film evaporator 22.</li><li>20. The system of Clause 12-19, wherein the first chilled spray condenser 16
+receives and utilizes condensate from the condenser 6.</li><li>21. The system of Clause 12-20, wherein the system is operated wholly or partially
+in the absence of air.</li></sl></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A process to isolate dianhydride from an exchange reaction comprising
+extracting a bisimide/anhydride exchange reaction aqueous phase with an organic
+solution comprising an exchange catalyst at a first temperature and pressure to form
+an extracted aqueous phase comprising water, exchange catalyst and dianhydride
+precursor;
+removing water from the extracted aqueous phase at a second temperature and
+pressure to form a molten phase wherein the second pressure is less than the first
+pressure;
+removing water and exchange catalyst from the molten phase at a third temperature
+and pressure to form an isolation mixture; and
+converting the dianhydride precursor in the isolation mixture to dianhydride at a
+fourth temperature and pressure, wherein the fourth temperature is greater than the
+second and third temperatures and the fourth pressure is less than the second and third
+pressures.</claim-text></claim><claim num="2"><claim-text>The process of claim 1, wherein the dianhydride has the formula
+
+wherein the divalent bonds of -K- group are in the 3,3', 3,4', 4,3', or the 4,4' positions, and
+K includes O, S, SO2, and O-W-O wherein W is a divalent radical of formula (I)
+and
+
+wherein Q is a divalent moiety selected from the group consisting of -O-, -S-, -C(O)-,
+-SO2-, -SO-, -CyH2y-, and halogenated derivatives thereof, and further wherein y is an
+integer from 1 to 5.</claim-text></claim><claim num="3"><claim-text>The process of claim 1 or claim 2, wherein the exchange catalyst is
+triethylamine.</claim-text></claim><claim num="4"><claim-text>The process any of the preceding claims, wherein the second temperature is
+about 100 to about 180°C and the second pressure is about 300 to about 1050 torr.</claim-text></claim><claim num="5"><claim-text>The process any of the preceding claims, wherein the third temperature is
+about 150 to about 260°C and the third pressure is about 30 to about 400 torr.</claim-text></claim><claim num="6"><claim-text>The process any of the preceding claims, wherein the fourth temperature is
+about 250 to about 350°C and the fourth pressure is about 5 to about 50 torr.</claim-text></claim><claim num="7"><claim-text>The process any of the preceding claims, wherein the isolation mixture has an
+exchange catalyst to dianhydride ratio of about 0.4 to about 0.8.</claim-text></claim><claim num="8"><claim-text>The process any of the preceding claims, wherein the process is performed
+wholly or partially in the absence of air.</claim-text></claim><claim num="9"><claim-text>The process any of the preceding claims, further comprising removing
+anhydride from the molten phase at the third temperature and pressure.</claim-text></claim><claim num="10"><claim-text>A system for dianhydride isolation comprising
+a flash vessel 4 that receives an extracted aqueous phase from an extraction column
+and forms a molten phase;
+a falling film evaporator 10 in fluid communication with a first outlet of the flash
+vessel 4, wherein the falling film evaporator 10 receives the molten phase from the
+flash vessel 4 and forms an isolation mixture; and
+a wiped film evaporator 22 in fluid communication with a first outlet of the falling
+film evaporator 10, wherein the wiped film evaporator 22 receives the isolation
+mixture from the falling film evaporator 10 and further wherein the wiped film
+evaporator 22 comprises a first outlet for collection of isolated dianhydride.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

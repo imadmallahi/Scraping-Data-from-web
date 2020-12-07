@@ -1,0 +1,18 @@
+<topic>
+<number>TS-28</number>
+<title>D-ala-D-ala ligase inhibitors</title>
+<narrative>
+D-ala-D-ala ligase is a well known antibacterial target and the idea is to find potent inhibitors of this bacterial enzyme
+which have the ability to kill bacteria
+Getting the additional MICs data (usually as tables in the body of a patent) is very important.
+</narrative>
+<details>
+<condition>bacterial infection</condition>
+<target>D-alanine-D-alanine ligase</target>
+</details>
+<relevance>
+A document will be considered RELEVANT if it contains references to both above components
+
+A document will be considered HIGHLY RELEVANT if, in addition to being relevant, it also contains the minimum inhibitory concentration data (MIC data) generally present in the form of tables in documents. Such values are generally expressed as IC50 (half maximal inhibitory concentration) or Ki (inhibition constant for a drug) values.
+</relevance>
+</topic>

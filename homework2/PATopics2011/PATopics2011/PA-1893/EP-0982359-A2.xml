@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-0982359-A2" country="EP" doc-number="0982359" kind="A2" lang="EN" family-id="22503942" status="new" date-produced="20090516" date="20000301"><bibliographic-data><publication-reference ucid="EP-0982359-A2" status="new" fvid="22775977"><document-id status="new" format="original"><country>EP</country><doc-number>0982359</doc-number><kind>A2</kind><date>20000301</date></document-id></publication-reference><application-reference ucid="EP-99116552-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>99116552</doc-number><kind>A</kind><date>19990824</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-14341098-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>14341098</doc-number><kind>A</kind><date>19980828</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C08G  77/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08G  77/442       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   3/24        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   3/24        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   5/12        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   5/12        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08K   5/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08K   5/5419      20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08L  23/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L  23/22        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L  83/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L  83/04        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09J 123/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09J 123/22        20060101ALI20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08K   5/5419+L23/02</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Organosiliziumverbindungen als Haftvermittler enthaltende Polyolefinzusammensetzungen</invention-title><invention-title load-source="ep" status="new" lang="EN">Polyolefin compositions containing organosilicon compounds as adhesion additives</invention-title><invention-title load-source="ep" status="new" lang="FR">Compositions polyoléfiniques contenant des composés d'organo-silicium comme additifs d'adhésion</invention-title><citations><patent-citations><patcit ucid="EP-0268780-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0268780</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0850996-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0850996</doc-number><kind>A2</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5424384-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5424384</doc-number><kind>A</kind></document-id><sources><source category="YD" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>DOW CORNING</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>DOW CORNING CORPORATION</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>DOW CORNING CORPORATION</last-name><address><street>3901 S. Saginaw Road</street><city>Midland Michigan 48686-0994</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>FENG QIAN JANE</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>LEE KENNETH MICHAEL</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>LUTZ MICHAEL ANDREW</name><address><country>US</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>OWEN MICHAEL JAMES</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>PERZ SUSAN VICTORIA</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SUZUKI TOSHIO</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>FENG, QIAN JANE</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>LEE, KENNETH MICHAEL</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>LUTZ, MICHAEL ANDREW</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>OWEN, MICHAEL JAMES</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>PERZ, SUSAN VICTORIA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SUZUKI, TOSHIO</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>FENG, QIAN JANE</last-name><address><street>4402 Linden Drive</street><city>Midland, Michigan 48640</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>LEE, KENNETH MICHAEL</last-name><address><street>2417 25th Street</street><city>Bay City, Michigan 48708</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>LUTZ, MICHAEL ANDREW</last-name><address><street>408 E. Saiko</street><city>Hope, Michigan 48628</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>OWEN, MICHAEL JAMES</last-name><address><street>1505 W. St. Andrews Road</street><city>Midland, Michigan 48640</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>PERZ, SUSAN VICTORIA</last-name><address><street>445 Old Orchard</street><city>Essexville, Michigan 48632</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SUZUKI, TOSHIO</last-name><address><street>1209 Sterling Court</street><city>Midland, Michigan 48640</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Patentanwälte Sternagel &amp;amp; Fleischer</last-name><address><street>Braunsberger Feld 29</street><city>51429 Bergisch Gladbach</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country><country>NL</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The present invention provides adhesion promoters for curable
+polyolefin compositions wherein said adhesion promoters are selected
+from a specified group of hydrocarbyloxy-substituted organosilicon
+compounds or condensation products of these compounds. At least one
+hydrocarbyloxy group on each silicon atom of said adhesion promoter is
+derived from a polyhydric alcohol containing at least two hydroxyl
+groups per molecule and substantially no ethylenic unsaturation.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">This invention relates to polyolefin compositions that contain a
+specified class of organosilicon compounds to achieve strong bonding to
+a variety of substrates, particularly glass and metals. The polyolefin
+contains functional groups that are subsequently reacted to crosslink
+the polymer.</p><p num="0002">The properties of polyolefins are desirable for a variety of end
+use applications, particularly in construction, packaging, automotive
+and consumer markets. Compositions containing these polymers are useful
+as pressure sensitive adhesives for paper labels, for sealing tires and
+as adhesives for assembly of single ply roofing. Recently, there is a
+trend toward the use of curable polyolefin compositions. One benefit of
+these curable compositions is the ability to prepare flowable
+solventless compositions which, following application and curing,
+exhibit properties similar to those of solvent-based adhesives.</p><p num="0003">A shortcoming of polyolefin compositions, particularly those that
+cure by a platinum group metal catalyzed hydrosilation reaction, is
+their inability to develop strong adhesion to a variety of substrates,
+particularly glass and certain metals, following curing under
+commercially feasible conditions of time and temperature. One method
+for remedying this deficiency is by using primer compositions or
+adhesion promoting additives containing one or more silanes and/or
+organopolysiloxanes with a plurality of silicon-bonded hydrolyzable
+groups and at least one organofunctional substituent that is bonded to
+silicon through at least one carbon atom. Primer compositions are
+applied to substrates to which adhesion is desired prior to application
+of a curable composition. Adhesion promoters are present as additional
+ingredients in curable composition. </p><p num="0004">U.S. Patent 5,397,648 discloses pressure sensitive compositions
+for automotive masking tape. The compositions include a moisture
+curable alpha olefin copolymer containing hydrolyzable or condensable
+silyl groups.</p><p num="0005">U.S. Patent 5,002,808 teaches blending a monomeric or oligomeric
+precursor of a polyolefin with a silane adhesion aid containing a
+benzocyclobutane group as a substituent. The monomer or oligomer
+preferably contains these groups.</p><p num="0006">U.S. Patent 4,981,728 describes a method for bonding curable
+organic polymer compositions to a surface using a primer. The curable
+composition contains 1) an organic polymer with SiX units where X is OH
+or a hydrolyzable group, 2) an epoxy resin, 3) a curing agent for the
+epoxy resin and 4) a curing agent for the organic polymer. The primer
+is a vinyl polymer containing Si bonded to OH or a hydrolyzable group
+and is a reaction product of a) a vinyl-containing polymer, preferably a
+poly(meth)-acrylate, and b) a silane or siloxane containing hydrogen and
+hydrolyzable groups bonded to silicon.</p><p num="0007">U.S. Patents 3,424,376 and 3,644,315 provide sealants for glass
+containing a hydrocarbon-based polymer with at least one silicon atom
+bonded to OH or a hydrolyzable group.</p><p num="0008">U.S. Patent 4,975,488 claims compositions containing 1) a vinyl
+polymer wherein at least one silicon atom is bonded to a hydrolyzable
+group and 2) a silane or disilane containing at least one OH or a
+hydrolyzable group.</p><p num="0009">Japanese Kokai Publication 01-9204 shows reacting organic polymers
+containing at least one double bond or other SiH-reactive group with an
+organohydrogensilane or organohydrogensiloxane.</p><p num="0010">European Publication 286,218 suggests adhesion promoters that are
+organic polymers containing acid groups or precursors of acid groups and
+a condensable silicon-containing group.</p><p num="0011">U.S. Patent 4,518,726 reveals metal-containing paint compositions
+having a vinyl polymer with at least one silicon-bonded hydrolyzable 
+group. A silane containing coupling agent is preferably present to
+retain metal powder in suspension.</p><p num="0012">Adhesion promoting additives described in the prior art typically
+contain at least two functional groups.</p><p num="0013">U.S. Patents 5,233,006; 5,339,738 and 5,532,298 provide
+polymerizable silanes containing hydrolyzable groups and acrylate or
+methacrylate groups. The compounds are prepared by reacting a silane
+containing hydrolyzable groups and an isocyanate group with a hydroxyl-or
+amino-substituted compound containing at least one C=C group.</p><p num="0014">U.S. Patents 4,659,851; 4,719,262 and 4,906,686 introduce reaction
+products of unsaturated alcohols with alkoxysilanes as adhesion
+promoting additives.</p><p num="0015">Reaction products of alkyl orthosilicates with saturated
+polyhydric alcohols are described in the prior art.</p><p num="0016">U.S. Patent 2,349,338 uses hydrolysis products of silicic acid
+esters of monohydric and polyhydric alcohols, including various glycol
+and glycerol silicate ester derivatives as corrosion prevention
+additives for heat transfer liquids.</p><p num="0017">U.S. Patent 2,776,307 claims organosilicon esters of the general
+formula (R<sup>1</sup>O)<sub>3</sub>Si(XR<sup>2</sup>)<sub>n</sub>OSi(OR<sup>3</sup>)<sub>3</sub>, where R<sup>1</sup> and R<sup>3</sup> are saturated aliphatic
+hydrocarbon radicals containing from 1 to 16 carbon atoms, R<sup>2</sup> is
+ethylene or propylene, X is oxygen and n has a value of 2, 3 or 4. The
+compounds are used as hydraulic fluids and lubricants.</p><p num="0018">U.S. Patent 2,630,446 teaches using polymeric silicates, prepared
+from tetraalkylsilicates and polyhydric alcohols, as plasticizers,
+lubricants and hydraulic fluid additives.</p><p num="0019">H.G. Emblem and K. Hargreaves report in "The Preparation of
+Alkoxysilanes from Glycols and Glycol Monoethers", J. Inorg. Nucl.
+Chem., Vol. 30 (3), p. 721, 1968, various reactions useful to prepare
+such compounds. EP Patent Publication 0,450,875 reveals a transesterification
+process for the manufacture of new esters of orthosilicic 
+acid. Among the esters disclosed are those derived from polyhydric
+alcohols.</p><p num="0020">U.S. Patent 3,029,269 have compounds of the general formula
+(RO)<sub>3</sub>SiOCR'<sub>2</sub>(CH<sub>2</sub>)<sub>n</sub>CR'<sub>2</sub>-OSi(OR)<sub>3</sub>, where n is 0-16, R' is H or a lower
+aliphatic radical and R is a saturated aliphatic radical containing from
+1 to 16 carbons. Suggested uses for the compounds are hydraulic fluids
+and other applications requiring low pour point, good viscosity and
+viscosity index properties and hydrolytic stability.</p><p num="0021">U.S. Patent 5,424,384 discloses curable organopolysiloxane
+compositions containing adhesion promoters that are reaction products of
+1) a polyol that is free of ethylenic unsaturation and 2) a silane or
+bis-silylalkane containing at least three alkoxy groups bonded to each
+silicon atom. There is no teaching therein suggesting the utility of
+the disclosed adhesion promoters as adhesion promoters for polyolefins.</p><p num="0022">Japanese Patent Publication (Kokai) 09-316293 describes saturated
+hydrocarbon polymers curable by a hydrosilation reaction. The polymers
+contain a silane coupling agent to improve their adhesion.
+Glycidoxypropyl-trimethoxysilane is one of the adhesion promoters
+disclosed. This publication does not describe or suggest adhesion
+promoters that are alkoxysilanes wherein the alkoxy groups are derived
+from polyhydric alcohols.</p><p num="0023">Our invention provides a group of organosilicon compounds, that
+when present in curable polyolefin compositions, result in strong
+cohesive bonding between the cured compositions and a variety of
+substrates during curing of the compositions.</p><p num="0024">The organosilicon compounds are a specified group of
+hydrocarbyloxy-substituted organosilicon compounds and condensation
+products of these compounds. At least one hydrocarbyloxy group on each
+silicon atom is derived from an alcohol containing at least two hydroxyl
+groups per molecule. </p><p num="0025">Our invention provides a polyolefin composition exhibiting
+adhesion to various inorganic and selected organic substrates, said
+composition comprising
+<sl><li>A. at least one polyolefin comprising (1) repeating units derived
+from at least one olefin and (2) functional groups capable of reacting
+to crosslink said polyolefin; and</li><li>B. an adhesion promoter for said polyolefin;
+
+wherein said adhesion promoter is at least one member selected from
+hydrocarbyloxy-substituted organosilicon compounds or condensation
+products thereof wherein at least one hydrocarbyloxy group on each
+silicon atom is a residue of a polyhydric alcohol that is substantially
+free of ethylenic unsaturation.</li></sl></p><p num="0026">The present adhesion promoters are preferably reaction products of
+ingredients comprising (B1) a polyhydric alcohol of the general formula
+R<sup>1</sup>(OH)<sub>m</sub> and (B2) at least one organosilicon compound selected from
+silanes of the general formula R<sup>2</sup><sub>n</sub>SiX<sub>(4-n)</sub> or bis-silylalkanes of the
+formula X<sub>3</sub>SiR<sup>3</sup>SiX<sub>3</sub>, wherein said reaction products contain at least two
+silicon atoms per molecule; R<sup>1</sup> represents a hydrocarbon radical or an
+alkoxy-substituted hydrocarbon radical, wherein R<sup>1</sup> is substantially free
+of ethylenic unsaturation and exhibits a valence of m; m represents an
+integer with a value of at least 2; R<sup>2</sup> is selected from unsubstituted
+hydrocarbon radicals or hydrocarbon radicals containing at least one
+substituent selected from CH<sub>2</sub>=CH-, acryloxy, methacryloxy, epoxy,
+carboxy, amino, amido, acrylamido,
+methacrylamido,
+<img id="img-00050001" orientation="unknown" wi="14" img-format="tif" img-content="cf" file="00050001.tif" inline="no" he="37"/>
+or mercapto; R<sup>3</sup> is alkylene; R<sup>4</sup> is a
+trivalent hydrocarbon radical; X represents a hydrolyzable group and n
+is 0 or 1; and wherein said organosilicon compound constitutes from 10 
+to 90 percent, preferably from 30 to 70 percent, of the combined weight
+of said compound and said polyhydric alcohol.</p><p num="0027">As used in this specification, the term "cure" means the
+conversion of a liquid or semi-solid composition to a crosslinked gel,
+elastomer or resinous material by the reaction of groups present on the
+polyolefin (referred to hereinafter as ingredient A) of the present
+compositions with a curing agent.</p><p num="0028">The adhesion promoting additives can be used with polyolefin
+compositions that are cured by using any of the reactions described in
+the prior art for these type of compositions.</p><p num="0029">The reactions that are used to cure the polyolefin ingredient of
+the present compositions include:
+<sl><li>1) the platinum-catalyzed reactions of silicon-bonded hydrogen
+atoms with alkenyl radicals or silanol groups present on the polyolefin:</li><li>2) the reaction of silicon-bonded hydrolyzable groups on the
+polymer in the presence of atmospheric moisture;</li><li>3) the reaction of silicon-bonded hydrolyzable groups with silanol
+groups in the presence of a suitable catalyst;</li><li>4) the reaction of mercapto groups with one another in the
+presence of oxygen and a suitable catalyst, typically a chelated
+organometallic compound such as cobaltocene;</li><li>5) the reaction of epoxy groups with acid anhydride or amine
+groups in the presence of a suitable catalyst;</li><li>6) the reaction of mercapto groups with alkenyl radicals in the
+presence of a catalyst that is typically a metal carboxylate of a
+chelated organometallic compound such as ferrocene;</li><li>7) reactions involving groups present on the polyolefin with
+either free radicals or cations formed by irradiation of photosensitive
+compounds with ultraviolet light; and</li><li>8) reactions involving groups present on the polyolefin that are
+initiated by high energy particles such as those present in electron
+beams.</li></sl></p><p num="0030">Preferred curing reactions include: 1) the reaction of alkenyl
+groups such as allyl present on the polyolefin with an
+organohydrogensiloxane using platinum or a platinum compound as the
+catalyst; 2) the reaction of silanol groups on a polyolefin with
+silicon-bonded hydrogen atoms on the curing agent in the presence of the
+same catalysts used for hydrosilation reactions, tin compounds or
+amines, particularly hydroxylamines; and 3) free radical reactions
+involving polymerization of ethylenically unsaturated groups such as
+acryloxy, methacryloxy, acrylamide and methacrylamide present on the
+polyolefin, wherein the free radicals are generated by irradiation of a
+photosensitive compound such as alpha-hydroxy ketones.</p><p num="0031">The present adhesion promoters are particularly effective when
+used in polyolefin compositions that are cured at temperatures of from
+25 to 125°C.</p><p num="0032">The adhesion promoting additive of at least one member selected
+from hydrocarbyloxy-substituted organosilicon compounds or condensation
+products thereof wherein each silicon atom of said compounds and
+condensation products contain at least one hydrocarbyloxy group that is
+a residue resulting from removal of a hydrogen atom from one of the
+hydroxyl groups of a polyhydric alcohol that is substantially free of
+ethylenic unsaturation.</p><p num="0033">The adhesion promoters are preferably reaction products of
+ingredients comprising (B1) a polyhydric alcohol that is substantially
+free of ethylenic unsaturation and (B2) at least one organosilicon
+compound selected from silanes and bis-silylalkanes containing at least
+three silicon-bonded hydrolyzable groups. These reaction products are
+formerly described as adhesion promoters for curable organosiloxane
+compositions in US Patent 5,424,384, which is commonly assigned to the
+assignee as the present application.</p><p num="0034">The organosilicon compounds, referred to hereinafter as ingredient
+B2, constitute from 10 to 90 percent, preferably from 30 to 90 percent,
+of the combined weight of ingredient B2 and the aforementioned 
+polyhydric alcohol, which will be referred to hereinafter as ingredient
+B1. The silanes are represented by the general formula R<sup>2</sup><sub>n</sub>SiX<sub>(4-n)</sub> and
+the bis-silylalkanes by the formula X<sub>3</sub>SiR<sup>3</sup>SiX<sub>3</sub>. In these formulae R<sup>2</sup>,
+R<sup>3</sup>, X and n are as previously defined.</p><p num="0035">The monovalent hydrocarbon radical represented by R<sup>2</sup> preferably
+contains from 1 to 10 carbon atoms and is most preferably alkyl
+containing from 1 to 4 carbon atoms.</p><p num="0036">When R<sup>2</sup> represents a substituted hydrocarbon radical, the
+substituent is an organofunctional group selected from CH<sub>2</sub>=CH-,
+acryloxy, methacryloxy, epoxy, carboxy, amino, amido, acrylamido,
+methacrylamido,
+<img id="img-00080001" orientation="unknown" wi="18" img-format="tif" img-content="cf" file="00080001.tif" inline="no" he="38"/>
+or mercapto where R<sup>4</sup> represents a trivalent
+hydrocarbon radical as previously defined. R<sup>4</sup> preferably contains from
+1 to 4 carbon atoms.</p><p num="0037">The hydrolyzable groups of ingredient B2, represented by X, are
+preferably alkoxy containing from 1 to 20 carbon atoms or an
+isoalkenyloxy group containing from 3 to 8 carbon atoms.</p><p num="0038">The preferred alkoxy or isoalkenyloxy groups represented by X can
+be replaced by other hydrolyzable groups such as ketoximo or amino,
+providing these alternative groups do not interfere with curing or
+storage of the present organopolysiloxane compositions.</p><p num="0039">When X represents an alkoxy group, it contains from 1 to 20 carbon
+atoms, preferably from 1 to 4 carbon atoms and is most preferably
+methoxy or ethoxy.</p><p num="0040">When X is an isoalkenyloxy group, it is represented by the formula
+-OCR=CR'R'', where R represents an alkyl radical and R' and R'' are
+individually selected from hydrogen atoms and alkyl radicals containing 
+from 1 to 4 or more carbon atoms, with the proviso that the
+isoalkenyloxy group contains from 3 to 8 carbon atoms. R and R' can be
+joined to form a cycloalkenyl radical. Preferably. R is methyl, R' and
+R'' are hydrogen and the isoalkenyloxy group is isopropenyloxy.</p><p num="0041">Preferred silanes include, but are not limited to,
+methyltrimethoxysilane, methyltriethoxysilane, allyltri-methoxysilane,
+tetramethyl orthosilicate, tetraethyl orthosilicate and
+methyltriisopropenyloxysilane.</p><p num="0042">When ingredient B2 is a bis-silylalkane, R<sup>3</sup> is preferably
+methylene, ethylene, propylene or hexamethylene.</p><p num="0043">When more than one organosilicon compound is present as ingredient
+B2, one of these ingredients is preferably a tetraalkoxysilane such as
+tetraethoxysilane, also referred to as tetraethyl orthosilicate and the
+second is preferably a silane of the general formula R<sup>2</sup>Si (OR<sup>5</sup>)<sub>3</sub> wherein
+R<sup>5</sup> is an alkyl radical and R<sup>2</sup> contains an organofunctional group as a
+substituent. R<sup>5</sup> preferably contains from 1 to 4 carbon atoms.</p><p num="0044">The hydrocarbon or alkoxy substituted hydrocarbon radical of B1,
+represented by R<sup>1</sup> in the formula R<sup>1</sup>(OH)<sub>m</sub> for this ingredient, can be
+linear, cyclic or branched. This hydrocarbon radical is preferably
+linear or branched and contains from 2 to 20, most preferably from 2 to
+10 carbon atoms and m is preferably from 2 to 4, inclusive.</p><p num="0045">Preferred polyhydric alcohols include, but are not limited to,
+ethylene glycol, propylene glycol, 1,3-propanediol, glycerol, 1,4-butanediol,
+neopentyl glycol, 2,2,2-trimethylol propane, 2,2,2,2-tetramethylolpropane
+and 1,10-decanediol.</p><p num="0046">One preferred embodiment of ingredient B is an organosilicon
+compound represented by the formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>1</sup>(OSiR<sup>2</sup><sub>n</sub>X<sub>3-n</sub>)<sub>m</sub>,</st32:che>
+wherein R<sup>1</sup> , R<sup>2</sup> , X and m are as previously defined and n is 0 or 1.</p><p num="0047">The embodiment represented by formula 1 contains m moles of a
+residue derived from ingredient B2 per molecule of polyhydric alcohol 
+and each silicon atom is bonded to only one residue of the polyhydric
+alcohol.</p><p num="0048">It should be apparent that formula 1 does not represent the only
+embodiment of ingredient B. Each of the alcohol and the silane contain
+at least two groups capable of reacting with the other ingredient of the
+adhesion promoter. Depending upon the functionality of each of these
+ingredients and their relative concentrations, linear or crosslinked
+oligomers can be formed. For this reason, ingredient B is typically a
+mixture of monomeric and oligomeric compounds. One of these species
+will usually predominate.</p><p num="0049">The predominating species present in ingredient B is dependent
+upon a number of variables, including but not limited to the number of
+carbon atoms and hydroxyl groups present in ingredient B1, the relative
+amounts of ingredients B1 and B2 and the conditions under which these
+ingredients are reacted.</p><p num="0050">Preferred embodiments of ingredient B are flowable at 25 to 35°C.</p><p num="0051">The reaction mixture used to prepare the present adhesion
+promoting compositions can include a number of optional ingredients that
+have been shown to improve the performance of the present adhesion
+promoters under various conditions that may be encountered during use of
+cured polyolefin compositions.</p><p num="0052">One of these optional ingredients, referred to hereinafter as
+ingredient B3, is a mono- or polyhydric alcohol of the formula R<sup>6</sup>(OH)<sub>p</sub>
+where R<sup>6</sup> represents a hydrocarbon radical exhibiting a valence of p and
+containing at least one organofunctional substituent selected from
+CH<sub>2</sub>=CH-, acryloxy, methacryloxy, epoxy, carboxy, amino, amido,
+acrylamido, methacrylamido,
+<img id="img-00100001" orientation="unknown" wi="18" img-format="tif" img-content="cf" file="00100001.tif" inline="no" he="40"/>
+where R<sup>4</sup> is as 
+previously defined and mercapto and p is an integer with a value of at
+least 1, preferably 1, 2 or 3.</p><p num="0053">The preferred molar ratio of ingredient B1:B3 is from 1:2 to 2:1.
+This ratio is preferably 1 mole of ingredient B1 per mole of B3.
+Particularly preferred embodiments contain 1 mole of ingredient B1 and 1
+mole of ingredient B3 per 1.4 moles of ingredient B2.</p><p num="0054">A second optional ingredient, referred to as B4, that can be
+included in the reaction mixture for preparing ingredient B is an
+organosilane of the formula
+
+R<sup>7</sup><sub>q</sub>R<sup>8</sup><sub>r</sub>SiY<sub>4-q-r</sub> or an organopolysiloxane exhibiting the average unit
+formula R<sup>7</sup><sub>q</sub>R<sup>8</sup><sub>r</sub>Y<sub>s</sub>SiO<sub>(4-q-r-s)/2</sub>.</p><p num="0055">In the formulae for ingredient B4, R<sup>7</sup> represents an unsubstituted
+monovalent hydrocarbon radical; R<sup>8</sup> represents a monovalent hydrocarbon
+radical containing an organofunctional substituent selected from CH<sub>2</sub>=CH-,
+acryloxy, methacryloxy, epoxy, carboxy, amino, amido, acrylamido,
+methacrylamido or mercapto; Y represents a hydroxyl group or a group
+that is hydrolyzed to a hydroxyl group in the presence of water; the
+average value of q is from 0 to 3, inclusive; the average values of r
+and s are greater than 0 and no greater than 3 and the sums of q and r
+in the organosilane and q, r and s in the organopolysiloxane do not
+exceed 3.</p><p num="0056">The unsubstituted monovalent hydrocarbon radical represented by R<sup>7</sup>
+and the hydrocarbon portion of R<sup>8</sup> contain from 1 to 20 or more carbon
+atoms. The R<sup>7</sup> hydrocarbon radicals are substantially free of ethylenic
+unsaturation and are selected from alkyl radicals such as methyl, ethyl
+and propyl; cycloalkyl radicals such as cyclohexyl and aromatic
+hydrocarbon radicals such as phenyl, tolyl and benzyl. R<sup>7</sup> is preferably
+alkyl containing from 1 to 5 carbon atoms, and is most preferably methyl
+or ethyl. The hydrocarbon radical represented by R<sup>8</sup> contains at least
+one of the aforementioned organofunctional substituents. The 
+hydrocarbon portion of R<sup>8</sup> can be alkylene such as methylene or ethylene,
+cycloalkylene such as cyclohexylene or aryl such as phenylene or
+tolylene.</p><p num="0057">When used, ingredient B4 preferably constitutes from 40 to 70 weight
+percent of the organosilicon compounds used to prepare ingredient B.</p><p num="0058">To ensure maintenance of adhesion of cured polyolefin compositions in
+the presence of water or a high humidity environment, a second adhesion
+promoting additive can be inlcuded in the curable composiiton, referred to
+hereinafter as B5. Ingredient B5 is an organosilicon compound selected
+from organosilanes or organopolysiloxanes containing (a) at least one of a
+first reactive group selected from silanol and hydrolyzable groups such as
+alkoxy or isoalkzenyloxy that will not interfere with curing of the
+polyolefin composition; and (b) at least one of a second reactive group
+capable of participating in the curing reaction. In preferred polyolefin
+compositions that will be cured by a hydrosilation reaction, the second
+reactive group (b) contains an ethylenically unsaturated hydrocarbon
+radical or a silicon-bonded hydrogen atom.</p><p num="0059">Preferred unsaturated groups of ingredient B5 are vinyl, allyl, 5-hexenyl,
+10-undecenyl and other hydrocarbon radicals or organofunctional
+substituents containing a carbon-to-carbon double bond at a terminal
+position.</p><p num="0060">When the present polyolefin compositions are cured by a hydrosilation
+reaction, the silane embodiment of ingredient B5 exhibits the formula
+R<sup>9</sup><sub>t</sub>R<sup>10</sup><sub>u</sub>Si(OZ)<sub>4-t-u</sub> and at least a portion of the repeating units in
+preferred organopolysiloxanes useful as ingredient B5 exhibit the formulae
+R<sup>9</sup><sub>t</sub>R<sup>10</sup><sub>u</sub>SiO<sub>(4..t..u)/2</sub> and (OZ)<sub>v</sub>R<sup>10</sup><sub>u</sub>SiO<sub>(4-u-v)/2</sub>. In these formulae, R<sup>9</sup>
+represents hydrogen or an ethylenically unsaturated group capable of
+undergoing a hydrosilation reaction; R<sup>10</sup> represents an unsubstituted or
+substituted alkyl radical containing from 1 to 4 carbon atoms; t and v are
+1, 2 or 3; u is 0, 1, 2 or 3; the sum of t+u and u+v do not exceed 3; OZ is
+selected from hydroxyl, alkoxy containing from 1 to 4 carbon atoms or 
+isoalkenyloxy, with the proviso that v is 1 when Z is H. R<sup>10</sup> is preferably
+alkyl containing from 1 to 4 carbon atoms.</p><p num="0061">In addition to silanol and/or hydrolyzable groups and substituents
+capable of participating in the reaction used to cure the polyolefin,
+ingredient B5 can also contain adhesion promoting reactive groups such as
+epoxide groups, that are bonded through carbon to the silicon atom of this
+ingredient, provided that these adhesion promoting groups do not interfere
+with curing or storage stability of the present silicone compositions.
+Useful adhesion promoting groups include, but are not limited to, -CH<sub>2</sub>=CH<sub>2</sub>,
+acryloxy, methacryloxy, epoxy, carboxy, amino, amido, acrylamido,
+methacrylamido and mercapto.</p><p num="0062">Preferred adhesion promoting groups that can be present in
+ingredient B5 include 3- glycidoxypropyl and 4-epoxy-cyclohexylethyl.</p><p num="0063">When included in the curable composition, ingredient B5 constitutes
+from 10 to 90 weight percent, preferably from 20 to 50 weight percent,
+based on the total weight of the adhesion promoters for the polyolefin.</p><p num="0064">The reaction between the required and optional organosilicon
+compound(s) (ingredients B2 and B4) and the required and optional mono-and
+polyhydric alcohol(s) (ingredients B1 and B3) is conducted under
+conditions that are typical for interchange reactions between these
+classes of compounds. These reactions are typically conducted under an
+inert, anhydrous atmosphere such as nitrogen at temperatures from
+ambient to 200°C. and may employ a catalyst. Suitable catalysts
+include, but are not limited to, acids, bases and organotitanium
+compounds. Sulfonic acids such as trifluoromethanesulfonic acid, are
+preferred catalysts.</p><p num="0065">The weight of catalyst typically constitutes from 0.1 to 5 percent
+of the combined weight of all reactants.</p><p num="0066">When it is desired to prepare compounds corresponding to the
+foregoing formula 1, the reaction mixture contains at least m moles of
+ingredient B2 per mole of ingredient B1. </p><p num="0067">When ingredient B2 is an alkoxysilane, this ingredient can be
+prepared and isolated prior to reacting it with the polyhydric alcohol
+or ingredient B2 can be prepared by reacting the corresponding
+chlorosilane with the desired monohydric alcohol in the same reactor in
+which it is subsequently reacted with ingredient B1.</p><p num="0068">Reactions involving exchanges of silicon bonded alkoxy and
+isoalkenyloxy groups generate the alcohol or ketone corresponding to the
+original silicon-bonded alkoxy or isoalkenyloxy group as a by-product.
+Because these reactions are often reversible, it is usually desirable to
+remove this by-product alcohol or ketone by distillation as the reaction
+progresses.</p><p num="0069">The course of exchange reactions involving the generation and
+removal of alcohol and/or ketone by-products can readily be followed by
+measuring the amount of by-product collected.</p><p num="0070">Methanol and ethanol are the lowest boiling alcohols and are most
+easily removed during preparation of the present adhesion-promoting
+additives. It is therefore preferable that the alkoxy groups of the
+present adhesion additives, represented by OR<sup>4</sup> in the foregoing
+formulae, be methoxy or ethoxy. For the same reason, the isoalkenyloxy
+group is preferably isopropenyloxy.</p><p num="0071">The reactants and catalyst are heated for a period of time
+sufficient to achieve a substantially complete reaction, as indicated by
+the amount of by-product alcohol or ketone collected. This time period
+is typically from 1 to 5 hours and the reaction mixture is preferably
+heated from 50 to 120°C.</p><p num="0072">It may be desirable to include in the reaction mixture a liquid
+diluent that may also function as a solvent for the reactants. Suitable
+diluents include aliphatic and aromatic hydrocarbons that are liquid at
+ambient temperature and boil within the range of from 50 to 200°C.
+Representative diluents include alcohols such as methanol, ethanol and
+iso-propanol, aliphatic hydrocarbons such as hexane and heptane and
+liquid aromatic hydrocarbons such as toluene and xylene. </p><p num="0073">The present adhesion promoting additives are particularly useful
+in polyolefin compositions that cure by a platinum group metal-catalyzed
+hydrosilation reaction at temperatures below 150°C. The additives are
+also useful in polyolefin compositions that cure under ambient
+conditions in the presence of moisture by a condensation reaction
+between silanol and silicon-bonded alkoxy or other silicon-bonded
+hydrolyzable groups or by any of the reactions described in the art for
+curing polyolefin compositions. Curable polyolefin compositions are
+described in numerous patents and technical publications, some of which
+are discussed in a preceding section of this specification.</p><p num="0074">The concentration of adhesion promoting additive, ingredient B, is
+sufficient to provide cohesive bonding of the cured composition to the
+desired substrate. This typically requires at least 1 weight percent by
+weight of the adhesion promoter, based on the weight of the curable
+composition. A concentration of between 2 and 6 weight percent is
+preferred.</p><p num="0075">The ability of the polyolefin composition to cure completely under
+the desired conditions and/or the properties of the cured composition
+can be adversely affected when the concentration of adhesion promoting
+additive exceeds 10 weight percent, based on the weight of the curable
+composition.</p><p num="0076">For purposes of the present invention, cohesive bonding is
+characterized by cohesive failure, which occurs when the strength of the
+bond between the cured polyolefin and the substrate exceeds the tensile
+strength of the cured material. In a typical adhesion test, increasing
+force is applied to the layer of cured material until at least a portion
+of the material is removed from the substrate.</p><p num="0077">Cohesive failure occurs within the body of the cured polyolefin
+material rather than at the interface between the material and the
+substrate that the material is in contact with during the curing
+reaction. At least a portion of the cured material remains adhered to
+the substrate. </p><p num="0078">The ingredients of preferred curable polyolefin compositions
+suitable for use with the present adhesion promoting additives will now
+be discussed in detail.</p><p num="0079">The polyolefin, referred to hereinafter as ingredient A, of
+preferred curable compositions of this invention is the principal
+ingredient of these compositions. The molecules of the polyolefin
+comprise (a) repeating units derived from at least one olefin containing
+from 2 to 10 carbon atoms; and (b) at least two functional groups per
+molecule that react during curing of the polyolefin to form a
+crosslinked material. The repeating units of the polyolefin preferably
+contain from 2 to 5 carbon atoms. Most preferably at least 90 percent
+of the repeating units are butylene or isobutylene.</p><p num="0080">The molecular structure of the polyolefin is not critical to the
+present invention and will be determined by the physical properties
+desired in the cured composition. To achieve a useful level of tensile
+properties in the elastomers and other products prepared by curing the
+present compositions, the molecular weight of this ingredient should be
+sufficient to achieve a viscosity at 25°C. greater than 0.1 Pa·s.</p><p num="0081">The upper limit for the molecular weight of the polyolefin is not
+specifically restricted and is typically limited only by the
+processability of the curable composition.</p><p num="0082">The viscosity of the polyolefin can range from a pourable liquid
+to a gum type polymer that is typically characterized by Williams
+plasticity values.</p><p num="0083">Preferred embodiments of ingredient A are isobutylene polymers or
+copolymers represented by the following general formulae I, II or III.
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>13</sup>(C(CH<sub>3</sub>)<sub>2</sub>CH<sub>2</sub>)<sub>w</sub>(R<sup>11</sup>(R<sup>12</sup>))<sub>x</sub>R<sup>13</sup></st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>12</sup>(C(CH<sub>3</sub>)<sub>2</sub>CH<sub>2</sub>)<sub>w</sub>(R<sup>14</sup>)<sub>x</sub>R<sup>12</sup></st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">CH<sub>2</sub>=CHCH<sub>2</sub>(C(CH<sub>3</sub>)<sub>2</sub>CH<sub>2</sub>)<sub>y</sub>C(CH<sub>3</sub>)<sub>2</sub>-Ph- C(CH<sub>3</sub>)<sub>2</sub>(CH<sub>2</sub>C(CH<sub>3</sub>)<sub>2</sub>)<sub>y</sub>CH<sub>2</sub>CH=CH<sub>2</sub></st32:che></p><p num="0084">In these formulae, R<sup>11</sup> represents a trivalent hydrocarbon radical;
+R<sup>12</sup> and R<sup>13</sup> are monovalent hydrocarbon radicals containing the CH=CH<sub>2</sub> 
+group and R<sup>14</sup> represents a divalent olefinically unsaturated hydrocarbon
+radical. The degrees of polymerization represented by y and the sum of
+w and x are sufficient to impart a viscosity of at least 100 centipoise
+(0.1 Pa·s), preferably from 0.1 to 1000 Pa·s, measured at 25°C.</p><p num="0085">The present compositions can cure to form crosslinked products by
+a variety of reactions described in the prior art. Preferred reactions
+include but are not limited to the reaction of groups present on the
+polyolefin with activating agents such as water and high energy electron
+beams, the reaction of groups present on the polyolefin with free
+radical sources such as organic peroxides and compounds yielding free
+radicals in the presence of ultraviolet radiation, the reaction of
+groups present on the polyolefin with groups present on a curing agent
+that is added when it is desired to cure the polyolefin. The reaction
+between the polyolefin and curing agent may also require the presence of
+a catalyst, such as the platinum catalyst required for the reaction of
+silicon-bonded hydrogen atoms with ethylenically unsaturated functional
+groups.</p><p num="0086">A preferred reaction for curing the polyolefin is hydrosilation,
+the reaction between ethylenically unsaturated groups and silicon-bonded
+hydrogen atoms.</p><p num="0087">The polyolefin preferably contains at least two silicon-bonded
+alkenyl radicals in each molecule. Suitable alkenyl radicals contain
+from 2 to 10 carbon atoms and are exemplified by but not limited to
+vinyl, allyl and 5-hexenyl.</p><p num="0088">The polyolefin, ingredient A of the present compositions,
+preferably contains at least two ethylenically unsaturated hydrocarbon
+radicals and is cured by reacting the composition with at least one
+organohydrogenpolysiloxane containing at least two silicon-bonded
+hydrogen atoms per molecule. This reaction is known as hydrosilation
+and is conducted in the presence of a hydrosilation catalyst.
+Hydrosilation catalysts are typically platinum group metals and
+compounds of these metals. </p><p num="0089">Preferably, when more than one organohydrogenpoly-siloxane is
+used, one of these is a copolymer consisting essentially of
+methylhydrogensiloxane and dimethylsiloxane units and the second is a
+copolymer consisting essentially of methylhydrogensiloxane units and two
+types of diorgano-siloxane units. One type of diorganosiloxane unit is
+dimethylsiloxane and the second type is of the general formula
+(CH<sub>3</sub>)(C<sub>z</sub>H<sub>2z+1</sub>)SiO where the value of z is from 10 to 20. Most
+preferably, the total number of diorganosiloxane units is approximately
+equal to the number of methylhydrogensiloxane units in the copolymer.
+The term "approximately equal" implies a numerical difference of not
+more than +10 units.</p><p num="0090">If the polyolefin contains only two alkenyl radicals per molecule,
+the curing agent must contain an average of more than two silicon-bonded
+hydrogen atoms to achieve a crosslinked structure in the final cured
+product. The organic groups in the organohydrogenpoly-siloxane are
+preferably substantially free of ethylenic or acetylenic unsaturation.
+The molecular structure of the organohydrogenpolysiloxane can be
+straight chain, branch-containing straight chain, cyclic or network.</p><p num="0091">While the molecular weight of the preferred type of
+organohydrogenpolysiloxane is not specifically restricted, viscosities
+in the range of 3 to 10,000 centipoise (0.003 to 10 Pa·s) at 25°C. are
+preferred.</p><p num="0092">The concentration of organohydrogenpolysiloxane is sufficient to
+provide a molar ratio of silicon-bonded hydrogen atoms to alkenyl
+radicals in the curable composition of from 0.4 to 20. A range of from
+0.4 to 4 is preferred.</p><p num="0093">When the curable composition contains less than 0.4 moles of
+silicon-bonded hydrogen atoms per mole of alkenyl radicals, it may not
+be possible to achieve the desired physical properties following curing.
+The physical properties of the cured article may vary with time when
+this ratio exceeds 20 moles of silicon-bonded hydrogen per mole of
+alkenyl radicals. </p><p num="0094">The reaction between organohydrogenpolysiloxanes and ethylenically
+unsaturated groups is catalyzed by metals from the platinum group of the
+periodic table and compounds of these metals. The metals include
+platinum, palladium and rhodium. Platinum compounds are preferred based
+on the high activity level of these catalysts in hydrosilation
+reactions.</p><p num="0095">Examples of preferred curing catalysts include but are not limited
+to platinum black, platinum metal on various solid supports,
+chloroplatinic acid, alcohol solutions of chloroplatinic acid and
+complexes of chloroplatinic acid with liquid ethylenically unsaturated
+compounds such as olefins and organopolysiloxanes containing
+ethylenically unsaturated hydrocarbon radicals bonded to silicon.
+Complexes of chloroplatinic acid with the aforementioned
+organopolysiloxanes containing ethylenically unsaturated hydrocarbon
+radicals are described in U.S. Patent 3,419,593.</p><p num="0096">The concentration of hydrosilation catalyst in the present
+compositions is equivalent to a platinum concentration of from 0.1 to
+500 parts by weight of platinum metal, preferably from 1 to 50 parts by
+weight of platinum metal, per million parts (ppm), based on the combined
+weight of ingredients A and B.</p><p num="0097">Curing does not proceed satisfactorily at below 0.1 ppm of
+platinum, while using more than 500 ppm results in no appreciable
+increase in cure rate and is therefore uneconomical.</p><p num="0098">Mixtures of the aforementioned polyolefin, adhesion promoter,
+organohydrogenpolysiloxane and hydrosilation catalyst may begin to cure
+at ambient temperature. To obtain a longer working time or "pot life",
+the activity of the catalyst under ambient conditions can be retarded or
+suppressed by addition of a suitable inhibitor.</p><p num="0099">Known platinum catalyst inhibitors include the acetylenic
+compounds disclosed in U.S. Patent 3,445,420. Acetylenic alcohols such
+as 2-methyl-3-butyn-2-ol constitute a preferred class of inhibitors that
+will suppress the activity of a platinum-containing catalyst at 25°C. 
+Compositions containing these catalyst inhibitors typically require
+heating at temperatures of 70°C. or above to cure at a practical rate.</p><p num="0100">When it is desired to increase the pot life of a curable
+composition under ambient conditions, this can be accomplished using an
+alkenyl substituted siloxane of the type described in U.S. Patent
+3,989,667. Cyclic methylvinylsiloxanes are preferred.</p><p num="0101">Inhibitor concentrations as low as one mole of inhibitor per mole
+of platinum will, in some instances, impart satisfactory storage
+stability and cure rate. In other instances inhibitor concentrations of
+up to 500 or more moles of inhibitor per mole of platinum are required.
+The type and concentration of inhibitor that will provide excellent
+adhesion in a given composition can readily be determined by routine
+experimentation and does not constitute part of this invention. It has
+been noted by the present inventors that certain types of catalyst
+inhibitors may adversely affect the degree of adhesion that is developed
+under a given set of curing conditions compared to compositions
+containing a different type of inhibitor. In place of the ethylenically
+unsaturated hydrocarbon radicals present on the polyolefin and the
+organohydrogen-polysiloxane curing agent referred to in the preceding
+section of this specification, other types of functional groups that can
+be present include:
+<sl><li>1) a first class of functional groups that react with one another
+in the presence of moisture;</li><li>2) a second class of functional groups that react with one another
+in the presence of free radicals generated by organic peroxides and
+photodecomposable compounds; 3) a third class of functional groups that
+react with a fourth class of functional groups present in a curing agent
+that is part of said composition; and</li><li>4) a fifth class of functional groups that react with a sixth
+class of functional groups present in a curing agent in the presence of
+a curing catalyst, where said curing agent and curing catalyst are part
+of said composition.</li></sl></p><p num="0102">The present polyolefin compositions can contain one or more
+additives that are conventionally present in compositions of this type
+to impart or enhance certain physical properties of the cured polymer in
+addition to adhesion or to facilitate processing of the composition.</p><p num="0103">Typical additives include but are not limited to reinforcing
+fillers such as finely divided silica; non-reinforcing fillers such as
+quartz, alumina, mica and calcium carbonate; pigments such as carbon
+black and titanium dioxide; dyes, flame retardants and heat and/or
+ultraviolet light stabilizers.</p><p num="0104">The compositions of this invention can be prepared by combining
+all of the ingredients at ambient temperature. Any of the mixing
+techniques and devices described in the prior art can be used for this
+purpose. The particular device used will be determined by the viscosity
+of the ingredients and the final curable composition. Suitable mixers
+include but are not limited to paddle type mixers, kneader type mixers,
+single screw or twin screw or twin screw extruders and two- and three-roll
+rubber mills.</p><p num="0105">Cooling of the ingredients during mixing may be desirable to avoid
+premature curing of the composition.</p><p num="0106">To maximize storage stability of preferred curable polyolefin
+compositions that cure by a hydrosilation reaction, these compositions
+are preferably kept in closed containers until used. If greater storage
+stability is desired, the compositions can be packaged in two or more
+containers with the organohydrogensiloxane and the platinum group metal
+catalyst in separate containers.</p><p num="0107">Cured materials prepared using the present compositions can vary
+in properties from brittle resins to elastomers to gels and are useful
+in a variety of end-use applications such as coatings or as molded or
+extruded articles. Unfilled materials are particularly useful as gels
+and coatings for protecting delicate electronic devices, such as
+integrated circuits, from damage by moisture and other materials present
+in the environment that can adversely affect operation of the device. 
+The compositions can be used to coat either the individual devices or a
+circuit board containing a number of these devices together with other
+electronic components.</p><p num="0108">Compositions containing reinforcing and/or non-reinforcing fillers
+are useful as adhesives, encapsulants and potting materials.</p><p num="0109">The present compositions can be applied to substrates by spraying,
+dipping, pouring, extrusion or by the use of a brush, roller or coating
+bar. The selection of a particular application method will be
+determined at least in part by the viscosity of the curable composition.
+The viscosity of the composition can be reduced using suitable
+plasticizers or solvents, as known in the art.</p><p num="0110">The following examples describe curable compositions of the
+present invention. Unless otherwise specified, all parts and
+percentages in the examples are by weight and viscosities were measured
+at 25°C.</p><p num="0111">The following procedure was used to prepare the reaction products
+of polyhydric alcohols with alkoxysilanes: A three-necked, round bottom
+glass reactor was charged with 84.3 parts of tetraethyl orthosilicate as
+ingredient B2 and 0.1 part of tetrabutyl titanate. The reactor was then
+equipped with a magnetic stirrer, thermometer, addition funnel,
+distillation head, condenser, receiver flask cooled with dry ice, dry
+ice-cooled finger trap and a tube for introducing nitrogen into the
+reactor. All the glassware was dried at 120° C prior to use. 15.7
+parts of ethylene glycol as ingredient B1 and 15.7 parts of ethyl
+alcohol were placed in the addition funnel.</p><p num="0112">The reactor was then flushed using dry nitrogen and the contents
+were stirred and heated to 90°C., at which time the polyhydric alcohol
+solution was added slowly over 55 minutes. A flow of nitrogen was
+maintained throughout the reaction. The initially yellow mixture in the
+reaction vessel became clear upon addition of the ethylene glycol/ethyl
+alcohol mixture. The flow of nitrogen was discontinued 20 minutes
+following completion of the addition, at which time vacuum was applied 
+within the reactor and the pressure within the reactor gradually reduced
+to 50 mm of mercury over 14 minutes and was maintained at this level
+with heating for 20 minutes. The resultant reaction mixture was allowed
+to cool to ambient temperature and brought to atmospheric pressure.</p><p num="0113">The reactor contained 69.3 g of a transparent yellow fluid,
+referred to hereinafter as the adhesion promoter (AP).</p><heading><u style="single">Example 1</u></heading><p num="0114">Curable polyisobutylene formulations were prepared by blending 1)
+76.9 parts of a telechelic allyl-functional polyisobutylene (Epion™
+200A; Kanegafuchi Chemical Industry Co., Ltd: Japan) exhibiting a
+molecular weight of 5000: 2) 23.1 parts of an organic plasticizer, a
+long-chain hydrocarbon oil available from Apollo America Corporation as
+KP-32; and 15 ppm of platinum as a 0.1 percent by weight solution in a
+liquid hydrogenated polybutene of a complex formed from platinum
+dichloride and tetramethyldivinyl-disiloxane. The complex contained 21
+weight percent platinum and the liquid hydrogenated polybutene is
+available as Panalane™ L-14E (number average molecular weight = 363)
+from the Amoco Corporation.</p><p num="0115">To the resultant mixture was added one of two different
+organohydrogensiloxanes in an amount sufficient to provide a molar ratio
+of silicon bonded hydrogen atoms to allyl radicals in the polyolefin of
+2:1. The organohydrogen-siloxanes used were
+Me<sub>3</sub>SiO(Me<sub>2</sub>SiO)<sub>3</sub>(MeHSiO)<sub>5</sub>SiMe<sub>3</sub> (Crosslinker I) and
+Me<sub>3</sub>SiO(Me<sub>2</sub>SiO)<sub>5</sub>(MeHSiO)<sub>10</sub> (MeC<sub>16</sub>H<sub>33</sub>SiO)<sub>3</sub>SiMe<sub>3</sub> (Crosslinker II). A
+mixture containing a 1:1 weight ratio of crosslinkers I and II was also
+used.</p><p num="0116">The platinum catalyst inhibitors used were 1) cyclic
+methylvinylsiloxanes (MVC) at a molar ratio of inhibitor to platinum of
+57:1 or 114:1 or 2) methylbutynol (MB) at molar ratio of inhibitor to
+platinum of 60:1. </p><p num="0117">Portions of each of the polyolefin compositions were blended with
+the adhesion promoter (AP) and then evaluated by applying them as 10 mil
+(0.25 mm)-thick liquid films to the desired substrate using a draw-down
+bar. The coatings were cured by heating the coated substrates for 90
+minutes at 120°C. in a forced air oven and allowed to age for 7 days
+under ambient conditions before the adhesion of the coating was
+evaluated.</p><p num="0118">The substrates used were glass, milled aluminum, bare aluminum and
+stainless steel (SS).</p><p num="0119">The adhesion test consisted of scratching the cured coatings with
+the blade of a metal spatula to determine whether the coating could be
+removed without leaving a residue on the surface. The coating was rated
+0 if it could be removed without leaving residue on surface.</p><p num="0120">If some residue remained, it was rubbed using a fingertip to
+determine the pressure required to remove the residue and rated
+according to the following scale.
+<sl><li>1= light pressure</li><li>2= moderate pressure</li><li>3= heavy pressure</li><li>4= no coating could be removed</li></sl></p><p num="0121">The amount of adhesion promoter (AP), type and amount of catalyst
+inhibitor (Inhib.) and type of crosslinker(s) (XL) present in the ten
+compositions evaluated are summarized in Table 1. <tables><table><tgroup cols="4"><tbody><row><entry align="center">Comp. No.</entry><entry align="center">AP %</entry><entry align="center">Inhib. Type/Pt:inhib. molar ratio</entry><entry align="left">XL</entry></row><row><entry align="left">1(c)</entry><entry align="left">None</entry><entry align="left">MVC/57</entry><entry align="left">I</entry></row><row><entry align="left">2(c)</entry><entry align="left">None</entry><entry align="left">MVC/57</entry><entry align="left">II</entry></row><row><entry align="left">3</entry><entry align="left">1.5</entry><entry align="left">MVC/114</entry><entry align="left">I</entry></row><row><entry align="left">4</entry><entry align="left">2.5</entry><entry align="left">MVC/57</entry><entry align="left">I</entry></row><row><entry align="left">5</entry><entry align="left">2.5</entry><entry align="left">MVC/114</entry> <entry align="left">I</entry></row><row><entry align="left">6</entry><entry align="left">2.5</entry><entry align="left">MB/60</entry> <entry align="left">I/II</entry> </row> <row><entry align="left">7</entry><entry align="left">2.5</entry><entry align="left">MVC/114</entry><entry align="left">I/II</entry></row><row><entry align="left">8</entry><entry align="left">5.0</entry><entry align="left">MVC/57</entry><entry align="left">I</entry></row><row><entry align="left">9</entry><entry align="left">5.0</entry><entry align="left">MVC/114</entry><entry align="left">I</entry></row><row><entry align="left">10</entry><entry align="left">5.0</entry><entry align="left">MB/60</entry><entry align="left">I</entry></row><row><entry>c= control for comparative purposes</entry></row></tbody></tgroup></table></tables></p><p num="0122">The adhesion ratings for the compositions are summarized in Table
+2.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center">Comp. No.</entry><entry align="center">Glass</entry><entry align="center">Milled Al</entry><entry align="center">Bare Al</entry><entry align="center">SS</entry></row><row><entry align="left">1(c)</entry><entry align="right">0</entry><entry align="right">0</entry><entry align="right">3</entry><entry align="right">0</entry></row><row><entry align="left">2(c)</entry><entry align="right">0</entry><entry align="right">0</entry><entry align="right">0</entry><entry align="right">0</entry></row><row><entry align="left">3</entry><entry align="right">0</entry><entry align="right">4</entry><entry align="right">1</entry><entry align="right">1</entry></row><row><entry align="left">4</entry><entry align="right">3</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry></row><row><entry align="left">5</entry><entry align="right">4</entry><entry align="right">1</entry><entry align="right">1</entry><entry align="right">4</entry></row><row><entry align="left">6</entry><entry align="right">0</entry><entry align="right">0</entry><entry align="right">3</entry><entry align="right">4</entry></row><row><entry align="left">7</entry><entry align="right">0</entry><entry align="right">2</entry><entry align="right">3</entry><entry align="right">4</entry></row><row><entry align="left">8</entry><entry align="right">4</entry><entry align="right">3</entry><entry align="right">4</entry><entry align="right">4</entry></row><row><entry align="left">9</entry><entry align="right">0</entry><entry align="right">1</entry><entry align="right">1</entry><entry align="right">2</entry></row><row><entry align="left">10</entry><entry align="right">0</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">1</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 2</u></heading><p num="0123">This example describes the preparation and performance of adhesion
+promoters prepared by reacting ethylene glycol as ingredient B1 with a)
+tetraethyl orthosilicate, (C<sub>2</sub>H<sub>5</sub>O)<sub>4</sub>Si, an embodiment of ingredient B2 and
+optional organosilicon compounds referred to hereinbefore as ingredient
+B4.</p><p num="0124">A reaction product referred to hereinafter as adhesion promoter 2
+was prepared by weighing 41.47 g allyltriethoxysilane (ingredient B4).
+42.27 g tetraethyl orthosilicate (ingredient B2) and 0.10 g tetrabutyl
+titanate into a three-necked, round bottom flask. The flask was then
+equipped as described in Example 1. Into the addition funnel had been
+weighed 16.26 g ethylene glycol as ingredient B1, 16.26 g ethyl alcohol
+and these ingredients mixed. The reaction mixture was then stirred,
+heated to 90°C. and the ethylene glycol/ethyl alcohol solution added
+slowly over 50 minutes. The initially yellow mixture in the reaction
+flask became almost clear and colorless upon addition of the ethylene
+glycol/ethyl alcohol solution.</p><p num="0125">Heating of the reaction mixture at 90°C. was continued for an
+additional 20 minutes, at which time the nitrogen purge was stopped and
+vacuum applied. The pressure was reduced to 50 mm Hg over 5 minutes and
+maintained at that pressure for 15 minutes. The reaction mixture was then
+cooled, which caused it to become cloudy. The contents of the reactor
+were brought to atmospheric pressure, pressure filtered through Whatmans
+#1 filter paper was recovered as a clear liquid (adhesion promoter 2).</p><p num="0126">An adhesion promoter was prepared by placing 61.42 parts of
+tetraethyl orthosilicate and 0.10 parts of tetrabutyltitanate into a dry
+glass reactor equipped with an addition funnel, distillation head,
+condenser, receiver vessel cooled with dry ice and a nitrogen purge.</p><p num="0127">Into the addition funnel were placed 5.72 parts ethylene glycol and
+32.86 parts of a hydroxyl-terminated polymethylvinylsiloxane having a
+hydroxyl content of 10.1 wt % and a vinyl content of 10.1 wt % (ingredient
+B4). </p><p num="0128">The contents of the reactor were heated to 90°C. with stirring under
+a current of nitrogen, at which time the contents of the addition funnel
+were added slowly over 40 minutes. Heating and stirring of the reaction
+mixture were continued for an additional 23 minutes following completion
+of the addition, at which time the flow of nitrogen through the reactor
+was discontinued and vacuum was applied to the reactor. The pressure was
+reduced to 50 mm Hg in 10 minutes and maintained at that pressure for 29
+minutes. The reaction mixture was then cooled and brought to atmospheric
+pressure. 75.1 g of a transparent, deep yellow fluid product were
+recovered from the reactor (adhesion promoter 3).</p><p num="0129">A reaction product referred to hereinafter as adhesion promoter 4
+was prepared by charging a glass reactor equipped as described in
+Example 1 with 29.49 parts of tetraethyl orthosilicate, 33.46 parts of
+3-glycidoxypropyl-trimethoxysilane (ingredient B4) and 0.10 parts of
+tetrabutyl titanate. Into the addition funnel were placed 5.49 parts
+ethylene glycol and, as ingredient B4, 31.56 parts of a hydroxyl
+terminated polymethylvinylsiloxane having a hydroxyl content of 10.1 wt
+% and a vinyl content of 10.1 wt %.</p><p num="0130">The mixture in the reactor was stirred and heated to 90°C. under a
+current of nitrogen, at which time the contents of the addition funnel
+were added gradually over 44 minutes. Heating and stirring were continued
+for an additional 20 minutes following completion of the addition, at
+which time the flow of nitrogen was discontinued and vacuum applied to the
+reactor. The pressure was reduced to 50 mm Hg in 6 minutes and maintained
+at that pressure for 23 minutes.</p><p num="0131">The contents of the reactor were then cooled, brought to atmospheric
+pressure, yielding 82.52 g of a translucent, yellow-tan liquid (adhesion
+promoter 4).</p><p num="0132">Curable polyisobutylene compositions containing adhesion promoter 2,
+3 or 4 were prepared by blending 100 parts of an allyl-functional
+polyisobutylene exhibiting a molecular weight of 10,000 (Epion™ EP400A)
+with 100 parts of Panalane™ L-14 E and 150 parts of calcium carbonate 
+filler consisting essentially of a 2:1 mixture of Winnofil™ SPM and
+Georgia Marble CS-11. The resultant polymer mixture was then blended with
+crosslinker I described in Example 1, adhesion promoter 2, 3 or 4 and 0.1
+weight percent of tetrabutyl titanate as an adhesion catalyst. After
+being blended to homogeneity the composition was combined with a
+hydrosilation catalyst mixture. This catalyst mixture was a 0.4 weight
+percent solution in a liquid hydrogenated polybutene (number average
+molecular weight = 363) of a complex formed from platinum dichloride and
+tetramethyldivinyldisiloxane. The complex contained 21 weight percent
+platinum.</p><p num="0133">The percentages of polyisobutylene, adhesion promoter, catalyst
+mixture and crosslinker are summarized in Table 3.
+<tables><table><tgroup cols="6"><tbody><row><entry align="center" namest="1">Composition</entry><entry nameend="3" align="center" namest="2">Adhesion Promoter</entry><entry align="center" namest="4">Polymer Mixture %</entry><entry align="center" namest="5">Catalyst Mixture %</entry><entry align="center" namest="6">Crosslinker %</entry></row><row><entry align="center"/><entry align="center">No.</entry><entry align="center">%</entry></row><row><entry align="right">11</entry><entry align="right">2</entry><entry align="center">2.5</entry><entry align="center">91.512</entry><entry align="center">5.099</entry><entry align="center">0.654</entry></row><row><entry align="right">12</entry><entry align="right">3</entry><entry align="center">1.5</entry><entry align="center">92.451</entry><entry align="center">5.152</entry><entry align="center">0.660</entry></row><row><entry align="right">13</entry><entry align="right">4</entry><entry align="center">2.5</entry><entry align="center">91.512</entry><entry align="center">5.099</entry><entry align="center">0.654</entry></row></tbody></tgroup></table></tables></p><p num="0134">Compositions 11, 12 and 13 were applied to glass, bare aluminum,
+stainless steel and an epoxy-fiberglass composite (FR-4 boards) as
+described in Example 1. The coatings were cured by heating the coated
+substrates for 90 minutes at 120°C. The adhesion of the coated samples
+was evaluated following cooling and following additional aging under
+ambient conditions for 24 hours. 3 days and 7 days. The adhesion of the
+coating was evaluated using the procedure described in Example 1. The
+results of the evaluations are summarized in Table 4. <tables><table><tgroup cols="4"><tbody><row><entry align="center">Substrate/ Aging Time Following Heating @ 120°C.</entry><entry align="center">Composition 11</entry><entry align="center">Composition 12</entry><entry align="center">Composition 13</entry></row><row><entry align="center">Glass</entry></row><row><entry align="left">None</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">1</entry></row><row><entry align="left">24 Hours</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">1</entry></row><row><entry align="left">3 Days</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">3</entry></row><row><entry align="left">7 Days</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry></row><row><entry align="center">Aluminum</entry></row><row><entry align="left">None</entry><entry align="right">4</entry><entry align="right">0</entry><entry align="right">0</entry></row><row><entry align="left">24 Hours</entry><entry align="right">4</entry><entry align="right">0</entry><entry align="right">4</entry></row><row><entry align="left">3 Days</entry><entry align="right">4</entry><entry align="right">0</entry><entry align="right">4</entry></row><row><entry align="left">7 Days</entry><entry align="right">4</entry><entry align="right">0</entry><entry align="right">4</entry></row><row><entry align="center">FR-4</entry></row><row><entry align="left">None</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">0</entry></row><row><entry align="left">24 Hours</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">0</entry></row><row><entry align="left">3 Days</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">0</entry></row><row><entry align="left">7 Days</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">0</entry></row><row><entry align="center">Stainless Steel</entry></row><row><entry align="left">None</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">1</entry></row><row><entry align="left">24 Hours</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry></row><row><entry align="left">3 Days</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry></row><row><entry align="left">7 Days</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry></row></tbody></tgroup></table></tables></p><p num="0135">Comparison of the data in Table 4 with the adhesion data
+in the foregoing Table 2 demonstrate the improved adhesion to glass
+achieved using one of the optional silanes referred to as ingredient
+B4 of the present compositions. The addition of allyltriethoxy-silane
+as ingredient B4 also improved the adhesion to aluminum.</p><heading><u style="single">Example 3</u></heading><p num="0136">This example demonstrates the effect on adhesion of
+varying the concentrations of the adhesion promoter and curing
+catalyst inhibitor in a filled polyisobutylene composition.</p><p num="0137">Curable filled polyisobutylene formulations were prepared
+by blending 100 parts of the allyl-functional polyisobutylene
+exhibiting a molecular weight of 10,000 with 100 parts of Panalane L-14E
+and 150 parts of calcium carbonate consisting essentially of a 2:1
+mixture of Winnofil<sup>R</sup> SPM and Georgia Marble CS. To 18.2 parts of this
+composition were added 1.0 part of the catalyst mixture described in
+Example 2. 0.25 part of Crosslinker I and 0.02 part of
+tetrabutyltitanate.</p><p num="0138">Portions of the resultant composition were blended with
+the adhesion promoter described in Example 1 of this specification
+(AP) and methylvinyl cyclics catalyst inhibitor to form compositions
+14-18. The amounts of these additional ingredients are summarized in
+Table 5.
+<tables><table><tgroup cols="3"><tbody><row><entry align="center">Composition No.</entry><entry align="center">AP amount</entry><entry align="center">Inhib. Amount</entry></row><row><entry align="right">14</entry><entry align="center">0.5 g</entry><entry align="right">30 µl</entry></row><row><entry align="right">15</entry><entry align="center">0.5 g</entry><entry align="right">20 µl</entry></row><row><entry align="right">16</entry><entry align="center">0.5 g</entry><entry align="right">10 µl</entry></row><row><entry align="right">17</entry><entry align="center">1.0 g</entry><entry align="right">30 µl</entry></row><row><entry align="right">18</entry><entry align="center">1.0 g</entry><entry align="right">0 µl</entry></row></tbody></tgroup></table></tables></p><p num="0139">The compositions were applied to the substrates listed
+in Table 4. The coatings were cured and rated as described in the
+preceding Example 1. The adhesion ratings for the compositions are
+summarized in Table 6.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center">Composition No.</entry><entry align="center">Glass</entry><entry align="center">Milled Al</entry><entry align="center">Bare Al</entry><entry align="center">Stainless Steel</entry></row><row><entry align="right">14</entry><entry align="right">1</entry><entry align="right">4</entry><entry align="right">1</entry><entry align="right">4</entry></row><row><entry align="right">15</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry></row><row><entry align="right">16</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry></row><row><entry align="right">17</entry><entry align="right">3</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry></row><row><entry align="right">18</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry><entry align="right">4</entry></row></tbody></tgroup></table></tables></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A polyolefin composition, exhibiting adhesion to inorganic and
+organic substrates when cured thereon comprising
+<claim-text><claim-text>A. at least one polyolefin containing repeating units
+derived from at least one olefin and functional groups capable of
+reacting to crosslink said polyolefin: and B. an effective amount of
+an adhesion promoter for said polyolefin; wherein said adhesion promoter
+is a reaction product of (B1) a polyhydric alcohol of the general
+formula R1(OH)m; and (B2) at least one organosilicon compound selected
+from silanes of the general formula R2nSiX(4-n) or bis-silylalkanes of
+the formula X3SiR3SiX3, wherein said reaction product contains at least
+two silicon atoms per molecule; R1 represents a hydrocarbon radical or
+an alkoxy-substituted hydrocarbon radical, where R1 is substantially
+free of ethylenic unsaturation and exhibits a valence of m; m represents
+an integer with a value of at least 2; R2 is selected from unsubstituted
+hydrocarbon radicals or hydrocarbon radicals containing at least one
+substituent selected from CH2=CH-, acryloxy, methacryloxy, epoxy.
+carboxy, amino, amido, acrylamido,
+methacrylamido,
+
+or mercapto;
+R3 is alkylene; R4 is a trivalent hydrocarbon radical; X represents a
+hydrolyzable group; n is 0 or 1: and wherein said organosilicon compound
+B2 constitutes from 10 to 90 percent of the combined weights of B1 and
+B2.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>A composition according to claim 1 wherein R1 is an alkylene
+radical containing from 2 to 10 carbon atoms; R2 contains from 1 to 10
+carbon atoms; X is alkoxy containing from 1 to 20 carbon atoms; m is 2,
+3 or 4; and said adhesion promoter is flowable at a temperature of from
+25 to 35°C.</claim-text></claim><claim num="3"><claim-text>A composition according to any of the preceding claims wherein
+said polyhydric alcohol B1 is selected from ethylene glycol; propylene
+glycol ; 1,3-propanediol ; glycerol ; 1,4-butanediol ; neopentyl glycol ;
+2,2,2-trimethylolpropane or 1,10-decanediol ; X is alkoxy radical
+containing from 1 to 20 carbon atoms; and R2 is an alkyl radical
+containing from 1 to 4 carbon atoms.</claim-text></claim><claim num="4"><claim-text>A composition according to any of the preceding claims wherein
+said organosilicon compound B2 is selected from methyltrimethoxysilane,
+methyltriethoxysilane, allyltrimethoxysilane, tetramethyl orthosilicate,
+tetraethyl orthosilicate or methyltriisopropenyloxysilane.</claim-text></claim><claim num="5"><claim-text>A composition according to any of the preceding claims where
+said adhesion promoter constitutes from 1 to 10 percent by weight of
+said polyolefin composition.</claim-text></claim><claim num="6"><claim-text>A composition according to any of the preceding claims wherein
+the ingredients of said adhesion promoter additionally comprises from
+0.5 to 2 moles per mole of said polyhydric alcohol B1, of a mono- or
+polyhydric alcohol B3 of the formula R6(OH)p where R6 represents a
+hydrocarbon radical exhibiting a valence of p and containing at least
+one organofunctional substituent selected from CH2=CH-, acryloxy,
+methacryloxy, epoxy, carboxy, amino, amido, acrylamido,
+methacrylamido,
+
+or mercapto; R4 is a trivalent
+hydrocarbon radical and p is an integer with a value of at least 1.</claim-text></claim><claim num="7"><claim-text>A composition according to any of the preceding claims wherein
+the ingredients of said adhesion promoter additionally comprise an
+organosilicon compound B4 selected from organosilanes of the formula
+R7qR8rSiY4-q-r or organopolysiloxanes having the average formula
+R7qR8rYsSiO(4-q-r-s)/2 , wherein R7 represents an unsubstituted
+monovalent hydrocarbon radical; R8 represents a monovalent hydrocarbon
+radical containing an organofunctional substituent selected from CH2=CH-,
+acryloxy, methacryloxy, epoxy, carboxy, amino, amido, acrylamido,
+methacrylamido or mercapto; Y represents a hydroxyl group or a group
+that is hydrolyzed to a hydroxyl group in the presence of water; the
+average value of q is from 0 to 3, inclusive; the average values of r
+and s are greater than 0 but no greater than 3; the sum of q and r in
+the formula of said organosilanes does not exceed 3; the sum of q, r and
+s does not exceed 3; and wherein said compound B4 constitutes from 40 to
+70 weight percent of all organosilicon compounds present as said
+ingredients.</claim-text></claim><claim num="8"><claim-text>A composition according to claim 7 wherein R7 contains from 1
+to 5 carbon atoms and the hydrocarbon portion of R8 is selected from
+alkylene, cycloalkylene or arylene.</claim-text></claim><claim num="9"><claim-text>A composition according to any of the preceding claims
+comprising at least one organosilicon compound B5 selected from
+organosilanes or organopolysiloxanes containing (a) at least one of a
+first reactive group selected from silanol or hydrolyzable groups and
+(b) at least one of a second reactive group selected from CH2=CH-,
+acryloxy, methacryloxy, epoxy, carboxy, amino, amido, acrylamido,
+methacrylamido and mercapto.</claim-text></claim><claim num="10"><claim-text>A composition according to claim 9 wherein said organosilicon
+compound B5 is selected from organosilanes exhibiting the formula
+R9tR10uSi(OZ)(4-t-u) or organopolysiloxanes comprising repeating units
+of the formulae R9tR10uSiO(4-t-u)/2 or (OZ)vR10uSiO(4-u-v)/2 , wherein
+R9 represents hydrogen atom or an ethylenically unsaturated group
+capable of undergoing a hydrosilation reaction; R10 represents an
+unsubstituted or substituted alkyl radical containing from 1 to 4 carbon
+atoms; t and v are 1, 2 or 3; u is 0, 1, 2 or 3; the sum of t+u and u+v
+do not exceed 3; OZ is selected from hydroxyl, alkoxy containing from 1
+to 4 carbon atoms or isoalkenyloxy, with the proviso that v is 1 when Z
+is H.</claim-text></claim><claim num="11"><claim-text>A composition according to any of the preceding claims wherein
+said polyolefin (A) comprises (a) repeating units derived from at least
+one olefin and (b) at least two functional groups per molecule selected
+from
+<claim-text><claim-text>1) a first class of functional groups that react with one another
+in the presence of moisture;</claim-text><claim-text>2) a second class of functional groups that react with one another
+in the presence of free radicals generated by organic peroxides and
+photodecomposable compounds;</claim-text><claim-text>3) a third class of functional groups that react with a fourth
+class of functional groups present in a curing agent that is part of
+said composition ; or</claim-text><claim-text>4) a fifth class of functional groups that react with a sixth
+class of functional groups present in a curing agent in the presence of
+a curing catalyst, where said curing agent and curing catalyst are part
+of said composition.</claim-text></claim-text></claim-text></claim><claim num="12"><claim-text>A composition according to claim 11 wherein said repeating
+units contain from 2 to 6 carbon atoms.</claim-text></claim><claim num="13"><claim-text>A composition according to claim 12 wherein the repeating
+units are isobutylene.</claim-text></claim><claim num="14"><claim-text>A composition according to claim 13 wherein the reaction used
+to cure said polyolefin is selected from
+<claim-text><claim-text>1) platinum-catalyzed reactions of silicon-bonded hydrogen atoms
+with alkenyl radicals or silanol groups present on the polyolefin;</claim-text><claim-text>2) reaction of silicon-bonded hydrolyzable groups in the presence
+of atmospheric moisture;</claim-text><claim-text>3) reaction of silicon-bonded hydrolyzable groups with silanol
+groups in the presence of a suitable catalyst;</claim-text><claim-text>4) reaction of mercapto groups with one another in the presence of
+oxygen and a chelated organometallic compound;</claim-text><claim-text>5) reaction of epoxy groups with acid anhydride or amine groups in
+the presence of a suitable catalyst;</claim-text><claim-text>6) reaction of mercapto groups with alkenyl radicals in the
+presence of a metal carboxylate of a chelated organometallic compound;</claim-text><claim-text>7) reactions involving groups present on the polyolefin with
+either free radicals or cations formed by irradiation of photosensitive
+compounds with ultraviolet light, or</claim-text><claim-text>8) reactions involving groups present on the polyolefin that are
+initiated by high energy particles.</claim-text></claim-text></claim-text></claim><claim num="15"><claim-text>A composition according to claim 14 wherein said reaction is
+selected from
+<claim-text><claim-text>1) reaction of alkenyl groups present on the polyolefin with an
+organohydrogensiloxane using platinum or a platinum compound as the
+catalyst;</claim-text><claim-text>2) reaction of silanol groups on the polyolefin with silicon-bonded
+hydrogen atoms on a curing agent in the presence of a catalyst
+selected from tin compounds, amines or platinum compounds; or</claim-text><claim-text>3) free radical reactions involving polymerization of
+ethylenically unsaturated groups present on the polyolefin, wherein the
+free radicals are generated by irradiation of a photosensitive compound.</claim-text></claim-text></claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

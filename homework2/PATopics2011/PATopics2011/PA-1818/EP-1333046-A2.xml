@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1333046-A2" country="EP" doc-number="1333046" kind="A2" lang="EN" family-id="19191421" status="new" date-produced="20090516" date="20030806"><bibliographic-data><publication-reference ucid="EP-1333046-A2" status="new" fvid="23822215"><document-id status="new" format="original"><country>EP</country><doc-number>1333046</doc-number><kind>A2</kind><date>20030806</date></document-id></publication-reference><application-reference ucid="EP-03000968-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03000968</doc-number><kind>A</kind><date>20030116</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2002008439-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002008439</doc-number><kind>A</kind><date>20020117</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/16        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B41J   2/16        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  59/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  59/32        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B41J   2/16B2</classification-symbol><classification-symbol scheme="EC">B41J   2/16C</classification-symbol><classification-symbol scheme="EC">B41J   2/16G</classification-symbol><classification-symbol scheme="EC">B41J   2/16M3</classification-symbol><classification-symbol scheme="EC">B41J   2/16M4</classification-symbol><classification-symbol scheme="EC">B41J   2/16M7S</classification-symbol><classification-symbol scheme="EC">B41J   2/16M8S</classification-symbol><classification-symbol scheme="EC">C08G  59/32F</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Epoxidharzzusammensetzung, Verfahren zur Oberflächenbehandlung, Flüssigkeitsstrahlaufzeichnungskopf und ein Flüssigkeitsstrahlaufzeichnungsgerät</invention-title><invention-title load-source="ep" status="new" lang="EN">Epoxy resin composition, surface treatment method, liquid-jet recording head and liquid-jet recording apparatus</invention-title><invention-title load-source="ep" status="new" lang="FR">Composition de résine époxyde, procédé de traitement d'une surface, tête d'enregistrement par jet de liquide et appareil d'enregistrement à jet de liquide</invention-title><citations><patent-citations><patcit ucid="EP-0319472-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0319472</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0368320-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0368320</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0942024-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0942024</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1085031-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1085031</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>DATABASE CHEMABS CHEMICAL ABSTRACTS SERVICE, COLUMBUS, OHIO, US; 1996, VAN DE GRAMPEL, J.C. ET AL.: "New polysiloxanes for chemically amplified resist applications" XP002288046 &amp;  ACS SYMPOSIUM SERIES, vol. 614, 1995, pages 333-354,</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>CANON KK</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>CANON KABUSHIKI KAISHA</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>CANON KABUSHIKI KAISHA</last-name><address><street>30-2, 3-chome, Shimomaruko, Ohta-ku</street><city>Tokyo</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>IMAMURA ISAO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NOGUCHI HIROMICHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SHIMOMURA AKIHIKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>IMAMURA, ISAO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>NOGUCHI, HIROMICHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SHIMOMURA, AKIHIKO</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>IMAMURA, ISAO</last-name><address><street>Canon Kabushiki Kaisha, 30-2, Shimomaruko 3-chome</street><city>Ohta-ku, Tokyo</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NOGUCHI, HIROMICHI</last-name><address><street>Canon Kabushiki Kaisha, 30-2, Shimomaruko 3-chome</street><city>Ohta-ku, Tokyo</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SHIMOMURA, AKIHIKO</last-name><address><street>Canon Kabushiki Kaisha, 30-2, Shimomaruko 3-chome</street><city>Ohta-ku, Tokyo</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Böckelen, Rainer</last-name><address><street>Tiedtke-Bühling-Kinne &amp;amp; Partner (GbR), TBK-Patent Bavariaring 4</street><city>80336 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>HU</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>An epoxy resin composition can be used for forming a
+film having excellent water-repellency on a substrate
+surface. The epoxy resin composition contains (a) an epoxy
+resin having at least two alicyclic epoxy groups, at least
+one perfluoroalkyl group having 6 to 12 carbon atoms, and at
+least one alkylsiloxane group and (b) a cationic
+polymerization catalyst. The alicyclic epoxy groups and the
+perfluoroalkyl group are present in branched chains of the
+epoxy resin, and the alkylsiloxane group is present in the
+main chain of the epoxy resin.</p></abstract><description load-source="ep" status="new" lang="EN"><heading>BACKGROUND OF THE INVENTION</heading><heading>Field of the Invention</heading><p num="0001">The present invention relates to a curing epoxy
+resin composition which permits water-repellent and ink-repellent
+surface treatment. Particularly, the present
+invention relates to an epoxy resin composition capable of
+forming a film pattern by ultraviolet irradiation, a surface
+treatment method using the resin composition, a liquid-jet
+recording head subjected to ink-repellent treatment with the
+epoxy resin composition, and a liquid-jet recording
+apparatus using the liquid-jet recording head.</p><heading>Description of the Related Art</heading><p num="0002">In various fields, a method of applying a water-repellent
+coating to a member required to have water
+resistance and ink repellency to obtain these properties is
+generally known, and resin materials and coating materials
+used for the method have been developed. For example, films
+of fluoropolyolefin and a fluororesin coating material
+having perfluoro groups are thermally and chemically stable, 
+excellent in weather resistance, water resistance, chemical
+resistance, solvent resistance, etc., and further excellent
+in release property, abrasion resistance and water
+repellency; such films are widely used for various
+applications.</p><p num="0003">Meanwhile, a liquid-jet recording head adapted to
+discharge liquid droplets such as ink droplets through
+discharge nozzles and cause them to adhere to a recording
+medium such as a sheet of paper so as to record or form an
+image thereon has only recently been required to be able to
+discharge smaller liquid droplets, be driven with a higher
+driving frequency, and have a larger number of nozzles in
+order to improve recording properties. Therefore, a
+treatment for maintaining the nozzle surface in a clear
+state becomes more important. However, it is difficult to
+selectively treat the surface of a nozzle or precisely treat
+the surface in the form of a pattern using any existing
+material which avoids ink adhesion. This is because first,
+a material mainly comprising a compound having a
+photosensitive functional group must be used as a surface
+treatment material for treating the surface in the form of a
+pattern so that the material has characteristics like
+photoresist suitable for pattern treatment; however, it is
+very difficult to design the molecule of such a compound so
+that the compound has water repellency and ink repellency at 
+the same time.</p><p num="0004">Second, if the nozzle surface can be treated with
+an existing fluorocarbon material, a film structure must be
+designed so as to maintain the properties of the surface for
+a long period of time. A material permitting such a pattern
+surface treatment having the above-described properties is
+extremely valuable for surface treatment of an ink-jet print
+head, as described below.</p><p num="0005">Namely, in an ink-jet recording system in which an
+ink is ejected as droplets, the discharge orifice (nozzle)
+is preferably designed to have the following
+characteristics:</p><p num="0006">(1) The residual ink of ink columns having turned
+into droplets is immediately held back into the nozzle.</p><p num="0007">(2) The ink droplets adhering to the nozzle
+surface can be readily wiped off by a cleaning operation.</p><p num="0008">(3) The nozzle surface has excellent scratch
+resistance against the cleaning operation and paper transfer.</p><p num="0009">(4) In repeated formation of droplets and ink
+refilling, a meniscus is formed on the nozzle surface (refer
+to reference numeral 23 in Fig. 1).</p><p num="0010">(5) The discharge direction is normal to the
+meniscus.</p><p num="0011">(6) Even with an ink having low surface tension or
+under low-negative pressure, the interfacial tension, i.e., 
+the contact angle, is sufficient to form the meniscus.</p><p num="0012">The above-noted characteristics are required for
+the discharge orifice because if a recording liquid such as
+an ink adheres to the periphery of the orifice, the
+discharge (flying) direction of the ink droplets discharged
+from the orifice deviates, making it impossible to print
+highly accurately and directly degrade the printing
+performance. In order to prevent adhesion of the ink to the
+vicinity of the discharge orifice, which causes a deviation
+in the discharge direction, a method is known in which the
+surface of the discharge orifice is subjected to water-repellent
+treatment.</p><p num="0013">For example, a method of ink-repellent treatment
+with a polymer having fluoroacetyl groups and silazane
+groups is known as prior art relating to the above-described
+surface treatment (for example, Japanese Patent Laid-Open No.
+2-39944). On the other hand, as a result of the increasing
+demand for sophisticated printers utilizing liquid-jet
+recording systems for recording images, the recording liquid
+to be used for such recording systems is also required to
+show sophisticated characteristics. More often, the
+recording liquid to be used for such recording systems is
+chemically regulated to be basic with a pH value of 7 to 11
+in order to further improve dissolution stability and
+dispersion stability of contents, and thus a structural 
+material highly resistant against alkali and hydrolysis must
+be used for a printer member.</p><p num="0014">However, when a recording liquid containing a
+polar organic solvent or a recording liquid showing such a
+high pH value is used, a water-repellent agent applied for
+treating the surface of the discharge orifice in order to
+satisfy the above requirements can damage the film forming
+property of the agent and the tight adhesion of the agent to
+the surface of the discharge orifice as it comes into
+contact with the solvent of the recording liquid,
+particularly the polar organic solvent of the recording
+liquid. Then, the coat of the water-repellent agent can be
+peeled off to decrease the water repellency of the surface.</p><heading>SUMMARY OF THE INVENTION</heading><p num="0015">Therefore, it is an object of the present
+invention to provide an epoxy resin composition that can be
+suitably used for a water-repellent agent or water-repellent
+coating to be applied to a surface that can be brought into
+contact with a solution or material containing a component
+such as a polar organic solvent that can damage the film
+forming ability and the adhesion of the water-repellent
+agent.</p><p num="0016">It is another object of the present invention to 
+provide an epoxy resin composition adapted to surface
+modifying treatment for maintaining the treated surface
+constantly in a clear state.</p><p num="0017">Still another object of the present invention is
+to provide a surface treatment method capable of precisely
+imparting water-repellency to a surface of a member by using
+the epoxy resin composition in a position-selective manner.</p><p num="0018">A further object of the present invention is to
+provide a liquid-jet recording head and liquid-jet recording
+apparatus in which the surface of a substrate is treated
+with the epoxy resin composition so that the surface of a
+nozzle can be constantly maintained in a clear state, and an
+ink does not adhere to the surface of a printing head even
+when the head is brought into contact with a recording
+medium for a long period of time, thereby exhibiting high
+dot landing precision, and permitting long-term maintenance
+of printing quality.</p><p num="0019">These objects are achieved by the present
+invention as described below.</p><p num="0020">In an embodiment of the present invention, an
+epoxy resin composition comprises (a) an epoxy resin having
+at least two alicyclic epoxy groups, at least one
+perfluoroalkyl group having 6 to 12 carbon atoms, and at
+least one alkylsiloxane group; and (b) a cationic
+polymerization catalyst. In the epoxy resin composition, 
+the alicyclic epoxy groups and the perfluoroalkyl group are
+present in branch chains of the epoxy resin, and the
+alkylsiloxane group is present in the main chain of the
+epoxy resin.</p><p num="0021">In another embodiment of the present invention, a
+surface treatment method comprises (i) coating the epoxy
+resin composition on the surface of a substrate to form a
+film; (ii) irradiating at least a portion of the film with
+an active energy ray (position-selective manner); and (iii)
+dissolving at least a portion of the film which was not
+irradiated with the active energy ray in a liquid capable of
+dissolving the film.</p><p num="0022">In still another embodiment of the present
+invention, a surface treatment method comprises (i) coating
+the epoxy resin composition on the surface of a substrate to
+form a film; (ii) curing at least a portion of the film by
+polymerization; and (iii) selectively removing an uncured
+portion of the film.</p><p num="0023">In a further embodiment of the present invention,
+a liquid-jet recording head comprises a discharge orifice
+for discharging a liquid, wherein at least the periphery of
+the discharge orifice is coated with a cured film of the
+epoxy resin composition.</p><p num="0024">In a still further embodiment of the present
+invention, a liquid-jet recording apparatus comprises the 
+above-described liquid-jet recording head.</p><p num="0025">The epoxy resin composition of the present
+invention is an epoxy resin system, and thus a film
+comprising the resin composition has excellent adhesion to
+various members and can be cured at a relatively low
+temperature to provide a cured product having excellent
+physical properties as a structural material. Furthermore,
+since the epoxy resin composition contains an epoxy compound
+having an alkylsiloxane group and perfluoroalkyl group, the
+film is significantly improved in resistance to water-soluble
+organic solvents, particularly polar organic
+solvents. The film also has improved resistance to pigment
+dispersion stabilizer and the like contained in a pigment-based
+ink. Furthermore, when the resin composition contains
+a compatibilizer, the compatibilizer provides compatibility
+between the components of the resin composition, thereby
+widening the range of component materials of the resin
+composition of the present invention.</p><p num="0026">When the film formed by coating the resin
+composition of the present invention and then drying the
+coating contains, as a catalyst, an onium salt of a Lewis
+acid which is activated with an active energy ray, the film
+can be cured in the form of a pattern. Therefore, uncured
+portions of the film are then removed to permit surface
+treatment of a member in the form of a pattern. </p><p num="0027">The surface of a member can be treated in the form
+of a pattern by a method comprising coating the resin
+composition on the substrate and then drying the coating to
+form a film, irradiating the film with an active energy ray
+through a mask having a desired pattern, and then removing
+uncured portions of the film by development with a developer.
+Although the basic steps of this pattern treatment are the
+same as a photolithography method, a solvent or solvent
+composition suitable for the film comprising the resin
+composition is selected as the developer. As the developer,
+an aromatic hydrocarbon, a ketone, an ester, glycol ester,
+or a mixture thereof can be used.</p><p num="0028">In the surface treatment in the form of a pattern
+using the resin composition of the present invention, so-called
+post-curing is preferably further performed by
+heating the film or irradiating the film with an active
+energy ray after development to completely cure the film of
+the resin composition.</p><p num="0029">Therefore, the resin composition of the present
+invention can be suitably used as a water-repellent agent or
+water-repellent coating material applied to an area having
+opportunity for contact with a solution or material
+containing a component such as a polar organic solvent,
+which can damage adhesion of the water-repellent agent. The
+resin composition of the present invention is further 
+suitably used for water-repellent and ink-repellent
+treatment of the discharge orifice surface of the liquid-jet
+recording head.</p><p num="0030">Namely, when the resin composition of the present
+invention is applied to an ink-jet recording apparatus, the
+precision of selective surface modifying treatment using
+optical polymerizability, the solid strength of the cured
+film, the durability as a device due to frictional strength,
+and the high degree of water repellency and ink repellency
+result in improvements in properties such as meniscus
+retention of an aqueous ink, cleaning property, droplet
+discharge direction precision, persistency of continuous
+discharge, suitability for print start after a pause, etc.
+The meniscus retention represents the property by which an
+ink maintains the ink surface at the nozzle tip by surface
+tension and recovers and holds a meniscus at a predetermined
+position during repeated droplet discharges. With low
+meniscus retention, the ink leaks from the nozzle tip, the
+meniscus retreats to decrease the volume of the droplet
+discharged, or in an extreme case, a defect occurs in the
+discharge of ink droplets.</p><p num="0031">Further objects, features and advantages of the
+present invention will become apparent from the following
+description of the preferred embodiments with reference to
+the attached drawings. </p><heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading><p num="0032">Fig. 1 is a sectional view showing a principal
+portion of an example of a liquid-jet recording head.</p><p num="0033">Fig. 2 is a perspective view of the principal
+portion of the head shown in Fig. 1.</p><p num="0034">Fig. 3 is a drawing showing an example of a
+liquid-jet recording apparatus including a multi-head.</p><p num="0035">Figs. 4A to 4C are drawings respectively showing
+steps of a method of manufacturing a liquid-jet recording
+head of the present invention.</p><p num="0036">Figs. 5A to 5C are drawings respectively showing
+steps performed after the steps shown in Fig. 4C.</p><p num="0037">Fig. 6A and 6B are drawings respectively showing
+steps performed after the steps shown in Fig. 5C.</p><heading>DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading><p num="0038">The present invention will be described in detail
+below with reference to a preferred embodiment.</p><p num="0039">An epoxy resin composition of the present
+invention comprises (a) an epoxy resin having at least two
+alicyclic epoxy groups, at least one perfluoroalkyl group
+having 6 to 12 carbon atoms, and at least one alkylsiloxane 
+group; and (b) a cationic polymerization catalyst. In the
+epoxy resin composition, the alicyclic epoxy groups and the
+perfluoroalkyl group are present in branch chains of the
+epoxy resin, and the alkylsiloxane group is present in the
+main chain of the epoxy resin.</p> <p num="0040">The epoxy resin of the epoxy resin composition is
+not limited as long as the above conditions are satisfied.
+Examples of the epoxy resin of the present invention include
+epoxy resins represented by formula (1):
+<img id="img-00120001" orientation="unknown" wi="156" img-format="tif" img-content="cf" file="00120001.tif" inline="no" he="104"/></p><p num="0041">In formula (1), a is an integer from 1 to 50, b is
+an integer from 1 to 50, and c is an integer from 2 to 100.
+Furthermore, each of n<sub>1</sub>, n<sub>2</sub>, n<sub>3</sub>, n<sub>5</sub>, n<sub>6</sub>, and n<sub>7</sub> is an integer
+from 1 to 5, and n<sub>4</sub> is an integer from 2 to 200.</p><p num="0042">In formula (1), each of R<sub>1</sub>, R<sub>4</sub>, R<sub>5</sub>, R<sub>6</sub>, R<sub>7</sub>, and R<sub>10</sub>
+is independently a hydrogen atom or a straight or branched
+chain alkyl group having 1 to 3 carbon atoms, each of R<sub>2</sub>, R<sub>3</sub>,
+R<sub>8</sub> and R<sub>9</sub> is independently a hydrogen atom, a straight or
+branched chain alkyl group having 1 to 3 carbon atoms, or a
+nitrile group, and R<sub>f</sub> is a straight or branched chain
+perfluoroalkyl group having 6 to 12 carbon atoms,
+particularly a perfluoroalkyl group having 8 to 10 carbon
+atoms.</p><p num="0043">The epoxy resin represented by formula (1) can be
+obtained by copolymerization of perfluoroalkyl methacrylate,
+3,4-oxycyclohexylmethyl methacrylate, and an azo group-containing
+polysiloxaneamide at an appropriate monomer ratio
+according to an ordinary method. The epoxy resin may also
+be commercially obtained.</p><p num="0044">More specifically, the epoxy resin can be
+synthesized by heating, light irradiation or heating and
+light irradiation of a compound represented by structural
+formula (1)-i below in coexistence with vinyl monomers
+represented by structural formulae (1)-ii and (1)-iii so as
+to produce radical species. <img id="img-00140001" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00140001.tif" inline="no" he="31"/>
+wherein R<sub>1</sub> to R<sub>13</sub> are the same as R<sub>2</sub>, R<sub>3</sub>, R<sub>8</sub> and R<sub>9</sub> above, n<sub>8</sub>
+and n<sub>9</sub> each represent 0 or an integer from 1 to 6, and X
+represents a halogen atom.
+<img id="img-00140002" orientation="unknown" wi="73" img-format="tif" img-content="cf" file="00140002.tif" inline="no" he="20"/><img id="img-00140003" orientation="unknown" wi="102" img-format="tif" img-content="cf" file="00140003.tif" inline="no" he="28"/>
+wherein R<sub>1</sub>, R<sub>10</sub>, n<sub>1</sub>, and n<sub>7</sub> are the same as defined above.</p> <p num="0045">A compound represented by formula (1)-i can be
+synthesized by the method disclosed in, for example,
+Japanese Patent Publication No. 2-33053. Namely, the
+compound can be obtained by reaction of a diamine
+represented by formula (1)-iv below and dihalides
+represented by formulae (1)-v and (1)-vi below.
+<img id="img-00140004" orientation="unknown"  wi="81" img-format="tif" img-content="cf" file="00140004.tif" inline="no"  he="31"/><img id="img-00150001"  orientation="unknown"  wi="84" img-format="tif" img-content="cf" file="00150001.tif" inline="no" he="27"/><img id="img-00150002" orientation="unknown" wi="85" img-format="tif" img-content="cf" file="00150002.tif" inline="no" he="24"/></p> <p num="0046">The epoxy resin composition represented by formula
+(1) preferably has a number average molecular weight of
+8,000 to 22,000, and more preferably has a number average
+molecular weight of 8,500 to 20,000 in light of the
+durability of the water-repellent coating.</p> <p num="0047">An example of the epoxy resin represented by
+formula (1) is an epoxy resin represented by formula (2)
+below. In formula (2). R<sub>f</sub>, n<sub>4</sub>, and a, b and c are defined as
+above.
+<img id="img-00150003" orientation="unknown" wi="151" img-format="tif" img-content="cf" file="00150003.tif" inline="no" he="104"/></p><p num="0048">Preferably, in the resin represented by structural
+formula (2), a is 20 to 50, b is 5 to 40, c is 20 to 70, n
+is 20 to 150, and the number average molecular weight is
+8,000 to 20,000.</p><p num="0049">A more preferred example of the epoxy resin is an
+acrylic epoxy resin (A-1) having a number average molecular
+weight of about 20,000 and represented by the following
+structural formula in which the monomer unit a is 40 mol%,
+the monomer unit b is 20 mol%, and the monomer unit c is 40
+mol%:
+<img id="img-00160001" orientation="unknown" wi="165" img-format="tif" img-content="cf" file="00160001.tif" inline="no" he="107"/></p><p num="0050">In the structure represented by formula (1) or (2),
+a 3,4-epoxycyclohexyl group is shown as an alicyclic epoxy
+group. However, the alicyclic group is not limited to this,
+and a cyclopropyl group or cyclohexyl group may be
+introduced.</p><p num="0051">The epoxy resin may be used independently. Since
+the resin has a high molecular weight, the resin is
+preferably mixed with an oligomer having a lower molecular
+weight of the resin and a solvent to improve coating
+performance for a substance to be treated with the resin
+composition and to improve the drying property of a film
+after the solvent is evaporated, thereby improving the
+workability of treatment. Namely, the resin represented by
+formula (1) or another high molecular weight resin is
+preferably used to function as a binder. The resin
+represented by formula (1) or other high molecular weight
+resin is preferably used as the binder for exposure work in
+the form of a pattern on a resin film. The oligomer is
+preferably a resin having a lower molecular weight than the
+resin represented by formula (1), but another low molecular
+weight oligomer may be used.</p><p num="0052">Although the resin composition of the present
+invention mainly comprises the epoxy resin represented by
+formula (1) and the catalyst, the resin composition
+preferably further contains at least one compatibilizer 
+according to demand. Preferred examples of the
+compatibilizer include compounds represented by the
+following formula (3) and (4):
+<img id="img-00180001" orientation="unknown" wi="153" img-format="tif" img-content="cf" file="00180001.tif" inline="no" he="35"/>
+   wherein p is an integer from 0 to 2.</p><p num="0053">A preferred example of this compound is a compound
+where p is 0, i.e., 2,2-bis(4-glycidyloxyphenyl)hexafluoropropane.
+<img id="img-00180002" orientation="unknown" wi="151" img-format="tif" img-content="cf" file="00180002.tif" inline="no" he="36"/>
+   wherein q is an integer from 0 to 2, and
+<img id="img-00180003" orientation="unknown" wi="88" img-format="tif" img-content="cf" file="00180003.tif" inline="no" he="18"/></p><p num="0054">A preferred example of this compound is a compound
+where q is 0, i.e., m-bis-[1-(2,3-epoxypropoxy)-2,2,2-trifluoro-1-(trifluoromethyl)ethyl]benzene.</p><p num="0055">The compound represented by formula (3) or (4) has
+a fluoroalkyl group, and thus the film formed by using such 
+a compound only minimally decreases the surface energy and
+has low water repellency and ink repellency because of its
+short chain length. The compound represented by formula (3)
+or (4) can be synthesized by reaction of a divalent alcohol
+and epichlorohydrin corresponding to a compound in which
+groups containing the epoxy groups at both ends are removed
+from the compound represented by general formula (3) or (4)
+by an ordinary method.</p><p num="0056">The resin composition of the present invention
+contains a polymerization initiator as a catalyst for curing
+the resin composition. In the present invention,
+particularly, the resin composition is designed so as to
+have high reactivity to an onium salt of a Lewis acid which
+is activated by an active energy ray permitting curing at
+low temperature. Therefore, the surface of a substrate can
+be selectively treated by a photolithography method using
+the resin composition, and the resin composition is suitable
+for surface modification of a substrate which cannot be
+easily maintained at high temperature. Examples of the
+catalyst include bis(4-tert-butylphenyl)iodonium salt,
+Optomer SP-150 and Optomer SP-170 (trade name, produced by
+Asahidenka Kogyo Co., Ltd.), and the like.</p><p num="0057">The chemical structure of Optomer SP-150 is
+represented by the following formula: <img id="img-00200001" orientation="unknown" wi="146" img-format="tif" img-content="cf" file="00200001.tif" inline="no" he="34"/></p><p num="0058">The chemical structure of Optomer SP-170 is
+represented by the following formula:
+<img id="img-00200002" orientation="unknown" wi="146" img-format="tif" img-content="cf" file="00200002.tif" inline="no" he="38"/></p><p num="0059">In addition, Irgacure 261 (trade name, produced by
+Chiba Specialty Co., Ltd.) represented by the following
+structural formula, and the like can also be used as the
+polymerization initiator:
+<img id="img-00200003" orientation="unknown" wi="65" img-format="tif" img-content="cf" file="00200003.tif" inline="no" he="35"/></p><p num="0060">The resin composition of the present invention is 
+preferably combined with an epoxy polymer which can
+participate in a cross-linking reaction by itself, as a
+binder polymer other than the resin represented by formula
+(1). Examples of such a polymer include an acrylic resin
+obtained by copolymerization of an acryl monomer having a
+side chain epoxy group, a vinyl polymer obtained by
+polymerization of a vinyl monomer having an alicyclic epoxy
+group in its side chain, a polyester polymer having an
+alicyclic epoxy group in its side chain (for example,
+EHPE3150, produced by Daicel Chemical Industries, Ltd.), and
+the like. If a polymer without such an epoxy group is used,
+physical properties are intentionally controlled according
+to the application thereof. Examples of such a polymer
+include general purpose polymer compounds for coating, such
+as polymers of bisphenol epoxy resins (trade names PKHC and
+PKHJ, produced by Union Carbide Co., Ltd.),
+poly(ethylene/vinyl acetate), phenol resins, polycarbonate
+resins, polyester resins, polyamide resins, soluble
+polyimide resins, and the like.</p><p num="0061">As described above, the epoxy resin composition of
+the present invention basically contains the components
+below in a nonpolar solvent.
+<sl><li>(a) epoxy resin;</li><li>(b) cationic polymerization catalyst; and</li><li>(c) compatibilizer if required.</li></sl> 
+The preferred mixing ratio of these components (a), (b) and
+(c) in the resin composition is as follows.</p><p num="0062">When the component (a) is used together with an
+oligomer, the mixing ratio depends upon the softening point
+and glass transition temperature of both components, and
+thus the ratio is not generally limited. However, the ratio
+of oligomer : component (a) is 10:90 to 90:10 (ratio by
+mass). The ratio of the catalyst (b) is in the range of 0.5
+part by mass to 7 parts by mass relative to 100 part by mass
+of the total amount of the epoxy resin components. In some
+cases, the oligomer has low compatibility with the polymer,
+and thus the compatibilizer (c) is preferably used.</p><p num="0063">The epoxy resin composition of the present
+invention is used for treating the surface of a substrate by
+heating or irradiation with an active energy ray.
+Specifically, the resin composition of the present invention
+is dissolved in an aromatic solvent, an aliphatic
+hydrocarbon solvent, an ester solvent, an ether solvent, a
+fluorocarbon solvent, or the like, and the resultant
+solution can be coated on the surface of the substrate by
+any one of various coating/printing methods such as roll
+coating, spin coating, spray coating, screen printing,
+gravure printing, etc. After the solution is coated on the
+surface of the substrate, the formed film is cured by
+heating or irradiation with an active energy ray. As a 
+source of an active energy ray for curing, a mercury lamp, a
+laser beam, an electron beam, or the like, which contains
+large amounts of bright line spectra in the range of
+wavelengths from 200 to 480 nm, is preferred.</p><p num="0064">The epoxy resin composition of the present
+invention preferably contains the binder component and is
+prepared so as to form a dry solid film. Also, the epoxy
+resin composition can facilitate selective surface treatment
+of the substrate by patterning similar to a photoresist
+process. In this case, a coating solution containing the
+resin composition of the present invention is coated on the
+substrate, and then the solvent is removed to form a dry
+film. Then, the film is irradiated with an active energy
+ray through a mask having an appropriate pattern or
+irradiated with an active energy ray in the form of a
+pattern, and then the uncured portion of the film is removed
+by development with a solvent system which can dissolve the
+film. When energy beam irradiation in the form of a pattern
+is insufficient for curing, post-curing is preferably
+performed after development. As an energy source for post-curing,
+heating with a microwave or the like or an active
+energy ray irradiation by an electron beam, ultraviolet rays,
+or the like is used.</p><p num="0065">The above-described surface modifying method of
+the present invention enables water-repellent and oil-repellent 
+treatment with excellent film adhesion to the
+substrate and surface hardness of the film, and thus has the
+great advantage that the substrate can be modified to have
+excellent durability.</p><p num="0066">In an example of application of the epoxy resin
+composition of the present invention to a liquid-jet
+recording head, for example, an ink-jet recording head, the
+nozzle surface of the liquid-jet recording head is treated
+with the resin composition of the present invention to form
+a surface which exhibits no strong adhesion of an ink and
+which has good release property, facilitating wiping of the
+ink adhering to the nozzle surface by a cleaning operation.</p><p num="0067">A cleaning mechanism may be mounted on the liquid-jet
+recording head, for example, the ink-jet recording head,
+or a cleaning method may be performed. In this regard, for
+example, the ink adhering to the orifice surface of the ink-jet
+recording head may be wiped with a rubber blade, the ink
+in a nozzle may be sucked by a pump, or the ink may be
+discharged at a position other than on a recording sheet.
+Any one of these methods cannot eliminate the phenomenon
+that small droplets of excessive ink adhere to the periphery
+of the nozzle because not all of the ink is turned into ink
+droplets when an ink column withdrawn by discharge pressure
+forms into a droplet. Therefore, if the small droplets
+spontaneously drop, are sucked back to the inside of the 
+nozzle, or are readily removed, the droplets have no
+influence on ink discharge.</p><p num="0068">The epoxy resin composition of the present
+invention can be cured at relatively low temperature to
+provide a cured film having excellent water repellency, oil
+repellency, adhesion to the substrate, chemical resistance,
+and friction resistance.</p><p num="0069">Figs. 1 and 2 show the principal portion of an
+example of the construction of a liquid-jet recording head
+to which the resin composition of the present invention can
+be applied. Fig. 1 is a sectional view taken along a flow
+path of an ink, and Fig. 2 is a perspective view of the
+liquid-jet recording head shown in Fig. 1.</p><p num="0070">The recording head 13 shown in Fig. 1 comprises a
+substrate 15 on which a discharge energy generator (17, 18,
+19) is disposed, and a member 14 laminated on the substrate
+15 by forming a predetermined pattern of a cured product of
+a thermosetting resin composition and/or an active energy
+ray curing resin composition to form at least a flow path.</p><p num="0071">The substrate 15 comprises a base 20 made of a
+material with a high heat release effect, such as alumina or
+the like, and a heat storage layer 19, an exothermic
+resistor layer 18 made of a metal, electrodes 17-1 and 17-2
+made of aluminum or the like, and a protective layer 16,
+which are laminated, in that order, on the surface of the 
+base 20. By supplying electricity to the electrodes 17-1
+and 17-2, the discharge energy generating element formed in
+a portion (in the region shown by character n in Fig. 1) of
+the exothermic resistor layer 18, in which the electrodes
+are not formed, generates heat to exert thermal energy on an
+ink positioned above the element.</p><p num="0072">In recording, in the state in which an ink 21 is
+caused to fill in a discharge orifice (orifice) 22 as a
+micro opening at the tip of the member 14, when a current is
+passed through the electrodes 17-1 and 17-2 corresponding to
+a recording signal, heat is rapidly generated from the
+region n, and bubbles occur in the ink 21 in contact with
+the region n due to film boiling to discharge the ink 21 as
+droplets 24 from the orifice 22 by the pressure of the
+bubbles. Therefore, the droplets 24 fly toward a recording
+medium 25.</p><p num="0073">In the liquid-jet recording head according to the
+present invention, a cured film 30 comprising the resin
+composition of the present invention is used as a water-repellent
+and ink-repellent agent in the peripheries of at
+least the orifice openings 22 of the orifice surface 29 (Fig.
+2), thereby preventing the droplets from adhering to the
+surface to prevent a deviation in the discharge direction of
+the droplets. In addition, the cured film comprising the
+resin composition of the present invention not only exhibits 
+excellent adhesion to the substrate, but also causes no
+deterioration in water repellency and adhesion even when the
+ink contains an organic solvent, particularly, a polar
+organic solvent.</p><p num="0074">Fig. 3 shows an example of a liquid-jet recording
+apparatus including such a multi-head as shown in Fig. 2.
+In Fig. 3, reference numeral 61 denotes a blade serving as a
+wiping member, one end of which is a fixed end held by a
+blade holding member to establish a cantilever state. The
+blade 61 is disposed at a position adjacent to a recording
+region of the recording head. In this example, the blade 61
+is held to project into the movement path of the recording
+head. Reference numeral 62 denotes a cap disposed at a home
+position adjacent to the blade 61 and is moved
+perpendicularly to the movement direction of the recording
+head to cap the orifices in contact therewith.</p><p num="0075">Furthermore, reference numeral 63 denotes an ink
+absorber provided adjacent to the blade 61 and held to
+project into the movement path of the recording head in the
+same manner as the blade 61. The blade 61, the cap 62 and
+the ink absorber 63 constitute a discharge recovery section
+64 for removing moisture, dust particles, and the like from
+the ink discharge orifice surface by the blade 61 and the
+ink absorber 63.</p><p num="0076">Reference numeral 65 denotes a recording head for 
+recording in a liquid-jet system, for example, having a
+construction in which an ink is discharged by thermal energy,
+as shown in Figs. 1 and 2. Reference numeral 66 denotes a
+carriage for moving the recording head 65 mounted thereon.
+The carriage 66 is slidably engaged with a guide shaft 67
+and partially connected (not shown in the drawing) to a belt
+69 driven by a motor 68. Therefore, the carriage 66 can be
+moved along the guide shaft 67, i.e., can be moved to the
+recording region of the recording head 65 and the adjacent
+region thereof.</p><p num="0077">Reference numeral 51 denotes a paper feed section
+into which a recording medium is inserted, and reference
+numeral 52 denotes a paper feed roller driven by a motor not
+shown in the drawing. This construction permits the
+recording medium to be fed to a position opposite to the
+discharge orifice surface of the recording head and expelled
+through a paper-expelling roller 53 as recording proceeds.</p><p num="0078">In the above-described construction, when the
+recording head 65 is returned to the home position at the
+end of recording, the cap 65 of the head recovery section 64
+retreats from the movement path of the recording head 65,
+while the blade 61 projects into the movement path. As a
+result, the orifice surface of the recording head 65 is
+wiped. When the recording head 65 is capped with the cap 62
+in contact with the orifice surface, the cap 62 is moved to 
+project into the movement path of the recording head 65.</p><p num="0079">When the recording head 65 is moved from the home
+position to the start position of recording, the cap 62 and
+the blade 61 are at the same positions as at the time of
+wiping. As a result, in this movement, the orifice surface
+of the recording head 65 is wiped. The recording head 65 is
+moved to the home position at the times of recording end and
+recovery, but the recording head 65 is also moved to the
+home position adjacent to the recording region of the
+recording head at predetermined intervals when the recording
+head 65 is moved in the recording region for recording.
+During this movement, the discharge surface is also wiped.</p><p num="0080">In color recording, the ink jet recording
+apparatus can use a recording head in which discharge
+orifices for cyan, magenta, yellow and black inks are
+arranged in parallel. Alternatively, recording heads for
+the respective colors may be arranged in parallel. In this
+case, each of the color inks may be discharged from one
+discharge orifice or simultaneously discharged from a
+plurality of discharge orifices to adhere at least two
+droplets of the same color to the recording medium.</p><p num="0081">The liquid-jet recording head of the present
+invention is subjected to surface treatment with an ink
+repellent treatment material comprising the above-described
+epoxy resin composition of the present invention and has the 
+chemical properties described in the examples below.
+Therefore, an ink adheres less, or adhered ink can be easily
+removed by a cleaning wiper blade, thereby significantly
+improving substantial retention of a print.</p><p num="0082">An example of the method of using the epoxy resin
+composition of the present invention will be described. In
+curing a film comprising the resin composition of the
+present invention with an active energy ray, as described
+above, a photo cation catalyst which releases a Lewis acid
+by light is used as a catalyst.</p><heading>Film Forming Method</heading><p num="0083">The epoxy resin composition of the present
+invention used in this method is dissolved in an organic
+solvent and used in the form of a coating solution. With a
+coating thickness of as small as several µm, an ordinary
+fine coating device such as a roll coater, a spin coater, a
+spray coater, or the like can be used. Alternatively, the
+coating solution may be coated on a release sheet to form a
+dry film, and the dry film may be bonded to the surface of a
+substrate using a laminator or the like to form a film on
+the surface of the substrate.</p><p num="0084">A first method of treating the surface of the
+substrate in the form of a pattern can be achieved by
+selectively irradiating the film with an active energy ray
+through a mask having a predetermined pattern and then 
+performing development with a developer to remove uncured
+portions of the film. Although these basic steps are the
+same as the photolithography process, a solvent or a solvent
+composition suitable for the film comprising the resin
+composition of the present invention must be selected as the
+developer. As the developer, any one of aromatic
+hydrocarbons, ketones, esters, glycol ethers, and the like,
+and mixtures thereof can be used. In order to achieve the
+completion of the curing reaction of the film, heating or
+active energy ray irradiation is preferably performed as
+post-curing after development.</p><p num="0085">A second method of treating the surface of the
+substrate in the form of a pattern comprises the first step
+(1) of coating the coating solution on the substrate and
+drying the coating to form a film, the second step (2) of
+irradiating the whole surface with an active energy ray
+which accelerates polymerization to cure the film, and the
+third step (3) of irradiating the film with a decay active
+energy ray to selectively remove a desired portion of the
+cured-portion of the film. As the active energy ray for
+accelerating polymerization, ultraviolet rays rich in light
+at wavelengths from 250 to 480 µm can be used. As the decay
+active energy ray, light at wavelengths of 210 µm or less,
+an excimer laser, or the like can be used. In the second
+method, in order to complete curing of the film, the film is 
+preferably heat-treated or irradiated with a polymerizing
+active energy ray in any one of the steps.</p><p num="0086">As described above, the epoxy resin composition of
+the present invention is useful as a water repellent agent
+or water repellent coating material applied to a surface
+which may come into contact with a solution or a material
+containing a component such as a polar organic solvent,
+which deteriorates the adhesion of the water repellent agent.
+The epoxy resin composition can also be used for water
+repellent and ink repellent treatment of the discharge
+orifice surface of the liquid-jet recording head.</p><heading>Examples</heading><p num="0087">The present invention is described in further
+detail below with reference to examples and comparative
+examples. In the description below, "%" represents a
+percent by mass unless otherwise specified. Examples of the
+construction of the resin composition of the present
+invention are described below. In the description below, a
+ratio-represents a ratio by mass of a solid content, and
+resin A-1 represents the above-described resin example.</p><heading>Composition Example 1</heading><p num="0088">Resin A-1:Optomer AP-170 = 96:4 (used in Example 1
+below)</p><heading>Composition example 2</heading><p num="0089">Resin A-1:Optomer AP-170 = 94:6 (used in Example 2
+below)</p><heading>Composition Example 3</heading><p num="0090">Resin A-1:0ptomer AP-170:1,4-bis(2-hydroxyhexafluoroisopropyl)benzene
+= 95:5:25 (used in
+Example 3 below)</p><heading>Composition Example 4</heading><p num="0091">Resin A-1:Optomer AP-170:1,4-bis(2-hydroxyhexafluoroisopropyl)benzene:2,2-bis(4-glycidyloxyphenyl)hexafluoropropane
+= 80:5:25:25 (used in
+Example 4 below)</p><heading>Examples 1 to 4</heading><p num="0092">Each of Composition Examples 1 to 4 was added to
+diethylene glycol dimethyl ether as a solvent and dissolved
+therein to form a 30% to 40% solution. Then, each of the
+prepared solutions was applied to a silicon wafer substrate
+having a 5-µm thick thermally oxidized film by means of a
+spinner to have a thickness of 1 to 3 µm in a wet state.
+Then, the substrate was dried on a hot plate at 110°C for 5
+minutes to remove the solvent. Then, the substrate was
+irradiated with ultraviolet rays to an accumulated dose of 2
+J/cm<sup>2</sup> by means of an ultraviolet ray irradiation apparatus
+using a high-pressure mercury lamp. Thereafter, the
+substrate was heated in a furnace at 150°C for 15 minutes to 
+complete the curing reaction. The thus-formed four
+substrates were measured as described below.</p><heading>T1: Measurement of contact angle</heading><p num="0093">The static contact angle of the cured film of each
+of the substrates was measured using pure water, a 10%
+aqueous solution of oleic acid, a 20% aqueous solution of
+glycerin, and a 1% aqueous solution of a surfactant
+(polyoxyethylene nonyl phenyl ether; HLB = 10) at room
+temperature.</p><heading>T2: Measurement of contact angle after immersion in a water
+dispersion of dye</heading><p num="0094">Each of the substrates having the cured films was
+immersed in an aqueous solution (pH = 10.3) containing 5%
+carbon black and 1% styrene/acrylic acid copolymer at 60°C
+for 7 days. Then, each of the substrates was cleaned with
+pure water and then dried, and the contact angle of an ink
+was measured again by the same method as the above-described
+measurement T1.</p><heading>T3: Long-term printing durability</heading><p num="0095">As shown in Figs. 4A to 4C, positive type
+photoresist (trade name ODUR-1010, produced by Tokyo Ohka
+Kogyo Co., Ltd.) was coated to a thickness of 13 µm on a
+substrate 401 to be treated; the substrate had been
+previously provided with discharge energy generating
+elements 402, by spin coating to form a resist layer 403, as 
+shown in Fig. 4C. Then, an epoxy resin composition having
+the composition shown in Table 1 was deposited to a
+thickness of 25 µm as a flow path forming material 501 on
+the resist layer 403, as shown in Fig. 5A.
+<tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">Construction of Epoxy Resin Composition</entry></row><row><entry align="center">Composition</entry><entry align="center">Parts by mass</entry></row><row><entry align="left">Cyclic epoxy resin (EHPE3150, Daicel Chemical Co., Ltd.)</entry><entry align="center">95</entry></row><row><entry align="left">NUC silane coupling agent A-187 (produced by Nippon Uniker Co., Ltd.)</entry><entry align="center">5</entry></row><row><entry align="left">Optomer SP-170 (produced by Asahi Denka Kogyo Co., Ltd.)</entry><entry align="center">2</entry></row><row><entry align="left">Diethylene glycol dimethyl ether</entry><entry align="center">100</entry></row></tbody></tgroup></table></tables></p><p num="0096">After the flow path forming material layer 501 was
+deposited, it was dried at 80°C on a hot plate for 3 minutes.
+Then, a solution of each of Examples 1 to 4, respectively
+containing Composition Examples 1 to 4, was coated on the
+deposited layer by spin coating to form a film 502, as shown
+in Fig. 5B. The thus-formed first (501) and second (502)
+photosensitive resin layers were exposed to ultraviolet rays
+of 1.0 J/cm<sup>2</sup> through a mask having the pattern of a discharge 
+orifice portion using Canon mask analyzer MPA600, heat-treated
+at 90°C for 4 minutes, and then immersed in a
+developer containing MIBK and xylene at a ratio of 2:3 to
+form discharge orifices 503 (Fig. 5C). Then, as shown in
+Fig. 6A, an ink supply port 601 was formed at the back of
+the Si substrate 401 by anisotropic etching, and, as shown
+in Fig. 6B, the resist layer 403 was finally removed.
+Furthermore, the first (501) and second (502) photosensitive
+resin layers were heat-treated at 200°C for 1 hour for the
+purpose of completely curing the layers to-complete nozzles.</p><p num="0097">The thus-obtained nozzles were incorporated into
+an ink-jet recording head and electrically wired in a
+predetermined manner. The ink-jet recording head was
+mounted in a printer, and a long-term printing durability
+test was conducted using an ink-jet ink comprising pure
+water, glycerin, food black 2 (water-soluble black dye), and
+N-methylpyrrolidone at a ratio of 70:15:3:12 (parts by mass).</p><p num="0098">The printing durability test was conducted by
+printing a document and a pattern for evaluation of ink
+landing precision on 100 sheets of paper. Finally, the
+distortion of the printed dots was observed by referring to
+a sample print. The results are shown in column T3-1 in
+Table 2.
+<sl><li>Rank A: Dot positions were not replaced, and printed
+characters were clear. </li><li>Rank B: Dot positions were slightly replaced, and printed
+characters were only slightly affected by the displacement.</li><li>Rank C: Dot positions were considerably replaced, and
+clarity of printed characters was poor.</li><li>Rank D: A considerable number of dots were missing, and
+printed characters were of a poor quality.</li></sl></p><p num="0099">In addition, the surface of each of the recording
+heads used was observed after the test to evaluate ink
+adhesion. The results are shown in column T3-2 in Table 2.
+Rank A: Ink droplets were scarcely observed on the nozzle
+surface.
+<sl><li>Rank B: Small ink droplets were observed on the nozzle
+surface.</li><li>Rank C: Large ink droplets were observed near the discharge
+port of the nozzle.</li></sl></p><heading>Comparative Example 1</heading><p num="0100">Each of the measurements T1 to T3 was performed by
+the same method as in Example 1, except that bisphenol AF
+(the structure below), which is a fluorine-containing epoxy
+resin, was used in place of the epoxy resin of Example 1.
+<img id="img-00370001" orientation="unknown" wi="142" img-format="tif" img-content="cf" file="00370001.tif" inline="no" he="34"/></p><heading>Comparative Example 2</heading><p num="0101">Instead of the epoxy resin composition used in the
+present invention, Flurorad TM FC-722 (fluoro-coating agent,
+produced by Sumitomo 3M) was coated on a molded plate of
+polyether sulfone using a spinner so that the thickness
+after evaporation of the solvent was about 2 µm. Then, the
+surface of the resultant coating was treated by drying at
+100°C for 30 minutes. Then, this plate was irradiated with
+an exicmer laser at a wavelength of 195 µm, which was
+converged to a beam diameter of 5 µm, from above to form a
+nozzle opening. However, the opening could not be
+satisfactorily formed, and a large amount of decomposition
+residue was produced at the edge, thereby causing a
+nonuniform surface state. Under this condition, a substrate
+was formed by the same method as Example 1, and the same
+evaluations as T1 to T3 were performed by the same methods
+as Example 1. The results are shown in Table 2. <tables><table><tgroup cols="9"><tbody><row><entry nameend="9" namest="1">Results of Evaluation</entry></row><row><entry align="center" namest="1"/><entry nameend="5" align="center" namest="2">T1: Contact angle (°)</entry><entry nameend="7" align="center" namest="6">T2:Immersion Test Contact Angle (°)</entry><entry nameend="9" align="center" namest="8">T3: Long-Term Printing Durability Test</entry></row><row><entry align="left">composition</entry><entry align="center">pure water</entry><entry align="center">oleic acid</entry><entry align="center">glycerin</entry><entry align="center">surfactant</entry><entry align="center">before</entry><entry align="center">after</entry><entry align="center">T3-1</entry><entry align="center">T3-2</entry></row><row><entry align="left">Example 1</entry><entry align="center">97</entry><entry align="center">86</entry><entry align="center">96</entry><entry align="center">91</entry><entry align="center">90</entry><entry align="center">80</entry><entry align="center">A</entry><entry align="center">B</entry></row><row><entry align="left">Example 2</entry><entry align="center">104</entry><entry align="center">91</entry><entry align="center">100</entry><entry align="center">86</entry><entry align="center">93</entry><entry align="center">81</entry><entry align="center">A</entry><entry align="center">A</entry></row><row><entry align="left">Example 3</entry><entry align="center">105</entry><entry align="center">95</entry><entry align="center">105</entry><entry align="center">90</entry><entry align="center">95</entry><entry align="center">85</entry><entry align="center">B</entry><entry align="center">A</entry></row><row><entry align="left">Example 4</entry><entry align="center">106</entry><entry align="center">98</entry><entry align="center">106</entry><entry align="center">93</entry><entry align="center">98</entry><entry align="center">88</entry><entry align="center">A</entry><entry align="center">A</entry></row><row><entry align="left">Comp. Example 1</entry><entry align="center">88</entry><entry align="center">72</entry><entry align="center">87</entry><entry align="center">80</entry><entry align="center">90</entry><entry align="center">74</entry><entry align="center">C</entry><entry align="center">C</entry></row><row><entry align="left">Comp. Example 2</entry><entry align="center">105</entry><entry align="center">97</entry><entry align="center">108</entry><entry align="center">92</entry><entry align="center">106</entry><entry align="center">90</entry><entry align="center">C</entry><entry align="center">C</entry></row></tbody></tgroup></table></tables></p><p num="0102">As described above, a film comprising the resin
+composition of the present invention exhibits a large
+contact angle and excellent durability. Therefore, an ink
+would not adhere to the surface of the printing head even if
+the surface is held in contact with an ink for a long period
+of time so that ink droplets have excellent landing
+precision, and a high printing quality could be maintained
+for a long period of time.</p><heading>Example 5</heading><p num="0103">Each of Composition Examples 1 and 3, respectively
+used in Examples 1 and 3, was coated on a molded plate of
+polyether sulfone using a spinner so that the thickness 
+after evaporation of the solvent was about 2 µm and then
+dried. Then, this plate was irradiated with light with a
+total of 10 J/cm<sup>2</sup> from a high-pressure mercury lamp to
+perform polymerization curing of the film. Then, the plate
+was irradiated with an excimer laser at a wavelength of 195
+µm, which was converged to a beam diameter of 5 µm, from
+above to form a nozzle opening. The opening was
+satisfactorily formed, and no decomposition residue was
+produced at the edge. As a result, it was found that the
+composition of the present invention has excellent
+suitability to processing with an ultraviolet laser,</p><p num="0104">As described above, according to the present
+invention, there is provided a resin composition suitable as
+a water-repellent agent or water-repellent coating material
+which can be applied to a surface which is apt to be brought
+into contact with a solution or substance containing a
+component that can damage the film forming property and
+adhesion of the water-repellent agent. Also, according to
+the present invention, there is provided a resin composition
+permitting surface modifying treatment, thereby making it
+possible to maintain in clear state.</p><p num="0105">Furthermore, according to the present invention,
+there is provided an ink-jet recording head and liquid-jet
+recording apparatus in which the surface of a nozzle can be
+maintained in a clear state by treating the substrate with 
+the resin composition of the present invention so that ink
+would not adhere to the surface of a printing head even if
+it is in contact with the ink for a long period of time,
+thereby improving the landing precision of dots, and
+maintaining a print quality for a long time.</p><p num="0106">While the present invention has been described
+with reference to what are presently considered to be the
+preferred embodiments, it is to be understood that the
+invention is not limited to the disclosed embodiments. On
+the contrary, the invention is intended to cover various
+modifications and equivalent arrangements included within
+the spirit and scope of the appended claims. The scope of
+the following claims is to be accorded the broadest
+interpretation so as to encompass all such modifications and
+equivalent structures and functions.</p><p num="0107">An epoxy resin composition can be used for forming a
+film having excellent water-repellency on a substrate
+surface. The epoxy resin composition contains (a) an epoxy
+resin having at least two alicyclic epoxy groups, at least
+one perfluoroalkyl group having 6 to 12 carbon atoms, and at
+least one alkylsiloxane group and (b) a cationic
+polymerization catalyst. The alicyclic epoxy groups and the
+perfluoroalkyl group are present in branched chains of the
+epoxy resin, and the alkylsiloxane group is present in the
+main chain of the epoxy resin.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An epoxy resin composition comprising an epoxy
+resin and a cationic polymerization catalyst, wherein the
+epoxy resin has at least two alicyclic epoxy groups, at
+least one perfluoroalkyl group having 6 to 12 carbon atoms,
+and at least one alkylsiloxane group in its moledule; and
+wherein the alicyclic epoxy groups, the perfluoroalkyl group
+and the cyclic group are present in branched chains of the
+epoxy resin, and the alkylsiloxane group is present in the
+main chain of the epoxy resin.</claim-text></claim><claim num="2"><claim-text>The epoxy resin composition according to claim 1,
+wherein the epoxy resin is represented by formula (1):
+
+wherein a is an integer from 1 to 50, b is an integer from 1
+to 50, c is an integer from 2 to 100, each of n1, n2, n3, n5,
+n6 and n7 is an integer from 1 to 5, n4 is an integer from 2
+to 200, each of R1, R4, R5, R6, R7, and R10 is independently a
+hydrogen atom or a straight or branched alkyl group having 1
+to 3 carbon atoms, each of R2, R3, R8 and R9 is independently
+a hydrogen atom, a straight or branched alkyl group having 1
+to 3 carbon atoms, or a nitrile group, and Rf is a
+perfluoroalkyl group having 6 to 12 carbon atoms.</claim-text></claim><claim num="3"><claim-text>The epoxy resin composition according to claim 1 or
+2, wherein the epoxy resin is represented by formula (2):
+
+wherein Rf, n4, a, b, and c are defined according to the
+formula (1).</claim-text></claim><claim num="4"><claim-text>The epoxy resin composition according to any one of
+claims 1 to 3, wherein the cationic polymerization catalyst
+comprises an onium salt of a Lewis acid.</claim-text></claim><claim num="5"><claim-text>The epoxy resin composition according to any one of
+claims 1 to 4, further comprising at least one compound
+represented by (3) or (4):
+
+   wherein p is an integer from 0 to 2
+
+   wherein q is an integer from 0 to 2, and
+</claim-text></claim><claim num="6"><claim-text>A surface treatment method for selectively treating
+a surface of a substrate, the method comprising the steps
+of:
+<claim-text><claim-text>(i) coating an epoxy resin composition according to any
+one of claims 1 to 5 on the surface of the substrate to form
+a film;</claim-text><claim-text>(ii) irradiating at least a portion of the film with an
+active energy ray; and</claim-text><claim-text>(iii) dissolving at least a portion of the film which
+was not irradiated in a liquid capable of dissolving the
+film to remove the at least a portion of the film which was
+not irradiated.</claim-text></claim-text></claim-text></claim><claim num="7"><claim-text>A surface treatment method for selectively treating
+a surface of a substrate, the method comprising the steps
+of:
+<claim-text><claim-text>(i) coating an epoxy resin composition according to any
+one of claims 1 to 5 on the surface of the substrate to form
+a film;</claim-text><claim-text>(ii) curing at least a portion of the film by
+polymerizaiton; and</claim-text><claim-text>(iii) removing an uncured portion of the film.</claim-text></claim-text></claim-text></claim><claim num="8"><claim-text>A liquid-jet recording head comprising a discharge
+orifice for discharging a liquid, wherein at least the
+periphery of the discharge orifice is coated with a cured
+film of an epoxy resin composition according to any one of
+claims 1 to 5.</claim-text></claim><claim num="9"><claim-text>A liquid-jet recording apparatus comprising a
+liquid-jet recording head according to claim 8.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

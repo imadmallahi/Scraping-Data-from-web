@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1609785-A1" country="EP" doc-number="1609785" kind="A1" lang="EN" date="20051228" family-id="32984648" date-produced="20090516" status="new"><bibliographic-data><publication-reference fvid="24528355" ucid="EP-1609785-A1" status="new"><document-id status="new" format="original"><country>EP</country><doc-number>1609785</doc-number><kind>A1</kind><date>20051228</date></document-id></publication-reference><application-reference ucid="EP-04720254-A" status="new" is-representative="NO"><document-id format="epo" status="new"><country>EP</country><doc-number>04720254</doc-number><kind>A</kind><date>20040312</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2003070297-A" status="new"><document-id format="epo" status="new"><country>JP</country><doc-number>2003070297</doc-number><kind>A</kind><date>20030314</date></document-id></priority-claim><priority-claim ucid="JP-2004003324-W" status="new"><document-id format="epo" status="new"><country>JP</country><doc-number>2004003324</doc-number><kind>W</kind><date>20040312</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A61K  31/351       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/351       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/381       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/381       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/403       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/4035      20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/404       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/41        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/41        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/4164      20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/4184      20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/423       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/423       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/428       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/428       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/4427      20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/4433      20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/4965      20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/497       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/5375      20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/5377      20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61P   3/00        20060101C I20060521RMWO        </classification-ipcr><classification-ipcr status="new">A61P   3/04        20060101A I20060521RMWO        </classification-ipcr><classification-ipcr status="new">A61P   3/10        20060101A I20060521RMWO        </classification-ipcr><classification-ipcr status="new">C07D 207/00        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 207/06        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 309/00        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 309/10        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 333/00        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 333/12        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 333/16        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 333/54        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 405/00        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 405/04        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 405/10        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 407/00        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 407/04        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 409/00        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 409/04        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 409/10        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 409/14        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 413/00        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 413/10        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 417/00        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 417/10        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 493/00        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 493/04        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 495/00        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C07D 495/04        20060101A I20060722RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">A61K  31/351</classification-symbol><classification-symbol scheme="EC">A61K  31/381</classification-symbol><classification-symbol scheme="EC">A61K  31/4035</classification-symbol><classification-symbol scheme="EC">A61K  31/404</classification-symbol><classification-symbol scheme="EC">A61K  31/41</classification-symbol><classification-symbol scheme="EC">A61K  31/4184</classification-symbol><classification-symbol scheme="EC">A61K  31/423</classification-symbol><classification-symbol scheme="EC">A61K  31/428</classification-symbol><classification-symbol scheme="EC">A61K  31/4433</classification-symbol><classification-symbol scheme="EC">A61K  31/497</classification-symbol><classification-symbol scheme="EC">A61K  31/5377</classification-symbol><classification-symbol scheme="EC">C07D 207/06</classification-symbol><classification-symbol scheme="EC">C07D 309/10</classification-symbol><classification-symbol scheme="EC">C07D 333/12</classification-symbol><classification-symbol scheme="EC">C07D 333/16</classification-symbol><classification-symbol scheme="EC">C07D 333/54D</classification-symbol><classification-symbol scheme="EC">C07D 405/04</classification-symbol><classification-symbol scheme="EC">C07D 405/10</classification-symbol><classification-symbol scheme="EC">C07D 407/04</classification-symbol><classification-symbol scheme="EC">C07D 407/10</classification-symbol><classification-symbol scheme="EC">C07D 409/04</classification-symbol><classification-symbol scheme="EC">C07D 409/10</classification-symbol><classification-symbol scheme="EC">C07D 409/14</classification-symbol><classification-symbol scheme="EC">C07D 413/10</classification-symbol><classification-symbol scheme="EC">C07D 417/10</classification-symbol><classification-symbol scheme="EC">C07D 493/04+311B+311B+3</classification-symbol><classification-symbol scheme="EC">C07D 495/04</classification-symbol><classification-symbol scheme="EC">C07D 495/04+333B+333B</classification-symbol><classification-symbol scheme="ICO">M07D207:06</classification-symbol><classification-symbol scheme="ICO">M07D309:10</classification-symbol><classification-symbol scheme="ICO">M07D333:12</classification-symbol><classification-symbol scheme="ICO">M07D333:16</classification-symbol><classification-symbol scheme="ICO">M07D333:54D</classification-symbol><classification-symbol scheme="ICO">M07D405:04</classification-symbol><classification-symbol scheme="ICO">M07D405:10</classification-symbol><classification-symbol scheme="ICO">M07D407:10</classification-symbol><classification-symbol scheme="ICO">M07D409:10</classification-symbol><classification-symbol scheme="ICO">M07D413:10</classification-symbol><classification-symbol scheme="ICO">M07D417:10</classification-symbol><classification-symbol scheme="ICO">M07D495:04</classification-symbol></classification-ecla><invention-title lang="DE" load-source="ep" status="new">C-GLYCOSIDDERIVATE UND DEREN SALZE</invention-title><invention-title lang="EN" load-source="ep" status="new">C-GLYCOSIDE DERIVATIVES AND SALTS THEREOF</invention-title><invention-title lang="FR" load-source="ep" status="new">DERIVES DE C-GLYCOSIDE ET SELS CORRESPONDANTS</invention-title><citations><patent-citations><patcit ucid="WO-2005012326-A1" status="new"><document-id format="epo" status="new"><country>WO</country><doc-number>2005012326</doc-number><kind>A1</kind></document-id><sources><source name="SEA" category="E" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>CULLMANN, FRANK ET AL:  "Chemistry and biology of moss. 140. Lignans from the liverwort Lepicolea ochroleuca" PHYTOCHEMISTRY, 52(8), 1651-1656 CODEN: PYTCAS; ISSN: 0031-9422, 1999, XP004291189</text><sources><source name="SEA" category="X" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE CAPLUS [Online] CHEMICAL ABSTRACTS SERVICE, COLUMBUS, OHIO, US; 1986, RYBACHENKO, A. I. ET AL: "Basicity constants of natural isoflavonoids" XP002494512 retrieved from STN Database accession no. 1986:230309 &amp;  KHIMIYA PRIRODNYKH SOEDINENII, (6), 773-5 CODEN: KPSUAR; ISSN: 0023-1150, 1985,</text><sources><source name="SEA" category="X" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>EL TELBANI, EMAD ET AL:  "Synthesis of bis(C-glycosyl)flavonoid precursors" CARBOHYDRATE RESEARCH, 306(3), 463-467 CODEN: CRBRAT; ISSN: 0008-6215, 1998, XP004121163</text><sources><source name="SEA" category="X" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>JAIN, S. M. ET AL:  "Synthesis and antiinflammatory activity of glycosidated 4-aryl-1,4-dihydropyridines" INDIAN JOURNAL OF CHEMISTRY, SECTION B: ORGANIC CHEMISTRY INCLUDING MEDICINAL CHEMISTRY,  29B(1), 95-7 CODEN: IJSBDB; ISSN: 0376-4699, 1990, XP008096032</text><sources><source name="SEA" category="X" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>KUMAZAWA, T. ET AL:  "Cleavage of the C-C linkage between the sugar and the aglycon in C-glycosylphloroacetophenone, and the NMR spectral characteristics of the resulting di-C-glycosyl compound" CARBOHYDRATE RESEARCH, 334(3), 207-213 CODEN: CRBRAT; ISSN: 0008-6215, 2001, XP004300260</text><sources><source name="SEA" category="X" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>KUMAZAWA, TOSHIHIRO ET AL:  "Synthesis of 1-[3,5-bis-(2,3,4,6-tetra-O-acetyl-.beta.- D- glucopyranosyl)-2,4,6-trihydroxyphenyl]eth anone: an intermediate of potential usefulness for synthesis of bis-C-glucosyl flavonoids" CARBOHYDRATE RESEARCH, 297(4), 379-383 CODEN: CRBRAT; ISSN: 0008-6215, 1997, XP004172604</text><sources><source name="SEA" category="X" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>KURIBAYASHI, TAKESHI ET AL:  "The sequential double aryl C-glycosidation: introduction of a second sugar unit onto mono aryl C-glycosides using SnCl4/AgOTfa" TETRAHEDRON LETTERS, 39(25), 4541-4542 CODEN: TELEAY; ISSN: 0040-4039, 1998, XP004120734</text><sources><source name="SEA" category="X" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>See also references of WO  2004080990A1</text><sources><source name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant format="epo" status="new"><addressbook><name>ASTELLAS PHARMA INC</name><address><country>JP</country></address></addressbook></applicant><applicant format="epo" status="new"><addressbook><name>KOTOBUKI PHARMACEUTICAL CO LTD</name><address><country>JP</country></address></addressbook></applicant><applicant format="intermediate" status="new"><addressbook><name>ASTELLAS PHARMA INC.</name></addressbook></applicant><applicant format="intermediate" status="new"><addressbook><name>KOTOBUKI PHARMACEUTICAL CO., LTD.</name></addressbook></applicant><applicant format="original" status="new"><addressbook><last-name>Astellas Pharma Inc.</last-name><address><street>3-11, Nihonbashi-Honcho 2-chome, Chuo-ku</street><city>Tokyo 103-8411</city><country>JP</country></address></addressbook></applicant><applicant format="original" status="new"><addressbook><last-name>Kotobuki Pharmaceutical Co., Ltd.</last-name><address><street>6351, Oaza Sakaki, Sakaki-machi</street><city>Hanishina-gun, Nagano 389-0697</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor format="epo" status="new"><addressbook><name>IKEGAI KAZUHIRO</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>IMAMURA MASAKAZU</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>IWASAKI FUMIYOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>KITTA KAYOKO</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>KOBAYASHI YOSHINORI</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>KUROSAKI EIJI</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>MURAKAMI TAKESHI</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>NODA ATSUSHI</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>SHIRAKI RYOTA</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>SUGANE TAKASHI</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>TOMIYAMA HIROSHI</name><address><country>JP</country></address></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>IKEGAI, KAZUHIRO</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>IMAMURA, MASAKAZU</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>IWASAKI, FUMIYOSHI</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>KITTA, KAYOKO</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>KOBAYASHI, YOSHINORI</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>KUROSAKI, EIJI</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>MURAKAMI, TAKESHI</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>NODA, ATSUSHI</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>SHIRAKI, RYOTA</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>SUGANE, TAKASHI</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>TOMIYAMA, HIROSHI</name></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>IKEGAI, Kazuhiro, Astellas Pharma Inc.</last-name><address><street>3-11, Nihonbashi-honcho 2-chome</street><city>Chuo-ku, Tokyo 1038411</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>IMAMURA, Masakazu, Astellas Pharma Inc.</last-name><address><street>3-11, Nihonbashi-honcho 2-chome</street><city>Chuo-ku, Tokyo 1038411</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>IWASAKI, Fumiyoshi, ASTELLAS PHARMA INC.</last-name><address><street>3-11, Nihonbashi-honcho 2-chome</street><city>Chuo-ku, Tokyo 1038411</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>KITTA, Kayoko, Kotobuki Pharmaceutical Co. Ltd.</last-name><address><street>6351, Oaza-Sakaki, Sakaki-machi</street><city>Hanishina-gun, Nagano 3890697</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>KOBAYASHI, Yoshinori, Kotobuki Pharma. Co. Ltd.</last-name><address><street>6351, Oaza-Sakaki, Sakaki-machi</street><city>Hanishina-gun, Nagano 3890697</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>KUROSAKI, Eiji, ASTELLAS PHARMA INC.</last-name><address><street>3-11, Nihonbashi-honcho 2-chome</street><city>Chuo-ku, Tokyo 1038411</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>MURAKAMI, Takeshi, Astellas Pharma Inc.</last-name><address><street>3-11, Nihonbashi-honcho 2-chome</street><city>Chuo-ku, Tokyo 1038411</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>NODA, Atsushi, Kotobuki Pharma. Co. Ltd.</last-name><address><street>6351, Oaza-Sakaki, Sakaki-machi</street><city>Hanishina-gun, Nagano 3890697</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>SHIRAKI, Ryota, Astellas Pharma Inc.</last-name><address><street>3-11, Nihonbashi-honcho 2-chome</street><city>Chuo-ku, Tokyo 1038411</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>SUGANE, Takashi, ASTELLAS PHARMA INC.</last-name><address><street>3-11, Nihonbashi-honcho 2-chome</street><city>Chuo-ku, Tokyo 1038411</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>TOMIYAMA, Hiroshi, Kotobuki Pharma. Co. Ltd.</last-name><address><street>6351, Oaza-Sakaki, Sakaki-machi</street><city>Hanishina-gun, Nagano 3890697</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent format="original" status="new"><addressbook><last-name>HOFFMANN EITLE</last-name><address><street>Patent- und Rechtsanwälte Arabellastrasse 4</street><city>D-81925 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><pct-or-regional-filing-data ucid="JP-2004003324-W" status="new"><document-id status="new" format="original"><country>JP</country><doc-number>2004003324</doc-number><kind>W</kind></document-id></pct-or-regional-filing-data><pct-or-regional-publishing-data ucid="WO-2004080990-A1" status="new"><document-id status="new" format="original"><country>WO</country><doc-number>2004080990</doc-number><kind>A1</kind><date>20040923</date></document-id></pct-or-regional-publishing-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country> <country>HU</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country> <country>MC</country> <country>NL</country> <country>PL</country><country>PT</country><country>RO</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract lang="EN" load-source="ep" status="new"><p>The present invention provides C-glycoside derivatives and
+salts thereof, wherein B ring is bonded to A ring via -X- and A ring
+is directly bonded to the glucose residue, and it is usable as a
+Na<sup>+</sup>-glucose cotransporter inhibitor, especially for a therapeutic
+and/or preventive agent for diabetes such as insulin-dependent
+diabetes (type 1 diabetes) and insulin-independent diabetes (type 2
+diabetes), as well as diabetes related diseases such as an
+insulin-resistant diseases and obesity.</p></abstract><description lang="EN" load-source="ep" status="new"><heading>FIELD OF THE INVENTION</heading><p num="0001">The present invention relates to C-glycoside derivatives and
+salts thereof. More particularly, the present invention relates to
+C-glycoside derivatives and salts thereof useful as a Na<sup>+</sup>-glucose
+cotransporter inhibitor. C-glycoside derivatives and salts thereof
+of the present invention are useful for treatment of various
+diabetes-related diseases inclusive of insulin-dependent diabetes
+(type 1 diabetes), insulin-independent diabetes (type 2 diabetes),
+insulin-resistant diseases and obesity, and the prevention of these
+diseases.</p><heading>BACKGROUND OF THE INVENTION</heading><p num="0002">In recent years, a medicine to inhibit glucose-reabsorption
+by Na<sup>+</sup>-glucose cotransporters (SGLT) in the intestinal tract and
+kidney (a Na<sup>+</sup>-glucose cotransporter inhibitor) has been demanded
+as an antidiabetic agent to rapidly normalize hyperglycemia and
+improve the energy balance in the body. Such a Na<sup>+</sup>-glucose
+cotransporter inhibitor has been expected as an excellent agent for
+treating or preventing various diabetes-related diseases such as
+insulin-dependent diabetes (type 1 diabetes) and insulin-independent
+diabetes (type 2 diabetes), as well as insulin-resistant
+diseases and obesity.</p><p num="0003">As compounds used for the Na<sup>+</sup>-glucose cotransporter 
+inhibitor, phloridzin described in Welch, C.A. et al. (J. Natr., 1989,
+119(11) 1698) and synthetic O-glycoside derivatives described in
+Hongu, M. et al. (Chem. Pharm. Bull., 1998, 46(1) 22) and
+JP-A-11-21243 are known, for example. These compounds are
+reported to discharge excess blood glucose into urine and reduce
+blood glucose level by inhibiting glucose-reabsorption by
+Na<sup>+</sup>-glucose cotransporters in the intestinal tract or in the kidney.</p><p num="0004">However, because any of these compounds is an O-glycoside
+derivative comprising an O-glucoside bond formed between glucose
+and an aglycon moiety, it has a problem that the inhibition effect is
+reduced due to hydrolysis of O-glucoside bond by glucosidase or the
+like in the small intestine when orally absorbed.</p><p num="0005">In addition, in the case of phloridin, phloretin, which is an
+aglycon moiety of phloridin, is known as a strong inhibitor for a
+facilitated diffusion-type glucose transporter. For example, it is
+reported that the cerebral glucose concentration decreases when
+phloretin is administered to the vein of a rat (e.g. Stroke, 1983, 14,
+388). Phloretin is also known as an inhibitor of a vitamin C
+transporter (Wang, Y. et al., Biochem. Biophys. Res. Commun., 2000,
+267, 488-494).</p><p num="0006">Therefore, an attempt has been made to use a C-glycoside
+prepared by converting oxygen in the glucoside bond of the
+O-glycoside to carbon as the Na<sup>+</sup>-glucose cotransporter inhibitor.</p><p num="0007">For example, JP-A-2001-288178 (Patent Document 1)
+describes that compounds of the following formula are effective in
+inhibiting Na<sup>+</sup>-glucose cotransporters and are useful as a treating
+agent or preventing agent for diabetes and a hypoglycemic agent. <img file="00030001.tif" id="img-00030001" he="56" wi="87" img-format="tif" img-content="cf" orientation="unknown" inline="no"/>
+wherein R<sup>1</sup> represents H, OH, lower alkyl group, -0-lower alkyl
+group, or the like; R<sup>2</sup> represents H, -COO-lower alkyl group, or the
+like; R<sup>5</sup> represents -CH<sub>2</sub>OH, -CH<sub>2</sub>OCOO- lower alkyl group, or the
+like; A<sub>1</sub> represents pyridine, furan, thiophene, quinoline, indole, or
+the like; n is 0, 1, 2, or 3, and m is 0 or 1 (See Patent Document 1 for
+further details on the symbols of the above formula).</p><p num="0008">In addition, the pamphlet of WO 01/27128 (Patent Document
+2) describes that a compound of the following formula can be used
+as the Na<sup>+</sup>-glucose cotransporter inhibitor to treat obesity or type 2
+diabetes.
+<img file="00030002.tif" id="img-00030002" he="54" wi="88" img-format="tif" img-content="cf" orientation="unknown" inline="no"/>
+wherein R<sup>1</sup>, R<sup>2</sup>, and R<sup>2a</sup> individually represent a hydrogen atom,
+OH, OR<sup>5</sup>, alkyl, CF<sub>3</sub>, OCHF<sub>2</sub>, OCF<sub>3</sub>, or the like; R<sup>3</sup> and R<sup>4</sup>
+individually represent a hydrogen atom, OH, OR<sup>5a</sup>, -O-aryl, 
+-O-CH<sub>2</sub>-aryl, alkyl, cycloalkyl, CF<sub>3</sub>, or the like; A represents O, S,
+NH, or (CH<sub>2</sub>)<sub>n</sub>, and n is 0, 1, 2, or 3 (See Patent Document 2 for
+further details on the symbols of the above formula).</p><p num="0009">As explained above, the C-glycoside derivatives are useful to
+a certain extent for treating diabetes due to the effect of inhibiting
+a Na<sup>+</sup>-glucose cotransporter. However, due to the recent rise in
+incidence of diabetes which is a lifestyle-related disease and could
+even be called one of the most popular diseases in Japan,
+compounds having a chemical structure different from that of
+known compounds and showing the effect of inhibiting Na<sup>+</sup>-glucose
+cotransporters more rapidly and more significantly have been
+increasingly desired for the clinical practice of diabetes treatment
+or the like.</p><heading>DISCLOSURE OF THE INVENTION</heading><p num="0010">The present inventors have found that C-glycoside
+derivatives, which have B ring ((1) a saturated or an unsaturated
+eight to ten-membered bicyclic hetero ring having 1 to 4 hetero
+atom(s) selected from N, S, and O, (2) a saturated or an
+unsaturated five or six-membered monocyclic hetero ring having 1
+to 4 hetero atom(s) selected from N, S, and O, (3) a saturated or an
+unsaturated eight to ten-membered bicyclic hydrocarbon ring, or
+(4) a benzene ring) bonded to A ring ((1) a benzene ring, (2) a five or
+six-membered monocyclic heteroaryl ring having 1 to 4 hetero
+atom(s) selected from N, S, and O, or (3) a saturated or an
+unsaturated eight to ten-membered bicyclic hetero ring having 1 to
+4 hetero atom(s) selected from N, S, and O) via -X- (a bond or lower 
+alkylene), with the A ring being directly bonded to a glucose residue
+(wherein A ring, B ring, and X have a correlation that (1) when A
+ring is a benzene ring, B ring is a ring other than a benzene ring or
+that (2) when A ring is a benzene ring, and B ring is a saturated or
+an unsaturated eight to ten-membered bicyclic hetero ring having 1
+to 4 hetero atom(s) selected from N, S, and O including a benzene
+ring, or a saturated or an unsaturated eight to ten-membered
+bicyclic hydrocarbon ring including a benzene ring, X is bonded to
+the B ring in a part other than the benzene ring included in the B
+ring), shown by the following formula (I), has a significant effect of
+inhibiting a Na<sup>+</sup>-glucose cotransporter, thereby the present
+invention has been achieved. That is, the present invention
+relates to compounds shown by the following formula (I) or salts
+thereof (hereinafter both sometimes referred to as "compound of the
+present invention"). The compound of the present invention can
+be suitably used as a Na<sup>+</sup>-glucose cotransporter inhibitor using the
+compound as an active ingredient, particularly as a therapeutic
+agent or preventive agent for diabetes.</p><p num="0011">The chemical structure of the compound of the present
+invention differs from those of Patent Documents 1 and 2 in that
+the A ring and the B ring of the compound of the present invention
+cannot be benzene rings at the same time. That is, the present
+invention provides a Na+-glucose cotransporter inhibitor having a
+new structure.</p><p num="0012">Specifically, the present invention provides C-glycoside
+derivatives described bellow, pharmaceutically acceptable salts
+thereof, pharmaceutical compositions containing these compounds, 
+use of these compounds for producing a Na<sup>+</sup>-glucose cotransporter
+inhibitor or an antidiabetic agent, and methods for treating
+diabetes.
+<sl><li>[1] C-glycoside derivatives of the following formula (I) and salts
+thereof:
+<img file="00060001.tif" id="img-00060001" he="51" wi="110" img-format="tif" img-content="cf" orientation="unknown" inline="no"/>
+wherein A ring represents (1) a benzene ring, (2) a five or
+six-membered monocyclic heteroaryl ring having 1 to 4 hetero
+atom(s) selected from N, S, and O, or (3) a saturated or an
+unsaturated eight to ten-membered bicyclic hetero ring having 1 to
+4 hetero atom(s) selected from N, S, and O;
+B ring represents (1) a saturated or an unsaturated eight to
+ten-membered bicyclic hetero ring having 1 to 4 hetero atom(s)
+selected from N, S, and O, (2) a saturated or an unsaturated five or
+six-membered monocyclic hetero ring having 1 to 4 hetero atom(s)
+selected from N, S, and O, (3) a saturated or an unsaturated eight
+to ten-membered bicyclic hydrocarbon ring, or (4) a benzene ring;X represents a bond or lower alkylene;
+
+   (wherein A ring, B ring, and X have a correlation that (1)
+when A ring is a benzene ring, B ring is a ring other than a benzene
+ring or that (2) when A ring is a benzene ring, and B ring is a
+saturated or an unsaturated eight to ten-membered bicyclic hetero 
+ring having 1 to 4 hetero atom(s) selected from N, S, and O
+including a benzene ring, or a saturated or an unsaturated eight to
+ten-membered bicyclic hydrocarbon ring including a benzene ring,
+X is bonded to the B ring in a part other than the benzene ring
+included in the B ring: Incidentally, this correlation specifically
+means that the A ring and the B ring cannot be benzene rings
+simultaneously and that when the A ring is a benzene ring and the
+B ring is benzofuran or indane, X is not a benzene ring constituting
+a part of the B ring but bonds with a furan ring or a cyclopentane
+ring.)R<sup>1</sup> to R<sup>4</sup> individually represent a hydrogen atom, a lower
+alkyl, -C(=O)-lower alkyl, or -lower alkylene-aryl; andR<sup>5</sup> to R<sup>11</sup> individually represent a hydrogen atom, a lower
+alkyl, a cycloalkyl, a halogen, a halogen-substituted lower alkyl, -OH,
+=O, -NH<sub>2</sub>, lower alkyl sulfonyl-, halogen-substituted lower alkyl
+sulfonyl-, aryl sulfonyl-, an aryl, a saturated or an unsaturated five
+or six-membered monocyclic hetero ring having 1 to 4 hetero
+atom(s) selected from N, S, and O, -lower alkylene-OH, -lower
+alkylene-O-lower alkyl, -lower alkylene-O-C(=O)-lower alkyl, -lower
+alkylene-O-lower alkylene-COOH, -lower alkylene-O-lower
+alkylene-C(=O)-O-lower alkyl, -lower alkylene-NH<sub>2</sub>, -lower
+alkylene-NH-lower alkyl, -lower alkylene-N(lower alkyl)<sub>2</sub>, -lower
+alkylene-NH-C(=O)-lower alkyl, -COOH, -CN, -C(=O)-O-lower alkyl,
+-C(=O)-NH<sub>2</sub>, -C(=O)-NH-lower alkyl, -C(=O)-N(lower alkyl)<sub>2</sub>,
+-O-lower alkyl, -O-cycloalkyl, -O-lower alkylene-OH, -O-lower
+alkylene-O-lower alkyl, -O-lower alkylene-COOH, -O-lower
+alkylene-C(=O)-O-lower alkyl, -O-lower alkylene-C(=O)-NH<sub>2</sub>, 
+-O-lower alkylene-C(=O)-NH-lower alkyl, -O-lower
+alkylene-C(=O)-N(lower alkyl)<sub>2</sub>,
+-O-lower alkylene-CH(OH)-CH<sub>2</sub>(OH), -O-lower alkylene-NH<sub>2</sub>,
+-O-lower alkylene-NH-lower alkyl, -O-lower alkylene-N(lower
+alkyl)<sub>2</sub>, -O-lower alkylene-NH- C(=O)- lower alkyl, -NH-lower alkyl,
+-N(lower alkyl)<sub>2</sub>, -NH-SO<sub>2</sub>-lower alkyl,
+-NH-SO<sub>2</sub>-halogen-substituted lower alkyl, -NH-lower alkylene-OH,
+-NH-C(=O)-lower alkyl, -NH-C(=O)-NH<sub>2</sub>, -NH-C(=O)-NH-lower
+alkyl, -NH-C(=O)-N(lower alkyl)<sub>2</sub>, or , -NH-C(=O)-O-lower alkyl;
+
+   wherein -N(lower alkyl)<sub>2</sub> in R<sup>6</sup> to R<sup>11</sup> includes the case of
+being constituted by different lower alkyls besides the case of being
+constituted by the same lower alkyl. -N(lower alkyl)<sub>2</sub> includes, for
+example, a methylethylamino group.</li><li>[2] C-Glycoside derivatives and the salts thereof according to the
+above [1], wherein the A ring in the formula (I) is (1) a benzene ring
+or (2) a five or six-membered monocyclic heteroaryl ring having 1 to
+4 hetero atom(s) selected from N, S, and O.</li><li>[3] C-Glycoside derivatives and the salts thereof according to the
+above [2], wherein the B ring in the formula (I) is (1) a saturated or
+an unsaturated eight to ten-membered bicyclic hetero ring having 1
+to 4 hetero atom(s) selected from N, S, and O or (2) a saturated or
+an unsaturated five or six-membered monocyclic hetero ring having
+1 to 4 hetero atom(s) selected from N, S, and O.</li><li>[4] C-Glycoside derivatives and the salts thereof according to the
+above [3], wherein the A ring in the formula (I) is a benzene ring
+and the B ring is a saturated or an unsaturated eight to
+ten-membered bicyclic hetero ring having 1 to 4 hetero atom(s) 
+selected from N, S, and O.</li><li>[5] C-Glycoside derivatives and the salts thereof according to the
+above [4], wherein the X in the formula (I) is methylene.</li><li>[6] C-Glycoside derivatives and the salts thereof according to the
+above [5], wherein the R<sup>1</sup> to R<sup>4</sup> in the formula (I) are hydrogen
+atoms.</li><li>[7] C-Glycoside derivatives and the salts thereof according to the
+above [1], wherein the C-glycoside derivative of the formula (I) is at
+least one compound selected from the group consisting of
+(1S)-1,5-anhydro-1-[3-(1-benzothiene-2-ylmethyl)phenyl-D-glucitol,
+(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-hydroxyphenyl
+]-D-glucitol, (1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-methoxyphenyl]-D-glucitol,
+(1S)-1,5-anhydro-1[5-(1-benzothiene-2-ylmethyl)-2-(2-hydroxyethoxy)phenyl]-D-glucitol,
+(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-(methylamino)phenyl]-D-glucitol,
+(1S)-1,5-anhydro-1-{5-(1-benzothiene-2-ylmethyl)-2-[(2-hydroxyethoxy)amino]phenyl}-D-glucitol,
+(1S)-1,5-anhydro
+-1-[5-(1-benzothiene-2-ylmethyl)-4-methoxyphenyl]-D-glucitol,
+(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl) -4-chlorophenyl]
+-D-glucitol, (1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)
+-4-fluorophenyl]-D-glucitol, (1S)-1,5-anhydro-1-(5-(1-benzothiene-2-ylmethyl)-2,4-
+dimethoxy phenyl]-D-glucitol,
+(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-4-chloro
+-2-methoxyphenyl]-D-glucitol, (1S)-1,5-anhydro-1-[5-(1-benzo
+thiene-2-ylmethyl)-4-chloro-2-hydroxyphenyl]-D-glucitol,
+(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-4-fluoro-2-hydroxyphenyl]-D-glucitol,
+and (1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-4-fluoro-2-methoxyphenyl]-D-glucitol. </li><li>[8] A pharmaceutical composition containing a C-glycoside
+derivative or a salt thereof according to any one of the above [1] to
+[7].</li><li>[9] A pharmaceutical composition according to the above [8],
+wherein the composition is a Na<sup>+</sup>-glucose cotransporter inhibitor.</li><li>[10] A pharmaceutical composition according to the above [8],
+wherein the composition is an antidiabetic agent.</li><li>[11] Use of the C-glycoside derivatives and the salts thereof
+according to any one of the above [1] to [7] for producing a
+Na<sup>+</sup>-glucose cotransporter inhibitor or an antidiabetic agent.</li><li>[12] A method for treating diabetes comprising administering an
+effective amount of the C-glycoside derivatives and the salts
+thereof according to any one of the above [1] to [7] to a patient.</li></sl></p><heading>BEST MODE FOR CARRYING OUT THE INVENTION</heading><p num="0013">The best mode for carrying out the present invention will
+hereinbelow be described in detail.</p><p num="0014">Examples of "a five or six-membered monocyclic heteroaryl
+ring having 1 to 4 hetero atom(s) selected from N, S, and O" include
+pyridine, pyrimidine, pyrazine, thiophene, pyrrole, furan, thiazole,
+oxazole, imidazole, triazole, and tetrazole. Of these, pyridine,
+thiophene, furan, and tetrazole are preferable.</p><p num="0015">Examples of "a saturated or an unsaturated eight to
+ten-membered bicyclic hetero ring having 1 to 4 hetero atom(s)
+selected from N, S, and O" include benzofuran, benzothiophene, 
+indole, benzoxazole, benzothiazole, benzimidazole, quinoline,
+isoquinoline, quinazoline, quinoxaline, and tetrahydroisoquinoline.
+Of these, benzofuran, benzothiophene, benzoxazole, and
+benzothiazole are preferable.</p><p num="0016">Examples of "a saturated or an unsaturated five or
+six-membered monocyclic hetero ring having 1 to 4 hetero atom(s)
+selected from N, S, and O" include pyridine, pyrimidine, pyrazine,
+thiophene, pyrrole, furan, thiazole, oxazole, imidazole, triazole,
+tetrazole, morpholine, piperidine, pyrrolidine, and piperazine. Of
+these, pyridine, thiophene, furan, tetrazole, morpholine, piperidine,
+and pyrrolidine are preferable.</p><p num="0017">Examples of "a saturated or an unsaturated eight to
+ten-membered bicyclic hydrocarbon ring" include indane, indene,
+and tetrahydronaphthalene. Of these, indene is preferable.</p><p num="0018">In the definition of the formulas in this specification, "lower"
+refers to a linear or branched carbon chain having 1-6 carbon atoms,
+unless otherwise specified. Accordingly, examples of "a lower
+alkyl" include linear or branched alkyls having 1-6 carbon atoms
+such as a methyl, ethyl, propyl, isopropyl, butyl, isobutyl, sec-butyl,
+tert-butyl, pentyl, isopentyl, hexyl, and isohexyl. Of these, alkyls
+having 1-3 carbon atoms are preferable, and a methyl and ethyl are
+particularly preferable.</p><p num="0019">As "a lower alkylene", in addition to a methylene, ethylene,
+propylene, and butylene, a branched lower alkylene may be used.
+Of these, a methylene and ethylene are preferable.</p><p num="0020">Examples of "a cycloalkyl" include three to eight-membered
+cycloalkyls. Of these, cyclopropyl, cyclobutyl, cyclopentyl, and 
+cyclohexyl are preferable.</p><p num="0021">Examples of "a halogen atom" include fluorine atom, chlorine
+atom, bromine atom, or iodine atom. Of these, fluorine atom,
+chlorine atom, and bromine atom are preferable.</p><p num="0022">Examples of "a halogen-substituted lower alkyl" and "a
+halogen-substituted lower alkylene" include a lower alkyl
+substituted with the above halogen atom and a lower alkylene
+substituted with the above halogen atom, respectively. Of these, a
+lower alkyl and a lower alkylene substituted with one or more
+fluorine atoms are particularly preferable.</p><p num="0023">"An aryl" refers to a monocyclic to tricyclic aromatic
+hydrocarbon group having 6-14 carbon atoms. Examples of the
+aryl include phenyl, naphthyl, anthranyl, and phenanthryl. Of
+these, phenyl and naphthyl are preferable.</p><p num="0024">Examples of "a lower alkylene-aryl" include benzyl and
+phenethyl.</p><p num="0025">Examples of "an acyl" include formyl, acetyl, propionyl,
+butyryl, valeryl, and pivaloyl. Of these, acetyl is preferable.</p><p num="0026">In R<sup>5</sup> to R<sup>11</sup>, "=O" means an oxo group. However, when A
+ring or B ring is, for example, a pyridine ring, "=O" sometimes
+means an oxopyridine ring, which is an N-oxide of a pyridine ring.</p><p num="0027">In addition, the compounds of the present invention includes
+a mixture or isolated product of various stereoisomers such as a
+tautomer and an optical isomer.</p><p num="0028">The compounds of the present invention may form an
+acid-addition salt or, depending on the type of substituent, a salt
+with a base. Specific examples of such a salt include an 
+acid-addition salt with a mineral acid such as hydrochloric acid,
+hydrobromic acid, hydroiodic acid, sulfuric acid, nitric acid, and
+phosphoric acid; with an organic acid such as formic acid, acetic
+acid, propionic acid, oxalic acid, malonic acid, succinic acid,
+fumaric acid, maleic acid, lactic acid, malic acid, tartaric acid,
+citric acid, methanesulfonic acid, and ethanesulfonic acid; or with
+an acidic amino acid such as aspartic acid and glutamic acid; a salt
+with an inorganic base such as sodium, potassium, magnesium,
+calcium, and aluminum; with an organic base such as methylamine,
+ethylamine, and ethanolamine; or with a basic amino acid such as
+lysine and ornithine; and ammonium salts.</p><p num="0029">The compounds of the present invention further include
+hydrates and various pharmaceutically acceptable solvates and
+polymorphs.</p><p num="0030">Incidentally, as a matter of course, the compounds of the
+present invention should not be limited to the compounds later
+described in Examples, but include all the compounds of the above
+formula (I) (C-glycoside derivatives) and the pharmaceutically
+acceptable salts thereof.</p><p num="0031">Moreover, the compounds of the present invention include
+what is called a prodrug, which are compounds being convertible to
+compounds of the above formula (I) or salts thereof as a result of
+the metabolism in the body. As a group for forming a prodrug of a
+compound of the present invention, a group described in Prog. Med.
+5: 2157-2161 (1985) or a group described in "Development of
+Pharmaceuticals," vol. 7, Molecular Design, 163-198 (Hirokawa
+Shoten, 1990) can be given. </p><p num="0032">The compounds of the present invention (compounds shown
+by the above formula (I) or pharmaceutically acceptable salts
+thereof) can be produced by various known synthetic methods
+utilizing characteristics based on the type of its basic structure or
+substituent. In this case, from the viewpoint of production
+technique, it may be effective to substitute the functional group
+with a suitable protective group, that is, a group which can readily
+be converted to the functional group, at the stage of a starting
+material or intermediate, depending on the type of functional group.
+Following this, the protective group is optionally removed to obtain
+the target compound. Examples of such a functional group include
+a hydroxyl group and a carboxyl group, and examples of a
+protective group for these functional groups include protective
+groups described in Greene and Wuts, "Protective Groups in
+Organic Synthesis," Third Edition. These groups may be suitably
+used according to the reaction conditions.</p><heading>( Preparation Examples )</heading><p num="0033">Examples of typical production processes of a compound of
+the present invention will be hereinbelow described:</p><heading>( Preparation Process 1 )</heading><p num="0034">In Preparation Process 1 are carried out an addition reaction
+with a halide (1) and an aldehyde derivative (2), followed by
+reduction, an addition reaction with a lactone derivative (4),
+followed by reduction to obtain a compound (I), and deprotecting
+the compound (I) to obtain a compound (I'), as shown in the
+following formula.
+<img file="00140001.tif" id="img-00140001" he="8" wi="52" img-format="tif" img-content="cf" orientation="unknown" inline="no"/><img file="00150001.tif" id="img-00150001" he="93" wi="161" img-format="tif" img-content="cf" orientation="unknown" inline="no"/>
+wherein A ring, B ring, X, and R<sup>1</sup> to R<sup>11</sup> in the formula mean the
+same things as the ones mentioned above .</p><p num="0035">The addition reaction with a halide (1) and an aldehyde
+derivative (2) is carried out in the presence of an alkyl lithium
+reagent such as n-butyl lithium, sec-butyl lithium, or t-butyl
+lithium in a suitable solvent. Specific examples of the solvent
+include ethers such as diethyl ether, tetrahydrofuran, and diglyme,
+and the solvent is appropriately selected according to the type of
+reaction substrate or the reaction conditions. The reaction
+temperature is generally from about -100°C to about 180°C, and
+preferably from about -80°C to about 30°C though it varies,
+depending upon the type of starting material compounds, the
+reaction conditions, or the like.</p><p num="0036">The subsequent reduction reaction is carried out in the
+presence of an appropriate reducing agent and acid catalyst in a 
+suitable solvent. Specific examples of the reducing agent include
+triethylsilane, triisopropylsilane, and t-butyldimethylsilane.
+Specific examples of the acid catalyst include boron
+trifluoride-diethyl ether complex, trifluoroacetic acid, and
+trimethylsilyl trifluoromethanesulfonate. Specific examples of
+the solvent include haloalkyls such as chloroform, dichloromethane,
+and 1,2-dichloroethane; ethers such as diethyl ether,
+tetrahydrofuran, and diglyme; acetonitrile; and a mixture of these
+solvents; and the solvent is appropriately selected according to the
+type of reaction substrate or the reaction conditions. The reaction
+temperature is generally from about -100°C to about 180°C, and
+preferably from about -40°C to about 20°C though it varies,
+depending upon the type of starting material compounds, the
+reaction conditions, or the like.</p><p num="0037">The subsequent addition reaction of a lactone derivative (4)
+is carried out in the presence of an alkyl lithium reagent such as
+n-butyl lithium, sec-butyl lithium, or t-butyl lithium in a suitable
+solvent. Specific examples of the solvent include ethers such as
+diethyl ether, tetrahydrofuran, and diglyme, and the solvent is
+appropriately selected according to the type of reaction substrate or
+the reaction conditions. The reaction temperature is generally
+from about -100°C to about 180°C, and preferably from about -80°C
+to about 30°C though it varies, depending upon the type of starting
+material compounds, the reaction conditions, or the like.</p><p num="0038">The subsequent reduction reaction is carried out in the same
+manner as the above reduction reaction.</p><p num="0039">The deprotection is carried out in the presence of a metal 
+catalyst such as palladium/carbon, palladium hydroxide, or
+platinum/caxbon in a suitable solvent in a hydrogen atmosphere, or
+in the presence of a Lewis acid in a suitable solvent. Specific
+examples of the Lewis acid include boron trichloride, boron
+tribromide, and aluminum trichloride. Specific examples of the
+solvent include ethers such as tetrahydrofuran and dioxane; esters
+such as ethyl acetate; alcohols such as methanol and ethanol;
+acetonitrile; and a mixture of these solvents, and the solvent is
+appropriately selected according to the type of reaction substrate or
+the reaction conditions. The reaction temperature is from about
+-100°C to about 180°C, and preferably from about -40°C . to about
+20°C though it varies, depending upon the type of starting material
+compounds, the reaction conditions, or the like.</p><heading>( Preparation Process 2 )</heading><p num="0040">In Preparation Process 2 are carried out an addition reaction
+with an aldehyde derivative (5) and a halide (6), followed by
+reduction, an addition reaction with a lactone derivative (4),
+followed by reduction to obtain a compound (I), and deprotecting
+the compound (I) to prepare a compound (I'), as shown in the
+following formula.
+<img file="00170001.tif" id="img-00170001" he="10" wi="54" img-format="tif" img-content="cf" orientation="unknown" inline="no"/><img file="00180001.tif" id="img-00180001" he="80" wi="163" img-format="tif" img-content="cf" orientation="unknown" inline="no"/>
+wherein A ring, B ring, X, and R<sup>1</sup> to R<sup>11</sup> in the formula mean the
+same things as the ones mentioned above.</p><p num="0041">The addition reaction with an aldehyde derivative (5) and a
+halide (6) is carried out in a manner similar to that of the addition
+reaction with a halide (1) and an aldehyde derivative (2).</p><p num="0042">The addition reaction may be carried alternatively by
+reacting the compound (6) with the compound (5) in an appropriate
+solvent, using a Grignard reagent prepared using a metal reagent
+such as magnesium. Specific examples of the solvent include
+ethers such as diethyl ether, tetrahydrofuran, and diglyme; and the
+solvent is appropriately selected according to the type of reaction
+substrate or the reaction conditions. The reaction temperature is
+generally from about 0°C to about 180°C, and preferably from about
+20°C to about 80°C though it varies, depending upon the type of
+starting material compounds, the reaction conditions, or the like.</p><p num="0043">The subsequent reduction reaction is carried out in the same
+manner as the reduction reaction in Preparation Process 1. </p><p num="0044">The subsequent addition reaction of a lactone derivative (4)
+is carried out in the same manner as the addition reaction of a
+lactone derivative (4) in Preparation Process 1.</p><p num="0045">The subsequent reduction reaction is carried out in the same
+manner as the reduction reaction in Preparation Process 1.</p><p num="0046">The deprotection is carried out in the same manner as the
+deprotection in Preparation Process 1.</p><heading>( Preparation Process 3)</heading><p num="0047">In Preparation Process 3 are carried out a substitution
+reaction in an appropriate solvent with a compound (8) and a
+compound (9), followed by alkylation by halide (11) to obtain a
+compound (I), and deprotecting the compound (I) to obtain a
+compound (I').
+<img file="00190001.tif" id="img-00190001" he="102" wi="161" img-format="tif" img-content="cf" orientation="unknown" inline="no"/>
+wherein A ring, B ring, X, and R<sup>1</sup> to R<sup>11</sup> in the formula mean the 
+same things as the ones mentioned above , and Y is a group to be
+eliminated. Examples of the group to be eliminated are halide,
+acetoxy, trifluoroacetoxy, and trifluoromethanesulfoxy.</p><p num="0048">The substitution reaction is carried out in an appropriate
+solvent in the presence of an appropriate Grignard reagent.
+Specific examples of the Grignard reagent include
+methylmagnesium chloride, ethylmagnesium bromide, and
+isopropylmagnesium chloride. Specific examples of the solvent
+include ethers such as diethyl ether, tetrahydrofuran, and diglyme;
+benzene; and a mixture of these solvents; and the solvent is
+appropriately selected according to the type of reaction substrate or
+the reaction conditions. The reaction temperature is generally
+from about 0°C to about 180°C, and preferably from about 20°C to
+about 80°C though it varies, depending upon the type of starting
+material compounds, the reaction conditions, or the like.</p><p num="0049">The alkylation is carried out in the presence of an
+appropriate base. Specific examples of the base include potassium
+hydroxide; sodium hydroxide; and Grignard reagents include ethers
+such as methylmagnesium chloride, ethylmagnesium bromide, and
+isopropylmagnesium chloride. Specific examples of the solvent
+include ethers such as diethyl ether, tetrahydrofuran, and diglyme;
+benzene; and a mixture of these solvents; and the solvent is
+appropriately selected according to the type of reaction substrate or
+the reaction conditions. The reaction temperature is generally
+from about 0°C to about 180°C, and preferably from about 20°C to
+about 80°C though it varies, depending upon the type of starting
+material compounds, the reaction conditions, or the like. </p><p num="0050">The deprotection is carried out in the same manner as the
+deprotection in Preparation Process 1.</p><heading>( Preparation Process 4 )</heading><p num="0051">In Preparation Process 4 are carried out protection of an
+alcohol (12), followed by an addition reaction with a lactone
+derivative (4), reduction, followed by deprotection to obtain a
+compound (13), which is then subjected to oxidation and an addition
+reaction with a compound (15), followed by reduction to obtain a
+compound (I), and deprotecting the compound (I) to prepare a
+compound (I').
+<img file="00210001.tif" id="img-00210001" he="124" wi="163" img-format="tif" img-content="cf" orientation="unknown" inline="no"/>
+wherein A ring, B ring, X, and R<sup>1</sup> to R<sup>11</sup> in the formula mean the 
+same things as the ones mentioned above , and Y and Z are halogen
+or hydrogen.</p><p num="0052">The alcohol (12) is protected according to a general manner
+with, for example, an appropriate protecting group such as
+tert-butyldimethylsilyl group, tert-butyldiphenylsilil group, and
+tetrahydropyranyl group. Then, the addition reaction with a
+lactone derivative (4) is carried out in an appropriate solvent in the
+present of an alkyllithium reagent such as n-butyllithium,
+sec-butyllithium, and tert-butyllithium. Specific examples of the
+solvent include ethers such as diethyl ether, tetrahydrofuran, and
+diglyme; and the solvent is appropriately selected according to the
+type of reaction substrate or the reaction conditions. The reaction
+temperature is generally from about -100°C to about 180°C, and
+preferably from about -80°C to about 30°C though it varies,
+depending upon the type of starting material compounds, the
+reaction conditions, or the like.</p><p num="0053">The subsequent reduction reaction is carried out in the same
+manner as the reduction reaction shown in Preparation Process 1.</p><p num="0054">The subsequent deprotection is carried out in an appropriate
+solvent in the presence of an appropriate catalyst. Examples of
+the catalyst include tetrabutylammoniumfluoride, boron trifluoride
+ethylether complex, hydrogen fluoride, acetic acid, and
+p-toluenesulfonic acid. Examples of the solvent include ethers
+such as tetrahydrofuran and dioxane; alcohols such as methanol
+and ethanol; water; and a mixture of these solvents; and the solvent
+is appropriately selected according to the type of reaction substrate
+or the reaction conditions. The reaction temperature is generally 
+from about -100°C to about 180°C, and preferably from about 20°C
+to about 80°C though it varies, depending upon the type of starting
+material compounds, the reaction conditions, or the like.</p><p num="0055">The subsequent oxidation is carried outin a solvent in the
+presence of an appropriate oxidizing agent. Specific examples of
+the oxidizing agent include manganese dioxide, hydrogen peroxide,
+and pyridinium chlorochromate. Specific examples of the solvent
+include ethers such as tetrahydrofuran and dioxane; haloalkyls
+such as chloroform, dichloromethane, and 1,2-dichloroethane; and a
+mixture of these solvents; and the solvent is appropriately selected
+according to the type of reaction substrate or the reaction
+conditions. The reaction temperature is generally from about
+-100°C to about 180°C, and preferably from about 20°C to about
+80°C though it varies, depending upon the type of starting material
+compounds, the reaction conditions, or the like.</p><p num="0056">The subsequent addition reaction is carried out in the same
+manner as the addition reaction of a halide (1) and an aldehyde
+derivative (2) shown in Preparation Process (1).</p><p num="0057">The subsequent reduction reaction is carried out in the same
+manner as the reduction reaction shown in Preparation Process 1.</p><p num="0058">The deprotection is carried out in the same manner as the
+deprotection in Preparation Process 1.</p><heading>( Preparation Process 5 )</heading><p num="0059">In Preparation Process 5, a compound (16) alone or a
+compound (16) and a metal are reacted to prepare a metal reagent,
+which is reacted with a compound (17) in the present of a palladium
+catalyst and, as necessary, an appropriate phosphine to obtain a 
+compound (I), and the compound (I) is deprotected to obtain a
+compound (I').
+<img file="00240001.tif" id="img-00240001" he="84" wi="162" img-format="tif" img-content="cf" orientation="unknown" inline="no"/>
+wherein A ring, B ring, X, and R<sup>1</sup> to R<sup>11</sup> in the formula mean the
+same things as the ones mentioned above , and Y is a group to be
+eliminated. Examples of the group to be eliminated are halogen,
+acetoxy, trifluoroacetoxy, and trifluoromethanesulfoxy. Z
+represents a hydrogen atom, MeS-, R<sup>a</sup><sub>3</sub>Sn-, and (R<sup>a</sup>O)<sub>2</sub>B-. Ra
+represents a lower alkyl.</p><p num="0060">Specific examples of the metal used in the reaction of the
+compound (16) and the compound (17) include copper, zinc, iron,
+and magnesium. Specific examples of the palladium catalyst
+include tetrakistriphenylphosphine palladium (0), palladium
+acetate (II), bistriphenylphosphine palladium dichloride (II), and
+trisdibenzyliden acetone dipalladium (0). Specific examples of the
+phosphine include triphenylphosphine, trifurylphosphine,
+diphenylphosphino ferrocene, diphenylphosphino ethane,
+dicyclohexylphosphino biphenyl, and tritert-butylphosphine. 
+Specific examples of the solvent include ethers such as diethyl
+ether, tetrahydrofuran, and diglyme; and the solvent is
+appropriately selected according to the type of reaction substrate or
+the reaction conditions. The reaction temperature is generally
+from about 20°C to about 180°C, and preferably from about 40°C to
+about 100°C though it varies, depending upon the type of starting
+material compounds, the reaction conditions, or the like.</p><p num="0061">The deprotection is carried out in the same manner as the
+deprotection in Preparation Process 1.</p><heading>( Preparation Process 6 )</heading><p num="0062">In Preparation Process 6, a nitrile compound is subjected to
+a cyclization reaction to obtain an alkylated compound (I), followed
+by deprotection to obtain a compound (I)'.
+<img file="00250001.tif" id="img-00250001" he="99" wi="163" img-format="tif" img-content="cf" orientation="unknown" inline="no"/>
+wherein A ring, B ring, X, and R<sup>1</sup> to R<sup>11</sup> in the formula mean the
+same things as the ones mentioned above , and Y is a group to be 
+eliminated. Examples of the group to be eliminated are halogen,
+acetoxy, trifluoroacetoxy, and trifluoromethanesulfoxy.</p><p num="0063">The cyclization reaction is carried out in an appropriate
+solvent in the presence of an appropriate azide derivative and a
+hydrochloride of an amine. Specific examples of the azide
+derivative include sodium azide and trimethylsilyl azide. Specific
+examples of the amine include triethyl amine, triisopropyl amine,
+and diisopropylethyl amine. Specific examples of the solvent
+include dimethylformamide; dimethylsulfoxide;
+N-methylpyrrolidone; 1,3- Dimethyl-2-imidazolidinone; and a
+mixture of these solvents; and the solvent is appropriately selected
+according to the type of reaction substrate or the reaction
+conditions. The reaction temperature is generally from about
+-100°C to about 180°C, and preferably from about 20°C to about
+80°C though it varies, depending upon the type of starting material
+compounds, the reaction conditions, or the like.</p><p num="0064">The alkylation is carried out in an appropriate solvent in the
+presence of a halide (13) and an appropriate amine. Specific
+examples of the amine include triethyl amine, diisopropylethyl
+amine, and pyridine. Examples of the solvent include ethers such
+as tetrahydrofuran and dioxane; dimethyl formaldehyde;
+acetonitrile; and a mixture of these solvents; and the solvent is
+appropriately selected according to the type of reaction substrate or
+the reaction conditions. The reaction temperature is generally
+from about -100°C to about 180°C, and preferably from about 20°C
+to about 80°C though it varies, depending upon the type of starting
+material compounds, the reaction conditions, or the like. </p><p num="0065">The deprotection is carried out in the presence of an
+appropriate base. Specific examples of the base include sodium
+hydroxide; potassium hydroxide; sodium carbonate; potassium
+carbonate; sodium methoxide; and sodium ethoxide. Specific
+examples of the solvent include alcohols such as methanol and
+ethanol; water; and a mixture of these solvents, and the solvent is
+appropriately selected according to the type of reaction substrate or
+the reaction conditions. The reaction temperature is from about
+-100°C to about 180°C, and preferably from about 20°C to about
+80°C though it varies, depending upon the type of starting
+materials, the reaction conditions, or the like.</p><heading>EXAMPLES</heading><p num="0066">The compound of the present invention will now be described
+in more detail by way of examples. Since starting materials of the
+compounds of the present invention include novel compounds, the
+methods for preparing these compounds will also be described in
+Reference Examples.</p><heading>( Reference Example 1 )</heading><p num="0067">Potassium carbonatede (2.08 g) was added to a solution of
+5-bromo-2,4-dihydroxybenzaldehyde (1.09g) in acetone (20 ml), and
+the mixture was stirred for 30 minutes at room temperature. Then,
+chloromethyl methyl ether (1.01g) was added to the reaction
+mixture, and the mixture was stirred over night at room
+temperature. To the reaction mixture were added water and
+toluene, and the toluene layer was separated, and then washed
+with saturated sodium bicarbonate solution and saturated saline 
+solution, followed by drying and filtration, and the solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue to obtain a solid. The solid was washed with
+diisopropylether and dried to obtain 5-bromo-2,4-bis
+(methoxymethoxy)benzaldehyde (0.91 g).</p><heading>(Reference Example 2 )</heading><p num="0068">N-Bromosuccinimide (7.35 g) and benzoyl peroxide (196 mg)
+were added to a solution of 4-bromo-2-methylbiphenyl (5.0g) in
+carbon tetrachloride (150 ml), and the mixture was stirred over
+night under reflux condition. After cooling to room temperature,
+the reaction mixture was poured into water and extracted with
+chloroform. The organic layer was washed with saturated saline
+solution and dried over anhydrous magnesium sulfate. After
+filtration, the solvent was evaporated therefrom under reduced
+pressure to give the residue. The residue was purified by silica gel
+column chromatography (n-hexane-ethyl acetate) to obtain
+4-bromo-2-(dibromomethyl)biphenyl (7.9 g). Sodium acetate (9.6
+g) was added to a solution of 4-bromo-2-(dibromomethyl)biphenyl in
+acetic acid (240 ml) and stirred for two days under reflux condition.
+After cooling to room temperature, 4M hydrochloric acid (50 ml)
+was added to the reaction mixture, and the resulting mixture was
+stirred for two hours under reflux condition. After cooling to room
+temperature, the solvent was evaporated therefrom under reduced
+pressure to give the residue, ethyl acetate was added to the
+resulting residue, and the resultant was washed with 1M
+hydrochloric acid and saturated saline solution in order and dried
+over anhydrous magnesium sulfate. After filtration, the solvent 
+was evaporated from the filtrate under reduced pressure to give the
+residue, and the resulting residue was dried to obtain 4-bromo
+biphenyl-3-carboaldehyde (5.05 g).</p><heading>( Reference Example 3 )</heading><p num="0069">Imidazole (3.3 g) and tert-butyl-diphenylchlorosilane (10.0
+g) were added to a solution of (3-bromo-5-fluorophenyl)methanol
+(5.0g) in dimethylformamide (50 ml), and the mixture was stirred
+over night at room temperature. The reaction mixture was poured
+into water and extracted with ethyl acetate. The organic layer
+was washed with saturated saline solution and dried over
+anhydrous magnesium sulfate. After filtration, the solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue. The resulting residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+[(3-bromo-5-fluorobenzyl)oxy] (tert-butyl)diphenylsilane (9.5 g).</p><p num="0070">The compounds in Reference Examples 4, 5, 6 were obtained
+in a manner similar to that of Reference Example 3.</p><heading>( Reference Example 7 )</heading><p num="0071">Ten percents of palladium/carbon (500 mg) was added to a
+solution of (1S)-1,5-anhydro-2,3,4,6-tetra-O-benzyl-1-(3-([[tert-butyl
+(diphenyl)silyl]oxy]methyl)phenyl)-D-glucitol (5.93
+g) in tetrahydrofuran (45 ml), and the mixture was stirred for 20
+hours at room temperature in a hydrogen atmosphere. After
+filtration through celite of the reaction mixture, the solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue, and the residue (3.47 g) was dissolved in pyridine (40 ml).
+To the resulting solution were added acetic anhydride (2.68 ml) and 
+4-dimethylaminopyridine (catalyst amount), and the resulting
+mixture was stirred for 16 hours at room temperature. Then,
+methanol (50ml) was added dropwise to the reaction mixture, the
+solvent was evaporated therefrom under reduced pressure to give
+the residue, and the resulting residue was subjected to
+co-evaporation with toluene. The resulting residue was dissolved
+in ethyl acetate-toluene (3:2), washed, and then dried over
+magnesium sulfate. Then, the solvent was evaporated therefrom
+under reduced pressure to give the residue, and the residue (4.48 g)
+was dissolved in tetrahydrofuran (100 ml), and 1M tetrahydrofuran
+solution (8.12 ml) of tetrabutylammoniumfluoride was dropped, and
+the solution was stirred for two hours at room temperature. Then,
+the reaction mixture was concentrated and purified by silica gel
+column chromatography to obtain (1S)-2,3,4,6-tetra-0-acetyl
+-1,5-anhydro-1-[3-(hydroxymethyl)phenyl]-D-glucitol (1.30 g).</p><heading>( Reference Example 8 )</heading><p num="0072">Triphenylphosphine (926 m) and carbon tetrabromide (1.17
+g) were added to a solution of (1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydro-1-(3-(hydroxymethyl)phenyl]-D-glucitol
+(1.29 g) in
+dichloromethane (40 ml) under cooling with ice, and the mixture
+was stirred for 20 minutes at room temperature. Saturated
+aqueous solution of sodium bicarbonate (60 ml) was added to the
+reaction mixture to separate the organic layer. Then, the mixture
+was dried over magnesium sulfate, and the solvent was evaporated
+therefrom under reduced pressure to give the residue. The residue
+was purified by silica gel column chromatography to obtain
+(1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydro-1-[3-(bromomethyl)phenyl]-D-glucitol 
+(1.04 g).</p><heading>( Reference Example 9 )</heading><p num="0073">1.56 Moles of n-hexane solution of n-butyllithium (50 ml)
+were added dropwise to a solution of 1-(benzyloxy)-2-bromo
+-4-methylbenzene (20 g) in tetrahydrofuran (250 ml) at -78°C in an
+argon atmosphere, and the mixture was stirred for one hour at the
+same temperature. To the reaction mixture was added dropwise a
+solution of 2,3,4,6-tetra-0-benzyl-D-(+)-glucono-1,5-lactone (35.0 g)
+in tetrahydrofuran (200 ml) at -78°C, and the resulting mixture was
+stirred for one hour at the same temperature. Aqueous solution of
+1M hydrochloric acid (10 ml) was added to the mixture, and the
+temperature was raised to room temperature. Then, anhydrous
+magnesium sulfate (50 g) was added to the mixture, and the
+mixture was stirred for one hour at room temperature. After
+filtration, the filtrate was concentrated, and the resulting residue
+was purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain 2,3,4,6-tetra-0-benzy-1-C-[2-(benzyloxy)
+-5-methylphenyl]-D-glucopyranose (37 g). Triisopropylsilane (31
+ml) and borontrifluoride diethylether complex (12.6 ml) were added
+to a solution of 2,3,4,6-tetra-0-benzy-1-C-[2-(benzyloxy)
+-5-methylphenyl]-D-glucopyranose in dicyclomethane-acetonitrile
+(1:3) (400 ml) under cooling with ice in an argon atmosphere, and
+the mixture was stirred for one hour at the same temperature.
+The reaction mixture was poured into saturated aqueous solution of
+sodium bicarbonate and extracted with chloroform. The organic
+layer was dried over anhydrous magnesium sulfate and filtrated,
+and then the solvent was evaporated from the filtrate under 
+reduced pressure to give the residue. The residue was purified by
+silica gel column chromatography (n-hexane-ethyl acetate) to
+obtain (1S)-1,5-anhydro-2,3,4,6-tetra-O-benzyl-1-[2-(benzyloxy)
+-5-methylphenyl]-D-glucitol (16.9 g).</p><heading>( Reference Example 10 )</heading><p num="0074">1.56 Moles of n-hexane solution of n-butyllithium (14.5 ml)
+were added dropwise to a solution of [(3-bromo-5-fluorobenzyl)oxy]
+(tert-butyl)diphenylsilane (10 g) in tetrahydrofuran (100 ml) at
+-78°C in an argon atmosphere, and the mixture was stirred for half
+an hour at the same temperature. To the reaction mixture was
+added dropwise a solution of 2,3,4,6-tetra-0-benzyl-D-(+)-glucono
+-1,5-lactone (12.2 g) in tetrahydrofuran (100 ml) at -78°C, and the
+mixture was stirred for two hours at the same temperature.
+Aqueous solution of 1M hydrochloric acid (10 ml) was added to the
+mixture, and the temperature was raised to room temperature.
+Then, anhydrous magnesium sulfate (50 g) was added to the
+mixture, and the mixture was stirred for one hour at room
+temperature. After filtration, the filtrate was concentrated, and
+the residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate) to obtain 2,3,4,6-tetra-0-benzy-1-C-[3-({[tert-butyl(diphenyl)silyl]oxy}methyl)-5-fluorophenyl]-D-glucopyranose
+(6 g). Triethylsilane (1.3 ml) and borontrifluoride
+diethylether complex (0.9 ml) were added to a solution of
+2 ,3,4,6.tetra.0.benzy. 1.C.[3.({[tert-butyl(diphenyl)silyl]oxy}methyl
+)-5-fluorophenyl]-D-glucopyranose in dicyclomethane-acetonitrile
+(1:1) (120 ml) under cooling with ice in an argon atmosphere, and
+the mixture was stirred for one hour at the same temperature. 
+The reaction mixture was poured into saturated aqueous solution of
+sodium bicarbonate and extracted with chloroform. The organic
+layer was dried over anhydrous magnesium sulfate and filtrated,
+and then the solvent was evaporated from the filtrate under
+reduced pressure to give the residue. The residue was purified by
+silica gel column chromatography (n-hexane-ethyl acetate) to
+obtain (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-l-[3-({[tert-butyl
+(diphenyl)silyl]oxy}methyl)-5-fluorophenyl]-D-glucitol (4.2 g). 1 M
+tetrahydrofuran solution of tetrabutylammoniumfluoride (9.5 ml)
+was added dropwise to a solution of (1S)-1,5-anhydro-2,3,4,6-tetra
+-0-benzyl-1- [3-({[tert-butyl(diphenyl)silyl]oxy}methyl)-5-fluorophe
+nyl]-D-glucitol in tetrahydrofuran (90 ml), and the mixture was
+stirred for one hour at room temperature. The reaction mixture
+was concentrated, and the resulting residue was purified by silica
+gel column chromatography (n-hexane-ethyl acetate) to obtain
+(1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-[3-fluoro-5-(hydroxymeth
+yl)phenyl]-D-glucitol (0.5 g).</p><p num="0075">The compounds in Reference Examples 11, 12, 13 were
+obtained in a manner similar to that of Reference Example 10.</p><heading>( Reference Example 14 )</heading><p num="0076">Methanol (75 ml), Pd(OH)<sub>2</sub> (168 mg) was added to a solution
+of (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-[2-(benzyloxy)-5-methylphenyl]-D-glucitol
+(16.8 g) in ethyl acetate (150 ml), and the
+mixture was stirred over night in a hydrogen atmosphere. After
+filtration through celite, the filtrate was concentrated. The
+obtained solid was recrystallized from ethyl acetate. Acetic
+anhydride (15 ml) was added to a solution of the obtained white 
+crystals (6.6 g) in pyridine (30 ml) and the mixture was stirred over
+night at room temperature. Methanol was added to the reaction
+mixture, the solvent was evaporated therefrom under reduced
+pressure to give the residue, and the resulting residue was
+subjected to co-evaporation with toluene. The obtained solid was
+recrystallized from ethanol to obtain (1S)-1-[2-(acetoxy)-5-methylphenyl]-2,3,4,6-tetra-0-acetyl-1,5-anhydro-D-glucitol
+(9.1 g).</p><heading>( Reference Example 15)</heading><p num="0077">N-bromosuccinimide and <i>(α, α'</i> -azoisobutylo)nitrile was
+added to (1S)-1-[2-(acetoxy)-5-methylphenyl]-2,3,4,6-tetra-0-acetyl-1,5-anhydro-D-glucitol
+(9.1 g) in carbon tetrachloride
+(180 ml), and the mixture was stirred for two hours under reflux
+condition. After cooling to room temperature, the reaction
+mixture was poured into water and extracted with chloroform.
+The organic layer was washed with water and saturated saline
+solution and dried over anhydrous magnesium sulfate. After
+filtration, the solvent was evaporated from the filtrate under
+reduced pressure to give the residue. The resulting residue was
+purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain (1S)-1-[2-(acetoxy)-5-(bromomethyl)phenyl]
+-2,3,4,6-tetra-0-acetyl-l,5-anhydro-D-glucitol (7.8 g).</p><p num="0078">The compound in Reference Example 16 was obtained in a
+manner similar to that of Reference Example 9.</p><heading>( Reference Example 17 )</heading><p num="0079">3-(2,3,4,6-Tetra-0-benzyl-β -D-glucopyranosyl)-4-fluorobenzonitrile
+(1.20 g) was dissolved in morpholine (10 ml), and
+the mixture was stirred for 24 hours at 110°C. The mixture was 
+cooled to room temperature, and the solvent was evaporated from
+the filtrate under reduced pressure to give the residue. The
+residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate) to obtain 3-(2,3,4,6-tetra-0-benzyl-<i>β</i>
+-D-glucopyranosyl) -4-morpholinobenzonitrile (0.93 g).</p><heading>( Reference Example 18 )</heading><p num="0080">A solution of 1.01 M toluene (2.1 ml) of diisobutyl aluminum
+hydride was added dropwise to a solution of
+3-(2,3,4,6-tetra-0-benzyl-β -D-glucopyranosyl)-4-morpholino
+benzonitrile (700 mg) in toluene (10 ml) cooled at -78°C under an
+argon atmosphere, and the mixture was stirred for 1.5 hours.
+Aqueous solution of saturated ammonium chloride was added to the
+mixture, and extracted with chloroform. The organic layer was
+washed with saturated saline solution and dried over anhydrous
+sodium sulfate. After filtration, the solvent was evaporated from
+the filtrate under reduced pressure to give the residue. The
+residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate) to obtain 3-(2,3,4,6-tetra-0-benzyl-β
+-D-glucopyranosyl)-4-morpholinobenzaldehyde (517 g).</p><heading>( Reference Example 19)</heading><p num="0081">Manganese dioxide (740 mg) was added to a solution of
+(1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-[3-fluoro-5-(hydroxyl
+methy1)phenyl]-D-glucitol (0.5 g) in chloroform (10 ml), and the
+mixture was stirred for 24 hours. After filtration through celite,
+washing with chloroform was carried out, and the filtrate was
+concentrated. The resulting residue was dried to obtain
+3-(-2,3,4,6-tetra-0-benzyl-<i>β</i> -D-glucopyranosyl)-5-fluoro 
+benzaldehyde (0.4 g).</p><p num="0082">The compounds in Reference Examples 20 to 22 were
+obtained in a manner similar to that of Reference Example 19.</p><heading>( Reference Example 23 )</heading><p num="0083">1.6 Moles of n-hexane solution of n-butyllithium (4.6 ml)
+were added dropwise to a solution of 1-bromo-3-(dimethoxymethyl)
+benzene (1.7 g) in tetrahydrofuran (20 ml) at -78°C, and the mixture
+was stirred for half an hour. To the reaction mixture was added
+dropwise a solution of 2,3,4,6-tetra-0-benzyl-D-(+)-glucono-1,5-lactone
+(4.0 g) in tetrahydrofuran (20 ml), and the mixture was
+stirred for one hour. Aqueous solution of saturated ammonium
+chloride was added to the mixture, and extracted with ethyl acetate.
+The organic layer was washed with saturated saline solution and
+dried over anhydrous sodium sulfate. After filtration, the solvent
+was evaporated from the filtrate under reduced pressure to give the
+residue. The resulting residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+2,3,4,6-tetra-0-benzyl-1-C-[3-dimethoxymethyl]phenyl]-D
+-glucopyranose (1.83 g). To a solution of 2,3,4,6 -tetra-0-benzyl
+-1-C-3-dimethoxymethyl]phenyl]-D-glucopyranose in acetone-water
+(2:1) (30 ml) were added sulfamic acid (0.51 g) and sodium chlorite
+(0.6 g), and the mixture was stirred for eight hours at room
+temperature. Ten percents of hydrochloric acid was added to the
+reaction mixture to adjust the pH to 2, and extracted with
+chloroform. The organic layer was washed with saturated saline
+solution and dried over anhydrous sodium sulfate. After filtration,
+the solvent was evaporated from the filtrate under reduced 
+pressure to give the residue. The resulting residue was purified
+by silica gel column chromatography (n-hexane-ethyl acetate) to
+obtain 3-(2,3,4,G-tetxa-0-benzyl-D-glucopyranose-1-C)-yl-benzoic
+acid (1.3 g). Triethylsilane (0.63 ml) and trifluoroacetic acid (0.15
+ml) were added to a solution of 3-(2,3,4,6-tetra-0-benzyl-D-glucopyranose-1-C)-yl-benzoic
+acid in dichloromethane (15 ml), and
+the mixture was stirred for 15 hours at room temperature.
+Aqueous solution of 10% sodium hydroxide was added to the
+reaction mixture, and extracted with dichloromethane. The
+organic layer was washed with saturated saline solution and dried
+over anhydrous sodium sulfate. After filtration, the solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue. The resulting residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+3-(2,3,4,6-tetra-0-benzyl-β-D-glucopyranosyl)benzoic acid (0.85 g).
+N,0-dimethylhydroxylamine hydrochloride (0.14 g), triethyl amine
+(0.2 ml), and 1-ethyl-3-(3-dimethylaminopropyl) carbodiimide (0.28
+g) were added to a solution of 3-(2,3,4,6-tetra-0-benzyl-β-D-glucopyranosyl)
+benzoic acid in dichloromethane (10 ml), and the
+mixture was stirred for four hours at room temperature. Then, the
+reaction mixture was poured into ice-cooled water and extracted
+with ethyl acetate. The organic layer was washed with saturated
+saline solution and dried over anhydrous sodium sulfate. After
+filtration, the solvent was evaporated from the filtrate under
+reduced pressure to give the residue, and the resulting residue was
+purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain 3-(2,3,4,6-tetra-0-benzyl-β-D-glucopyranosyl)-N-methyl-N-methoxybenzamide 
+(0.42 g).</p><p num="0084">The compound in Reference Example 24 was obtained in a
+manner similar to that of Example 47.</p><heading>( Reference Example 25 )</heading><p num="0085">Diisopropyl amine (2.34 g) was dissolved in tetrahydrofuran
+(60 ml). 1.58 M n-hexane solution (13.3 ml) of n-butyllithium was
+added dropwise to the mixture at -78°C, and the mixture was
+stirred for half an hour at 0°C. Then, 2,6-dichloropyrazine (2.98 g)
+was added to the reaction mixture at -78°C, and the mixture was
+stirred for ten minutes. Then, a solution of
+2,3,4,6-tetra-0-benzyl-D-(+)-glucono-1,5-lactone (10.8 g) in
+tetrahydrofuran (100 ml) was added to the mixture, and the
+mixture was stirred for three hours at -78°C. The reaction mixture
+was washed with saturated ammonium chloride, and the water
+layer was extracted with diethyl ether. The organic layer was
+dried over sodium sulfate, the solvent was evaporated therefrom
+under reduced pressure to give the residue, and the resulting
+residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate) to obtain 2,3,4,6-tetra-0-benzyl-1-C-(3,5-dichloropyrazine-2-yl)-D-glucopyranose
+(9.07 g). The
+obtained 2,3,4,6-tetra-0-benzyl-1-C-(3,5-dichloropyrazine
+-2-yl)-D-glucopyranose (7.93 g) was dissolved in dichloromethane
+(90 ml), and triethyl silane (36.8 ml) and trifluoloacetic acid (17.7
+ml) were added to the mixture, and the mixture was stirred for 19
+days at room temperature. The reaction mixture was washed with
+saturated sodium bicarbonate solution, and the water layer was
+extracted with chloroform. The organic layer was dried over 
+sodium sulfate, the solvent was evaporated therefrom under
+reduced pressure to give the residue, and the resulting residue was
+purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-(3,5-dichloropyrazine-2-yl)-D-glucitol
+(2.15 g).</p><heading>(Reference Example 26 )</heading><p num="0086">1,3-Dibromobenzene (25 g) and a solution of a Grignard
+reagent prepared using metal magnesium in ether (50 ml) were
+added to a solution of 5-ethylthiophene-2-carboxyaldehyde (5.0 g)
+in tetrahydrofuran (50 ml) at 0°C, and the mixture was stirred for
+one hour. The reaction mixture was poured into ice-cooled water
+and extracted with ethyl acetate. The organic layer was washed
+with saturated saline solution and dried over anhydrous sodium
+sulfate. After filtration, the solvent was evaporated from the
+filtrate under reduced pressure to give the residue, and the
+resulting residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate) to obtain (3-bromophenyl)
+(5-ethyl-2-thienyl) methanol (5.57 g). Borontrifluoride diethyl
+ether complex (1.57 ml) and triethylsilane (3.83 ml) were added to a
+solution of (3-bromophenyl) (5-ethyl-2-thienyl) methanol in
+acetonitrile (20 ml) at -40°C, and the mixture was stirred for two
+hours. Aqueous solution of saturated potassium carbonate was
+added to the reaction mixture, and extracted with ethyl acetate.
+The organic layer was washed with saturated saline solution and
+dried over anhydrous sodium sulfate. After filtration, the solvent
+was evaporated from the filtrate under reduced pressure to give the
+residue, and the residue was purified by silica gel column 
+chromatography (n-hexane-ethyl acetate) to obtain
+2-(3-bromobenzyl)-5-methylthiophene (3.77 g).</p><p num="0087">The compounds in Reference Examples 27 and 28 were
+obtained in a manner similar to that of Reference Example 26.</p><heading>( Reference Example 29 )</heading><p num="0088">A solution of 1.56 M hexane (23.7 ml) of n-butyl lithium was
+added dropwise to a solution of 3-methyl-1-benzothiophene (5.0 g)
+in tetrahydrofuran (50 ml) at -78°C under an argon atmosphere,
+and the mixture was stirred for half an hour at the same
+temperature. Then, a solution of 3-bromobenzaldehyde (6.05 g) in
+tetrahydrofuran (6 ml) was added dropwise to the mixture, and the
+mixture was stirred for half an hour. Water was added to the
+reaction mixture, and extracted with ethyl acetate. The organic
+layer was washed with aqueous solution of saturated ammonium
+chloride and dried over anhydrous magnesium sulfate. After
+filtration, the solvent was evaporated from the filtrate under
+reduced pressure to give the residue, and the residue was purified
+by silica gel column chromatography (n-hexane-ethyl acetate) to
+obtain (3-bromophenyl)(3-methyl-1-benzothiene-2-yl) methanol
+(10.0 g) as achromatic oily matter. Borontrifluoride diethyl ether
+complex (4.42 ml) and triethylsilane (9.58 ml) were added to a
+solution of (3-bromophenyl)(3-methyl-1-benzothiene-2-yl) methanol
+in dichloromethane (100 ml) at -30°C, and the mixture was stirred
+for half an hours. After the reaction mixture was heated to -10°C
+and stirred for 10 minutes, aqueous solution of saturated sodium
+carbonate was added to the reaction mixture, and extracted with
+ethyl acetate. The organic layer was washed with saturated saline 
+solution and dried over anhydrous magnesium sulfate. After
+filtration, the solvent was evaporated from the filtrate under
+reduced pressure to give the residue, and the residue was purified
+by silica gel column chromatography (n-hexane-ethyl acetate) to
+obtain 2-(3-bromobenzyl)-3-methyl-1-benzothiophene (6.68 g).</p><p num="0089">The compounds in Reference Examples 30 to 36 were
+obtained in a manner similar to that of Reference Example 29.</p><heading>(Reference Example 37 )</heading><p num="0090">Benzo[b]thiophene (1.12 g) was dissolved in tetrahydrofuran
+(50 ml). This solution was cooled to -78°C, and a solution of 1.58
+M hexane (10.5 ml) of n-butyllithium was added dropwise to the
+solution, and the mixture was stirred for 15 minutes at -78°C.
+Then, 5-chloro-2-bromobenzaldehyde (3.15 g) dissolved in
+tetrahydrofuran (50 ml) was added dropwise to the reaction
+mixture, and the mixture was stirred for two hours at room
+temperature. Aqueous solution of saturated ammonium chloride
+was added to the reaction mixture, and then the solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue. Ethyl acetate and water were added to the residue
+obtained, and extracted with ethyl acetate. The organic layer was
+dried over magnesium sulfate, the solvent was evaporated from the
+filtrate under reduced pressure to give the residue, and the residue
+was purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain 1-benzothiene-2-yl(5-bromo-2-chlorophenyl)
+methanol (4.75 g). Imidazole (1.08 g) and tert-butyl
+dimethylchlorosilane (2.99 g) were added to a solution of
+1-benzothiene-2-yl(5-bromo-2-chlorophenyl) methanol in 
+dimethylformamide (100 ml), and the mixture was stirred for three
+hours at 70°C. Water was added to the reaction mixture, and
+extracted with diethyl ether. The organic layer was dried over
+magnesium sulfate, the solvent was evaporated therefrom under
+reduced pressure to give the residue, and the resulting residue was
+purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain [1-benzothiene-2-yl(5-bromo-2-chloro
+phenyl)methoxy](tert-butyl) dimethylsilane (3.34 g).</p><p num="0091">The compounds in Reference Examples 38, 39 and 40 were
+obtained in a manner similar to that of Reference Example 37.</p><heading>( Reference Example 41)</heading><p num="0092">Aluminum chloride (8.9 g) and 4-ethylbenzoylchloride (5.96
+g) were added to a solution of 2-bromothiophene (3.2 ml) in
+dichloromethane (50 ml) at 0°C, and the mixture was stirred for
+four hours at room temperature. 10% hydrochloric acid was added
+to the reaction mixture, and extracted with ethyl acetate. The
+organic layer was washed with water and saturated saline solution
+in order and dried over anhydrous sodium sulfate. After filtration,
+the solvent was evaporated from the filtrate under reduced
+pressure to give the residue. The residue was purified by silica gel
+column chromatography (n-hexane-ethyl acetate) to obtain
+(5-bromo-2-thienyl)(4-ethylphenyl) methanone (8.97 g).
+Borontrifluoride diethyl ether complex (1.57 ml) and triethylsilane
+(3.83 ml) were added to a solution of (5-bromo-2-thienyl)
+(4-ethylphenyl) methanone in acetonitrile (20 ml) at -40°C, and the
+mixture was stirred for two hours. Aqueous solution of saturated
+potassium carbonate was added to the reaction mixture, and 
+extracted with ethyl acetate. The organic layer was washed with
+saturated saline solution and dried over anhydrous sodium sulfate.
+After filtration, the solvent was evaporated from the filtrate under
+reduced pressure to give the residue, and the residue was purified
+by silica gel column chromatography (n-hexane-ethyl acetate) to
+obtain 2-bromo-(4-ethylbenzyl)thiophene (6.78 g).</p><heading>(Reference Example 42 )</heading><p num="0093">A solution of 1M tetrahydrofuran (2.98 ml) of
+ethylmagnesium bromide was added dropwise to pyrrole (0.2 g),
+and the mixture was stirred for half an hour. The solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue, and 4-ethylbenzyl bromide (663 mg) was added to a
+solution of the obtained residue in benzene (5.0 ml), and the
+mixture was stirred for five hours at 60°C. Aqueous solution of
+saturated ammonium chloride was added to the reaction mixture,
+and extracted with ethyl acetate. The organic layer was washed
+with saturated saline solution and dried over anhydrous sodium
+sulfate. After filtration, the solvent was evaporated from the
+filtrate under reduced pressure to give the residue, and the residue
+was purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain 2-(4-ethylbenzyl)-1H-pyrrole (0.12 g).</p><heading>( Reference Example 43)</heading><p num="0094">A solution of 1.5 M hexane (21 ml) of n-butyllithium was
+added dropwise to a solution of 6,7-dimethyl-benzofuran (4.1 g) in
+tetrahydrofuran (100 ml) at -78°C under an argon atmosphere, and
+the mixture was stirred for half an hour. Then, chloro
+tri-n-butyltin (8.4 ml) was added to the mixture, and the mixture 
+was stirred for one hour. Aqueous solution of saturated
+ammonium chloride was added to the reaction mixture, and
+extracted with ethyl acetate. The organic layer was washed with
+saturated saline solution and dried over anhydrous sodium sulfate.
+After filtration, the filtrate was concentrated, and the residue was
+purified by silica gel column chromatography (n-hexane) to obtain
+tri-n-butyl(6,7-dimethyl-benzofuran-2-yl) tin (10.8 g).</p><p num="0095">The compounds in Reference Examples 44 to 49 were
+obtained in a manner similar to that of Reference Example 43.</p><heading>(Reference Example 50 )</heading><p num="0096">Sodium borohydride (1.3 g) was added to a solution of
+6-methyl-indane-1-one (5.0 g) in methanol (50 ml) at 0°C, and the
+mixture was stirred for one hour. The reaction mixture was
+poured into ice-cooled water, and extracted with ethyl acetate.
+The organic layer was washed with saturated saline solution and
+dried over anhydrous sodium sulfate. After filtration, the filtrate
+was concentrated to obtain 6-methylindane-i-ol (5.5 g). To a
+solution of 6-methylindane-1-ol in toluene (50 ml) was added
+p-toluene sulfonic acid monohydrate (0.2 g), and the mixture was
+stirred for 20 minutes. The temperature of the reaction mixture
+was returned to room temperature, and the reaction mixture was
+washed with water, 5% sodium hydrogencarbonate aqueous solution,
+and saturated saline solution in order and dried over anhydrous
+sodium sulfate. After filtration, the filtrate was concentrated to
+obtain 5-methyl-1H-indene (5.5 g).</p><p num="0097">The compound in Reference Example 51 was obtained in a
+manner similar to that of Reference Example 50. </p><heading>( Reference Example 52 )</heading><p num="0098">Water (0.6 ml) and N-bromosuccinimide (6.1 g) was added to
+a solution of 5-methyl-1H-indene (4.4 g) in dimethylsulfoxide (50
+ml), and the mixture was stirred for 40 minutes at room
+temperature. The reaction mixture was poured into ice-cooled
+water, and extracted with ether. The organic layer was washed
+with water, 5% sodium hydrogencarbonate aqueous solution, and
+saturated saline solution in order and dried over anhydrous sodium
+sulfate. After filtration, the filtrate was concentrated, and the
+resulting crystals were washed with hexane to obtain, by filtration,
+2-bromo-6-methylindane-1-ol (4.4 g). To a solution of
+2-bromo-6-methylindane-1-ol in toluene (50 ml) was added
+p-toluene sulfonic acid monohydrate (0.1 g), and the mixture was
+stirred for 20 minutes. The temperature of the reaction mixture
+was returned to room temperature, and the reaction mixture was
+washed with water, 5% sodium hydrogencarbonate aqueous solution,
+and saturated saline solution in order and dried over anhydrous
+sodium sulfate. After filtration, the filtrate was concentrated, and
+the residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate) to obtain 2-bromo-5-methyl-1H-indene
+(1.7 g).</p><p num="0099">The compound in Reference Example 53 was obtained in a
+manner similar to that of Reference Example 52.</p><heading>(Reference Example 54 )</heading><p num="0100">2-Bromo-1H-indene (3.0 g) and a solution of a Grignard
+reagent prepared using metal magnesium in tetrahydrofuran (20
+ml) were added to a solution of 3-(2,3,4,6-tetra-0-benzyl-<i>β</i> 
+-D-glucopyranosyl)-N-methyl-N-methoxybenzamide (6.99 g) in
+tetrahydrofuran (20 ml) at 0°C, and the mixture was stirred for two
+hours. The reaction mixture was poured into ice-cooled water and
+extracted with ethyl acetate. The organic layer was washed with
+saturated saline solution and dried over anhydrous sodium sulfate.
+After filtration, the solvent was evaporated from the filtrate under
+reduced pressure to give the residue, and the residue was purified
+by silica gel column chromatography (n-hexane-ethyl acetate) to
+obtain (1H-indene-2-yl)[3-(2,3,4,6-tetra-0-benzyl-,<i>β</i>
+-D-glucopyranosyl)phenyl] methanone (0.84 g).</p><heading>( Reference Example 55 )</heading><p num="0101">Pentamethylbenzene (3.62 g) was dissolved in a solution of
+methyl-4-(1-benzothiene-2-ylmethyl)-2-(2,3,4,6-tetra-0-benzyl-<i>β</i>-D-glucopyranosyl)
+benzoate (1.31 g) in dichloromethane (150 ml),
+and 1 M n-heptane solution (6.83 ml) of boron trichloride was added
+dropwise to the mixture at -78°C, and the mixture was stirred for
+two hours at the same temperature. Then, methanol (40 ml) was
+added dropwise to the reaction mixture at -78°C. After the
+temperature was raised to room temperature, the solvent was
+evaporated therefrom under reduced pressure to give the residue,
+and the resulting residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+(2R,3S,4S,4aR, 10bS)-7-(1-benzothiene-2-ylmethyl)-3,4-dihydroxy-2
+-(hydroxymethyl)-3,4,4a, 10b-tetrahydropyrano[3,2 -c]isocumene
+-6(2H)-one (420 mg).</p><heading>( Example 1 )</heading><p num="0102">1.58 Moles of n-hexane solution of n-butyllithium (2.4 ml) 
+were added dropwise to a solution of benzo[b]thiophene (504 mg) in
+tetrahydrofuran (10 ml) at -78°C in an argon atmosphere, and the
+mixture was stirred for two hours at the same temperature. To the
+reaction mixture was added dropwise a solution of 3-(2,3,4,6-tetra
+-0-benzyl-<i>β</i> -D-gluglucopyranosyl) benzaldehyde (1.57 g) in
+tetrahydrofuran (45 ml), and the mixture was stirred for five hours
+at the same temperature. Water (60 ml) was added to the reaction
+mixture, and extracted with ethyl acetate. The organic layer was
+dried over anhydrous sodium sulfate. After filtration, the solvent
+was evaporated from the filtrate under reduced pressure to give the
+residue. The residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate). Triethylsilane (0.67
+ml) and a solution of boron trifluoride diethylether complex (447
+ml) in dichloromethane (15 ml) were added dropwise to a solution of
+the residue (1.6 g) in dichloromethane (25 ml) under cooling with
+ice, and the mixture was stirred for two hours at the same
+temperature. Saturated sodium bicarbonate was added to the
+reaction mixture, and the organic layer was separated and dried
+over anhydrous magnesium sulfate. After filtration, the solvent
+was evaporated from the filtrate under reduced pressure to give the
+residue. The residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain (1S)-1,5-anhydro-2,3,4,
+6-tetra-0-benzyl-1-[3-[(1-benzothiene-2-yl)
+methyl]phenyl]-D-glucitol (1.56 g).</p><p num="0103">The compounds in Examples 2 to 16 were obtained in a
+manner similar to that of Example 1.</p><heading>( Example 17 )</heading><p num="0104">1.58 Moles of n-hexane solution of n-butyllithium (1.18 ml)
+were added dropwise to a solution of 3-(4-methoxybenzyl) thiophene
+(0.38 g) in tetrahydrofuran (10 ml) at -78°C, and the mixture was
+stirred for one hour. To the reaction mixture was added dropwise
+a solution of 2,3,4,6-tetra-0-benzyl-D-(+)-glucono-1,5-lactone (1.0 g)
+in tetrahydrofuran (10 ml), and the mixture was stirred for one
+hour. 1.0 M hydrochloric acid was added to the reaction mixture,
+and extracted with ethyl acetate. After washing with saturated
+saline solution, the resultant was dried over anhydrous sodium
+sulfate. After filtration, the solvent was evaporated from the
+filtrate under reduced pressure to give the residue. The resulting
+residue was purified by silica gel column chromatography
+(n-hexane-chloroform-acetone). Triisopropylsilane (0.78 ml) and
+boron trifluoride diethylether complex (0.32 ml) were added to a
+solution of the residue (0.94 g) in chloroform (1.0 ml) and
+acetonitrile (5.0 ml) under cooling with ice, and the mixture was
+stirred for half an hour. Triethyl amine (1.0 ml) was added to the
+reaction mixture, and the solvent was evaporated therefrom under
+reduced pressure to give the residue. The resulting residue was
+purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain 1,4:5,9-dianhydro-6,7,8,10-tetra-0-benzyl
+-2,3-dideoxy-2(4-methoxybenzyl)-1-thio-D-glycero-D-glo-deca-1,3-d
+ienitol (0.72 g).</p><p num="0105">The compounds in Examples 18 to 24 were obtained in a
+manner similar to that of Example 17.</p><heading>( Example 25)</heading><p num="0106">2-[3-Bromo-4-(methoxymethoxy)benzyl]-1-benzothiophene 
+(17.4 g) was dissolved in tetrahydrofuran (200 ml). 1.58 Moles of
+n-hexane solution of n-butyl lithium (30.4 ml) were added dropwise
+to the mixture at -78°C, and the mixture was stirred for one hour at
+-78°C. Then, to the reaction mixture was added a solution of
+2,3,4,6-tetra-0-benzyl-D-(+)-glucono-1,5-lactone (21.6 g) in
+tetrahydrofuran (150 ml), and the mixture was stirred for three
+hours at -78°C. The reaction mixture was washed with saturated
+ammonium chloride solution, and a water layer was extracted with
+ethyl acetate. The whole organic layer combined was dried over
+anhydrous sodium sulfate, and the solvent was evaporated
+therefrom under reduced pressure to give the residue. The
+obtained solid was recrystallized (hexane-ethyl acetate) to obtain
+1-C-[5-(1-benzothiene-2-ylmethyl)-2-(methoxymethoxy)phenyl]-2,3,4,6-tetra-0-benzyl-D-glucopyranose
+(25.3 g). This was
+dissolved in dichloromethane (500 ml). Triethylsilane (14.7 ml)
+and boron trifluoride diethylether complex (4.1 ml) were added to
+the solution at -40°C, and the mixture was stirred for four hours at
+-20°C. The reaction mixture was washed with saturated sodium
+bicarbonate, and a water layer was extracted with chloroform.
+The whole organic layer combined was dried with sodium sulfate,
+and the solvent was evaporated therefrom under reduced pressure
+to give the residue. The resulting residue was purified by silica
+gel column chromatography (n-hexane-ethyl acetate) to obtain
+(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-(methoxy
+methoxy)phenyl]-2,3,4,6-tetra-0-benzyl-D-glucitol (21.8 g).</p><p num="0107">The compounds in Examples 26 to 29 were obtained in a
+manner similar to that of Example 25. </p><heading>( Example 30 )</heading><p num="0108">(1S)-1,5-Anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-(methoxymethoxy)phenyl]-2,3,4,6-tetra-0-benzyl-D-glucitol
+(21.7 g)
+was dissolved in ethyl acetate (135 ml). To the mixture was added
+4M hydrochloric acid-ethyl acetate solution (135 ml), and the
+mixture was stirred for 14 hours at room temperature. The
+reaction mixture was concentrated, and the resulting residue was
+purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain (1S)-1,5-anhyclio-1-[5-(1-benzothiene-2-ylmethyl)
+-2-hydroxyphenyl]-2,3,4,6-tetra-0-benzyl-D-glucitol (18.6 g).</p><p num="0109">The compounds in Examples 31 and 32 were obtained in a
+manner similar to that of Example 30.</p><heading>( Example 33 )</heading><p num="0110">(1S)-1,5-Anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-hydroxyphenyl]-2,3,4,G-tetra-0-benzyl-D-glucitol
+(763 mg) was
+dissolved in dimethylformamide (10 ml). To the mixture was
+added potassium carbonate (207 mg) and methyl iodide (0.095 ml),
+and the mixture was stirred for 16 hours at room temperature.
+The reaction mixture was diluted with sodium sulfate washed with
+water and saturated saline solution. The organic layer was dried
+with sodium sulfate, and the solvent was evaporated therefrom
+under reduced pressure to give the residue. The resulting residue
+was purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain (1S)-1,5-anhydro-1-[5-(1-benzothiene-2-yl
+methyl)-2-methoxyphenyl]-2,3,4,6-tetra-0-benzyl-D-glucitol (736
+mg).</p><p num="0111">The compounds in Examples 34 to 40 were obtained in a 
+manner similar to that of Example 33.</p><heading>( Example 41 )</heading><p num="0112">Tert-butyl[2-(4-(1-benzothiene-2-ylmethyl)-2-(2,3,4,6-tetra-0
+-benzyl- <i>β</i> -D-glucopyranosyl)phenoxy)ethyl]carbamate (910 mg)
+was dissolved in tetrahydrofuran (20 ml), and lithium aluminum
+hydride (76 mg) was added to the mixture, and the mixture was
+stirred for seven hours under reflux condition. Aqueous solution
+of sodium hydroxide was added to the reaction mixture, and the
+precipitate was separated by filtration through celite. The filtrate
+was concentrate, and the resulting residue was diluted with
+chloroform and dried over sodium sulfate. The solvent was
+evaporated therefrom under reduced pressure to give the residue,
+and the obtained residue was purified by silica gel column
+chromatography (chloroform-methanol) to obtain (1S)-1,5-anhydro
+-1-[5-(1-benzothiene-2-ylmethyl)-2-[2-methylamino]ethoxy]phenyl]
+-2,3,4,6-tetra-O-benzyl-D-glucitol (612 mg).</p><heading>( Example 42 )</heading><p num="0113">Tert-butyl[2-(4-(1-benzothiene-2-ylmethyl)-2-(2,3,4,6-tetra-0
+-benzyl-β -D-glucopyranosyl)phenoxy)ethyl]carbamate (906 mg)
+was dissolved in acetonitrile (10 ml), and methanol (0.08 ml),
+sodium iodide (300 mg), and acetyl chloride (0.28 ml), and the
+mixture was stirred for one hour at room temperature. To the
+mixture was added diisopropylethylamine (0.70 ml), and the
+mixture was stirred for 1.5 hours at room temperature. Further,
+acetyl chloride (0.14 ml) and diisopropylethylamine (0.35 ml) were
+added to the mixture, and the mixture was stirred for 14 hours at
+room temperature. The reaction mixture was diluted with 1M 
+hydrochloric acid and extracted with diethyl ether. The organic
+layer was dried over sodium sulfate, and the solvent was
+evaporated therefrom under reduced pressure to give the residue.
+The residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate) to obtain N-[2-(4-(1-benzothiene-2-yl
+methyl)-2-(2,3,4,6-tetra-0-benzyl-<i>β</i> -D-glucopyranosyl)phenoxy)
+ethyl]acetamide (387 mg).</p><heading>( Example 43 )</heading><p num="0114">(1S)-1,5-Anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-hydroxy
+phenyl]-D-glucitol (1.33 g) was dissolved in acetic anhydride
+-pyridine (1:2) (30 ml), and the mixture was stirred for 25 hours at
+room temperature. The reaction mixture was concentrated, and
+the obtained solid was washed with ethanol to obtain
+(1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydro-1-[2-acetoxyphenyl-5-(1-benzothiene-2-ylmethyl)-D-glucitol
+(1.93 g).</p><p num="0115">The compound in Example 44 was obtained in a manner
+similar to that of Example 43.</p><heading>( Example 45 )</heading><p num="0116">(1S)-2,3,4,6-Tetra-0-acetyl-1,5-anhydro-1-[2-acetoxyphenyl-5-(1-benzothiene-2-ylmethyl)-D-glucitol
+(1.93 g) was dissolved in
+acetonitrile (30 ml). 1,1,3,3-Tetramethylguanidine (1.6 ml) was
+added to the mixture, and the mixture was stirred for 2.5 hours at
+50°C. The reaction mixture was concentrated, and the resulting
+residue was diluted with saturated ammonium chloride solution
+and extracted with ethyl acetate. The organic layer was dried over
+sodium sulfate. The solvent was evaporated therefrom under
+reduced pressure to give the residue. The resulting residue was 
+purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain (1S)-2,3,4,G-tetra-0-acetyl-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-hydroxyphenyl]-D-glucitol
+(1.85
+g).</p><p num="0117">The compound in Example 46 was obtained in a manner
+similar to that of Example 45.</p><heading>(Example 47 )</heading><p num="0118">(1S)-2,3,4,6-Tetra-0-acetyl-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-hydroxyphenyl]-D-glucitol
+(570 mg) was dissolved in
+dimethylformamide (10 ml), and potassium carbonate (0.69 g),
+cyclopentyl bromide (0.54 ml), and potassium iodide (83 mg) were
+added to the mixture, and the mixture was stirred for two days at
+50°C. The reaction mixture was diluted with ethyl acetate and
+washed with water. The organic layer was dried with sodium
+sulfate, and the solvent was evaporated therefrom under reduced
+pressure to give the residue. The resulting residue was purified
+by silica gel column chromatography (n-hexane-ethyl acetate) to
+obtain (1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydxo-1-[5-(1-benzo
+thiene-2-ylmethyl)-2-(cyclopentyloxy)phenyl]-D-glucitol (393 mg).</p><p num="0119">The compound in Example 48 was obtained in a manner
+similar to that of Example 47.</p><heading>( Example 49 )</heading><p num="0120">(1S)-2,3,4,6-Tetra-0-acetyl-1,5-anhydro-1-[5-(1-benzothiene
+-2-ylmethyl)-2-hydroxyphenyl]-D-glucitol (570 mg) was dissolved in
+tetrahydrofuran (10 ml). 2-propanol (0.38 ml), diethyl
+azodicarboxylato (0.63 ml), and triphenylphosphine (1.05 g) were
+added to the mixture, and the mixture was stirred for two days at 
+room temperature. Further, 2-propanol (0.23 ml), diethyl
+azodicarboxylato (0.31 ml), and triphenylphosphine (0.52 g) were
+added to the mixture, and the mixture was stirred for four hours at
+room temperature. The reaction mixture was concentrated, and
+the residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate) to obtain (1S)-2,3,4,6-tetra-0-acetyl
+-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-(isopropyloxy)
+phenyl]-D-glucitol (544 mg).</p><heading>( Example 50 )</heading><p num="0121">Sodium hydride (60 %) is suspended in dimethylsulfoxide (3
+ml), and the mixture was stirred for half an hour at 60°C. To the
+mixture was added a solution of (1S)-2,3,4,6-tetra-0-acetyl
+-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-hydroxyphenyl]-D-glucitol
+(571 mg) in dimethylsulfoxide (2 ml), and the mixture was
+stirred for one hour at room temperature. Then, (S)-(-)-4-chloro
+methyl-2,2-dimethyl-1,3-dioxolane (0.21 ml), and the mixture was
+stirred for seven hours at 80°C. The reaction mixture was diluted
+with water and extracted with dichloromethane. The organic
+layer was dried over sodium sulfate, and the solvent was
+evaporated therefrom under reduced pressure to give the residue.
+The resulting residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+(1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydro-1-[5-(1-benzothiene-2-yl
+methyl)-2-{[(4R)-2,2-dimethyl-1,3-dioxolane-4-yl]methoxy}phenyl)-D-glucitol
+(77 mg).</p><heading>( Example 51)</heading><p num="0122">2,6-Lutidine (3.98 ml) and trifluoromethanesulfonic 
+anhydride (3.45 ml) were added to a solution of (1S)-1,5-anhydro-1-[5-(benzothiene-2-ylmethyl)-2-hydroxyphenyl]-2,3,4,6-tetra-0-benzyl-D-glucitol
+(13.1 g) in dichloromethane (150 ml) cooled at
+-20°C under an argon atmosphere, and the mixture was stirred for
+three hours. To the mixture were further added 2,6-lutidine (2.00
+ml) and trifluoromethanesulfonic anhydride (1.73 ml), and the
+mixture was stirred for one hour. Aqueous solution of saturated
+sodium bicarbonate was added to the mixture, and extracted three
+times with chloroform. The organic layer was washed with water
+and saturated saline solution and dried over anhydrous magnesium
+sulfate. The solid was removed by filtration, and the solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue. The residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+(1S)-1,5-anhydro-1-[5-(benzothiene-2-ylmethyl)-2-trifluoromethane
+sulfonylphenyl]-2,3,4,6-tetra-0-benzyl-D-glucitol (13.9 g).</p><heading>(Example 52 )</heading><p num="0123">(1S)-1,5-Anhydro-1-[5-(benzothiene-2-ylmethyl)-2-trifluorom
+ethanesulfonylphenyl]-2,3,4,6-tetra-0-benzyl-D-glucitol (5.67 g)
+was dissolved in a mixed solvent of dimethylsulfoxide (30 ml) and
+methanol (25 ml). Palladium acetate (II) (285 mg),
+1,3-bis(diphenylphosphino)propane (524 mg), and triethyl amine
+(1.94 ml) was added to the mixture, and the mixture was stirred for
+two days at 55°C in a carbon monoxide atmosphere. The mixture
+was cooled to room temperature and then extracted three times
+with ethyl acetate. The organic layer was washed with water two
+times and saturated saline solution and dried over anhydrous 
+magnesium sulfate. The solid was removed by filtration, and the
+solvent was evaporated the filtrate under reduced pressure to give
+the residue. The residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain methyl
+4-(1-benzothiene-2-ylmethyl)-2-(2,3,4,G-tetra-0-benzyl-,0
+-D-glucopyranosyl)benzoate (2.74 g).</p><heading>( Example 53 )</heading><p num="0124">Methyl 4-(1-benzothiene-2-ylmethyl)-2-(2,3,4,6-tetra-0-benzyl-<i>β</i>
+-D-glucopyranosyl)benzoate (5.26 g) is dissolved in
+tetrahydrofuran (5 ml). Methanol (10 ml) and aqueous solution of
+10M sodium hydroxide (10 ml) was added to the mixture, and the
+mixture was stirred for 21 hours at 60°C. The reaction mixture
+was cooled to room temperature, and acidified by addition of 6M
+hydrochloric acid, and thereafter extracted three times with
+chloroform. The organic layer was washed with saturated saline
+solution and dried over anhydrous magnesium sulfate. The solid
+was removed by filtration, and the solvent was evaporated from the
+filtrate under reduced pressure to give the residue. The residue
+was subjected to vacuum drying to obtain 4-(1-benzothiene-2-yl
+methyl)-2-(2,3,4,6-tetra-0-benzyl- <i>β</i> -D-glucopyranosyl)benzoic acid
+(5.13 g).</p><p num="0125">The compound in Example 54 was obtained in a manner
+similar to that of Example 53.</p><heading>( Example 55 )</heading><p num="0126">Oxarylchloride (0.16 ml) and a drop of dimethylformamide
+was added to a solution of [4-(1-benzothiene-2-ylmethyl)-2-(2,3,4,6-tetra-0-benzyl-β-D-glucopyranosyl)phenoxy]acetic
+acid (770 mg) in 
+dichloromethane (10 ml) under cooling with ice, and the mixture
+was stirred for two hours at room temperature. The reaction
+mixture was subjected to evaporation under reduced pressure, and
+the residue obtained was dissolved in dichloromethane (15 ml).
+28% aqueous ammonia (10 ml) was added to the solution, and the
+mixture was stirred for one hour at room temperature. The
+organic layer was separated and dried over magnesium sulfate.
+The solvent was evaporated therefrom under reduced pressure to
+give the residue to obtain [4-(1-benzothiene-2-ylmethyl)
+-2-(2,3,4,6-tetra-0-benzyl-<i>β</i> -D-glucopyranosyl) phenoxy]acetamide
+(740 mg).</p><p num="0127">The compound in Example 56 was obtained in a manner
+similar to that of Example 55.</p><heading>(Example 57 )</heading><p num="0128">4-(1-Benzothiene-2-ylmethyl)-2-(2,3,4,6-tetra-0-benzyl-<i>β</i>
+-D-glucopyranosyl)benzoic acid (2.23 g) was dissolved in toluene (20
+ml), and triethylamine (0.590 ml) was added to the solution, and
+the mixture was cooled to 0°C. Diphenylphosphorylazide (0.67 ml)
+was added dropwise gradually to the mixture, and the mixture was
+stirred for 2.5 hours at room temperature. The reaction mixture
+was diluted with toluene, and then was washed with aqueous
+solution of 1% sodium hydrogencarbonate and saturated saline
+solution and dried over anhydrous magnesium sulfate. The solid
+was removed by filtration, and the solvent was evaporated the
+filtrate under reduced pressure to give the residue. The residue
+was dissolved in toluene (20 ml), and the mixture was stirred for
+three hours at 130°C. 2-Propanol (30 ml) was further added to the 
+mixture, and the mixture was stirred for 16 hours at 110°C. The
+mixture was cooled to room temperature, and water was added to
+the mixture, and extracted three times with chloroform. The
+organic layer was washed with saturated saline solution and dried
+over anhydrous magnesium sulfate. The solid was removed by
+filtration, and the solvent was evaporated from the filtrate under
+reduced pressure to give the residue. The residue was purified by
+silica gel column chromatography (n-hexane-ethyl acetate) to
+obtain tert-butyl 4- (1-benzothiene-2-ylmethyl)-2-(2,3,4,6 -tetra
+-0-benzyl-β-D-glucopyranosyl)phenylcarbamate (1.50 g).</p><heading>( Example 58 )</heading><p num="0129">Tert-butyl 4-(1-benzothiene-2-ylmethyl)-2-(2, 3,4, G-tetra
+-0-benzyl-<i>β</i> -D-glucopyranosyl)phenylcarbamate (1.11 g) was
+dissolved in ethyl acetate (3 ml). 4M Ethyl acetate hydrochloride
+(3 ml) was added to the mixture under cooling with ice, and the
+temperature of the mixture was raised to room temperature. Then,
+the mixture was stirred for three hours. Aqueous solution of 1M
+sodium hydroxide was added to the mixture, and extracted three
+times with chloroform. The organic layer was washed with
+aqueous solution of 1M sodium hydroxide and saturated saline
+solution and dried over anhydrous magnesium sulfate. The solid
+was removed by filtration, and the solvent was evaporated the
+filtrate under reduced pressure to give the residue. The residue
+was purified by silica gel column chromatography
+(n-chloroform-methanol-aqueous ammonia) to obtain
+(1S)-1,5-anhydro-1-(2-amino-5-(1-benzothiene-2-ylmethyl)phenyl]-2-(2,3,4,6-tetra-0-benzyl-D-glucitol
+(576 mg). </p><heading>( Example 59 )</heading><p num="0130">Lithium aluminum hydride (68 mg) was added to anhydrous
+tetrahydrofuran (15 ml) under an argon atmosphere, and a solution
+of tert-butyl 4-(1-benzothiene-2-ylmethyl)-2-(2,3,4,6-tetra
+-0- benzyl-<i>β</i> - -D-glucopyranosyl)phenylcarbamate (1.27 g) in
+anhydrous tetrahydrofuran (15 ml) was gradually added dropwise
+to the mixture. The reaction mixture was stirred for two hours at
+75°C. After the reaction was completed, the mixture was cooled to
+room temperature. Water (1.0 ml), aqueous solution of 15%
+sodium hydroxide (10 ml), and water (3.0 ml) were added in order,
+and the mixture was stirred at room temperature. The solid was
+removed by filtration through celite, and the solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue. Chloroform was added to the mixture, and the mixture
+was washed with saturated saline solution and dried over
+anhydrous magnesium sulfate. The solid was removed by
+filtration, and the solvent was evaporated the filtrate under
+reduced pressure to give the residue. The residue was purified by
+silica gel column chromatography (n-hexane-ethyl acetate) to
+obtain (1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-(methylamino)phenyl]-2-(2,3,4,6-tetra-0-benzyl-D-glucitol
+(737
+mg) as achromatic viscous matter.</p><p num="0131">The compounds in Example 60 to 62 were obtained in a
+manner similar to that of Example 59.</p><heading>( Example 63 )</heading><p num="0132">Phthalimide (294 mg), triphenylphosphine (525 mg), and
+diethlazodicarboxylate (0.32 ml) were added to a solution of 
+(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-(hydroxyl
+ethoxy) phenyl]-2-(2,3,4,6-tetra-0-benzyl-D-glucitol (1.35 g) in
+tetrahydrofuran (20 ml), and the mixture was stirred for six hours
+at room temperature. Silica gel (3 g) was added to the reaction
+mixture, and the mixture was dry-solidified under reduced pressure
+and purified by column chromatography. The residue was
+dissolved in tetrahydrofuran (15 ml) and ethanol (15 ml).
+Hydrazine hydrate (0.54 ml) was added dropwise to the mixture,
+and the mixture was stirred for 24 hours at room temperature.
+After insoluble matter was separated by filtration, the filtrate was
+concentrated to obtain the residue. Chloroform was added to the
+residue, and insoluble matter was further separated by filtration.
+The filtrate was washed with water, dried over magnesium sulfate,
+and concentrated. The residue obtained was purified by silica gel
+column chromatography to obtain (1S)-1,5-anhydro-1-[2-(aminoethoxy)-5-(1-benzothiene-2-ylmethyl)phenyl]-2,3,4,6-tetra-0-benzyl-D-glucitol
+(960 mg).</p><heading>( Example 64)</heading><p num="0133">(1S)-1,5 -Anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-(methyl
+amino)phenyl]-2,3,4,6-tetra-0-benzyl-D-glucitol (179 mg) was
+dissolved in dichloromethane (3 ml). 35% Formalin (0.008 ml) and
+acetic acid (0.02 ml) were added to the mixture, and the mixture
+was stirred at room temperature. Sodium triacetoxy boronhydride
+(74 mg) was added to the mixture, and the mixture was stirred for
+11 hours. Aqueous solution of saturated sodium
+hydrogencarbonate was added to the reaction mixture, and
+extracted three times with chloroform after decomposition of the 
+excessive reagent. The organic layer was washed with saturated
+saline solution and dried over anhydrous magnesium sulfate. The
+solid was removed by filtration, and the solvent was evaporated
+from the filtrate under reduced pressure to give the residue. The
+residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate) to obtain (1S)-1,5-anhydro-1-[5-(1-benzo
+thiene-2-ylmethyl)-2-(dimethylamino)phenyl]-2,3,4,6-tetra-0-benzy-1-D-glucitol
+(124 mg).</p><heading>( Example 65 )</heading><p num="0134">A solution of 1.58 M n-hexane (2.2 ml) of n-butyl lithium was
+added dropwise to a solution of [1-benzothiene-2-yl(5-bromo-2-fluorophenyl)methoxyl(tert-butyl)dimethylsilane
+(1.50 g) in
+anhydrous tetrahydrofuran (15 ml) cooled at -78°C under an argon
+atmosphere, and the mixture was stirred for half an hour. Then, a
+solution of 2,3,4,6-tetra-0-benzylgluconolactone (1.90 g) in
+anhydrous tetrahydrofuran (20 ml) was added to the reaction
+mixture, and the mixture was stirred for 1.5 with gradually raising
+the temperature from -78°C to 0°C. Aqueous solution of saturated
+ammonium chloride was added to the mixture, and extracted three
+times with ethyl acetate. The organic layer was washed with
+aqueous solution of saturated ammonium chloride and saturated
+saline solution and dried over anhydrous magnesium sulfate. The
+solid was removed by filtration, and the solvent was evaporated
+from the filtrate under reduced pressure to give the residue. The
+residue was purified by silica gel column chromatography
+(chloroform-n-hexane-acetone). The residue (1.52 g) obtained was
+dissolved in dehydrated tetrahydrofuran (15 ml). A solution of 
+tetra-n-butyl ammonium fluoride in 1.0 M tetrahydrofuran (2.0 ml)
+was added to the mixture, and the mixture was stirred for 65
+minutes at room temperature. After the solvent was evaporated
+therefrom under reduced pressure to give the residue, the residue
+was purified by silica gel column chromatography (n-hexane-ethyl
+acetate). Triethylsilane (0.239 ml) and borontrifluoride diethyl
+ether complex (0.175 ml) were added to a solution of the residue
+(500 mg) obtained in acetonitrile (5 ml), and the mixture was
+stirred for five hours. To the mixture was added aqueous solution
+of saturated sodium hydrogencarbonate, and then extracted three
+times with chloroform after decomposition of excessive reagent.
+The organic layer was washed with aqueous solution of saturated
+sodium hydrogencarbonate and saturated saline solution, and dried
+over anhydrous sodium sulfate. The solid was removed by
+filtration, and the solvent was evaporated from the filtrate under
+reduced pressure to give the residue to give the residue. The
+residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate) to obtain 1,5-anhydro-1-[3-(1-benzothiene-2-ylmethyl)-4-fluorophenyl]-2,3,4,6-tetra-0-benz
+yl-D-glucitol (150 mg) as light-yellow viscous matter.</p><p num="0135">The compounds in Examples 66 to 68 were obtained in a
+manner similar to that of Example 65.</p><heading>( Example 69 )</heading><p num="0136">Magnesium (granules; 131 mg), and 1,2-dibromoethane (a
+drop) were added to tetrahydrofuran (10 ml) under an argon
+atmosphere. A solution of 2-(1-benzothiene-2-ylmethyl)
+-4-bromophenyl methyl ether (1.5 g) in tetrahydrofuran (15 ml) was 
+gradually added dropwise to the mixture, and the temperature was
+raised from room temperature to 60°C to prepare a Grignard
+reagent. After cooling to room temperature, a solution of
+2,3,4,6-tetra-0-benzyl-D-(+)- glucono-1,5-lactone (2.91 g) in
+tetrahydrofuran (20 ml) was added to the reagent, and the mixture
+was stirred for three hours. Aqueous solution of saturated
+ammonium chloride was added to the mixture, and extracted three
+times with ethyl acetate. The organic layer was washed with
+aqueous solution of saturated ammonium chloride and saturated
+saline solution and dried over anhydrous magnesium sulfate. The
+solid was removed by filtration, and the solvent was evaporated
+from the filtrate under reduced pressure to give the residue. The
+residue was purified by silica gel column chromatography
+(n-hexane-ethyl acetate). Triethylsilane (0.146 ml) and boron
+trifluoride-diethyl ether complex (0.105 ml) was added to a solution
+of the residue (600 mg) obtained in acetonitrile (6 ml) at -20°C, and
+the mixture was stirred for three hours. Triethylsilane (0.073 ml)
+and boron trifluoride-diethyl ether complex (0.048 ml) was further
+added to the mixture. The temperature was raised to -10°C, and
+the mixture was stirred for two hours. Aqueous solution of
+saturated sodium hydrogencarbonate was added to the mixture to
+decompose superfluous reagent, and extracted three times with
+chloroform. The organic layer was washed with saturated saline
+solution and dried over anhydrous magnesium sulfate. The solid
+was removed by filtration, and the solvent was evaporated from the
+filtrate under reduced pressure to give the residue. The residue
+was purified by silica gel column chromatography (n-hexane-ethyl 
+acetate) to obtain (1S)-1,5-anhydro-1-[3-(1-benzothiene
+-2-ylmethyl)-4-methoxyphenyl]-2,3,4,6-tetra-0-benzyl-D-glucitol
+(394 mg).</p><p num="0137">The compound in Example 70 was obtained in a manner
+similar to that of Example 69.</p><heading>( Example 71 )</heading><p num="0138">A solution of 2-bromopyridine (342 mg) in tetrahydrofuran
+(13 ml) was added dropwise to a solution of 1.59 M hexane (1.36 ml)
+of n-butyl lithium at -78°C under an argon atmosphere, and the
+mixture was stirred for one hour at the same temperature. Then,
+a solution of 3-(2,3,4,6-tetra-0-benzyl-,<i>β</i> -D-gluglucopyranosyl)
+benzaldehyde (1.13 g) in tetrahydrofuran (35 ml) was added
+dropwise to the mixture, and the mixture was stirred for 2.5 hours.
+Water (40 ml) was added to the reaction mixture, and extracted
+with ethyl acetate, and the organic layer was dried over anhydrous
+magnesium sulfate. After filtration, the solvent was evaporated
+from the filtrate under reduced pressure to give the residue, and
+the resulting residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain (1S)-1,5-anhydro
+-2,3,4,6-tetra-0-benzyl-1-[3-[hydroxy(pyridine-2-yl)
+methyl]phenyl] -D-glucitol (0.99 g). Sodium hydride (60%) (202
+mg) was added to a solution of (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl
+-1-[3- [hydroxy(pyridine-2- yl)metbyl]phenyl]-D-glucitol
+(1.78 g) in tetrahydrofuran (12 ml) at room temperature, and the
+mixture was stirred for half an hour. Carbon disulfide-(1.15 ml)
+was added dropwise to the mixture under cooling with ice, and the
+mixture was stirred for two hours at the same temperature and 
+further two hours at room temperature. Methyl iodide (0.28 ml)
+was added dropwise to the reaction mixture under cooling with ice,
+and the mixture was stirred for 2.5 hours at the same temperature.
+Water was added to the reaction mixture, and extracted with ethyl
+acetate. The organic layer was dried over anhydrous magnesium
+sulfate. After filtration, the solvent was evaporated from the
+filtrate under reduced pressure to give the residue, and the residue
+was dissolved in toluene (20 ml). Tributyltin hydride (3.28 ml)
+and azoisobutyronitrile (82 mg) were added to the mixture, and the
+mixture was stirred for 64 hours under reflux condition. The
+solvent was evaporated from the filtrate under reduced pressure to
+give the residue, and the residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+(1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-[3-[(pyridine-2-yl)methyl
+]phenyl]-D-glucitol (1.51 g).</p><p num="0139">The compound in Example 72 was obtained in a manner
+similar to that of Example 71.</p><heading>( Example 73 )</heading><p num="0140">(1S)-1,5-Anhydro-2,3,4,6-tetra-0-benzyl-1-[3-[(hydroxyl
+methyl)phenyl]-D-glucitol (631 mg) and phthalimide (154 mg) were
+dissolved in tetrahydrofuran (10 ml). Diethylazodicarboxylate
+(0.18 ml) and triphenylphosphine (303 mg) were added to the
+mixture under cooling with ice, and the mixture was stirred for 20
+hours at room temperature. The reaction mixture was
+concentrated, and the residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-C-{3-[(1,3-dioxo-1,3-dihydro-2H-isoindole-2-yl)methyl]phenyl}-D-glucitol 
+(784 mg).</p><heading>(Example 74)</heading><p num="0141">1,2-Dibromoethane (one drop) was added to a solution of zinc
+dust (86 mg) in tetrahydrofuran (2.0 ml) in an argon atmosphere,
+and the solution was refluxed for five minutes. Chlorotrimethylsilane
+(a drop) was added to the mixture at room
+temperature, and the mixture was stirred for 15 minutes. Then,
+(1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydro-1-(3-bromomethyl
+-6-methoxy)phenyl-D-glucitol (700 mg) was added to the mixture,
+and the mixture was refluxed for one hour. 2-bromo-1H-indene
+(128 mg) and tetrakistriphenylphosphine palladium (76 mg) were
+added to the mixture, and the mixture was heat-refluxed for five
+hours. The temperature of the mixture was cooled to room
+temperature, and aqueous solution of saturated ammonium
+chloride was added. The insoluble matter was separated by
+filtration, and the filtrate was extracted with ethyl acetate. The
+organic layer was washed with saturated saline solution and dried
+with anhydrous sodium sulfate. After filtration, the solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue, and the residue was purified by silica gel column
+chromatography (chloroform-ethyl acetate) to obtain
+(1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydro-1-[3-[(1H-indene
+-2-yl)methyl-6-methoxy]phenyl]-D-glucitol (190 mg).</p><p num="0142">The compounds in Examples 75 to 79 were obtained in a
+manner similar to that of Example 74.</p><heading>( Example 80 )</heading><p num="0143">Active zinc (131 mg) was suspended in tetrahydrofuran (2 
+ml). 1,2-dibromoethane (0.07 ml) was added to the suspension,
+and the suspension was stirred for five minutes at 60°C. Then,
+trimethylsilyl chloride (0.10 ml) was added to the mixture, and the
+mixture was stirred for 10 minutes at room temperature.
+Subsequently, a solution of (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-[3-(bromomethyl)phenyl]-D-glucitol
+(694 mg) in
+tetrahydrofuran (3 ml) was added to the mixture, and the mixture
+was stirred for one hour at 60°C. Then, 2-(methylthio)
+benzothiazole (181 mg) and tetrakisphosphine palladium (231 mg)
+were added to the mixture, and the mixture was stirred for 15 hours
+at 60°C. After the precipitate was separated by filtration, the
+filtrate was concentrated. The residue obtained was diluted with
+ethyl acetate and washed with saturated aqueous sodium
+bicarbonate and saturated saline solution. The organic layer was
+dried over sodium sulfate, and the solvent was evaporated
+therefrom under reduced pressure to give the residue. The residue
+was purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl
+-1-[3-(1,3-benzothiazole-2-ylmethyl)phenyl]-D-glucitol (355 mg).</p><heading>( Example 81 )</heading><p num="0144">1,4-Dioxane (10 ml) suspension of (1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydro-1-[3-(bromomethyl)phenyl]-D-glucitol
+(501 mg),
+1-methyl-2-(tributylstanyl)-1H-indole (546 mg), tris(dibenzylideneacetone)dipalladium
+(92 mg), 2-(dicyclohexylphosphino)biphenyl
+(88 mg), potassium fluoride (174 mg), and cesium carbonate (652
+mg) was stirred for 18 hours at 60°C. The insoluble matter was
+removed by filtration, and the solvent was evaporated from the 
+filtrate to give the residue. The residue obtained was subjected to
+silica gel column chromatography to obtain (1S)-2,3,4,6-tetra
+-0-acetyl-1,5-anhydro-1-{3-[(1-methyl-1H-indole-2-yl)methyl]pheny
+1}-D-glucitol (280 mg).</p><p num="0145">The compounds in Examples 82 to 91 were obtained in a
+manner similar to that of Example 81.</p><heading>( Example 92 )</heading><p num="0146">Tetrakistriphenylphosphinepalladium(0) (43 mg) and
+dimethyl-1-benzothiene-3-ylboronate (132 mg) to a solution of
+1-(2,3,4,6-tetra-0-benzyl. <i>β</i> -D-glucopyranosyl)-3-(trifluoro
+methanesulfonyl)benzene (280 mg) in toluene (10 ml) at room
+temperature. Aqueous solution of saturated sodium bicarbonate
+(4 ml) was further added to the mixture, and the mixture was
+stirred for four hours at 90°C. Ethyl acetate and saturated saline
+solution were added to the reaction mixture, the insoluble matter
+was subjected to filtration through celite, and the organic layer was
+extracted. The organic layer was washed with water and
+saturated saline solution, dried over anhydrous magnesium sulfate,
+and concentrated to give the residue. The resulting residue was
+purified by silica gel column chromatography (n-hexane-ethyl
+acetate) to obtain (1S)-1,5-anhydro-1-(3-(1-benzothiene-3-yl)
+phenyl]- 2,3,4,6-tetra-0-benzyl-D-glucitol (170 mg).</p><heading>( Example 93 )</heading><p num="0147">Twenty percents of palladium hydroxide/carbon (800 mg)
+were added to a suspension of 1,4:5,9-dianhydro-6,7,8,10-tetra
+-0-benzyl-2,3-dideoxy-2-(4-methoxybenzyl)-1-thio-D-glycero-D-deca-1,3-dienitol
+(0.72 g) in tetrahydrofurane (5.0 ml) and 
+hydrochloric acid in 2% methanol solution (10 ml), and the mixture
+was stirred for 18 hours at hydrogen atmosphere (1 atm). The
+reaction mixture was filtrated through celite, and the filtrate was
+concentrated. Then, pyridine (3.0 ml) and acetic anhydride (1.5
+ml) were added to the residue, and the mixture was stirred over
+night at room temperature. The solvent was evaporated therefrom
+under reduced pressure, and the resultant was co-evaporated with
+toluene. The resulting residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain 6,7,8,10-tetra-0-acetyl-1,4:5,9-dianhydro-2,3-dideoxy-2-(4-methoxybenzyl)-1-thio-D-glycero-D-deca-1,3-dienitol
+(0.13 g).</p><heading>( Example 94 )</heading><p num="0148">0.76 Mole of tetrahydrofuran solution of
+isopropylmagnesium bromide (27.6 ml) was added dropwise to a
+solution of 2-(4-ethylbenzyl)-1H-pyrrole (4.14 g) in tetrahydrofuran
+(10 ml), and the mixture was stirred for two hours. To the mixture
+was added dropwise 2,3,4,G-tetra-0-benzyl-D-glucopyranosyl
+fluoride (3.80 g), and the mixture was stirred for five hours.
+Aqueous solution of saturated ammonium chloride was added to the
+reaction mixture, and extracted with ethyl acetate. The organic
+layer was washed with saturated saline solution and dried over
+anhydrous sodium sulfate. After filtration, the solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue. The residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+(1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1[5-(4-ethyl
+benzyl)-1H-pyrrole-2-yl]-D-glucitol (1.89 g). </p><heading>( Example 95 )</heading><p num="0149">Fifteen mg of sodium hydride (60%) were added to a solution
+of (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-[5-(4-ethylbenzyl)-1H-pyriole-2-yl]-D-glucitol
+(210 mg) in dimethylformamide (3.0 ml),
+and the mixture was stirred for 15 minutes at room temperature.
+Then, methyl iodide (0.185 ml) was added to the mixture, and the
+mixture was stirred for half an hour. Water was added to the
+reaction mixture, and extracted with diethyl ether. The organic
+layer was washed with water and saturated saline solution and
+dried over anhydrous sodium sulfate. After filtration, the solvent
+was evaporated from the filtrate under reduced pressure to give the
+residue. The residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+(1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-[5-(4-ethylbenzyl)
+-1-methyl-1H-pyrrole-2-yl]-D-glucitol (143 g).</p><heading>(Example 96)</heading><p num="0150">(1S)-1,5-Anhydro-2,3,4,6-tetra-0-benzyl-1-(1H-pyrrole-2-yl)-D-glucitol
+(773 mg) was added to a suspension of tetrabutyl
+ammonium bromide (42.2 mg) and potassium hydroxide (150 mg) in
+benzene (5.0 ml), and 4-ethylbenzyl bromide (331 mg) was added to
+the mixture. The mixture was stirred for two hours at room
+temperature. Water was added to the reaction mixture, and
+extracted with ethyl acetate. The organic layer was washed with
+saturated saline solution and dried over anhydrous sodium sulfate.
+After filtration, the solvent was evaporated from the filtrate under
+reduced pressure to give the residue. The resulting residue was
+purified by silica gel column chromatography (n-hexane-ethyl 
+acetate) to obtain (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-[1-(4-ethylbenzyl)-1H-pyrrole-2-yl]-D-glucitol
+(695 mg).</p><heading>( Example 97 )</heading><p num="0151">Triethylamine (0.6 ml) was added to a solution of (1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydro-1-(1H-tetrazole-5-yl)-D-glucitol
+(0.85 g) in tetrahydrofuran (10.0 ml), and 4-ethylbenzyl bromide
+(0.50 g) was added to the mixture. The mixture was stirred for 17
+hours at room temperature. Water was added to the reaction
+mixture, and extracted with ethyl acetate. The organic layer was
+washed with water and saturated saline solution and dried over
+anhydrous magnesium sulfate. After filtration, the solvent was
+evaporated from the filtrate under reduced pressure to give the
+residue. The resulting residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+(1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydro-1-[2-(4-ethylbenzyl)-1H-tet
+razole-5-yl]-D-glucitol (0.22 g).</p><heading>(Example 98 )</heading><p num="0152">2,3,4,6-Tetra-0-benzyl-1-C-(3,5-dichloropyrazine-2-yl)-D-glucopyranose
+(7.93 g) was dissolved in dichloromethane (90 ml),
+and triethylsilane (36.8 ml) and trifluoroacetic acid (17.7 ml) were
+added to the mixture, and the mixture was stirred for 19 days at
+room temperature. The reaction mixture was washed with
+saturated sodium bicarbonate, and the water layer was extracted
+with chloroform. The whole organic layer combined was dried over
+sodium sulfate, and the solvent was evaporated from the filtrate
+under reduced pressure to give the residue. The resulting residue
+was purified by silica gel column chromatography (n-hexane-ethyl 
+acetate) to obtain (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl
+-1-(3,5-dichloropyrazine-2-yl)-D-glucitol (2.15 g).</p><heading>(Example 99 )</heading><p num="0153">1.58 Moles of n-hexane solution (2.15 ml) of n-butyllithium
+were diluted with tetrahydrofuran (20 ml), and 2,2,6,6-tetramethyl
+piperidine (0.64 ml) was added dropwise to the solution at -78°C,
+and the mixture was stirred for one hour at 0°C. Subsequently, a
+solution of (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl
+-1-(3,5-dichloropyrazine-2-yl)-D-glucitol (2.09 g) in
+tetrahydrofuran (20 ml) was added to the mixture at -78°C, and the
+mixture was stirred for one hour at -78°C. Then,
+4-ehylbenzaldehyde (1.28 ml) was added to the mixture, and the
+mixture was stirred for 1.5 hours at -78°C. The reaction mixture
+was washed with saturated aqueous ammonium chloride, and the
+water layer was extracted with diethyl ether. The whole organic
+layer combined was dried over sodium sulfate, and the solvent was
+evaporated therefrom under reduced pressure to give the residue.
+The resulting residue was purified by silica gel column
+chromatography (n-hexane-ethyl acetate) to obtain
+(1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-(3,5-dichloro
+-6-[(4-ethylphenyl)(hydroxy)methyl]pyrazine-2-yl)-D-glucitol (842
+mg).</p><heading>( Example 100)</heading><p num="0154">Pentamethylbenzene (1.57 g) and 1.0 M n-heptane solution
+(2.97 ml) of boron trichloride were added to a solution of
+(1S)-1,5-anhydro-1-[3-[(5-methyl-1-benzothiene-2-yl)methyl)phenyl
+]-2,3,4,6-tetra-0-benzyl-D-glucitol (538 mg) in dichloromethane (25 
+ml), and the mixture was stirred for one hour. After the reaction
+was completed, methanol (5 ml) was added to decompose excessive
+reagent, and the resultant was subjected to evaporation under
+reduced pressure to remove solvent and give the residue. The
+residue was purified by silica gel column chromatography
+(chloroform-methanol) to obtain (1S)-1,5-anhydro-1-[3-[(5-methyl
+-1-benzothiene-2-yl)methyl]phenyl]-D-glucitol (274 mg).</p><p num="0155">The compounds in Examples 101 to 153 were obtained in a
+manner similar to that of Example 100.</p><heading>( Example 154 )</heading><p num="0156">1Mole of n-heptane solution of borontribromide (4.54 ml) was
+added dropwise to a solution of (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl-1-[3-[(benzothiophene-2-yl)methyl]phenyl]-D-glucitol
+(0.77
+g) and pentamethylbenzene (2.3 g) in dichloromethane (20 ml) at
+-78°C in an argon atmosphere, and the mixture was stirred for 90
+minutes. Methanol was added dropwise to the reaction mixture at
+-78°C, and the mixture was stirred till the temperature became
+room temperature. The solvent was evaporated therefrom under
+reduced pressure to give the residue, and methanol (20 ml) was
+further added thereto, and concentrated to give the residue. Then,
+toluene was added for further thereto, and concentrated to give the
+residue. The resulting residue was purified by silica gel column
+chromatography (chloroform-methanol) to obtain yellow amorphous
+(390 mg). This was further purified by a reversed-phase column
+chromatography to obtain (1S)-1,5-anhydro-1-[3-[(1-benzo
+thiophene-2-yl)methyl]phenyl] -D-glucitol (270 mg)..</p><p num="0157">The compound in Example 155 was obtained in a manner 
+similar to that of Example 154.</p><heading>(Example 156 )</heading><p num="0158">(1S)-2,3,4,6-Tetra-0-acetyl-1,5-anhydro-1-[5-(1-benzo
+thiophene-2-ylmethyl)-2-(cyclopentyloxy)phenyl]-D-glucitol (381
+mg) was dissolved in methanol (10 ml). Sodium methoxide (32 mg)
+was added to the solution, and the mixture was stirred for three
+hours at room temperature. The reaction mixture was neutralized
+with acid ion-exchange resin, and the resin was separated by
+filtration. The filtrate was concentrated, and the resulting
+residue was purified by silica gel column chromatography
+(chloroform-methanol) to obtain (1S)-1,5-anhydro-1-[5-(1-benzo
+thiene-2-yl)methyl]-2-(cyclopentyloxy)phenyl]-D-glucitol (215 mg).</p><p num="0159">The compounds in Examples 157 to 178 were obtained in a
+manner similar to that of Example 156.</p><heading>( Example 179 )</heading><p num="0160">(1S)-1,5-Anhydro-1-{5-[1-benzothiene-2-ylmethyl]-2-[(2-dimethylamino)ethoxy]phenyl}-2,3,4,6-tetra-0-benzyl-D-glucitol
+(520 mg) was dissolved in dichloromethane (25 ml). After
+pentamethylbenzene (1.39 g) was added to the solution, the
+resultant was cooled to -78°C. 1.0 Mole of n-heptane solution (3.4
+ml) of boron trichloride was added thereto, and the resultant
+mixture was stirred for four hours at -78°C. Methanol was added
+to the reaction mixture, and the solvent was evaporated therefrom
+under reduced pressure to give the residue. A mixed solution of
+toluene-diethyl ether (1:1) was added thereto, and extracted with
+aqueous solution of saturated sodium hydrogencarbonate. Water
+was evaporated under reduced pressure, and the residue was 
+purified by a reversed-phase column chromatography
+(methanol-water). Finally, the solid obtained was washed with
+diethyl ether to obtain (1S)-1,5-anhydro-1-{5-[1-benzothiene-2-yl
+methyl]-2-[(2-dimethyl amino)ethoxy]phenyl}-D-glucitol (104 mg).</p><heading>( Example 180 )</heading><p num="0161">1 Mole of aqueous solution of sodium hydroxide (1.5 ml) was
+added to (2R,3S,4S,4aR,10bS)-7-(1-benzothinene-2-ylmethyl)
+-3,4-dihydroxy-hydroxymethyl)-3,4,4a, 10b-tetrahydropyrano[3,2-c]
+isocumene-6(2H)-one (80 mg), and the mixture was stirred for two
+hours. Then, the reaction mixture was neutralized by adding 1 M
+aqueous solution of hydrochloric acid (1,5 ml) The reaction
+mixture was concentrated, and the residue was purified by a
+reversed-phase column chromatography (water-methanol) to obtain
+4-(1-benzothiene-2-ylmethyl)-2-(<i>β</i> -D-glucopyranosyl)benzoic acid
+(67 mg).</p><heading>( Example 181)</heading><p num="0162">N-Methylmorpholine (412 mg) and chlorotrimethylsilane
+(295 mg) were added to a solution of (2R,3S,4S,4aR, 10bS)-7-(1-benzothinene-2-ylmethyl)-3,4-dihydroxy-2-hydroxymethyl)-3,4,4
+a,10b-tetrahydropyrano[3,2-c]isocumene-6(2H)-one (280 mg) in
+tetrahydrofuran (14 ml) at -5°C, and the mixture was stirred for 12
+hours at 40°C. Toluene and water were added to the reaction
+mixture, and the organic layer was extracted. The organic layer
+was washed with water and saturated saline solution and dried
+over anhydrous sodium sulfate. The resulting residue (384 mg)
+was dissolved in tetrahydrofuran (15 ml), and lithium aluminum
+hydride (56 mg) was added to the solution at -10°C. After the 
+mixture was stirred for three hours under cooling with ice, sodium
+sulfate decahydrate was added thereto. After the resultant was
+filtrated through celite, the filtrate was concentrated to give the
+residue. The residue was purified by a reversed-phase column
+chromatography (water-methanol) to obtain (1S)-1,5-anhydro
+-1-[5-(1-benzothiene-2-ylmethyl)-2-(hydroxymethyl)phenyl]
+-D-glucitol (90 mg).</p><heading>(Example 182 )</heading><p num="0163">Twenty percents of hydrochloric acid-methanol (three drops)
+and 5% palladium-carbon (0.1 g) were added to a solution of
+(1H-indene-2-yl)[3-(2,3,4,6-tetra-0-benzyl-<i>β</i> -D-glucopyranosyl)
+phenyl]methanone (0.84 g) in methanol (10 ml), and the resultant
+was stirred for 18 hours in a hydrogen atmosphere. The reaction
+mixture was filtrated, and the solvent was evaporated from the
+filtrate under reduced pressure to give the residue, and the
+resulting residue was purified by silica gel column chromatography
+(chloroform-methanol) to obtain (1S)-1,5-anhydro-1-[3-[(2,3-dihydro-1H-indene-2-yl)methyl]phenyl]-D-glucitol
+(16 mg).</p><p num="0164">The compounds in Examples 183 and 184 were obtained in a
+manner similar to that of Example 182.</p><heading>( Example 185.)</heading><p num="0165">Sodium hydride (42 mg) was added to a solution of pyrrole
+(64 mg) in dimethylformamide (10 ml) under cooling with ice, and
+the mixture was stirred for half an hour at room temperature.
+After the mixture was cooled to -30°C, a solution of
+(1S)-2,3,4,6-tetra-0-acetyl-1,5-anhydro-1-[3-(bromomethyl)phenyl]-D-glucitol
+(80 mg) in tetrahydrofuran (2 ml) was added dropwise 
+thereto, and the resultant was stirred for one hour at room
+temperature. Methanol (10 ml) and sodium methoxide (44 mg)
+was added thereto, and the resultant was stirred for one hour at the
+same temperature. After the completion of the reaction, the
+reaction mixture was concentrated to give the residue. The
+resulting residue was purified by a reversed-phase column
+chromatography (water-methanol) to obtain (1S)-1,5-anhydro-1-[3-(1H-pyrrole
+-1-ylmethyl)-phenyl]-D-glucitol (18 mg).</p><heading>( Example 186)</heading><p num="0166">Twenty percents of palladium hydroxide/carbon (130 mg)
+were added to a suspension of (1S)-1,5-anhydro-2,3,4,6-tetxa
+-0-benzyl-1-[5-(4-ethyl benzyl)-1H-pyrrole-2-yl]-D-glucitol (400 mg)
+in ethyl acetate-acetic acid (10:1) (11 ml), and the resultant was
+stirred for one hour in a hydrogen atmosphere (1 atm). The
+reaction mixture was filtrated through celite, and the filtrate was
+concentrated to give the residue. The resulting residue was
+purified by silica gel column chromatography
+(chloroform-methanol) to obtain (1S)-1,5-anhydro-1-[5-(4-ethyl
+benzyl)-1H-pyrrole-2-yl]-D-glucitol (25 mg).</p><p num="0167">The compound in Example 187 was obtained in a manner
+similar to that of Example 186.</p><heading>(Example 188 )</heading><p num="0168">Ten percents of palladium/carbon (450 mg) was added to a
+solution of (1S)-1,5-anhydro-2,3,4,6-tetra-0-benzyl
+-1-[1-(4-ethylbenzyl)-1H -pyrrole-2-yl]-D-glucitol (587 mg) in ethyl
+acetate-methanol-acetic acid (10:2:1) (39 ml), and the resultant was
+stirred for 22 hours in a hydrogen atmosphere. The reaction 
+mixture was filtrated through celite, and the filtrate was
+concentrated to give the residue. The resulting residue was
+purified by silica gel column chromatography
+(chloroform-methanol) to obtain (1S)-1,5-anhydro-1-[1-(4-ethyl
+benzyl)-1H-pyrrole-2-yl] -D-glucitol (59 mg).</p><p num="0169">The structural formulas and physicochemical properties of
+the compounds of Reference Examples are shown by the following
+Tables 1 - 6. The structural formulas and physicochemical
+properties of the compounds of Examples are shown by the
+following Tables 7-36.</p><p num="0170">Incidentally, the symbols in the tables have the following
+meanings:</p><p num="0171">Rf.: number of Reference Example, Ex: number of
+Example, Structure: structural formula, Me: methyl group,
+Et: ethyl group, Bn: benzyl group, Bu: butyl group,
+TBDMS: tert-butyldimethylsilyl group, TBDPS:
+tert-butyldiphenylsilyl group, Ac: Acetyl group, Tf:
+trifluoromethanesulfonyl group, Data: property data, NMR:
+nuclear magnetic resonance spectrum (TMS internal standard),
+MS: mass analysis value</p><p num="0172">Compounds listed in Tables 37 to 39 can be easily prepared
+in a manner similar to that of Examples and Preparation Examples
+or by a method with minor modifications which are obvious for
+persons of ordinary skill in the art. Tables 37 to 39 are given after
+Tables 1 to 36.</p><heading>INDUSTRIAL APPLICABILITY</heading><p num="0173">Since C-glycoside derivatives and the salts thereof (the
+compounds of the present invention) have the effects of inhibiting a
+Na<sup>+</sup>-glucose cotransporter and reducing the level of blood glucose,
+these compounds are useful for treating or preventing diabetes
+such as insulin-dependent diabetes (type 1 diabetes) and
+insulin-independent diabetes (type 2 diabetes), insulin-resistant
+diseases, and obesity, for example, as a medicine, particularly as a
+Na<sup>+</sup>-glucose cotransporter inhibitor.</p><p num="0174">The significant effects of inhibiting a Na<sup>+</sup>-glucose
+cotransporter and reducing the blood glucose of the compound of
+the present invention have been confirmed by the following
+pharmacological tests (Test Examples 1 and 2).</p><heading>Test Example 1</heading><heading>[Inhibition of human Na<sup>+</sup>-glucose cotransporter (human SGLT2)
+activity]</heading><heading>(1) Preparation of human SGLT 2 expression vector</heading><p num="0175">First, single-strand cDNA was reversely transcripted from
+total RNA originating from the human kidney (manufactured by BD
+Biosciences Clontech) using a Superscript II (manufactured by
+Invitrogen Corporation) and a random hexamer. Second, using the
+cDNA as a template, a DNA fragment encoding a human SGLT2
+(Wells, R.G. et al., Am. J. Physiol., 1992, 263(3) F459) was
+amplified by the PCR reaction using Pyrobest DNA polymerase
+(manufactured by Takara Bio Inc.). That is, a <i>Hind III</i> site and an
+<i>EcoRI</i> site were inserted into the 5' side and the 3' side of the DNA
+fragment, respectively by using primers.</p><p num="0176">The amplified fragment was cloned into a pCR2.1-Topo 
+vector using a Topo TA Cloning Kit (manufactured by Invitrogen
+Corporation) and the cloned vector was transfected into a
+competent cell of <i>Escherichia coli</i> JM109. Ampicillin-resistant
+clones were cultured in a LB medium containing ampicillin (100
+mg/l). A plasmid was purified from the cultured <i>Escherichia coli</i>
+using the method of Hanahan (see Maniatis et al., "Molecular
+Cloning"). A DNA fragment for encoding a human SGLT2 was
+obtained by the <i>Hind III</i>/<i>EcoRI</i> digestion of the plasmid and ligated
+and cloned to the same site of the expression vector pcDNA 3.1
+(manufactured by Invitrogen Corporation) using a DNA ligase
+(manufactured by Roche Diagnostics). The ligated clone was
+transfected into a competent cell of <i>Escherichia coli</i> JM109 in the
+same manner as described above and cultured in a LB medium
+containing ampicillin, and a human SGLT2 expression vector was
+obtained using the method of Hanahan.</p><heading>(2) Preparation of human SGLT2 expressed cells</heading><p num="0177">The human SGLT2 expression vector was transfected into a
+CHO-K1 cell using Lipofectamine2000 (manufactured by Invitrogen
+Corporation). The cell was cultured in a Ham's F12 medium
+(manufactured by Nissui Pharmaceutical Co., Ltd.) containing
+penicillin (50 IU/ml, manufactured by Dainippon Pharmaceutical
+Co., Ltd.), streptomycin (50 µg/ml, manufactured by Dainippon
+Pharmaceutical Co., Ltd.), Geneticin (40 µg/ml, manufactured by
+Invitrogen Corporation), and 10% fetal bovine serum in the
+presence of 5% CO<sub>2</sub> at 37°C for two weeks, and Geneticin-resistant
+clones were obtained. A cell which stably expresses the human
+SGLT2, which exhibits sodium-dependent intake of methyl-α 
+-D-glucopyranoside, was obtained (See the following paragraphs for
+the method for measuring the methyl- α -D-glucopyranoside
+intake).</p><heading>(3) Inhibition of methyl- α -D-glucopyranoside intake</heading><p num="0178">After removing the medium of a CHO cell which stably
+expresses the human SGLT2, a pretreatment buffer solution (buffer
+solution of pH 7.4 containing choline chloride (140 mM), potassium
+chloride (2 mM), calcium chloride (1 mM), magnesium chloride (1
+mM), 2-[4-(2-hydroxyethyl)1-piperazinyl] ethanesulfonic acid (10
+mM), and tris(hydroxymethyl) aminomethane (5 mM)) was added in
+the amount of 100 µl per well, and incubated at 37°C for 20
+minutes.</p><p num="0179">11 µl of methyl- α -D-(U-14C)glucopyranoside (manufactured
+by Amersham Pharmacia Biotech) was mixed with 1,000 µl of a
+buffer solution for intake containing a test compound (buffer
+solution of pH 7.4 containing sodium chloride (140 mM), potassium
+chloride (2 mM), calcium chloride (1 mM), magnesium chloride (1
+mM), methyl- α -D-glucopyranoside (50 µM), 2-[4-(2-hydroxy
+ethyl)1-piperazinyl]ethanesulfonic acid (10 mM), and
+tris(hydroxymethyl)aminomethane (5 mM)) to prepare a buffer
+solution for intake. A buffer solution for intake without a test
+compound was prepared for a control group. A buffer solution for
+basal intake without a test compound containing choline chloride
+(140 mM) instead of sodium chloride for measuring the basal intake
+was prepared as well.</p><p num="0180">After removing the pretreatment buffer solution, the buffer
+solution for intake was added (25 µl per well) and incubated at 37°C 
+for two hours. After removing the buffer solution for intake, a
+buffer solution for washing (buffer solution of pH 7.4 containing
+choline chloride (140 mM), potassium chloride (2 mM), calcium
+chloride (1 mM), magnesium chloride (1 mM), methyl- α -D-glucopyranoside
+(10 mM), 2-[4-(2-hydroxyethyl) -1-piperazinyl]
+ethanesulfonic acid (10 mM), and tris(hydroxymethyl)
+aminomethane (5 mM)) was added (200 µl per one well). The
+mixture was immediately removed. This washing operation was
+carried out once more. 0.5% Sodium lauryl sulfate was added (25
+µl per well) to solubilize the cells. Seventy five µl of Microscint 40
+(manufactured by PerkinElmer, Inc.) was added to the solubilized
+cell and the radiation activity was measured using a
+microscintillation counter Top Count (manufactured by Perkin
+Elmer, Inc.). The value obtained by subtracting the basal intake
+amount from the intake amount of the control group was defined as
+100%. The concentration for 50% inhibition of the above value
+(IC<sub>50</sub> value) was calculated from a concentration-inhibition curve
+using the least squares method. As a result, the compound of the
+present invention exhibited a strong effect of inhibiting a
+Na+-glucose cotransporter activity. The IC<sub>50</sub> values of typical
+compounds of the present invention are shown in Table 40.
+<tables><table><tgroup cols="4"><tbody><row><entry align="center">Compound</entry><entry align="center">IC<sub>50</sub> (nM)</entry><entry align="center">Compound</entry><entry align="center">IC<sub>50</sub> (nM)</entry></row><row><entry align="center">Example 117</entry><entry align="center">13</entry><entry align="center">Example 142</entry><entry align="center">21</entry></row><row><entry align="center">Example 134</entry><entry align="center">14</entry><entry align="center">Example 150</entry><entry align="center">6.5</entry></row><row><entry align="center">Example 141</entry><entry align="center">3.8</entry><entry align="center">Example 174</entry><entry align="center">6.6</entry></row></tbody></tgroup></table></tables></p><heading>Test Example 2</heading><heading>[Hypoglycemic activity confirmation test]</heading><p num="0181">Fed KK-A<sup>y</sup> mice (CLEA Japan, Inc., male) were used. The
+test compound was suspended in 0.5% methylcellulose solution to a
+concentration of 1 mg/10 ml. The weight of each mouse was
+measured. The test compound suspension was orally administered
+to the mice at a dose of 10 ml/kg. Only 0. 5% methylcellulose
+solution was administered to the mice of a control group. Each
+group consisted of six mice. Blood was collected from the tail vein
+immediately before administering the compound and one, two, four,
+and eight hours after administering the compound. The blood
+glucose value was measured using a glucose CII Test Wako
+(manufactured by Wako Pure Chemical Industries, Ltd.). The
+intensity of hypoglycemic activity was determined by calculating
+the area under the blood glucose value-time curve (AUC) using a
+trapezoidal method from the glucose value of 0-8 hours after
+administering the compound and calculating the rate (%) of the
+decrease in the AUC of the drug-administered group from that of
+the control group.</p><p num="0182">As a result, the compound of the present invention exhibited
+a strong hypoglycemic activity. The hypoglycemic activity of
+typical compounds of the present invention are shown in Table 41.
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Compound</entry><entry align="center">Hypoglycemic activity (%)</entry></row><row><entry align="left">Example 134</entry><entry align="center">39</entry></row><row><entry align="left">Example 141</entry><entry align="center">34</entry></row></tbody></tgroup></table></tables> 
+As a result of Test Examples 1 and 2, compounds of the present
+invention showed a remarkable effect by inhibiting a Na<sup>+-</sup>glucose
+cotransporter activity and a strong hypoglycemic activity.
+Therefore, it is expected that compounds of the present invention
+can serve as an antidiabetic medicine having the same or higher
+effect in comparison with the conventional antidiabetic medicines.</p><p num="0183">The pharmaceutical composition containing one or more of
+the compounds of the present invention and the pharmaceutically
+acceptable salts thereof is prepared as a tablet, powder, fine
+granule, granule, capsule, pill, liquid, injection, suppository,
+ointment, adhesive, or the like using a carrier, vehicle, or other
+additives commonly used for preparation and is orally or
+parenterally administered.</p><p num="0184">The amount of the compound of the present invention to be
+clinically administered to the human body is appropriately
+determined, taking the symptoms, weight, age, sex, and the like of
+a patient to which the compound is administered into consideration,
+in the range of 0.1-500 mg per day for oral administration or in the
+range of 0.01-100 mg per day for parenteral administration, once or
+several times a day. Since the amount to be administered varies,
+depending upon various conditions, it may be sufficient to
+administer the compound at a smaller amount than the
+above-described amount.</p><p num="0185">As a solid composition for oral administration of the
+compound of the present invention, a tablet, powder, granule, or the
+like is used. In such a solid composition, one or more active
+substances are mixed with at least one inert diluent such as lactose, 
+mannitol, glucose, hydroxypropylcellulose, microcrystal cellulose,
+starch, polyvinylpyrrolidone, or magnesium aluminometasilicate.
+The composition may contain additives other than the inert diluent
+such as a lubricant such as magnesium stearate, a disintegrator
+such as carboxymethylcellulose calcium, a stabilizer such as
+sucrose, a solubilizer such as glutamic acid and aspartic acid, an
+adjuvant for solubilization, and the like by a conventional method.
+The tablet or pill may be optionally coated with a film of glucose or
+a stomach-soluble or intestines-soluble substance such as sucrose,
+gelatin, hydroxypropylcellulose, or hydroxypropyl-methylcellulose
+phthalate.</p><p num="0186">The liquid composition for oral administration includes
+pharmaceutically acceptable preparations such as an emulsion
+preparation, solution preparation, suspension preparation, syrup
+preparation, elixir preparation, and the like and contains a
+commonly used inert diluent such as purified water and ethyl
+alcohol. The composition may contain, in addition to the diluent,
+adjuvants such as a solubilizer, humectant, and suspending agent,
+sweetener, flavorer, perfume, and preservative.</p><p num="0187">The injection for parenteral administration includes a
+sterilized aqueous or nonaqueous solution, suspension, and
+emulsion. Examples of the diluent for the aqueous solution or
+suspension include distilled water and a physiological saline
+solution for injection. Examples of the diluent for the nonaqueous
+solution or suspension include propylene glycol, polyethylene glycol,
+and vegetable oils such as olive oil; alcohols such as ethyl alcohol;
+and Polysolvate 80 (trade name). </p><p num="0188">Such a composition may further contain additives such as an
+isotonizing agent, preservative, humectant, emulsifier, dispersant,
+stabilizer (e.g. lactose), solubilizer and adjuvant for solubilization.
+These compounds are sterilized by filtering through a
+bacteria-retaining filter and adding a disinfectant or irradiating,
+for example. These compounds may be used by producing a
+sterilized solid composition and dissolving the composition in a
+sterilized water or injection solvent before using. <img file="00870001.tif" id="img-00870001" he="197" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00880001.tif" id="img-00880001" he="223" wi="160" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00890001.tif" id="img-00890001" he="219" wi="165" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00900001.tif" id="img-00900001" he="201" wi="160" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00910001.tif" id="img-00910001" he="229" wi="161" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00920001.tif" id="img-00920001" he="198" wi="161" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00930001.tif" id="img-00930001" he="186" wi="161" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00940001.tif" id="img-00940001" he="205" wi="160" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00950001.tif"  id="img-00950001" he="43" wi="161" img-format="tif" img-content="tb"  orientation="unknown"  inline="no"/><img file="00960001.tif"  id="img-00960001" he="222" wi="162" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00970001.tif" id="img-00970001" he="218" wi="160" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00980001.tif" id="img-00980001" he="231" wi="163" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="00990001.tif" id="img-00990001" he="202" wi="161" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01000001.tif" id="img-01000001" he="46" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01010001.tif" id="img-01010001" he="216" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01020001.tif" id="img-01020001" he="220" wi="163" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01030001.tif" id="img-01030001" he="213" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01040001.tif" id="img-01040001" he="207" wi="163" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01050001.tif" id="img-01050001" he="200" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01060001.tif" id="img-01060001" he="230" wi="157" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01070001.tif" id="img-01070001" he="199" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01080001.tif" id="img-01080001" he="211" wi="162" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01090001.tif" id="img-01090001" he="210" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01100001.tif" id="img-01100001" he="225" wi="163" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01110001.tif" id="img-01110001" he="229" wi="156" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01120001.tif" id="img-01120001" he="219" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01130001.tif" id="img-01130001" he="218" wi="165" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01140001.tif" id="img-01140001" he="233" wi="163" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01150001.tif" id="img-01150001" he="231" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01160001.tif" id="img-01160001" he="189" wi="163" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01170001.tif" id="img-01170001" he="231" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01180001.tif" id="img-01180001" he="203" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01190001.tif" id="img-01190001" he="197" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01200001.tif" id="img-01200001" he="193" wi="165" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01210001.tif" id="img-01210001" he="207" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01220001.tif" id="img-01220001" he="217" wi="165" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01230001.tif" id="img-01230001" he="190" wi="161" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01240001.tif" id="img-01240001" he="79" wi="162" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01250001.tif" id="img-01250001" he="212" wi="163" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01260001.tif" id="img-01260001" he="211" wi="163" img-format="tif" img-content="tb" orientation="unknown" inline="no"/><img file="01270001.tif" id="img-01270001" he="199" wi="164" img-format="tif" img-content="tb" orientation="unknown" inline="no"/></p></description><claims lang="EN" load-source="ep" status="new"><claim num="1"><claim-text>A C-glycoside derivative of the following formula (I) and a salt
+thereof:
+
+wherein A ring represents (1) a benzene ring, (2) a five or
+six-membered monocyclic heteroaryl ring having 1 to 4 hetero
+atom(s) selected from N, S, and O, or (3) a saturated or an
+unsaturated eight to ten-membered bicyclic hetero ring having 1 to
+4 hetero atom(s) selected from N, S, and O;
+   B ring represents (1) a saturated or an unsaturated eight to
+ten-membered bicyclic hetero ring having 1 to 4 hetero atom(s)
+selected from N, S, and O, (2) a saturated or an unsaturated five or
+six-membered monocyclic hetero ring having 1 to 4 hetero atom(s)
+selected from N, S, and O, (3) a saturated or an unsaturated eight
+to ten-membered bicyclic hydrocarbon ring, or (4) a benzene ring;
+   X represents a bond or lower alkylene;
+   wherein A ring, B ring, and X have a correlation that (1)
+when A ring is a benzene ring, B ring is a ring other than a benzene
+ring or that (2) when A ring is a benzene ring, and B ring is a
+saturated or an unsaturated eight to ten-membered bicyclic hetero
+ring having 1 to 4 hetero atom(s) selected from N, S, and O
+including a benzene ring, or a saturated or an unsaturated eight to
+ten-membered bicyclic hydrocarbon ring including a benzene ring,
+X is bonded to the B ring in a part other than the benzene ring
+included in the B ring;
+   R1 to R4 individually represent a hydrogen atom, a lower
+alkyl, -C(=O)-lower alkyl, or -lower alkylene-aryl; and
+   R5 to R11 individually represent a hydrogen atom, a lower
+alkyl, a cycloalkyl, a halogen, a halogen-substituted lower alkyl, -OH,
+=O, -NH2, lower alkyl sulfonyl-, halogen-substituted lower alkyl
+sulfonyl-, aryl sulfonyl-, an aryl, a saturated or an unsaturated five
+or six-membered monocyclic hetero ring having 1 to 4 hetero
+atom(s) selected from N, S, and O, -lower alkylene-OH, -lower
+alkylene-O-lower alkyl, -lower alkylene-O-C(=O)-lower alkyl, -lower
+alkylene-O-lower alkylene-COOH, -lower alkylene-O-lower
+alkylene-C(=O)-O-lower alkyl, -lower alkylene-NH2, -lower
+alkylene-NH-lower alkyl, -lower alkylene-N(lower alkyl)2, -lower
+alkylene-NH-C(=O)-lower alkyl, -COOH, -CN, -C(=O)-O-lower alkyl,
+-C(=O)-NH2, -C(=O)-NH-lower alkyl, -C(=O)-N(lower alkyl)2,
+-O-lower alkyl, -O-cycloalkyl, -O-lower alkylene-OH, -O-lower
+alkylene-O-lower alkyl, -O-lower alkylene-COOH, -O-lower
+alkylene-C(=O)-O-lower alkyl, -O-lower alkylene-C(=O)-NH2,
+-O-lower alkylene-C(=O)-NH-lower alkyl, -O-lower
+alkylene-C(=O)-N(lower alkyl)2, -O-lower
+alkylene-CH(OH)-CH2(OH), -O-lower alkylene-NH2, -O-lower
+alkylene-NH-lower alkyl, -O-lower alkylene-N(lower alkyl)2,
+-O-lower alkylene-NH-C(=O)-lower alkyl, -NH-lower alkyl,
+-N(lower alkyl)2, -NH-SO2-lower alkyl,
+-NH-SO2-halogen-substituted lower alkyl, -NH-lower alkylene-OH,
+-NH-C(=O)-lower alkyl, -NH-C(=O)-NH2, -NH-C(=O)-NH-lower
+alkyl, -NH-C(=O)-N(lower alkyl)2, or , -NH-C(=O)-O-lower alkyl.</claim-text></claim><claim num="2"><claim-text>A C-glycoside derivative and the salt thereof according to Claim 1,
+wherein the A ring in the formula (I) is (1) a benzene ring or (2) a
+five or six-membered monocyclic heteroaryl ring having 1 to 4
+hetero atom(s) selected from N, S, and O.</claim-text></claim><claim num="3"><claim-text>A C-glycoside derivative and the salt thereof according to Claim 2,
+wherein the B ring in the formula (I) is (1) a saturated or an
+unsaturated eight to ten-membered bicyclic hetero ring having 1 to
+4 hetero atom(s) selected from N, S, and O or (2) a saturated or an
+unsaturated five or six-membered monocyclic hetero ring having 1
+to 4 hetero atom(s) selected from N, S, and O.</claim-text></claim><claim num="4"><claim-text>A C-glycoside derivative and the salt thereof according to Claim 3,
+wherein the A ring in the formula (I) is a benzene ring and the B
+ring is a saturated or an unsaturated eight to ten-membered
+bicyclic hetero ring having 1 to 4 hetero atom(s) selected from N, S,
+and O.</claim-text></claim><claim num="5"><claim-text>A C-glycoside derivative and the salt thereof according to Claim 4,
+wherein the X in the formula (I) is methylene.</claim-text></claim><claim num="6"><claim-text>A C-glycoside derivative and the salt thereof according to Claim 5,
+wherein the R1 to R4 in the formula (I) are hydrogen atoms.</claim-text></claim><claim num="7"><claim-text>A C-glycoside derivative and the salt thereof according to Claim 1,
+wherein the C-glycoside derivative of the formula (I) is at least one
+compound selected from the group consisting of
+<claim-text><claim-text>(1S)-1,5-anhydro-1-[3-(1-benzothiene-2-ylmethyl)phenyl-D-glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-hydroxyphenyl .
+]-D-glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-methoxyphenyl
+]-D-glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-(2-hydroxyetho
+xy)phenyl] -D - glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2-(methylamino)
+phenyl]-D-glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-{5-(1-benzothiene-2-ylmethyl)-2-[(2-hydroxyeth
+oxy)amino]phenyl}-D-glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-4-methoxyphenyl
+]-D-glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-4-chlorophenyl]-D-glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-4-fluorophenyl]-D-glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-2,4-dimethoxyph
+enyl]-D-glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-4-chloro-2-metho
+xyphenyl]-D-glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-4-chloro-2-hydro
+xyphenyl]-D - glucitol,</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-4-fluoro-2-hydro
+xyphenyl]-D-glucitol, and</claim-text><claim-text>(1S)-1,5-anhydro-1-[5-(1-benzothiene-2-ylmethyl)-4-fluoro-2-metho
+xyphenyl]-D-glucitol.</claim-text></claim-text></claim-text></claim><claim num="8"><claim-text>A pharmaceutical composition containing a C-glycosicle
+derivative or a salt thereof according to any one of Claims 1 to 7.</claim-text></claim><claim num="9"><claim-text>A pharmaceutical composition according to Claim 8, wherein
+the composition is a Na+-glucose cotransporter inhibitor.</claim-text></claim><claim num="10"><claim-text>A pharmaceutical composition according to Claim 8, wherein
+the composition is an antidiabetic agent.</claim-text></claim><claim num="11"><claim-text>Use of the C-glycoside derivative and the salt thereof
+according to any one of Claims 1 to 7 for producing a Na+-glucose
+cotransporter inhibitor or an antidiabetic agent.</claim-text></claim><claim num="12"><claim-text>A method for treating diabetes comprising administering an
+effective amount of the C-glycoside derivative and the salt thereof
+according to any one of Claims 1 to 7 to a patient.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

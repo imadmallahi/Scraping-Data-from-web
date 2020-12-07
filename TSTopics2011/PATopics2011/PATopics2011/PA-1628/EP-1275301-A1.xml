@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1275301-A1" country="EP" doc-number="1275301" kind="A1" lang="EN" family-id="8183150" status="new" date-produced="20090516" date="20030115"><bibliographic-data><publication-reference ucid="EP-1275301-A1" status="new" fvid="23659226"><document-id status="new" format="original"><country>EP</country><doc-number>1275301</doc-number><kind>A1</kind><date>20030115</date></document-id></publication-reference><application-reference ucid="EP-01420154-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01420154</doc-number><kind>A</kind><date>20010710</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-01420154-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>01420154</doc-number><kind>A</kind><date>20010710</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A01N  43/02        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/10        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/16        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/34        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/36        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/40        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/48        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/54        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/56        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/58        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/72        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  43/80        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  47/10        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  47/18        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A01N  47/20        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  55/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A01N  55/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 207/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 207/24        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07D 207/36        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/73        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/81        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/82        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 231/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 231/16        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 231/44        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 237/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 237/24        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 239/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 239/46        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 261/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 261/18        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 275/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 275/02        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07D 275/03        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 307/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 307/68        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 309/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 309/32        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07D 309/40        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 333/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 333/38        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 401/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 401/04        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 417/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 417/04        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07F   7/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07F   7/08        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07F   9/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07F   9/58        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">A01N  43/10</classification-symbol><classification-symbol scheme="EC">A01N  43/16</classification-symbol><classification-symbol scheme="EC">A01N  43/36</classification-symbol><classification-symbol scheme="EC">A01N  43/40</classification-symbol><classification-symbol scheme="EC">A01N  43/54</classification-symbol><classification-symbol scheme="EC">A01N  43/56</classification-symbol><classification-symbol scheme="EC">A01N  43/58</classification-symbol><classification-symbol scheme="EC">A01N  43/80</classification-symbol><classification-symbol scheme="EC">A01N  47/20</classification-symbol><classification-symbol scheme="EC">A01N  55/00</classification-symbol><classification-symbol scheme="EC">C07D 207/36</classification-symbol><classification-symbol scheme="EC">C07D 213/73</classification-symbol><classification-symbol scheme="EC">C07D 213/73F8</classification-symbol><classification-symbol scheme="EC">C07D 213/81</classification-symbol><classification-symbol scheme="EC">C07D 213/81F</classification-symbol><classification-symbol scheme="EC">C07D 213/82</classification-symbol><classification-symbol scheme="EC">C07D 213/82H</classification-symbol><classification-symbol scheme="EC">C07D 231/16</classification-symbol><classification-symbol scheme="EC">C07D 231/44</classification-symbol><classification-symbol scheme="EC">C07D 237/24</classification-symbol><classification-symbol scheme="EC">C07D 239/46C3</classification-symbol><classification-symbol scheme="EC">C07D 239/47</classification-symbol><classification-symbol scheme="EC">C07D 261/18</classification-symbol><classification-symbol scheme="EC">C07D 275/02D1</classification-symbol><classification-symbol scheme="EC">C07D 275/02D2</classification-symbol><classification-symbol scheme="EC">C07D 275/02D3</classification-symbol><classification-symbol scheme="EC">C07D 275/03</classification-symbol><classification-symbol scheme="EC">C07D 307/68</classification-symbol><classification-symbol scheme="EC">C07D 309/40</classification-symbol><classification-symbol scheme="EC">C07D 333/38</classification-symbol><classification-symbol scheme="EC">C07D 401/04+213+207</classification-symbol><classification-symbol scheme="EC">C07D 417/04+275+207</classification-symbol><classification-symbol scheme="EC">C07F   7/08C6B4</classification-symbol><classification-symbol scheme="EC">C07F   9/58K4</classification-symbol><classification-symbol scheme="ICO">M07D207:36</classification-symbol><classification-symbol scheme="ICO">M07D213:73F8</classification-symbol><classification-symbol scheme="ICO">M07D213:81F</classification-symbol><classification-symbol scheme="ICO">M07D213:82H</classification-symbol><classification-symbol scheme="ICO">M07D231:16</classification-symbol><classification-symbol scheme="ICO">M07D231:44</classification-symbol><classification-symbol scheme="ICO">M07D237:24</classification-symbol><classification-symbol scheme="ICO">M07D239:46C3</classification-symbol><classification-symbol scheme="ICO">M07D261:18</classification-symbol><classification-symbol scheme="ICO">M07D275:02D1</classification-symbol><classification-symbol scheme="ICO">M07D275:02D2</classification-symbol><classification-symbol scheme="ICO">M07D275:02D3</classification-symbol><classification-symbol scheme="ICO">M07D307:68</classification-symbol><classification-symbol scheme="ICO">M07D309:40</classification-symbol><classification-symbol scheme="ICO">M07D333:38</classification-symbol><classification-symbol scheme="ICO">M07D401:04</classification-symbol><classification-symbol scheme="ICO">M07D401:04+21+207</classification-symbol><classification-symbol scheme="ICO">M07D417:04</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Trisubstituierte heterocyclische Verbindungen und ihre Verwendung als Fungizide</invention-title><invention-title load-source="ep" status="new" lang="EN">Trisubstituted heterocyclic compounds and their use as fungicides</invention-title><invention-title load-source="ep" status="new" lang="FR">Composés hétérocycliques trisubstituéés et leur utilisation comme fungicides</invention-title><citations><patent-citations><patcit ucid="DD-270301-A" status="new"><document-id status="new" format="epo"><country>DD</country><doc-number>270301</doc-number><kind>A</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="DE-19842354-A1" status="new"><document-id status="new" format="epo"><country>DE</country><doc-number>19842354</doc-number><kind>A1</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0151866-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0151866</doc-number><kind>A2</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0151867-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0151867</doc-number><kind>A2</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="GB-959683-A" status="new"><document-id status="new" format="epo"><country>GB</country><doc-number>959683</doc-number><kind>A</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-3959481-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>3959481</doc-number><kind>A</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4054585-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4054585</doc-number><kind>A</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4214090-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4214090</doc-number><kind>A</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5223526-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5223526</doc-number><kind>A</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1999062915-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1999062915</doc-number><kind>A1</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2000029398-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2000029398</doc-number><kind>A1</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2001049664-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2001049664</doc-number><kind>A1</kind></document-id><sources><source category="XP" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2001053259-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2001053259</doc-number><kind>A1</kind></document-id><sources><source category="XP" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>A. BERTHO ET. AL.: "]ber 4-Oxy-pyrazole und deren Tautomerie" LIEBIGS ANNALEN DER CHEMIE, vol. 457, 1927, pages 278-307, XP002185766</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>H. V. PECHMANN: "Ueber die Einwirkung von saltpetriger S{ure auf Acetondicarbons{ure{ther" CHEMISCHE BERICHTE, vol. 24, 1891, pages 857-67, XP001037744</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>J. L. ADAMS ET. AL.: "4-Amino-4,5-dihydrothiophene-2-carboxylic Acid" JOURNAL OF ORGANIC CHEMISTRY, vol. 50, no. 15, 26 July 1985 (1985-07-26), pages 2730-6, XP001037712</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>K. HAYAKAWA ET. AL.: "Stereoselective Addition Reactions of Allylic Sulfides to Acetylenic Esters. E/Z Stereochemical Variations by Lewis Acid" JOURNAL OF ORGANIC CHEMISTRY, vol. 49, no. 11, 1 June 1984 (1984-06-01), pages 1985-9, XP001037733</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>M. R. BANKS ET. AL.: "Preparation and some Reactions of Substituted Thieno[3,4-bÜfurans" JOURNAL OF THE CHEMICAL SOCIETY, PERKIN TRANSACTIONS I, vol. 1986, no. 12, December 1986 (1986-12), pages 2223-32, XP001037732</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>M. R. BANKS ET. AL.: "The Claisen Rearrangement of some 3-Allyloxy-and 3-Propargyloxythiophenes." JOUNRAL OF CHEMICAL RESEARCH, MINIPRINT, vol. 1984, no. 2, 1984, pages 0369-0389, XP001037687</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>P. J. FAGAN ET. AL.: "Cycloadditions and other chemistry of 4-oxygenated pyrazoles." CANADIAN JOURNAL OF CHEMISTRY, vol. 57, no. 8, 15 April 1979 (1979-04-15), pages 904-12, XP001037713</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>T. MOMOSE ET. AL.: "3-Hydroxypyrroles. I. A general Synthetic Route to 4,5-Unsubstituted Alkyl 3-Hydroxypyrrole-2-carboxylates." CHEMICAL AND PHARMACEUTICAL BULLETIN, vol. 26, no. 5, May 1978 (1978-05), pages 2224-32, XP001037688</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>W. KL\TZER ET. AL.: "Reaktionen des 4-Methoxy-3,5-dicarboxy- isoxazols (v.Pechmann Ester)." MONATSCHRIFT F]R CHEMIE, vol. 95, 1964, pages 102-15, XP001037747</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><last-name>BAYER CROPSCIENCE SA</last-name><address><country>FR</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><last-name>BAYER CROPSCIENCE S.A.</last-name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Bayer CropScience S.A.</last-name><address><street>55, avenue René Cassin</street><city>69009 Lyon</city><country>FR</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><last-name>BRIGGS GEOFFREY GOWER</last-name><address><country>GB</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><last-name>GARY STEPHANIE</last-name><address><country>FR</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><last-name>LANGE TIM</last-name><address><country>FR</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><last-name>MULLER BENOIT</last-name><address><country>FR</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><last-name>PEREZ JOSE</last-name><address><country>FR</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><last-name>STEELE CHRIS RICHARD</last-name><address><country>FR</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><last-name>VILLIER ALAIN</last-name><address><country>FR</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><last-name>BRIGGS, GEOFFREY GOWER</last-name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><last-name>GARY, STEPHANIE</last-name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><last-name>LANGE, TIM</last-name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><last-name>MULLER, BENOIT</last-name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><last-name>PEREZ, JOSE</last-name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><last-name>STEELE, CHRIS RICHARD</last-name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><last-name>VILLIER, ALAIN</last-name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>BRIGGS, GEOFFREY GOWER</last-name><address><street>46 Grandby Avenue</street><city>Harpenden Herts AL5 5QR</city><country>GB</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Gary, Stéphanie</last-name><address><street>19 bis rue de Montribloud</street><city>69009 Lyon</city><country>FR</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>LANGE, TIM</last-name><address><street>4 place Raspail</street><city>69007 Lyon</city><country>FR</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MULLER, BENOIT</last-name><address><street>6 rue de la Poulaillerie</street><city>69002 Lyon</city><country>FR</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>PEREZ, JOSE</last-name><address><street>9 chemin de Montpellas</street><city>69009 Lyon</city><country>FR</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>STEELE, CHRIS RICHARD</last-name><address><street>46 boulevard de la Croix Rousse</street><city>69001 Lyon</city><country>FR</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>VILLIER, ALAIN</last-name><address><street>18 chemin des Esses</street><city>69370 Saint-Didier-au-Mont-D'or</city><country>FR</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Mérigeault, Shona</last-name><address><street>Bayer CropScience SA Département Propriété Industrielle B.P. 9163</street><city>69263 Lyon Cedex 09</city><country>FR</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>Compounds of general formula (I):
+<img id="img-80000001" orientation="unknown" wi="81" img-format="tif" img-content="cf" file="80000001.tif" inline="no" he="27"/>
+in which:
+<b>Het</b> represents a five or six membered saturated, partially unsaturated or aromatic
+ring containing between one and six heteroatoms of the group N, O, S, in which the
+heterocycle is substituted in an adjacent manner with -P-Q<sup>1</sup>-T-Q<sup>2</sup>, -GZ and Y, such
+that the substituant -GZ is adjacent to both.
+
+the other substituants being as defined in the description,
+<sl><li>process for preparing these compounds,</li><li>fungicidal compositions comprising these compounds,</li><li>processes for treating plants by applying these compounds or compositions.</li></sl></p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to new substituted heterocycles, their process of
+preparation, their use as fungicides, particularly in the form of fungicidal
+compositions, and methods for the control of phytopathogenic fungi of plants using
+these compounds or their compositions.</p><p num="0002">From the literature, substituted heterocycles with fungicidal action are
+known. Thus, substituted heterocycles, disclosed in particular in patent application
+WO-A2-01/05769 and by M. Shimano et al. (<i>Tetrahedron Lett.</i> 1998, 12745-12774),
+are presented as being effective against phytopathogenic fungi of plants. These
+compounds, and also those disclosed in patent WO-A2-01/143339, only present
+heterocycles that are substituted in an adjacent manner by a) amide, b) hydroxy (or a
+processor thereof and c) eventually an alkoxy (or thioalkoxy) radical.</p><p num="0003">Patent application WO-A-00/26191 presents picolinamide derivatives that are
+optionally substituted in position 4 with a methoxy radical. Patent application
+WO-A-95/25723 proposes 3-pyridylcarboxylic acid derivatives.</p><p num="0004">Picolinamide derivatives are also known from patent application publication
+JP-11 228 542. These derivatives are presented as having potential antifungal
+activities and low toxicity, for use in pharmaceutical products. Other picolinic acid
+derivatives are also known from patent application EP-A-0 690 061, in which such
+compounds are used as synthetic intermediates for the preparation of
+pyridothiadiazoles.</p><p num="0005">A first object of the present invention is to propose a new family of
+compounds having an improved activity, both quantitatively and qualitatively, in
+comparison with the known fungicides, antimycin or derivatives. By activity, is
+meant fungicidal activity; by quantitative improvement, is understood a better control 
+of phytopathogenic fungi on plants and, by qualitative improvement, a broader
+spectrum of activity, that is to say control of a greater variety of phytopathogenic
+fungi of plants.</p><p num="0006">Another object of the present invention is to provide a new family of
+compounds having a reduced toxicity and/or phytotoxicity and/or ecotoxicity in
+comparison with known fungicides, particularly antimycin and its derivatives as well
+as the compounds disclosed in the above mentioned patents.</p><p num="0007">Another object of the present invention is to provide a new family of
+substituted heterocycles possessing the characteristics indicated above, notably on
+crops such as cereals, rice, corn, fruit trees, woodland trees, vine, oil-yielding plants,
+protein-yielding plants, market garden plants, solanaceous plants, beet, flax, citrus
+fruits, banana and ornamental plants and tobacco.</p><p num="0008">Another object of the present invention consists equally in proposing a new
+family of substituted heterocycles useful for the treatment and protection of lumber
+against fungal disease. In effect, lumber used for example for the fabrication of
+buildings and furniture (framework, walls, ceilings, flooring etc.), may suffer
+different injuries, among others, due to phytopathogenic fungi. The compounds
+according to the present invention allow these attacks to be combated.</p><p num="0009">Another object of the present invention comprises proposing a new family of
+substituted heterocycles useful in human and animal therapy. In fact, by virtue of
+their antifungal properties, heterocyclic salicylic acid derivatives which are the object
+of the present invention can prove useful for the treatment, in man and animals, of
+fungal diseases, such as for example mycosis and candidiasis.</p><p num="0010">Surprisingly it has been found that these objects can be achieved in whole or
+in part, by substituted heterocycles such as those described in the present invention. </p><heading><b><u style="single">General definition of the invention</u></b></heading><p num="0011">The invention relates to substituted heterocycles of general formula (I):
+<img id="img-00030001" orientation="unknown" wi="86" img-format="tif" img-content="cf" file="00030001.tif" inline="no" he="28"/>
+in which:
+<sl><li><b>Het</b> represents a five or six membered saturated, partially unsaturated or aromatic
+ring containing between one and six heteroatoms of the group N, O, S, in which the
+heterocycle is substituted in an adjacent manner with -P-Q<sup>1</sup>-T-Q<sup>2</sup>, -GZ and Y, such
+that the substituant -GZ is adjacent to both. Further ring members may each be
+substituted by X<sub>n</sub>;</li><li><b>n</b> represents the integer 0, 1, 2 or 3;</li><li><b>P</b> is chosen from among -C(O)-, -C(S)-, -SO<sub>2</sub>-, -C(NR<sup>1</sup>)-, -C(N-NR<sup>1</sup>R<sup>2</sup>)-,
+-P(O)(OR<sup>1</sup>)-, -P(O)(NR<sup>1</sup>R<sup>2</sup>)-, and -P(O)R<sup>1</sup>-;</li><li><b>R<sup>1</sup> and R<sup>2</sup></b> are the same or different and are each independently chosen from
+hydrogen, alkyl, cycloalkyl, aryl, heteroaryl, alkenyl, alkynyl, and sulphonyl, all
+optionally and independently from another substituted by one or several R<sup>5</sup> and/or
+R<sup>6</sup>;</li><li><b>G</b> represents oxy (-O-), thio (-S-), sulphinyl (-SO-) or a direct bond;</li><li><b>Q<sup>1</sup></b> is chosen from -OR<sup>3</sup>, -SR<sup>3</sup> and -NR<sup>3</sup>R<sup>4</sup></li><li><b>P and Q<sup>1</sup></b> may furthermore together form a ring containing from 5 to 7 atoms, 2 to 3
+of which being chosen from nitrogen, oxygen and sulphur, and in which ring
+members may optionally be substituted with one or several R<sup>5</sup>;</li><li><b>Q<sup>2</sup></b> represents R<sup>3</sup>, which is optionally and independently from another substituted by
+one or several R<sup>5</sup> and/or R<sup>6</sup>;</li><li><b>R<sup>3</sup> and R<sup>4</sup></b>, which are the same or different, are each chosen, independently from one
+another, from:
+<ul list-style="bullet"><li>hydrogen;</li><li>aryl, alkylaryl, cycloalkylaryl, bisaryl, heteroarylaryl, cycloalkylalkylaryl, 
+arylalkylaryl, heteroarylalkylaryl, alkanoylaryl, cycloalkylcarbonylaryl, aroylaryl,
+hetaroylaryl, alkoxyaryl, cycloalkoxyaryl, aryloxyaryl, heteroaryloxyaryl,
+alkylaminoaryl, cycloalkylaminoaryl, arylaminoaryl, heteroarylaminoaryl,
+alkylthioaryl, cycloalkylthioaryl, arylthioaryl, heteroarylthioaryl, where all aryl,
+alkyl, cycloalkyl, heteroaryl may optionally and independently from another be
+substituted by one or several R<sup>5</sup> and/or R<sup>6</sup>;</li><li>heteroaryl, alkylheteroaryl, cycloalkylheteroaryl, arylheteroaryl,
+bisheteroaryl, cycloalkylalkylheteroaryl, arylalkylheteroaryl,
+heteroarylalkylheteroaryl, alkanoylheteroaryl, cycloalkylcarbonylheteroaryl,
+aroylheteroaryl, hetaroylheteroaryl, alkoxyheteroaryl, cycloalkoxyheteroaryl,
+aryloxyheteroaryl, heteroaryloxyheteroaryl, alkoxyalkylheteroaryl,
+cycloalkoxyalkylheteroaryl, aryloxyalkylheteroaryl, heteroaryloxyalkylheteroaryl,
+alkylaminoalkylheteroaryl, cycloalkylaminoalkylheteroaryl,
+arylaminoalkylheteroaryl, heteroarylaminoalkylheteroaryl,
+alkylaminoalkylheteroaryl, cycloalkylaminoalkylheteroaryl,
+arylaminoalkylheteroaryl, heteroarylaminoalkylheteroaryl, alkylthioheteroaryl,
+cycloalkylthioheteroaryl, arylthioheteroaryl, heteroarylthioheteroaryl,
+alkylthioalkylheteroaryl, cycloalkylthioalkylheteroaryl, arylthioalkylheteroaryl,
+heteroarylthioalkylheteroaryl, where all aryl, alkyl, cycloalkyl, heteroaryl may
+optionally and independently from another be substituted by one or several R<sup>5</sup> and/or
+R<sup>6</sup>;</li><li>alkyl, cycloalkylalkyl, arylalkyl, heteroarylalkyl, alkanoylalkyl,
+cycloalkylcarbonylalkyl, aroylalkyl, hetaroylalkyl, alkoxyalkyl, cycloalkoxyalkyl,
+aryloxyalkyl, heteroaryloxyalkyl, alkylaminoalkyl, cycloalkylaminoalkyl,
+arylaminoalkyl, heteroarylaminoalkyl, alkylthioalkyl, cycloalkylthioalkyl,
+arylthioalkyl, heteroarylthioalkyl, where all aryl, alkyl, cycloalkyl, heteroaryl may
+optionally and independently from another be substituted by one or several R<sup>5</sup> and/or
+R<sup>6</sup>;</li><li>cycloalkyl, alkylcycloalkyl, spirocycloalkyl, biscycloalkyl, arylcycloalkyl,
+heteroarylcycloalkyl, cycloalkylalkylcycloalkyl, arylalkylcycloalkyl,
+heteroarylalkylcycloalkyl, alkanoylcycloalkyl, cycloalkylcarbonylcycloalkyl,
+arylalkylcycloalkyl, heteroarylalkylcycloalkyl, alkoxycycloalkyl, 
+cycloalkoxycycloalkyl, aryloxycycloalkyl, heteroaryloxycycloalkyl,
+alkoxyalkylcycloalkyl, cycloalkoxyalkylcycloalkyl, aryloxyalkylcycloalkyl,
+aryloxyalkylcycloalkyl, alkylaminoalkylcycloalkyl, cycloalkylaminoalkylcycloalkyl,
+arylaminoalkylcycloalkyl, heteroarylaminoalkylcycloalkyl,
+alkylaminoalkylcycloalkyl, cycloalkylaminoalkylcycloalkyl,
+arylaminoalkylcycloalkyl, heteroarylaminoalkylcycloalkyl, alkylthiocycloalkyl,
+cycloalkylthiocycloalkyl, arylthiocycloalkyl, heteroarylthiocycloalkyl,
+alkylthioalkylcycloalkyl, cycloalkylthioalkylcycloalkyl, arylthioalkylcycloalkyl, and
+heteroarylthioalkylcycloalkyl, where all aryl, alkyl, cycloalkyl, heteroaryl may
+optionally and independently from another be substituted by one or several R<sup>5</sup> and/or
+R<sup>6</sup>;</li></ul></li><li><b>Z</b> is chosen from hydrogen, halogen, cyano, formyl, alkyl, cycloalkyl, allyl, aryl,
+heteroaryl, arylalkyl, propargyl, alkenyl, alkynyl, alkoxyalkyl, alkylthioalkyl,
+N-alkylaminoalkyl, N,N-dialkylaminoalkyl, alkanoylaminoalkyl, acyl, thioacyl,
+C<sub>3</sub>-C<sub>10</sub> alkanoyl, aroyl, hetaroyl, alkoxycarbonyl, alkenoxycarbonyl,
+alkynyloxycarbonyl, aryloxycarbonyl, heteroaryloxycarbonyl,
+N-alkylaminocarbonyl, N,N-dialkylaminocarbonyl, alkylthiocarbonyl,
+N-alkylamidinyl, alkoxythiocarbonyl, C<sub>1</sub>-C<sub>6</sub> alkylaminothiocarbonyl, alkylcarbonyl,
+alkoxycarbonyl, N-alkylaminocarbonyl, N,N-dialkylaminocarbonyl,
+N,N-dialkylaminothiocarbonyl, arylcarbonyl, heteroarylcarbonyl, aryloxycarbonyl,
+heteroaryloxycarbonyl, alkenylcarbonyl, alkenyloxycarbonyl, alkynylcarbonyl,
+alkynyloxycarbonyl, dialkylphosphatyl, diarylphosphatyl, alkylarylphosphatyl,
+trialkylsilyl, alkylarylsilyl, triarylsilyl, alkylsulphonyl, alkoxysulphonyl,
+aryloxysulphonyl, aminosulphonyl, N-alkylaminosulphonyl,
+N,N-dialkylaminosulphonyl, N-arylaminosulphonyl, N,N-diarylaminosulphonyl,
+arylsulphonyl, alkoxysulphinyl, alkylaminosulphinyl, alkylsulphinyl, and
+arylsulphinyl, where all alkyl, alkoxy, alkenyl, alkynyl, cycloalkyl, heteroaryl and
+aryl group may optionally be substituted by one or several R<sup>5</sup> and/or R<sup>6</sup>;</li><li><b>R<sup>5</sup></b> is chosen from cyano, cyanoalkyl, nitroalkyl, halogen, haloalkyl, hydroxy,
+hydroxyalkyl, mercapto, mercaptoalkyl, amino, aminoalkyl, hydrazino, nitrido,
+hydroxylamino, alkylhydroxylamino, alkoxamino, cycloalkoxamino, formyl,
+trialkylsilyl, triarylsilyl, thiocyanato, azido, dihydroxyphosphanyl, 
+dialkoxyphosphanyl, alkoxy, haloalkoxy, cycloalkoxy, alkylthio, haloalkylthio,
+N-alkylamino, N,N-dialkylamino, N-haloalkylamino, N,N-halodialkylamino,
+alkoxylamino, haloalkoxamino, oxo, imino, alkoxyimino, haloalkoximino,
+hydrazono, alkylsulphonyl, arylsulphonyl, mono- or disubstituted aminosulphonyl,
+aroyl, alkanoyl, and mono- or disubstituted aminocarbonyl;</li><li><b>R<sup>6</sup></b> is chosen form alkyl, cycloalkyl, alkoxyalkyl, alkylthioalkyl, N-alkylaminoalkyl,
+N,N-dialkylaminoalkyl, alkenyl, cycloalkenyl, alkoxyalkenyl, alkylthioalkenyl,
+N-alkylaminoalkenyl, N,N-dialkylaminoalkenyl, alkynyl, cycloalkynyl,
+alkoxyalkynyl, alkylthioalkynyl, N-alkylaminoalkynyl, N,N-dialkylaminoalkynyl,
+oxo, alkylimino, cycloalkylimino, alkoxyimino, alkoxyalkylimino,
+N-alkylaminoalkylimino, N,N-dialkylaminoalkylimino, hydrazono, alkylhydrazono,
+cycloalkylhydrazono, arylhydrazono, heteroarylhydrazono, alkanoyl, cycloalkanoyl,
+alkoxyalkanoyl, alkylthioalkanoyl, N-alkylaminoalkanoyl,
+N,N-dialkylaminoalkanoyl, aroyl, cycloaroyl, alkoxyaroyl, alkylthioaroyl,
+N-alkylaminoaroyl, N,N-dialkylaminoaroyl, aryl, cycloalkylaryl, alkoxyaryl,
+alkylthioalkyl, diaminoalkylaryl, alkylthio, cycloalkylthio, haloalkylthio,
+hydroxyalkylthio, aminoalkylthio, thioalkylthio, alkoxyalkylthio, alkylthioalkylthio,
+N-alkylaminoalkylthio, N,N-dialkylaminoalkylthio, alkylamino, cycloalkylamino,
+haloalkylamino, hydroxyalkylamino, thioalkylamino, aminoalkylamino,
+alkoxyalkylamino, alkoxamino, N-alkylaminoalkylamino,
+N,N-dialkylaminoalkylamino, alkoxylamino, alkylhydrazino, alkylsulphonylamino,
+cycloalkylsulphonylamino, haloalkylsulphonylamino, arylsulphonylamino,
+heteroaryloxy, heteroarylthio, heteroarylamino, N-alkylaminocarbonyl,
+N-alkylaminocarbonyl, N,N-dialkylaminocarbonyl, alkoxycarbonyl,
+cycloalkoxycarbonyl, haloalkoxycarbonyl, hydroxyalkoxycarbonyl,
+N-alkylaminoalkoxycarbonyl, N,N-diaminoalkoxycarbonyl, alkylsulphonyl,
+cycloalkylsulphonyl, haloalkylsulphonyl, pentafluoroalkylsulphonyl, arylsulphonyl,
+N-alkylaminosulphonyl, N,N-dialkyaminosulphonyl, alkysulphoxidyl,
+cycloalkylsulphoxidyl, arylsulphinyl, and heteroarylsulphinyl, where all aryl, alkyl,
+cycloalkyl, heteroaryl may optionally and independently from another be substituted
+by one or several R<sup>5</sup>;</li><li><b>Y</b> is chosen from <ul list-style="bullet"><li>azido, formyl, -C(O)R<sup>7</sup>, -SH, thiocyanato, -SiR<sup>7</sup>R<sup>8</sup>R<sup>9</sup>;</li><li>-NH<sub>2</sub>, -NR<sup>7</sup>R<sup>8</sup>, -NR<sup>7</sup>-NR<sup>8</sup>R<sup>9</sup>, -ONR<sup>7</sup>R<sup>8</sup>, -ON=CR<sup>7</sup>R<sup>8</sup>, -NR<sup>7</sup>NR<sup>8</sup>(CO)R<sup>9</sup>,
+-NR<sup>7</sup>N=CR<sup>8</sup>R<sup>9</sup>;</li><li>-NR<sup>7</sup>C(O)OR<sup>8</sup>, -NR<sup>7</sup>C(O)SR<sup>8</sup>, -NR<sup>7</sup>C(O)NR<sup>8</sup>R<sup>9</sup>, -NR<sup>7</sup>C(S)OR<sup>8</sup>,
+-NR<sup>7</sup>C(S)SR<sup>8</sup>;</li><li>-NR<sup>7</sup>C(S)NR<sup>8</sup>R<sup>9</sup>, -NR<sup>7</sup>C(NR<sup>8</sup>)OR<sup>9</sup>, -NR<sup>7</sup>C(NR<sup>8</sup>)SR<sup>9</sup>, -NR<sup>7</sup>C(NR<sup>8</sup>)NR<sup>9</sup>R<sup>10</sup>,
+-NR<sup>7</sup>SO<sub>n</sub>R<sup>7</sup>, -NR<sup>7</sup>SO<sub>n</sub>OR<sup>7</sup>, -NR<sup>7</sup>SO<sub>n</sub>NR<sup>7</sup>R<sup>8</sup>, -NR<sup>7</sup>SO<sub>n</sub>SR<sup>7</sup>, wherein n represents 1 or
+2;</li><li>-P(O)(OR<sup>7</sup>)<sub>2</sub>, -P(O)(NR<sup>7</sup>R<sup>8</sup>)<sub>2</sub>, -P(O)R<sup>7</sup>R<sup>8</sup>;</li><li>cyclobutyl, cyclopropyl, cyclohexyl;</li><li>-(CR<sup>7</sup>R<sup>8</sup>)<sub>n</sub>-R<sup>5</sup>, -(CR<sup>7</sup>R<sup>8</sup>)<sub>n</sub>-R<sup>6</sup> wherein represents an integer from 1 to 10,
+except when R<sup>5</sup> represents halogen and R<sup>6</sup> represents alkenyl or alkynyl;</li><li>alkoxycarbonylaminoalkyl, haloalkoxycarbonylaminoalkyl,
+cycloalkoxycarbonylaminoalkyl;</li><li>cycloalkyloxy, alkenyloxy, alkenylamino, alkynyloxy, alkenylthio,
+alkynylthio;</li><li>R<sup>7</sup>OC(O)O-, R<sup>7</sup>SC(O)O-, R<sup>7</sup>R<sup>8</sup>NC(O)O-, R<sup>7</sup>OC(S)O-, R<sup>7</sup>SC(S)O-,
+R<sup>7</sup>R<sup>8</sup>NC(S)O-, R<sup>7</sup>OC(NR<sup>9</sup>)O-, R<sup>7</sup>SC(NR<sup>9</sup>)O-, R<sup>7</sup>R<sup>8</sup>NC(NR<sup>9</sup>)O-, alkanoyloxy,
+alkenoyloxy, alkynoyloxy, aroyloxy, hetaroyloxy;</li><li>alkoxycarbonylaminoalkyl;</li><li>-C(O)OH, -C(O)OR<sup>7</sup>, -C(O)SR<sup>7</sup>, -C(O)NR<sup>7</sup>R<sup>8</sup>, -C(S)OR<sup>7</sup>, -C(S)SR<sup>7</sup>,
+-C(S)NR<sup>7</sup>R<sup>8</sup>;</li><li>-C(=NR<sup>7</sup>R<sup>8</sup>)H, -C(=NR<sup>7</sup>)OR<sup>8</sup>, -C(=NR<sup>7</sup>)SR<sup>8</sup>, -C(=NR<sup>7</sup>)NR<sup>8</sup>R<sup>9</sup></li><li>-S(O)R<sup>7</sup>, -SO<sub>2</sub>R<sup>7</sup>, -SO<sub>3</sub>R<sup>7</sup>, -SO<sub>2</sub>NR<sup>7</sup>R<sup>8</sup>, -SO<sub>2</sub>SR<sup>7</sup>,
+pentafluorophenylsulphonyl, alkoxysulphinyl;</li><li>N-alkylaminosulphinyl, and N,N-dialkylaminosulphinyl;
+and</li><li>when <b>Het</b> represents an unsaturated or partially saturated ring, Y may also be
+selected from =O, =NR<sup>6</sup> and =S;</li><li>when G represents oxygen and Z represents alkyl, or when G is a direct bond
+and Z represents hydrogen, Y may also be chosen from halogen, nitro, cyano and
+alkylthio, cycloalkyl, alkenyl, alkynyl, aryl and heteroaryl;</li></ul></li><li>all alkyl, cycloalkyl, alkenyl, alkynyl, aryl and heteroaryl may optionally be
+substituted with one or several R<sup>5</sup> and/or R<sup>6</sup>;</li><li><b>R<sup>7</sup>, R<sup>8</sup>, R<sup>9</sup> and R<sup>10</sup></b>, which may be the same or different, are each chosen from
+hydrogen, linear or branched C<sub>1</sub>-C<sub>10</sub> alkyl, cycloalkyl, alkenyl, alkynyl, aryl,
+heteroaryl, heterocyclyl, each being optionally substituted independently from
+another with one or several R<sup>5</sup> and/or R<sup>6</sup>;</li><li>R<sup>7</sup> and R<sup>8</sup> on the one hand and R<sup>9</sup> and R<sup>10</sup> on the other hand, may further together
+form a saturated, partially saturated or unsaturated 3-8 membered ring containing
+optionally 0 to 3 heteroatoms chosen from among O, N, and S;</li><li><b>X<sub>n</sub></b> is chosen from
+<ul list-style="bullet"><li>hydrogen, halogen, -OH, -OR<sup>7</sup>, -ONR<sup>7</sup>R<sup>8</sup>, -SH, -SR<sup>7</sup>, -S(O)R<sup>7</sup>, -SO<sub>2</sub>R<sup>7</sup>,
+-SO<sub>2</sub>NR<sup>7</sup>R<sup>8</sup>, -C(O)R<sup>7</sup>, -C(O)OR<sup>7</sup>, -C(O)NR<sup>7</sup>R<sup>8</sup>, -NR<sup>7</sup>R<sup>8</sup>, nitro, thiocyanato, azido,
+cyano, pentafluorosulphonyl, -P(O)(OR<sup>7</sup>)<sub>2</sub>, -P(O)(NR<sup>7</sup>R<sup>8</sup>)<sub>2</sub>, -P(O)R<sup>7</sup>R<sup>8</sup>, oxo (=O) and
+imino (=R<sup>7</sup>),</li><li>linear or branched C<sub>1</sub>-C<sub>10</sub> alkyl, cycloalkyl, alkenyl, alkynyl, aryl, heteroaryl,
+and heterocyclyl, each of them being optionally substituted independently from
+another with one or several R<sup>5</sup> and/or R<sup>6</sup>;</li><li>X<sub>n</sub> and X<sub>n+1</sub> may also be joined together, thus forming a saturated, partially
+unsaturated or totally unsaturated 4- to 8-membered ring optionally comprising one
+or more heteroatoms chosen from sulphur, oxygen, nitrogen and phosphorus;</li></ul></li><li>all alkyl, cycloalkyl, alkenyl, alkynyl, aryl and heteroaryl may optionally be
+substituted with one or several R<sup>5</sup> and/or R<sup>6</sup>;</li><li><b>T</b> is chosen from
+<ul list-style="bullet"><li>a direct bond,</li><li>a divalent radical chosen from -(C[R<sub>3</sub>]<sub>2</sub>)<sub>m</sub>-, -(C[R<sup>5</sup>]<sub>2</sub>)<sub>m</sub>-or -(CH<sub>2</sub>)<sub>m</sub>, where m
+can take a value between 1 and 12, limits included, and where the said radical can
+optionally be interrupted or ending with one or two heteroatoms chosen from
+nitrogen, oxygen and/or sulphur,</li><li>oxyalkylene, alkoxyalkylene, carbonyl (-CO-), oxycarbonyl (-O-CO-),
+carbonyloxy (-CO-O-), sulphinyl (-SO-), sulphonyl (-SO<sub>2</sub>-), oxysulphonyl (-O-SO<sub>2</sub>-),
+sulphonyloxy (-SO<sub>2</sub>-O-), oxysulphinyl (-O-SO-), sulphinyloxy (-SO-O-), thio (-S-),
+oxy (-O-), amino (-NR<sup>1</sup>-), vinyl (-C=C-), ethynyl (-C≡C-), -NR<sup>1</sup>-, -NR<sup>1</sup>O-, -ONR<sup>1</sup>-, 
+-N=N-, -NR<sup>1</sup>-NR<sup>2</sup>-, -NR<sup>1</sup>-S-, -NR<sup>1</sup>-SO-, -NR<sup>1</sup>-SO<sub>2</sub>-, -S-NR<sup>1</sup>-, -SO-NR<sup>1</sup>-, -SO<sub>2</sub>-NR<sup>1</sup>-,
+-CO-NR<sup>1</sup>-O- or -O-NR<sup>1</sup>-CO-;</li></ul></li></sl>
+as well as all eventual N-oxides, geometrical and/or optical isomers, enantiomers
+and/or diastereoisomers, tautomeric forms, salts and metal and metalloid complexes
+thereof.</p><p num="0012">Unless otherwise specified, "alkyl" refers to C<sub>1</sub>-C<sub>18</sub> alkyl, alkenyl to C<sub>2</sub>-C<sub>18</sub>
+alkenyl, alkynyl to C<sub>2</sub>-C<sub>18</sub> alkynyl, cycloalkyl means C<sub>3</sub>-C<sub>18</sub> cycloalkyl containing 0
+to 3 heteroatoms and 0 to 2 unsaturations, bi- or tricyclic ring systems containing
+from 0 to 2 heteroatoms and from 0 to 2 unsaturations included, all optionally
+substituted by one or several R<sup>5</sup> and/or R<sup>6</sup>.</p><p num="0013">The term alkyl, alkenyl, alkynyl and the like, as used herein, include within
+their scope both straight and branched groups; the term heteroaryl refers to any 5 or 6
+membered aromatic ring containing one or more heteroatoms. These heteroatoms
+may also be fused to other aromatic systems.</p><p num="0014">The tautomeric forms of the compounds of formula (I) such as those defined
+above are also included in the invention. By tautomeric forms there are to be understood
+all of the isomeric forms described in the work "The Tautomerism of Hetero-cycles,
+Advances in Heterocyclic Chemistry, Supplement 1, by J Elguero, C. Martin,
+A.R. Katritsky and P Linda, published by Academic Press, New York, 1976, pp. 1-4.</p><p num="0015">The following generic terms are used with the following meanings:
+<ul list-style="bullet"><li>halogen signifies fluorine, chlorine, bromine or iodine,</li><li>the alkyl radicals as well as groups including these alkyl radicals (alkoxy,
+alkylcarbonyl or acyl, etc.) include, unless indicated to the contrary, from 1 to 6
+carbons atoms in a linear or branched chain and are optionally substituted,</li><li>the halogenated alkyl, alkoxy and halocycloalkyl radicals may comprise one
+or more identical or different halogen atoms, </li><li>the cycloalkyl radicals comprise from 3 to 6 carbon atoms and are optionally
+substituted,</li><li>the alkenyl and alkynyl radicals, as well as groups including such radicals,
+comprise, unless indicated to the contrary, from 2 to 6 carbon atoms in a straight or
+branched chain and are optionally substituted,</li><li>the acyl radical signifies alkylcarbonyl or cycloalkylcarbonyl, the alkyl part
+containing from 1 to 6 carbon atoms and the cycloalkyl part containing 3 to 6 carbon
+atoms, unless indicated to the contrary and are optionally substituted,</li><li>the alkylene radical designates the divalent -(CH<sub>2</sub>)<sub>m</sub>- radical where m
+represents an integer equal to 1, 2, 3, 4, 5 or 6,</li><li>the term "aryl" in "aryl" and "arylalkyl" signifies phenyl or naphthyl,
+optionally substituted,</li><li>the term "heterocyclyl" in "heterocyclyl" and "heterocyclylalkyl" signifies a
+ring of 4 to 10 members, saturated, partially unsaturated or unsaturated, optionally
+substituted, comprising one or more heteroatoms, identical or different, chosen from
+nitrogen, oxygen, sulphur, silicon and phosphorus,</li><li>when the amino radical is disubstituted, the two substituants are identical or
+different or may together with the nitrogen atom which carries them form a saturated,
+partially unsaturated or unsaturated nitrogen-containing heterocycle, containing 5 or
+6 atoms in total,</li><li>when the carbamoyl radical is disubstituted, the two substituants are identical
+or different or may together with the nitrogen atom which carries them form a
+saturated, partially unsaturated or unsaturated nitrogen-containing heterocycle of 5 to
+6 carbon atoms in total,</li><li>unless indicated to the contrary, the expression "optionally substituted"
+qualifying an organic group applies to different radicals constituting the group and
+indicates that the different radicals are optionally substituted by one or more radicals
+R<sup>5</sup> and/or aryl and/or arylalkyl, identical or different,</li><li>all aryl, alkyl, cycloalkyl, heteroaryl may optionally and independently from
+another be substituted by one or several R<sup>5</sup> and/or R<sup>6</sup>.</li></ul></p><p num="0016">According to a further aspect, the present invention relates to substituted
+heterocycles of general formula (I) as defined above and for which <b>Het</b> (representing
+"heterocycle") represents saturated, partially unsaturated or aromatic monocycle or
+bicycles containing from 4 to 10 ring units, comprising at least one heteroatom
+chosen from nitrogen, oxygen, sulphur, silicon and phosphorus. In case of bicyclic
+heterocycles, it has to be understood that the three substituants adjacent to each other
+(-Y, -GZ, -PQ<sup>1</sup>TQ<sup>2</sup>) are attached to a ring bearing at least one of the heteroatoms
+chosen from O, N, S and P.</p><p num="0017">More particularly, the term "heterocycle" is understood as being one of the
+rings (i) to (v) below, provided that the rings may be substituted in the fashion
+according to formula (I) such that the valency rules are obeyed and that the three
+substituants (-Y, -GZ and -PQ<sup>1</sup>TQ<sup>2</sup>) are adjacent to each other:
+<ul list-style="bullet"><li>a 5-membered ring described by formula (i):
+<img id="img-00110001" orientation="unknown" wi="35" img-format="tif" img-content="cf" file="00110001.tif" inline="no" he="21"/>
+in which each of the groups of the list B<sup>1</sup>, B<sup>2</sup>, B<sup>3</sup>, B<sup>4</sup> is chosen from carbon, nitrogen,
+oxygen and sulphur atoms such that the said list comprises from 0 to 3 carbon atoms,
+from 0 to 1 sulphur atom, from 0 to 1 oxygen atom and from 0 to 4 nitrogen atoms;</li><li>a 6-membered ring described by formula (ii):
+<img id="img-00110002" orientation="unknown" wi="41" img-format="tif" img-content="cf" file="00110002.tif" inline="no" he="24"/>
+in which each of the groups of the list D<sup>1</sup>, D<sup>2</sup>, D<sup>3</sup>, D<sup>4</sup>, D<sup>5</sup> is chosen from carbon and
+nitrogen atoms such that the said list comprises from 1 to 4 carbon atoms and from 1
+to 4 nitrogen atoms;</li><li>two fused rings, each being 6-membered, described by formula (iii): <img id="img-00120001" orientation="unknown" wi="54" img-format="tif" img-content="cf" file="00120001.tif" inline="no" he="25"/>
+in which each of the groups in the list E<sup>1</sup>, E<sup>2</sup>, E<sup>3</sup>, E<sup>4</sup>, E<sup>5</sup>, E<sup>6</sup>, E<sup>7</sup>, E<sup>8</sup> is chosen from
+carbon and nitrogen atoms such that the said list comprises from 4 to 7 carbon atoms
+and from 1 to 4 nitrogen atoms;</li><li>a 6-membered ring and a 5-membered ring fused together, described by
+formula (iv):
+<img id="img-00120002" orientation="unknown" wi="56" img-format="tif" img-content="cf" file="00120002.tif" inline="no" he="23"/>
+in which:
+<sl><li>each of the groups in the list J<sup>1</sup>, J<sup>2</sup>, J<sup>3</sup>, J<sup>4</sup>, J<sup>5</sup>, J<sup>6</sup> is chosen from carbon and nitrogen
+atoms such that the said list comprises from 3 to 6 carbon atoms and from 0 to 3
+nitrogen atoms; and</li><li>each of the groups in the list L1, L2, L3 is chosen from carbon, nitrogen, oxygen and
+sulphur atoms such that the said list comprises from 0 to 3 carbon atoms, from 0 to 1
+sulphur atom, from 0 to 1 oxygen atom and from 0 to 3 nitrogen atoms; and</li><li>each of the groups in the list J<sup>1</sup>, J<sup>2</sup>, J<sup>3</sup>, J<sup>4</sup>, J<sup>5</sup>, J<sup>6</sup>, L<sup>1</sup>, L<sup>2</sup>, L<sup>3</sup> is chosen such that the said
+list comprises from 3 to 8 carbon atoms;</li></sl></li><li>two fused rings, each being 5-membered, described by formula (v):
+<img id="img-00120003" orientation="unknown" wi="56" img-format="tif" img-content="cf" file="00120003.tif" inline="no" he="23"/>
+in which:
+<sl><li>each of the groups in the list M<sup>1</sup>, M<sup>2</sup>, M<sup>3</sup> represents, carbon, nitrogen, oxygen or
+sulphur atoms such that the said list comprises from 0 to 3 carbon atoms, from 0 to 1
+sulphur atom, from 0 to 1 oxygen atom and from 0 to 3 nitrogen atoms;</li><li>each of the groups in the list T<sup>1</sup>, T<sup>2</sup>, T<sup>3</sup> represents carbon, nitrogen, oxygen or 
+sulphur atoms such that the said list comprises from 0 to 3 carbon atoms, from 0 to 1
+sulphur atom, from 0 to 1 oxygen atom and from 0 to 3 nitrogen atoms;</li><li>Z<sup>1</sup> represents a carbon or nitrogen atom;</li></sl></li></ul>
+each of the groups in the list M<sup>1</sup>, M<sup>2</sup>, M<sup>3</sup>, T<sup>1</sup>, T<sup>2</sup>, T<sup>3</sup> is chosen such that the said list
+comprises from 0 to 6 carbon atoms.</p><p num="0018">In the present invention, the term "heterocycle" more specifically means:
+<ul list-style="bullet"><li>furan, pyrrole, thiophene,</li><li>pyrazole, imidazole, oxazole, isoxazole, thiazole, isothiazole,</li><li>1,2,3-oxadiazole, 1,2,4-oxadiazole, 1,2,5-oxadiazole, 1,3,4-oxadiazole,
+1,2,3-thiadiazole,</li><li>1,2,4-thiadiazole, 1,2,5-thiadiazole, 1,3,4-thiadiazole, 1,2,3-triazole,
+1,2,4-triazole, tetrazole</li><li>2H-pyran, 4H-pyran, thiopyran, 1,4-dihydropyridine,
+N-alkyldihydropyridine,</li><li>N-cycloalkyldihydropyridine, N-aryldihydropyridine,</li><li>pyridine, pyrimidine, pyrazine, pyridazine, 1,2,3-triazine, 1,2,4-triazine,
+1,3,5-triazine,</li><li>1,2,3,4-tetrazine, 1,2,3,5-tetrazine, 1,2,4,5-tetrazine,</li><li>indazole, benzotriazole, benzoxazole, 1,2-benzisoxazole, 2,1-benzisoxazole,
+benzothiazole, 1,2-benzisothiazole, 2,1-benzisothiazole, 1,2,3-benzoxadiazole,
+1,2,5-benzoxadiazole, 1,2,3-benzothiadiazole, 1,2,5-benzothiadiazole, quinole,
+isoquinole, quinoxazoline, quinazoline, phthalazol,</li><li>pteridine, benzotriazine, 1,5-naphthyridine, 1,6-naphthyridine,
+1,7-naphthyridine,</li><li>1,8-naphthyridine, imidazo[2,1-b]thiazole, thieno[3,4-b]pyridine, purine and
+pyrrolo[1,2-b]thiazole,</li></ul>
+where every one of these heterocycles may optionally be partially or fully hydrated
+to partially or fully saturated compounds respectively,
+
+where all nitrogen bearing heterocycles may optionally be present in form of
+N-oxides,
+ 
+where the nitrogen in all nitrogen bearing heterocycles may optionally be substituted
+with -Y, -GZ or -PQ<sup>1</sup>TQ<sup>2</sup>.</p><p num="0019">Even more specifically, the term "heterocycle" means:
+<ul list-style="bullet"><li>furan, pyrrole, thiophene,</li><li>pyrazole, imidazole, oxazole, isoxazole, thiazole, isothiazole,</li><li>pyridine, pyrimidine, pyrazine, pyridazine, 1,2,3-triazine, 1,2,4-triazine,
+1,3,5-triazine.</li></ul></p><p num="0020">Most specifically, the term "heterocycle" means:
+<ul list-style="bullet"><li>furan, pyrrole, thiophene,</li><li>pyrazole, imidazole, oxazole, isoxazole, thiazole, isothiazole,</li><li>pyridine, pyrimidine.</li></ul></p><p num="0021">According to another aspect, the present invention relates to substituted
+heterocycles of general formula (I) as defined above and for which the sub-unit
+P-Q<sup>1</sup>-T-Q<sup>2</sup> is more precisely defined such that:
+<ul list-style="bullet"><li>P is chosen from -C(O)-, -C(S)-, -SO<sub>2</sub>-, and -P(O)(OR<sup>1</sup>)-,</li><li>Q<sup>1</sup> represents -NR<sup>3</sup>R<sup>4</sup>, where R<sup>3</sup> represents hydrogen and where R<sup>4</sup> is chosen
+from alkyl, cycloalkyl, aryl, heteroaryl optionally substituted with one or several
+identical or different R<sup>5</sup> and/or R<sup>6</sup>,</li><li>T is chosen from a direct bond, -(CH<sub>2</sub>)<sub>m</sub>-, where m can take a value between
+1 and 6, limits included, and where the said radical can optionally be interrupted or
+ending with one or two heteroatoms chosen from nitrogen, oxygen and/or sulphur, an
+oxyalkylene, alkoxyalkylene, carbonyl (-CO-), oxycarbonyl (-O-CO-), carbonyloxy
+(-CO-O-), sulphinyl (-SO-), sulphonyl (-SO<sub>2</sub>-), oxysulphonyl (-O-SO<sub>2</sub>-),
+sulphonyloxy (-SO<sub>2</sub>-O-), oxysulphinyl (-O-SO-), sulphinyloxy (-SO-O-), thio (-S-),
+oxy (-O-), amino (-NR<sup>1</sup>-), vinyl (-C=C-), ethynyl (-C≡C-), -NR<sup>1</sup>-, -NR<sup>1</sup>O-, -ONR<sup>1</sup>-,
+-N=N-, -NR<sup>1</sup>-NR<sup>2</sup>-, -NR<sup>1</sup>-S-, -NR<sup>1</sup>-SO-, -NR<sup>1</sup>-SO<sub>2</sub>-, -S-NR<sup>1</sup>-, -SO-NR<sup>1</sup>-, -SO<sub>2</sub>-NR<sup>1</sup>-,
+-CO-NR<sup>1</sup>-O- and -O-NR<sup>1</sup>-CO- radical,</li><li>Q<sup>2</sup> is chosen from hydrogen, alkyl, cycloalkyl, aryl, and heteroaryl optionally
+substituted with one or several R<sup>5</sup> and/or R<sup>6</sup> independently chosen from another,</li></ul> 
+the other substituants being as defined above, as well as the eventual N-oxides,
+geometrical and/or optical isomers and enantiomers, tautomeric forms, salts and
+metal and metalloid complexes thereof.</p><p num="0022">According to an even further aspect, the present invention more specifically
+relates to substituted heterocycles of general formula (I) as defined above wherein Y
+is chosen from -SiR<sup>7</sup>R<sup>8</sup>R<sup>9</sup>, -NH<sub>2</sub>, -NR<sup>7</sup>R<sup>8</sup>, -NR<sup>7</sup>-NR<sup>8</sup>R<sup>9</sup>, -ONR<sup>7</sup>R<sup>8</sup>, -ON=CR<sup>7</sup>R<sup>8</sup>,
+-NR<sup>7</sup>NR<sup>8</sup>(CO)R<sup>9</sup>, -NR<sup>7</sup>N=CR<sup>8</sup>R<sup>9</sup>, -NR<sup>7</sup>C(O)OR<sup>8</sup>, -NR<sup>7</sup>C(O)SR<sup>8</sup>, -NR<sup>7</sup>C(O)NR<sup>8</sup>R<sup>9</sup>,
+-NR<sup>7</sup>C(S)OR<sup>8</sup>, -NR<sup>7</sup>C(S)SR<sup>8</sup>, -NR<sup>7</sup>C(S)NR<sup>8</sup>R<sup>9</sup>, -NR<sup>7</sup>C(NR<sup>8</sup>)OR<sup>9</sup>, -NR<sup>7</sup>C(NR<sup>8</sup>)SR<sup>9</sup>,
+-NR<sup>7</sup>C(NR<sup>8</sup>)NR<sup>9</sup>R<sup>10</sup>, -NR<sup>7</sup>SO<sub>n</sub>R<sup>7</sup>, -NR<sup>7</sup>SO<sub>n</sub>OR<sup>7</sup>, -NR<sup>7</sup>SO<sub>n</sub>NR<sup>7</sup>R<sup>8</sup>, -NR<sup>7</sup>SO<sub>n</sub>SR<sup>7</sup>,
+where n represents 0, 1 or 2, cycloalkyloxy, alkenyloxy, alkenylamino, alkynyloxy,
+alkenylthio, alkynylthio, R<sup>7</sup>OC(O)O-, R<sup>7</sup>SC(O)O-, R<sup>7</sup>R<sup>8</sup>NC(O)O-, R<sup>7</sup>OC(S)O-,
+R<sup>7</sup>SC(S)O-, R<sup>7</sup>R<sup>8</sup>NC(S)O-, R<sup>7</sup>OC(NR<sup>9</sup>)O-, R<sup>7</sup>SC(NR<sup>9</sup>)O-, R<sup>7</sup>R<sup>8</sup>NC(NR<sup>9</sup>)O-,
+alkanoyloxy, alkenoyloxy, alkynoyloxy, aroyloxy, hetaroyloxy, -C(O)OH,
+-C(O)OR<sup>7</sup>, -C(O)SR<sup>7</sup>, -C(O)NR<sup>7</sup>R<sup>8</sup>, -C(S)OR<sup>7</sup>, -C(S)SR<sup>7</sup>, -C(S)NR<sup>7</sup>R<sup>8</sup>,
+-C(=NR<sup>7</sup>R<sup>8</sup>)H, -C(=NR<sup>7</sup>)OR<sup>8</sup>, -C(=NR<sup>7</sup>)SR<sup>8</sup>, -C(=NR<sup>7</sup>)NR<sup>8</sup>R<sup>9</sup>, -S(O)R<sup>7</sup>, -SO<sub>2</sub>R<sup>7</sup>,
+-SO<sub>3</sub>R<sup>7</sup>, -SO<sub>2</sub>NR<sup>7</sup>R<sup>8</sup>, -SO<sub>2</sub>SR<sup>7</sup>, pentafluorophenylsulphonyl, alkoxysulphinyl,
+N-alkylaminosulphinyl, N,N-dialkylaminosulphinyl, arylsulphinyl, and
+alkoxycarbonyloxy,
+
+when Het represents an unsaturated ring, Y may also be selected from =O, =NR<sup>6</sup> and
+=S;
+<ul list-style="bullet"><li>when G represents oxygen and Z represents alkyl, or when G is a direct bond
+and Z represents hydrogen, Y may also be chosen from halogen, nitro, cyano,
+alkylthio, cycloalkyl, alkenyl, alkynyl, aryl and heteroaryl;</li></ul>
+the other substituants being as previously defined,
+
+as well as the eventual N-oxides, geometrical and/or optical isomers and
+enantiomers, tautomeric forms, salts and metal and metalloid complexes thereof.</p><p num="0023">More specifically, the present invention relates to substituted heterocycles of
+general formula (I) as defined above for which Y is chosen from <sl><li>-SiR<sup>7</sup>R<sup>8</sup>R<sup>9</sup>,</li><li>-NH<sub>2</sub>, -NR<sup>7</sup>R<sup>8</sup>, -NR<sup>7</sup>-NR<sup>8</sup>R<sup>9</sup>, -ONR<sup>7</sup>R<sup>8</sup>, -ON=CR<sup>7</sup>R<sup>8</sup>, -NR<sup>7</sup>NR<sup>8</sup>(CO)R<sup>9</sup>,</li><li>-NR<sup>7</sup>N=CR<sup>8</sup>R<sup>9</sup>,</li><li>-NR<sup>7</sup>C(O)OR<sup>8</sup>, -NR<sup>7</sup>C(O)SR<sup>8</sup>, -NR<sup>7</sup>C(O)NR<sup>8</sup>R<sup>9</sup>, -NR<sup>7</sup>C(S)OR<sup>8</sup>, -NR<sup>7</sup>C(S)SR<sup>8</sup>,</li><li>-NR<sup>7</sup>C(S)NR<sup>8</sup>R<sup>9</sup>, -NR<sup>7</sup>C(NR<sup>8</sup>)OR<sup>9</sup>, -NR<sup>7</sup>C(NR<sup>8</sup>)SR<sup>9</sup>, -NR<sup>7</sup>C(NR<sup>8</sup>)NR<sup>9</sup>R<sup>10</sup>,</li><li>-C(O)OH, -C(O)OR<sup>7</sup>, -C(O)SR<sup>7</sup>, -C(O)NR<sup>7</sup>R<sup>8</sup>, -C(S)OR<sup>7</sup>, -C(S)SR<sup>7</sup>, -C(S)NR<sup>7</sup>R<sup>8</sup>,</li><li>-C(=NR<sup>7</sup>R<sup>8</sup>)H, -C(=NR<sup>7</sup>)OR<sup>8</sup>, -C(=NR<sup>7</sup>)SR<sup>8</sup>, -C(=NR<sup>7</sup>)NR<sup>8</sup>R<sup>9</sup>,</li><li>-S(O)R<sup>7</sup>, -SO<sub>2</sub>R<sup>7</sup>, -SO<sub>3</sub>R<sup>7</sup>, -SO<sub>2</sub>NR<sup>7</sup>R<sup>8</sup>, -SO<sub>2</sub>SR<sup>7</sup>, pentafluorophenylsulphonyl,
+alkoxysulphinyl, N-alkylaminosulphinyl, N,N-dialkylaminosulphinyl, arylsulphinyl,
+alkoxycarbonyloxy, substituants R<sup>7</sup>, R<sup>8</sup>, R<sup>9</sup> as being as previously defined,</li></sl>
+the other substituants being as previously defined,
+
+as well as the eventual N-oxides, geometrical and/or optical isomers and
+enantiomers, tautomeric forms, salts and metal and metalloid complexes thereof.</p><p num="0024">More particularly, the present invention relates to substituted heterocycles of
+general formula (I) as defined above, which have the following characteristics, taken
+separately or in combination:
+<sl><li>X<sub>n</sub> is chosen from hydrogen and alkyl,</li><li>G represents oxygen, sulphur or a direct bond,</li><li>Z is chosen from hydrogen, halogen, alkyl, allyl, propargyl, alkanoyl, aroyl, hetaroyl,
+alkoxycarbonyl, alkenoxycarbonyl, aryloxycarbonyl, heteroaryloxycarbonyl,
+N-alkylaminocarbonyl, N,N-dialkylaminocarbonyl, alkylthiocarbonyl,
+alkoxythiocarbonyl, N-alkylaminothiocarbonyl, alkylcarbonyl, alkoxycarbonyl,
+N-alkylaminocarbonyl, N,N-dialkylaminocarbonyl, N,N-dialkylaminothiocarbonyl,
+dialkylphosphatyl, diarylphosphatyl, alkylarylphosphatyl, trialkylsilyl, alkylarylsilyl,
+triarylsilyl, alkylsulphonyl, arylsulphonyl, alkoxysulphonyl, aryloxysulphonyl,
+aminosulphonyl, N-alkylaminosulphonyl, N,N-dialkylaminosulphonyl,
+N-arylaminosulphonyl, N,N-diarylaminosulphonyl, alkoxysulphinyl,
+alkylaminosulphinyl, alkylsulphinyl and arylsulphinyl, where all alkyl, alkoxy,
+alkenyl, alkynyl, cycloalkyl, heteroaryl and aryl group may optionally be substituted
+by one or several R<sup>5</sup> and/or R<sup>6</sup>, </li><li>Y is chosen from trialkylsilyl, amino, -NR<sup>7</sup>C(O)OR<sup>8</sup>, -NR<sup>7</sup>C(O)NR<sup>8</sup>R<sup>9</sup>,
+-NR<sup>7</sup>C(O)OR<sup>8</sup>, -NR<sup>7</sup>SO<sub>n</sub>R<sup>7</sup> with n = 1 or 2, S(O)R<sup>7</sup>, -SO<sub>2</sub>R<sup>7</sup>, -SO<sub>3</sub>R<sup>7</sup>, -CO<sub>2</sub>H,
+C(O)OR<sup>7</sup>, -C(=NR<sup>7</sup>)H, -C(O)NR<sup>7</sup>R<sup>8</sup>; Y can also be =O, =NR<sup>6</sup>, =S, where Het
+signifies an unsaturated ring;</li><li>Y can also be halogen, nitro, alkylthio and alkoxy when G = oxygen and Z = alkyl,
+cycloalkyl, alkenyl, alkynyl, aryl, heteroaryl or when G = bond and Z = H,</li><li>P represents -C(O)- or -SO<sub>2</sub>-,</li><li>T represents a direct bond, or is chosen from oxy (-O-), thio (-S-), carbonyl -C(O)-and
+-(CH<sub>2</sub>)<sub>m</sub>, m being an integer from 1 to 6,</li><li>Q<sup>1</sup> represents -NR<sup>3</sup>R<sup>4</sup>, where R<sup>3</sup> represents hydrogen and R<sup>4</sup> is chosen from alkyl,
+cycloalkyl, aryl, heteroaryl optionally substituted with one or several R<sup>5</sup> and/or R<sup>6</sup>
+independently chosen from another,</li><li>Q<sup>2</sup> is chosen from hydrogen, alkyl, cycloalkyl, aryl, heteroaryl optionally substituted
+with one or several R<sup>5</sup> and/or R<sup>6</sup> independently chosen from another,</li></sl>
+the other substituants being as defined above, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</p><p num="0025">Even more particularly, the present invention relates to substituted
+heterocycles of general formula (I) as defined above, which have the following
+characteristics, taken separately or in combination:
+<sl><li>X<sub>n</sub> is chosen from hydrogen, alkyl, -SO<sub>2</sub>R<sup>7</sup>, -C(O)OR<sup>7</sup>, and -P(O)(OR<sup>7</sup>)<sub>2</sub>,</li><li>G represents a direct bond or oxygen,</li><li>Z is chosen from hydrogen, halogen, alkyl, alkoxycarbonyl, and alkanoyl,</li><li>Y is chosen from trialkylsilyl, amino, -NR<sup>7</sup>C(O)OR<sup>8</sup>, -SR<sup>7</sup>, -SO<sub>2</sub>R<sup>7</sup>, -CO<sub>2</sub>H,
+C(O)OR<sup>7</sup>, -C(=NR<sup>7</sup>)H, -C(O)NR<sup>7</sup>R<sup>8</sup>,</li><li>Y can also be =O, =NR<sup>6</sup>, =S, where Het signifies an unsaturated ring,</li><li>Y can also be halo, nitro, alkylthio and alkoxy when G = oxygen and Z = alkyl,
+cycloalkyl, alkenyl, alkynyl, aryl or heteroaryl or when G = bond and Z = H,</li><li>P represents -C(O)- or -SO<sub>2</sub>-, </li><li>Q<sup>1</sup> represents -NR<sup>3</sup>R<sup>4</sup>, where R<sup>3</sup> represents hydrogen and R<sup>4</sup> is chosen from alkyl,
+cycloalkyl, aryl, and heteroaryl optionally substituted with one or several R<sup>5</sup> and/or
+R<sup>6</sup> independently chosen from another,</li><li>T represents a direct bond, or is chosen from oxygen, sulphur, -C(O)-, and -(CH<sub>2</sub>)<sub>m</sub>,
+m having a value of between 1 and 6,</li><li>Q<sup>2</sup> is chosen from hydrogen, alkyl, cycloalkyl, aryl, and heteroaryl optionally
+substituted with one or several R<sup>5</sup> and/or R<sup>6</sup> independently chosen from another,</li></sl>
+the other substituants being as defined above, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</p><p num="0026">A preferred class of compounds of general formula (I) comprises the
+compounds having the following characteristics:
+<sl><li>Het represents thiophene,</li><li>Y is chosen from bromine, alkylthio, -SiR<sup>7</sup>R<sup>8</sup>R<sup>9</sup>, -SO<sub>2</sub>R<sup>7</sup>, NH<sub>2</sub>, -N=CR<sup>7</sup>R<sup>8</sup>,
+-NC(O)OR<sup>7</sup>, CO<sub>2</sub>H, -C(=NR<sup>7</sup>)H, and -SO<sub>2</sub>R<sup>7</sup>,</li><li>n is equal to 1,</li><li>X<sup>1</sup> represents hydrogen or alkylthio,</li><li>G represents oxygen,</li><li>Z is chosen from H, alkyl, alkanoyl, alkylsulphonyl, and arylsulphonyl,</li><li>P represents -C(O)-,</li><li>Q<sup>1</sup> represents -NR<sup>3</sup>R<sup>4</sup>,</li><li>T is a direct bond or represents -O-,</li><li>Q<sup>2</sup> is chosen from hydrogen and R<sup>3</sup>, R<sup>3</sup> being alkyl or aryl,</li><li>R<sup>4</sup> represents hydrogen,</li><li>R<sup>7</sup> represents alkyl or aryl,</li></sl>
+the other substituants being as defined above, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof. </p><p num="0027">Another preferred class of compounds of general formula (I) comprises the
+compounds having the following characteristics:
+<sl><li>Het represents pyrrole,</li><li>Y is chosen from -NH<sub>2</sub>, -NR<sup>7</sup>R<sup>8</sup>, -NC(O)OR<sup>7</sup>, CO<sub>2</sub>H, -C(O)OR<sup>7</sup>, -C(O)NR<sup>7</sup>R<sup>8</sup>,
+-SO<sub>2</sub>R<sup>7</sup>, and -CO<sub>2</sub>H,</li><li>n represents 1 or 2,</li><li>X<sup>1</sup> represents hydrogen,</li><li>X<sup>2</sup> represents alkyl, -SO<sub>2</sub>R<sup>7</sup>, -C(O)OR<sup>7</sup>, and -P(O)(OR<sup>7</sup>)<sub>2</sub>,</li><li>G represents -O-,</li><li>Z is chosen from hydrogen, alkyl, alkanoyl, alkylsulphonyl, and arylsulphonyl,</li><li>P represents -C(O)-,</li><li>Q<sup>1</sup> represents -NR<sup>3</sup>R<sup>4</sup>, or -OR<sup>3</sup>,</li><li>T represents a direct bond, or -O-,</li><li>Q<sup>2</sup> is chosen from hydrogen and R<sup>3</sup>,</li><li>R<sup>3</sup> is chosen from alkyl, and aryl,</li><li>R<sup>4</sup> represents hydrogen,</li><li>R<sup>7</sup> and R<sup>8</sup> which are the same or different are independently chosen from alkyl,
+alkenyl, and aryl, R<sup>7</sup> and R<sup>8</sup> optionally forming an unsaturated or saturated cycle,</li></sl>
+the other substituants being as defined above, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</p><p num="0028">Another preferred class of compounds of general formula (I) comprises the
+compounds having the following characteristics:
+<sl><li>Het represents pyrazole,</li><li>n represents 1,</li><li>X<sup>1</sup> is chosen from alkyl, -SO<sub>2</sub>R<sup>7</sup>, -C(O)OR<sup>7</sup>, and -P(O)(OR<sup>7</sup>)<sub>2</sub>,</li><li>Y is chosen from -NH<sub>2</sub>, -NO<sub>2</sub>, -NHC(O)OR<sup>7</sup>, -NHC(O) R<sup>7</sup>, -NR<sup>7</sup>R<sup>8</sup>, -SO<sub>2</sub>R<sup>7</sup>,
+and -CO<sub>2</sub>H,</li><li>G represents a direct bond or -O-,</li><li>Z is chosen from hydrogen, bromine, alkyl, alkanoyl, alkylsulphonyl, and 
+arylsulphonyl,</li><li>P represents -C(O)-,</li><li>Q<sup>1</sup> is chosen from -NR<sup>3</sup>R<sup>4</sup>, and -OR<sup>3</sup>,</li><li>T represents a direct bond or -O-,</li><li>Q<sup>2</sup> is chosen from hydrogen and R<sup>3</sup>,</li><li>R<sup>3</sup> is chosen from hydrogen, alkyl, and aryl,</li><li>R<sup>4</sup> represents hydrogen,</li><li>R<sup>7</sup> and R<sup>8</sup> which are the same or different are independently chosen from
+hydrogen, alkyl, alkenyl, and aryl,</li></sl>
+the other substituants being as defined above, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</p><p num="0029">Another preferred class of compounds of general formula (I) comprises the
+compounds having the following characteristics:
+<sl><li>Het represents isothiazole,</li><li>n represents 0,</li><li>Y is chosen from -NH<sub>2</sub>, -NO<sub>2</sub>, -NHC(O)R<sup>7</sup>, -NR<sup>7</sup>R<sup>8</sup>, -SO<sub>2</sub>R<sup>7</sup>, -NHC(O)OR<sup>7</sup>,
+and -CO<sub>2</sub>H,</li><li>G represents a direct bond or -O-,</li><li>Z is chosen from hydrogen, bromine, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</li><li>P represents -C(O)-,</li><li>Q<sup>1</sup> is chosen from -NR<sup>3</sup>R<sup>4</sup>, and -OR<sup>3</sup>,</li><li>T represents a direct bond or -O-,</li><li>Q<sup>2</sup> is chosen from hydrogen and R<sup>3</sup>,</li><li>R<sup>3</sup> is chosen from hydrogen, alkyl, and aryl,</li><li>R<sup>4</sup> represents hydrogen,</li><li>R<sup>7</sup> and R<sup>8</sup> which are the same or different are independently chosen from
+hydrogen, alkyl, alkenyl, and aryl,</li></sl> 
+the other substituants being as defined above, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</p><p num="0030">Another preferred class of compounds of general formula (I) comprises the
+compounds having the following characteristics:
+<sl><li>Het represents isoxazole,</li><li>n is 0,</li><li>Y is chosen from -NH<sub>2</sub>, -CO<sub>2</sub>H, -NHC(O)OR<sup>7</sup>, -CO<sub>2</sub>R<sup>7</sup>, -NR<sup>7</sup>R<sup>8</sup>, -SO<sub>2</sub>R<sup>7</sup>, and
+-CO<sub>2</sub>H,</li><li>G represents -O-,</li><li>Z is chosen from hydrogen, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</li><li>P represents -C(O)-</li><li>Q<sup>1</sup> is chosen from -NR<sup>3</sup>R<sup>4</sup>, and OR<sup>3</sup>,</li><li>T is a direct bond or is -O-,</li><li>Q<sup>2</sup> is chosen from hydrogen and R<sup>3</sup>,</li><li>R<sup>3</sup> is chosen from alkyl and aryl,</li><li>R<sup>4</sup> represents hydrogen,</li> <li>R<sup>7</sup> and R<sup>8</sup>, which are identical or different, are independently chosen from
+hydrogen, alkyl, alkenyl and aryl,</li></sl>
+the other substituants being as defined above, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</p><p num="0031">Another preferred class of compounds of general formula (I) comprises the
+compounds having the following characteristics:
+<sl><li>Het represents pyridine,</li><li>n is 1 or 2,</li><li>X<sup>1</sup> and X<sup>2</sup> identical or different are independently chosen from hydrogen,
+-SO<sub>2</sub>R<sup>7</sup>, and -C(O)OR<sup>7</sup>, </li> <li>Y is chosen from -NH<sub>2</sub>, -NR<sup>7</sup>R<sup>8</sup>, -C(O)NR<sup>7</sup>R<sup>8</sup>, -SO<sub>2</sub>R<sup>7</sup>, -NHC(O)OR<sup>7</sup>,
+-CO<sub>2</sub>H, -CO<sub>2</sub>R<sup>7</sup>, and -NHC(O)R<sup>7</sup>,</li> <li>G represents -O-,</li> <li>Z is chosen from hydrogen, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</li><li>P is chosen from -C(O)-, -SO<sub>2</sub>-, and -P(O)(OR<sup>7</sup>)-,</li><li>Q<sup>1</sup> is chosen from -NR<sub>3</sub>R<sup>4</sup>, and O-R<sup>3</sup>,</li><li>T is a direct bond or is -O-,</li><li>Q<sup>2</sup> represents R<sup>3</sup>,</li><li>R<sup>3</sup> is chosen from alkyl, and aryl,</li><li>R<sup>4</sup> represents hydrogen,</li><li>R<sup>7</sup> and R<sup>8</sup>, which are identical or different, are independently chosen from
+alkyl, alkenyl and aryl, or R<sup>7</sup> and R<sup>8</sup> may together form an unsaturated or saturated
+cycle,</li></sl>
+the other substituants being as defined above, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</p><p num="0032">Another preferred class of compounds of general formula (I) comprises the
+compounds having the following characteristics:
+<sl><li>Het is chosen from pyrimidine and pyridazine,</li><li>n represents 1,</li><li>X<sup>1</sup> is chosen from hydrogen, alkyl, -SR<sup>7</sup> and -SO<sub>2</sub>R<sup>7</sup>,</li><li>Y is chosen from -NH<sub>2</sub>, -NR<sup>7</sup>R<sup>8</sup>, CO<sub>2</sub>H, -C(O)OR<sup>7</sup>, -C(O)NR<sup>7</sup>R<sup>8</sup>, -SO<sub>2</sub>R<sup>7</sup>,
+-NHC(O)OR<sup>7</sup>,</li><li>G represents a direct bond or is -O-,</li><li>Z is chosen from hydrogen, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</li><li>P represents -C(O)-,</li><li>Q<sup>1</sup> is chosen from -NR<sup>3</sup>R<sup>4</sup>, and -OR<sup>3</sup>,</li><li>T represents a direct bond or is -O-, </li><li>Q<sup>2</sup> is chosen from hydrogen and R<sup>3</sup>,</li><li>R<sup>3</sup> is chosen from alkyl and aryl,</li><li>R<sup>4</sup> represents hydrogen,</li><li>R<sup>7</sup> and R<sup>8</sup>, which are identical or different, are independently chosen from
+alkyl, alkenyl and aryl, or R<sup>7</sup> and R<sup>8</sup> may together form an unsaturated or saturated
+cycle,</li></sl>
+the other substituants being as defined above, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</p><p num="0033">Another preferred class of compounds of general formula (I) comprises the
+compounds having the following characteristics:
+<sl><li>Het represents pyranone,</li><li>n is chosen from 1 and 2,</li><li>X<sup>1</sup>,X<sup>2</sup> which are identical or different, are independently chosen from
+hydrogen, alkyl, and alkylthio,</li><li>Y is chosen from =O, and =NR<sup>7</sup>,</li><li>G represents a direct bond or is -O-,</li><li>Z is chosen from hydrogen, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</li><li>P represents -C(O)-,</li><li>Q<sup>1</sup> represents -NR<sup>3</sup>R<sup>4</sup>,</li><li>T represents a direct bond or is -O-,</li><li>Q<sup>2</sup> is chosen from hydrogen and R<sup>3</sup>,</li><li>R<sup>3</sup> is chosen from alkyl and aryl,</li><li>R<sup>4</sup> represents hydrogen,</li></sl>
+the other substituants being as defined above, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof. </p><p num="0034">The compounds of general formula (I) and the compounds which may be
+used as intermediates in the processes of preparation, and which will be defined in
+the description of these processes, can exist in one or more forms of geometrical
+isomers according to the number of double bonds in the compound. As an example,
+compounds of general formula (I) where Q<sup>1</sup> is -NR<sup>1</sup> or -N-NR<sub>4</sub>R<sup>5</sup> can comprise 2
+different geometrical isomers denoted (<i>E</i>) or (<i>Z</i>) depending on the configuration of
+the two double bonds. The <i>E</i> and <i>Z</i> notation can be replaced, respectively, by the
+term "syn" and "anti", or "cis" and "trans". Reference is made particularly to the
+work of E. Eliel and S. Wilen "Stereochemistry of Organic Compounds", published
+by Wiley (1994), for the description and use of these notations.</p><p num="0035">The compounds of general formula (I) and compounds which may be used as
+intermediates in the processes of preparation, and which will be defined in the
+description of the processes, can exist in one or more optical isomeric or chiral forms
+according to the number of asymmetric centres in the compound. The invention thus
+also relates to all the optical isomers and their racemic or scalemic (scalemic
+designates a mixture of enantiomers in different proportions), as well as the mixtures
+of all possible stereoisomers in all proportions, including the racemic mixture. The
+separation of the diastereoisomers and/or optical isomers can be effected by known
+methods (E. Eliel <i>ibid</i>.).</p><p num="0036">The invention also relates to fungicidal compositions comprising an effective
+amount of at least one active material of formula (I). The fungicidal compositions
+according to the invention comprise, besides the active material of formula (I),
+agriculturally acceptable solid or liquid supports and/or surfactants that are also
+agriculturally acceptable. In particular, common inert supports and common
+surfactants can be used. These compositions include not only compositions which are
+ready to be applied to the plant or seed to be treated by means of a suitable device,
+such as a spraying or dusting device, but also concentrated commercial compositions
+which must be diluted before they are applied to the crop. </p><p num="0037">These fungicidal compositions according to the invention can also contain
+other ingredients of any kind, such as, for example, protective colloids, adhesives,
+thickeners, thixotropic agents, penetration agents, stabilisers, sequestering agents,
+etc. More generally, the active materials can be combined with any solid or liquid
+additive, which complies with the usual formulation techniques.</p><p num="0038">In general, the compositions according to the invention usually contain from
+0.05 to 99% (by weight) of active material, one or more solid or liquid supports and,
+optionally, one or more surfactants.</p><p num="0039">In the present specification, the term "support" denotes a natural or synthetic,
+organic or inorganic material with which the active material is combined to make it
+easier to apply to the parts of the plant. This support is thus generally inert and
+should be agriculturally acceptable. The support can be solid (clays, natural or
+synthetic silicates, silica, resins, waxes, solid fertilisers, etc.) or liquid (water,
+alcohols, in particular butanol, etc., organic solvents, mineral and plant oils and
+derivatives thereof). Mixtures of such supports may also be used.</p><p num="0040">The surfactant can be an emulsifier, a dispersing agent or a wetting agent of
+ionic or nonionic type or a mixture of such surfactants. Mention may be made, for
+example, of polyacrylic acid salts, lignosulphonic acid salts, phenolsulphonic or
+naphthalenesulphonic acid salts, polycondensates of ethylene oxide with fatty
+alcohols or with fatty acids or with fatty amines, substituted phenols (in particular
+alkylphenols or arylphenols), salts of sulphosuccinic acid esters, taurine derivatives
+(in particular alkyl taurates), phosphoric esters of polyoxyethylated alcohols or
+phenols, fatty acid esters of polyols, and derivatives of the above compounds
+containing sulphate, sulphonate and phosphate functions. The presence of at least one
+surfactant is generally essential when the active material and/or the inert support are
+water-insoluble and when the vector agent for the application is water.</p><p num="0041">Thus, the compositions for agricultural use according to the invention can
+contain the active material in a very wide range, from 0.05% to 99% (by weight). 
+Their surfactant content is advantageously between 5% and 40% by weight. Except
+where otherwise indicated, the percentages given in this description are weight
+percentages.</p><p num="0042">These compositions according to the invention are themselves in quite
+diverse, solid or liquid forms. As solid composition forms, mention may be made of
+powders for dusting (with an active material content which can be up to 100%) and
+granules, in particular those obtained by extrusion, by atomisation, by compacting,
+by impregnation of a granulated support or by granulation from a powder (the active
+material content in these granules being between 0.5 and 80% for the latter cases).</p><p num="0043">The fungicidal compositions according to the invention can also be used in
+the form of powders for dusting; compositions comprising 50 g of active material
+and 950 g of talc can also be used; compositions comprising 20 g of active material,
+10 g of finely divided silica and 970 g of talc can also be used; these constituents are
+mixed together and ground and the mixture is applied by dusting.</p><p num="0044">As liquid composition forms or forms intended to constitute liquid
+compositions when applied, mention may be made of solutions, in particular
+water-soluble concentrates, emulsifiable concentrates, emulsions, concentrated
+suspensions and wettable powders (or powders for spraying).</p><p num="0045">The concentrated suspensions, which can be applied by spraying, are
+prepared so as to obtain a stable fluid product which does not become deposited and
+which gives good bioavailability of the active material(s). These suspensions usually
+contain from 5% to 75% of active material, preferably from 10% to 25%, from 0.5%
+to 75% of surfactants, preferably from 5% to 50%, from 0% to 10% of suitable
+additives, such as thickeners of organic or mineral origin, antifoaming agents,
+corrosion inhibitors, adhesives, preserving agents, such as, for example, Proxel
+GXL®, antifreezes and, as support, water or an organic liquid in which the active
+material is insoluble or only sparingly soluble: certain organic solid materials or
+mineral salts may be dissolved in the support to help prevent sedimentation or as 
+antifreezes for the water. In certain cases, and in particular for formulations intended
+for treating seeds, one or more colorants may be added.</p><p num="0046">For foliar applications, the choice of surfactants is paramount for obtaining
+good bioavailability of the active material(s); thus, a combination of a surfactant of
+hydrophilic nature (HLB&gt;10) and a surfactant of lipophilic nature (HLB&lt;5) will
+preferably be used. Such combinations of surfactants are disclosed, for example, in
+the yet unpublished French patent No. 00/04015.</p><p num="0047">By way of example, here are 3 possible formulations of concentrated
+suspension type that are suitable for various crops:</p><heading><b>Example CS 1</b> (in g/kg):</heading><p num="0048">This example is rather suited for monocotyledon crops (cereals, rice, etc.)
+<ul list-style="bullet"><li>active material   150</li><li>surfactant of hydrophilic nature (for example Rhodasurf 860P)   300</li><li>surfactant of lipophilic nature (for example Plurafac LF 700)   150</li><li>ethoxylated tristyrylphenol phosphate   50</li><li>antifoam   5</li><li>propylene glycol   30</li><li>Aerosil 200   20</li><li>Attagel 50   40</li><li>water (completion to 1 kg)   255</li></ul></p><heading><b>Example CS 2</b> (in g/kg):</heading><p num="0049">This example is suited rather to dicotyledon crops (vines, fruit trees, etc.)
+<ul list-style="bullet"><li>active material   150</li><li>surfactant of hydrophilic nature (for example Rhodasurf 860P)   150</li><li>ethoxylated tristyrylphenol phosphate   50</li><li>antifoam   5</li><li>propylene glycol   30</li><li>Aerosil 200   20 </li><li>Attagel 50   40</li><li>water (completion to 1 kg)   555</li></ul></p><heading><b>Example CS 3</b> (in k/kg):</heading><p num="0050">This example is more specifically suited to the treatment of seeds.
+<ul list-style="bullet"><li>active material   50</li><li>surfactant of hydrophilic nature (for example Rhodasurf 860P)   5</li><li>ethoxylated tristyrylphenol phosphate   15</li><li>antifoam   1</li><li>propylene glycol   30</li><li>colorant   20</li><li>Rhodopol G   1.5</li><li>Proxel GXL   1.5</li><li>water (completion to 1 kg)   876</li></ul></p><p num="0051">The following procedure will preferably be carried out to prepare these
+formulations: The surfactants selected (surfactant of hydrophilic nature + surfactant
+of lipophilic nature + ethoxylated tristyrylphenol phosphate) are mixed with the
+required amount of water, using a turbo mixer; after homogenisation, the other
+constituents of the formulation apart from the active material are then mixed
+together.</p><p num="0052">Next, the active material and optionally the thickener of mineral origin
+(Aerosol 200 and Attagel 50) are added to give a medium of viscous consistency.
+The mixture obtained is then ground using a turbo mixer mill at high speed and then
+a ball mill until a D50 of about 1 to 3 µm and a D90 of between 3 and 8 µm are
+obtained. When no thickener of mineral origin is used, the thickener of natural origin
+(Rhodopol G) is then added and the mixture is stirred until a suitable viscosity is
+obtained. </p><p num="0053">The wettable powders (or powders for spraying) are usually prepared such that
+they contain 20 to 95% of active material, and they usually contain, in addition to the
+solid support, from 0 to 30% of a wetting agent, from 3 to 20% of a dispersing agent
+and, when necessary, from 0.1 to 10% of one or more stabilisers and/or other additives,
+such as penetration agents, adhesives, anticaking agents, dyes, etc.</p><p num="0054">In order to obtain the powders for spraying or wettable powders, the active
+materials are intimately mixed with the additional substances in suitable mixers and are
+ground with mills or other suitable blenders. Powders for spraying with advantageous
+wettability and suspension formation are thus obtained; they can be placed in
+suspension with water at any desired concentration and these suspensions can be used
+very advantageously, in particular for application, for example, to plant leaves or to
+seeds.</p><p num="0055">By way of example, there follow various wettable powder compositions (or
+powders for spraying):</p><heading><b>Example WP1</b></heading><p num="0056"><ul list-style="bullet"><li>Active material   50%</li><li>Ethoxylated fatty alcohol (wetting agent)   2.5%</li><li>Ethoxylated phenylethylphenol (dispersant)   5%</li><li>Chalk (inert support)   42.5%</li></ul></p><heading><b>Example WP2:</b></heading><p num="0057"><ul list-style="bullet"><li>Active material   10%
+
+Synthetic C13 oxo alcohol of branched type, ethoxylated with 8 to 10
+
+ethylene oxide (wetting agent)   0.75%</li><li>Neutral calcium lignosulphonate (dispersant)   12%</li><li>Calcium carbonate (inert filler)   completion to 100%</li></ul></p><heading><b>Example WP3:</b></heading><p num="0058">This wettable powder contains the same ingredients as in the above example, in the 
+following proportions:
+<ul list-style="bullet"><li>Active material   75%</li><li>Wetting agent   1.50%</li><li>Dispersant   8%</li><li>Calcium carbonate (inert filler)   completion to 100%</li></ul></p><heading><b>Example WP4:</b></heading><p num="0059"><ul list-style="bullet"><li>Active material   90%</li><li>Ethoxylated fatty alcohol (wetting agent)   4%</li><li>Ethoxylated phenylethylphenol (dispersant)   6%</li></ul></p><heading><b>Example WP5:</b></heading><p num="0060"><ul list-style="bullet"><li>Active material   50%</li><li>Mixture of anionic and nonionic surfactants (wetting agent)   2.5%</li><li>Sodium lignosulphonate (dispersant)   5%</li><li>Kaolinic clay (inert support)   42.5%</li></ul></p><p num="0061">The aqueous dispersions and emulsions, for example the compositions obtained
+by diluting a wettable powder according to the invention with water, are included
+within the general scope of the present invention. The emulsions can be of the
+water-in-oil or oil-in-water type and they can have a thick consistency, such as that of a
+"mayonnaise".</p><p num="0062">The fungicidal compositions according to the invention can be formulated in the
+form of water-dispersible granules, which are also included within the scope of the
+invention. These dispersible granules, with an apparent density generally of between
+about 0.3 and about 0.6, have a particle size generally of between about 150 and about
+2000 and preferably between 300 and 1500 microns.</p><p num="0063">The active material content of these granules is generally between about 1% and
+about 90% and preferably between 25% and 90%. The rest of the granule is essentially
+composed of a solid support and optionally of surfactant adjuvants, which give the 
+granule water-dispersibility properties. These granules can be essentially of two
+different types depending on whether the support selected is soluble or insoluble in
+water. When the support is water-soluble, it can be inorganic or, preferably, organic.
+Excellent results have been obtained with urea. In the case of an insoluble support, it is
+preferably inorganic, for example such as kaolin or bentonite. It is then advantageously
+accompanied by surfactants (in a proportion of from 2 to 20% by weight of the granule)
+more than half of which consists, for example, of at least one dispersant, which is
+essentially anionic, such as an alkali metal or alkaline-earth metal polynaphthalene
+sulphonate or an alkali metal or alkaline-earth metal lignosulphonate, the remainder
+consisting of nonionic or anionic wetting agents such as an alkali metal or alkaline-earth
+metal alkylnaphthalene sulphonate. Moreover, although this is not essential, other
+adjuvants can be added, such as antifoaming agents.</p><p num="0064">The granule according to the invention can be prepared by mixing together the
+required ingredients, followed by granulation according to several techniques, which
+are known per se (granulator, fluid bed, sprayer, extrusion, etc.). The process generally
+ends by a crushing operation, followed by an operation of screening to the particle size
+chosen within the limits mentioned above. Granules obtained as above and then
+impregnated with a composition containing the active material can also be used.</p><p num="0065">Preferably, it is obtained by extrusion, by performing the process as indicated in
+the examples below.</p><heading><b>Example DG1:</b> Dispersible granules</heading><p num="0066">90% by weight of active material and 10% of urea pellets are mixed together in a mixer.
+The mixture is then ground in a toothed roll crusher. A powder is obtained, which is
+moistened with about 8% by weight of water. The wet powder is extruded in a
+perforated-roller extruder. A granulate is obtained, which is dried and then crushed and
+screened, so as to retain, respectively, only the granules between 150 and 2000 microns
+in size.</p><heading><b>Example DG2:</b> Dispersible granules</heading><p num="0067">The constituents below are mixed together in a mixer: <ul list-style="bullet"><li>Active material   75%</li><li>Wetting agent (sodium alkylnaphthalene sulphonate)   2%</li><li>Dispersant (polysodium naphthalene sulphonate)   8%</li><li>Water-insoluble inert filler (kaolin)   15%</li></ul></p><p num="0068">This mixture is granulated in a fluid bed, in the presence of water, and then dried,
+crushed and screened so as to obtain granules between 0.15 and 0.80 mm in size.</p><p num="0069">These granules can be used alone, or as a solution or dispersion in water so as to
+obtain the desired dose. They can also be used to prepare combinations with other
+active materials, in particular fungicides, these being in the form of wettable powders,
+granules or aqueous suspensions.</p><p num="0070">The compounds of the invention can also be mixed with one or more
+insecticides, fungicides, bactericides, attractant acaricides or pheromones or other
+compounds with biological activity. The mixtures thus obtained have a broadened
+spectrum of activity. In particular the compounds of the present invention do not
+exhibit the problem of cross-resistance with strobilurin derivatives. In fact, the
+compounds of the present invention are active on a different biochemical site to
+strobilurin derivatives.</p><p num="0071">The mixtures with other fungicides are particularly advantageous, especially
+the mixtures with acibenzolar-S-methyl, benalaxyl, benomyl, blasticidin-S,
+bromuconazole, captafol, captan, carbendazim, carboxin, carpropamide,
+chlorothalonil, fungicidal compositions based on copper, derivatives of copper such
+as copper hydroxide and copper oxychloride, cyazofamide, cymoxanil,
+cyproconazole, cyprodinil, dichloran, diclocymet, diethofencarb, difenoconazole,
+diflumetorim, dimethomorph, diniconazole, dodemorph, dodine, edifenphos,
+epoxyconazole, ethaboxam, ethirimol, famoxadone, fenamidone, fenarimol,
+fenbuconazole, fenhexamide, fenpiclonil, fenpropidine, fenpropimorph, ferimzone,
+fluazinam, fludioxonil, flumetover, fluquinconazole, flusilazole, flusulphamide,
+flutolanil, flutriafol, folpel, furalaxyl, furametpyr, guazatine, hexaconazole, 
+hymexazol, imazalil, iprobenphos, iprodione, isoprothiolane, kasugamycin,
+mancozeb, maneb, mefenoxam, mepanipyrim, metalaxyl and their enantiomeric
+forms such as metalaxyl-M, metconazole, metiram-zinc, oxadixyl, pefurazoate,
+penconazole, pencycuron, phosphorous acid and its derivatives such as fosetyl-Al,
+phthalide, probenazole, prochloraz, procymidone, propamocarb, propiconazole,
+pyrimethanil, pyroquilon, quinoxyfen, silthiofam, simeconazole, spiroxamine,
+tebuconazole, tetraconazole, thiabendazole, thifluzamide, thiophanate, for example
+thiophanate-methyl, thiram, triadimefon, triadimenol, triazolopyrimidines e.g.
+cloransulam-methyl, flumetsulam, florasulam, metosulam, tricyclazole, tridemorph,
+trifloxystrobin, triticonazole, derivatives of valinamide such as for example,
+iprovalicarb and benthiavalicarb, vinclozolin, zineb and zoxamide, as well as
+fungicide of the strobilurin family, for example azoxystrobin, kresoxym-methyl,
+metominostrobin, discostrobin, dimoxystrobin, picoxystrobin, pyraclostrobin, and
+trifloxystrobin.</p><p num="0072">Another subject of the invention relates to a process for curatively or
+preventively combating the phytopathogenic fungi of crops, characterised in that an
+effective (agronomically effective) and non-phytotoxic amount of an active material of
+formula (I), preferably in the form of a fungicidal composition according to the
+invention, is applied to the plant seeds or to the plant leaves and/or to the fruits of the
+plants or to the soil in which the plants are growing or in which it is desired to grow
+them.</p><p num="0073">The expression "effective and non-phytotoxic amount" means an amount of
+composition according to the invention which is sufficient to control or destroy the
+fungi present or liable to appear on the crops, and which does not entail any appreciable
+symptom of phytotoxicity for the said crops. Such an amount can vary within a wide
+range depending on the fungus to be combated, the type of crop, the climatic conditions
+and the compounds included in the fungicidal composition according to the invention.
+This amount can be determined by systematic field trials, which are within the
+capabilities of a person skilled in the art. </p><p num="0074">Lastly, the invention relates to a process for preventively or curatively
+protecting plant multiplication products, as well as the plants resulting therefrom,
+against fungal diseases, characterised in that the said products are coated with an
+effective and non-phytotoxic dose of a composition according to the invention.</p><p num="0075">The compositions according to the invention are useful for treating the seeds
+of cereals (wheat, rye, triticale and barley in particular), of potato, of cotton, of pea,
+of rape, of corn or of flax, or the seeds of woodland trees (in particular resiniferous
+trees) or genetically modified seeds of these plants.</p><p num="0076">It will be noted in this respect that, in the jargon of the person skilled in the
+art, the expression "seed treatment" in fact refers to treatment of the grains. The
+application techniques are well known to those skilled in the art and they may be
+used without a drawback in the context of the present invention. Mention may be
+made, for example, of film cladding or coating. Among the plant multiplication
+products concerned, mention may be made in particular of seeds or grains, and
+tubers.</p><p num="0077">As has been indicated above, the methods for coating the plant multiplication
+products, in particular the seeds, are well known in the art and in particular involve
+film-cladding or coating techniques.</p><p num="0078">The products and compositions according to the invention may also be
+applied as a foliar application to the plant crops, i.e. to the leaves, the flowers, the
+fruit and/or the trunks of the plants concerned.</p><p num="0079">Among the plants targeted by the method according to the invention, mention
+may be made of rice, corn, cotton, cereals, for instance wheat, barley, triticale, fruit
+trees, in particular apple trees, pear trees, peach trees, vines, banana trees, orange
+trees, lemon trees, etc., oil-yielding crops, for example rape and sunflower,
+market-garden crops and leguminous crops, tomatoes, lettuce, protein-yielding crops, 
+peas, solanacea plants, for example potato, beetroot and flax, and woodland trees, as
+well as genetically modified homologues of these crops.</p><p num="0080">Among the plants targeted by the method according to the invention, mention
+may be made of
+<ul list-style="bullet"><li>wheat, as regards controlling the following seed diseases: fusaria
+(<i>Microdochium nivale</i> and <i>Fusarium roseum</i>), stinking smut (<i>Tilletia caries, Tilletia
+controversa</i> or <i>Tilletia indica</i>), septoria disease (<i>Septoria nodorum</i>) and loose smut;</li><li>wheat, as regards controlling the following diseases of the aerial parts of the
+plant: cereal eyespot (<i>Tapesia yallundae</i>, <i>Tapesia acuiformis</i>), take-all
+(<i>Gaeumannomyces graminis</i>), foot blight (<i>F</i>. <i>culmorum</i>, <i>F</i>. <i>graminearum</i>), black speck
+(<i>Rhizoctonia cerealis</i>), powdery mildew (<i>Erysiphe graminis forma specie tritici</i>), rusts
+(<i>Puccinia striiformis</i> and <i>Puccinia recondita</i>) and septoria diseases (<i>Septoria tritici</i> and
+<i>Septoria nodorum</i>);</li><li>wheat and barley, as regards controlling bacterial and viral diseases, for
+example barley yellow mosaic;</li><li>barley, as regards controlling the following seed diseases: net blotch
+(<i>Pyrenophora graminea, Pyrenophora teres</i> and <i>Cochliobolus sativus</i>), loose smut
+(<i>Ustilago nuda</i>) and fusaria (<i>Microdochium nivale</i> and <i>Fusarium roseum);</i></li><li>barley, as regards controlling the following diseases of the aerial parts of the
+plant: cereal eyespot (<i>Tapesia yallundae</i>), net blotch (<i>Pyrenophora teres</i> and
+<i>Cochliobolus sativus</i>), powdery mildew (<i>Erysiphe graminis forma specie hordei</i>),
+dwarf leaf rust (<i>Puccinia hordei</i>) and leaf blotch (<i>Rhynchosporium secalis</i>);</li><li>potato, as regards controlling tuber diseases (in particular <i>Helminthosporium
+solani</i>, <i>Phoma tuberosa</i>, <i>Rhizoctonia solani</i>, <i>Fusarium solani</i>), mildew (<i>Phytopthora
+infestans</i>) and certain viruses (virus Y);</li><li>potato, as regards controlling the following foliage diseases: early blight
+(<i>Alternaria solani</i>), mildew (<i>Phytophthora infestans</i>);</li><li>cotton, as regards controlling the following diseases of young plants grown
+from seeds: damping-off and collar rot (<i>Rhizoctonia solani</i>, <i>Fusarium oxysporum</i>) and
+black root rot (<i>Thielaviopsis basicola</i>);</li><li>protein-yielding crops, for example peas, as regards controlling the following 
+seed diseases: anthracnose (<i>Ascochyta pisi</i>, <i>Mycosphaerella pinodes</i>), fusaria
+(<i>Fusarium oxysporum</i>), grey mould (<i>Botrytis cinerea</i>) and mildew (<i>Peronospora
+pisi</i>);</li><li>oil-bearing crops, for example rape, as regards controlling the following seed
+diseases: <i>Phoma lingam</i>, <i>Alternaria brassicae</i> and <i>Sclerotinia sclerotiorum</i>;</li><li>corn, as regards controlling seed diseases: (<i>Rhizopus</i> sp., <i>Penicillium</i> sp.,
+<i>Trichoderma</i> sp., <i>Aspergillus</i> sp., and <i>Gibberella fujikuroi</i>);</li><li>flax, as regards controlling the seed disease: <i>Alternaria linicola</i>;</li><li>forest trees, as regards controlling damping-off (<i>Fusarium oxysporum,
+Rhizoctonia solani</i>);</li><li>rice, as regards controlling the following diseases of the aerial parts: blast
+disease (<i>Magnaporthe grisea</i>), bordered sheath spot (<i>Rhizoctonia solani</i>);</li><li>leguminous crops, as regards controlling the following diseases of seeds or of
+young plants grown from seeds: damping-off and collar rot (<i>Fusarium oxysporum,
+Fusarium roseum</i>, <i>Rhizoctonia solani</i>, <i>Pythium sp</i>.);</li><li>leguminous crops, as regards controlling the following diseases of the aerial
+parts: grey mould (Botrytis sp.), powdery mildews (in particular <i>Erysiphe
+cichoracearum</i>, <i>Sphaerotheca fuliginea</i> and <i>Leveillula taurica</i>), fusaria (<i>Fusarium
+oxysporum</i>, <i>Fusarium roseum</i>), leaf spot (<i>Cladosporium sp</i>.), alternaria leaf spot
+(<i>Alternaria sp.),</i> anthracnose (<i>Colletotrichum sp</i>.), septoria leaf spot (<i>Septoria sp</i>.),
+black speck (<i>Rhizoctonia solani</i>), mildews (for example <i>Bremia lactucae,
+Peronospora sp</i>., <i>Pseudoperonospora sp</i>., <i>Phytophthora sp.);</i></li><li>fruit trees, as regards diseases of the aerial parts: monilia disease (<i>Monilia
+fructigenae</i>, <i>M</i>. <i>laxa</i>), scab (<i>Venturia inaequalis</i>), powdery mildew (<i>Podosphaera
+leucotricha</i>);</li><li>vine, as regards diseases of the foliage: in particular grey mould (<i>Botrytis
+cinerea</i>), powdery mildew (<i>Uncinula necator</i>), black rot (<i>Guignardia biwelli</i>) and
+mildew (<i>Plasmopara viticola</i>);</li><li>beetroot, as regards the following diseases of the aerial parts: cercospora
+blight (<i>Cercospora beticola</i>), powdery mildew (<i>Erysiphe beticola</i>), leaf spot
+(<i>Ramularia beticola</i>).</li></ul></p><p num="0081">Wheat and rice are the preferred plants for carrying out the method according
+to the invention, although all the crops, plants, plant multiplication products, flowers,
+wood and, as a general rule, all the plants which may suffer attack by
+phytopathogenic fungi, may be advantageously treated according to the method of
+the invention, by using one or more active materials, fungicidal compositions
+according to the present invention.</p><p num="0082">In the case of plant treatments, the dose of composition applied is generally
+and advantageously between 10 and 800 g/ha, preferably 50 to 300 g/ha of active
+material for applications in foliar treatment. The dose of composition applied is
+generally and advantageously such that the dose of active material is between 2 and
+200 g of active material per 100 kg of seed, preferably between 3 and 150 g per
+100 kg in the case of seed treatments. It is clearly understood that the doses indicated
+above are given as illustrative examples of the invention. A person skilled in the art
+will know how to tailor the application doses according to the nature of the crop to
+be treated.</p><p num="0083">The present invention also relates to a method for curatively or preventively
+treating, with the aid of one or more compounds according to the invention, or of a
+composition according to the present invention, against fungal diseases liable to
+grow on or inside lumber. The term "lumber" means all types of species of wood,
+and all types of working of this wood intended for construction, for example solid
+wood, high-density wood, laminated wood, plywood, etc.</p><p num="0084">Thus, the method for treating lumber according to the invention consists in
+placing one or more compounds of the present invention, or a composition according
+to the invention, in contact. This placing in contact may cover the most diverse of
+forms such as, for example, direct application, spraying, dipping, injection or any
+other suitable means.</p><p num="0085">The present invention also relates to the treatment of genetically modified
+plants with the compounds according to the invention or the agrochemical 
+compositions according to the invention. Genetically modified plants are plants into
+whose genome a heterologous gene encoding a protein of interest has been stably
+integrated.</p><p num="0086">According to the invention, the expression "heterologous gene encoding a
+protein of interest" essentially means genes, which give the transformed plant new
+agronomic properties, or genes for improving the agronomic quality of the
+transformed plant.</p><p num="0087">Among the genes which give the transformed plants new agronomic
+properties, mention may be made of genes which impart a tolerance to certain
+herbicides, those which impart a resistance to certain insects, those which impart a
+tolerance to certain diseases, etc. Such genes are described in particular in patent
+applications WO 91/02071 and WO 95/06128.</p><p num="0088">Among the genes which impart a tolerance to certain herbicides, mention
+may be made of the <i>Bar</i> gene imparting tolerance to bialophos, the gene encoding a
+suitable EPSPS imparting a resistance to herbicides having EPSPS as target, such as
+glyphosate and its salts (US 4,535,060, US 4,769,061, US 5,094,945, US 4,940,835,
+US 5,188,642, US 4,971,908, US 5,145,783, US 5,310,667, US 5,312,910,
+US 5,627,061, US 5,633,435 and FR 2 736 926), the gene encoding glyphosate
+oxidoreductase (US 5 463 175) or a gene encoding an HPPD imparting a tolerance to
+herbicides having HPPD as target, such as isoxazoles, in particular isoxafutol
+(FR 95/06800 and FR 95/13570), diketonitriles (EP-A-0 496 630 and
+EP-A-0 496 631) or triketones, in particular sulcotrioine (EP-A-0 625 505,
+EP-A-0 625 508 and US 5 506 195). Such genes encoding an HPPD imparting a
+tolerance to herbicides having HPPD as target are disclosed in patent
+application WO 96/38567.</p><p num="0089">In the case of genes encoding EPSPS or HPPD, and more particularly for the
+above genes, the sequence encoding these enzymes is advantageously preceded by a 
+sequence encoding a transit peptide, in particular for the transit peptide known as
+optimized transit peptide, disclosed in patent US 5 510 471.</p><p num="0090">Among the genes imparting novel insect-resistance properties, mention will
+be made more particularly of the genes encoding the <i>Bt</i> proteins, which are widely
+described in the literature, and well known to those skilled in the art. Mention will
+also be made of the genes encoding proteins extracted from bacteria such as
+<i>Photorabdus</i> (WO 97/17432 and WO 98/08932).</p><p num="0091">Among the genes imparting novel disease-resistance properties, mention will
+be made in particular of the genes encoding chitinases, glucanases and oxalate
+oxidase, all these proteins and their coding sequences being widely described in the
+literature, or genes encoding antibacterial and/or antifungal peptides, in particular
+cysteine-rich peptides containing less than 100 amino acids, such as plant thionines
+or defensines, and more particularly lytic peptides of all origins comprising one or
+more disulphide bridges between the cysteines and regions comprising basic amino
+acids, in particular the following lytic peptides: androctonine (WO 97/30082 and
+PCT/FR98/01814, filed on 18 August 1998) or drosomicin (PCT/FR98/01462, filed
+on 8 July 1998). Mention will also be made of the genes encoding fungal elicitor
+peptides, in particular the elicitins (Kamoun et al., 1993; Panabières et al., 1995).</p><p num="0092">Among the genes which modify the constitution of modified plants, mention
+may be made in particular of genes which modify the content and quality of certain
+essential fatty acids (EP-A-0 666 918) or the content and quality of proteins, in
+particular in the leaves and/or seeds of the said plants. Mention will be made in
+particular of the genes encoding proteins that are rich in sulphur-containing amino
+acids (WO 98/20133; WO 97/41239; WO 95/31554; WO 94/20828 and
+WO 92/14822).</p><p num="0093">The present invention relates more particularly to the treatment of genetically
+modified plants comprising a heterologous gene, which gives the plant
+disease-resistance properties. The heterologous gene preferentially gives the 
+genetically modified plant a spectrum of activity that is complementary to the
+spectrum of activity of the compounds according to the invention. According to the
+invention, the expression "complementary spectrum" means a spectrum of activity
+for the heterologous gene which is different from the spectrum of activity of the
+compounds according to the invention, or a spectrum of activity relating to identical
+infectious agents but allowing an identical or improved control for lower application
+doses of compounds according to the invention.</p><p num="0094">Lastly, the invention relates to the use of the compounds according to the
+invention that are useful in human and animal therapy for the treatment of fungal
+diseases such as, for example, mycoses, dermatoses, trichophyton diseases and
+candidiases or diseases caused by <i>Aspergillus spp</i>., for example <i>Aspergillus
+fumigatus.</i></p><p num="0095">The present invention also relates to the process of preparation of the
+compounds of general formula (I) and compounds useful as intermediates in the
+processes of preparation. The compounds can be prepared according to the general
+method of preparation described below. Although general, this method of preparation
+provides all of the operating conditions to be used for the synthesis of the compounds
+of formula (I) according to the present invention. It will nevertheless be understood
+that the skilled worker will be able to adapt this method according to the specifics of
+each of the compounds, which it is desired to synthesise.</p><p num="0096">The preparation of reagents used in one or other of the general methods of
+preparation is generally known and is generally described specifically in the prior art
+or in such a manner that the man skilled in the art can adapt it to the desired aim. The
+prior art usable by the normally skilled worker in order to establish conditions for the
+preparation of reagents can be found in numerous general chemistry text books such
+as "Advanced Organic Chemistry" by J. March, published by Wiley (1992),
+"Methoden der organischen Chemie" (Houben-Weyl), published by Georg Thieme
+Verlag or the "Chemical Abstracts" published by the American Chemical Society as
+well as in information data bases accessible to the public. </p><p num="0097">The following examples illustrate in a non-limiting manner several examples
+of fungicidal compounds according to the invention. In the following examples "MP"
+means "melting point" and is expressed in ° Celsius (°C); M+1 (or M-1) means the
+molecular ion peak, plus or minus 1 a.m.u. (atomic mass units) respectively, as
+observed in mass spectroscopy.</p><p num="0098">Compounds of the general formula (I) can be prepared as according to
+Scheme 1:
+<img id="img-00410001" orientation="unknown" wi="156" img-format="tif" img-content="cf" file="00410001.tif" inline="no" he="71"/>
+by effecting a reaction between a substituted heterocyclic acid or acid derivative (a)
+with a nucleophilic compound of formula (b), wherein W represents a hydroxy group
+(-OH) present in the free acid -P-OH or a group obtained after activation of the free
+acid -P-OH, like e.g. a halo radical, alkylcarbonyloxy or alkylsulphonyloxy.</p><p num="0099">The required starting materials are commercially available or readily
+available utilising standard procedures.</p><p num="0100">The amines utilised are either commercially available or prepared according
+to known procedures available to the skilled artisan. For example, certain amines are
+disclosed in the unpublished international patent application PCT/FR 01/00033 or in
+WO 01/143339. </p><p num="0101">If heterocyclic acids are obtained or purchased in the form of their
+alkylesters, they need be saponified according to standard deprotection procedures as
+described by or referenced in T. W. Greene, P. W. Greene, "<i>Protective Groups in
+Organic Synthesis",</i> Wiley &amp; Sons, New York 1991. Subsequently, the heterocyclic
+acid or an acid derivative obtained from the acid is reacted with an amine according
+to known coupling procedures as published in Houben-Weyl, "Methoden der
+Organischen Chemie", Eugen Müller (Ed.), Thieme Publisher, Stuttgart.
+Subsequently, some substituants on the heterocylic carboxamide might optionally be
+subjected to functional group transformations as described or referenced in R. C.
+Larock, <i>"Comprehensive Organic Transformations</i>", VCH Publishers, Weinheim,
+1989 or in computerised reaction databases like e.g. "Beilstein Commander 2000,
+Version 5.0", provided by MDL databases, to give another compound of the general
+formula (I).</p><heading><u style="single"><b>Example A :</b> Preparation of pyrrole-2-carboxamides of Formula (I)</u></heading><heading>Preparation of starting materials:</heading><heading><b>4-(4-Trifluormethylphenoxy)aniline:</b></heading><p num="0102"><img id="img-00420001" orientation="unknown" wi="57" img-format="tif" img-content="cf" file="00420001.tif" inline="no" he="19"/></p><p num="0103">To a stirred solution of 4-trifluormethylbromobenzene (11.2 g, 50 mmol) in
+dimethylsulphoxide (50 mL) is added powdered potassium carbonate (3.4g, 60
+mmol) and 4-aAminophenol (6.6 g, 55 mmol). The suspension is heated at 90°C for
+4.5 h, then poured into water, extracted with di-isopropylether, filtered, decanted, the
+organic phase washed with water, dried (magnesium sulphate) and evaporated to
+give 9.6 g of a brown oil. To this triturated with pentane, the resulting precipitate
+filtered, washed with pentane and dried to give 3.3 g of the title compound (27%,
+mp. 72 °C). </p><heading><b>1-Methyl-4-[(allyloxycarbonyl)amino]-3-methoxy-1H-pyrrole-2-carboxylic acid</b></heading><p num="0104"><img id="img-00430001" orientation="unknown" wi="42" img-format="tif" img-content="cf" file="00430001.tif" inline="no" he="42"/></p><p num="0105">A mixture of 0.93g (3.3 mmol) of ethyl 1-methyl-4-[(allyloxycarbonyl)amino]-3-methoxy-1<i>H</i>-pyrrole-2-carboxylate
+(prepared according to the method described in
+K. Narkunan, M. A. Ciufolini, <i>Synthesis,</i><b>2000,</b> 673-676), 3.3ml of a 2 molar sodium
+hydroxide aqueous solution and 3.3ml of ethanol is stirred at room temperature for 5
+days. Water is added and the ethanol is evaporated. After extraction with diethyl
+ether, the aqueous phase is acidified to pH 2 with concentrated hydrochloric acid.
+Extraction with ethyl acetate, drying and concentration give 0.6g (71% yield) of a
+light brown solid. (M-1 = 253).</p><heading>Coupling Procedure According to Scheme 1:</heading><heading><b>1-Methyl-4-[(allyloxycarbonyl) amino]-3-methoxy-1H-N-para-[4-(trifluoromethyl)phenoxy]phenyl-pyrrole-2-carboxamide
+(19)</b></heading><p num="0106"><img id="img-00430002" orientation="unknown" wi="73" img-format="tif" img-content="cf" file="00430002.tif" inline="no" he="43"/></p><p num="0107">A mixture of 0.127g (0.5mmol) of 1-methyl-4-[(allyloxycarbonyl) amino]-3-methoxy-pyrrole-2-carboxylic
+acid, 0.127g (0.5mmol) of 4-[4-(trifluoromethyl)
+phenoxy]aniline, and 0.105g (0.55mmol) of 1-(3-dimethylaminopropyl)-3-ethyl-carbodiimide
+hydrochloride in 2.5ml of pyridine is heated at 90°C for 3 hours. After
+cooling, the pyridine is evaporated, the resulting dark oil is stirred at 0°C with 10ml 
+of a 15% hydrochloric acid solution for 0.5 hour. The resulting precipitate is filtered
+off and washed with water and with diethyl ether. The solid is chromatographed
+(ethyl acetate/heptane) to give 0.08g (33%yield) of a white solid (MP = 144°C).</p><heading><u style="single"><b>Example B</b> : Preparation of pyrrole-3-carboxamides of Formula (I)</u></heading><heading>Coupling Procedure According to Scheme 1:</heading><heading><b>1-methyl-2-ethoxycarbonyl-3-hydroxy-1H-N-para-[4-(trifluoromethyl)
+phenoxy]phenyl-pyrrole-4-carboxamide (34)</b></heading><p num="0108"><img id="img-00440001" orientation="unknown" wi="69" img-format="tif" img-content="cf" file="00440001.tif" inline="no" he="33"/></p><p num="0109">To a mixture of 1.0g (4.69 mmol) of 1-methyl-2-ethoxycarbonyl-3-hydroxy-1<i>H</i>-pyrrole-4-carboxylic
+acid (prepared according to the method described in K.
+Narkunan, M. A. Ciufolini, <i>Synthesis,</i><b>2000,</b> 673-676), 1.42g (5.63 mmol) of
+4-[4-(trifluoromethyl) phenoxy]aniline, and 0.644g (4.69 mmol) of 1-hydroxy
+benzotriazol in 10ml of tetrahydrofuran cooled to 0°C is added 1.08g (5.63mmol) of
+1-(3-dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride in 10ml of
+tetrahydrofuran. The resulting mixture is stirred at 0°C for 2 hours and then heated at
+45°C for 16 hours. After cooling, the tetrahydrofuran is evaporated. The residue is
+chromatographed (ethyl acetate/heptane 9/1 to 6/4) to give 1.37g (65%yield) of a
+yellow solid (M+1 = 449)</p><heading>Functional group transformation according to Scheme 1:</heading><heading><b>1-methyl-2-ethoxycarbonyl-3-methoxy-1H-N-para-[4-(trifluoromethyl)
+phenoxy]phenyl- pyrrole-4-carboxamide (31)</b></heading><p num="0110"><img id="img-00440002" orientation="unknown" wi="74" img-format="tif" img-content="cf" file="00440002.tif" inline="no" he="34"/></p><p num="0111">To a mixture of 0.80g (1.78 mmol) of 1-methyl-2-ethoxycarbonyl-3-hydroxy-1<i>H</i>-N<i>-para-</i>[4<i>-</i>
+(trifluoromethyl)phenoxy]phenyl-pyrrole-4-carboxamide, 0.49g ( 3.57
+mmol) of potassium carbonate in 8ml of acetone under nitrogen, is added 0.20 mL
+(2.14 mmol) of dimethylsulphate. The resulting mixture is stirred at 50°C for 16
+hours. After concentration, the residue is taken up in water. Extraction with diethyl
+ether and ethyl acetate, drying, and concentration give 0.745g (90% yield) of an
+orange oil (M +1 = 463)</p><heading><b>1-methyl-2-hydroxycarbonyl-3-methoxy-1H-N-para-[4- (trifluoromethyl)
+phenoxy] phenyl- pyrrole-4-carboxamide (32)</b></heading><p num="0112"><img id="img-00450001" orientation="unknown" wi="79" img-format="tif" img-content="cf" file="00450001.tif" inline="no" he="31"/></p><p num="0113">To a solution of 0.64g (1.39 mmol) of 1-methyl-2-ethoxycarbonyl-3-methoxy-1<i>H</i>-N-<i>para</i>-[4-(trifluoromethyl)phenoxy]phenyl-pyrrole-4-carboxamide
+in 4ml of ethanol is
+added 1.4ml (2.8 mmol) of a 2 molar sodium hydroxide solution. The resulting
+solution is stirred at room temperature for 5 days. Water is added and the ethanol is
+evaporated. After extraction with diethyl ether, the aqueous phase is acidified to pH 2
+with concentrated hydrochloric acid. Extraction with ethyl acetate, drying and
+concentration give 0.5g (85% yield) of a yellowish solid. (M +1 = 435).</p><heading><b>1-methyl-2-amino-3-methoxy-1<i>H</i>-N-<i>para</i>-[4-(trifluoromethyl)phenoxy]phenyl-pyrrole-4-carboxamide
+(33)</b></heading><p num="0114"><img id="img-00450002" orientation="unknown" wi="80" img-format="tif" img-content="cf" file="00450002.tif" inline="no" he="26"/>
+0.46g (1.05 mmol) of 1-methyl-2-hydroxycarbonyl-3-methoxy-1H-N-para-[4-(trifluoromethyl)phenoxy]phenyl-pyrrole-4-carboxamide
+is stirred at room 
+temperature for 18 hours in 3.5ml ofthionyl chloride. After concentration, the
+residue is taken up in di-isopropylether, and the suspension is filtered off. The filtrate
+is concentrated to give 0.4g (85% yield) of an orange solid. A solution containing
+0.370g (0.82 mmol) of the obtained acid chloride in 12 ml of acetone is added to a
+solution of 0.06g (1 mmol) of sodium azide in 0.2ml of water. After 0.5 hours of
+stirring, 12ml of water is added, and the suspension is filtered off. The solid is
+washed with water and heptane. The filtrate's phases are separated and the aqueous
+phase is made basic. Extraction with ethyl acetate, drying and concentration give
+0.13mg (39% yield) of a yellow powder</p><heading><b><u style="single">Example C</u></b><u style="single">: Preparation of pyrazoles of formula (I)</u></heading><heading>Coupling procedure according to Scheme 1:</heading><heading><b>4-Bromo-1-methyl-5-nitro-N-<i>para</i>-[3-(trifluoromethyl)phenoxy]phenyl
+pyrazole-3-carboxamide (70)</b></heading><p num="0115"><img id="img-00460001" orientation="unknown" wi="74" img-format="tif" img-content="cf" file="00460001.tif" inline="no" he="29"/></p><p num="0116">To a mixture of 0.99g (3.96 mmol) of 1-methyl-4-bromo-5-nitropyrazole-3
+-carboxylic acid (prepared according to the method described in Y. Manaev, M.
+Andrea, V. Perevalov, B. Stepanov, V. Dubrovskaya, V. Seraya, <i>J</i>. <i>Gen</i>. <i>Chem.
+USSR</i> (<i>Engl</i>. <i>Trans</i>.<i>)</i><b>1982,</b> 2291-2296), 1.00g (3.96 mmol) of 4-[3-(trifluoromethyl)
+phenoxy]aniline, and 0.05g (0.39 mmol) of 1-hydroxybenzotriazole in 50 ml of
+dichloromethane with ice cooling, is added 0.83g (4.35 mmol) of 1-(3-dimethyl-aminopropyl)-3-ethylcarbodiimide
+hydrochloride in portions. The resulting mixture
+is stirred at room temperature for 2 hours, and diluted with 150 mL dichloromethane
+and 100ml of a 1 molar hydrochloric acid solution. The two phases solution is well
+shaken, and the phases are separated. The dichloromethylated solution is dried and
+concentrated to give a yellow solid, which is washed with di-isopropyl ether to give
+1.56g (81% yield) of compound <b>70</b> as a solid (M+1 = 485). </p><heading>Functional group transformation according to Scheme 1:</heading><heading><b>1-Methyl-4-hydroxy-5-amino-N-para-[3-(trifluoromethyl) phenoxy] phenyl
+pyrazole-3-carboxamide (71)</b></heading><p num="0117"><img id="img-00470001" orientation="unknown" wi="80" img-format="tif" img-content="cf" file="00470001.tif" inline="no" he="36"/></p><p num="0118">A mixture of 1.5g (3.1mmol) of 1-methyl-4-bromo-5-nitro-N<i>-para</i>-[3-(trifluoromethyl)phenoxy]phenyl
+pyrazole-3-carboxamide, 2.5g (0.065 mmol) of
+sodium hydroxide, 25ml of water, 25ml of ethanol and 200mg (0.8 mmol) of copper
+bromide is stirred at 90°C for 1 hour, 25ml of water is added and the mixture is
+stirred at 100°C for 3 hours. After cooling, the mixture is diluted with 200ml of
+water and made acidic with concentrated hydrochloric acid. After extraction with
+ethyl acetate, drying and concentration to 5ml, diethyl ether is added and after 5
+minutes of stirring, the resulting solid is filtered off and washed with more diethyl
+ether to provide 0.54g of a solid. Of this solid, 0.47g (1.11mmol) were mixed with
+0.10g of 5% palladium on charcoal in 50ml of methanol and stirred at room
+temperature under hydrogen at 60 psi for 3 hours. Filtration through silica and
+washing with acetic acid, concentration give a green solid which is washed with
+diethyl ether to give 0.15g (34% yield) of <b>71</b> as a grey solid (M+1 = 393).</p><heading><b><u style="single">Example D</u></b><u style="single">: Preparation of Isoxazoles of Formula (I)</u></heading><heading>Preparation of starting material:</heading><heading><b>3-(methoxycarbonyl)amino-4-methoxy-isoxazole-5-carboxylic acid</b></heading><p num="0119"><img id="img-00470002" orientation="unknown" wi="39" img-format="tif" img-content="cf" file="00470002.tif" inline="no" he="46"/></p><p num="0120">A mixture of 2.50g (0.011mmol) of methyl-3-(methoxycarbonyl)amino-4-methoxy-isoxazole-5-carboxylate
+(prepared according to the method described in
+W. Kloetzer, J. Schantz, <i>Monatsh</i>. <i>Chem.,</i><b>1965,</b>102-115) and 1.30g of powdered
+sodium hydroxide dissolved in 9 ml of water is heated at 90°C for 3 hours. After
+cooling, the mixture is acidified to pH = 2 with concentrated hydrochloric acid,
+controlling the temperature so as not to exceed 5°C. After 1 hour of stirring at 0°C,
+the precipitate obtained is filtered off and washed with cold water. There is obtained
+2.01g (86% yield) of a white solid (M+1 = 217)</p><heading>Coupling procedure according to Scheme 1:</heading><heading><b>3-[(Methoxycarbonyl)amino]-N-para-[4-(trifluoromethyl)phenoxy]phenyl-isoxazole-5-carboxamide
+(44)</b></heading><p num="0121"><img id="img-00480001" orientation="unknown" wi="79" img-format="tif" img-content="cf" file="00480001.tif" inline="no" he="38"/></p><p num="0122">A mixture of 0.162g (0.75mmol) of 3-(methoxycarbonyl)amino-4-methoxy-isoxazole-5-carboxylic
+acid, 0.172g (0.68mmol) of 4-[4-(trifluoromethyl)
+phenoxy]aniline and 0.212g (0.75mmol) of 4-(4,6-dimethoxy-1,3,5-triazin-2-yl)-4-methylmorpholinium
+chloride in 5ml of ethanol is heated at 70°C for
+6 hours, and then stirred at room temperature for 16 hours. After evaporation of the
+ethanol, the residue is taken up in ethyl acetate and the resulting solution is washed
+successively with a saturated solution of sodium hydrogenocarbonate, water, 2%
+solution of hydrochloric acid, and water. After drying and concentrating, the residue
+is chromatographed (ethyl acetate/heptane, 2:8) to give 0,122g (37% yield) of a
+cream solid (M+1 = 452).</p><heading>Functional group transformation according to Scheme 1:</heading><heading><b>3-Amino-4-hydroxy-N-para-[4-(trifluoromethyl) phenoxy]
+phenylisoxazole-5-carboxamide (51)</b></heading><p num="0123"><img id="img-00490001" orientation="unknown" wi="75" img-format="tif" img-content="cf" file="00490001.tif" inline="no" he="31"/></p><p num="0124">To 0.122g (0.27mmol) of 3-[(methoxycarbonyl)amino]-N-<i>para</i>-[4-(trifluoromethyl)
+phenoxy]phenylisoxazole-5-carboxamide in 2ml of dichloromethane at 0°C, 0.62ml
+(0.62mmol) of a 1 molar solution of boron tribromide in dichloromethane is added
+drop-wise. The mixture is stirred for 4 hours with the temperature being kept
+between 0 and 10°C, then for 20 hours at room temperature. The reaction mixture is
+poured into a saturated solution of sodium hydrogenocarbonate, and the phases are
+separated. The aqueous phase is further extracted with ethyl acetate. The combined
+organic phases are dried and concentrated. The residue is stirred in acetonitrile and
+the resulting suspension is filtered off to give a cream solid.</p><heading><b><u style="single">Example D</u></b><u style="single">: Preparation of Isoxazole-3-carboxamides of Formula (I)</u></heading><heading>Coupling procedure according to Scheme 1:</heading><heading><b>2-methoxycarbonyl-3-methoxy-N-para-[4-(trifluoromethyl)phenoxy]phenyl
+isoxazole-4-carboxamide (52)</b></heading><p num="0125">To a suspension of 1g (4.4 mmol) of 2-azidocarbonyl-3-methoxy-isoxazole-4-carboxylic
+acid (prepared according to the method described in W. Kloetzer, J.
+Schantz, <i>Monatsh</i>. <i>Chem.,</i><b>1965</b>, 102-115) in 10ml of water cooled at 0°C, is added
+drop-wise a solution of 3.36g (13.2 mmol) of 4-[4-(trifluoromethyl)phenoxy]aniline
+in 15ml of tetrahydrofuran. The resulting mixture is stirred at 0°C for 5 hours and left 
+to stand at room temperature for 16 hours. After concentration, the residue is taken
+up in ethyl acetate and the organic phase is washed successively with a 1%
+hydrochloric acid solution, and with brine. Drying and concentration give a solid
+which is purified on silica to give 0.72g (38% yield) of a white solid (M+1 = 436).</p><heading>Functional group transformation according to Scheme 1:</heading><heading><b>2-hydroxycarbonyl-3-hydroxy-N-para-[4- (trifluoromethyl) phenoxy]
+phenyl-isoxazole-4-carboxamide (53)</b></heading><p num="0126"><img id="img-00500001" orientation="unknown" wi="81" img-format="tif"  img-content="cf" file="00500001.tif" inline="no" he="31"/></p><p num="0127">A mixture of 0.64g ( 1.47mmol) of 2-methoxycarbonyl-3-methoxy-N-para-[4-(trifluoromethyl)
+phenoxy] phenyl-isoxazole-4-carboxamide, 0.98g ( 7.4 mmol) of
+lithium iodide, and 0.12g (1.47 mmol) of sodium acetate in 5ml of dimethylformamide
+is heated at 90°C for 8 hours, left to stand at room temperature and heated
+at 90°C for 6 hours. After cooling, 15ml of water is added, the solution is made basic
+with a 30% sodium hydroxide solution and washed 3 times with diethyl ether. The
+aqueous phase is acidified with a concentrated hydrochloric acid solution. After
+extraction with ethyl acetate, the organic phase is washed with a saturated lithium
+chloride solution, dried, and concentrated to give 0.33g (56% yield) of a solid.</p><heading><u style="single"><b>Example C</b> : Preparation of Pyridine-4-carboxamides of Formula (I):</u></heading><heading>Preparation of starting material:</heading><heading><b>[(2-Diethylamino-oxazolo [4,5-b3] pyridine]-4-carboxylic acid</b></heading><p num="0128"><img id="img-00500002" orientation="unknown"  wi="41"  img-format="tif"  img-content="cf" file="00500002.tif" inline="no" he="41"/></p><p num="0129">A solution of <i>t</i>-butyl-[(2-diethylamino-oxazolo[4,5-b3]pyridine]-4-carboxylate
+(0.76g, 2.61 mmol) was prepared as described in the literature (R. K. Russel et al.,
+<i>Tetrahedron Lett.</i><b>1993,</b><i>34,</i> 203-206) and the crude material refluxed for 3 hours in
+formic acid (15 mL). Then all volatiles were removed, the residue taken up in
+trichloromethane out of which the pure material precipitated upon cooling (577 mg,
+94%). (M+1 = 236).</p><heading>Coupling procedure and functional group transformation according to Scheme 1:</heading><heading><b>[4-(Trifluoromethyl)phenoxy]anilino-(2-amino-3-hydroxy)pyridyl-4
+-carboxamide (38)</b></heading><p num="0130"><img id="img-00510001" orientation="unknown" wi="73" img-format="tif" img-content="cf" file="00510001.tif" inline="no" he="36"/></p><p num="0131">To a mixture of [(2-diethylamino-oxazolo[4,5-b3]pyridine]-4-carboxylic acid (0.30g,
+1.28 mmol), 4-dimethylaminopyridine (16 mg, 0.13 mmol) and 4-(trifluoromethyl)
+phenoxy]anilin (0.39 g, 1.53 mmol) in pyridine (15 mL) was added dimethylaminopropylethylcarbodi-imide
+(0.28 g, 1.79 mmol). The reaction mixture was stirred for
+3d, then all volatiles removed, the crude taken up in ethylacetate, extracted with pH 4
+buffer solution, the organic phase separated, dried (magnesium sulphate), evaporated
+and the residue purified by chromatography (silica, heptane/ethyl acetate) to give 256
+mg of a yellow solid. 100 mg of this solid were dissolved in dimethylsulphoxide (2
+mL) to which was added 50% aqueous potassium hydroxide (3 mL), the solution was
+stirred for 2 h at 80°C, then cooled to room temperature, poured into pH4 buffer
+solution and extracted with ethyl acetate. After drying the organic phase (magnesium
+sulphate),evaporation of all volatiles and chromatography, 31 mg of the desired
+product was obtained as yellow solid (38%). (M-1 = 388). </p><heading><b><u style="single">Example D</u></b><u style="single">: Preparation of isothiazoles of formula (I):</u></heading><heading>Coupling procedure according to Scheme 1:</heading><heading><b>5-Nitro-N-<i>para</i>-[4-(trifluoromethyl)phenoxy]phenyl-isothiazole-3-carboxamide
+(58)</b></heading><p num="0132"><img id="img-00520001" orientation="unknown" wi="80" img-format="tif" img-content="cf" file="00520001.tif" inline="no" he="31"/></p><p num="0133">To 0.8g (4.6mmol) of 5-nitro-isothiazole-3-carboxylic acid (prepared according to
+the method described in R. J. A. Walsh, K. R. H. Woolbridge, <i>J</i>. <i>Chem</i>. <i>Soc</i>. <i>Perkin
+Trans 1</i>, <b>1972</b>,1247-1249) is added 14 ml of thionyl chloride under nitrogen, and the
+resulting mixture is stirred at reflux for 3 hours. After cooling, the solvent is
+evaporated to give a solid. This solid is suspended in a mixture of 20ml of diethyl
+ether and 20ml of dichloromethane. The suspension is added to a mixture of 2.74g
+(10.8mmol) of 4-[4-(trifluoromethyl) phenoxy] aniline and 2.5ml (18.3mmol) of
+triethylamine in 40ml of diethyl ether. The resulting mixture is stirred at room
+temperature for 4 hours and left to stand at room temperature overnight. The
+resulting suspension is filtered, the filtrate is washed with a saturated sodium
+chloride solution, then dried and concentrated to give a brown solid which is
+chromatographed (ethyl acetate/heptane) to give 1.2g (63%yield) of an orange solid
+(M+1 =410).</p><heading>Functional group transformation according to Scheme 1:</heading><heading><b>5-Amino-N-<i>para</i>-[4-(trifluoromethyl)phenoxy]phenyl-isothiazole-3-carboxamide
+(57)</b></heading><p num="0134"><img id="img-00520002" orientation="unknown" wi="88" img-format="tif" img-content="cf" file="00520002.tif" inline="no" he="35"/></p><p num="0135">To a solution of 1.05g (2.57mmol) of 5-nitro-N-para-[4-(trifluoromethyl)phenoxy]
+phenyl-isothiazole-3-carboxamide in 5ml of concentrated hydrochloric acid is added
+a solution of 2.5g (12.8mmol) of tin chloride in 5ml of concentrated hydrochloric
+acid and the resulting mixture is heated at 70°C for 16 hours. After cooling, the
+solvent is evaporated, and the residue is taken up in water. The aqueous phase is
+made basic with a 30% sodium hydroxide solution. After extraction with ethyl
+acetate, drying, and concentration, the residue is chromatographed (ethyl
+acetate/heptane) to give 0.580g (60%mmol) of a light brown solid (M+1 = 380).</p><heading><u style="single"><b>Example E:</b> Preparation of Thiophene-2-carboxamides of Formula (I):</u></heading><heading>Coupling procedure according to Scheme 1:</heading><heading><b>4-Bromo-3-methoxy-N-4-[4(trifluoromethyl)phenoxy]phenyl-thiophene-2-carboxamide
+(3)</b></heading><p num="0136"><img id="img-00530001" orientation="unknown" wi="70" img-format="tif" img-content="cf" file="00530001.tif" inline="no" he="27"/></p><p num="0137">To 2.39g (10mmol) of 4-bromo-3-methoxy thiophene-2-carboxylic acid ( prepared
+according to the method of C.Corral, M.B.El-Ashmawy, J.Lissavetzky, A.Basilio,
+A.Giraldez, <i>Eur</i>.<i>J</i>.<i>Med</i>.<i>Chem</i>. <b>1987,</b><i>22,</i> 251-254) was added 10ml ofthionyl
+chloride, the mixture was refluxed for 2 hours, cooled to room temperature and the
+excess thionyl chloride removed by evaporation. The crude acid chloride in 10ml of
+dry tetrahydrofuran was added drop wise to a stirred mixture of 0.53g (10mmol) of
+4-(4-trifluorophenoxy)aniline and 1.01g (10mmol) of triethylamine in 20ml of dry
+tetrahydrofuran at 0°C, the mixture stirred at room temperature for 18 hours, treated
+with 150mL of water and extracted with diethyl ether, dried and evaporated to yield a
+solid, which was washed with pentane to yield 4.43g (94% yield) of a buff solid
+(M+1 = 473). </p><heading>Functional group transformation according to Scheme 1:</heading><heading><b>2-N-4-[4(Trifluoromethyl)phenoxy]phenylcarboxamide-3-methoxy
+thiophene-4-carboxylic acid (6)</b></heading><p num="0138"><img id="img-00540001" orientation="unknown" wi="83" img-format="tif" img-content="cf" file="00540001.tif" inline="no" he="36"/></p><p num="0139">To 2.00g (4.24mmol) of 4-bromo-3-methoxy-N-4-[4-(trifluoromethyl)
+phenoxy]phenyl-thiophene-2-carboxamide in 40ml of dry tetrahydrofuran at -78°C,
+was added drop-wise 6ml (8.9mmol) of n-butyllithium (1.6M in hexane) the reaction
+stirred at -78°C for 1 hour before he mixture was poured onto an excess of dry ice
+and allowed to warm to room temperature. After treatment with 50mL of water and
+extraction with diethyl ether, the aqueous fraction was acidified to pH3 with aqueous
+hydrogen chloride and extracted with dichloromethane, dried and evaporated to yield
+a solid, washed with 5% diethyl ether in pentane and filtered to yield 1.11g (54%
+yield) of a buff solid (M+1= 438).</p><heading><b>4-[(Allyloxycarbonyl)amino]-3-methoxy-N-4-[4-(trifluoromethyl)phenoxy]
+phenyl-thiophene-2-carboxamide (8)</b></heading><p num="0140"><img id="img-00540002" orientation="unknown" wi="106" img-format="tif" img-content="cf" file="00540002.tif" inline="no" he="32"/></p><p num="0141">To 0.5g (1.14mmol) of 2-N-4-[4(trifluoromethyl)phenoxy]phenyl
+carboxamide-3-methoxy thiophene-4-carboxylic acid in 5ml of acetonitrile under
+argon was added 0.116g (1.14mmol) of triethylamine and 0.315g (1.14mmol) of
+diphenylphosphorylazide, the mixture was heated at 85°C for 2 hours, 2.5ml of allyl
+alcohol was added and the heating continued for 18 hours. The mixture was cooled to 
+room temperature and evaporated, the residue was chromatographed
+(dichloromethane/heptane) to yield 0.15g (27% yield) of a pale yellow solid (M+1 =
+493).</p><heading><b>4-Methylthio-3-methoxy-N-4-[3-(trifluoromethyl)phenoxy]phenyl-thiophene-2-c
+arboxamide (2)</b></heading><p num="0142"><img id="img-00550001" orientation="unknown" wi="90" img-format="tif" img-content="cf" file="00550001.tif" inline="no" he="30"/></p><p num="0143">To 0.1g (0.21mmol) of 4-bromo-3-methoxy-N-4-[3(trifluoromethyl)
+phenoxy]phenyl-thiophene-2-carboxamide in 2ml of dry tetrahydrofuran, at -78°C,
+was added drop-wise 0.3mL (0.45mmol) of n-butyl lithium (1.6M in hexane). The
+mixture was stirred at -78°C for 1 hour, treated with 0.02g ((0.21mmol) of dimethyl
+disulphide in 0.5ml of dry tetrahydrofuran, stirred at -78°C for 3 hours and 18 hours
+at room temperature. The mixture was poured into 25 ml of water and extracted with
+dichloromethane, dried and evaporated to yield an oil, chromatographed
+(dichloromethane/heptane) to yield 0.035g (38% yield) of a colourless oil (M+1 =
+440).</p><heading><b>4-Methylsulphonyl-3-methoxy-N-4-[3-(trifluoromethyl) phenoxy]
+phenyl-thiophene-2-carboxamide (5)</b></heading><p num="0144"><img id="img-00550002" orientation="unknown" wi="81" img-format="tif" img-content="cf" file="00550002.tif" inline="no" he="31"/></p><p num="0145">To 0.124g (0.282mmol) of 4-methylthio-3-methoxy-N-4-[3-(trifluoromethyl)
+phenoxy]phenyl-thiophene-2- carboxamide in 2ml of dichloromethane, at 0°C, was
+added 0.14g (0.565mmol) of 70% m-chloroperoxybenzoic acid, the mixture was
+stirred at room temperature for 18 hours, treated with 20mL of a saturated solution of 
+sodium metabisulphite, extracted with dichloromethane, dried and evaporated to
+yield a buff solid, chromatographed (dichloromethane/heptane) to yield 0.104g (78%
+yield) of a buff solid (M+1 = 472).</p><heading><b>4-Trimethylsilyl-3-methoxy-N-4-[3-(trifluoromethyl)phenoxy]phenyl-thiophene-2-carboxamide
+(4)</b></heading><p num="0146"><img id="img-00560001" orientation="unknown" wi="86" img-format="tif" img-content="cf" file="00560001.tif" inline="no" he="32"/></p><p num="0147">To 0.2g (0.42mmol) of 4-bromo-3-methoxy-N-4-[3(trifluoromethyl)phenoxy]
+phenyl-thiophene-2-carboxamide in 5ml of dry tetrahydrofuran, at -78°C, was added
+drop-wise 0.6ml (0.9mmol) of n-butyl lithium (1.6M in hexane). The mixture was
+stirred at -78°C for 1 hour, treated with 0.097g (0.89mmol) of trimethylsilyl chloride
+in 1ml of dry tetrahydrofuran, stirred at -78°C for 2 hours and 18 hours at room
+temperature. The mixture was poured into 50 ml of water and extracted with
+dichloromethane, dried and evaporated to yield an oil, chromatographed
+(dichloromethane/heptane) to yield 0.094g (48% yield) of a colourless oil (M+1 =
+466).</p><heading><b>5-Methylthio-4-bromo-3-methoxy-N-4-[3-(trifluoromethyl phenoxy]
+phenyl-thiophene-2- carboxamide (7)</b></heading><p num="0148"><img id="img-00560002" orientation="unknown" wi="88" img-format="tif" img-content="cf" file="00560002.tif" inline="no" he="29"/></p><p num="0149">To 1.3g (2.75mmol) of 4-bromo-3-methoxy-N-4-[3(trifluoromethyl)phenoxy]phenyl
+thiophene-2-carboxamide in 25ml of dry tetrahydrofuran, at -78°C, was added drop-wise
+3.8ml (0.45mmol) of n-butyl lithium (1.6M in hexane). The mixture was stirred 
+at -78°C for 3 hours, treated with 0.26g (2.75mmol) of dimethyl disulphide in 5ml of
+dry tetrahydrofuran, stirred for 18 hours at room temperature. The mixture was
+poured into 100 ml of water and extracted with dichloromethane, dried and
+evaporated to yield an oil, chromatographed (dichloromethane/heptane) to yield
+0.164g (12% yield) of a colourless oil (M+1 = 520).</p><p num="0150">All compounds of the present invention may be prepared by using identical and/or
+similar techniques as the ones described here above.</p><p num="0151">Tables I to XIII, which follow, present, as illustrative examples only, some of the
+compounds that are encompassed by the present invention. The invention shall
+therefore not be understood as limited to these examples. <img id="img-00580001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00580001.tif" inline="no" he="227"/><img id="img-00590001" orientation="unknown" wi="156" img-format="tif" img-content="tb" file="00590001.tif" inline="no" he="220"/><img id="img-00600001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00600001.tif" inline="no" he="224"/><img id="img-00610001" orientation="unknown" wi="151" img-format="tif" img-content="tb" file="00610001.tif" inline="no" he="230"/><img id="img-00620001" orientation="unknown" wi="164" img-format="tif" img-content="tb" file="00620001.tif" inline="no" he="205"/><img id="img-00630001" orientation="unknown" wi="155" img-format="tif" img-content="tb" file="00630001.tif" inline="no" he="216"/><img id="img-00640001" orientation="unknown" wi="138" img-format="tif" img-content="tb" file="00640001.tif" inline="no" he="231"/><img id="img-00650001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00650001.tif" inline="no" he="208"/><img id="img-00660001" orientation="unknown" wi="155" img-format="tif" img-content="tb" file="00660001.tif" inline="no" he="216"/><img id="img-00670001" orientation="unknown" wi="146" img-format="tif" img-content="tb" file="00670001.tif" inline="no" he="231"/><img id="img-00680001" orientation="unknown" wi="140" img-format="tif" img-content="tb" file="00680001.tif" inline="no" he="215"/><img id="img-00690001" orientation="unknown" wi="118" img-format="tif" img-content="tb" file="00690001.tif" inline="no" he="231"/><img id="img-00700001" orientation="unknown" wi="162" img-format="tif" img-content="tb" file="00700001.tif" inline="no" he="188"/><img id="img-00710001" orientation="unknown" wi="159" img-format="tif" img-content="tb" file="00710001.tif" inline="no" he="190"/><img id="img-00720001" orientation="unknown" wi="143" img-format="tif" img-content="tb" file="00720001.tif" inline="no" he="215"/><img id="img-00730001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00730001.tif" inline="no" he="206"/><img id="img-00740001" orientation="unknown" wi="142" img-format="tif" img-content="tb" file="00740001.tif" inline="no" he="199"/><img id="img-00750001" orientation="unknown" wi="165" img-format="tif" img-content="tb" file="00750001.tif" inline="no" he="193"/><img id="img-00760001" orientation="unknown" wi="164" img-format="tif" img-content="tb" file="00760001.tif" inline="no" he="197"/><img id="img-00770001" orientation="unknown" wi="96" img-format="tif" img-content="tb" file="00770001.tif" inline="no" he="229"/><img id="img-00780001" orientation="unknown" wi="147" img-format="tif" img-content="tb" file="00780001.tif" inline="no" he="230"/><img id="img-00790001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00790001.tif" inline="no" he="221"/><img id="img-00800001" orientation="unknown" wi="144" img-format="tif" img-content="tb" file="00800001.tif" inline="no" he="231"/><img id="img-00810001" orientation="unknown" wi="151" img-format="tif" img-content="tb" file="00810001.tif" inline="no" he="231"/><img id="img-00820001" orientation="unknown" wi="150" img-format="tif" img-content="tb" file="00820001.tif" inline="no" he="232"/><img id="img-00830001" orientation="unknown" wi="111" img-format="tif" img-content="tb" file="00830001.tif" inline="no" he="231"/><img id="img-00840001" orientation="unknown" wi="113" img-format="tif" img-content="tb" file="00840001.tif" inline="no" he="232"/></p><heading><b>Examples of biological activity of the compounds of the invention</b></heading><heading><b>Example A: <i>in vivo</i> test on <i>Alternaria brassicae</i> (Leaf spot of crucifers):</b></heading><p num="0152">An aqueous suspension, at a concentration of 1.5%, of the active material
+tested is obtained by grinding it finely in a formulation of concentrated suspension
+type. This aqueous suspension is then diluted in water so as to obtain the desired
+active material concentration. Radish plants (Pernot variety) in starter cups, sown on
+a 50/50 peat soil-pozzolana substrate and grown at 18-20°C, are treated at the
+cotyledon stage by spraying with the aqueous suspension described above. Plants,
+used as controls, are treated with an aqueous solution not containing the active
+material.
+
+   After 24 hours, the plants are contaminated by spraying them with an
+aqueous suspension of <i>Alternaria brassicae</i> spores (40,000 spores per cm<sup>3</sup>). The
+spores are collected from a 12-13 day-old culture. The contaminated radish plants
+are incubated for 6-7 days at about 18°C, under a humid atmosphere. Grading is
+carried out 6 to 7 days after the contamination, in comparison with the control plants.
+Under these conditions, good (at least 50%) or total protection is observed at a dose
+of 500 g/ha with the following compounds: 10, 29, 30, 31, 44.</p><heading><b>Example B: <i>in vivo</i> test on <i>Septoria nodorum</i> (wheat Glume blotch):</b></heading><p num="0153">An aqueous suspension, at a concentration of 1.5%, of the active material
+tested is obtained by grinding it finely in a formulation of concentrated suspension
+type. This aqueous suspension is then diluted in water so as to obtain the desired
+active material concentration.
+
+   Wheat plants (Scipion variety) in starter cups, sown on a 50/50 peat
+soil-pozzolana substrate and grown at 12°C, are treated at the 1-leaf stage (10 cm
+tall) by spraying them with the aqueous suspension described above. Plants, used as
+controls, are treated with an aqueous solution not containing the active material.
+After 24 hours, the plants are contaminated by spraying with an aqueous suspension
+of <i>Septoria nodorum</i> spores (500,000 spores per cm<sup>3</sup>). The spores are collected from
+a seven-day-old culture. The contaminated wheat plants are incubated for 72 hours at 
+about 18°C, under a humid atmosphere, and then for 14 days at 90% relative
+humidity.
+
+   Grading is carried out 15 to 20 days after contamination, in comparison with
+the control plants. Under these conditions, good (at least 50%) or total protection is
+observed, at a dose of 500 g/ha, with the following compounds: 10, 29, 31.</p><heading><b>Example C: <i>in vivo</i> test on <i>Erisyphe graminis</i> f. sp. <i>tritici</i> (powdery
+mildew of wheat):</b></heading><p num="0154">An aqueous suspension, at a concentration of 1.5%, of the active material
+tested is obtained by grinding it finely in a formulation of concentrated suspension
+type. This aqueous suspension is then diluted in water so as to obtain the desired
+active material concentration. Wheat plants (Audace variety) in starter cups, sown on
+50/50 peat soil-pozzulana substrate and grown at 12°C, are treated at the 1-leaf stage
+(10 cm tall) by spraying with the aqueous suspension described above. Plants, used
+as controls, are treated with an aqueous solution not containing the active material.
+After 24 hours, the plants are contaminated by dusting them with <i>Erisyphe graminis</i>
+f. sp. <i>tritici</i> spores, the dusting being carried out using diseased plants.
+
+   Grading is carried out 7 to 14 days after the contamination, in comparison
+with the control plants. Under these conditions, good (at least 50%) or total
+protection is observed, at a dose of 500 g/ha, with the following compounds: 10, 18,
+19, 21, 29, 30, 31, 32, 44, 52, 53, 68.</p><heading><b>Example D: <i>in vivo</i> test on <i>Septoria tritici</i> (Leaf spot of wheat):</b></heading><p num="0155">An aqueous suspension, at a concentration of 1.5%, of the active material
+tested is obtained by grinding it finely in a formulation of concentrated suspension
+type. This aqueous suspension is then diluted in water so as to obtain the desired
+active material concentration. Wheat plants (Scipion variety) in starter cups, sown on
+a 50/50 peat soil-pozzolana substrate and grown at 12°C, are treated at the 1-leaf
+stage (10 cm tall) by spraying with the aqueous suspension described above. Plants,
+used as controls, are treated with an aqueous solution not containing the active
+material.
+ 
+   After 24 hours, the plants are contaminated by spraying them with an
+aqueous suspension of <i>Septoria tritici</i> spores (500,000 spores per mL). The spores
+are collected from a 15-day-old culture and are suspended in a nutrient solution
+composed of:
+<ul list-style="bullet"><li>1.5 g/L of gelatine</li><li>0.5 g/L of sodium oleate</li><li>24 g/L of PDB</li></ul></p><p num="0156">The contaminated wheat plants are incubated for 72 hours at about 20°C and
+at 100% relative humidity, and then for 15 days at 80% relative humidity.
+
+   Grading is carried out 15 to 20 days after the contamination, in comparison
+with the control plants. Under these conditions, good (at least 50%) protection is
+observed, at a dose of 500 g/ha, with the following compounds: 10, 29.</p><heading><b>Example E: <i>in vivo</i> test on <i>Drechslera teres</i> (Barley Net blotch):</b></heading><p num="0157">An aqueous suspension, at a concentration of 1.5%, of the active material
+tested is obtained by grinding it finely in a formulation of concentrated suspension
+type. This aqueous suspension is then diluted in water so as to obtain the desired
+active material concentration. Barley plants (Express variety) in starter cups, sown on
+a 50/50 peat soil-pozzolana substrate and grown at 12°C, are treated at the 1-leaf
+stage (10 cm tall) by spraying with the aqueous suspension described above. Plants,
+used as controls, are treated with an aqueous solution not containing the active
+material.
+
+   After 24 hours, the plants are contaminated by spraying them with an
+aqueous suspension of <i>Dreschslera teres</i> spores (12,000 spores per mL). The spores
+are collected from a 12-day-old culture. The contaminated wheat plants are incubated
+for 24 hours at about 20°C and at 100% relative humidity, and then for 12 days at
+80% relative humidity.
+
+   Grading is carried out 12 days after the contamination, in comparison with
+the control plants. Under these conditions, good (at least 50%) protection is
+observed, at a dose of 500 g/ha, with the compounds described as example: 21, 29. </p><heading><b>Example F: <i>in vivo</i> test on <i>Rhynchosporium secalis</i> (Barley leaf scald):</b></heading><p num="0158">An aqueous suspension, at a concentration of 1.5%, of the active material
+tested is obtained by grinding it finely in a formulation of concentrated suspension
+type. This aqueous suspension is then diluted in water so as to obtain the desired
+active material concentration. Barley plants (Express or Barrack variety) in starter
+cups, sown on a 50/50 peat soil-pozzolana substrate and grown at 12°C, are treated at
+the 1-leaf stage (10 cm tall) by spraying with the aqueous suspension described
+above. Plants, used as controls, are treated with an aqueous solution not containing
+the active material.
+
+   After 24 hours, the plants are contaminated by spraying them with an
+aqueous suspension of <i>Rhynchosporium secalis</i> spores (800,000 spores per mL). The
+contaminated wheat plants are incubated for 48 hours at about 20°C and at 100%
+relative humidity, and then for 12/14 days at 80% relative humidity.
+
+   Grading is carried out 12/14 days after the contamination, in comparison
+with the control plants. Under these conditions, good (at least 50%) protection is
+observed, at a dose of 500 g/ha, with the following compound described as example:
+32</p><heading><b>Example G: <i>in vivo</i> test on <i>Puccinia recondita</i> (Wheat brown rust):</b></heading><p num="0159">An aqueous suspension, at a concentration of 1.5%, of the active material
+tested is obtained by grinding it finely in a formulation of concentrated suspension
+type, This aqueous suspension is then diluted in water so as to obtain the desired
+active material concentration. Wheat plants (Scipion variety) in starter cups, sown
+on a 50/50 peat soil-pozzolana substrate and grown at 12°C, are treated at the 1-leaf
+stage (10 cm tall) by spraying with the aqueous suspension described above. Plants,
+used as controls, are treated with an aqueous solution not containing the active
+material.
+
+   After 24 hours, the plants are contaminated by spraying them with an
+aqueous suspension of <i>Puccinia recondita</i> spores (150,000 spores per mL). The
+contaminated wheat plants are incubated for 24 hours at about 20°C and at 100%
+relative humidity, and then for 10 days at 70 % relative humidity.
+ 
+   Grading is carried out 10 days after the contamination, in comparison with
+the control plants. Under these conditions, good (at least 50%) protection is
+observed, at a dose of 500 g/ha, with the following compounds described as example:
+10, 13, 21, 29, 30, 31, 32, 44, 52, 68.</p><heading><b>Example H: <i>in vivo</i> test on <i>Botiytis cinerea</i> (cucumber Grey mould):</b></heading><p num="0160">An aqueous suspension, at a concentration of 1.5%, of the active material
+tested is obtained by grinding it finely in a formulation of concentrated suspension
+type. This aqueous suspension is then diluted in water so as to obtain the desired
+active material concentration. Cucumber plants (Marketer variety) in starter cups,
+sown on a 50/50 peat soil-pozzolana substrate and grown at 18- 20°C, are treated at
+the cotyledon Z11 stage by spraying with the aqueous suspension described above.
+Plants, used as controls, are treated with an aqueous solution not containing the
+active material.
+
+   After 24 hours, the plants are contaminated by depositing drops of an
+aqueous suspension of <i>Botrytis cinerea</i> spores (150,000 spores per ml) on upper
+surface of the leaves. The spores are collected from a 15-day-old culture and are
+suspended in a nutrient solution composed of:
+<ul list-style="bullet"><li>20 g/L of gelatine</li><li>50 g/L of cane sugar</li><li>2 g/L of NH4NO3</li><li>1 g/L of KH2PO4</li></ul></p><p num="0161">The contaminated cucumber plants are settled for 5/7 days in a climatic
+room at 15-11 °c (day/night) and at 80% relative humidity.
+
+   Grading is carried out 5/7 days after the contamination, in comparison with
+the control plants. Under these conditions, good (at least 50%) protection is
+observed, at a dose of 500 g/ha, with the following compounds described as example:
+21, 58</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>Compounds of general formula (I):
+
+in which:
+<claim-text><claim-text>Het represents a five or six membered saturated, partially unsaturated or aromatic
+ring containing between one and six heteroatoms of the group N, O, S, in which the
+heterocycle is substituted in an adjacent manner with -P-Q1-T-Q2, -GZ and Y, such
+that the substituant -GZ is adjacent to both, each further ring members possibly
+being substituted by Xn;</claim-text><claim-text>n represents the integer 0, 1, 2 or 3;</claim-text><claim-text>P is chosen from among -C(O)-, -C(S)-, -SO2-, -C(NR1)-, -C(N-NR1R2)-,
+-P(O)(OR1)-, -P(O)(NR1R2)-, and -P(O)R1-;</claim-text><claim-text>R1 and R2 are the same or different and are each independently chosen from
+hydrogen, alkyl, cycloalkyl, aryl, heteroaryl, alkenyl, alkynyl, and sulphonyl, all
+optionally and independently from another substituted by one or several R5 and/or
+R6;</claim-text><claim-text>G represents oxy (-O-), thio (-S-), sulphinyl (-SO-) or a direct bond;</claim-text><claim-text>Q1 is chosen from -OR3, -SR3 and -NR3R4</claim-text><claim-text>P and Q1 may furthermore together form a ring containing from 5 to 7 atoms, 2 to 3
+of which being chosen from nitrogen, oxygen and sulphur, and in which ring
+members may optionally be substituted with one or several R5;</claim-text><claim-text>Q2 represents R3, which is optionally and independently from another substituted by
+one or several R5 and/or R6;</claim-text><claim-text>R3 and R4, which are the same or different, are each chosen, independently from one
+another, from:
+<claim-text><claim-text>hydrogen;</claim-text><claim-text>aryl, alkylaryl, cycloalkylaryl, bisaryl, heteroarylaryl, cycloalkylalkylaryl,
+arylalkylaryl, heteroarylalkylaryl, alkanoylaryl, cycloalkylcarbonylaryl, aroylaryl,
+hetaroylaryl, alkoxyaryl, cycloalkoxyaryl, aryloxyaryl, heteroaryloxyaryl,
+alkylaminoaryl, cycloalkylaminoaryl, arylaminoaryl, heteroarylaminoaryl,
+alkylthioaryl, cycloalkylthioaryl, arylthioaryl, heteroarylthioaryl, where all aryl,
+alkyl, cycloalkyl, heteroaryl may optionally and independently from another be
+substituted by one or several R5 and/or R6;</claim-text><claim-text>heteroaryl, alkylheteroaryl, cycloalkylheteroaryl, arylheteroaryl,
+bisheteroaryl, cycloalkylalkylheteroaryl, arylalkylheteroaryl,
+heteroarylalkylheteroaryl, alkanoylheteroaryl, cycloalkylcarbonylheteroaryl,
+aroylheteroaryl, hetaroylheteroaryl, alkoxyheteroaryl, cycloalkoxyheteroaryl,
+aryloxyheteroaryl, heteroaryloxyheteroaryl, alkoxyalkylheteroaryl,
+cycloalkoxyalkylheteroaryl, aryloxyalkylheteroaryl, heteroaryloxyalkylheteroaryl,
+alkylaminoalkylheteroaryl, cycloalkylaminoalkylheteroaryl,
+arylaminoalkylheteroaryl, heteroarylaminoalkylheteroaryl,
+alkylaminoalkylheteroaryl, cycloalkylaminoalkylheteroaryl,
+arylaminoalkylheteroaryl, heteroarylaminoalkylheteroaryl, alkylthioheteroaryl,
+cycloalkylthioheteroaryl, arylthioheteroaryl, heteroarylthioheteroaryl,
+alkylthioalkylheteroaryl, cycloalkylthioalkylheteroaryl, arylthioalkylheteroaryl,
+heteroarylthioalkylheteroaryl, where all aryl, alkyl, cycloalkyl, heteroaryl may
+optionally and independently from another be substituted by one or several R5 and/or
+R6;</claim-text><claim-text>alkyl, cycloalkylalkyl, arylalkyl, heteroarylalkyl, alkanoylalkyl,
+cycloalkylcarbonylalkyl, aroylalkyl, hetaroylalkyl, alkoxyalkyl, cycloalkoxyalkyl,
+aryloxyalkyl, heteroaryloxyalkyl, alkylaminoalkyl, cycloalkylaminoalkyl,
+arylaminoalkyl, heteroarylaminoalkyl, alkylthioalkyl, cycloalkylthioalkyl,
+arylthioalkyl, heteroarylthioalkyl, where all aryl, alkyl, cycloalkyl, heteroaryl may
+optionally and independently from another be substituted by one or several R5 and/or
+R6;</claim-text><claim-text>cycloalkyl, alkylcycloalkyl, spirocycloalkyl, biscycloalkyl, arylcycloalkyl,
+heteroarylcycloalkyl, cycloalkylalkylcycloalkyl, arylalkylcycloalkyl,
+heteroarylalkylcycloalkyl, alkanoylcycloalkyl, cycloalkylcarbonylcycloalkyl,
+arylalkylcycloalkyl, heteroarylalkylcycloalkyl, alkoxycycloalkyl,
+cycloalkoxycycloalkyl, aryloxycycloalkyl, heteroaryloxycycloalkyl,
+alkoxyalkylcycloalkyl, cycloalkoxyalkylcycloalkyl, aryloxyalkylcycloalkyl,
+aryloxyalkylcycloalkyl, alkylaminoalkylcycloalkyl, cycloalkylaminoalkylcycloalkyl,
+arylaminoalkylcycloalkyl, heteroarylaminoalkylcycloalkyl,
+alkylaminoalkylcycloalkyl, cycloalkylaminoalkylcycloalkyl,
+arylaminoalkylcycloalkyl, heteroarylaminoalkylcycloalkyl, alkylthiocycloalkyl,
+cycloalkylthiocycloalkyl, arylthiocycloalkyl, heteroarylthiocycloalkyl,
+alkylthioalkylcycloalkyl, cycloalkylthioalkylcycloalkyl, arylthioalkylcycloalkyl, and
+heteroarylthioalkylcycloalkyl, where all aryl, alkyl, cycloalkyl, heteroaryl may
+optionally and independently from another be substituted by one or several R5 and/or
+R6;</claim-text></claim-text></claim-text><claim-text>Z is chosen from hydrogen, halogen, cyano, formyl, alkyl, cycloalkyl, allyl, aryl,
+heteroaryl, arylalkyl, propargyl, alkenyl, alkynyl, alkoxyalkyl, alkylthioalkyl,
+N-alkylaminoalkyl, N,N-dialkylaminoalkyl, alkanoylaminoalkyl, acyl, thioacyl,
+C3-C10 alkanoyl, aroyl, hetaroyl, alkoxycarbonyl, alkenoxycarbonyl,
+alkynyloxycarbonyl, aryloxycarbonyl, heteroaryloxycarbonyl,
+N-alkylaminocarbonyl, N,N-dialkylaminocarbonyl, alkylthiocarbonyl,
+N-alkylamidinyl, alkoxythiocarbonyl, C1-C6 alkylaminothiocarbonyl, alkylcarbonyl,
+alkoxycarbonyl, N-alkylaminocarbonyl, N,N-dialkylaminocarbonyl,
+N,N-dialkylaminothiocarbonyl, arylcarbonyl, heteroarylcarbonyl, aryloxycarbonyl,
+heteroaryloxycarbonyl, alkenylcarbonyl, alkenyloxycarbonyl, alkynylcarbonyl,
+alkynyloxycarbonyl, dialkylphosphatyl, diarylphosphatyl, alkylarylphosphatyl,
+trialkylsilyl, alkylarylsilyl, triarylsilyl, alkylsulphonyl, alkoxysulphonyl,
+aryloxysulphonyl, aminosulphonyl, N-alkylaminosulphonyl,
+N,N-dialkylaminosulphonyl, N-arylaminosulphonyl, N,N-diarylaminosulphonyl,
+arylsulphonyl, alkoxysulphinyl, alkylaminosulphinyl, alkylsulphinyl, and
+arylsulphinyl, where all alkyl, alkoxy, alkenyl, alkynyl, cycloalkyl, heteroaryl and
+aryl group may optionally be substituted by one or several R5 and/or R6;</claim-text><claim-text>R5 is chosen from cyano, cyanoalkyl, nitroalkyl, halogen, haloalkyl, hydroxy,
+hydroxyalkyl, mercapto, mercaptoalkyl, amino, aminoalkyl, hydrazino, nitrido,
+hydroxylamino, alkylhydroxylamino, alkoxamino, cycloalkoxamino, formyl,
+trialkylsilyl, triarylsilyl, thiocyanato, azido, dihydroxyphosphanyl,
+dialkoxyphosphanyl, alkoxy, haloalkoxy, cycloalkoxy, alkylthio, haloalkylthio,
+N-alkylamino, N,N-dialkylamino, N-haloalkylamino, N,N-halodialkylamino,
+alkoxylamino, haloalkoxamino, oxo, imino, alkoxyimino, haloalkoximino,
+hydrazono, alkylsulphonyl, arylsulphonyl, mono- or disubstituted aminosulphonyl,
+aroyl, alkanoyl, and mono- or disubstituted aminocarbonyl;</claim-text><claim-text>R6 is chosen form alkyl, cycloalkyl, alkoxyalkyl, alkylthioalkyl, N-alkylaminoalkyl,
+N,N-dialkylaminoalkyl, alkenyl, cycloalkenyl, alkoxyalkenyl, alkylthioalkenyl,
+N-alkylaminoalkenyl, N,N-dialkylaminoalkenyl, alkynyl, cycloalkynyl,
+alkoxyalkynyl, alkylthioalkynyl, N-alkylaminoalkynyl, N,N-dialkylaminoalkynyl,
+oxo, alkylimino, cycloalkylimino, alkoxyimino, alkoxyalkylimino,
+N-alkylaminoalkylimino, N,N-dialkylaminoalkylimino, hydrazono, alkylhydrazono,
+cycloalkylhydrazono, arylhydrazono, heteroarylhydrazono, alkanoyl, cycloalkanoyl,
+alkoxyalkanoyl, alkylthioalkanoyl, N-alkylaminoalkanoyl,
+N,N-dialkylaminoalkanoyl, aroyl, cycloaroyl, alkoxyaroyl, alkylthioaroyl,
+N-alkylaminoaroyl, N,N-dialkylaminoaroyl, aryl, cycloalkylaryl, alkoxyaryl,
+alkylthioalkyl, diaminoalkylaryl, alkylthio, cycloalkylthio, haloalkylthio,
+hydroxyalkylthio, aminoalkylthio, thioalkylthio, alkoxyalkylthio, alkylthioalkylthio,
+N-alkylaminoalkylthio, N,N-dialkylaminoalkylthio, alkylamino, cycloalkylamino,
+haloalkylamino, hydroxyalkylamino, thioalkylamino, aminoalkylamino,
+alkoxyalkylamino, alkoxamino, N-alkylaminoalkylamino,
+N,N-dialkylaminoalkylamino, alkoxylamino, alkylhydrazino, alkylsulphonylamino,
+cycloalkylsulphonylamino, haloalkylsulphonylamino, arylsulphonylamino,
+heteroaryloxy, heteroarylthio, heteroarylamino, N-alkylaminocarbonyl,
+N-alkylaminocarbonyl, N,N-dialkylaminocarbonyl, alkoxycarbonyl,
+cycloalkoxycarbonyl, haloalkoxycarbonyl, hydroxyalkoxycarbonyl,
+N-alkylaminoalkoxycarbonyl, N,N-diaminoalkoxycarbonyl, alkylsulphonyl,
+cycloalkylsulphonyl, haloalkylsulphonyl, pentafluoroalkylsulphonyl, arylsulphonyl,
+N-alkylaminosulphonyl, N,N-dialkyaminosulphonyl, alkysulphoxidyl,
+cycloalkylsulphoxidyl, arylsulphinyl, and heteroarylsulphinyl, where all aryl, alkyl,
+cycloalkyl, heteroaryl may optionally and independently from another be substituted
+by one or several R5;</claim-text><claim-text>Y is chosen from
+<claim-text><claim-text>azido, formyl, -C(O)R7, -SH, thiocyanato, -SiR7R8R9;</claim-text><claim-text>-NH2, -NR7R8, -NR7-NR8R9, -ONR7R8, -ON=CR7R8, -NR7NR8(CO)R9,
+-NR7N=CR8R9;</claim-text><claim-text>-NR7C(O)OR8, -NR7C(O)SR8, -NR7C(O)NR8R9, -NR7C(S)OR8,
+-NR7C(S)SR8;</claim-text><claim-text>-NR7C(S)NR8R9, -NR7C(NR8)OR9, -NR7C(NR8)SR9, -NR7C(NR8)NR9R10,
+-NR7SOnR7, -NR7SOnOR7, -NR7SOnNR7R8, -NR7SOnSR7, wherein n represents 1 or
+2;</claim-text><claim-text>-P(O)(OR7)2, -P(O)(NR7R8)2, -P(O)R7R8;</claim-text><claim-text>cyclobutyl, cyclopropyl, cyclohexyl;</claim-text><claim-text>-(CR7R8)n-R5, -(CR7R8)n-R6 wherein represents an integer from 1 to 10,
+except when R5 represents halogen and R6 represents alkenyl or alkynyl;</claim-text><claim-text>alkoxycarbonylaminoalkyl, haloalkoxycarbonylaminoalkyl,
+cycloalkoxycarbonylaminoalkyl;</claim-text><claim-text>cycloalkyloxy, alkenyloxy, alkenylamino, alkynyloxy, alkenylthio,
+alkynylthio;</claim-text><claim-text>R7OC(O)O-, R7SC(O)O-, R7R8NC(O)O-, R7OC(S)O-, R7SC(S)O-,
+R7R8NC(S)O-, R7OC(NR9)O-, R7SC(NR9)O-, R7R8NC(NR9)O-, alkanoyloxy,
+alkenoyloxy, alkynoyloxy, aroyloxy, hetaroyloxy;</claim-text><claim-text>alkoxycarbonylaminoalkyl;</claim-text><claim-text>-C(O)OH, -C(O)OR7, -C(O)SR7, -C(O)NR7R8, -C(S)OR7, -C(S)SR7,
+-C(S)NR7R8;</claim-text><claim-text>-C(=NR7R8)H, -C(=NR7)OR8, -C(=NR7)SR8, -C(=NR7)NR8R9</claim-text><claim-text>-S(O)R7, -SO2R7, -SO3R7, -SO2NR7R8, -SO2SR7,
+pentafluorophenylsulphonyl, alkoxysulphinyl;</claim-text><claim-text>N-alkylaminosulphinyl, and N,N-dialkylaminosulphinyl;
+and</claim-text><claim-text>when Het represents an unsaturated or partially saturated ring, Y may also be
+selected from =O, =NR6 and =S;</claim-text><claim-text>when G represents oxygen and Z represents alkyl, or when G is a direct bond
+and Z represents hydrogen, Y may also be chosen from halogen, nitro, cyano and
+alkylthio, cycloalkyl, alkenyl, alkynyl, aryl and heteroaryl;</claim-text></claim-text></claim-text><claim-text>all alkyl, cycloalkyl, alkenyl, alkynyl, aryl and heteroaryl may optionally be
+substituted with one or several R5 and/or R6;</claim-text><claim-text>R7, R8, R9 and R10, which may be the same or different, are each chosen from
+hydrogen, linear or branched C1-C10 alkyl, cycloalkyl, alkenyl, alkynyl, aryl,
+heteroaryl, heterocyclyl, each being optionally substituted independently from
+another with one or several R5 and/or R6;</claim-text><claim-text>R7 and R8 on the one hand and R9 and R10 on the other hand, may further together
+form a saturated, partially saturated or unsaturated 3-8 membered ring containing
+optionally 0 to 3 heteroatoms chosen from among O, N, and S;</claim-text><claim-text>Xn is chosen from
+<claim-text><claim-text>hydrogen, halogen, -OH, -OR7, -ONR7R8, -SH, -SR7, -S(O)R7, -SO2R7,
+-SO2NR7R8, -C(O)R7, -C(O)OR7, -C(O)NR7R8, -NR7R8, nitro, thiocyanato, azido,
+cyano, pentafluorosulphonyl, -P(O)(OR7)2, -P(O)(NR7R8)2, -P(O)R7R8, oxo (=O) and
+imino (=R7),</claim-text><claim-text>linear or branched C1-C10 alkyl, cycloalkyl, alkenyl, alkynyl, aryl, heteroaryl,
+and heterocyclyl, each of them being optionally substituted independently from
+another with one or several R5 and/or R6;</claim-text><claim-text>Xn and Xn+1 may also be joined together, thus forming a saturated, partially
+unsaturated or totally unsaturated 4- to 8-membered ring optionally comprising one
+or more heteroatoms chosen from sulphur, oxygen, nitrogen and phosphorus;
+all alkyl, cycloalkyl, alkenyl, alkynyl, aryl and heteroaryl may optionally be
+substituted with one or several R5 and/or R6;</claim-text></claim-text></claim-text><claim-text>T is chosen from
+<claim-text><claim-text>a direct bond,</claim-text><claim-text>a divalent radical chosen from -(C[R3]2)m-, -(C[R5]2)m-or -(CH2)m, where m
+can take a value between 1 and 12, limits included, and where the said radical can
+optionally be interrupted or ending with one or two heteroatoms chosen from
+nitrogen, oxygen and/or sulphur,</claim-text><claim-text>oxyalkylene, alkoxyalkylene, carbonyl (-CO-), oxycarbonyl (-O-CO-),
+carbonyloxy (-CO-O-), sulphinyl (-SO-), sulphonyl (-SO2-), oxysulphonyl (-O-SO2-),
+sulphonyloxy (-SO2-O-), oxysulphinyl (-O-SO-), sulphinyloxy (-SO-O-), thio (-S-),
+oxy (-O-), amino (-NR1-), vinyl (-C=C-), ethynyl (-C≡C-), -NR1-, -NR1O-, -ONR1-,
+-N=N-, -NR1-NR2-, -NR1-S-, -NR1-SO-, -NR1-SO2-, -S-NR1-, -SO-NR1-, -SO2-NR1-,
+-CO-NR1-O- or -O-NR1-CO-;</claim-text></claim-text></claim-text></claim-text>
+as well as all eventual N-oxides, geometrical and/or optical isomers, enantiomers
+and/or diastereoisomers, tautomeric forms, salts and metal and metalloid complexes
+thereof.</claim-text></claim><claim num="2"><claim-text>Compounds according to Claim 1 for which Het (representing "heterocycle")
+represents saturated, partially unsaturated or aromatic monocycle or bicycles
+containing from 4 to 10 ring units, comprising at least one heteroatom chosen from
+nitrogen, oxygen, sulphur, silicon and phosphorus.</claim-text></claim><claim num="3"><claim-text>Compounds according to Claim 1or 2, for which the sub-unit P-Q1-T-Q2 is
+more precisely defined such that:
+<claim-text><claim-text>P is chosen from -C(O)-, -C(S)-, -SO2-, and -P(O)(OR1)-,</claim-text><claim-text>Q1 represents -NR3R4, where R3 represents hydrogen and where R4 is chosen
+from alkyl, cycloalkyl, aryl, heteroaryl optionally substituted with one or several
+identical or different R5 and/or R6,</claim-text><claim-text>T is chosen from a direct bond, -(CH2)m-, where m can take a value between 1
+and 6, limits included, and where the said radical can optionally be interrupted or
+ending with one or two heteroatoms chosen from nitrogen, oxygen and/or sulphur, an
+oxyalkylene, alkoxyalkylene, carbonyl (-CO-), oxycarbonyl (-O-CO-), carbonyloxy
+(-CO-O-), sulphinyl (-SO-), sulphonyl (-SO2-), oxysulphonyl (-O-SO2-),
+sulphonyloxy (-SO2-O-), oxysulphinyl (-O-SO-), sulphinyloxy (-SO-O-), thio (-S-),
+oxy (-O-), amino (-NR1-), vinyl (-C=C-), ethynyl (-C≡C-), -NR1-, -NR1O-, -ONR1-,
+-N=N-, -NR1-NR2-, -NR1-S-, -NR1-SO-, -NR1-SO2-, -S-NR1-, -SO-NR1-, -SO2-NR1-,
+-CO-NR1-O- and -O-NR1-CO- radical,</claim-text><claim-text>Q2 is chosen from hydrogen, alkyl, cycloalkyl, aryl, and heteroaryl optionally
+substituted with one or several R5 and/or R6 independently chosen from another,
+the other substituants being as defined in Claim 1, as well as the eventual N-oxides,
+geometrical and/or optical isomers and enantiomers, tautomeric forms, salts and
+metal and metalloid complexes thereof.</claim-text></claim-text></claim-text></claim><claim num="4"><claim-text>Compounds according to any of Claims 1 to 3, wherein Y is chosen
+from -SiR7R8R9, -NH2, -NR7R8, -NR7-NR8R9, -ONR7R8, -ON=CR7R8,
+-NR7NR8(CO)R9, -NR7N=CR8R9, -NR7C(O)OR8, -NR7C(O)SR8, -NR7C(O)NR8R9,
+-NR7C(S)OR8, -NR7C(S)SR8, -NR7C(S)NR8R9, -NR7C(NR8)OR9, -NR7C(NR8)SR9,
+-NR7C(NR8)NR9R10, -NR7SOnR7, -NR7SOnOR7, -NR7SOnNR7R8, -NR7SOnSR7,
+where n represents 0, 1 or 2, cycloalkyloxy, alkenyloxy, alkenylamino, alkynyloxy,
+alkenylthio, alkynylthio, R7OC(O)O-, R7SC(O)O-, R7R8NC(O)O-, R7OC(S)O-,
+R7SC(S)O-, R7R8NC(S)O-, R7OC(NR9)O-, R7SC(NR9)O-, R7R8NC(NR9)O-,
+alkanoyloxy, alkenoyloxy, alkynoyloxy, aroyloxy, hetaroyloxy, -C(O)OH,
+-C(O)OR7, -C(O)SR7, -C(O)NR7R8, -C(S)OR7, -C(S)SR7, -C(S)NR7R8,
+-C(=NR7R8)H, -C(=NR7)OR8, -C(=NR7)SR8, -C(=NR7)NR8R9, -S(O)R7, -SO2R7,
+-SO3R7, -SO2NR7R8, -SO2SR7, pentafluorophenylsulphonyl, alkoxysulphinyl,
+N-alkylaminosulphinyl, N,N-dialkylaminosulphinyl, arylsulphinyl, and
+alkoxycarbonyloxy,
+when Het represents an unsaturated ring, Y may also be selected from =O, =NR6 and
+=S;
+<claim-text><claim-text>when G represents oxygen and Z represents alkyl, or when G is a direct bond
+and Z represents hydrogen, Y may also be chosen from halogen, nitro, cyano,
+alkylthio, cycloalkyl, alkenyl, alkynyl, aryl and heteroaryl;</claim-text></claim-text>
+the other substituants being as defined in Claim 1,
+as well as the eventual N-oxides, geometrical and/or optical isomers and
+enantiomers, tautomeric forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="5"><claim-text>Compounds according to any of the preceding Claims, for which Y is
+chosen from
+<claim-text><claim-text>-SiR7R8R9,</claim-text><claim-text>-NH2, -NR7R8, -NR7-NR8R9, -ONR7R8, -ON=CR7R8, -NR7NR8(CO)R9,</claim-text><claim-text>-NR7N=CR8R9,</claim-text><claim-text>-NR7C(O)OR8, -NR7C(O)SR8, -NR7C(O)NR8R9, -NR7C(S)OR8, -NR7C(S)SR8,</claim-text><claim-text>-NR7C(S)NR8R9, -NR7C(NR8)OR9, -NR7C(NR8)SR9, -NR7C(NR8)NR9R10,</claim-text><claim-text>-C(O)OH, -C(O)OR7, -C(O)SR7, -C(O)NR7R8, -C(S)OR7, -C(S)SR7, -C(S)NR7R8,</claim-text><claim-text>-C(=NR7R8)H, -C(=NR7)OR8, -C(=NR7)SR8, -C(=NR7)NR8R9,</claim-text><claim-text>-S(O)R7, -SO2R7, -SO3R7, -SO2NR7R8, -SO2SR7, pentafluorophenylsulphonyl,
+alkoxysulphinyl, N-alkylaminosulphinyl, N,N-dialkylaminosulphinyl, arylsulphinyl,
+alkoxycarbonyloxy, substituants R7, R8, R9 as being as previously defined,</claim-text></claim-text>
+the other substituants being as defined in Claim 1,
+as well as the eventual N-oxides, geometrical and/or optical isomers and
+enantiomers, tautomeric forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="6"><claim-text>Compounds according to Claim 1, having the following
+characteristics, taken separately or in combination:
+<claim-text><claim-text>Xn is chosen from hydrogen, alkyl, -SO2R7, -C(O)OR7, and -P(O)(OR7)2,</claim-text><claim-text>G represents oxygen, sulphur or a direct bond,</claim-text><claim-text>Z is chosen from hydrogen, halogen, alkyl, allyl, propargyl, alkanoyl, aroyl, hetaroyl,
+alkoxycarbonyl, alkenoxycarbonyl, aryloxycarbonyl, heteroaryloxycarbonyl,
+N-alkylaminocarbonyl, N,N-dialkylaminocarbonyl, alkylthiocarbonyl,
+alkoxythiocarbonyl, N-alkylaminothiocarbonyl, alkylcarbonyl, alkoxycarbonyl,
+N-alkylaminocarbonyl, N,N-dialkylaminocarbonyl, N,N-dialkylaminothiocarbonyl,
+dialkylphosphatyl, diarylphosphatyl, alkylarylphosphatyl, trialkylsilyl, alkylarylsilyl,
+triarylsilyl, alkylsulphonyl, arylsulphonyl, alkoxysulphonyl, aryloxysulphonyl,
+aminosulphonyl, N-alkylaminosulphonyl, N,N-dialkylaminosulphonyl,
+N-arylaminosulphonyl,, N,N-diarylaminosulphonyl, alkoxysulphinyl,
+alkylaminosulphinyl, alkylsulphinyl and arylsulphinyl, where all alkyl, alkoxy,
+alkenyl, alkynyl, cycloalkyl, heteroaryl and aryl group may optionally be substituted
+by one or several R5 and/or R6,</claim-text><claim-text>Y is chosen from trialkylsilyl, amino, -NR7C(O)OR8, -NR7C(O)NR8R9,
+-NR7C(O)OR8, -NR7SOnR7 with n = 1 or 2, S(O)R7, -SO2R7, -SO3R7, -CO2H,
+C(O)OR7, -C(=NR7)H, -C(O)NR7R8; Y can also be =O, =NR6, =S, where Het
+signifies an unsaturated ring;</claim-text><claim-text>Y can also be halogen, nitro, alkylthio and alkoxy when G = oxygen and Z = alkyl,
+cycloalkyl, alkenyl, alkynyl, aryl, heteroaryl or when G = bond and Z = H,</claim-text><claim-text>P represents -C(O)- or -SO2-,</claim-text><claim-text>T represents a direct bond, or is chosen from oxy (-O-), thio (-S-), carbonyl -C(O)-and
+-(CH2)m, m being an integer from 1 to 6,</claim-text><claim-text>Q1 represents -NR3R4, where R3 represents hydrogen and R4 is chosen from alkyl,
+cycloalkyl, aryl, heteroaryl optionally substituted with one or several R5 and/or R6
+independently chosen from another,</claim-text><claim-text>Q2 is chosen from hydrogen, alkyl, cycloalkyl, aryl, heteroaryl optionally substituted
+with one or several R5 and/or R6 independently chosen from another,</claim-text></claim-text>
+the other substituants being as defined in Claim 1, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="7"><claim-text>Compounds according to Claim 1 having the following characteristics,
+taken individually or in combination:
+<claim-text><claim-text>Xn is chosen from hydrogen, alkyl, -SO2R7, -C(O)OR7, and -P(O)(OR7)2,</claim-text><claim-text>G represents a direct bond or oxygen,</claim-text><claim-text>Z is chosen from hydrogen, halogen, alkyl, alkoxycarbonyl, and alkanoyl,</claim-text><claim-text>Y is chosen from trialkylsilyl, amino, -NR7C(O)OR8, -SR7, -SO2R7, -CO2H,
+C(O)OR7, -C(=NR7)H, -C(O)NR7R8,</claim-text><claim-text>Y can also be =O, =NR6, =S, where Het signifies an unsaturated ring,</claim-text><claim-text>Y can also be halo, nitro, alkylthio and alkoxy when G = oxygen and Z = alkyl,
+cycloalkyl, alkenyl, alkynyl, aryl or heteroaryl or when G = bond and Z = H,</claim-text><claim-text>P represents -C(O)- or -SO2-,</claim-text><claim-text>Q1 represents -NR3R4, where R3 represents hydrogen and R4 is chosen from alkyl,
+cycloalkyl, aryl, and heteroaryl optionally substituted with one or several R5 and/or
+R6 independently chosen from another,</claim-text><claim-text>T represents a direct bond, or is chosen from oxygen, sulphur, -C(O)-, and -(CH2)m,
+m having a value of between 1 and 6,</claim-text><claim-text>Q2 is chosen from hydrogen, alkyl, cycloalkyl, aryl, and heteroaryl optionally
+substituted with one or several R5 and/or R6 independently chosen from another,</claim-text></claim-text>
+the other substituants being as defined in Claim 1, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="8"><claim-text>Compounds according to Claim 1, having the following
+characteristics:
+<claim-text><claim-text>Het represents thiophene,</claim-text><claim-text>Y is chosen from bromine, alkylthio, -SiR7R8R9, -SO2R7, NH2, -N=CR7R8,
+-NC(O)OR7, CO2H, -C(=NR7)H, and -SO2R7,</claim-text><claim-text>n is equal to 1,</claim-text><claim-text>X1 represents hydrogen or alkylthio,</claim-text><claim-text>G represents oxygen,</claim-text><claim-text>Z is chosen from H, alkyl, alkanoyl, alkylsulphonyl, and arylsulphonyl,</claim-text><claim-text>P represents -C(O)-,</claim-text><claim-text>Q1 represents -NR3R4,</claim-text><claim-text>T is a direct bond or represents -O-,</claim-text><claim-text>Q2 is chosen from hydrogen and R3, R3 being alkyl or aryl,</claim-text><claim-text>R4 represents hydrogen,</claim-text><claim-text>R7 represents alkyl or aryl,</claim-text></claim-text>
+the other substituants being as defined in Claim 1, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="9"><claim-text>Compounds according to Claim 1, having the following
+characteristics:
+<claim-text><claim-text>Het represents pyrrole,</claim-text><claim-text>Y is chosen from -NH2, -NR7R8, -NC(O)OR7, CO2H, -C(O)OR7,
+-C(O)NR7R8, -SO2R7, and -CO2H,</claim-text><claim-text>n represents 1 or 2,</claim-text><claim-text>X1 represents hydrogen,</claim-text><claim-text>X2 is chosen from alkyl, -SO2R7, -C(O)OR7, and -P(O)(OR7)2,</claim-text><claim-text>G represents -O-,</claim-text><claim-text>Z is chosen from hydrogen, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</claim-text><claim-text>P represents -C(O)-,</claim-text><claim-text>Q1 represents -NR3R4, or -OR3,</claim-text><claim-text>T represents a direct bond, or -O-,</claim-text><claim-text>Q2 is chosen from hydrogen and R3,</claim-text><claim-text>R3 is chosen from alkyl, and aryl,</claim-text><claim-text>R4 represents hydrogen,</claim-text><claim-text>R7 and R8 which are the same or different are independently chosen from
+alkyl, alkenyl, and aryl, R7 and R8 optionally forming an unsaturated or saturated
+cycle,</claim-text></claim-text>
+the other substituants being as defined in Claim 1, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="10"><claim-text>Compounds according to Claim 1, having the following
+characteristics:
+<claim-text><claim-text>Het represents pyrazole,</claim-text><claim-text>n represents 1,</claim-text><claim-text>X1 is chosen from alkyl, -SO2R7, -C(O)OR7, and -P(O)(OR7)2,</claim-text><claim-text>Y is chosen from -NH2, -NO2, -NHC(O)OR7, -NHC(O) R7, -NR7R8, -SO2R7,
+and -CO2H,</claim-text><claim-text>G represents a direct bond or -O-,</claim-text><claim-text>Z is chosen from hydrogen, bromine, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</claim-text><claim-text>P represents -C(O)-,</claim-text><claim-text>Q1 is chosen from -NR3R4, and -OR3,</claim-text><claim-text>T represents a direct bond or -O-,</claim-text><claim-text>Q2 is chosen from hydrogen and R3,</claim-text><claim-text>R3 is chosen from hydrogen, alkyl, and aryl,</claim-text><claim-text>R4 represents hydrogen,</claim-text><claim-text>R7 and R8 which are the same or different are independently chosen from
+hydrogen, alkyl, alkenyl, and aryl,</claim-text></claim-text>
+the other substituants being as defined in Claim 1, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="11"><claim-text>Compounds according to Claim 1, having the following
+characteristics:
+<claim-text><claim-text>Het represents isothiazole,</claim-text><claim-text>n represents 0,</claim-text><claim-text>Y is chosen from -NH2, -NO2, -NHC(O)R7, -NR7R8, -SO2R7, -NHC(O)OR7,
+and -CO2H,</claim-text><claim-text>G represents a direct bond or -O-,</claim-text><claim-text>Z is chosen from hydrogen, bromine, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</claim-text><claim-text>P represents -C(O)-,</claim-text><claim-text>Q1 is chosen from -NR3R4, and -OR3,</claim-text><claim-text>T represents a direct bond or -O-,</claim-text><claim-text>Q2 is chosen from hydrogen and R3,</claim-text><claim-text>R3 is chosen from hydrogen, alkyl, and aryl,</claim-text><claim-text>R4 represents hydrogen,</claim-text><claim-text>R7 and R8 which are the same or different are independently chosen from
+hydrogen, alkyl, alkenyl, and aryl,</claim-text></claim-text>
+the other substituants being as defined in Claim 1, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="12"><claim-text>Compounds according to Claim 1, having the following
+characteristics:
+<claim-text><claim-text>Het represents isoxazole,</claim-text><claim-text>n is 0,</claim-text><claim-text>Y is chosen from -NH2, -CO2H, -NHC(O)OR7, -CO2R7, -NR7R8, -SO2R7, and
+-CO2H,</claim-text><claim-text>G represents -O-,</claim-text><claim-text>Z is chosen from hydrogen, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</claim-text><claim-text>P represents -C(O)-</claim-text><claim-text>Q1 is chosen from -NR3R4, and OR3,</claim-text><claim-text>T is a direct bond or is -O-,</claim-text><claim-text>Q2 is chosen from hydrogen and R3,</claim-text><claim-text>R3 is chosen from alkyl and aryl,</claim-text><claim-text>R4 represents hydrogen,</claim-text><claim-text>R7 and R8, which are identical or different, are independently chosen from
+hydrogen, alkyl, alkenyl and aryl,</claim-text></claim-text>
+the other substituants being as defined in Claim 1, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="13"><claim-text>Compounds according to Claim 1, having the following
+characteristics:
+<claim-text><claim-text>Het represents pyridine,</claim-text><claim-text>n is 1 or 2,</claim-text><claim-text>X1 and X2 identical or different are independently chosen from hydrogen,
+-SO2R7, and -C(O)OR7,</claim-text><claim-text>Y is chosen from -NH2, -NR7R8, -C(O)NR7R8, -SO2R7, -NHC(O)OR7,
+-CO2H, -CO2R7, and -NHC(O)R7,</claim-text><claim-text>G represents -O-,</claim-text><claim-text>Z is chosen from hydrogen, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</claim-text><claim-text>P is chosen from -C(O)-, -SO2-, and -P(O)(OR7)-,</claim-text><claim-text>Q1 is chosen from -NR3R4, and O-R3,</claim-text><claim-text>T is a direct bond or is -O-,</claim-text><claim-text>Q2 represents R3,</claim-text><claim-text>R3 is chosen from alkyl, and aryl,</claim-text><claim-text>R4 represents hydrogen,</claim-text><claim-text>R7 and R8, which are identical or different, are independently chosen from
+alkyl, alkenyl and aryl, or R7 and R8 may together form an unsaturated or saturated
+cycle,</claim-text></claim-text>
+the other substituants being as defined in Claim 1, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="14"><claim-text>Compounds according to Claim 1, having the following
+characteristics:
+<claim-text><claim-text>Het is chosen from pyrimidine and pyridazine,</claim-text><claim-text>n represents 1,</claim-text><claim-text>X1 is chosen from hydrogen, alkyl, -SR7 and -SO2R7,</claim-text><claim-text>Y is chosen from -NH2, -NR7R8, CO2H, -C(O)OR7, -C(O)NR7R8, -SO2R7,
+-NHC(O)OR7,</claim-text><claim-text>G represents a direct bond or is -O-,</claim-text><claim-text>Z is chosen from hydrogen, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</claim-text><claim-text>P represents -C(O)-,</claim-text><claim-text>Q1 is chosen from -NR3R4, and -OR3,</claim-text><claim-text>T represents a direct bond or is -O-,</claim-text><claim-text>Q2 is chosen from hydrogen and R3,</claim-text><claim-text>R3 is chosen from alkyl and aryl,</claim-text><claim-text>R4 represents hydrogen,</claim-text><claim-text>R7 and R8, which are identical or different, are independently chosen from
+alkyl, alkenyl and aryl, or R7 and R8 may together form an unsaturated or saturated
+cycle,</claim-text></claim-text>
+the other substituants being as defined in Claim 1, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="15"><claim-text>Compounds according to Claim 1, having the following
+characteristics:
+<claim-text><claim-text>Het represents pyranone,</claim-text><claim-text>n is chosen from 1 and 2,</claim-text><claim-text>X1,X2 which are identical or different, are independently chosen from
+hydrogen, alkyl, and alkylthio,</claim-text><claim-text>Y is chosen from =O, and =NR7,</claim-text><claim-text>G represents a direct bond or is -O-,</claim-text><claim-text>Z is chosen from hydrogen, alkyl, alkanoyl, alkylsulphonyl, and
+arylsulphonyl,</claim-text><claim-text>P represents -C(O)-,</claim-text><claim-text>Q1 represents -NR3R4,</claim-text><claim-text>T represents a direct bond or is -O-,</claim-text><claim-text>Q2 is chosen from hydrogen and R3,</claim-text><claim-text>R3 is chosen from alkyl and aryl,</claim-text><claim-text>R4 represents hydrogen,</claim-text></claim-text>
+the other substituants being as defined in Claim 1, as well as the optional N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof.</claim-text></claim><claim num="16"><claim-text>Process for preparing the compounds according to one of Claims 1 to
+15, characterised by the reaction Scheme 1
+in which the various substituants are as defined in Claim 1,
+by effecting a reaction between a substituted heterocyclic acid or acid derivative (a)
+with a nucleophilic compound of formula (b), wherein W represents a hydroxy group
+(-OH) present in the free acid -P-OH or a group obtained after activation of the free
+acid -P-OH.</claim-text></claim><claim num="17"><claim-text>Fungicidal compositions, comprising, as active material, an effective
+amount of at least one compound according to any one of Claims 1 to 15 or one of
+the N-oxides, geometrical and/or optical isomers, enantiomers and/or
+diastereoisomers, tautomeric forms, salts and metal and metalloid complexes thereof,
+that are agriculturally acceptable.</claim-text></claim><claim num="18"><claim-text>Fungicidal compositions according to Claim 17, comprising, besides
+the active material according to any one of Claims 1 to 15 or one of the N-oxides,
+geometrical and/or optical isomers, enantiomers and/or diastereoisomers, tautomeric
+forms, salts and metal and metalloid complexes thereof, that are agriculturally
+acceptable, an agriculturally acceptable solid or liquid support and/or a surfactant
+which is also agriculturally acceptable, as well as, optionally, one or more other
+fungicides, insecticides, herbicides, acaricides, attractants or pheromones and other
+compounds with biological activity.</claim-text></claim><claim num="19"><claim-text>Fungicidal compositions according to either of Claims 17 and 18,
+comprising from 0.05% to 99% by weight of active material.</claim-text></claim><claim num="20"><claim-text>Process for preventively or curatively combating the phytopathogenic
+fungi of crops, characterised in that an effective (agronomically effective) and
+non-phytotoxic amount of an active material of formula (I) according to one of
+Claims 1 to 15, or of a fungicidal composition comprising an active material of
+formula (I), is applied to the plant seeds or to the plant leaves and/or to the fruits of the
+plants or to the soil in which the plants are growing or in which it is desired to grow
+them.</claim-text></claim><claim num="21"><claim-text>Process according to Claim 20, in which rice, corn, cotton, cereals,
+fruit trees, oil-yielding crops, market-garden and vegetable crops, tomato, lettuce,
+protein-yielding crops, pea, solanacea plants, beetroot, flax and woodland trees, as
+well as genetically modified homologues of these crops, are treated.</claim-text></claim><claim num="22"><claim-text>Process according to either of Claims 20 and 21, in which the seeds of
+cereals, rice, corn, cotton, fruit trees, woodland trees, oil-yielding crops,
+protein-yielding crops, market-garden crops, solanacea plants, beetroot or flax, as
+well as genetically modified homologues of these crops, are treated.</claim-text></claim><claim num="23"><claim-text>Process according to any one of Claims 20 to 22, characterised in that
+the plants are genetically modified plants.</claim-text></claim><claim num="24"><claim-text>Process according to any one of Claims 20 to 23, in which the dose of
+active material applied is between 10 g and 800 g of active material per hectare, in
+the case of foliar treatments.</claim-text></claim><claim num="25"><claim-text>Process according to Claim 24, in which the dose of active material
+applied is between 50 g and 300 g of active material per hectare in the case of foliar
+treatments.</claim-text></claim><claim num="26"><claim-text>Process according to any one of Claims 20 to 23, in which the dose of
+active material applied is between 2 and 200 g of active material per 100 kg of seed,
+in the case of seed treatments.</claim-text></claim><claim num="27"><claim-text>Process according to Claim 26, in which the dose of active material
+applied is between 3 g and 150 g per 100 kg of seed, in the case of seed treatments.</claim-text></claim><claim num="28"><claim-text>Method for preventively or curatively treating lumber using the
+compounds according to one of Claims 1 to 15 or compositions containing them,
+against fungal attack, by direct application, sprinkling, dipping or injection.</claim-text></claim><claim num="29"><claim-text>Use of the compounds according to one of Claims 1 to 15 in human
+and animal therapy for the treatment of fungal diseases.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

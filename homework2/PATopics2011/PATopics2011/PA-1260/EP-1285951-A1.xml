@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1285951-A1" country="EP" doc-number="1285951" kind="A1" lang="EN" family-id="27347362" status="new" date-produced="20090516" date="20030226"><bibliographic-data><publication-reference ucid="EP-1285951-A1" status="new" fvid="23678053"><document-id status="new" format="original"><country>EP</country><doc-number>1285951</doc-number><kind>A1</kind><date>20030226</date></document-id></publication-reference><application-reference ucid="EP-02018716-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>02018716</doc-number><kind>A</kind><date>20020821</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2001251482-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2001251482</doc-number><kind>A</kind><date>20010822</date></document-id></priority-claim><priority-claim ucid="JP-2001251699-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2001251699</doc-number><kind>A</kind><date>20010822</date></document-id></priority-claim><priority-claim ucid="JP-2002211562-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002211562</doc-number><kind>A</kind><date>20020719</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/01        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/01        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09D  11/00C20</classification-symbol><classification-symbol scheme="EC">C09D  11/00C2B</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Tinte, Tintenpatrone, Aufzeichnungseinheit, Tintenstrahlaufzeichnungsverfahren, Tintenstrahlaufzeichnungsgerät und Verfahren zum Stabilisieren von Tintenausstoss</invention-title><invention-title load-source="ep" status="new" lang="EN">Ink, ink cartridge, recording unit, ink jet recording method, ink jet recording apparatus and method for stabilizing ink discharge</invention-title><invention-title load-source="ep" status="new" lang="FR">Encre, cartouche d'encre, unité d'enregistrement, méthode d'enregistrement par jet-d'encre, appareil d'enregistrement par jet d'encre et méthode pour stabiliser l'expulsion de l'encre</invention-title><citations><patent-citations><patcit ucid="EP-0586101-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0586101</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0712913-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0712913</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>CANON KK</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>CANON KABUSHIKI KAISHA</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>CANON KABUSHIKI KAISHA</last-name><address><street>3-30-2 Shimomaruko</street><city>Ohta-ku, Tokyo</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>AOKI MAKOTO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>KOIKE SHOJI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NITO YASUHIRO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SHIROTA KOROMO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SUZUKI MARIKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TAKAYAMA HIDEKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>AOKI, MAKOTO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KOIKE, SHOJI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>NITO, YASUHIRO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SHIROTA, KOROMO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SUZUKI, MARIKO</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>TAKAYAMA, HIDEKI</name></addressbook></inventor><inventor status="new"  format="original"><addressbook><last-name>AOKI, MAKOTO</last-name><address><street>Canon Kabushiki K., 3-30-2, Shimomaruko, Ohta-ku</street><city>Tokyo</city><country>JP</country></address></addressbook></inventor><inventor status="new"  format="original"><addressbook><last-name>KOIKE, SHOJI</last-name><address><street>Canon Kabushiki K., 3-30-2, Shimomaruko, Ohta-ku</street><city>Tokyo</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NITO, YASUHIRO</last-name><address><street>Canon Kabushiki K., 3-30-2, Shimomaruko, Ohta-ku</street><city>Tokyo</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SHIROTA, KOROMO</last-name><address><street>Canon Kabushiki K., 3-30-2, Shimomaruko, Ohta-ku</street><city>Tokyo</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SUZUKI, MARIKO</last-name><address><street>Canon Kabushiki K., 3-30-2, Shimomaruko, Ohta-ku</street><city>Tokyo</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TAKAYAMA, HIDEKI</last-name><address><street>Canon Kabushiki K., 3-30-2, Shimomaruko, Ohta-ku</street><city>Tokyo</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Leson, Thomas Johannes Alois, Dipl.-Ing.</last-name><address><street>Tiedtke-Bühling-Kinne &amp;amp; Partner GbR, TBK-Patent, Bavariaring 4</street><city>80336 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>Provided is an ink-jet ink suitable for high
+speed printing and reduced ink ejection amount, which
+ink comprise a water-insoluble coloring material
+dispersed in water with a resinous dispersant,
+glycerin, ethylene urea, and polyoxyethylene alkyl
+ether with HLB not lower than 13.</p></abstract><description load-source="ep" status="new" lang="EN"><heading>BACKGROUND OF THE INVENTION</heading><heading>Field of the Invention</heading><p num="0001">The present invention relates to a pigment ink
+for ink jet recording systems, especially suitable
+for the thermal type ink jet recording system, which
+will provide ink discharge stability and durability
+to the recording head. The present invention also
+relates to an ink cartridge, recording unit, an ink
+jet recording method using them, an ink jet recording
+apparatus and a method for stabilizing the ink
+discharge.</p><heading>Related Background Art</heading><p num="0002">The ink jet recording method is a method of
+recording by applying energy to ink to fly an ink
+droplet from a nozzle to deposit the ink onto a
+recording medium such as paper.</p><p num="0003">Recently the size of an ink droplet discharged
+from a single nozzle has become smaller and smaller
+in order to meet the need for the ink jet recorded
+image of extremely high quality comparable to that of
+silver halide photography, and now ink jet printers
+that eject an ink droplet of not larger than about 10
+pl (picoliter) are commercially available. Also with 
+increasing demand for higher printing speed, it is
+urgently required to cope with higher drive frequency
+(for example 5 kHz or higher, preferably 10 kHz or
+higher).</p><heading>SUMMARY OF THE INVENTION</heading><p num="0004">Recently, not only preciseness but also
+fastness such as light fastness are required for the
+ink jet recorded image. Thus, use of water-insoluble
+coloring materials such as pigments has started.
+However, it is still insufficient the study of
+application of ink containing a water-insoluble
+coloring material in the high-speed ink jet recording
+system to obtain precise images.</p><p num="0005">Under such situation, the present inventors
+have been studying the possibility of high-speed
+thermal ink jet recording of highly precise image
+with ink containing water-insoluble pigment dispersed
+in an aqueous medium with a resinous dispersant. In
+the course of such investigation, they found that
+such an ink may not fail to keep up with increasing
+drive frequency of the thermal ink jet head, thereby
+causing unstable ink discharge. As a result of
+further investigation based on such finding, the
+present inventors considered that, when such an ink
+was heated by the heater of the thermal ink jet head,
+the pigment and the resinous dispersant physically 
+adsorbing to the pigment separated temporarily to
+lose dispersion stability, which would cause ink
+discharge instability. In case of low drive
+frequencies, even if the dispersion state is
+disrupted temporarily, the stability of dispersion is
+restored for example by re-adsorption of the resinous
+dispersant to the pigment, but with higher drive
+frequencies, the restoration of the dispersion
+stability is insufficient resulting in instability of
+ink discharge. Thus, to meet the aforementioned
+requirements based on the future technical trend, the
+present inventors have done intensive study to obtain
+an ink for ink jet printer, particularly for thermal
+ink jet recording, that can form an image of higher
+preciseness at a higher recording speed while
+maintaining the basic properties required for the ink
+jet recording ink such as the start-up property
+(discharge ability of the ink from a nozzle after
+temporarily suspension of discharge) and the clogging
+resistance in the nozzle. As a result, they have
+found that ink of a particular composition can
+achieve aforementioned objects, thereby the present
+invention was made.</p><p num="0006">An object of the present invention is to
+provide an ink jet ink containing a water-insoluble
+coloring material dispersed in water with a resinous
+dispersant that can cope with further increase in the 
+recording speed and further decrease in the droplet
+size.</p><p num="0007">Another object of the present invention is to
+provide an ink jet recording method capable of
+forming a high quality image at a high speed and in
+stable manner.</p><p num="0008">Still another object of the present invention
+is to provide an ink cartridge, a recording unit and
+an ink jet recording apparatus applicable to the
+above-mentioned ink jet recording method.</p><p num="0009">Still another object of the present invention
+is to provide a method for stabilizing ink discharge
+from a thermal ink jet recording head when the liquid
+droplet size is reduced and/or the drive frequency is
+increased.</p><p num="0010">According to an embodiment of the present
+invention, there is provided an ink jet ink
+comprising water, a water-insoluble coloring material,
+a resinous dispersant for dispersing said water-insoluble
+coloring material into water, glycerin,
+ethylene urea, and polyoxyethylene alkyl ether having
+HLB of 13 or more.</p><p num="0011">According to another embodiment of the present
+invention, there is provided an ink cartridge
+comprising an ink container which contains the
+aforementioned ink.</p><p num="0012">According to another embodiment of the present 
+invention, there is provided a recording unit
+comprising an ink container which contains the
+aforementioned ink, and an ink jet head for
+discharging the ink.</p><p num="0013">According to another aspect of the present
+invention, there is provided an ink jet recording
+method comprising a step of discharging the
+aforementioned ink from an ink jet recording head.</p><p num="0014">According to another embodiment of the present
+invention, there is provided an ink jet recording
+apparatus comprising an ink container which contains
+the aforementioned ink, and an ink jet recording head
+for discharging the ink.</p><p num="0015">According to still another embodiment of the
+present invention, there is provided a method for
+stabilizing ink discharge from an ink jet recording
+head when the ink jet recording head is driven at a
+frequency of not less than 5kHz, the ink jet
+recording head's ink discharge amount per discharge
+operation being not more than 20pl, comprising the
+step of utilizing an ink of claim 7 for discharging
+with the ink jet recording head.</p><p num="0016">The reason why such a configuration can
+stabilize ink discharge in thermal ink jet recording
+even at high drive frequencies is not yet clarified,
+but it is presumed that polyoxyethylene alkyl ether
+of HLB not lower than 13, glycerin and ethylene urea 
+function synergistically to rapidly restore the
+dispersion state of the ink temporally disturbed on
+the heater surface.</p><heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading><p num="0017"><sl><li>Fig. 1 is a schematic perspective view showing
+the principal part of an ink jet printer capable of
+being equipped with a liquid discharge head;</li><li>Fig. 2 is a schematic perspective view showing
+an ink jet cartridge equipped with a liquid discharge
+head;</li><li>Fig. 3 is a schematic view showing an
+embodiment of the ink cartridge of the present
+invention; and</li><li>Fig. 4 is a schematic view showing an
+embodiment of the recording unit of the present
+invention.</li></sl></p><heading>DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading><p num="0018">Now the present invention is described in
+detail by referring to preferred embodiments thereof.</p><p num="0019">As described above, an ink jet ink in an
+embodiment of the present invention has a feature
+that it comprises:
+<sl><li>(i) water;</li><li>(ii) a water-insoluble coloring material;</li><li>(iii) a resinous dispersant for dispersing the 
+water-insoluble coloring material in water;</li><li>(iv) glycerin;</li><li>(v) ethylene urea; and</li><li>(vi) polyoxyethylene alkyl ether having HLB not
+lower than 13.</li></sl></p><heading>[Liquid components]</heading><heading>(i) Water</heading><p num="0020">The ink of the present invention is a so-called
+aqueous ink jet ink, and the water content in the
+total weight of the ink is at least 50 % or higher,
+preferably 60 % or higher.</p><heading>(ii) Water-insoluble coloring material</heading><p num="0021">The water-insoluble coloring material to be
+employed in the present invention can be, for example,
+an organic pigment or an inorganic pigment.</p><p num="0022">As the pigment for black ink, for example,
+carbon black can be used advantageously. Examples of
+carbon black include furnace black, lamp black,
+acetylene black and channel black. Within such
+carbon black, particularly preferred is one having a
+primary particle size within a range of 15 to 40 nm,
+a specific surface area measured by BE method within
+a range of 50 to 300 m<sup>2</sup>/g, a DBP oil absorption
+amount within a range of 40 to 150 ml/100g, and a
+volatile content of 0.5 to 10 %.</p><p num="0023">As the pigment to be employed in color inks,
+organic pigments can be advantageously employed. 
+Examples of such organic pigments include insoluble
+azo pigments such as toluidine red, toluidine maroon,
+hanza yellow, benzidine yellow or pyrazolone red;
+soluble azo pigments such as lithol red, helio
+bordeaux, pigment scarlet or permanent red 2B; vat
+dye derivatives such as alizarin, indanthrone or
+thioindigo maroon; phthalocyanine pigments such as
+phthalocyanine blue or phthalocyanine green;
+quinachrydone pigments such as quinachrydone red or
+quinachrydone magenta; perylene pigments such as
+perylene red or perylene scarlet; isoindolinone
+pigments such as isoindolinone yellow or
+isoindolinone orange; imidazolone pigments such as
+benzimidazolone yellow, benzimidazolone orange or
+benzimidazolone red; pyranthrone pigments such as
+pyranthrone red or pyranthrone orange; thioindigo
+pigments; condensed azo pigments; diketopyrolopyrrole
+pigments; flavanthrone yellow;
+acylamide yellow; quinophthalone yellow; nickel azo
+yellow; copper azomethyne yellow, perynone orange;
+anthrone orange; dianthraquinonyl red; and dioxadine
+violet.</p><p num="0024">Also the example of the organic pigments,
+represented by the color index (C.I.) numbers,
+include C.I. pigment yellow 12, 13, 14, 17, 20, 24,
+55, 74, 83, 86, 93, 97, 98, 109, 110, 117, 120, 125,
+128, 137, 138, 139, 147, 148, 150, 151, 153, 154, 155, 
+166, 168, 180, 185; C.I. pigment orange 16, 36, 43,
+51, 55, 59, 61, 71; C.I. pigment red 9, 48, 49, 52,
+53, 57, 97, 122, 123, 149, 168, 175, 176, 177, 180,
+192, 202, 209, 215, 216, 217, 220, 223, 224, 226, 227,
+228, 238, 240, 254, 255, 272; C.I. pigment violet 19,
+23, 29, 30, 37, 40, 50; and C.I. pigment blue 15,
+15:1, 15:3, 15:4, 15:6, 22, 60, 64; C.I. pigment
+green 7, 36; C.I. pigment brown 23, 25, 26. Other
+pigments can also be used, but particularly preferred
+are C.I. pigment yellow 13, 17, 55, 74, 93, 97, 98,
+110, 128, 139, 147, 150, 151, 154, 155, 180, 185; C.I.
+pigment red 122, 202, 209; and C.I. pigment blue 15:3,
+15:4.</p><p num="0025">In the ink of the present invention, the amount
+of the water-insoluble coloring material to the
+entire weight of the ink may vary according to the
+intended coloring ability of the ink and the intended
+color hue to be reproduced on the recording medium,
+and also the quality of the ink jet image to be
+formed. Thus, it is not particularly limited as long
+as the practical physical properties as an ink jet
+ink can be maintained. In general, the upper limit
+is about 10 % of the total weight of the ink. The
+present invention is also applicable to so-called
+pale ink containing a coloring material at a
+concentration of about 0.1 to 0.5% in the ink. Such
+pale ink has low coloring ability and often is 
+employed for forming an ink jet image of silverhalide
+photographic quality. The present invention
+is, however, more effective with ink containing a
+coloring material at a high concentration, since the
+aforementioned disturbance of dispersion stability of
+the coloring material in the ink, which occurs in the
+vicinity of the heater during the thermal ink jet
+recording, tends to occur as the coloring material
+concentration increases.</p><heading>(iii) Resinous dispersant</heading><p num="0026">Any water-soluble resin known as a dispersant
+can be used as the resinous dispersant as long as it
+is comprised of a hydrophobic portion having an
+affinity to the water-insoluble coloring material and
+a hydrophilic portion having an affinity to water.
+Examples of such resinous dispersant include block
+copolymers, random copolymers, graft copolymers and
+salts thereof made with two or more kinds of monomers
+(at least one is a hydrophilic monomer) selected from
+styrene, styrene derivatives, vinylnaphthalene, and
+derivatives thereof, aliphatic alcohol esters of α,
+β-ethylenic unsaturated carboxylic acids, acrylic
+acid and derivatives thereof, maleic acid and
+derivatives thereof, itaconic acid and derivatives
+thereof, fumaric acid and derivatives thereof, vinyl
+acetate, vinylpyrrolidone, acryl amide and
+derivatives thereof. Among these, block copolymer is 
+particularly preferred for the present invention.</p><p num="0027">Needless to say, it is preferable that ink
+discharge is not at all or hardly affected by the
+resinous dispersant present in the ink in an amount
+required for dispersing the water-insoluble coloring
+material or more, in view of stabilization of ink
+discharge under high frequency drive, which is one of
+the objectives of the present invention. Among the
+aforementioned resinous dispersants, a substance
+having a block structure, namely a block copolymer,
+is particularly preferred for such an objective.</p><p num="0028">The block copolymer can be represented by, for
+example, AB, BAB, ABC etc., where A, B and C
+represent polymer blocks of different structures
+respectively. Block copolymers comprised of a
+hydrophobic block and a hydrophilic block of which
+block size is well balanced in contributing to the
+dispersion stability are particularly useful for the
+present invention. Also the hydrophobic block to
+which the coloring material ant binds may contain a
+functional group to enhance the specific interaction
+between the dispersant and the coloring material
+thereby further improving the dispersion stability.
+Due to its rheological properties, such a polymer is
+especially preferably used in an ink jet recording
+head utilizing thermal energy, particularly, in an
+ink jet recording head ejecting minute ink droplets, 
+more specifically, in an amount of 20 pl or less,
+more specifically within a range of 0.1 to 20 pl,
+particularly 0.1 to 15 pl and more particularly 0.1
+to 10 pl per one ejection operation. The amount of
+the polymer in the ink is variable depending on the
+structure, molecular weight and other properties of
+such polymer and other components of the ink
+composition. The weight-average molecular weight of
+the polymer selected in exercising the present
+invention is less than 30,000, preferably less than
+20,000 and more preferably within a range of 2,000 to
+10,000.</p><p num="0029">Methods for producing such polymers are
+disclosed in the Japanese Patent Applications Laidopen
+Nos. 05-179183, 06-136311, 07-053841, 10-87768,
+11-043639, 11-236502 and 11-269418.</p><p num="0030">Representative examples of the hydrophobic
+monomer employable in the block copolymer include,
+but are not limited to, benzyl acrylate, benzyl
+methacrylate, methyl methacrylate (MMA), ethyl
+methacrylate (EMA), propyl methacrylate, n-butyl
+methacrylate (BMA or NBMA), hexyl methacrylate, 2-ethylhexyl
+methacrylate (EHMA), octyl methacrylate,
+lauryl methacrylate (LMA), stearyl methacrylate,
+phenyl methacrylate, hydroxyethyl methacrylate (HEMA),
+hydroxypropyl methacrylate, 2-ethoxyethyl
+methacrylate, methacrylonitrile, 2-trimethylsiloxyehtyl 
+methacrylate, glycidyl methacrylate (GMA),
+p-toryl methacrylate, sorbyl methacrylate, methyl
+acrylate, ethyl acrylate, propyl acrylate, butyl
+acrylate, hexyl acrylate, 2-ethylhexyl acrylate,
+octyl acrylate, lauryl acrylate, stearyl acrylate,
+phenyl acrylate, 2-phenylethyl methacrylate,
+hydroxyethyl acrylate, hydroxypropyl acrylate,
+acrylonitrile, 2-trimethylsiloxyethyl acrylate,
+glycidyl acrylate, p-toryl acrylate and sorbyl
+acrylate. The preferred hydrophobic monomer is
+benzyl acrylate, benzyl methacrylate, 2-phenylethyl
+methacrylate, methyl methacrylate, butyl methacrylate
+or 2-ethylhexyl methacrylate, of which homopolymer or
+copolymer such as copolymer of methyl methacrylate
+and butyl methacrylate can be used for block
+copolymer.</p><p num="0031">Representative examples of the hydrophilic
+monomer employable in the block copolymer include,
+but are not limited to, methacrylic acid (MAA),
+acrylic acid, dimethylaminoethyl methacrylate
+(DMAEMA), diethylaminoethyl methacrylate, tertbutylaminoethyl
+methacrylate, dimethylaminoethyl
+acrylate, diethylaminoethyl acrylate, dimethylaminopropyl
+methacrylamide, methacrylamide, acrylamide and
+dimethyl-acrylamide. It is preferable to produce a
+block copolymer utilizing homopolymer or copolymer of
+methacrylic acid, acrylic acid or dimethylaminoethyl 
+methacrylate.</p><p num="0032">Acid-containing polymer can be produced either
+directly or from a monomer blocked by a blocking
+group that is removed after the polymerization.
+Examples of a blocked monomer to generate acrylic
+acid or methacrylic acid after deblocking include
+trimethylsilyl methacrylate (TMS-MAA), trimethylsilyl
+acrylate, 1-butoxyethyl methacrylate, 1-ethoxyethyl
+methacrylate, 1-butoxyethyl acrylate, 1-ethoxyethyl
+acrylate, 2-tetrahydropyranyl acrylate and 2-tetrahydropyranyl
+methacrylate.</p><p num="0033">When the head utilizing thermal energy is
+driven at a high frequency, for example, at 5 kHz or
+higher and in particularly 10 kHz or higher, use of
+such a block copolymer is very effective in improving
+the discharge properties.</p><p num="0034">The content of the resinous dispersant in the
+ink is within a range of 0.5 to 10 weight%,
+preferably 0.8 to 8 weight% and more preferably 1 to
+6 weight%. Within such range, the viscosity of the
+ink can be easily maintained in a range practical for
+the ink jet ink.</p><heading>(iv, v) Glycerin and Ethylene Urea</heading><p num="0035">Glycerin and ethylene urea are critically
+important components in maintaining high level ink
+jet properties of the present invention such as
+start-up property and anti-solidification resistance. 
+Such ink jet properties are significantly affected by
+following three factors:
+<sl><li>(1) water-holding ability of ink when it is left
+standing;</li><li>(2) flowability of ink when water is evaporated to
+a certain extent from the ink; and</li><li>(3) re-solubility of solidified substance when
+water has evaporated from the ink.</li></sl></p><p num="0036">Studying various solvents, the present
+inventors have found that a combination of glycerin
+and ethylene urea gives excellent solidification
+resistance to the ink containing the aforementioned
+components (ii) (pigment) and (iii) (dispersant),
+particularly when the ink is used with a head for
+minute droplet discharging.</p><p num="0037">At the same time, single use of these
+substances was studied. First, if glycerin was added
+to a level sufficient for providing solidification
+resistance, the ink viscosity became too high to
+achieve sufficient start-up property, since high
+viscosity is unfavorable for this property. Also it
+was found that high glycerin content sometimes caused
+break of the thermal ink jet heater in a prolonged
+printing durability test.</p><p num="0038">Next, single use of ethylene urea was studied
+to find that sufficient solidification resistance was
+not always obtained as required in the present 
+invention. In addition, ethylene urea in an
+excessive amount would result in kogation more
+frequently in the prolonged printing durability test.
+This kogation phenomenon is presumably attributed to
+inhibition of the interaction of the pigment and the
+resinous dispersant by excessive ethylene urea.</p><p num="0039">Based on the investigation result, the
+inventors have found a suitable range of glycerin and
+ethylene urea, which can provide satisfactory
+solidification resistance without excessively
+increasing the ink viscosity. In such a range, the
+start-up property is much improved in comparison with
+single use of one of these substances.</p><p num="0040">This is presumably because presence of ethylene
+urea having a film forming ability at a gas-liquid
+interface and glycerin allows formation of a film at
+the tip of the nozzle, a film of such a delicate
+strength that suppresses water evaporation but can be
+broken by the discharge energy.</p><p num="0041">The content of glycerin is preferably within a
+range of 3 to 15 weight%, more preferably 3.5 to 12
+weight% and most preferably 4 to 10 weight% in view
+of maintenance of satisfactory ink jet properties in
+cooperation with ethylene urea.</p><p num="0042">Similarly the content of ethylene urea is
+preferably within a range of 3 to 15 weight%, more
+preferably 4 to 12 weight%, and most preferably 5 to 
+10 weight%.</p><p num="0043">In the present invention, it is found that more
+eminent effect can be obtained from the
+aforementioned reasons if the mixing ratio by weight
+of glycerin (A) and ethylene urea (B) is within a
+range of A:B = 5:1 to 1:5, preferably 3:1 to 1:4 and
+more preferably 1.5:1 to 1:3.</p><p num="0044">It was also found that the combination of
+glycerin and ethylene urea provides satisfactory
+storability for the pigment ink utilizing resinous
+dispersant, in addition to the satisfactory start-up
+property and solidification resistance.</p><p num="0045">With conventional ink employing a resinous
+dispersant, the resinous dispersant tends to separate
+from the pigment during prolonged storage to dissolve
+into the aqueous medium, causing increase in the
+particle size of the pigment or ink viscosity due to
+the coagulation of the pigment particles of which
+dispersion state was disrupted.</p><p num="0046">Such a phenomenon occurs not only at a high
+temperature but also at a low temperature, differing
+from the storability of dye ink.</p><p num="0047">Again, it was found that the combination use of
+glycerin and ethyleneurea can suppress the increase
+in the pigment particle size or ink viscosity during
+storage not only at high-temperature (for example 30
+to 70°C) but also at low-temperature (for example at 
+0 to 10°C).</p><p num="0048">This is presumably because the interaction of
+glycerin, ethylene urea and the resinous dispersant
+surrounding the pigment reduces the tendency of the
+resinous dispersant being separated from the pigment
+and dissolved into the aqueous medium.</p><heading>(vi) Polyoxyethylene alkyl ether</heading><p num="0049">As explained above, the combined use of
+glycerin and ethylene urea provides ink with
+satisfactory in the start-up property, solidification
+resistance and ink storability.</p><p num="0050">Polyoxyethylene alkyl ether having an HLB not
+lower than 13 is the component that provides the ink
+containing the components (i) to (v) with
+adaptability for high-speed thermal ink jet recording,
+without spoiling the preferred ink jet properties due
+to the components (iv) and (v).</p><p num="0051">When the head heater of the thermal ink jet
+head was observed by a microscope after the discharge
+operation, the disrupted dispersion that will cause
+kogation on the heater at the bubble forming
+operation was not observed with addition of
+polyoxyetheyelene alkyl ether having HLB not lower
+than 13. Thus polyoxyetheyelene alkyl ether is
+considered to have a function to re-dissolve the
+product of disrupted dispersion. As already
+explained, the combination of glycerin and ethylene 
+urea has a strong ability of re-dissolving the
+agglomerated pigment, and the combination of these
+solvents and polyoxyethylene alkyl ether having an
+HLB not lower than 13 is considered to
+instantaneously re-dissolve the insoluble matters
+formed on the heater surface due to disrupted
+dispersion.</p><p num="0052">Polyoxyethylene alkyl ether mentioned above has
+a structure represented by the following formula:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R-O-(CH<sub>2</sub>CH<sub>2</sub>O)<sub>n</sub>H</st32:che>
+wherein R stands for an alkyl group, and n stands for
+an integer of 10 to 40.</p><p num="0053">Examples of polyoxyethylene alkyl ether having
+HLB not lower than 13 and not higher than 20 are not
+particularly limited. In the foregoing formula,
+alkyl group (R) in the hydrophobic portion may be of
+any carbon number as long as surface activity can be
+obtained. For example, it may be a lauryl, cetyl,
+stearyl, oleyl or behenyl group, and is preferably an
+alkyl group with 16 to 18 carbon atoms, more
+preferably a cetyl group. On the other hand, the
+number (n) of ethylene oxides in the hydrophilic
+portion is preferably 10 to 40. The HLB is within a
+range of 13 to 20, preferably 15 to 20 and more
+preferably 17 to 20. Its content in the ink is
+within a range of 0.1 to 3 weight%, preferably 0.2 to
+2.5 weight% and more preferably 0.3 to 2 weight%. </p><p num="0054">In the present invention, a nonionic surfactant
+may be used in addition to polyoxyethylene alkyl
+ether. Examples of such a nonionic surfactant
+include ethylene oxide addition product of acetylene
+glycol, polyoxyethylene alkylphenylether,
+polyoxyethylene fatty acid ester, sorbitan fatty acid
+ester, and polyoxyethylene sorbitan fatty acid ester.
+In particular, ethylene oxide addition product of
+acetylene glycol, when applied to the ink of the
+present invention, provides a particularly excellent
+effect in stabilizing the discharge speed. The
+stabilized discharge speed allows to obtain an ink
+jet image being uniform or with less unevenness.
+
+Also a nonionic surfactants having HLB not lower than
+10, more preferably not lower than 13, more
+preferably not lower than 15 can be advantageously
+employed. The content of such a surfactant used in
+combination with polyoxyethylene alkyl ether in the
+ink is within a range of 0.1 to 3 weight%, preferably
+0.2 to 2.5 weight%, and more preferably 0.3 to 3
+weight%.</p><heading>(vii) Other water-soluble organic solvents</heading><p num="0055">An optional component may be added to the ink
+containing the components (i) to (vi) for obtaining
+other various effects. Examples of such a component
+(vii) include 2-pyrrolidone, ethylene glycol, glycols
+with 3 to 6 carbon atoms, and triols with 4 to 6 
+carbon atoms. One of more of such water-soluble
+organic solvents may be added according to the
+properties to be enhanced.</p><p num="0056">For example, to improve printing endurance, it
+is preferred to include 2-pyrrolidone or ethylene
+glycol in the ink. The present inventors consider
+that 2-pyrrolidone or ethylene glycol re-dissolves
+the disrupted dispersion product precipitated on the
+heater during the bubble generating operation,
+preventing accumulation on the heater to improve
+printing endurance. The content of 2-pyrrolidone or
+ethylene glycol in the ink is 0.5 to 10 weight%,
+preferably 1 to 8 weight%.</p><p num="0057">To improve solidification resistance or start-up
+property, it is preferable to include glycol of 3
+to 6 carbon atoms or triol of 4 to 6 carbon atoms in
+the ink. Any glycol with 3 to 6 carbon atoms or any
+triol with 4 to 6 carbon atoms may be used, but
+particularly preferred is diethylene glycol,
+triethylene glycol, or 1, 2, 6-hexane-triol. These
+substances, having a low vapor pressure and less
+tendency to evaporate, are known as an excellent
+solvent for improving the solidification resistance
+and the start-up property. However, testing various
+materials of low vapor pressure for the ink of the
+present invention, the inventors have found that
+glycols of 3 to 6 carbon atoms and triols of 4 to 6 
+carbon atoms are particularly excellent to improve
+the solidification resistance and the start-up
+property without spoiling other properties. The
+content of such glycol of 3 to 6 carbon atoms or
+triol of 4 to 6 carbon atoms is within a range of 1
+to 8 weight%, preferably 2 to 6 weight% of the total
+weight of the ink.</p><p num="0058">Water-soluble organic solvents that may be
+employed in the present invention other than those
+described above include amides such as
+dimethylformamide and dimethylacetamide; ketones or
+ketoalcohols such as acetone and diacetone alcohol;
+ethers such as tetrahydrofuran and dioxane;
+oxyethylene or oxypropylene copolymers such as
+tetraethylene glycol, tripropylene glycol,
+polyethylene glycol and polypropylene glycol; lower
+alkylethers such as ethylene glycol monomethyl (or
+ethyl) ether, diethylene glycol monomethyl (or ethyl)
+ether and triethylene glycol monomethyl (or ethyl)
+ether; lower dialkylethers of polyhydric alcohols
+such as triethylene glycol dimethyl (or ethyl) ether
+and tetraethylene glycol dimethyl (or ethyl) ether;
+alkanolamines such as monoethanolamine,
+diethanolamine and triethanolamine; sulforane, N-methyl-2-pyrrolidone,
+1,3-dimethyl-2-imidazolidinone
+and trimethylol propane.</p><p num="0059">The total content of the aforementioned water-soluble 
+organic solvents including glycerin and
+ethylene urea, contained in the pigment ink of the
+present invention, is not particularly limited, but
+preferably within a range of 3 to 50 weight%, more
+preferably 10 to 35 weight% of the total weight of
+the ink. Also the water content of the pigment ink
+is preferably within a range of 50 to 95 weight% of
+the total weight of the ink.</p><p num="0060">Also the pigment ink of the present invention,
+in order to obtain desired physical properties, may
+further contain other additives such as a viscosity
+adjusting agent, an antifoaming agent, an antiseptic,
+an antimold agent, or an antioxidant. The surfactant
+is preferably selected in such a manner that the
+surface tension of the ink is not lower than 25 mN/m,
+preferably not lower than 30 mN/m.</p><heading>&lt;Ink jet recording apparatus&gt;</heading><p num="0061">In FIG. 1, the ink jet printer is configured to
+comprise a feeder device 1030 that intermittently
+feeds a sheet of paper 1028 as a recording medium
+provided along the longitudinal direction in a casing
+1008 in the direction shown by arrow P shown in FIG.
+1, a recording section 1010 that is reciprocated
+approximately in parallel to the direction S
+approximately at right angles to the feeding
+direction P of the paper 1028 by the feeder device 
+1030, and a movement driving section 1006 as driving
+means for reciprocating the recording section 1010.</p><p num="0062">The feeder device 1030 comprises a roller unit
+1022a and 1022b and a roller unit 1024a and 1024b are
+allocated approximately in parallel, and a driving
+portion 1020 for driving these roller units. With
+such a constitution, when the driving portion 1020 of
+the feeder device 1030 is operated, the paper 1028 is
+conveyed intermittently in the direction P, nipped
+between the roller units 1022a and 1022b, and 1024a
+and 1024b.</p><p num="0063">The movement driving section 1006 is configured
+to comprise a belt 1016 that is wound on pulleys
+1026a, 1026b provided on rotary shafts oppositely
+arranged with a predetermined interval, and a motor
+1018 that drives the belt 1016 arranged approximately
+in parallel to roller units 1022a, 1022b and
+connected to a carriage member 1010a of the recording
+section 1010 in the forward direction and reverse
+direction.</p><p num="0064">When the motor 1018 is brought in the operating
+state and the belt 1016 is rotated in the direction
+shown by arrow R, the carriage member 1010a of the
+recording section 1010 is moved in the direction
+shown by arrow S only by a predetermined movement.
+Furthermore, when the motor 1018 is brought in the 
+operating state and the belt 1016 is rotated in the
+direction opposite to the direction shown by arrow R,
+the carriage member 1010a of the recording section
+1010 is moved in the direction opposite to the
+direction shown by arrow S only by a predetermined
+movement. Furthermore, to one end of the movement
+driving section 1006, at a position which is a home
+position of the carriage member 1010a, a recovery
+unit 1026 for performing the ejection recovery
+process of the recording section 1010 is provided
+opposite to the arrangement of the ink ejection
+orifice of the recording section 1010.</p><p num="0065">In the recording section 1010, ink jet
+cartridges (hereafter, in some cases, referred to
+simply as cartridges) 1012Y, 1012M, 1012C, 1012 B are
+detachably provided to the carriage member 1010a for
+each color, for example, for each of yellow, magenta,
+cyan, and black.</p><p num="0066">The effect of the ink composition of the
+present invention is not limited to a particular
+color, and, in a preferred embodiment, at least two
+selected from the aforementioned yellow, magenta,
+cyan and black inks have the ink composition of the
+present invention. Also in another preferred
+embodiment of the present invention, two different
+inks that provide the same color hue image but having 
+different coloring abilities, namely so-called dense
+and pale inks, have the ink composition of the
+present invention. Here, the same color hue image
+means that when images of 360 dpi (dot per inch) x
+720 dpi on plain paper are formed with the dense ink
+and the pale ink respectively using an ink jet
+recording head that ejects 20 to 50 pl droplets, and
+thus obtained images are visually observed and are
+classified into 10 Munsell categories (R, YR, Y, GY,
+G, BG, B, PB, P and RP) based on the Munsell color
+chart, and the images belong to the same category or
+adjacent categories. Also a higher coloring ability
+means that the ink contains the coloring material at
+a relatively higher content.</p><p num="0067">In the above-described configuration, the ink
+set of the present invention having different colors
+or the set of dense and pale inks may be contained in
+different cartridges as illustrated in Fig. 1.
+Alternatively, inks may be contained in an ink
+cartridge 305 having ink-containers 301 and 303 as
+shown in Fig. 3, and the cartridge is detachably
+mounted on an ink jet recording head 401 as shown in
+Fig. 4. When the ink cartridges shown in Fig. 3 is
+mounted on the ink jet recording head 401 as shown in
+Fig. 4, each of the inks of the present invention and
+other inks is fed to the recording head and is 
+discharged therefrom. Figs. 3 and 4 illustrate a
+configuration in which the ink cartridge is
+detachably mounted on the ink jet recording head, but
+it is also possible a configuration in which the ink
+cartridge and the ink jet recording head are
+integrally constructed.</p><p num="0068">Fig. 2 shows an example of the ink jet
+cartridge mountable on the above-described ink jet
+recording apparatus. The cartridge 1012 in the
+present embodiment is of a serial type, of which main
+part is comprised of an ink jet recording head 100
+and a liquid tank 1001 for containing a liquid such
+as ink.</p><p num="0069">The ink jet recording head 100 is provided with
+a plurality of discharge ports 832 for discharging a
+liquid, and such a liquid, or ink, is introduced from
+the liquid tank 1001 to a common liquid chamber (not
+shown) of the liquid discharge head 100 through a
+liquid supply path (not shown). The cartridge 1012
+shown in Fig. 2 is integrally composed of the ink jet
+recording head 100 and the liquid tank 1001 in which
+liquid is replenished whenever necessary, but there
+may also be adopted a configuration in which the
+liquid tank 1001 is interchangeably connected to the
+liquid discharge head 100.</p><p num="0070">A recording unit is an ink jet cartridge
+provided with an ink jet recording head. </p><heading>&lt;Method for stabilizing ink discharge property&gt;</heading><p num="0071">Recently, according to the market demand for
+high quality image printing at with a higher speed,
+the nozzles of the thermal ink jet recording head
+have become smaller to eject as small as 20 pl or
+less, or even 10 pl or less per one ejection. Also
+the drive frequency of the recording head has been
+increased to 5 kHz or higher, or even 10 kHz or
+higher. The ink of the present invention, to be
+applied to the above-described thermal ink jet
+printer, shows satisfactory start-up property and
+anti-clogging resistance, and also enables extremely
+stable ink discharge in recording. The upper limit
+of the drive frequency of the thermal ink jet printer,
+in which the ink of the present invention is
+applicable, is not particularly limited, but is about
+15 kHz in practice.</p><heading>[Examples]</heading><p num="0072">In the following, the present invention is
+further explained with Examples and Comparative
+Examples, in which "part(s)" and "%" are by weight
+unless otherwise specified.</p><heading>[Preparation of ink 1]</heading><heading>(1) Preparation of dispersion</heading><p num="0073">Using benzyl methacrylate and methacrylic acid
+as the starting materials, block copolymer of AB type
+having an acid value of 250 and a number-average 
+molecular weight of 3000 was prepared by a
+conventional method. The reaction mixture was then
+neutralized with an aqueous solution of potassium
+hydroxide and diluted with ion-exchanged water to
+obtain an aqueous, uniform solution of polymer at 50
+weight%.</p><p num="0074">To 180 g of the above-mentioned polymer
+solution, 100 g of C.I. pigment blue 15:3 and 220 g
+of ion-exchanged water were mixed and mechanically
+stirred for 0.5 hours. Then the mixture was
+processed by a micro fluidizer passing the mixture
+five times through an interaction chamber under a
+liquid pressure of about 10,000 psi (about 70 Mpa).</p><p num="0075">The obtained dispersion was centrifuged (12,000
+rpm, 20 minutes) to eliminate not-dispersed substance
+including coarse particles. Thus-obtained dispersion
+1 had a pigment concentration of 10 weight% and a
+dispersant concentration of 10 weight%.</p><heading>(2) Preparation of ink</heading><p num="0076">To Dispersion 1, the following components were
+added to predetermined concentrations, and mixed well
+by agitation. Then the mixture was pressure-filtered
+through a microfilter (pore size: 2.5 µm, Fuji Film
+Co.) to obtain Ink 1 containing pigment at 2 weight%
+and dispersant at 2 weight%;
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Dispersion 1</entry><entry align="right">20 parts</entry></row><row><entry align="left">Glycerin</entry><entry align="right">5 parts </entry></row><row><entry align="left">Ethylene urea</entry><entry align="right">10 parts</entry></row><row><entry align="left">Polyoxyethylene cetylether (EO 30, HLB 19.5)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">Ion-exchanged water</entry><entry align="right">64.5 parts</entry></row></tbody></tgroup></table></tables></p><heading>[Preparation of ink 2]</heading><heading>(1) Preparation of dispersion</heading><p num="0077">To 100 g of the above-mentioned polymer
+solution, 100 g of C.I. pigment red 122 and 300 g of
+ion-exchanged water were mixed and mechanically
+stirred for 0.5 hours. Then the mixture was
+processed by a micro fluidizer passing the mixture
+five times through an interaction chamber under a
+liquid pressure of about 10,000 psi (about 70 Mpa).</p><p num="0078">The obtained dispersion was centrifuged (12,000
+rpm, 20 minutes) to eliminate not-dispersed substance
+including coarse particles. Thus-obtained dispersion
+2 contained the pigment at 10 weight% and the
+dispersant at 5 weight%.</p><heading>(2) Preparation of ink</heading><p num="0079">To the magenta Dispersion 2, the following
+components were added to predetermined concentrations,
+and mixed well by agitation. Then the mixture was
+pressure-filtered through a microfilter (pore size:
+2.5 µm, Fuji Film Co.) to obtain Ink 2 containing
+pigment at 4 weight% and dispersant at 2 weight%; <tables><table><tgroup cols="2"><tbody><row><entry align="left">Dispersion 2</entry><entry align="right">40 parts</entry></row><row><entry align="left">Glycerin</entry><entry align="right">7 parts</entry></row><row><entry align="left">Ethylene urea</entry><entry align="right">3 parts</entry></row><row><entry align="left">2-pyrrolidone</entry><entry align="right">3 parts</entry></row><row><entry align="left">1,2,6-hexane-triol</entry><entry align="right">4 parts</entry></row><row><entry align="left">Polyoxyethylene cetylether (EO 20, HLB 17)</entry><entry align="right">1 part</entry></row><row><entry align="left">EO addition product of acetylene glycol (Trade name: Acetylenol EH, Kawaken Fine Chemical)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">Ion-exchanged water</entry> <entry align="right">41.5 parts</entry></row></tbody></tgroup></table> </tables> </p> <heading>[Preparation of ink 3]</heading><heading>(1) Preparation of dispersion</heading><p num="0080">Using benzyl methacrylate and methacrylic acid
+as the starting materials, block copolymer of AB type
+having an acid value of 300 and a number-average
+molecular weight of 4000 was prepared by a
+conventional method. The reaction mixture was then
+neutralized with an aqueous solution of potassium
+hydroxide and diluted with ion-exchanged water to
+obtain an aqueous, uniform solution of polymer at 50
+weight%.</p><p num="0081">To 110 g of the above-mentioned polymer
+solution, 100 g of C.I. pigment yellow 128 and 290 g
+of ion-exchanged water were mixed and mechanically
+stirred for 0.5 hours. Then the mixture was
+processed by a micro fluidizer passing the mixture
+five times through an interaction chamber under a
+liquid pressure of about 10,000 psi (about 70 Mpa). 
+The obtained dispersion was centrifuged (12,000 rpm,
+20 minutes) to eliminate not-dispersed substance
+including coarse particles. Thus-obtained dispersion
+3 had a pigment concentration of 10 weight% and a
+dispersant concentration of 6 weight%.</p><heading>(2) Preparation of ink</heading><p num="0082">To Dispersion 3, the following components were
+added to predetermined concentrations, and mixed well
+by agitation. Then the mixture was pressure-filtered
+through a microfilter (pore size: 2.5 µm, Fuji Film
+Co.) to obtain Ink 3 containing the pigment at 5
+weight% and the dispersant at 3 weight%;
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Dispersion 3</entry><entry align="right">50 parts</entry></row><row><entry align="left">Glycerin</entry><entry align="right">8 parts</entry></row><row><entry align="left">Ethylene urea</entry><entry align="right">6 parts</entry></row><row><entry align="left">Ethylene glycol</entry><entry align="right">5 parts</entry></row><row><entry align="left">Polyoxyethylene oleylether (EO 10, HLB 14.5)</entry><entry align="right">1.2 parts</entry></row><row><entry align="left">EO addition product of acetylene glycol (trade name: Surfinol 440, Air Products)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">Ion-exchanged water</entry><entry align="right">29.3 parts</entry></row></tbody></tgroup></table></tables></p><heading>[Preparation of ink 4]</heading><heading>(1) Preparation of dispersion</heading><p num="0083">Using benzyl methacrylate, methacrylic acid and
+ethoxyethylene glycol as the starting materials,
+block copolymer of ABC type having an acid value of 
+350 and a number-average molecular weight of 2500 was
+prepared by a conventional method. The reaction
+mixture was then neutralized with an aqueous solution
+of potassium hydroxide and diluted with ion-exchanged
+water to obtain a uniform aqueous solution of polymer
+at 50 weight%.</p><p num="0084">To 60 g of the above-mentioned polymer solution,
+100 g of carbon black and 340 g of ion-exchanged
+water were mixed and mechanically stirred for 0.5
+hours. Then the mixture was processed by a micro
+fluidizer passing the mixture five times through an
+interaction chamber under a liquid pressure of about
+10,000 psi (about 70 Mpa). The obtained dispersion
+was centrifuged (12,000 rpm, 20 minutes) to eliminate
+not-dispersed substance including coarse particles.
+Thus-obtained dispersion 4 had a pigment
+concentration of 10 weight% and a dispersant
+concentration of 3.5 weight%.</p><heading>(2) Preparation of ink</heading><p num="0085">To Dispersion 4, the following components were
+added to predetermined concentrations, and mixed well
+by agitation. Then the mixture was pressure-filtered
+through a microfilter (pore size: 2.5 µm, Fuji Film
+Co.) to obtain Ink 4 containing the pigment at 3
+weight% and the dispersant at 1.05 weight%;
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Dispersion 4</entry><entry align="right">40 parts</entry></row><row><entry align="left">Glycerin</entry><entry align="right">3 parts </entry></row><row><entry align="left">Ethylene urea</entry><entry align="right">6 parts</entry></row><row><entry align="left">Triethylene glycol</entry><entry align="right">6 parts</entry></row><row><entry align="left">2-Pyrrolidone</entry><entry align="right">1.5 parts</entry></row><row><entry align="left">Polyoxyethylene behenylether (EO 20, HLB 16.5)</entry><entry align="right">1.5 parts</entry></row><row><entry align="left">EO addition product of acetylene glycol (Trade name: Acetylenol EH, Kawaken Fine Chemical)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">Ion-exchanged water</entry><entry align="right">51.5 parts</entry></row></tbody></tgroup></table></tables></p><heading>[Preparation of ink 5]</heading><heading>(1) Preparation of dispersion</heading><p num="0086">Using benzyl methacrylate, methacrylic acid and
+ethoxyethylene glycol as the starting materials,
+block copolymer of ABC type having an acid value of
+350 and a number-average molecular weight of 2500 was
+prepared by a conventional method. The reaction
+mixture was then neutralized with an aqueous solution
+of potassium hydroxide and diluted with ion-exchanged
+water to obtain a uniform aqueous solution of polymer
+at 50 weight%.</p><p num="0087">To 550 g of the above 50% polymer solution, 100
+g of C.I. Pigment Blue 15:4 and 350 g of ion-exchanged
+water were mixed and mechanically stirred
+for 0.5 hours. Then the mixture was processed by a
+micro fluidizer passing the mixture five times
+through an interaction chamber under a liquid
+pressure of about 10,000 psi (about 70 Mpa). The 
+obtained dispersion was centrifuged (12,000 rpm, 20
+minutes) to eliminate not-dispersed substance
+including coarse particles. Thus-obtained cyan
+dispersion 4 had a pigment concentration of 5 weight%
+and a dispersant concentration of 15 weight%.</p><heading>(2) Preparation of ink</heading><p num="0088">To the above cyan dispersion 5, the following
+components were added to predetermined concentrations,
+and mixed well by agitation. Then the mixture was
+pressure-filtered through a microfilter (pore size:
+2.5 µm, Fuji Film Co.) to obtain Ink 5 containing the
+pigment at 0.3 weight% and the dispersant at 3
+weight%;
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Cyan dispersion</entry><entry align="right">6 parts</entry></row><row><entry align="left">50% Polymer solution 5</entry><entry align="right">4.2 parts</entry></row><row><entry align="left">Glycerin</entry><entry align="right">10 parts</entry></row><row><entry align="left">Triethylene glycol</entry><entry align="right">5 parts</entry></row><row><entry align="left">Ethylene urea</entry><entry align="right">10 parts</entry></row><row><entry align="left">Polyoxyethylene behenylether (EO 15, HLB 14)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">EO addition product of acetylene glycol (trade name: Acetylenol EH, Kawaken Fine Chemical)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">Ion-exchanged water</entry><entry align="right">63.8 parts</entry></row></tbody></tgroup></table></tables></p><heading>[Preparation of Ink 6]</heading><heading>(1) Preparation of dispersion</heading><p num="0089">To 250 g of the polymer solution used for 
+preparing Ink 5, 100 g of C.I. Pigment Blue 15:4 and
+150 g of ion-exchanged water were mixed and
+mechanically stirred for 0.5 hours. Then the mixture
+was processed by a micro fluidizer passing the
+mixture five times through an interaction chamber
+under a liquid pressure of about 10,000 psi (about 70
+Mpa). The obtained dispersion was centrifuged
+(12,000 rpm, 20 minutes) to remove not-dispersed
+substances including coarse particles. Thus-obtained
+cyan dispersion had a pigment concentration of 10
+weight% and a dispersant concentration of 14 weight%.</p><heading>(2) Preparation of ink</heading><p num="0090">To the cyan dispersion 5, the following
+components were added to predetermined concentrations,
+and mixed well by agitation. Then the mixture was
+pressure-filtered through a microfilter (pore size:
+2.5 µm, Fuji Film Co.) to obtain Ink 6 containing the
+pigment at 1.8 weight% and the dispersant at 2.52
+weight%;
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Cyan dispersion</entry><entry align="right">18 parts</entry></row><row><entry align="left">Glycerin</entry><entry align="right">10 parts</entry></row><row><entry align="left">Triethylene glycol</entry><entry align="right">5 parts</entry></row><row><entry align="left">Ethylene urea</entry><entry align="right">10 parts</entry></row><row><entry align="left">Polyoxyethylene behenylether (EO 15, HLB 14)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">EO addition product of acetylene glycol (Trade name: Acetylenol EH, Kawaken Fine </entry></row><row><entry align="left">Chemical)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">Ion-exchanged water</entry><entry align="right">56 parts</entry></row></tbody></tgroup></table></tables></p><heading>[Preparation of Ink 7]</heading><heading>(1) Preparation of ink</heading><p num="0091">The dispersion 1 employed in the preparation of
+Ink 1 and the following components were mixed to
+predetermined concentrations with sufficient
+agitation, and pressure-filtered through a
+microfilter (pore size: 2.5 µm, Fuji Film Co.) to
+obtain Ink 7 containing the pigment at 2 % and the
+dispersant at 2 %;
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Dispersion 1</entry><entry align="right">20 parts</entry></row><row><entry align="left">Glycerin</entry><entry align="right">15 parts</entry></row><row><entry align="left">Polyoxyethylene cetylether (EO 30, HLB 19.5)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">Ion-exchanged water</entry><entry align="right">64.5 parts</entry></row></tbody></tgroup></table></tables></p><heading>[Preparation of ink 8]</heading><heading>(1) Preparation of ink</heading><p num="0092">The dispersion 1 employed in the
+preparation of Ink 1 and the following components
+were mixed to predetermined concentrations with
+sufficient agitation, and pressure-filtered through a
+microfilter (pore size: 2.5 µm, Fuji Film Co.) to
+obtain Ink 8 containing the pigment at 2 % and the
+dispersant at 2 %;
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Dispersion 1</entry><entry align="right">20 parts</entry></row><row><entry align="left">Ethylene urea</entry><entry align="right">15 parts </entry></row><row><entry align="left">Polyoxyethylene cetylether (EO 30, HLB 19.5)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">Ion-exchanged water</entry><entry align="right">64.5 parts</entry></row></tbody></tgroup></table></tables></p><heading>[Preparation of ink 9]</heading><heading>(1) Preparation of ink</heading><p num="0093">The dispersion 1 employed in the preparation of
+Ink 1 and the following components were mixed to
+predetermined concentrations with sufficient
+agitation, and pressure-filtered through a
+microfilter (pore size: 2.5 µm, Fuji Film Co.) to
+obtain Ink 9 containing the pigment at 2 % and the
+dispersant at 2 %;
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Dispersion 1</entry><entry align="right">20 parts</entry></row><row><entry align="left">Glycerin</entry><entry align="right">5 parts</entry></row><row><entry align="left">Ethylene urea</entry><entry align="right">10 parts</entry></row><row><entry align="left">Ion-exchanged water</entry><entry align="right">65 parts</entry></row></tbody></tgroup></table></tables></p><heading>[Preparation of ink 10]</heading><heading>(1) Preparation of ink</heading><p num="0094">The dispersion 1 employed in the preparation of
+Ink 1 and the following components were mixed to
+predetermined concentrations with sufficient
+agitation, and pressure-filtered through a
+microfilter (pore size: 2.5 µm, Fuji Film Co.) to
+obtain Ink 10 containing the pigment at 2 % and the
+dispersant at 2 %;
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Dispersion 1</entry><entry align="right">20 parts</entry></row><row><entry align="left">Glycerin</entry><entry align="right">5 parts </entry></row><row><entry align="left">Ethylene urea</entry><entry align="right">10 parts</entry></row><row><entry align="left">Polyoxyethylene cetylether (EO 7, HLB 11.5)</entry><entry align="right">0.5 parts</entry></row><row><entry align="left">Ion-exchanged water</entry><entry align="right">64.5 parts</entry></row></tbody></tgroup></table></tables></p><heading>Examples 1 - 6 and Comparative Examples 1 - 4</heading><p num="0095">Each of the inks obtained as described above
+(inks 1 - 6 for Examples 1 - 6, and inks 7 - 10 for
+Comparative Examples 1-4) was charged in an ink tank
+of a color ink jet recording apparatus to carry out
+the following tests. The ink jet recording apparatus
+was a large color bubble-jet printer (BJ-W9000; Canon
+Inc.) having plural on-demand recording heads that
+discharge ink using thermal energy applied to the ink
+according to the recording signals. With the thermal
+heads of this apparatus, the droplet size per
+discharge operation was about 8.5 pl.</p><heading>[Evaluation Items]</heading><heading>(1) Start-up properties</heading><p num="0096">The printer was left standing in the power-off
+state in an environment of 25°C and 10% humidity, and
+then in an environment of normal temperature and
+normal humidity for two hours. After that, the power
+was on, and the initial printing condition was
+evaluated according to the following criteria. The
+results of evaluation are shown in Table 1:
+<sl><li>A: no difference from the printing condition prior
+to the standing; </li><li>B: somewhat different from the printing condition
+prior to the standing;</li><li>C: evidently different from the print state prior
+to the standing.</li></sl></p><heading>(2) Solidification resistance</heading><p num="0097">The heads were detached from the main body of
+the printer, and left standing for 1 week in an
+environment of 35°C and 10% humidity. Then the heads
+were mounted to the printer to evaluate whether
+ordinary recovery operation can restore the printing
+operation. The evaluation criteria are as follows:
+<sl><li>A: printing is recovered with a single recovery
+operation in the main body;</li><li>B: printing is recovered with several recovery
+operations in the main body;</li><li>C: printing is not recovered by the recovery
+operations in the main body.</li></sl></p><heading>(3) Durability in printing</heading><p num="0098">Using the above printer, 3 × 10<sup>8</sup> pulses of an
+ink were discharged continuously from 20 nozzles at a
+drive frequency of 7.5 kHz, designating these nozzles
+as durability test nozzles. Then solid patterns were
+printed using the durability test nozzles and other
+nozzles not subjected to such continuous discharge
+(control nozzles), and the difference in density of
+the obtained solid patterns was visually evaluated.
+If the dispersion state of the coloring material in 
+the ink was destroyed in the vicinity of the heater
+during high frequency drive of 7.5 kHz, a solidified
+substance would have deposit on the heater face of
+the durability test nozzles resulting in a difference
+in the density between the solid pattern formed with
+such durability test nozzles and one formed with the
+control nozzles.
+<sl><li>A: no density difference between the control
+nozzles and the durability test nozzles;</li><li>B: some density difference between the control
+nozzles and the durability test nozzles;</li><li>C: evident density difference between the control
+nozzles and the durability test nozzles.</li></sl></p><heading>(4) Ink storage stability</heading><p num="0099">In a tightly stoppered glass bottle, 100 g of
+ink was stored for 2 months in a thermostat of 0°C
+and was evaluated for any change in viscosity and
+particle size in comparison with the initial
+conditions before storage:
+<sl><li>A: differences in viscosity and particle size are
+less than 5 % before and after the storage;</li><li>B: differences in viscosity and particle size are
+less than 10 % before and after the storage;</li><li>C: differences in viscosity and particle size are
+10 % or more before and after the storage.</li></sl></p><p num="0100">The results of evaluation of the items (1) to
+(4) are summarized in Table 1. <tables><table><tgroup cols="5"><tbody><row><entry align="center"/><entry align="left">(1)
+
+Start-up
+
+property</entry><entry align="left">(2)
+
+Solidification
+
+resistance</entry><entry align="left">(3)
+
+Printing
+
+durability</entry><entry align="left">(4) Ink
+
+storability</entry></row><row><entry align="left">Example 1 Ink 1</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry></row><row><entry align="left">Ex.2 Ink 2</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry></row><row><entry align="left">Ex. 3 Ink 3</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry></row><row><entry align="left">Ex. 4 Ink 4</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry></row><row><entry align="left">Ex. 5 Ink 5</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry></row><row><entry align="left">Ex. 6 Ink 6</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">A</entry></row><row><entry align="left">Comparative
+
+Example 1
+
+Ink 7</entry><entry align="left">C</entry><entry align="left">B</entry><entry align="left">B</entry><entry align="left">B</entry></row><row><entry align="left">Comp.Ex. 2 Ink 8</entry><entry align="left">B</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">Comp.Ex. 3 Ink 9</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">C</entry><entry align="left">A</entry></row><row><entry align="left">Comp.Ex. 4 Ink 10</entry><entry align="left">A</entry><entry align="left">A</entry><entry align="left">C</entry><entry align="left">A</entry></row></tbody></tgroup></table></tables></p><p num="0101">The results of evaluation (1), (2) and (4) show
+that the inks 1 to 6 of the present invention have
+satisfactory ink-jet properties, the result of
+evaluation (3) shows that they maintain discharge
+stability even in a high frequency drive. Thus the
+ink of the present invention meets the requirements
+of both satisfactory ink-jet properties and
+applicability for high-speed printing.</p><heading>(Advantages of the present invention)</heading><p num="0102">According to the present invention, as
+explained in the foregoing, when a pigment ink jet
+recording ink that comprises at least water, a
+pigment, a resin dispersant, glycerin, ethylene urea,
+and polyoxyethylene alkyl ether having HLB of 13 or
+more is used for thermal ink-jet printing, there are
+obtained satisfactory start-up property and also
+excellent resistance against solidification of the
+coloring material at the front end of the nozzle,
+stable ink discharge without nozzle clogging, and
+excellent printing durability even in high frequency
+drive. The storability of the ink is also excellent. </p><p num="0103">Provided is an ink-jet ink suitable for high
+speed printing and reduced ink ejection amount, which
+ink comprise a water-insoluble coloring material
+dispersed in water with a resinous dispersant,
+glycerin, ethylene urea, and polyoxyethylene alkyl
+ether with HLB not lower than 13.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An ink for ink jet recording, comprising
+water, a water-insoluble coloring material, a
+resinous dispersant for dispersing said water-insoluble
+coloring material into water, glycerin,
+ethylene urea, and polyoxyethylene alkyl ether having
+HLB of 13 or more.</claim-text></claim><claim num="2"><claim-text>The ink according to claim 1, further
+comprising an ethylene oxide adduct of acetylene
+glycol.</claim-text></claim><claim num="3"><claim-text>The ink according to claim 1 or 2, further
+comprising at least one selected from the group
+consisting of 2-pyrrolidone, ethylene glycol, glycol
+of 3 to 6 carbon atoms and triol of 4 to 6 carbon
+atoms.</claim-text></claim><claim num="4"><claim-text>The ink according to claim 1, wherein
+glycerin is contained in an amount of 3 to 15 weight%
+based on the total weight of the ink, and ethylene
+urea is contained in an amount of 3 to 15 weight%
+based on the total weight of the ink.</claim-text></claim><claim num="5"><claim-text>The ink according to claim 1, wherein a
+content ratio of glycerin and ethylene urea
+(glycerin:ethylene urea) is within a range of 5:1 to
+1:5.</claim-text></claim><claim num="6"><claim-text>The ink according to any one of claim 1 to 5,
+wherein said resinous dispersant comprises a block
+copolymer.</claim-text></claim><claim num="7"><claim-text>The ink according to any one of claims 1 to
+6, being for thermal ink jet recording.</claim-text></claim><claim num="8"><claim-text>An ink cartridge comprising an ink container
+containing an ink according to any one of claims 1 to
+7.</claim-text></claim><claim num="9"><claim-text>A recording unit comprising an ink container
+containing an ink according to any of claims 1 to 7,
+and an ink jet head for discharging said ink.</claim-text></claim><claim num="10"><claim-text>The recording unit according to claim 9,
+wherein said ink is the ink according to claim 7, and
+said ink jet head is of a type for discharging said
+ink from an orifice by providing said ink with
+thermal energy.</claim-text></claim><claim num="11"><claim-text>An ink jet recording method comprising a
+step of discharging ink according to any one of
+claims 1 to 7 with an ink jet head.</claim-text></claim><claim num="12"><claim-text>An ink jet recording method according to
+claim 11, wherein said ink is the ink according to
+claim 7, and said ink jet head is a thermal ink jet
+head.</claim-text></claim><claim num="13"><claim-text>The ink jet recording method according to
+claim 11, wherein the ink discharge amount per
+discharge operation of said ink jet head is not more
+than 20 pl.</claim-text></claim><claim num="14"><claim-text>The ink jet recording method according to
+claim 12, further comprising a step of driving said
+ink jet head with a frequency of not lower than 5 kHz.</claim-text></claim><claim num="15"><claim-text>The ink jet recording method according to
+claim 14, further comprising a step of driving said
+ink jet head with a frequency of not lower than 10
+kHz.</claim-text></claim><claim num="16"><claim-text>The ink jet recording method according to
+claim 14 or 15, wherein the frequency for driving
+said ink jet head is not more than 15 kHz.</claim-text></claim><claim num="17"><claim-text>An ink jet recording apparatus comprising
+an ink container containing the ink according to any
+one of claims 1 to 7, and an ink jet recording head
+for discharging said ink.</claim-text></claim><claim num="18"><claim-text>The ink jet recording apparatus according
+to claim 17, wherein said ink jet recording head is a
+thermal ink jet recording head.</claim-text></claim><claim num="19"><claim-text>The ink jet recording apparatus according
+to claim 18, further comprising means for driving
+said thermal ink jet recording head with a drive
+frequency not lower than 5 kHz.</claim-text></claim><claim num="20"><claim-text>An ink jet recording apparatus according to
+claim 17, wherein the ink discharge amount per
+discharge operation of said thermal ink jet recording
+head is not more than 20 pl.</claim-text></claim><claim num="21"><claim-text>A method for stabilizing ink discharge from
+an ink jet recording head when the ink jet recording
+head is driven at a frequency of not less than 5kHz,
+the ink jet recording head's ink discharge amount per
+discharge operation being not more than 20pl,
+comprising the step of utilizing an ink of claim 7
+for discharging with the ink jet recording head.</claim-text></claim></claims><drawings status="new"><figure num="1"><img id="img-00490001" orientation="unknown" wi="163" img-format="tif" img-content="dr" file="00490001.tif" inline="no" he="199"/></figure><figure num="2"><img id="img-00500001" orientation="unknown" wi="145" img-format="tif" img-content="dr" file="00500001.tif" inline="no" he="172"/></figure><figure num="3"><img id="img-00510001" orientation="unknown" wi="113" img-format="tif" img-content="dr" file="00510001.tif" inline="no" he="231"/></figure></drawings><search-report-data status="new"><doc-page id="img--90000001" orientation="portrait" wi="150" status="new" file="90000001.tif" he="230" type="tif"/><doc-page id="img--90010001" orientation="portrait" wi="155" status="new" file="90010001.tif" he="230" type="tif"/></search-report-data><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

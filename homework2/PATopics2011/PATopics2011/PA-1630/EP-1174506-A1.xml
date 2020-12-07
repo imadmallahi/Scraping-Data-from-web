@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1174506-A1" country="EP" doc-number="1174506" kind="A1" lang="EN" family-id="8171710" status="new" date-produced="20090516" date="20020123"><bibliographic-data><publication-reference ucid="EP-1174506-A1" status="new" fvid="23354468"><document-id status="new" format="original"><country>EP</country><doc-number>1174506</doc-number><kind>A1</kind><date>20020123</date></document-id></publication-reference><application-reference ucid="EP-00202255-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00202255</doc-number><kind>A</kind><date>20000628</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-00202255-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>00202255</doc-number><kind>A</kind><date>20000628</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A61K  38/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  38/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  39/00        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  39/00        20060101C N20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61P  31/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  31/04        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07K  14/005       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07K  14/135       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07K  14/18        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07K  14/185       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N  15/09        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N  15/09        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N  15/40        20060101A I20060521RMWO        </classification-ipcr><classification-ipcr status="new">C12N  15/40        20060101C I20060521RMWO        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C07K  14/18F</classification-symbol><classification-symbol scheme="ICO">K61K39:00</classification-symbol><classification-symbol scheme="ICO">M07K203:00</classification-symbol><classification-symbol scheme="ICO">M07K207:00</classification-symbol><classification-symbol scheme="ICO">M07K215:00</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">C-terminales Erns-Peptide und Analoge davon</invention-title><invention-title load-source="ep" status="new" lang="EN">C-terminal Erns peptide and analogues thereof</invention-title><invention-title load-source="ep" status="new" lang="FR">Le peptide C-terminal de Erns et ses analogues</invention-title><citations><patent-citations><patcit ucid="EP-0982402-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0982402</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>R. J. M. MOORMANN ET AL.: "Recent developments in pig vaccination" PROCEEDINGS OF THE IPVS CONGRESS, 7 July 1996 (1996-07-07), XP002089688</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>STICHTING DIENST LANDBOUWKUNDI</name><address><country>NL</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>STICHTING DIENST LANDBOUWKUNDIG ONDERZOEK</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Stichting Dienst Landbouwkundig Onderzoek</last-name><address><street>Bornsesteeg 53</street><city>6708 PD Wageningen</city><country>NL</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>LANGEDIJK JOHANNES PETRUS MARI</name><address><country>NL</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>LANGEDIJK, JOHANNES PETRUS MARIA</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>LANGEDIJK, JOHANNES PETRUS MARIA</last-name><address><street>Valkenburgerstraat 117</street><city>1011 MH Amsterdam</city><country>NL</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Prins, Adrianus Willem</last-name><address><street>Vereenigde, Nieuwe Parklaan 97</street><city>2587 BN Den Haag</city><country>NL</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The invention relates to peptides derived from or similar to the E<sup>rns</sup> protein of
+pestiviruses for type -specific diagnosis of infection, for eliciting antibiotic
+activity and for transport of substances into a cell. For among others these
+purposes the invention provides an isolated, synthetic or recombinant protein
+module or functional equivalent thereof comprising an amino acid sequence
+that is at least 75% identical to an amino acid sequence of a peptide located
+from at about amino acid position 194 to 220 in a pestiviral E<sup>rns</sup> protein.
+<img id="img-00000001" orientation="unknown" wi="161" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="63"/></p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The invention relates to peptides derived from the E<sup>rns</sup> protein of
+pestiviruses for type -specific diagnosis of infection, for eliciting antibiotic
+activity and for transport of substances into a cell.</p><p num="0002">Hog cholera virus or classical swine fever virus (CSFV), bovine viral
+diarrhea virus (BVDV), and border disease virus (BDV) belong to the genus
+<i>Pestivirus</i> of the <i>Flaviviridae</i> family, CSFV is restricted to swine whereas
+BVDV and BDV have been isolated from several species such as cattle, swine,
+sheep, deer and giraffes Although pigs can be infected by all these
+pestiviruses, only CSFV induces severe disease and is often fatal. The disease
+is characterized by fever and for instance leukopenia and can run an acute,
+chronic or subclinical course. Although effective live-attenuated vaccines are
+available, pigs are not vaccinated against CSFV in the European Union
+because vaccinated and infected pigs are serologically indistinguishable.
+Outbreaks of CSF in the EU are controlled by eradication of all pigs from
+infected farms and farms in the vicinity. Because of this strategy, more than
+10 million pigs had to be killed and destroyed during the 1997-1998 CSF
+epizootic in The Netherlands costing more than 2 billion US dollars. It is for
+this reason that their is a great demand for a marker vaccine which can
+provide protective immunity and which induces an antibody response in the
+vaccinated pigs which can be distinguished from the antibody response caused
+by a natural CSFV infection.</p><p num="0003">Like other members of the family, pestiviruses are plus-stranded RNA
+viruses whose genome comprises one long open reading frame. Translation
+into a hypothetical polyprotein is accompanied by processing into mature
+proteins. The structural proteins include a nucleocapsid protein C and three
+envelope glycoproteins E<sup>rns</sup>, E1 and E2. The envelope proteins E<sup>rns</sup> and E2 are
+able to induce neutralizing antibodies. Glycoprotein E2 is the most
+immunogenic protein of pestiviruses and elicits high titers of neutralizing
+antibodies after infection. Vaccination of target animals with E2 has shown to 
+give complete protection against a lethal homologous challenge. When E2 is
+used for vaccination, serological diagnosis of a natural pestivirus infection has
+to be performed with an immunogenic/antigenic protein other than E2 that is
+present in the infectious pestivirus. For this purpose the E<sup>rns</sup> glycoprotein can
+be used as an antigen in a diagnostic test. A population that is vaccinated with
+the E2 glycoprotein can still be tested serologically for pestivirus infection with
+a diagnostic test based on the E<sup>rns</sup> antigen. A serological test based on E<sup>rns</sup> can
+distinguish E<sup>rns</sup>-antibody positive sera from animals infected with the virus
+and E<sup>rns</sup>-antibody negative sera from uninfected animals. This is called the
+marker vaccine approach. Of course these markervaccins depend on sensitive
+tests and in the case of CSFV, the test also has to be very specific because pigs
+can be infected with the other pestiviruses BVDV and BDV. Because BVDV
+and BDV do not cause (severe) clinical symptoms in pigs and the animals are
+not vaccinated for these viruses, the diagnostic test for a CSFV marker vaccine
+should only detect CSFV antibodies and no other pestivirus antibodies.
+Serological tests based on the complete E<sup>rns</sup> protein have been developed
+previously but are not always satisfactory in that they are not specific enough
+in that they cannot discriminate sufficiently between infections with different
+pestivirus species or are not sensitive enough to detect early infections with a
+pestivirus.</p><p num="0004">This invention provides among others peptide-based diagnostics in
+connection with diseases caused by pestivirus infections. Antigenic peptides as
+provided herein and useful for diagnostics can surprisingly also be used
+otherwise, such as antibacterial or transport peptides. Because in one
+embodiment the peptide is a fragment derived of the E<sup>rns</sup> protein, it can be
+used for diagnosis of pestivirus infections when a markervaccin is used that is
+based on E2, another pestivirus surface protein. Due to its unique biochemical
+character, a peptide as provided herein has the ability to permeate and kill 
+micro-organisms and has the ability to translocate itself and a coupled cargo
+across a cell membrane.</p><p num="0005">The invention provides a thus far unidentified small, independently
+folding protein module related to modules present at the C-terminal end of
+pestivirus E<sup>rns</sup>, and at the L3 loop of secreted cytotoxic Rnases that preferably
+belong to the group of type I ribosome-inactivating proteins (RIP) such as
+alpha-sarcin, restictocin, mitogillin, toxin Asp fI, clavin or gigantin and its
+use. Previously (Mancheno et al., Biophys. J. 68, 2387-2395, 1995; Yang et al.,
+Structure 4: 837-852, 1996) cell surface recognition by such proteins was
+thought to be located away from a L3 loop. In a preferred embodiment, the
+invention provides an isolated, synthetic or recombinant protein module or
+functional equivalent thereof comprising an amino acid sequence that is at
+least 85% identical to any of the sequences shown in tables 1-4, i.e. to an
+amino acid sequence of a peptide located from at about amino acid position 194
+to 220 in a pestiviral E<sup>rns</sup> protein and/or that is at least 70% identical to a L3
+loop seqience such as shown in table 5. Such peptides can be prepared
+synthetically with normal peptide synthesis or coupling techniques as
+described herein starting from individual amino acids or by coupling or
+linking smaller peptides of relevant sequence to another or by cleaving off from
+larger peptides. When desired, non-conventional amino acids can be used such
+as D-amino acids or others that normally do not occur in natural proteins.
+Such peptides can also be prepared via recombinant DNA-techniques via
+transcription and translation from recombinant nucleic acid encoding such a
+peptide or protein module, be it linked to for example a fusion protein or
+specific target molecule such as a desired binding molecule derived from an
+antibody or protein ligand or receptor binding molecule, and so on.
+In preferred embodiments as explained herein, the invention provides a
+module wherein said peptide is located from at about amino acid position 191
+to 222, or from about 194 to 227, or from about 191 to 227, or from at about
+amino acid position 176 to about 220, 222, or 227 in the case of the pestiviral 
+protein or residues 51-91 or 53-88 in the case of the L3 loop protein. These
+amino acid positions and their numbering are of course relative to known
+pestiviral sequences as for example shown in the figures herein wherein
+alignments of various pestiviral sequences are shown, which of course allows
+for alignment with yet unknown pestiviral sequences, and allows alignment
+with L3 loop sequences. As a rule of thumb it can be said that related
+sequences have at least 30-50% homology, preferably at least 70% homology,
+most preferably at least 85% homology, which allows identifying further
+relevant sequences present in nature or capable of being synthesised. As
+examples herein modules are described wherein said peptide comprises the
+amino acid sequence RQGAARVTSW LGRQLRIAGK RLEGRSK or
+RQGTAKLTTW LGKQLGILGK KLENKSK or RVGTAKLTTW LGKQLGILGK
+KLENKTK or RQGAAKLTSW LGKQLGIMGK KLEHKSK, or
+GNGKLIKGRTPIKFGKADCD RPPKHSQNGMGK or
+GDGKLIPGRTPIKFGKSDCDRPPKHSKDGNGK or
+GEGKILKGRTPIKFGKSDCDRPPKHSKDGNGK or GDGKILKGRTPIK
+WGNSDCDRPPKHSKNGDGK or a functional part thereof however,
+variations can be introduced for example by mutating into residues that
+increase helix propensity, for example by introducing one or more arginines or
+changing several or all L-amino acids to D-amino acids to reduce possible
+protease sensitivity.</p><p num="0006">Of course, the invention also provides a recombinant nucleic acid
+encoding a module according to the invention, for example to provide for a
+proteinaceous substance provided with a module according to the invention, for
+example provided with a targeting means.</p><p num="0007">More specifically, the invention in one aspect relates to the design of an
+antigenic substance, preferably peptide-based, corresponding to said protein
+module in the E<sup>rns</sup> protein of Pestiviruses or a L3 loop or ribosomal-inactivating
+proteins can be used as a basis for e.g. diagnostics tests,
+antibacterial or transporter peptides. For example, in one embodiment, the 
+invention provides method for inducing an antibody comprising administering
+to a host capable of forming antibodies a module or a substance according to
+the invention. Antibodies can be induced classically, by for example
+immunising an animal with said antigenic substance, or via more modern
+techniques, such as phage display, whereby so called synthetic antibodies are
+produced. Be it synthetic or classical (mono- or polyclonal), the invention
+provides an antibody specifically directed against a module according to the
+invention.</p><p num="0008">With the module and/or the antibody as provided the invention provides
+a method for detecting the presence or absence of an antibody directed against
+a pestivirus in a sample comprising contacting said sample with a module or a
+substance according to the invention said method preferably further
+comprising detecting the presence or absence of an antibody bound to said
+module or substance. Also is provided a method further comprising contacting
+said sample with said module or substance in the presence of a competing
+antibody directed against said module and detecting the presence or absence of
+competing antibody bound to said module or substance. Herewith the
+invention provides use of a method according to the invention for
+differentiating at least one animal from at least another animal. The invention
+thus provides a test which is based on a small fragment of the E<sup>rns</sup> protein.
+Sequence analysis and homology modelling was used for pestivirus E<sup>rns</sup> to
+identify a region that can be used for the design of antigenic substances and
+resulted in the identification of a small independently folding protein module
+which in its native state is exposed on the protein surface of the complete E<sup>rns</sup>
+protein, can be used to design antigenic substances which are comparable or
+superior to the complete protein.</p><p num="0009">In a further embodiment the invention not only provides a peptide that
+behaves as a superior antigen in the E<sup>rns</sup> peptide-Elisa but one that has
+additional characteristics that are very interesting and useful. Due to its
+unique biochemical nature a peptide as provided herein, for example 
+corresponding to the E<sup>rns</sup> C-terminal domain or to a L3 loop in a ribosomal-inactivating
+protein, is able to interact with a cell membrane and destabilize
+the membrane. The invention thus further provides a method for translocating
+a compound over a membrane of a cell comprising providing said compound
+with a module or substance according to the invention and contacting it with a
+cell, and, furthermore, it provides a method for eliciting antibiotic activity to a
+micro-organism comprising contacting said micro-organism with said module
+or substance.</p><p num="0010">Herein it is shown that such an L3 loop or E<sup>rns</sup> peptide or protein
+module as provided herein has antibacterial activity for for example gram-negative
+bacteria (<i>E. Coli</i>) and it has translocation activity for for example
+eukaryotic cell membranes.</p><p num="0011">A biological membrane is a very efficient barrier that protects the
+micromilieu of cells or intracellular compartments from the outside milieu. In
+order to interfere directly with biological processes inside the cell, it is
+necessary that pharmaceuticals cross the lipid bilayer to block/bind their
+targets. Many promising, potential therapeutics (hydrophilic organic
+molecules, peptides, proteins or genes) are ineffective because the cell
+membrane forms an insurmountable barrier. However, several peptides have
+been discovered recently, that can solve this problem because they are able to
+translocate over the lipid bilayer and are also able to transport a diverse set of
+cargoes inside the cell (Maduke et al., Science 260: 364-367, 1993).
+Interactions of pore forming peptides with model and artificial membranes
+have been studied extensively the last three decades. Several families of
+membrane destabilising peptides with antitumor, haemolytic, antibacterial
+activity or a combination have been found. Many of these peptides form
+amphipathic helices with a hydrophobic face and a positive charged face that
+organise and aggregate on the membrane surface and destabilise the
+membrane. Their mode of action has some resemblance with the recently
+discovered transport peptides (Matsuzaki et al, Biochim Biophys Acta 1376: 
+391-400, 1998; Lindgren et al., Trends Pharmacol SCI 21: 99-103, 2000). The
+invention now provides a pharmaceutical composition comprising a module or
+substance according to the invention useful for several purposes. For example,
+the invention provides use of a module or of a substance according to the
+invention for the preparation of a pharmaceutical composition capable of
+membrane translocation (a transport peptide), for the preparation of a
+pharmaceutical composition capable of eliciting antibiotic activity (an
+antibiotic), or for the preparation of a pharmaceutical composition capable of
+inducing antibodies(a vaccine) upon administration to a host.</p><p num="0012">The invention is further explained in the detailed description described
+herein without limiting it thereto. </p><heading>Detailed description</heading><p num="0013">For diagnostics, the invention provides a peptide comprising an amino acid
+sequence derived from E<sup>rns</sup> of a pestivirus, wherein said amino acid sequence
+has a for example length of 37 amino acid residues corresponding to the C-terminus
+of E<sup>rns</sup>, which is located C-terminal to the RNase domain. Preferably,
+said amino acid sequence comprises at least the amino acid residues 191 - 227
+of Pestivirus E<sup>rns</sup> and has at most 4 amino acid differences therewith.
+Preferably, said pestivirus E<sup>rns</sup> peptide is selected from the group consisting of
+Classical Swine Fever Virus (CSFV), strain Alfort 187, BVDV-1 strain
+M96751, BVDV-2, or BDV, strain X818. Said amino acid sequence preferably
+comprises a member selected from the group consisting of:
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">CSFV</entry><entry align="left">ENARQGAARV TSWLGRQLRI AGKRLEGRSK TW,</entry></row><row><entry align="left">BVDV-1</entry><entry align="left">EGARQGTAKL TTWLGKQLGI LGKKLENKSK TW,</entry></row><row><entry align="left">BVDV-2</entry><entry align="left">EGARVGTAKL TTWLGKQLGI LGKKLENKTK AW,</entry></row><row><entry align="left">BDV</entry><entry align="left">ENARQGAAKL TSWLGKQLGI MGKKLEHKSK TW;</entry></row></tbody></tgroup></table></tables></p><p num="0014">More preferably a member selected from the group consisting of
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">CSFV</entry><entry align="left">ENARQGAARV TSWLGRQLRI AGKRLEGRSK TWFGAYA,</entry></row><row><entry align="left">BVDV-1</entry><entry align="left">EGARQGTAKL TTWLGKQLGI LGKKLENKSK TWFGAYA,</entry></row><row><entry align="left">BVDV-2</entry><entry align="left">EGARVGTAKL TTWLGKQLGI LGKKLENKTK AWFGAHA,</entry></row><row><entry align="left">BDV</entry><entry align="left">ENARQGAAKL TSWLGKQLGI MGKKLEHKSK TWFGANA;</entry></row></tbody></tgroup></table></tables></p><p num="0015">Such as a member selected from the group consisting of <tables><table><tgroup cols="2"><tbody><row><entry align="left">CSFV</entry><entry align="left">DTALYLVDGMTNTI ENARQGAARV TSWLGRQLRI AGKRLEGRSK TWFGAYA</entry></row><row><entry align="left">BVDV-1</entry><entry align="left">DTTLYLVDGLTNSL EGARQGTAKL TTWLGKQLGI LGKKLENKSK TWFGAYA</entry></row><row><entry align="left">BVDV-2</entry><entry align="left">ETAIQLLDGATNTI EGARVGTAKL TTWLGKQLGI LGKKLENKTK AWFGAHA</entry></row><row><entry align="left">BDV</entry><entry align="left">DTALYVVDGVTNTV ENARQGAAKL TSWLGKQLGI MGKKLEHKSK TWFGANA</entry></row></tbody></tgroup></table></tables>
+It is preferable that the peptide is capable of adopting the tertiary structure of
+its counterpart in the corresponding E<sup>rns</sup> protein.</p><p num="0016">The invention also relates to an antigenic substance, or a precursor
+thereof, which allows discrimination between or identification of different
+pestivirus types or subtypes, or allows discrimination between or identification
+of antibodies against different pestivirus types or subtypes, which antigenic
+substance or precursor thereof comprises a peptide as defined herein.</p><p num="0017">A peptide, antigenic substance or precursor thereof as defined herein
+may be used in diagnosis of Pestivirus infections. This invention also provides
+a diagnostic testkit for the detection of Pestivirus, or antibodies against
+Pestivirus types or subtypes, which testkit comprises a peptide, antigenic
+substance or precursor thereof as defined herein, together with suitable means
+for detection. The testkit preferably provides for an enzyme linked
+immunosorbent assay.</p><p num="0018">The invention also provides a method for the detection of (antibodies
+against) Pestivirus comprising contacting a sample of a body fluid with a
+peptide, antigenic substance or precursor thereof as defined herein, in a
+manner such that a complex comprising said peptide, antigenic substance or
+precursor, and an antibody directed against said peptide, substance or
+precursor can be formed, followed by detection of said complex. </p><p num="0019">Furthermore, the invention provides a pharmaceutical composition or
+vaccine for the prophylaxis of Pestivirus infections comprising a peptide,
+antigenic substance or precursor thereof as defined herein, together with a
+suitable adjuvant or excipient for administration to a mammal.</p><p num="0020">The invention also provides a method for the prophylaxis of Pestivirus
+infections comprising administering to a mammal a composition as defined
+above, in an amount sufficient to elicit an immune response against
+Pestivirus.</p><p num="0021">Furthermore, the invention provides a peptidomimeticum that mimics a
+peptide as defined herein.</p><p num="0022">Another aspect of this invention is a method for inducing antibodies
+against Pestivirus types or subtypes comprising administering to a
+mammalian host an antigenic substance or precursor thereof as defined
+herein, together with a suitable adjuvant and harvesting resulting antibodies
+or antibody producing cells from said mammalian host.</p><p num="0023">An antibody directed against a type or subtype of Pestivirus obtainable
+by the above method is also part of the invention. Preferably, the antibody is a
+monoclonal antibody.</p><p num="0024">In another aspect, the invention provides a diagnostic testkit for the
+detection of or the discrimination between (antibodies against) subtypes or
+types of Pestivirus comprising the above antibody and suitable means for
+detection.</p><p num="0025">For antibacterial and transport activity, the invention provides a similar
+amino acid sequence as listed in table 1 and 2. Systematic analysis showed
+that shorter peptides comprising E<sup>rns</sup> amino acids 194 - 220 had higher
+antibacterial and transport activity and lower hemolytic activity. Said amino
+acid sequence preferably comprises a member selected from the group
+consisting of: <tables><table><tgroup cols="2"><tbody><row><entry align="left">CSFV</entry><entry align="left">RQGAARVTSW LGRQLRIAGK RLEGRSK,</entry></row><row><entry align="left">BVDV-1</entry><entry align="left">RQGTAKLTTW LGKQLGILGK KLENKSK,</entry></row><row><entry align="left">BVDV-2</entry><entry align="left">RVGTAKLTTW LGKQLGILGK KLENKTK,</entry></row><row><entry align="left">BDV</entry><entry align="left">RQGAAKLTSW LGKQLGIMGK KLEHKSK;</entry></row></tbody></tgroup></table></tables>
+or those presented in Table 5 relating to the L3 loop of ribosome-inactivating
+proteins.</p><p num="0026">Most peptides that have been used in serology represent continuous
+epitopes. It is impossible to detect antibodies against complex discontinuous
+epitopes using small linear peptides and it is difficult to predict discontinuous
+epitopes based on the amino acid sequence of a protein. In addition, the
+antigenic surface of large globular proteins cannot be mimicked accurately
+with a small linear peptide. We solved this problem by predicting an
+independently folding region in the E<sup>rns</sup> protein of pestiviruses that adopts a
+stable tertiary structure while retaining its antigenicity. This prediction is
+crucial for the correct design of a useful antigen. Two stretches of Pestivirus
+E<sup>rns</sup> show sequence homology with ribonuclease Rh (RNase Rh), a new class of
+microbial ribonuclease of <i>Rhizopus niveus</i>, member of the T<sub>2</sub>/S RNase
+superfamily. A typical feature for this type of RNase is the low base specificity
+and the large molecular weight. The crystal structure of RNase Rh has been
+determined (Kurihara et al., J. Mol Biol 255: 310-320, 1996) and the three-dimensional
+(3D) structure confirmed that both stretches with sequence
+homology to E<sup>rns</sup> constitute the active site of the RNase. Apart from the two
+stretches of sequence homology, further homology in the rest of the protein
+was not apparent.</p><p num="0027">Despite a low sequence homology , we were able to construct an
+alignment using different types of scoring matrices and multiple sequence
+alignment of a large set of RNase sequences. A satisfactory alignment was not 
+possible using alignment software with any parameter setting. Therefore, a
+part of the alignment was edited manually. For parts with low sequence
+homology, the alignment was guided by secondary structure prediction of the
+PHD software. After inspection of the multiple sequence alignment, some
+major dissimilarities between the sequences of pestivirus E<sup>rns</sup> and the other
+RNases can be observed. Compared with sequences of the other RNases, the
+pestivirus sequences have a truncation at the N-terminus, large insertions
+after residue 83 and 135 and an elongated and very dissimilar C-terminus.
+The 37 C-terminal residues could not be aligned with the other RNases. Other
+characteristics of the C-terminus are the high number of positive charges and
+a high score for amphipathic helicity. A helical wheel representation of
+residues 191 - 221 shows an almost perfect amphipathic helix with a
+hydrophobic face and a positively charged face. (Figure 2). The only three
+residues that may not correspond with the perfect amphipaticity are Ile210,
+Arg214 and Arg218. However, both arginines have an amphipathic character
+of their own and due to the long aliphatic sidechain, the positively charged
+guanidine group may very well project to the charged face of the helix.
+Inspection of the 3D model of the possible helical structure of the C-terminal
+37 residues showed that this was possible (Data not shown).</p><p num="0028">Although no obvious domains were found with software like SMART
+(Schultz et al., PNAS 95: 5857-5864, 1998), this C-terminal region which is
+separate from the RNase domain according to the alignment and with it's
+typical secondary structure can now be considered as a separate domain or
+module. Such a positively charged domain in an RNase molecule is not unique
+for E<sup>rns</sup> but has also been observed in ribotoxins, another class of RNases. The
+ribotoxins like alpha-sarcin and restrictocin contain a large inserted L3 loop
+(residue 53 - 91, table 5) compared with other RNases of the T1 superfamily
+(YAng et al., 1996). This loop has structural similarity (but no sequence
+similarity) to loops found in lectin sugar-binding domains and may be
+responsible for the ribotoxins ability to cross cell membranes. The sequence 
+similarity of the ribotoxin L3 loop is even higher with the C-terminal 37
+residues of E<sup>rns</sup> than with the structurally conserved lectin binding domains
+(Figure 3). Although the L3 loop is also positively charged, it has no apparent
+amphipathic character. Another interesting homology of the E<sup>rns</sup> C-terminal
+region is with the membrane interacting peptide magainin. The center of the
+E<sup>rns</sup> peptide has high sequence homology with the N-terminal half of magainin
+(Figure 3). This homology is even higher compared to the homology of
+magainin with other membrane interacting peptides that have been described.
+These types of membrane destabilising peptides often all have a tendency to
+form an amphipathic helix after binding the cell membrane. The positive
+charges may interact with the negative headgroups of phospholipids and the
+hydrophobic residues can interact with the fatty acid chains.</p><p num="0029">The (overall) 3D structure of E<sup>rns</sup> is similar to RNase Rh except for the
+C-terminal region, which is surprisingly similar to loop L3 of restrictocin or
+other ribosome-inactivating proteins This protein module folds independently
+and is metastable and can change to an alpha helical structure when it binds
+the cell membrane. The 3D structure of the C-terminal domain is not very
+important because of its spatial independence from the RNase domain.</p><p num="0030">With the aid of a modular structure it is possible to define antigenic
+regions on the surface of the protein which can be mimicked by single linear
+peptides. The domain corresponding to the C-terminal 37 residues (191 - 227)
+is the best candidate because of its location on the outer rim on the surface of
+the E<sup>rns</sup> dimer, it forms a small functional domain which folds independently
+from the rest of the protein and it is not masked by any potential
+carbohydrate.</p><heading>Development Elisa</heading><p num="0031">The invention provides an antigenic and in essence proteinaceous
+substance for discrimination of infected animals with different types of
+pestiviruses from animals vaccinated with a subunit vaccine that does not 
+contain the Erns peptide and infected animals. The antigenic substance is a
+peptide that corresponds to a C-terminal amino acid sequence of Pestivirus
+E<sup>rns</sup> which does not align with RNase Rh but with a L3 loop of a RIP and folds
+independently from the rest of the protein.</p><p num="0032">An antigenic substance according to this invention is to be interpreted
+as any peptide-like or peptide-based substance (e.g. a protein module as
+provided herein optionally linked to a another group such as a peptide or
+protein) capable of inducing an immune response against pestivirus or being
+recognized by a serum containing antibodies against a pestivirus. Precursors
+of such antigenic substances are for example comparable peptide-like or
+peptide-based substances, which are not immunogenic themselves but need for
+instance to be coupled to a carrier to be able to induce an immune response or
+to be recognized. Peptide-based or peptide-like substances are intended to
+include anything with the function of the peptides according to the present
+invention. This means that these substances may be peptides themselves in
+which a number of amino acid residues have been replaced or modified. It also
+means that they may be fusion proteins for instance designed to present the
+amino acid sequence of the peptides of the invention on their surface. The
+definition also includes peptidomimetics and anti-idiotype antibodies derived
+from the peptides according to the invention.
+
+In a preferred embodiment the invention provides peptides that can be used in
+diagnostic assays for detection of antibodies directed against specific pestivirus
+types (CSFV, BDV, BVDV-I, BVDV-II).</p><p num="0033">The provision of the protein module, the independently folding region of
+E<sup>rns</sup>, relates to all types of pestiviruses, and beyond. As a consequence, the
+invention is not limited to the peptides specifically disclosed herein, but
+extends to analogous peptides and their derivatives in all types of pestiviruses
+and all subtypes of these viruses and to homologues of the L3 loop of ribosome-inactivating
+proteins. Preferred peptides to be used according to the invention
+comprise at least antigenic parts of the peptides given in table 2 or derivatives 
+thereof, their length being from about 27 residues up to about 51 residues or
+transport peptides according to anyone of tables 1 - 5.
+
+We have evaluated the applicability of the peptides in diagnostics by the
+development of different diagnostic assays: indirect ELISAs in which the
+antigen is recognized in solid phase, an indirect ELISA in which the antigen is
+recognized in liquid phase. Other diagnostic assays can of course be easily
+designed by the man skilled in the art. These may of course be provided in any
+suitable format. Assays can be performed in solution and on solid phases, they
+can be performed using any kind of label, such as enzymes, solid particles,
+such as metal sols, or other sols, latex particles, dyes, fluorescent substances or
+radioactive materials. They even may be performed without labels, as can be
+done by agglutination assays. The peptides can be used to detect antibodies in
+for instance a fluid from a mammal, such as blood, serum, urine, and milk.
+Usually the antibody is bound by a peptide, module or substance according to
+the invention, which may be present on a solid phase or in a liquid phase.
+Afterwards the complex of peptide and antibody may be detected by a labelled
+reagent, which can be a labelled antibody directed against the host's (such as
+swine, bovine or sheep) antibodies.</p><p num="0034">According to the invention the peptides can also be used to obtain
+antibodies which are specific for Pestivirus types and/or subtypes. The
+peptides are administered to a mammal, usually a rodent, in an immunogenic
+form and after one or more booster administrations the serum from the animal
+is harvested and antibodies can be purified therefrom. Alternatively, the
+spleen of such animals may be removed to obtain antibody-producing cells.
+These can be changed, by fusion or transformation, into cell lines producing
+monoclonal antibodies. Assays based on (monoclonal) antibodies directed
+Pestivirus and induced by the peptides according to the invention are therefore
+also a part of the invention.</p><p num="0035">The peptides according to the invention can of course also be used in
+vaccines to prevent infection with Pestivirus. They may be used in conjunction 
+with other antigens to elicit an immune response against Pestivirus. Usually
+the peptide has to be coupled to a carrier to be presented in an immunogenic
+form before administration to a host. Other ways of rendering a peptide
+sufficiently immunogenic are known to the person skilled in the art. Adjuvants
+are usually added to vaccines to boost the immune response in a more aspecific
+manner.</p><heading>Antibacterial and transport peptide</heading><p num="0036">The invention further provides a membrane active peptide or module or
+substance which can be used as antibiotic and can be used as transport peptide
+which is for example capable to carry cargoes across the cell membrane. The
+membrane active peptide is similar to the described antigenic peptide which
+corresponds to a C-terminal amino acid sequence of Pestivirus E<sup>rns</sup> which does
+not align with RNase Rh but does align with the L3 loop of RIP's and folds
+independently from the rest of the protein. The L3 loop peptides are
+specifically membrane active peptides according to the invention as well.
+
+A membrane active substance according to this invention is to be interpreted
+as any peptide-like or peptide-based substance capable of inducing leakage of a
+cell membrane without being toxic at low concentrations (&lt;100 uM). Peptide-based
+or peptide-like substances are intended to include anything with the
+function of the peptides according to the present invention. This means that
+these substances may be peptides themselves in which a number of amino acid
+residues have been replaced or modified. It also means that they may be fusion
+proteins for instance designed to modify the cell specificity of the peptide.
+Preferred peptides to be used according to the invention comprise at least the
+membrane active part of the peptides given in table 4 or 5 or derivatives
+thereof.</p><p num="0037">The invention relates to a set of pestivirus diagnostic assays,
+antibacterial peptide and transport peptide based on peptides corresponding to 
+the C-terminal domain of pestivirus E<sup>rns</sup> or the L3 loop of RIP's. Preferred
+regions used for peptide based diagnostics are listed in table 2 and preferred
+membrane active peptides used for antibiotics or transport peptide are listed
+in Table 4 or 5. However, they can of course be used interchangeably for their
+various uses. The length of the peptide to be used in a diagnostic assay or
+vaccine is conveniently the exact length of the domain (residues 191 to 227, 37
+residues) but can of course be shorter or longer, as long as it does not
+essentially change in antigenic or immunogenic character. The maximum
+length of a suitable peptide (residues 177 to 227, 51 residues) can incorporate a
+14-residue linker region between the RNase domain and the C-terminal
+domain. This linker region may be exposed in case of uncertainty of the exact
+spatial position of the C-terminal domain relative to the RNase domain and
+because of the conformational change of the C-terminal domain. For that
+reason, the linker region may be part of a large C-terminal antigenic site. The
+preferred minimum length of a suitable peptide to be used in a diagnostic
+assay or vaccine is the part of the C-terminal domain that forms a
+amphipathic helix. This is the part of the C-terminal domain without the 5 C-terminal
+hydrophobic residues (191 to 222, 32 residues).</p><p num="0038">The diagnostic assays based on the peptides can be used to determine
+antibody levels in blood, serum, milk or other body fluids.
+
+The materials according to the invention can be used for incorporation in
+vaccines, for example to provide for a carrier of the desired antigen to antigen
+presenting cells, or to present an antigen within the context of MHC (I or II)
+peptide presentation, or to provide for mucosal vaccination by providing
+translocation of a desired antigen over an epithelial (gut) layer. The membrane
+active peptide according to the invention is killing cells and can for example be
+used to kill gram-negative bacteria like <i>E.Coli</i>, but also anti-tumour or anti-sperm
+activity is expected. The peptide can also be used to transport various
+cargos in eukaryotic cells, as far as into the Golgi system or in the nucleus of
+cells. Such cargoes can comprise protein or peptide material, PNA, RNA or 
+DNA, drugs, secondary metabolites, and so on. Peptide mixtures could be used
+as well, to provide for synergy in antibacterial activity, transportation or
+translocation.</p><heading><b>Examples</b>.</heading><heading><b>Structure analysis of pestivirus E<sup>rns</sup></b></heading><p num="0039">A detailed analysis of the primary structure and homology modelling of
+pestivirus E<sup>rns</sup> allowed the definition of antigenic regions on the surface of the
+protein which can be mimicked by single linear peptides. The C-terminal 37
+residues (191 - 227) is the best candidate because of its location on the outer
+rim on the surface of E<sup>rns</sup> and because it folds independently from the rest of
+the protein as a subdomain and it is not masked by any potential
+carbohydrate. The independent character of the C-terminus is also illustrated
+by the functional analysis of E<sup>rns</sup>. (E<sup>rns</sup> mutants have been made which are
+truncated from residue 168. In these mutants the whole C-terminal part from
+residues 169 to 227 is missing. This mutant is still able to fold natively
+because the discontinuous active site is still intact and the mutant has
+wildtype RNase activity. Furthermore, the C-terminal 37 residues don't align
+with the other RNases but they do align with a L3 loop in ribosome-inactivating
+proteins and with membrane active peptides like magainins.
+These membrane active peptides have a well-defined function and for the
+magainins it has been shown that they adopt a helical conformations if they
+contact the cell membrane. We have demonstrated the membrane active
+property of the E<sup>rns</sup> or L3 peptide agrees with the functionally independent
+nature of the subdomain. The location of this subdomain, the possibly
+independent folding of the sequence, the lack of potential glycosylation sites
+and its biological function make a peptide representing this region a suitable
+candidate to be used as antigen/immunogen for immunoassays and vaccines.
+Furthermore, the biological activity of the E<sup>rns</sup> or L3 peptide makes it a 
+suitable candidate to be used as an antibacterial agent and/or a transport
+peptide. </p><heading><b>Elisa development</b></heading><heading><u style="single">Peptide synthesis</u></heading><p num="0040">Peptides were selected from the C-terminal region, (residues 191 - 227) of
+CSFV E<sup>rns</sup>, strain Alfort 187, BVDV E<sup>rns</sup>, strain M96751 and BDV E<sup>rns</sup>, strain
+X818 and the L3 loop of restrictocin (residues 59-88; Lamy and Davies, NAR
+19: 1001-1006, 1991) and magainin (Zasloff, PNAS 84: 5449-5453, 1987)
+<sl><li>CSFV: acetyl-ENARQGAARV TSWLGRQLRI AGKRLEGRSK TWFGAYA-COOH</li><li>CSFV: biotin-ENARQGAARV TSWLGRQLRI AGKRLEGRSK TWFGAYA-COOH</li><li>BVDV: acetyl-EGARQGTAKL TTWLGKQLGI LGKKLENKSK TWFGAYA-COOH</li><li>BVDV: biotin-EGARQGTAKL TTWLGKQLGI LGKKLENKSK TWFGAYA-COOH</li><li>BDV : biotin-ENARQGAAKL TSWLGKQLGI MGKKLEHKSK TWFGANA-COOH</li><li>restrictocin: biotin-GNGKLIKGRTPIKFGKADCDRPPKHSQNGMGK-NH<sub>2</sub></li><li>magainin: biotin-GIGKFLHSAGKFGKAFVGEIMKS-NH<sub>2</sub></li></sl></p><p num="0041">Peptides were synthesized according to standard procedures on an Applied
+Biosystems 430A synthesizer using Fastmoc chemistry (Fields et al. Pept Res
+4: 95-101, 1991). An extra CSFV peptide was synthesized which was N-terminally
+biotinylated instead of acetylated.</p><heading><u style="single">Serum samples</u></heading><p num="0042">The following swine serum samples were incorporated in the study to evaluate
+the peptide Elisa's. <ul list-style="bullet"><li>Negative field serum samples (n=96) were randomly obtained from
+slaughtered adult pigs. Sera were all tested negative in the CSFV-E2 and pan-pestivirus
+antibody specific Ceditest ELISAs.</li><li>Pestivirus serum antibody-positive but CSFV-negative serum samples (n=96)
+were randomly obtained from slaughtered adult pigs. Swine sera were tested
+negative in Ceditest CSFV-E2 specific ELISA (Colijn et al.Vet Micro Biol. 59:
+15-25, 1997) and positive in the pan-pesti Elisa (Paton et al. J. Virol Meth. 31:
+315-324, 1991; Kramps et al. Vet Micro Biol.64: 135-144, 1999).</li><li>CSFV-antibody positive field serum samples tested by virus neutralisation
+test were obtained (n=95)from an infected pig farm (VR) that was infected
+during the CSF epizootic in the Netherlands in 1997-1998.</li><li>Sequential serum samples were collected during a vaccination/challenge
+experiment of 12 pigs that were vaccinated with E2 and infected with CSFV,
+strain Brescia. Specific Pathogen Free (SPF) animals were challenged with the
+virulent CSFV strain Brescia, 2 weeks after a single vaccination with the E2
+subunit vaccine.</li><li>Panel of swine sera that were experimentally infected with BVDV (n=5,
+numbers 4 - 8).</li><li>Panel of swine sera that were experimentally infected with CSFV strain
+Paderborn (n=5, numbers 9 - 13).</li><li>Panel of bovine sera that were experimentally infected with BVDV (n=9,
+numbers 1 - 6, r4590-51, r4590-52, 841).</li><li>Reference panel obtained from the European reference laboratory for CSFV:
+sera from swine that were experimentally infected with CSFV (n=14), BVD
+(n=1) or BVDV (n=12). Three sera were obtained from swine with
+experimental mixed infections of BVDV/BDV (n=1) and CSFV/BVDV (n=2).</li><li>Pool of hyperimmunesera against CSFV (HIS CSFV)</li><li>Pool of hyperimmunesera against BVDV (HIS BVDV)</li></ul></p><heading><u style="single">Solid phase peptide Elisa (sp-Elisa)</u></heading> <heading><i>Test procedure</i></heading><p num="0043">For the sp-Elisa a similar format was chosen as for a previously developed
+RSV G-peptide Elisa (Langedijk et al.J.Imm. meth. 193: 153-166, 1996) One
+microgram of N-terminally acetylated pestivirus peptide was coated per well of
+a high binding capacity flat bottom microplate (Greiner) in 50 ul of carbonate
+buffer pH 9.0, 37°C and dried overnight. The optimal dilution of the peptide to
+coat ELISA plates was chosen in such a manner that maximum binding was
+obtained as determined in a checkerboard titration. Test sera were titrated.
+Mouse-anti swine IgG (23.3.1b) conjugated to horseradish peroxidase (HRP)
+was diluted 1:1000. Rabbit anti-bovine IgG - HRP (P0159, Dako, Denmark)
+was diluted 1:1000. Conjugates and test sera were incubated for 1h at 37°C in
+ELISA buffer (8.1 mM Na<sub>2</sub>HPO<sub>4</sub>, 2.79 mM KH<sub>2</sub>PO<sub>4</sub>, 0.5 M NaCl, 2.68 mM KCl,
+1 mM Na<sub>2</sub>EDTA, 0.05% v/v Tween 80, pH 7.2) containing 4% horse serum. The
+substrate chromogen consisted of ABTS/H2O2. Incubation was performed
+during 30 minutes at 22°C. OD was measured at 405 nm (Titertek multiscan).</p><heading><i>Results</i></heading> <p num="0044">The reactivity of BVDV positive swine sera (4 - 8) and CSFV-positive swine
+sera (9 - 13) were tested for reactivity in the CSFV sp-ELSA and the BVDV sp-ELISA.</p> <p num="0045">The reactivity of bovine sera (numbers 1 - 6, r4590-51, r4590-52, 841) were
+tested for reactivity in the CSFV sp-ELISA and the BVDV sp-ELISA.
+Reactivity of the sera with the peptides was excellent which shows that the
+peptides indeed correspond to an immunodominant region of E<sup>rns</sup>. This agrees
+with the prediction of the immunodominant character of the subdomain.
+However, the CSFV and BVDV sera are cross-reactive for both peptides.
+Although the panel of CSFV-specific swine sera reacted better than the panel
+of BVDV-specific swine sera in the CSFV ELISA the reactivity of both panels
+of sera are similar in the BVDV ELISA. Similarly, the panel of BVDV-specific 
+bovine sera show high reactivity in the BVDV peptide ELISA (Fig 4. d), but
+the sera also cross react considerably in the CSFV ELISA (Fig. 4 c).</p> <heading><u style="single">Liquid phase peptide Elisa (lp-Elisa).</u></heading><p num="0046">Because of the high cross-reactivity in the solid phase peptide Elisa, an Elisa
+was developed in which the antigen was recognised in liquid phase (lp-Elisa).
+Moreover, by labelling the homologous peptide of the pestivirus of interest
+(CSFV peptide), unlabeled heterologous peptide of the cross-reactive pestivirus
+(BVDV peptide) could be used to block unspecific cross-reactivity.
+
+In the liquid phase peptide Elisa for detection of antibodies against CSFV, the
+test serum was incubated with a mixture of biotinylated CSFV peptide and
+acetylated BVDV peptide (without biotin). CSFV-specific antibodies will
+preferably bind the biotinylated CSFV peptide and BVDV-specific antibodies
+will preferably bind the non-biotinylated BVDV peptide. Subsequently, the
+mixture is transferred to an avidin-coated microtiterplate and the antibodies
+complexed to the biotinylated CSFV peptide will be caught by avidin and can
+be detected with an anti-swine peroxidase conjugate and subsequent
+incubation with substrate.</p><heading><i>Test procedure</i>:</heading><p num="0047">Avidin coated microtiter plates: 400 ng of ImmunoPure avidine (No. 21121,
+Pierce, rockfort, Illinois, USA) in 100 ul of carbonate buffer (pH 9) in each well
+of a high binding capacity flat bottom microplate (Greiner). Plates were
+covered and incubated overnight at 37°C. After coating the plates were kept
+frozen until use.
+
+Before use, the avidin-coated plates were incubated with 100 ul of phosphate
+buffered saline (PBS, pH 7) with 10 % horse serum per well for 2 h at 37°C on
+a shaker. </p><p num="0048">Meanwhile, test serum (1:50) was incubated with a mixture of 10 ng
+biotinylated CSFV-peptide and 30 ng of BVDV-peptide in 100ul of Elisa buffer
+with 4 % of horseserum during 1 h, at 37°C.
+
+Avidin-coated plates were washed and 100 ul of testserum and peptides
+mixture was transferred in the wells and incubated for 45' at 37°C.
+Subsequently, plates were washed and incubated with 100 ul mouse-anti
+swine IgG (23.3.1b) conjugated to horse radish peroxidase (HRP) (Van Zaane
+et al, 1987) diluted 1:1000 or with rabbit anti-bovine IgG - HRP (P0159, Dako,
+Denmark) diluted 1: The substrate chromogen consisted of ABTS/H<sub>2</sub>O<sub>2</sub>.
+Incubation was performed during 30 minutes at 22°C. OD was measured at
+405 nm (Titertek multiscan). Cut off value was chosen at OD &gt; 0.5 which is
+approximately 3 times the average background of known negative sera.</p><heading><i>Results</i></heading><p num="0049">The reactivity of BVDV positive swine sera (4 - 8) and CSFV-positive swine
+sera (9 - 13) were tested for reactivity in the CSFV lp-ELISA (Figure 5). This
+test format showed much better specificity than the sp-peptide Elisa.</p><p num="0050">To determine the specificity of the lp-peptide-ELISA, 96 negative field serum
+samples were tested in the lp-peptide- ELISA for CSFV E<sup>rns</sup>-Ab. Only 2 of 96
+samples showed a positive response (cut off was chosen at OD &gt; 0.5). Based on
+these data, the specificity of the lp-peptide ELISA for CSFV E<sup>rns</sup>-Ab amounts
+to 98% (= 94/96 x 100%) (Figure 6).
+
+To determine the specificity of the lp-peptide-ELISA, 96 field sera that contain
+antibodies directed against other pesti-viruses than CSFV (BVDV and BDV)
+were tested in the lp-peptide-ELISA. Only 2 of 96 samples showed a positive
+response (OD &gt; 0.5). Based on these data, the specificity of the lp-peptide
+ELISA for CSFV E<sup>rns</sup>-Ab, for non-CSFV-pestivirus positive sera, amounts to
+98% (= 94/96 x 100%) (Figure 6).
+ 
+To determine the sensitivity of the lp-peptide-ELISA, 95 field serum samples
+from a CSFV-infected farm (VR) obtained during the CSF epizootic in the
+Netherlands in 1997-1998 was tested in the lp-peptide-ELISA. Not a single
+serum sample showed a positive response (OD &gt; 0.5). Based on these data, the
+sensitivity of the lp-peptide ELISA for CSFV antibodies amounts to 100%
+(Figure 6).</p><p num="0051">An interesting application of the lp-peptide ELISA is a diagnostic test
+that can be used to detect CSFV infection of E2 vaccinated pigs. Therefore,
+sera of E2 vaccinated pigs should be unreactive in the lp-peptide ELISA and
+should be positive after CSFV challenge of the pigs. Successive serum samples,
+which were collected during a challenge experiment of 12 E2-vaccinated pigs
+that were infected with CSFV, were tested in the lp-peptide ELISA (Figure 7).
+The results show that all sera but one from E2 vaccinated pigs were negative
+prior to CSFV challenge. All animals (except 1) seroconverted 14 to 28 days
+after challenge. Finally, the performance of the lp-peptide ELISA was
+compared with the E2-based Ceditest ELISA and two other E<sup>rns</sup>-based ELISAs.
+The reactivity of a panel of European reference sera (see methods) was tested
+in all four ELISAs (Table 6). Although the E2-based ELISA was superior, (one
+false negative), the lp-peptide ELISA performed better (three false negative)
+than the other ELISAs based on epitope blocking using complete Erns (5 false-negative,
+one false-positive and one false-negative, six false-positive). It is very
+likely that the lp-peptide ELISA can even be optimized when it is changed into
+an antibody blocking format, like the other three ELISAs in Table 6.
+
+To illustrate the compatibility of the peptide ELISA with other pestiviruses,
+the CSFV-specific peptide ELISA was changed into a BVDV and a BDV ELISA
+by exchanging the biotinylated CSFV peptide for a biotinylated BVDV peptide
+or a biotinylated BDV peptide, the acetylated BVDV peptide for the acetylated
+CSFV. The same amount of peptide was used as in the lp-CSFV peptide ELISA
+and all assay conditions were kept similar. The panel of swine sera that were
+experimentally infected with BVDV (n=5, numbers 4 - 8) or CSFV (n=5, 
+numbers 9 - 13) were tested in the three different lp-peptide ELISAs for the
+three different pestivirus types. Table 7 shows that BVDV-positive sera react
+best in the BVDV-specific peptide ELISA and that the CSFV-positive sera
+react best in the CSFV ELISA although the CSFV sera cross react to some
+extent with the BVDV peptide. As expected on the basis of the sequence
+homology, the BVDV and BDV ELISAs show less differentiation. The BVDV
+and BDV ELISA both contained acetylated CSFV peptide as competing
+antigen. Some improvement may be possible when also acetylated BDV and
+BVDV peptide would be used as competing antigen in the BVDV and BDV
+ELISA, respectively.</p><p num="0052">The acetylated CSFV peptide (Table 2) was further used to test the
+immunogenicity of the peptide in pigs and to examine whether vaccination
+with the peptide could protect the pigs after CSFV challenge. Pigs were
+vaccinated with the various amounts of the peptide, formulated in Freund's
+Complete Adjuvant (FCA). Four weeks later the pigs were vaccinated again
+with 1.3 mg peptide, formulated in Freund's Incomplete Adjuvant (FIA). Five
+control pigs were vaccinated similarly with just FCA and FIA. Three weeks
+after the second vaccination the pigs were challenged nasally with 100 LD50
+CSFV, strain Brescia 456610. Antibody reactivity against the peptide was
+monitored during the experiment. Before and after challenge virus isolations
+were performed on white blood cells. After death or euthanasia, organs (tonsil,
+spleen, kidney and ileum) were tested for the presence of viral antigen using
+an immunofluorescence test.</p><heading>Monoclonal antibody production</heading><p num="0053">Production of E<sup>rns</sup>-peptide specific monoclonal antibodies (Mabs) was
+performed as described (Wensvoort et al., 1986). Two BALB/c mice were
+immunized intraperitoneally with 400 ug CSFV or BVDV peptide (residues
+191 - 227), mixed with Freund's complete adjuvant (FCA). After 4 weeks the 
+mice were boostered with 400 ug of peptide mixed in incomplete FCA and 3
+weeks later the mice were boosterd with 400 ug of peptide in phosphate
+buffered saline. Three days later the spleen cells were fused with sp20 cells
+and hybridomas were grown in selective medium. The Erns specificity of the
+produced Mabs (Mab 906-2-1 (BVDV) and Mab 907-35-1-1 (CSFV))was
+determined using an E<sup>rns</sup> antigen detection ELISA. Additionally, the Mabs
+reacted in the E<sup>rns</sup> peptide-based ELISAs</p><heading><b>Transport activity of E<sup>rns</sup> peptide.</b></heading><heading><u style="single">Test procedure</u>.</heading><p num="0054"><i>Binding of E<sup>rns</sup> peptide.</i> Monolayers or cytospins of cell suspensions of several
+cell types (Ebtr, SK6, sf-21, Caco-2 and HT-29) were fixed with acetone or 4%-paraformaldehyde.
+Glass slides or coverslips with fixed cells were incubated
+with biotinylated CSFV peptide (100 or 10 ug/ml PBS) for 1h at 37°C. After
+washing with PBS, the slips were incubated with avidin-HRP (1:100, Zymed)
+or avidin-FITC (1:70, Zymed) for 30' at 37°C. Cells were inspected for specific
+binding of the peptide by light microscopy (HRP) or fluorescence microscopy
+(FITC).</p><p num="0055"><i>Translocation of E<sup>rns</sup> peptide</i><u style="single">.</u> Translocation of the peptide across the plasma
+membrane was studied by incubation of live cells in suspension or
+subconfluent monolayers on coverslips with biotinylated peptide (200 to 0.4
+ug/ml culture medium) for 1, 10, 30, 45 or 180 minutes. After the time period,
+cells were fixed with 4% paraformaldehyde or cold methanol and labeled with
+avidin-FITC as described above. Fixed cells were inspected with fluorescence
+microscopy. Internalization was established with confocal microscopy. The
+following cell lines were used : A72, canine fibroblast tumor cells; MDCK,
+canine kidney epithelial cells; CCO, sheat-fish ovaria cells; EK-1, Eel Kidney 
+cells; CHS-E, salmon embryonal cells; BUEC, Bovine umbillical endothelial
+cells; BFDL, Bovine feutal diploïd lung cells (fibroblast); PUEC, Porcine
+umbillical endothelial cells; HT 29, colorectal adenocarcinoma, colon epithelial
+cells; CaCo-2, colorectal adenocarcinoma, colon epithelial cells; Hela,
+adenocarcinoma, cervix; Vero, normal monkey kidney epithelial cells; SK6,
+Swine Kidney cells; NPTh, Newborn Pig Thyroid cells; ECTC, Embryonal Calf
+Thyorid cells; MDBK, normal bovine kidney epithelial cells; EBTr, Epithelial
+Bovine Trachea cells; Bovine sperm cells; Sp20mouse myeloma B-cells.</p><p num="0056"><i>Trans epithelial transport.</i> The potential of E<sup>rns</sup> peptide to permeabilize
+epithelium and assist transport of molecules across epithelium was tested in
+USSING chambers of the snapwell type with CaCo-2 or HT29 cells, that
+closely mimic epithelial cell sheets.
+
+The potential of E<sup>rns</sup> peptide to carry non-linked molecules across epithelium
+was tested by mixing HRP (0.08 ug/ml culture medium) with several
+concentrations of E<sup>rns</sup> peptide (50, 5 and 0.5 ug/ml ringers medium) in the
+upper chamber. Samples were drawn from the lower chamber after 15, 30, 45,
+60, 120 and 240 minutes, which were tested for HRP concentration.</p><p num="0057"><i>Hemolytic assay.</i> Hemolytic activity of various peptide concentrations were
+determined by incubation with human, guinee pig or sheep erythrocyte
+suspensions (final erythrocyte concentration, 1% v/v) for 1h at 37 C. After
+cooling and centrifugation, the optical density of the supernatants were
+measured at 540 nm. Peptide concentrations causing 50% hemolysis (EC<sub>50</sub>)
+were derived from the dose-response curves.</p><p num="0058"><i>Anti microbial assay.</i> Two bacterial strains (Escherichia coli ATCC 25922 and
+Enterococcus faecalis ATCC 29212) were inoculated on heart infusion agar
+with 5% sheep blood and incubated aerobically overnight at 37°C. From the
+pure cultures suspensions were made in saline to a density of 0.5 McFarland.
+ 
+These suspensions were tenfold diluted in Mueller Hinton II broth resulting in
+a final inocolum of approximately 10<sup>7</sup> cfu/ml.
+
+Standard 96 wells micro titre trays were filled with 100 µl of twofold dilutions
+of peptide in physiologic salt solution in each well resulting in the following
+concentration range: 4000, 2000, 1000, 500, 250, 125, 62.25, 31.63, 15.82, 7.96
+and 0 µg/ml. The in column 12 were filled with 200 µl MH II broth (negative
+control).
+
+Columns 1 - 11 of the micro titre trays were filled with 100 µl of the final
+inoculum of the bacterial suspensions, thus diluting the concentrations of the
+peptide twofold resulting in the following peptide concentration range in the
+wells: 2000, 1000, 500, 250, 125, 62.25, 31.63, 15.82, 7.96, 3,98 and 0 µg/ml. In
+rows B, C and D 100 µl of the final inoculum of <i>E. coli</i> and rows E, F and G 100
+µl of the final inoculum of <i>E. faecalis</i> was pipetted. The final bacterial
+concentration was approximately 5 x 10<sup>5</sup> cfu/well.
+
+All trays were sealed and incubated overnight at 37°C.
+
+After incubation the micro titre trays were inspected visually for bacterial
+growth and the absorbance of the cultures at 630 nm (A<sub>630</sub>) was determined
+with an Elisa-reader.
+
+The peptide concentrations in the wells with the lowest concentrations that
+showed no visible growth or increase in absorbance compared with the
+negative control wells, were considered to be the Minimum Inhibitory
+Concentrations (MICs). The experiment was performed independently in
+triplicate. The test was repeated again in triplicate after two days with the
+final peptide concentration range in the wells: 5000, 2500, 1250, 625, 312.5,
+156.25, 78.12, 39.06, 19.58, 9.79, 4.88, 2.44 and 1.22 µg/ml.</p><p num="0059"><i>Peptide synthesis.</i> A panel of truncated E<sup>rns</sup> peptides was synthesised to
+elucidate the minimal membrane active region. Synthesis was performed as
+described above. </p><heading><u style="single">Results</u></heading><p num="0060">To determine the binding of the E<sup>rns</sup> peptide, biotinylated CSFV peptide were
+incubated with various fixed cells. Binding was determined after incubation
+with avidin-HRP or avidin-FITC. Biotinylated CSFV peptide was able to bind
+to all tested cell types. There was a marked difference between the binding to
+paraformaldehyde versus acetone fixed cells. In contrast to the
+paraformaldehyde-fixed cells, the acetone-fixed cells showed less binding with
+the peptide. Because much of the membrane fraction gets washed away after
+acetone-fixation, this suggests that the peptide may bind the membrane.
+
+Next, cell suspensions (mouse myeloma and bovine sperm) and subconfluent
+monolayers of various cell types (see test procedure) were incubated with
+biotinylated CSFV peptide and fixed after different time intervals. Inspection
+with fluorescent microscopy and confocal microscopy showed that the peptide
+had penetrated inside all cell types. The peptide entered the cell within 1
+minute, optimal fluorescence was established after 30 minutes (Figure 8 and
+9). Peptide was translocated to specific regions inside the nucleus, which may
+be the nucleoli. Peptide was also distributed around the nucleus in
+membranous parts in the cytosol. The colocalisation in the nucleoli was
+established by double staining with acridinorange (Merck, Darmstadt,
+Germany), and streptavidin - texas red. Yellow Fluorescence was observed
+which indicates co-localisation of peptide and nucleoli stain.
+
+Because the plasma membrane is similar for all types of eukaryotic cells, a
+membrane active peptide is expected to have a broad specificity. However, the
+translocation may be dependent on the cell cycle because confluent cells were
+hardly stained compared to subconfluent, actively dividing cells (data not
+shown). Next, the membrane active region of the peptide was precisely defined
+by testing the translocation activity of a panel of truncations of the E<sup>rns</sup>
+peptide and some peptides with N-terminal additions and C-terminal
+deletions. Translocation to the nucleus was more effective with the CSFV,
+strain Alfort, E<sup>rns</sup> peptide compared to the BVDV or BDV E<sup>rns</sup> peptide. The 
+CSFV, strain Alfort, E<sup>rns</sup> peptide translocated also more effective than the
+CSFV peptide corresponding to strains in which positions 209, 210 and 217
+were substituted. Furthermore, deletion of the seven most C-terminal residues
+and the three N-terminal residues increased the nuclear translocation activity
+of the peptide. Because of the homology, magainin and the L3 loop were also
+tested for translocation. L3 showed translocation, magainin not.
+
+The most active biotinylated peptide (residues 194 - 220) was still (faintly)
+detectable at 125 nM. As a result, the elucidation of the minimal essential part
+of the translocation peptide also proves that a C-terminal cargo of at least 6
+residues can be transported and a N-terminal cargo of at least 13 residues plus
+a biotin can be transported. Because the peptide is probably also able to
+transport the RNase domain of E<sup>rns</sup> inside the cell, it is also expected that
+large proteins can be transported by the peptide. After mixing equimolar
+amounts of streptavidin-FITC (52 kD, neutral) with the most active E<sup>rns</sup>
+peptide (residues 194-220) (30 uM) it was possible to transport streptavidin-FITC
+inside the cell and the nucleus. (Figure 11) The peptide was also able to
+carry avidin-TexasRed (66 kD, glycosylated, positively charged) inside the
+cells.
+
+To check whether the membrane destabilising activity had a general toxic
+effect on cells, leakage of the cell was tested for tryphan blue after peptide
+incubation of 30 minutes. Only at high concentrations of peptide (&gt;35 uM)
+some tryphan blue could be determined inside the cell, especially in isolated
+areas in the nucleus.</p><p num="0061"><i>Trans epithelial transport.</i> Next, the peptide was tested for the ability to assist
+leakage of proteins through an epithelial cell sheet. In Figure 11 it is shown
+that HorseRadish Peroxidase which was mixed with the peptide could be
+transferred through the cell sheet. </p><p num="0062"><i>Hemolytic activity.</i> Hemolysis of erythrocytes can be used to measure the
+effect of the peptides on eukaryotic cell membranes. Effective, non-toxic
+transport peptides should preferably have high translocation activity and low
+hemolytic activity and/or toxic activity.
+
+Hemolytic activity of various Erns peptides is shown in Table 8. The different
+peptides show a broad range of hemolytic activities on guinee pig red blood
+cells. Interestingly, the peptide with the highest translocation activity
+(residues 194 - 220) has a low hemolytic activity.</p><p num="0063"><i>Antibacterial activity.</i> Because of the membrane activity and the homology
+with antibacterial peptides, the antibacterial activities of the peptides were
+determined as described above. The peptides indeed showed antibacterial
+activity against the gram-negative <i>E. coli</i> but not against <i>E. faecalis.</i> The
+MICs against <i>E. coli</i> correlate with the translocation activity of the peptide.
+Again, the peptide corresponding to residues 194 - 220 was the most active
+peptide. A bactericidal effect of the peptide was recorded at two dilution steps
+above the MIC. </p><heading><b>Descriptions of the figures</b></heading><heading>Figure 1.</heading><p num="0064">Schematic representation of alignment of pestivirus E<sup>rns</sup> with RNase Rh which
+indicates the modular organisation of E<sup>rns</sup>. E<sup>rns</sup> consists of an RNase domain
+(dotted) and a C-terminal membrane active domain (filled black). The C-terminal
+domain (residues 191 - 227) which shows resemblance to the L3 loop
+of cytotoxic RNases is described in this invention. RNase active site domains
+are shown as chequered boxes. Potential glycosylation sites are shown as
+ellipses.</p><heading>Figure 2.</heading><p num="0065">Helical wheel representation of residues 194 - 220 of CSFV E<sup>rns</sup>.</p><heading>Figure 3.</heading><p num="0066">Sequence alignment of pestivirus E<sup>rns</sup> C-terminal domains with magainin and
+the L3 loop of restrictocin. Residues within one distance unit from magainin
+are boxed. Units are defined in structural distance table in the magalign
+package of DNASTAR, Inc. The Structural table scores for residues that are
+chemically and spatially similar. All identities score a value of 6. Mismatches
+score less than identities. The Structural table is designed for use with the
+Jotun-Hein method.</p><heading>Figure 4.</heading><p num="0067"><sl><li>a. Reactivity (optical density, OD) in CSFV sp-peptide ELISA of dilutions of
+BVDV specific swine sera (4b - 9b), CSFV specific swine sera (9c to 13c) and
+CSFV-specific hyperimmune serum. </li><li>b. Reactivity in BVDV sp-peptide ELISA of dilutions of BVDV specific swine
+sera (4b - 9b), CSFV specific swine sera (9c to 13c) and CSFV-specific
+hyperimmune serum.</li><li>c. Reactivity in CSFV sp-peptide ELISA of dilutions of BVDV specific bovine
+sera (1 - 6, r4590-51, r4590-52, 841) and BVDV-specific hyperimmune serum.</li><li>d. Reactivity in BVDV sp-peptide ELISA of dilutions of BVDV specific bovine
+sera (1 - 6, r4590-51, r4590-52, 841) and BVDV-specific hyperimmune serum.</li></sl></p><heading>Figure 5.</heading><p num="0068"><sl><li>a. Reactivity (optical density, OD) in CSFV lp-peptide Elisa of dilutions of
+BVDV specific swine sera (4b - 9b) and CSFV specific swine sera (9c to 13c)
+and CSFV-specific hyperimmune serum.</li><li>b. Reactivity in CSFV lp-peptide Elisa of dilutions of BVDV specific bovine
+sera (1 - 6, r4590-51, r4590-52, 841) and BVDV-specific hyperimmune serum.</li></sl></p><heading>Figure 6.</heading><p num="0069">Reactivity of several panels of sera in the CSFV lp-peptide ELISA as described
+in the test procedure.
+
+Negative field serum samples (n=96) were randomly obtained from
+slaughtered adult pigs and were all tested negative in standard pestivirus
+ELISA. Pestivirus positive but CSFV-negative serum samples (n=96) were
+randomly obtained from slaughtered adult pigs. CSFV-positive field serum
+samples were obtained (n=95) from an infected farm (VR) that was infected
+during the CSF epizootic in the Netherlands in 1997-1998.</p><heading>Figure 7.</heading><p num="0070">Reactivity of successive serum samples collected during a
+vaccination/challenge experiment in the CSFV lp-peptide Elisa. Twelve pigs
+were vaccinated with E2, 14 days before challenge. </p><heading>Figure 8.</heading><p num="0071">Distribution of biotinylated CSFV E<sup>rns</sup> (a) and control (b) peptide (50 uM) after
+30 minutes of incubation with subconfluent Ebtr cells grown on microscopic
+slide. Cells were fixed with cold methanol and biotinylated peptide was
+visualized by staining with streptavidin-FITC for 30 minutes. Fluorescent
+microscopy image (25 X).</p><heading>Figure 9.</heading><p num="0072">As Figure 8a. Image taken with confocal microscope (60 X).</p><heading>Figure 10.</heading><p num="0073">Distribution of complex of streptavidin-FITC and biotinylated (a) and
+unbiotinylated (b) E<sup>rns</sup> peptide (residues 194-220) at 3.75 µM after 30 minutes
+incubation with live cells.</p><heading>Figure 11.</heading><p num="0074">Leakage of HRP through epithelial cell sheet incubated with 0, 0.5 5 and 50
+µg/ml BVDV E<sup>rns</sup> peptide. <img id="img-00360001" orientation="unknown" wi="113" img-format="tif" img-content="tb" file="00360001.tif" inline="no" he="31"/><img id="img-00370001" orientation="unknown" wi="149" img-format="tif" img-content="tb" file="00370001.tif" inline="no" he="226"/><img id="img-00380001" orientation="unknown" wi="151" img-format="tif" img-content="tb" file="00380001.tif" inline="no" he="228"/><img id="img-00390001" orientation="unknown" wi="64" img-format="tif" img-content="tb" file="00390001.tif" inline="no" he="17"/><tables><table><tgroup cols="4"><tbody><row><entry nameend="4" namest="1">Comparison of reactivity (OD 405) in different Pestivirus peptide ELISAs</entry></row><row><entry align="center">Serum number</entry><entry align="center">CSFV</entry><entry align="center">BVDV</entry><entry align="center">BDV</entry></row><row><entry align="left">4 BVDV</entry><entry align="center">0.236</entry><entry align="center">1.346</entry><entry align="center">0.781</entry></row><row><entry align="left">5 BVDV</entry><entry align="center">0.129</entry><entry align="center">0.724</entry><entry align="center">0.388</entry></row><row><entry align="left">6 BVDV</entry><entry align="center">0.106</entry><entry align="center">3.211</entry><entry align="center">0.824</entry></row><row><entry align="left">7 BVDV</entry><entry align="center">0.250</entry><entry align="center">4.000</entry><entry align="center">4.000</entry></row><row><entry align="left">8 BVDV</entry><entry align="center">0.104</entry><entry align="center">4.000</entry><entry align="center">2.325</entry></row><row><entry align="left">9 CSFV</entry><entry align="center">0.487</entry><entry align="center">0.367</entry><entry align="center">0.349</entry></row><row><entry align="left">10 CSFV</entry><entry align="center">2.090</entry><entry align="center">1.612</entry><entry align="center">0.343</entry></row><row><entry align="left">11 CSFV</entry><entry align="center">2.555</entry><entry align="center">0.610</entry><entry align="center">0.246</entry></row><row><entry align="left">12 CSFV</entry><entry align="center">1.133</entry><entry align="center">0.453</entry><entry align="center">0.412</entry></row><row><entry align="left">13 CSFV</entry><entry align="center">1.253</entry><entry align="center">0.573</entry><entry align="center">0.436</entry></row><row><entry align="left">HIS CSFV
+
+1:500</entry><entry align="center">2.263</entry><entry align="center">0.471</entry><entry align="center">0.624</entry></row><row><entry align="left">HIS CSFV
+
+1:1000</entry><entry align="center">1.419</entry><entry align="center">0.267</entry><entry align="center">0.356</entry></row><row><entry align="left">HIS CSFV
+
+1:2000</entry><entry align="center">0.871</entry><entry align="center">0.166</entry><entry align="center">0.180</entry></row><row><entry align="left">Negative serum</entry><entry align="center">0.152</entry><entry align="center">0.150</entry><entry align="center">0.153</entry></row><row><entry>All sera were diluted 1:50 except for the HIS sera</entry></row></tbody></tgroup></table></tables><img id="img-00410001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00410001.tif" inline="no" he="205"/><img id="img-00420001" orientation="unknown" wi="155" img-format="tif" img-content="tb" file="00420001.tif" inline="no" he="203"/><img id="img-00430001" orientation="unknown" wi="128" img-format="tif" img-content="tb" file="00430001.tif"  inline="no" he="231"/><tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">Antibacterial effect of E<sup>rns</sup> or L3 peptides</entry></row><row><entry align="left">Peptide<sup><!--footnotes removed--></sup></entry><entry align="left">MIC (ug/ml)<sup><!--footnotes removed--></sup></entry></row><row><entry align="left">191-227</entry><entry align="left">47</entry></row><row><entry align="left">191-227</entry><entry align="left">91</entry></row><row><entry align="left">194-230</entry><entry align="left">93</entry></row><row><entry align="left">184-223</entry><entry align="left">46</entry></row><row><entry align="left">181-220</entry><entry align="left">51</entry></row><row><entry align="left">177-216</entry><entry align="left">224</entry></row><row><entry align="left">172-211</entry><entry align="left">&gt;500</entry></row><row><entry align="left">191-223</entry><entry align="left">41</entry></row><row><entry align="left">191-220</entry><entry align="left">47</entry></row><row><entry align="left">191-216</entry><entry align="left">95</entry></row><row><entry align="left">191-211</entry><entry align="left">395</entry></row><row><entry align="left">194-220</entry><entry align="left">50</entry></row><row><entry align="left">194-218</entry><entry align="left">25</entry></row><row><entry align="left">196-220</entry><entry align="left">25</entry></row><row><entry align="left">199-220</entry><entry align="left">23</entry></row><row><entry align="left">202-220</entry><entry align="left">179</entry></row><row><entry align="left">205-220</entry><entry align="left">&gt;500</entry></row><row><entry align="left">L3</entry><entry align="left">&gt;500<!--footnotes removed--><!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Annex to the application documents - subsequently filed sequences listing</u></heading><p num="0075"><img id="img-00450001" orientation="unknown" wi="135"  img-format="tif"  img-content="tx"  file="00450001.tif" inline="no" he="204"/><img id="img-00460001" orientation="unknown" wi="157" img-format="tif" img-content="tx" file="00460001.tif" inline="no" he="230"/><img id="img-00470001" orientation="unknown" wi="157" img-format="tif" img-content="tx" file="00470001.tif" inline="no" he="230"/><img id="img-00480001" orientation="unknown" wi="156" img-format="tif" img-content="tx" file="00480001.tif" inline="no" he="230"/><img id="img-00490001" orientation="unknown" wi="163" img-format="tif" img-content="tx" file="00490001.tif" inline="no" he="221"/><img id="img-00500001" orientation="unknown" wi="151" img-format="tif" img-content="tx" file="00500001.tif" inline="no" he="230"/><img id="img-00510001" orientation="unknown" wi="161" img-format="tif" img-content="tx" file="00510001.tif" inline="no" he="228"/><img id="img-00520001" orientation="unknown" wi="152" img-format="tif" img-content="tx" file="00520001.tif" inline="no" he="232"/><img id="img-00530001" orientation="unknown" wi="152" img-format="tif" img-content="tx" file="00530001.tif" inline="no" he="232"/><img id="img-00540001" orientation="unknown" wi="159" img-format="tif" img-content="tx" file="00540001.tif" inline="no" he="229"/><img id="img-00550001" orientation="unknown" wi="152" img-format="tif" img-content="tx" file="00550001.tif" inline="no" he="231"/><img id="img-00560001" orientation="unknown" wi="161" img-format="tif" img-content="tx" file="00560001.tif" inline="no" he="231"/><img id="img-00570001" orientation="unknown" wi="154" img-format="tif" img-content="tx" file="00570001.tif" inline="no" he="232"/><img id="img-00580001" orientation="unknown" wi="162" img-format="tif" img-content="tx" file="00580001.tif" inline="no" he="57"/></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An isolated, synthetic or recombinant protein module or functional
+equivalent thereof comprising an amino acid sequence that is at least 50%
+identical to an amino acid sequence of a peptide located from at about amino
+acid position 194 to 220 in a pestiviral Erns protein RNase or located at from at
+about amino acid position 59 to 88 in a L3 loop of a cytotoxic Rnase of a
+ribosome-inactivating protein.</claim-text></claim><claim num="2"><claim-text>A module according to claim 1 that is at least 70% identical to said amino
+acid sequence.</claim-text></claim><claim num="3"><claim-text>A module according to claim 1 that is at least 85% identical to said amino
+acid sequence.</claim-text></claim><claim num="4"><claim-text>A module according to anyone of claims 1 to 3 wherein said peptide
+comprises
+<claim-text><claim-text>RQGAARVTSW LGRQLRIAGK RLEGRSK or</claim-text><claim-text>RQGTAKLTTW LGKQLGILGK KLENKSK or</claim-text><claim-text>RVGTAKLTTW LGKQLGILGK KLENKTK or</claim-text><claim-text>RQGAAKLTSW LGKQLGIMGK KLEHKSK or</claim-text><claim-text>GNGKLIKGRTPIKFGKADCDRPPKHSQNGMGK or</claim-text><claim-text>GDGKLIPGRTPIKFGKSDCDRPPKHSKDGNGK or</claim-text><claim-text>GEGKILKGRTPIKFGKSDCDRPPKHSKDGNGK or</claim-text><claim-text>GDGKILKGRTPIKWGNSDCDRPPKHSKNGDGK or a functional part thereof.</claim-text></claim-text></claim-text></claim><claim num="5"><claim-text>A proteinaceous substance provided with a module according to anyone of
+claims 1 to 4.</claim-text></claim><claim num="6"><claim-text>A substance according to claim 5 provided with a targeting means.</claim-text></claim><claim num="7"><claim-text>A pharmaceutical composition comprising a module according to anyone of
+claims 1 to 4 or of a substance according to claim 5 or 6.</claim-text></claim><claim num="8"><claim-text>Use of a module according to anyone of claims 1 to 4 or of a substance
+according to claim 5 or 6 for the preparation of a composition such as a
+pharmaceutical or cosmetic composition capable of membrane translocation.</claim-text></claim><claim num="9"><claim-text>Use of a module according to anyone of claims 1 to 4 or of a substance
+according to claim 5 or 6 for the preparation of a composition such as a
+pharmaceutical or cosmetic composition capable of eliciting antibiotic activity.</claim-text></claim><claim num="10"><claim-text>Use of a module according to anyone of claims 1 to 4 or of a substance
+according to claim 5 or 6 for the preparation of a composition capable of
+inducing antibodies.</claim-text></claim><claim num="11"><claim-text>A method for translocating a compound over a membrane of a cell
+comprising providing said compound with a module according to anyone of
+claims 1 to 4 or with a substance according to claim 5 or 6 and contacting it
+with a cell.</claim-text></claim><claim num="12"><claim-text>A method for eliciting antibiotic activity to a micro-organism comprising
+contacting said micro-organism with a module according to anyone of claims 1
+to 4 or with a substance according to claim 5 or 6.</claim-text></claim><claim num="13"><claim-text>A method for inducing an antibody comprising administering to a host
+capable of forming antibodies a module according to anyone of claims 1 to 4 or
+a substance according to claim 5 or 6.</claim-text></claim><claim num="14"><claim-text>An antibody specifically directed against a module according to anyone of
+claims 1 to 4.</claim-text></claim><claim num="15"><claim-text>A method for detecting the presence or absence of an antibody directed
+against a pestivirus in a sample comprising contacting said sample with a
+module according to anyone of claims 1 to 4 or a substance according to claim 5
+or .</claim-text></claim><claim num="16"><claim-text>A method according to claim 15 further comprising detecting the presence
+or absence of antibody bound to said module or substance.</claim-text></claim><claim num="17"><claim-text>A method according to claim 15 further comprising contacting said sample
+with said module or substance in the presence of a competing antibody
+directed against said module and detecting the presence or absence of
+competing antibody bound to said module or substance.</claim-text></claim><claim num="18"><claim-text>Use of a method according to anyone of claims 15 to 17 for differentiating
+at least one animal from at least another animal.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

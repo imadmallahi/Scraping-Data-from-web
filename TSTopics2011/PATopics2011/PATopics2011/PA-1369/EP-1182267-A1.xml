@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1182267-A1" country="EP" doc-number="1182267" kind="A1" lang="EN" family-id="18609733" status="new" date-produced="20090516" date="20020227"><bibliographic-data><publication-reference ucid="EP-1182267-A1" status="new" fvid="23378139"><document-id status="new" format="original"><country>EP</country><doc-number>1182267</doc-number><kind>A1</kind><date>20020227</date></document-id></publication-reference><application-reference ucid="EP-01917739-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01917739</doc-number><kind>A</kind><date>20010330</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-0102806-W" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>0102806</doc-number><kind>W</kind><date>20010330</date></document-id></priority-claim><priority-claim ucid="JP-2000094727-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2000094727</doc-number><kind>A</kind><date>20000330</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C12Q   1/68        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12Q   1/68        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C12Q   1/68E+565/518+563/107</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">VERFAHREN ZUR BESTIMMUNG DER BASENSEQUENZ EINES EINZELNEN NUKLEINSÄUREMOLEKÜLS</invention-title><invention-title load-source="ep" status="new" lang="EN">METHOD OF DETERMINING BASE SEQUENCE OF SINGLE NUCLEIC ACID MOLECULE</invention-title><invention-title load-source="ep" status="new" lang="FR">PROCEDE POUR DETERMINER UNE SEQUENCE DE BASE D'UNE MOLECULE INDIVIDUELLE D'ACIDE NUCLEIQUE</invention-title><citations><patent-citations><patcit ucid="EP-0969083-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0969083</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5302509-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5302509</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5547839-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5547839</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1990013666-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1990013666</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1993021340-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1993021340</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2000006770-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2000006770</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>See also references of WO     0173121A1</text><sources><source name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>GENESIS RES INST INC</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>TOYOTA MOTOR CO LTD</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>GENESIS RESEARCH INSTITUTE, INC.</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>TOYOTA JIDOSHA KABUSHIKI KAISHA</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Genesis Research Institute, Inc.</last-name><address><street>4-1-35, Noritake-shinmachi Nishi-ku</street><city>Nagoya-shi, Aichi-ken 451-0051</city><country>JP</country></address></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>TOYOTA JIDOSHA KABUSHIKI KAISHA</last-name><address><street>1, Toyota-cho</street><city>Toyota-shi, Aichi 471-8571</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>KONDOW TAMOTSU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MAFUNE FUMITAKA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TAKEDA YASHIHIRO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KONDOW, TAMOTSU</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MAFUNE, FUMITAKA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TAKEDA, YASHIHIRO</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KONDOW, TAMOTSU</last-name><address><street>1-3-1-1002A, Echujima</street><city>Koto-ku, Tokyo 135-0044</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MAFUNE, FUMITAKA</last-name><address><street>2-7-5-1905, Shinonome</street><city>Koto-ku, Tokyo 135-0062</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TAKEDA, YOSHIHIRO</last-name><address><street>101, Bigfarm, 3-6-5, Imagawa</street><city>Urayasu-shi, Chiba 279-0022</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Leson, Thomas Johannes Alois, Dipl.-Ing.</last-name><address><street>Tiedtke-Bühling-Kinne &amp;amp; Partner GbR, TBK-Patent, Bavariaring 4</street><city>80336 München</city><country>DE</country></address> </addressbook></agent></agents></parties><international-convention-data><pct-or-regional-filing-data ucid="JP-0102806-W" status="new"><document-id status="new" format="original"><country>JP</country> <doc-number>0102806</doc-number> <kind>W</kind> </document-id></pct-or-regional-filing-data><pct-or-regional-publishing-data ucid="WO-2001073121-A1" status="new"><document-id status="new" format="original"><country>WO</country><doc-number>2001073121</doc-number><kind>A1</kind><date>20011004</date></document-id></pct-or-regional-publishing-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The present invention relates to a method for determining a nucleotide sequence
+of a nucleic acid by single dye molecule detection, the method comprising:
+<sl><li>(1) a step of immobilizing a nucleic acid molecule, or a primer which has a
+sequence complementary to a part of the sequence of the nucleic acid molecule,
+onto the surface of a solid;</li><li>(2) a step of annealing the primer or the nucleic acid molecule to the nucleic acid
+molecule or the primer, respectively;</li><li>(3) a step of providing a solution which contains DNA polymerase and one type of
+dye-labeled dNTP, or RNA polymerase and one type of dye-labeled NTP, to the
+immobilized nucleic acid molecule, and allowing the nucleotide to react with the
+3' end of the primer, whereby a nucleotide, which forms a base-pair with a base
+opposed to the reaction site, is bound to the primer by action of the polymerase;</li><li>(4) a step of detecting the presence of a bound, dye-labeled dNTP or NTP;</li><li>(5) a step of disrupting the dye molecule of the bound, dye-labeled dNTP or NTP;</li><li>(6) a step of repeating the steps (3) to (5) while changing the type of dye-labeled
+dNTP or NTP in turn, to sequentially bind dNTPs or NTPs which base-pair with
+the nucleotides of the nucleic acid molecule; and</li><li>(7) a step of determining the nucleotide sequence of the nucleic acid molecule based
+on the types of the sequentially bound dNTPs or NTPs.</li></sl><img id="img-00000001"  orientation="unknown" wi="76" img-format="tif" img-content="ad" file="00000001.tif"  inline="no"  he="53"/></p></abstract><description load-source="ep"  status="new" lang="EN"><heading>TECHNICAL FIELD OF THE INVENTION</heading><p num="0001">The present invention relates to a method for determining nucleotide sequences of
+single nucleic acid molecules by single molecule detection.</p><heading>BACKGROUND OF THE INVENTION</heading><p num="0002">The Sanger method (Proc. Natl. Acad. Sci. USA, 74:5463, 1977) is routinely used
+as a method for determining a nucleotide sequence of DNA. This method is also
+referred to as the dideoxy chain termination method, comprising the steps of annealing a
+primer to the 5' end of a DNA sample, synthesizing a complementary chain in the
+presence of DNA polymerase and four deoxynucleoside triphosphates (dNTPs where N
+denotes A, C, T and G) and each of 2', 3'-dideoxynucleoside triphosphates (ddNTPs
+where N denotes A, C, T or G), stopping the elongation reaction at a position where
+ddNTP is incorporated, and performing gel electrophoresis for the obtained reaction
+product, thereby determining a nucleotide sequence of the DNA sample. The DNA
+fragments formed at this time are generally labeled with a radioactive label, which
+enables the identification of the position of the fragments.</p><p num="0003">Furthermore, since radioactive labeling requires a special facility, other methods
+for determining nucleotide sequences which employ fluorescent labels in place of
+radioactive labels to detect fluorescence by irradiation of a laser beam, have also been
+developed (e.g. Japanese Patent No. 2901004, and JP-B-7-43347).</p><p num="0004">However, the use of the Sanger method involves some problems such as that it 
+requires production of a large number of copies of the DNA to be sequenced by
+previously incorporating the DNA into a vector, e.g. M13, and that the number of
+detectable bases is limited to a maximum 1,000 bp per lane of electrophoresis. Hence,
+if the nucleotide sequence of a DNA can be determined by directly identifying the bases
+from the 5' end of the sequence one by one, and an isolated single DNA molecule can
+be used for direct sequencing without requiring a number of replicated molecules of
+DNA, then efficiency of sequencing will be significantly improved.</p><p num="0005">Thus, the object of the present invention is to provide a method for determining
+nucleotide sequences of single nucleic acid molecules by single molecule detection.
+This method has advantages in that it enables to detect bases of a nucleic acid one by
+one, in addition to enabling direct decoding of intracellular DNA or RNA molecules.
+Furthermore, this method thereby improves the speed of sequencing by one to two
+orders of magnitude and enables direct sequencing without producing a number of
+copies of a single-stranded nucleic acid molecule.</p><heading>SUMMARY OF THE INVENTION</heading><p num="0006">The present invention will be summarized as follows.</p><p num="0007">In one aspect, the present invention provides a method for determining a
+nucleotide sequence of a nucleic acid molecule by single dye molecule detection,
+wherein the method comprises:
+<sl><li>(1) a step of immobilizing a nucleic acid molecule onto the surface of a solid;</li><li>(2) a step of annealing a primer, which has a sequence complementary to a part of the
+sequence of the nucleic acid molecule, to the nucleic acid molecule;</li><li>(3) a step of providing a solution which contains DNA polymerase and one type of
+dye-labeled dNTP (where N is A, T or U, G or C), or RNA polymerase and one
+type of dye-labeled NTP (where N is A, U, G or C), to the immobilized nucleic
+acid molecule, and allowing the nucleotide to react with the 3' end of the primer, 
+whereby a nucleotide, which forms a base-pair with a base opposed to the reaction
+site, is bound to the primer by action of the polymerase;</li><li>(4) a step of detecting a bound, dye-labeled dNTP or NTP;</li><li>(5) a step of disrupting the dye molecule of the bound, dye-labeled dNTP or NTP;</li><li>(6) a step of repeating the steps (3) to (5) while changing the type of the dye-labeled
+dNTP or NTP in turn, to sequentially bind dNTPs or NTPs complementary to the
+nucleotides of the nucleic acid molecule; and</li><li>(7) a step of determining a nucleotide sequence of the nucleic acid molecule based on
+the types of the sequentially bound dNTPs or NTPs.</li></sl></p><p num="0008">In another aspect, the present invention provides a method for determining a
+nucleotide sequence of a nucleic acid by single dye molecule detection, wherein the
+method comprises:
+<sl><li>(1) a step of immobilizing onto the surface of a solid, a primer which has a sequence
+complementary to a part of the sequence of a nucleic acid molecule to be
+measured;</li><li>(2) a step of annealing the nucleic acid molecule to the primer;</li><li>(3) a step of providing a solution, which contains DNA polymerase and one type of
+dye-labeled dNTP (where N is A, T or U, G or C), or RNA polymerase and one
+type of dye-labeled NTP (where N is A, U, G or C), to the immobilized nucleic
+acid molecule, and allowing the nucleotide to react with the 3' end of the primer,
+whereby a nucleotide, which forms a base-pair with a base opposed to the
+reaction site, is bound to the primer by action of the polymerase;</li><li>(4) a step of detecting a bound, dye-labeled dNTP or NTP;</li><li>(5) a step of disrupting the dye molecule of the bound, dye-labeled dNTP or NTP;</li><li>(6) a step of repeating the steps (3) to (5) while changing the type of the dye-labeled
+dNTP or NTP in turn, to sequentially bind dNTPs or NTPs complementary to
+the nucleotides of the nucleic acid molecule; and</li><li>(7) a step of determining a nucleotide sequence of the nucleic acid molecule based 
+on the types of the sequentially bound dNTPs or NTPs.</li></sl></p><p num="0009">In an embodiment of the present invention, the solid surface in the above step (1)
+is the inner wall of a capillary.</p><p num="0010">In another embodiment of the present invention, the above step (4) comprises
+optically detecting the dye molecule of the dye-labeled dNTP or NTP. More
+specifically, the detection can be performed by exciting the dye molecule by irradiation
+of a laser beam and detecting the thus emitted fluorescence signal. An example of
+such a detection method is a method, which employs a confocal fluorescence
+microscope system.</p><p num="0011">In another embodiment of the present invention, the disruption of dye molecules
+in the above step (5) is performed by irradiation of a laser beam stronger than that in
+step (4).</p><p num="0012">In another embodiment of the present invention, the above dye is a fluorescent
+dye.</p><p num="0013">In another embodiment of the present invention, the above solution consists of a
+droplet, in which an aqueous solution containing the dye-labeled dNTP or NTP, is
+entrapped within a hydrophobic liquid.</p><heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading><p num="0014"><sl><li>Figure 1 is a schematic diagram showing the method of the present invention for
+determining a nucleotide sequence of DNA by single dye molecule detection.</li><li>Figure 2 is a schematic diagram showing the procedure to detect a fluorescent
+signal derived from a dye molecule using a confocal fluorescence microscope system.</li></sl></p><heading>DETAILED DESCRIPTION OF THE INVENTION</heading><p num="0015">The present invention provides a method for determining nucleotide sequences of
+nucleic acid molecules comprising DNA or RNA by using a single molecule detection
+method. The single molecule detection method as used herein means a method, in
+which any signal molecule is detected by any analysis method. In this invention,
+generally the dye molecule of a dye-labeled deoxynucleoside triphosphate (dNTP,
+wherein N denotes A, T or U, G or C) or a dye-labeled nucleoside triphosphate (NTP,
+wherein N denotes A, U, G or C) can be optically detected using a spectroscopic
+instrument. The detection is performed by using a confocal fluorescence microscope
+instrument in the Example described below (see Fig. 2).</p><p num="0016">The present invention will be described as follows by referring to Fig. 1.</p><p num="0017">The first step in the method of the present invention comprises immobilizing a
+nucleic acid molecule or a primer having a sequence complementary to a part of the
+sequence of the nucleic acid molecule, onto the surface of a solid.</p><p num="0018">The nucleic acid molecule can be immobilized onto the solid surface after
+purification of a nucleic acid sample by standard techniques, for example by preparing
+single-stranded molecules from the sample by, for example, denaturation with alkaline
+treatment.</p><p num="0019">The size and type of the primers employed are not specifically limited as long as
+they can be annealed to nucleic acid molecules. For example, the size of the primers
+may be at least 10 nucleotides, and normally about 15 to 30 nucleotides. When a part
+of the sequence of a nucleic acid molecule to be sequenced is known, a primer may be
+prepared based on this known sequence and be used. Alternately, random primers or
+oligo dT primers may be used as the primers. </p><p num="0020">The solid surface used may be of any material as long as a nucleic acid molecule
+or a primer can be immobilized thereto. Examples of such a material include glass,
+quartz and resin. Further, the solid surface may be flat, curved or in any other form.
+For example, the inner wall of a capillary (e.g. made of glass, quartz or resin) can be
+used as a solid surface. A capillary is appropriate for automatically injecting a solution
+containing dye-labeled dNTP or NTP and polymerase enzyme into the inside of the
+capillary after immobilization of nucleic acid molecules or primers within the capillary.
+The internal diameter of a capillary is, for example, approximately 100 to 250µm, and
+the sufficient length is generally about 10 to 50mm, but the internal diameter and length
+are not limited thereto.</p><p num="0021">Preferably, the solid surface is previously treated so as to facilitate immobilization
+of a nucleic acid molecule to be sequenced or a primer, and so as not to allow
+unreacting dye-labeled dNTP or NTP molecules to adsorb to the surface. Binding of a
+nucleic acid molecule or a primer to the solid surface can be performed by, for example,
+a general UV crosslinking method. More specifically, a solution prepared by
+dissolving a nucleic acid in a Carnoy's solution (methanol/acetic acid (3:1 v/v)) is
+introduced into a quartz glass capillary, then dried and solidified at room temperature.
+Next, 2xSSC (NaCl 1.75g, sodium citrate 0.882g/100ml) is introduced into the capillary,
+followed by UV irradiation, thereby binding the nucleic acid to the solid surface. It is
+preferable to immobilize one molecule of nucleic acid onto the solid surface, but in
+practice, multiple nucleic acid molecules are immobilized onto the surface. In an
+actual measurement, diluted nucleic acid molecules (approximately 0.1 to 100pmol/µl,
+preferably 30 to 70pmol/µl) are immobilized onto the solid surface, one immobilized
+nucleic acid molecule enters into the field of vision, and then sequencing is performed.</p><p num="0022">The second step comprises annealing a primer to the nucleic acid molecule on the
+solid surface, or annealing the nucleic acid molecule to a primer on the solid surface. </p><p num="0023">The third step comprises providing a solution containing DNA polymerase and
+one type of dye-labeled dNTP (where N is A, T or U, G or C) or containing RNA
+polymerase and one type of dye-labeled NTP (where N is A, U, G or C) to the
+immobilized nucleic acid molecule, and allowing a nucleotide to react with the 3' end of
+the above primer. At this time, a nucleotide, which forms a base-pair with a base
+opposed to the reaction site, is bound to the primer by action of the polymerase.</p><p num="0024">As used herein, the term "one type of" means a certain one of four types of
+dye-labeled dNTP or NTP. As the result that this "one type" is specified, the type of
+dNTP or NTP to be actually bound to a primer would be known.</p><p num="0025">In Fig. 1, a solvent is allowed to flow through a capillary cell in which a nucleic
+acid molecule has been immobilized, and a solution containing DNA polymerase and
+only one type of dye-labeled base dATP is introduced into the flow, in order to cause the
+reaction of the base next to a DNA sequence ATG previously annealed to a target DNA.
+If no incorporation reaction of the base by DNA polymerase occurs, no dye is detected
+on the DNA by the single molecule detection because unreacting bases are washed away.
+In this case, the same procedure is performed for a solution containing another type of
+base (dGTP, dCTP or dTTP). This procedure is repeated until a base is incorporated
+into the above DNA sequence and a dye is detected on the DNA. As shown in the
+figure, which nucleotide follows ATG (in this case, T follows ATG) will be known by
+allowing a solution containing a dye-labeled dTTP to contact with the target DNA
+which has been annealed to a primer with ATG already bound to the 3' end, and then
+detecting the dye. For a DNA sample having the same sequential bases, multiple bases
+may be incorporated into a DNA sequence. In such a case, identification of the
+number of dyes by, for example, fluorescence intensity, enables detection of the number
+of sequential bases incorporated. </p><p num="0026">In the present invention, a solution containing DNA polymerase and one type of
+dye-labeled dNTP (where N is A, T or U, G or C), or RNA polymerase and one type of
+dye-labeled NTP (where N is A, U, G or C), can consist of a droplet in which an
+aqueous solution which contains the dye-labeled dNTP or NTP is entrapped within a
+hydrophobic liquid such as mineral oil. Such a droplet can be easily prepared using,
+for example, a micro-injector. The size of a droplet is, for example, approximately 10
+to 25µm in diameter, corresponding to several hundreds fL in volume.</p><p num="0027">Examples of a solvent to flow through a capillary cell are those in which
+dye-labeled dNTP or NTP and polymerase can be dissolved, including a buffer
+containing, for example, 67mM KPO<sub>4</sub> (pH7.5), 6.7mM MgCl<sub>2</sub>, and 1mM
+2-mercaptoethanol. When a droplet is used, a preferred solvent is one that has no
+affinity with the droplet. For example, light white oil (d=0.84g/ml; general
+commercial name: mineral oil) can be used.</p><p num="0028">Examples of dyes for labeling dNTP or NTP include fluorophors or luminophors,
+such as rhodamine and fluorescein (e.g. teteramethyl rhodamine, TMR, emission
+wavelength: 570nm; tetramethyl rhodamine isothiocyanate, TRITC, emission
+wavelength: 573nm; Rhodamine 6G, emission wavelength: 550nm; fluorescein
+isothiocyanate, FITC, emission wavelength: 515nm). In addition,
+4-fluoro-7-nitro-benzofurazon (NBD-F, emission wavelength: 540nm), Texas red
+(emission wavelength: 605nm) or the like can be used. In the method of this invention,
+the same dye may be used regardless of the type of bases, that is dNTP or NTP, or the
+dye may differ according to the type of bases. To simplify the procedure, dNTP or
+NTP is preferably labeled with the same dye. In binding a dye to dNTP or NTP, a
+commercially available product (i.e., dye-labeled dNTP or NTP) may be used, or
+otherwise, such a product may be synthesized according to a method described in
+literature (e.g. J. Histochem. Cytochem. 44(5):525-529, 1996). </p><p num="0029">The fourth step comprises detecting a bound, dye-labeled dNTP or NTP.</p><p num="0030">As shown in Fig. 2, a bound, dye-labeled dNTP or NTP is detected by irradiation
+of a laser beam to the nucleic acid molecule using, for example, a confocal fluorescence
+microscope system, and introducing fluorescent signals emitted from the excited dye
+molecule into a detector to count the number of photons and thereby detect the
+fluorescent signals.</p><p num="0031">In Fig. 2, the excitation light (488nm) of an argon ion laser is reflected by a
+dichroic mirror to focus on a DNA sample through an objective lens, a fluorescent
+signal emitted from the dye molecules excited by the excitation light is introduced into a
+confocal pin hole (e.g. 50µm in diameter) through a band pass filter, and then the
+number of photons that have reached a detector (e.g. avalanche photodiode) is counted
+by a multichannel counter, thereby detecting the fluorescent signal. The presence of a
+band pass filter enables to selectively take fluorescent signals. Further the presence of
+a pin hole eliminates unnecessary light.</p><p num="0032">The fifth step comprises disrupting dye molecules of bound, dye-labeled dNTP or
+NTP.</p><p num="0033">The method of the present invention requires disruption of dye molecules, after a
+dye molecule is detected after reaction of dye-labeled dNTP or NTP on a nucleic acid
+molecule, but before the next dye-labeled dNTP or NTP is bound. As a means for this
+purpose, for example a method of irradiation of a laser beam, which is stronger than that
+in step (4) (e.g., about 10mW) can be used.</p><p num="0034">The sixth step comprises sequentially binding a dNTP or NTP, which forms a
+base-pair with the nucleotide of the nucleic acid molecule, by repeating the above steps
+(3) to (5) while changing the type of dye-labeled dNTP or NTP in turn. </p><p num="0035">As used herein, the word "changing the type of dye-labeled dNTP or NTP in
+turn" means to keep changing the type of base introduced until binding occurs. That is,
+if no binding occurs when a certain base of the four types of dye-labeled dNTP or NTP
+is delivered at a nucleic acid molecule, then another certain base is delivered. If no
+binding occurs again, then yet another certain base is delivered at the nucleic acid
+molecule. Whether or not binding of bases occurs is confirmed by step (4), and the
+dye molecule of a bound base is disrupted in step (5). The procedures from steps (3)
+to (5) are repeated sequentially up to the (maximum) number of bases of the nucleic
+acid molecule.</p><p num="0036">The seventh step comprises determining a nucleotide sequence of the nucleic acid
+molecule based on the types of the sequentially bound dNTPs or NTPs.</p><heading>EXAMPLE</heading><p num="0037">The method of the present invention will be described in more detail, but it is not
+intended that the scope of the invention is limited to the following examples.</p><heading>Example 1</heading><p num="0038">A Capton-coated quartz glass capillary (200µm in internal diameter x 20mm in
+legnth; purchased from GL Science, Japan) was heated with a burner, thereby burning
+and removing a portion of the Capton coating to provide an observation window for a
+microscope. The capillary was immersed in 1M KOH, and then in a conc.
+H<sub>2</sub>SO<sub>4</sub>/30%H<sub>2</sub>O<sub>2</sub> (1:2v/v) mixture, thereby eliminating oil or organic matter attached on
+the glass surface and washing. Next, a template DNA was immobilized onto the inner
+wall of the glass capillary by the UV crosslinking method. That is, a solution prepared
+by dissolving DNA in a Carnoy's solution (methanol/acetic acid (3:1 v/v)) was
+introduced into the inside of the glass capillary, then dried and solidified at room
+temperature. Subsequently, 2 x SSC (NaCl 1.75g and sodium citrate 0.882g/100ml) 
+was introduced into the capillary, followed by irradiation with UV, thereby binding
+DNA to the solid surface. Here, the concentration of the template DNA in the
+Carnoy's solution was 50pmol/µl, so that DNA could be immobilized at a density sparse
+enough to confirm the reaction on a single template DNA.</p><p num="0039">Next, DNA polymerase reaction was performed for the template DNA. The
+reaction solution was prepared by dissolving a primer having a sequence
+complementary to the template DNA, DNA polymerase (Klenow Fragment, purchased
+from TOYOBO) and a dye-labeled nucleoetide in a buffer solution (67mM KPO<sub>4</sub>,
+pH7.5, 6.7mM MgCl<sub>2</sub>, 1mM 2-mercaptoethanol). The reaction solution was allowed
+to react with the template DNA, performing an incorporation reaction.</p><p num="0040">After reaction, the reaction solution was removed, and then the same solvent as
+described above was allowed to flow through the capillary for washing. Then, the
+inner wall of the glass capillary was observed for a bound dye using a confocal
+fluorescence microscope system. That is, the dye molecule of a dye-labeled nucleotide
+was excited by a laser beam, and the resulting fluorescence was observed. At this time,
+the template DNA was previously immobilized on the inner wall surface of the glass
+capillary at a density sparse enough to allow confirmation of an incorporation reaction
+on a single template DNA.</p><p num="0041">More detailed description of experimental examples will be given, as follows.</p><heading>Reagents used:</heading><p num="0042">Template DNA No. 1 (SEQ ID NO: 1)
+<img id="img-00110001" orientation="unknown" wi="115" img-format="tif" img-content="dn" file="00110001.tif" inline="no" he="6"/></p><p num="0043">Template DNA No. 2 (SEQ ID NO: 2)
+<img id="img-00110002" orientation="unknown" wi="99" img-format="tif" img-content="dn" file="00110002.tif" inline="no" he="5"/></p><p num="0044">Primer No. 1 (SEQ ID NO: 3) <img id="img-00120001" orientation="unknown" wi="71" img-format="tif" img-content="dn" file="00120001.tif" inline="no" he="7"/></p><p num="0045">Primer No. 2 (SEQ ID NO: 4)
+<img id="img-00120002" orientation="unknown" wi="69" img-format="tif" img-content="dn" file="00120002.tif" inline="no" he="6"/></p><p num="0046">Dye-labeled nucleotides
+<sl><li>BODYPY-TMR-dUTP (purchased from FUNAKOSHI ;
+absorbance wavelength 544nm, fluorescence wavelength 570nm)</li><li>TMR-dATP (purchased from Daiichi Pure Chemicals ;
+absorbance wavelength 550nm, fluorescence wavelength 570nm)</li><li>TMR-dGTP (purchased from Daiichi Pure Chemicals ; absorbance wavelength
+550nm, fluorescence wavelength 570nm)</li></sl></p><heading>Experiment 1 and results:</heading><p num="0047">BODYPY-TMR-dUTP nucleotide was allowed to react with a combination of the
+template DNA No. 1 and the primer No. 1. In this combination of DNAs, the template
+DNA has a sequence such that dUTP is incorporated onto the template DNA. The
+experiment was performed according to the above described method, and as a result, it
+was confirmed by observing the presence of fluorescence from a single fluorescence
+molecule that BODYPY-TMR-dUTP nucleotide was incorporated onto the single
+template DNA. Further, reference test 1 was conducted to confirm that the observed
+fluorescence was not due to the BODYPY-TMR-dUTP nucleotide non-specifically
+attached to the inner wall of a glass capillary. That is, the above reaction solution was
+allowed to react with the surface of a glass capillary containing no template DNA, and
+as a result, it was confirmed that BODYPY-TMR-dUTP nucleotide was not attached to
+the glass capillary surface because no fluorescence was observed. Moreover,
+reference test 2 was conducted using TMR-dATP nucleotide instead of
+BODYPY-TMR-dUTP nucleotide. In this case, it is predicted that TMR-dATP would
+not be incorporated into the single template DNA. Actually, it was confirmed that the
+nucleotide was not incorporated onto the single template DNA because no fluorescence
+was observed.</p><heading>Experiment 2 and results:</heading><p num="0048">The same experiment was repeated with the exception that a combination of the
+template DNA No. 2 and the primer No. 2 was used. In this combination of DNAs, the
+template DNA has a sequence such that dATP is incorporated onto the template DNA.
+Comparison of the reaction of TMR-dATpP nucleotide to that of TMR-dGTP nucleotide
+revealed that TMR-dATP was incorporated but TMR-dGTP was not incorporated onto
+the single template DNA.</p><heading>Experiment 3 and results:</heading><p num="0049">A laser (10 mW, 488 nm) irradiates, for several seconds, the sample from
+Experiment 1, in which BODYPY-TMR-dUTP has been incorporated by using a
+combination of the single template DNA No. 1 and the primer No. 1 on the inner wall of
+the capillary, thereby disrupting the dye molecule of the dye-labeled nucleotide.
+Similarly, the sample from Experiment 2, in which TMR-dATP has been incorporated
+by using a combination of the single template DNA No. 2 and the primer No. 2 on the
+inner wall of the capillary was treated in the same manner as that described above, so
+that the dye molecule fo the dye-labeled nucleotide was disrupted. For these samples,
+the reaction of dye-labeled nucleotides was subsequently repeated so that the types of
+nucleotides incorporated could be specified one after another.</p><heading>INDUSTRIAL APPLICABILITY</heading><p num="0050">The present invention enables to decode the bases in nucleotide sequence of a
+nucleic acid, one by one.</p><heading>SEQUENCE LISTING FREE TEXT</heading><p num="0051"><sl><li>SEQ ID NO:1 - Description of Artificial Sequence: synthesized template DNA</li><li>SEQ ID NO:2 - Description of Artificial Sequence: synthesized template DNA</li><li>SEQ ID NO:3 - Description of Artificial Sequence: a primer </li><li>SEQ ID NO:4 - Description of Artificial Sequence: a primer</li></sl><img id="img-00140001" orientation="unknown" wi="138" img-format="tif" img-content="tx" file="00140001.tif" inline="no" he="231"/><img id="img-00150001" orientation="unknown" wi="121" img-format="tif" img-content="tx" file="00150001.tif" inline="no" he="114"/></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A method for determining a nucleotide sequence of a nucleic acid by single dye
+molecule detection, wherein the method comprises:
+<claim-text><claim-text>(1) a step of immobilizing a nucleic acid molecule onto the surface of a solid;</claim-text><claim-text>(2) a step of annealing a primer, which has a sequence complementary to a part of
+the sequence of the nucleic acid molecule, to the nucleic acid molecule;</claim-text><claim-text>(3) a step of providing a solution which contains DNA polymerase and one type of
+dye-labeled dNTP (where N is A, T or U, G or C), or RNA polymerase and one
+type of dye-labeled NTP (where N is A, U, G or C), to said immobilized nucleic
+acid molecule, and allowing the nucleotide to react with the 3' end of said
+primer, whereby a nucleotide, which forms a base-pair with a base opposed to
+the reaction site, is bound to the primer by action of the polymerase;</claim-text><claim-text>(4) a step of detecting a bound, dye-labeled dNTP or NTP;</claim-text><claim-text>(5) a step of disrupting the dye molecule of the bound, dye-labeled dNTP or NTP;</claim-text><claim-text>(6) a step of repeating said steps (3) to (5) while changing the type of dye-labeled
+dNTP or NTP in turn, to sequentially bind dNTPs or NTPs which base-pair with
+the nucleotides of the nucleic acid molecule; and</claim-text><claim-text>(7) a step of determining a nucleotide sequence of the nucleic acid molecule based
+on the types of the sequentially bound dNTPs or NTPs.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>A method for determining a nucleotide sequence of a nucleic acid by single dye
+molecule detection, wherein the method comprises:
+<claim-text><claim-text>(1) a step of immobilizing a primer, which has a sequence complementary to a part
+of the sequence of a nucleic acid molecule to be measured, onto the surface of a
+solid;</claim-text><claim-text>(2) a step of annealing the nucleic acid molecule to the primer;</claim-text><claim-text>(3) a step of providing a solution which contains DNA polymerase and one type of
+dye-labeled dNTP (where N is A, T or U, G or C), or RNA polymerase and one
+type of dye-labeled NTP (where N is A, U, G or C), to the immobilized nucleic
+acid molecule, and allowing the nucleotide to react with the 3' end of the primer,
+whereby a nucleotide, which forms a base-pair with a base opposed to the
+reaction site, is bound to the primer by action of the polymerase;</claim-text><claim-text>(4) a step of detecting the presence of a bound, dye-labeled dNTP or NTP;</claim-text><claim-text>(5) a step of disrupting the dye molecule of the bound, dye-labeled dNTP or NTP;</claim-text><claim-text>(6) a step of repeating said steps (3) to (5) while changing the type of dye-labeled
+dNTP or NTP in turn, to sequentially bind dNTPs or NTPs complementary to
+the nucleotide of the nucleic acid molecule; and</claim-text><claim-text>(7) a step of determining a nucleotide sequence of the nucleic acid molecule based
+on the types of the sequentially bound dNTPs or NTPs.</claim-text></claim-text></claim-text></claim><claim num="3"><claim-text>The method of claim 1 or 2 wherein said surface of a solid is the inner wall of a
+capillary.</claim-text></claim><claim num="4"><claim-text>The method of claim 1 or 2 wherein said step (4) comprises optically detecting
+the dye molecule of said dye-labeled dNTP or NTP.</claim-text></claim><claim num="5"><claim-text>The method of claim 4 wherein said step (4) comprises exciting dye molecules
+by irradiation of a laser beam and detecting the thus released fluorescent signal.</claim-text></claim><claim num="6"><claim-text>The method of claim 5 wherein said detection is performed using a confocal
+fluorescence microscope system.</claim-text></claim><claim num="7"><claim-text>The method of claim 1 or 2 wherein said disruption of dye molecules in said step
+(5) is performed by irradiation of a laser beam stronger than that in the step (4).</claim-text></claim><claim num="8"><claim-text>The method of claim 1 or 2 wherein said dye is a fluorescent dye.</claim-text></claim><claim num="9"><claim-text>The method of claim 1 or 2 wherein said solution consists of a droplet in which
+an aqueous solution containing said dye-labeled dNTP or NTP, is entrapped within a
+hydrophobic liquid.</claim-text></claim></claims><drawings status="new"><figure num="1"><img id="img-00190001" orientation="unknown" wi="146" img-format="tif" img-content="dr" file="00190001.tif" inline="no" he="218"/></figure><figure num="2"><img id="img-00200001" orientation="unknown" wi="158" img-format="tif" img-content="dr" file="00200001.tif" inline="no" he="205"/></figure></drawings><search-report-data status="new"><doc-page id="img--90000001" orientation="portrait" wi="149" status="new" file="90000001.tif" he="231" type="tif"/><doc-page id="img--90010001" orientation="portrait" wi="155" status="new" file="90010001.tif" he="231" type="tif"/></search-report-data><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1405927-A1" country="EP" doc-number="1405927" kind="A1" lang="EN" family-id="31993561" status="new" date-produced="20090516" date="20040407"><bibliographic-data><publication-reference ucid="EP-1405927-A1" status="new" fvid="24002374"><document-id status="new" format="original"><country>EP</country><doc-number>1405927</doc-number><kind>A1</kind><date>20040407</date></document-id></publication-reference><application-reference ucid="EP-03021784-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03021784</doc-number><kind>A</kind><date>20030926</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-26313502-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>26313502</doc-number><kind>A</kind><date>20021002</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B22F   9/02        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B22F   9/04        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C22C   1/04        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C22C   1/04        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B22F   9/04</classification-symbol><classification-symbol scheme="EC">C22C   1/04B1</classification-symbol><classification-symbol scheme="EC">C22C  21/06</classification-symbol><classification-symbol scheme="EC">C22C  21/10</classification-symbol><classification-symbol scheme="EC">C22C  30/00</classification-symbol><classification-symbol scheme="EC">C22F   1/047</classification-symbol><classification-symbol scheme="EC">C22F   1/053</classification-symbol><classification-symbol scheme="ICO">L22F998:10+B22F3/12B+B22F3/15+B22F3/20</classification-symbol><classification-symbol scheme="ICO">L22F999:00+B22F1/00A2N+B22F9/04+L22F202/03</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Verfahren zur Herstellung von kryogen zerkleinerten Legierungen für strangegepressten und geschmiedeten Bauteile</invention-title><invention-title load-source="ep" status="new" lang="EN">Method for preparing cryomilled aluminum alloys and components extruded and forged therefrom</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédé de fabrication d'un alliage broyage cryogénique pour des produits forgés et extrudés</invention-title><citations><non-patent-citations><nplcit status="new"><text>AIKIN, B.J.M. (CASE WESTERN RESERVE UNIVERSITY) ET AL:  "Improvements in cryomill processing." ADVANCED PARTICULATE MATERIALS &amp; PROCESSES 1997 (1997), 287-294, GRAPHS, 6 REF. METAL POWDER INDUSTRIES FEDERATION. 105 COLLEGE RD. EAST, PRINCETON, NJ 08540-6692, USA CONFERENCE: 5TH INTERNATIONAL CONFERENCE ON ADVANCED PARTICULATE MATERIALS &amp; PROCE,   XP009021519</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>CHOI, J.H. (HANYANG UNIVERSITY) ET AL: "Consolidation behavior of nanocrystalline Al -5at.%Ti alloys synthesized by cryogenic milling." JOURNAL OF ALLOYS AND COMPOUNDS (9 FEB. 2001) 315, (1-2), 178-186, DIFFRACTION PATTERNS, PHOTOMICROGRAPHS, GRAPHS, 22 REF. ISSN: 0925-8388,   XP001156279</text><sources><source category="X"  name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>LEE, Z. (UNIVERSITY OF SOUTHERN CALIFORNIA) ET AL:  "Microstructural evolution of cryomilled nanocrystalline Al -Ti-Cu alloy." ULTRAFINE GRAINED MATERIALS II (2002), 653-659, DIFFRACTION PATTERNS, PHOTOMICROGRAPHS, GRAPHS, 10 REF. MINERALS, METALS AND MATERIALS SOCIETY/AIME. 184 THORN HILL ROAD, WARRENDALE, PA 15086-7528, USA CONFERENCE: ULTRAFINE GRAINED MATERIALS II (AS HE,   XP009021523</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>LIAO, X.Z. (LOS ALAMOS NATIONAL LABORATORY) ET AL:  "Deformation mechanisms at different grain sizes in a cryogenically ball- milled Al -Mg alloy." ULTRAFINE GRAINED MATERIALS II (2002), 323-330, PHOTOMICROGRAPHS, DIFFRACTION PATTERNS, 16 REF. MINERALS, METALS AND MATERIALS SOCIETY/AIME. 184 THORN HILL ROAD, WARRENDALE, PA 15086-7528, USA CONFERENCE: ULTRAFINE GRAINED MATERIALS II (AS HELD AT TH,   XP009021521</text><sources><source category="X" name="SEA"  created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new"  format="epo"><addressbook><name>BOEING CO</name><address><country>US</country></address></addressbook></applicant><applicant status="new"  format="intermediate"><addressbook><name>THE BOEING COMPANY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>The Boeing Company</last-name><address><street>100 N. Riverside</street><city>Chicago, IL 60606-1596</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>FRITZEMEIER LESLIE G</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MATEJCZYK DANIEL E</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>VAN DAAM THOMAS J</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>FRITZEMEIER, LESLIE G.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MATEJCZYK, DANIEL E.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>VAN DAAM, THOMAS J.</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>FRITZEMEIER, LESLIE G.</last-name><address><street>The Boeing Company P.O. Box 3707 Mail Stop 13-08</street><city>Seattle Washington 98124-2007</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MATEJCZYK, DANIEL E.</last-name><address><street>The Boeing Company P.O. Box 3707 Mail Stop 13-08</street><city>Seattle Washington 98124-2007</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>VAN DAAM, THOMAS J.</last-name><address><street>The Boeing Company P.O. Box 3707 Mail Stop 13-08</street><city>Seattle Washington 98124-2007</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Gahlert, Stefan, Dr.-Ing.</last-name><address><street>Witte, Weller &amp;amp; Partner, Patentanwälte, Postfach 105462</street><city>70047 Stuttgart</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>High strength aluminum alloy powders, extrusions, and
+forgings are provided in which the aluminum alloys exhibit high
+strength at atmospheric temperatures and maintain high strength
+and ductility at extremely low temperatures. The alloy is
+produced by blending about 89 atomic% to 99 atomic% aluminum, 1
+atomic% to 11 atomic% of a secondary metal selected from the
+group consisting of magnesium, lithium, silicon, titanium,
+zirconium, and combinations thereof, and up to about 10 atomic%
+of a tertiary metal selected from the group consisting of Be,
+Ca, Sr, Ba, Ra, Sc, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Y, Nb, Mo,
+Tc, Ru, Rh, Pd, Ag, Cd, W, and combinations thereof. The alloy
+is produced by nanostructure material synthesis, such as cryomilling,
+in the absence of refractory dispersoids. The synthesized
+alloy is then canned, degassed, consolidated, extruded,
+and optionally forged into a solid metallic component. Grain
+size within the alloy is less than 0.5 µm, and alloys with
+grain size less than 0.1 µm may be produced (Fig. 1).
+<img id="img-00000001" orientation="unknown" wi="38" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="120"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading>FIELD OF THE INVENTION</heading><p num="0001">The present invention relates to the production of high strength cryomilled
+aluminum alloys, and to the extrusion and forging of cryomilled aluminum alloys.</p><heading>BACKGROUND OF THE INVENTION</heading><p num="0002">The aerospace industry requires structural metals and alloys that provide
+maximum strength with minimum weight. Traditionally, these roles have been
+fulfilled by aluminum, titanium, and alloys thereof. However, as the performance
+demands of the industry have increased, previously known aluminum and titanium
+alloys have been pushed to the limits of their usefulness.</p><p num="0003">The operation of high performance rocket propulsion systems are particularly
+demanding on metallic components. Extruded and forged parts such as fuel
+turbopump impellers and other rotational components require high strength and low
+density, but also require adequate ductility and toughness. Furthermore, because the
+rotational components of liquid-fueled rocket engines are exposed to cryogenic
+liquids at very high pressure and low temperature, the rotational components must
+retain their high strength and ductility in an extremely cold environment.</p><p num="0004">In the past, high performance aluminum alloy components, such as those used
+in rocket propulsion systems, were strengthened through precipitation heat treatment,
+resulting in tensile strengths of up to 80 ksi. The heat treated aluminum parts remain
+adequate for most modem day propulsion systems but fall short of meeting the
+demands of today's high-performance rocket engines and other similarly demanding
+propulsion systems. The components formed by precipitation heat treatment are not
+particularly suited for use in extremely cold environments such as those temperatures
+found in liquid fuel rocket engines. Further, heat treatment introduces residual stress
+and distortion in the metallic components, which is particularly troublesome in thin-walled
+or high-precision components.</p><p num="0005">The technology of dispersion strengthening has provided aluminum alloys
+having strength and durability beyond that provided by precipitation heat treatment.
+The dispersion strengthened aluminum alloys are metallic aluminum alloys having a
+second phase material of fine particles, dispersed within the metal in a substantially 
+homogenous dispersion. The second phase particles are typically oxides of the
+aluminum found within the alloy and may also be nitrides, borides, oxy-nitrides, or
+carbo-nitrides. The dispersion strengthened aluminum alloys exhibit improved
+physical properties over and above those of heat treated aluminum, including
+increased mechanical strength and an increase in the temperature at which the
+mechanical strength of the alloy begins to fade. Components constructed of
+dispersion-strengthened aluminum, sometimes known as sintered aluminum products
+(S.A.P.), have high levels of hardness and tensile strength and maintain those
+mechanical properties at higher temperatures than comparable aluminum alloys which
+are not dispersion-strengthened.</p><p num="0006">The most successful dispersion strengthened alloys have been produced by
+dispersing metal oxides within metal alloys through cryogenic milling. The cryogenic
+milling, which usually takes place in liquid nitrogen or a similar chilled atmosphere,
+provides an ultra-fine dispersion of oxide particles within the alloy and also increases
+the strain energy that is stored within the alloy, resulting in reduced grain size upon
+reheating of the metal. The ultra-fine dispersion of oxides and reduced grain size
+leads to an alloy of relatively high strength, particularly at high temperatures.</p><p num="0007">The use of dispersion strengthened aluminum alloys in propulsion systems is
+well studied, and several variations of the dispersion strengthened alloys and methods
+of producing the alloys are available. For instance, U.S. Patent 3,740,210 to
+Bomford, et al. discloses the milling of aluminum and aluminum oxide powders in a
+ball mill with asymmetric organic compounds acting as surfactant agents. The
+surfactant acts to retard the welding of aluminum to itself within the ball mill, thus
+allowing the comminuted aluminum and aluminum oxide to be mutually
+interdispersed in the composite powder. Reduction of the metallic welding also
+prevents the ball mill from being frozen by agglomerated metal welded between the
+balls and inner walls of the mill. The favorable intermingling of the aluminum and
+aluminum oxides provides a composite alloy powder having well dispersed oxides
+which leads to a high strength, high temperature alloy product.</p><p num="0008">U.S. Patent 4,818,481 to Luton, et al. discloses the use of cryomilling to
+disperse a second phase within an aluminum alloy. Luton '481 explains that the
+repeated fracture and cold-welding of metal powder involved in ball milling causes
+strain energy to be stored within the milled particles. Recrystallization occurs with
+longer milling times, 
+resulting in decreased grain size over that of the starting powders. The decreased grain
+size corresponds to a better dispersed secondary phase within the alloy which, in turn,
+results in improved mechanical properties in the finished product. Although
+considerable research has occurred regarding different types of oxide dispersions and
+methods by which oxide, nitride, and other precipitates are dispersed within
+aluminum alloys, the improvement in the strength of the dispersion strengthened
+alloys over the heat treated alloys of the past is fairly modest. Furthermore, the
+dispersion-strengthened aluminum alloys are designed for use at high temperatures,
+and are not particularly suited for use in extremely low temperature environments.</p><p num="0009">Modern, advanced liquid fuel rocket motors require pump components of
+extremely high strength which are capable of maintaining strength and ductility at
+extremely low temperatures, due to the use of liquid hydrogen as a rocket fuel. The
+aluminum components must be capable of continual high-speed operation, typically
+below -300°F. Existing heat treated and dispersion strengthened aluminum alloys are
+unable to meet the demands of the next generation of rocket motors and their high
+stress, extremely low temperature environments.</p><p num="0010">What are needed are improved aluminum alloys which are not based upon heat
+treating techniques or dispersion strengthening techniques of the past, and which are
+capable of withstanding the extremely low temperatures and extreme mechanical
+stresses inherent in high-performance rocket propulsion systems. What is further
+needed is a manner of preparing the improved alloys. What is still further needed is a
+manner of extruding and forging components from the improved alloys in order to
+obtain products exhibiting extremely high strength and extremely low temperatures.</p><heading>SUMMARY OF THE INVENTION</heading><p num="0011">High strength aluminum alloy powders, extrusions, and forgings are provided
+by the instant invention. Methods of producing high strength aluminum alloy
+powders, extrusions, and forgings are also provided by the instant invention. The
+aluminum alloys exhibit high strength at atmospheric temperatures and maintain high
+strength and ductility at extremely low temperatures. The alloys may be formed into
+rocket motor components capable of withstanding high stresses. Uses for the alloys
+are wide ranging, but the alloys are particularly suited for production of components
+for use in liquid fuel rocket motors in the form of pump impellers and ancillary
+components which must endure extremely low temperatures during operation. </p><p num="0012">The foundation of the invention is the creation of aluminum alloy powders
+having a very fine and stable grain structure. The fine grain structure, small grain
+size, and other physical properties inherent to the invented alloy result in metal
+components extruded or forged from the alloy powder which have high strength and
+which maintain high strength and ductility even at very low temperatures. The alloy
+powder is produced by blending aluminum and a secondary metal selected from
+magnesium, lithium, silicon, titanium, and zirconium, and synthesizing
+nanostructured materials from the powder, preferably by cryomilling. The secondary
+metal is either alloyed with the aluminum prior to cryomilling or the magnesium and
+aluminum are supplied as a blend and alloyed during the cryogenic milling. In either
+situation, it is preferred that refractory material such as oxides, nitrides, carbides, and
+borides, are not added to the metallic alloy prior to or during cryomilling.</p><p num="0013">The alloy of the invention is about 89 atomic % to about 99 atomic %
+aluminum, and about 1 atomic% to about 11 atomic% of the secondary metal.
+Optionally, the alloy contains up to 10 atomic% of a metal selected from Be, Ca, Sr,
+Ba, Ra, Sc, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Y, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd, W, or
+combinations thereof.</p><p num="0014">Cryomilling the aluminum and secondary metal in accordance with this
+invention provides a resultant metallic powder having a very stable grain structure.
+The average grain size within the alloy is less than 0.5 µm, and alloys with average
+grain size less than 0.1 µm may be produced. The small, stable grains of the alloy
+allow components to be extruded or forged from the alloy which exhibit significantly
+improved strength over similar alloys produced by other methods. The cryomilled
+aluminum alloys also exhibit dramatically improved strength at low temperatures.</p><p num="0015">The method does not rely on the supplemental addition of oxides, nitrides, or
+similar refractory substances, as do previously methods of cryomilling metals. The
+invented alloy gains its strength from the unique composition of the material and the
+unique processing techniques used in the milling of the alloy. Refractory materials
+are preferably present within the invented alloy in amounts less than about 0.5
+volume%. More preferably, refractory materials are present in amounts of less than
+about 0.2%.</p><p num="0016">The aluminum and secondary metal are alloyed together and cryomilled as a
+solid solution and, to a small degree, as a precipitate. Since liquid nitrogen is used as
+the cooling solution for cryomilling, small amounts of nitrogen may be introduced 
+into the alloy as a result of the exposure of the aluminum metal to nitrogen during the
+cryomilling. It has been found that this nitrogen does not form refractory-type
+nitrides to any appreciable degree. Once again, the alloy relies on unique grain
+properties gained during processing, rather than the oxide/nitride dispersion
+strengthening used in previous high strength cryomilled aluminum alloys.</p><p num="0017">After cryomilling of the alloy powder, the powder is maintained in a
+substantially oxygen free atmosphere. Storage and handling in an argon or a dry
+nitrogen atmosphere are the preferred means for maintaining the oxygen free
+atmosphere. The oxygen is kept from the milled alloy so that the surface of the metal
+particles will not oxidize: prior to being extruded. The argon or nitrogen atmospheres
+also prevent the metal powder from absorbing moisture before further processing can
+take place. The cryomilling results in an alloy with average grain size of less than 0.5
+µm, and preferably less than 0.1 µm.</p><p num="0018">The milled metal powder is packed within a sealed can. The can provides a
+form to the metal and also provides evacuation tubing for degassing the powder.
+While in the can, the powder is heated to a temperature between about 600°F and
+about 850°F and gaseous components within the powder are evacuated by a vacuum
+pump connected to the evacuation tubing of the can. Temperature and pressure are
+maintained until substantially all of the hydrogen and substantially all of any free
+nitrogen are removed. At the conclusion of this degassing operation, the evacuation
+tube is sealed by crimping and then welding.</p><p num="0019">After evacuation, the sealed can of powder is placed in a hot isostatic press.
+The press is used to maintain the temperature of the metal powder between about
+600°F and about 850°F while exerting a pressure upon the metal of between about 15
+ksi (kilopounds/in<sup>2</sup>) and about 30 ksi. The pressure and temperature are maintained
+until the metal reaches almost 100% of the metal's porosity free density.</p><p num="0020">After the metal powder is compressed, the consolidated metal alloy is extruded
+at a temperature, extrusion ratio area, and ram speed appropriate for the particular
+alloy. Extrusion is sufficient to form a wide variety of high strength components,
+such as those to be used in a liquid fueled rocket engine. Those components that are
+not adequately shaped by extrusion may be further forged into the desired shape.
+Forging may also be used to provide additional ductility in directions other than the
+extrusion axis. </p><p num="0021">The physical properties of the alloy are present within the invented alloy
+powder produced in accordance with the invention. The extraordinary strength and
+the ability of the alloy to maintain high strength at extremely low temperatures are
+believed to be due to the unique grain structure, grain size, and interaction of
+constituents of the alloy caused by the cryomilling process. The improved physical
+properties of the alloy are exhibited when the alloy powder is compressed and
+extruded into a solid metal component. The metal components produced from the
+powder have an extremely high yield strength, between about 73 ksi and about 104
+ksi, and ultimate tensile strength, between about 78 ksi and about 107 ksi. More
+importantly, the metal alloys have the same or higher yield strength at low
+temperatures, ranging from about 67 ksi to about 126 ksi at -320°F, and ranging from
+about 78 ksi to about 106 ksi at -423°F. Similarly, the ultimate tensile strength of the
+alloys ranges from about 78 ksi to about 129 ksi at -320°F and from about 107 ksi to
+about 121 ksi at -423°F.</p><p num="0022">The invented alloys produced with the invented method therefore permit the
+production of high strength components which have maintained or improved strength
+at very low temperatures. The high strength alloys are well suited for use within
+liquid fuel rocket motors, particularly as turbopump impellers and propellant ducts for
+reusable launch vehicles. Components extruded or forged from the alloys are light
+weight, but are able to resist the extreme forces and extremely low temperatures
+experienced within the rocket engine. Thus, by utilizing the components formed from
+the invented alloy, higher capacity, low weight rocket engines may now be
+constructed.</p><heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading><p num="0023">Having thus described the invention in general terms, reference will now be
+made to the accompanying drawing, which is not necessarily drawn to scale, and
+wherein:
+<sl><li>Figure 1 is a schematic flow diagram of a process embodiment of this
+invention;</li><li>Figure 2 is a side sectional view of an exemplary ball mill and attritor for use
+in an embodiment of this invention; </li><li>Figure 3 is a side sectional view of an exemplary extrusion apparatus in
+accordance with the invention; and</li><li>Figure 4 is a composite image showing various stages of forging in accordance
+with the invention.</li></sl></p><heading>DETAILED DESCRIPTION OF THE INVENTION</heading><p num="0024">The present invention now will be described more fully hereinafter with
+reference to the accompanying drawings, in which preferred embodiments of the
+invention are shown. This invention may, however, be embodied in many different
+forms and should not be construed as limited to the embodiments set forth herein;
+rather, these embodiments are provided so that this disclosure will be thorough and
+complete, and will fully convey the scope of the invention to those skilled in the art.
+Like numbers refer to like elements throughout.</p><p num="0025">As used herein, "alloy" describes the solid solution of aluminum and a
+"secondary metal" selected from magnesium, lithium, silicon, titanium, and zirconium
+which may or may not contain precipitated compounds of aluminum and the
+secondary metal. In addition, the alloy may contain metal components such as Be,
+Ca, Sr, Ba, Ra, Sc, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Y, Nb, Mo, Tc, Ru, Rh, Pd, Ag,
+Cd, W, or combinations thereof. For convenience, the metals which may be used in
+accordance with the invention other than aluminum and the secondary metals are
+referred to hereinafter as "tertiary metals". As with any alloys, the invented alloy may
+contain very low concentrations of a variety of contaminants or impurities. The
+invented alloys do not, however, contain appreciable amounts of refractory materials
+such as oxides, nitrides, borides, carbides, oxy-nitrides, or carbo-nitrides.</p><p num="0026">As used herein, "nanostructured material synthesis" or similar terminology
+generally refers to methods of metal production which result in a material having
+average grain sizes on the order of nanometers. For purposes of the disclosure,
+nanostructured materials may include those alloys having an average grain size of 0.5
+µm or less. For purposes of this invention, nanostructured material synthesis will also
+include the addition of controlled amounts of nitrogen to the metal alloy.</p><p num="0027">Cryomilling in liquid nitrogen is the preferred method to develop the fine
+grain size and also to incorporate nitrogen into the alloy. Therefore, cryomilling is
+used as the exemplary synthesis method throughout the majority of the disclosure.
+However, one skilled in the art could also produce this similar alloys using other 
+common methods for formation of nanostructured materials, carried out in a
+controlled nitrogen environment. These synthesis methods include, but are not
+limited to, gas condensation, chemical vapor condensation, plasma synthesis, rapid
+solidification of powder, and severe plastic deformation. Synthesis is always carried
+out in a nitrogen environment in order to incorporate a limited, controlled amount of
+nitrogen into the metal or alloy.</p><p num="0028">As used herein, "cryomilling" describes the fine milling of metallic
+constituents at extremely low temperatures. Cryomilling takes place within a high
+energy mill such as an attritor with metallic or ceramic balls. During milling, the mill
+temperature is lowered by using liquid nitrogen. In an attritor, energy is supplied in
+the form of motion to the balls within the attritor, which impinge portions of the metal
+alloy powder within the attritor, causing repeated comminuting and welding of the
+metal.</p><p num="0029">The high-strength metal alloy powders, extrusions, and forgings of this
+invention begin as a pre-alloyed metal or as a combination of metals in the form of
+small particulates or powder. The base metal of the alloy is aluminum, which makes
+up about 89 atomic % to about 99 atomic % aluminum. The secondary metal is about
+1 atomic% to about 11 atomic% of a secondary metal selected from magnesium,
+lithium, silicon, titanium, and zirconium, or combinations thereof. Optionally, the
+alloy contains a tertiary metal of up to 10 atomic% selected from Be, Ca, Sr, Ba, Ra,
+Sc, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Y, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd, W, or
+combinations thereof.</p><p num="0030">By way of comparison, 11 atomic% of the secondary metal in aluminum is
+equivalent to about 10 weight% magnesium, 3 weight% lithium, 11 weight%
+silicon, 18 weight% titanium, or 30 weight% zirconium.</p><p num="0031">When intimately combined, mixed, and milled, the aluminum and secondary
+metal form a solid solution containing small amounts of precipitated aluminum-secondary
+metal. When magnesium is used as the secondary metal, the equilibrium
+aluminum-magnesium precipitate formed is Al<sub>3</sub>Mg<sub>2</sub>, though other non-equilibrium
+phases of the precipitate may also be present. Any other metals, optionally added to
+the aluminum and magnesium mixture form a solid solution with the aluminum and
+magnesium.</p><p num="0032">If the beginning metal powder is supplied as pre-alloyed powder, then it can
+proceed directly to the cryomilling process. Metal powders that have not been 
+previously alloyed can also proceed to the cryomilling step, since the cryomilling will
+intimately mix the aluminum constituent with the secondary constituent and thereby
+alloy the metals.</p><p num="0033">Prior to milling, it is preferred to handle the starting metal powders in a
+substantially oxygen free atmosphere. For instance, the aluminum is preferably
+supplied by atomizing the aluminum from an aluminum source and collecting and
+storing the atomized aluminum in a container under an argon atmosphere. The
+aluminum is held in the argon atmosphere, or in a dry nitrogen atmosphere,
+throughout all handling, including the operation of mixing the aluminum powder with
+the secondary metal prior to milling. Holding the raw aluminum within an argon or
+nitrogen atmosphere prevents the surface of the aluminum particles from excessive
+oxidation. The inert atmosphere also prevents contaminants such as moisture from
+reacting with the raw metal powder. Since magnesium and other metals readily
+oxidize, they are treated in the same manner as aluminum prior to milling. Thus, the
+aluminum and other metal powders are supplied uncoated, meaning without a coating
+of metal oxides.</p><p num="0034">The use of source metal powder having oxide coatings does not completely
+destroy the strength and low temperature benefits gained through the invented
+process, but alloys produced with a minimum of oxide content are preferred, and
+alloys having almost no oxide content may be produced in accordance with this
+invention. Further, supplemental refractory materials such as oxides, carbides,
+nitrides, borides, oxy-nitrides, carbo-nitrides, and the like are not added to the alloy.
+Though supplemental refractory dispersoids usually strengthen metal alloys through
+dispersion strengthening, oxides occurring naturally upon the surface of the metal
+starting materials are not preferred in the invented alloy, and supplemental refractory
+dispersoids cause notable deterioration in the physical properties of the alloy.</p><p num="0035">Referring now to Figure 1, once the constituents of the aluminum alloy are
+selected 10, the combined or pre-alloyed metal powder is cryomilled 15. As noted
+above, cryomilling is the repeated comminuting and welding of the metal particles in
+a very low temperature environment.</p><p num="0036">It is preferred that the cryomilling 15 of the very small particles of metal
+powder take place within a ball attritor. As shown in Fig. 2, the ball attritor is
+typically a cylindrical vessel 15a filled with a large number of ceramic or metallic
+spherical balls 15b, preferably stainless steel. A single fixed-axis shaft 15c is 
+disposed within the attritor vessel, and there are several radial arms 15d extending
+from the shaft. As the shaft 15c is turned, the arms 15d cause the spherical balls 15b
+to move about the attritor. When the attritor contains metal powder and the attritor is
+activated, portions of the metal powder are impinged between the metal balls 15b as
+they move about the attritor. The force of the metal balls 15b repeatedly impinges the
+metal particles and causes the metal particles to be continually comminuted and
+welded together. This milling of the metal powder effectively cold-works the metal.</p><p num="0037">Cold working imparts a high degree of plastic strain within the powder
+particles. During cold working, the repeated deformation causes a buildup of
+dislocation substructure within the particles. After repeated deformation, the
+dislocations evolve into cellular networks that become high-angle grain boundaries
+separating the very small grains of the metal. Grain diameters as small as
+approximately 2.5 x 10<sup>-8</sup> meter have been observed via electron microscopy and
+measured by x-ray diffraction at this stage in processing. Structures having
+dimensions smaller than 10<sup>-7</sup> meter, such as those found in the metallic produced at
+this stage in the invented process, are commonly referred to as nanostructured.</p><p num="0038">Stearic acid may be added as one of the components to be milled with the
+metal powder. It promotes the fracturing and re-welding of metal particles during
+milling, leading to more rapid milling, and leading to a larger fraction milled powder
+produced during a given process cycle.</p><p num="0039">During milling 16, the metal powder is reduced to and held at a temperature of
+approximately -320°F by exposure of the metal powder to liquid nitrogen. The liquid
+nitrogen is a convenient way to lower the temperature of the entire cryomilling
+system. Also, surrounding the metal powder in liquid nitrogen limits exposure of the
+metal powder to oxygen or moisture. In operation, the liquid nitrogen is placed inside
+the attritor, in contact with the metal particles and the attritor balls.</p><p num="0040">The operating parameters of the cryomilling 16 will depend upon the size of
+the attritor. For example, a 150 liter (40 gal) attritor is preferably operated at a speed
+of about 100 rpm. The amount of powder added to the attritor is dependent upon the
+size and number of balls within the attritor vessel. For a 150 liter attritor filled with
+640 kg of 0.25" diameter steel balls, up to approximately 20 kg of metal power may
+be milled at any one time.</p><p num="0041">Milling 16 is continued for a time sufficient to reach an equilibrium
+nanostructrue grain size within the metal. A milled metal powder having well 
+dispersed metal constituents and metallic precipitate was found to be one that had
+been cryomilled to an extent to provide a minimum nitrogen content of 0.3%.</p><p num="0042">After milling 16, the metal alloy powder is a homogenous solid solution of
+aluminum and the secondary metal, optionally having other added tertiary metal
+components and optionally having minor amounts of metallic precipitate interspersed
+within the alloy. Grain structure within the alloy is very stable and grain size is less
+than 0.5 µm. Depending on the alloy and extent of milling the average grain size is
+less than 0.3 µm, and may be lower than 0.1 µm.</p><p num="0043">Not wishing to be bound by theory, a proposed mechanism for the
+development of the stable fine grain size in this material is that the nitrogen that is
+incorporated into the alloy during processing interacts with aluminum and the
+secondary metal to provide the stability against grain growth. Discrete particles such
+as nitrides are unobserved at magnifications up to 100,000x (sufficient to resolve
+particles as small as 10<sup>-8</sup> m). Nevertheless, the free energy of formation of aluminum
+nitride or of magnesium nitride may be characteristic of the effect of nitrogen in the
+alloy. Both aluminum nitride and magnesium nitride have large negative free
+energies of formation, -287.0 kJ/mole for AIN, and -400.5 kJ/mole for Mg<sub>3</sub>N<sub>2</sub>.
+Nitrides of the other secondary metals (lithium, silicon, titanium and zirconium) also
+have large negative free energies of formation. Also, magnesium and the other the
+secondary metals each have a degree of solid solubility in aluminum.</p><p num="0044">After the metal alloy powder, with the proper composition and grain structure,
+is produced, it is transformed into a form that may be shaped into a useful object. The
+metal powder is canned 18, degassed 20, and then compacted and welded 25. After
+the combined step of compacting and welding 25, also referred to as consolidating 25,
+the metal is a solid mass which may be worked and shaped. The consolidated metal is
+extruded 30 into a usable metal component, and forged 35 if necessary.</p><p num="0045">At all times from cryomilling 15 through the completion of consolidation 25,
+the alloy powder is handled in either a dry nitrogen atmosphere or a vacuum. The
+inert atmosphere prevents oxidation of the surface of the alloy powder particles. The
+inert atmosphere further prevents the introduction of moisture to the alloy and
+prevents other contaminants, which might be problematic in the extruded solid, from
+entering the powder.</p><p num="0046">Canning 18 of the alloy powder involves placing the powder within a sealed
+airtight container. The container, or can, is equipped with an evacuation port to be 
+used in subsequent degassing 20. The alloy powder is degassed 20 while held in the
+can. A vacuum pump is operatively attached to the evacuation port of the can and
+used to provide a vacuum of approximately 10<sup>-6</sup> torr or better. The temperature of the
+metal alloy is raised, concurrently with the vacuum treatment, to a temperature of
+between about 600°F and about 850°F, and preferably about 775°F to about 850°F.
+The elevated temperature and decreased pressure cause the evacuation of gaseous
+components from the metal alloy powder.</p><p num="0047">The degassing 20 removes components of any stearic acid included with the
+powder metal blend when cryomilled within the attritor. Hydrogen, which evolves
+from the stearic acid, is the main degassed component. Nitrogen found within the
+interstices of the powder, as well as nitrogen used to evacuate the can prior to packing
+with the metal particles, is also degassed. Small amounts of oxygen or moisture
+present within the powder may also be removed from the powder during the
+degassing. Degassing 20 is theoretically continued until no free gas species remain in
+the alloy powder, but is practically continued until the content of hydrogen is below 5
+weight parts per million (wppm).</p><p num="0048">The fine grain size of the metal has the unique and useful property of being
+stable on annealing to temperatures of about 850°F. This enables the powder to
+endure the relatively high temperatures experienced during degassing 20 and
+consolidation 25 while maintaining the fine grain size that contributes to strength.</p><p num="0049">After degassing 20, the can containing the alloy powder is sealed and is
+transferred to a hot isostatic press (HIP). The temperature of the powder is either
+maintained at between about 600°F to about 850°F after degassing 20 or, if the
+temperature of the alloy has been allowed to drop, reheated to between about 600°F to
+about 850°F. While maintaining the elevated temperature, the press is pressurized
+with argon and the can is compressed within the press at a static pressure of between
+about 15 ksi and about 30 ksi. The temperature and pressure exerted upon the metal
+alloy powder cause the metal particles to be consolidated into a singular solid billet.
+The pressure and temperature are maintained until the mass of consolidated metal is
+nearly 100% free of porosity. Though pressing times will vary with the exact alloy
+being consolidated, a typical hot isostatic pressing time will be approximately 4 hours.</p><p num="0050">After consolidation 25, the solid metal alloy is extruded 30. Extrusion 30 may
+be used to form the solid into a blank for later forging or may be used to form the
+solid metal directly into a usable part. The extrusion process typically alters the 
+physical properties of the alloy somewhat. For instance, extrusion decreases the
+hardness and increases the grain size of the consolidated billet. Also, tensile ductility
+is notably improved after extrusion.</p><p num="0051">Referring to Figure 3, the consolidated alloy is typically shaped in the form of
+a cylindrical billet 52 having a first diameter 58. The aluminum alloy billet 52 is
+forced through a conical die 54 by a ram 56. When the consolidated alloy 52 is
+extruded, the diameter of the billet is reduced to a second diameter 60 and the length
+of the billet 52 is extended. For extrusion 30, the alloy is heated to a temperature
+between about 350°F and 450°F, and preferably about 400°F. Extrusion 30 of the
+alloy preferably occurs at greater than a 6 to 1 extrusion area ratio. The speed of the
+rain 56 which forces the billet through the die 54 is preferably about 0.02 inches per
+second. For a 3 inch diameter extrusion at an extrusion ratio of 7:1, this provides an
+average strain rate of 0.025 sec<sup>-1</sup>.</p><p num="0052">Components formed from the metal alloy may be forged 35 if extrusion is not
+capable of producing a part of the proper shape or size. It is also desired to forge
+those components which need additional ductility in a direction other than the
+direction of extrusion.</p><p num="0053">Prior to forging 35, the extruded blank is heated to a temperature of
+approximately 600°F. Forging is carried out in a sequence of operations that provide
+improved properties in the direction transverse to the extrusion axis. Forging also is
+carried out to provide desired shapes. Figure 4 shows the results of each forging
+process step. The extruded blank is forged 35 at a low strain rate, sufficient to shape
+the component, and to provide isotropic structure and properties to the alloy. In one
+embodiment, the first forging operation is an initial upset forging step. Strain rate
+during the upset forging should be less than 0.02 per second. The upset forging
+results in an alloy component having a form as shown as image 63. After upset
+forging, the component next is forged in sequence along three perpendicular axes,
+referred to as ABC forging, to thoroughly deform the material, breaking up particle
+boundary structures, and providing improved properties in the direction transverse to
+the extrusion axis. The result of ABC forging is shown as image 65. After ABC
+forging, the alloy component is die forged, referred to as blocker forging, at a strain
+rate as high as 0.1 per second, resulting in an alloy component such as shown as
+image 67. After blocker forging, the alloy component is rapidly cooled to room
+temperature or below in order to limit the growth of an Al-Mg intermetallic phase. </p><p num="0054">After blocker forging and cooling, the component is finish forged. Finish die
+forging involves reheating the forged part to about 400°F and forging the part at a
+strain rate of less than 0.1 per second, with the result shown as image 69. Overall
+forging imparts a total strain to the alloy of from about 0.4 to about 0.8. After final
+forging, the part is preferably air cooled. Forging of the metal forms high-strength
+aluminum in sizes and shapes beyond those that are producible using extruded
+product, provides isotropic mechanical properties, in contrast to extrusions, which
+have lower ductility and toughness in directions transverse to the extrusion direction,
+and provides a better balance of properties, trading strength to provide beneficial
+tensile work hardening behavior that provides enhanced ductility and toughness.</p><p num="0055">The physical properties of the alloy are present within the invented alloy
+powder produced in accordance with the invention, and are exhibited by the metal
+alloy components formed through consolidation and extrusion of the metal, and
+optionally by further forging of the metal. The extraordinary strength and the ability
+of the alloy to maintain high strength at extremely low temperatures is believed to be
+due to the unique grain structure, grain size, and interaction of constituents of the
+alloy caused by the cryomilling process.</p><p num="0056">The high strength of the alloy produced in accordance with the invention is
+unrelated to the dispersion of refractory materials such as oxides or nitrides within the
+alloy. Samples of the cryomilled and consolidated alloy having a content of 7.5 wt.%
+magnesium and the balance aluminum have been examined a number of times via
+transmission electron microscopy (TEM) at magnifications up to 100,000x, which is
+sufficient to resolve particles as small as 10<sup>-8</sup> m. Nitride particles or other second-base
+particles were not observable at this level of resolution. The observed structure
+is notably different from that of alloys having nitride or oxide additions that are
+readably observable via TEM.</p><p num="0057">The metal components produced from the powder have an extremely high
+yield strength, between about 73 ksi and about 104 ksi, and ultimate tensile strength,
+between about 78 ksi and about 107 ksi. More importantly, the metal alloys have the
+same or higher yield strength at low temperatures, ranging from about 67 ksi to about
+126 ksi at -320°F, and ranging from about 78 ksi to about 106 ksi at -423°F.
+Similarly, the ultimate tensile strength of the alloys ranges from about 78 ksi to about
+129 ksi at -320°F and from about 107 ksi to about 121 ksi at -423°F. </p><p num="0058">Metallic constituents in addition to aluminum and secondary metals may be
+combined into the metal alloy in accordance with the invented milling processes. For
+instance, any or a combination of the tertiary metals listed above may be combined
+with the aluminum and secondary metal. In particular, preferred alloys of
+molybdenum, vanadium, tungsten, iron, nickel, cobalt, manganese, copper, niobium,
+and chromium can be used in accordance with the processes of this invention to
+produce an alloys having greater low temperature strength than corresponding
+dispersion strengthened aluminum alloys and other aluminum alloys formed by
+methods other than by the invented method.</p><p num="0059">An exemplary embodiment of an alloy which exhibits superior strength
+characteristics is the alloy containing 1- 4.6% magnesium, 6 - 9 wt% zinc, 2 wt%
+copper, 2 wt% cobalt, 0.2 wt% zirconium, and 0.2 wt% nickel by weight, with the
+remainder being aluminum. Cryomilling, consolidating, and extruding the alloy
+produces a metal part having room temperature and cryogenic temperature strength
+superior to the basic aluminum-magnesium alloys. Table I below provides tensile
+data for typical samples of the two materials produced in accordance with the
+invention. The measurements were based upon a 0.4" diameter extrusion.
+<tables><table><tgroup cols="6"><tbody><row><entry align="center">Alloy</entry><entry align="center">Temperature</entry><entry align="center">yield strength (ksi)</entry><entry align="center">ultimate tensile strength (ksi)</entry><entry align="center">elongation (%)</entry><entry align="center">reduction of area (%)</entry></row><row><entry align="center">2.5 wt% Mg, 8.0 wt% Zn, 1.0 wt% Cu, 1.4 wt% Co, balance Al</entry><entry align="center">-320F</entry><entry align="center">126.8</entry><entry align="center">129.1</entry><entry align="center">1.8</entry><entry align="center">4.7</entry></row><row><entry align="center">7.5 wt% Mg, balance Al</entry><entry align="center">-320F</entry><entry align="center">100.4</entry><entry align="center">119.0</entry><entry align="center">3.6</entry><entry align="center">7.9</entry></row></tbody></tgroup></table></tables> </p><heading>EXAMPLES</heading><heading><u style="single">Example 1: Production of aluminum / magnesium alloy</u></heading><p num="0060">Aluminum alloy powders of composition 6.7 wt% Mg + Al (balance) were
+cryomilled, canned, degassed, consolidated, and extruded into a 3" diameter bar.
+Cryomilling was carried out as follows. The attritor was filled with 640 kg grams of
+0.25 inch diameter steel balls. Liquid nitrogen was flowed into the attritor. Flow was
+maintained for at least about one hour to cool the balls and attritor until the rate of 
+boil off was sufficiently low to allow the balls to become completely submerged in
+the liquid nitrogen. A transfer hopper was loaded with 17445 grams of aluminum
+powder, 2555 grams of 50 wt% aluminum 50 wt% magnesium powder, and 40
+grams of stearic acid. Loading of the hopper was carried out in a glove box under dry
+nitrogen purge. These components were transferred from the hopper into the attritor
+by draining from the hopper into a tube inserted through the lid of the attritor vessel.
+The attritor arms were then rotated in brief pulses to gradually move this powder
+metal charge down into the liquid nitrogen and steel balls. Next, the attritor speed of
+rotation was increased to 100 RPM and maintained at 100 RPM for 8 hours. Liquid
+nitrogen level was maintained above the balls throughout this 8 hours. At the end of
+the 8 hours, the milled metal powder with liquid nitrogen was drained through a Valve
+in the bottom of the attritor into steel bins. These bins were loaded into a glovebox,
+where the liquid nitrogen was allowed to boil off, which required approximately 6 to
+10 hours. A dry nitrogen purge was maintained during and after boil off to avoid
+exposing the powder to air or moisture. Dry powder was weighted and packed into
+storage containers.</p> <p num="0061">The dry powder was loaded into a can approximately 11 inch diameter by 7
+inch long. A can lid was welded on to close and seal the can. The can was evacuated
+by a vacuum pump connected to tube welded to a port in the lid. The can was heated
+to approximately 600°F while connected to the vacuum pump, to facilitate degassing
+of the can. The can was held at 600°F until the vacuum, measured in the connecting
+tube, reached a level that indicated that degassing was nearing completion. The can
+was allowed to cool, then the evacuation tube was crimped and welded to seal the can.</p> <p num="0062">Next, the can and powder were hot isostatic pressed at 600°F and 15 ksi for 4
+hours, consolidating the powder from about 65% to about 100%. The can was
+removed from the compacted powder billet via machining. The billet was then
+machined to a cylindrical shape, in preparation for extrusion. The billet was extruded
+through conical dies, from a diameter of about 9 inches, to a diameter of about 3
+inches, at a temperature of about 400F, at a ram speed of 0.02 inches per second. The
+extrusion had the longitudinal tensile properties shown in Table II. The demonstrated
+tensile properties of the alloys treated according to the invented method are superior
+to corresponding alloys treated according to traditional techniques. <tables><table><tgroup cols="5"><tbody><row><entry align="center"/><entry align="center">σ<sub>y</sub> (ksi)</entry> <entry align="center">σ<sub>u</sub> (ksi)</entry><entry align="center">elong.(%)</entry><entry align="center">Reduction in Area (RA) (%)</entry></row><row><entry align="center">70F</entry><entry align="center">83.0</entry><entry align="center">94</entry><entry align="center">5.7</entry><entry align="center">27.5</entry></row><row><entry align="center">- 320F</entry><entry align="center">97.4</entry><entry align="center">109.3</entry><entry align="center">5.7</entry><entry align="center">23.3</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 2: Production of aluminum / magnesium alloy</u></heading><p num="0063">Aluminum alloy powders of composition 8.5 wt% Mg + Al (balance) were
+cryomilled, canned, degassed, consolidated and extruded into a 3" diameter tube, wall
+thickness 0.25" as described in Example 1. In this case, the extrusion area ratio was
+23:1, the ram speed was 0.02 inches per second, and the average strain rate was 0.055
+sec<sup>-1</sup>. The extrusion had the tensile properties shown in Table III. The extruded tube
+exhibited physical properties that were superior to those of tubes having similar
+metallic components produced by traditional methods.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center"/><entry align="left">σ<sub>y</sub> (ksi)</entry><entry align="left">σ<sub>u</sub> (ksi)</entry><entry align="left">elong.(%)</entry><entry align="left">R.A.(%)</entry></row><row><entry align="center">70F - long.</entry><entry align="center">73.4</entry><entry align="center">78.3</entry><entry align="center">14.2</entry><entry align="center">31.5</entry></row><row><entry align="center">70F - trans.</entry><entry align="center">71.4</entry><entry align="center">77.5</entry><entry align="center">6.7</entry><entry align="center">13.6</entry></row><row><entry align="center">- 320F - long.</entry><entry align="center">85.8</entry><entry align="center">91.6</entry><entry align="center">12.2</entry><entry align="center">16.1</entry></row><row><entry align="center">- 320F - trans.</entry><entry align="center">85.6</entry><entry align="center">89.4</entry><entry align="center">7.0</entry><entry align="center">10.9</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 3: Production of Al/Mg/Zn/Cu/Co alloy</u></heading><p num="0064">Aluminum alloy powders of composition 2.5 wt% Mg + 8.0 wt% Zn + 1.0
+wt% Cu + 1.4 wt% Co + Al (balance) (composition similar to AA7090) were
+cryomilled, canned, degassed, consolidated and extruded into a 0.4" diameter
+extrusion according to the method of Example 1. The extrusion had the longitudinal
+tensile properties shown in Table IV, which are superior to those corresponding alloys
+which were not treated in accordance to the invented method.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center"/><entry align="left">σ<sub>y</sub> (ksi)</entry><entry align="left">σ<sub>u</sub> (ksi)</entry><entry align="left">elong.(%)</entry><entry align="left">R.A.(%)</entry></row><row><entry align="right">70F</entry><entry align="center">104.8</entry><entry align="left">107</entry><entry align="center">6.3</entry><entry align="left">7</entry></row><row><entry align="right">- 320F</entry><entry align="center">126.8</entry><entry align="left">129.</entry><entry align="center">1.8</entry><entry align="left">4.7</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 4: Production of aluminum / magnesium alloy</u></heading><p num="0065">Aluminum alloy powders of composition 6.7 wt% Mg + Al (balance) were
+cryomilled, canned, degassed, consolidated and extruded into a 3" diameter bar. A
+segment of the bar was subsequently forged into a small block. The block had the 
+tensile properties shown in Table V, superior to corresponding alloys milled with
+traditional methods.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center"/><entry align="left">σ<sub>y</sub>(ksi)</entry><entry align="left">σ<sub>u</sub>(ksi)</entry><entry align="left">elong.(%)</entry><entry align="left">R.A.(%)</entry></row><row><entry align="right">70F</entry><entry align="center">74.2</entry><entry align="center">83.2</entry><entry align="center">11.7</entry><entry align="center">37.5</entry></row><row><entry align="right">- 320F</entry><entry align="center">85.2</entry><entry align="center">98.3</entry><entry align="center">11.8</entry><entry align="center">22.0</entry></row><row><entry align="right">- 423F</entry><entry align="center">105.9</entry><entry align="center">121.4</entry><entry align="center">7.1</entry><entry align="center">8.7</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 5: Production of aluminum / magnesium alloy</u></heading><p num="0066">Aluminum alloy powders of composition 8.8 wt% Mg + Al (balance) were
+cryomilled, canned, degassed, consolidated and extruded into a 3" diameter bar
+according to the method of Example 1. The bar was subsequently forged into a
+pump-impeller-shaped forging. The forging had the tensile properties in the radial
+direction shown in Table VI.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center"/><entry align="left">σ<sub>y</sub> (ksi)</entry><entry align="left">σ<sub>u</sub>(ksi)</entry><entry align="left">elong.(%)</entry><entry align="left">R.A.(%)</entry></row><row><entry align="left">- 320F</entry><entry align="center">67.5</entry><entry align="center">78.5</entry><entry align="center">4.3</entry><entry align="center">4.2</entry></row><row><entry align="left">- 423F</entry><entry align="center">78.5</entry><entry align="center">100.7</entry><entry align="center">4.7</entry><entry align="center">7.4</entry></row></tbody></tgroup></table></tables></p><p num="0067">As shown in the Examples above, aluminum alloys, extrusions, and forgings
+produced in accordance with this invention exhibit high strength at ambient
+temperatures and maintain high strength at reduced temperatures such as those
+experienced in liquid rocket fuel engines. Thus, components produced in accordance
+with the invention are particularly suited for use in low temperature situations.</p><p num="0068">Many modifications and other embodiments of the invention will come to
+mind to one skilled in the art to which this invention pertains having the benefit of the
+teachings presented in the foregoing descriptions and the associated drawings.
+Therefore, it is to be understood that the invention is not to be limited to the specific
+embodiments disclosed and that modifications and other embodiments are intended to
+be included within the scope of the appended claims. Although specific terms are
+employed herein, they are used in a generic and descriptive sense only and not for
+purposes of limitation.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An aluminum alloy comprising:
+<claim-text><claim-text>89 atomic% to 99 atomic% aluminum;</claim-text><claim-text>1 atomic% to 11 atomic% of a secondary metal selected from
+the group consisting of magnesium, lithium, silicon, titanium,
+zirconium, and combinations thereof; and</claim-text><claim-text>up to about 10 atomic% of a tertiary metal selected from
+the group consisting of Be, Ca, Sr, Ba, Ra, Sc, V, Cr, Mn, Fe,
+Co, Ni, Cu, Zn, Y, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd, W, and combinations
+thereof;</claim-text></claim-text>
+   wherein the alloy comprises at least 0.3 % nitrogen by
+weight,
+   wherein the alloy has an average grain size of less than
+0.5 µm, and
+   wherein the alloy is substantially free of refractory
+materials.</claim-text></claim><claim num="2"><claim-text>The aluminum alloy of claim 1, wherein the secondary
+metal is magnesium.</claim-text></claim><claim num="3"><claim-text>The aluminum alloy of claim 2, wherein the magnesium
+is present in an amount of 4 weight% to 10 weight% of the alloy.</claim-text></claim><claim num="4"><claim-text>The aluminum alloy of any of claims 1 to 3, wherein
+aluminum is present in an amount of 82 weight% to 96 weight%,
+and the tertiary metals are selected from the group consisting
+of zinc, copper, cobalt, zirconium, and nickel.</claim-text></claim><claim num="5"><claim-text>The aluminum alloy of any of claims 1 to 4, comprising
+6 weight% to 9 weight% zinc, less than 2 weight% copper,
+less than 2 weight% cobalt, less than about 0.2 weight% zirconium,
+and less than about 0.2 weight% nickel.</claim-text></claim><claim num="6"><claim-text>The aluminum alloy of any of claims 1 to 5, wherein
+the alloy has a stable grain structure up to at least 454°C
+(850°F).</claim-text></claim><claim num="7"><claim-text>The aluminum alloy of any of claims 1 to 6, wherein
+the alloy is in the form of an extrusion.</claim-text></claim><claim num="8"><claim-text>The aluminum alloy of any of claims 1 to 6, wherein
+the alloy is in the form of a forging.</claim-text></claim><claim num="9"><claim-text>The aluminum alloy of any of claims 1 to 8, wherein
+the alloy comprises less than about 0.5 volume% refractory
+material.</claim-text></claim><claim num="10"><claim-text>An aluminum alloy consisting essentially of:
+<claim-text><claim-text>89 atomic% to 99 atomic% aluminum;</claim-text><claim-text>1 atomic% to 11 atomic% of a secondary metal selected from
+the group consisting of magnesium, lithium, silicon, titanium,
+zirconium, and combinations thereof; and</claim-text><claim-text>up to about 10 atomic% of a tertiary metal selected from
+the group consisting of Be, Ca, Sr, Ba, Ra, Sc, V, Cr, Mn, Fe,
+Co, Ni, Cu, Zn, Y, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd, W, and combinations
+thereof; and,</claim-text><claim-text>at least 0.3 % nitrogen by weight.</claim-text></claim-text></claim-text></claim><claim num="11"><claim-text>The alloy of claim 10, wherein the alloy has an
+average grain size of less than 0.5 µm.</claim-text></claim><claim num="12"><claim-text>A method of producing an aluminum alloy comprising
+<claim-text><claim-text>providing a metal powder comprising
+<claim-text><claim-text>89 atomic% to 99 atomic% aluminum;</claim-text><claim-text>1 atomic% to 11 atomic% of a secondary metal selected
+from the group consisting of magnesium, lithium,
+silicon, titanium, zirconium, and combinations
+thereof; and</claim-text><claim-text>up to about 10 atomic% of a tertiary metal selected
+from the group consisting of Be, Ca, Sr, Ba, Ra, Sc,
+V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Y, Nb, Mo, Tc, Ru, Rh,
+Pd, Ag, Cd, W, and combinations thereof; and,</claim-text></claim-text></claim-text><claim-text>processing the metal powder with a nanostructured material
+synthesis technique such that at least 0.3 weight% nitrogen
+is added to the metal;</claim-text></claim-text>
+   wherein refractory material is not added to the metal
+during processing.</claim-text></claim><claim num="13"><claim-text>The method of claim 12, further comprising the step
+of pre-alloying the provided metal powder prior to processing.</claim-text></claim><claim num="14"><claim-text>The method of any of claims 12 or 13, wherein the
+synthesis technique is selected from the group consisting of
+cryomilling, gas condensation, chemical vapor deposition, plasma
+synthesis, rapid solidification, and severe plastic deformation,
+whereby a limited and controlled amount of nitrogen may
+be introduced into the alloy.</claim-text></claim><claim num="15"><claim-text>The method of claim 14, wherein the synthesis technique
+is cryomilling.</claim-text></claim><claim num="16"><claim-text>The method of claim 15, wherein the step of cryomilling
+comprises:
+<claim-text><claim-text>supplying the metal powder to a ball mill attritor (15);</claim-text><claim-text>maintaining the supply of metal powder in a liquid nitrogen
+medium;</claim-text><claim-text>activating the attritor (15), whereby the metal powder is
+repeatedly impinged between metal balls (15b) within the attritor
+(15);</claim-text><claim-text>deactivating the attritor (15); and,</claim-text><claim-text>removing the cryomilled metal powder from the attritor
+(15).</claim-text></claim-text></claim-text></claim><claim num="17"><claim-text>The method of any of claims 15 or 16, wherein the
+step of cryomilling is continued until the equilibrium grain
+size of the metal is reached.</claim-text></claim><claim num="18"><claim-text>The method of any of claims 15 to 17, wherein the
+step of cryomilling is continued for between 6 and 10 hours.</claim-text></claim><claim num="19"><claim-text>The method of claim 18, wherein the step of cryomilling
+is continued for about 8 hours.</claim-text></claim><claim num="20"><claim-text>The method of any of claims 12 to 19, wherein the
+step of providing a metallic powder comprises providing a metallic
+powder substantially free of oxides.</claim-text></claim><claim num="21"><claim-text>The method of claim 20, wherein the metal powder is
+provided in a substantially oxygen-free atmosphere.</claim-text></claim><claim num="22"><claim-text>The method of any of claims 12 to 21, wherein the
+secondary metal is magnesium.</claim-text></claim><claim num="23"><claim-text>The method of claim 22, wherein the magnesium is
+present in an amount of 4 weight% to 10 weight% of the alloy.</claim-text></claim><claim num="24"><claim-text>The method of any of claims 12 to 23, wherein aluminum
+is present in an amount of 82 weight% to 96 weight%, and
+the tertiary metals are selected from the group consisting of
+zinc, copper, cobalt, zirconium, and nickel.</claim-text></claim><claim num="25"><claim-text>The method of any of claims 12 to 24, comprising 6
+weight% to 9 weight% zinc, less than 2 weight% copper, less
+than 2 weight% cobalt, less than about 0.2 weight% zirconium,
+and less than about 0.2 weight% nickel.</claim-text></claim><claim num="26"><claim-text>The method of any of claims 12 to 25, further comprising:
+<claim-text><claim-text>cryomilling the metallic powder in a liquid nitrogen atmosphere;</claim-text><claim-text>removing gaseous components from the cryomilled powder;</claim-text><claim-text>consolidating the cryomilled powder into a metallic billet
+(52); and</claim-text><claim-text>extruding the metallic billet (52).</claim-text></claim-text></claim-text></claim><claim num="27"><claim-text>The method of claim 26, wherein gaseous components
+are removed from the cryomilled powder by packing the cryomilled
+powder into a can having an evacuation port and providing
+a vacuum to the evacuation port, thereby evacuating gaseous
+components from the powder.</claim-text></claim><claim num="28"><claim-text>The method of any of claims 26 to 27, wherein the
+removal of gaseous components occurs at a temperature between
+about 315°C (600°F) and about 455°C (850°F) for a time suffi-cient
+to reduce hydrogen content to a level below about
+30 wppm .</claim-text></claim><claim num="29"><claim-text>The method of any of claims 26 to 28, wherein consolidating
+the cryomilled powder comprises compressing the
+powder within a hot isostatic press.</claim-text></claim><claim num="30"><claim-text>The method of claim 29, wherein the step of extruding
+the metal billet comprises preheating the consolidated metal
+powder to about 204°C (400°F) and extruding the consolidated
+powder with an extrusion area ratio of greater than 6:1 at a
+ram speed of about 0.5 centimeters per minute (0.2 inches per
+minute).</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

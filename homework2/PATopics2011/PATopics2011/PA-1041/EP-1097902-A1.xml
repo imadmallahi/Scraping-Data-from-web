@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1097902-A1" country="EP" doc-number="1097902" kind="A1" lang="EN" family-id="23715230" status="new" date-produced="20090516" date="20010509"><bibliographic-data><publication-reference ucid="EP-1097902-A1" status="new" fvid="23119182"><document-id status="new" format="original"><country>EP</country><doc-number>1097902</doc-number><kind>A1</kind><date>20010509</date></document-id></publication-reference><application-reference ucid="EP-00123877-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00123877</doc-number><kind>A</kind><date>20001102</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-43221599-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>43221599</doc-number><kind>A</kind><date>19991103</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B01D  53/04        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01D  53/04        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01D  53/047       20060101ALI20060101BMKR        </classification-ipcr><classification-ipcr status="new">B01D  53/047       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  53/053       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C01B   3/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C01B   3/56        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10K   1/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10K   1/32        20060101ALI20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B01D  53/053</classification-symbol><classification-symbol scheme="EC">C01B   3/56</classification-symbol><classification-symbol scheme="ICO">L01D253:102</classification-symbol><classification-symbol scheme="ICO">L01D253:104</classification-symbol><classification-symbol scheme="ICO">L01D253:108</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Druckwechseladsorptionsverfahren für die Herstellung von Wasserstoff</invention-title><invention-title load-source="ep" status="new" lang="EN">Pressure swing adsorption process for the production of hydrogen</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédé d'adsorption modulée en pression pour la production d'hydrogène</invention-title><citations><patent-citations><patcit ucid="EP-0868936-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0868936</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0923976-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0923976</doc-number><kind>A1</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-3021315-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>3021315</doc-number><kind>A</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="Y"/></sources></patcit><patcit ucid="US-4440548-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4440548</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="US-4816039-A"  status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>4816039</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN vol. 015, no. 141 (C-0822), 10 April 1991 (1991-04-10) &amp; JP 03 021315 A (MITSUBISHI HEAVY IND LTD), 30 January 1991 (1991-01-30)</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>PRAXAIR TECHNOLOGY INC</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>PRAXAIR TECHNOLOGY, INC.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>PRAXAIR TECHNOLOGY, INC.</last-name><address><street>39 Old Ridgebury Road</street><city>Danbury, CT 06810-5113</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>BAKSH MOHAMED SAFDAR ALLIE</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TERBOT CHARLES EDWARD</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>BAKSH, MOHAMED SAFDAR ALLIE</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TERBOT, CHARLES EDWARD</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>BAKSH, MOHAMED SAFDAR ALLIE</last-name><address><street>2635 Sweet Home Road</street><city>Anherst, New York 14228</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TERBOT, CHARLES EDWARD</last-name><address><street>233 Grove Street</street><city>Tonawanda, New York 14150</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Schorer, Reinhard, Dipl.-Phys.</last-name><address><street>Schwan Schwan Schorer Patentanwälte, Elfenstrasse 32</street><city>81739 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country><country>IT</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>This invention provides a two bed pressure swing
+adsorption process for recovering a primary gaseous
+component at a purity of over 99% from a feed gas
+comprising the primary component and one or more
+impurities. One such process includes: (a) passing the
+feed gas through a first adsorption bed to remove one or
+more impurities; (b) conducting a pressure swing
+adsorption cycle in the first bed; (c) separately passing
+effluent gases from the first bed into at least two
+separate tanks for subsequent purging and pressurization
+of the beds; (d) storing a gas mixture in the first of
+the tanks containing the primary component in a
+concentration higher than the concentration of the
+primary component in the gas mixture in the second of the
+tanks; (e) refluxing the mixture of the primary component
+from the second tank in the first adsorption bed during
+the regeneration steps therein; (f) refluxing the mixture
+of the primary component from the first tank in the first
+adsorption bed during the regeneration steps therein; (g)
+simultaneously and non-concurrently performing steps (a)
+to (f) in a second bed; and (h) recovering the product
+gas stream.
+<img id="img-00000001" orientation="unknown" wi="60" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="107"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single"><b>FIELD OF THE INVENTION</b></u></heading><p num="0001">This invention relates to a two-bed pressure swing
+adsorption (PSA) process for purifying impure gas streams
+containing more than 50 mole % hydrogen, and more
+particularly to such a process for the production of high
+purity hydrogen from various hydrogen-containing feed
+mixtures such as synthesis gas. The process provides
+higher hydrogen recoveries and requires fewer adsorption
+beds than previously known PSA processes for hydrogen
+production.</p><heading><u style="single"><b>BACKGROUND OF THE INVENTION</b></u></heading><p num="0002">The need for high purity (&gt;99.9%) hydrogen is
+growing in the chemical process industries, e.g., in
+steel annealing, silicon manufacturing, hydrogenation of
+fats and oils, glass making, hydrocracking, methanol
+production, the production of oxo alcohols, and
+isomerization processes. This growing demand requires
+the development of highly efficient separation processes
+for H<sub>2</sub> production from various feed mixtures. In order
+to obtain highly efficient PSA separation processes, both
+the capital and operating costs of the PSA system must be
+reduced.</p><p num="0003">One way of reducing PSA system cost is to decrease
+the adsorbent inventory and number of beds in the PSA
+process. In addition, further improvements may be
+possible using advanced cycles and adsorbents in the PSA
+process. However, H<sub>2</sub> feed gas contains several 
+contaminants, e.g. a feed stream may contain CO<sub>2</sub> (20% to
+25%) and minor amounts of H<sub>2</sub>O (&lt;0.5%), CH<sub>4</sub>(&lt;3%), CO(&lt;1%)
+and N<sub>2</sub> (&lt;1%). Such a combination of adsorbates at such
+widely varying compositions presents a significant
+challenge to efficient adsorbent selection, adsorbent
+configuration in the adsorber, and the choices of
+individual adsorbent layers and multiple adsorbed bed
+systems to obtain an efficient H<sub>2</sub>-PSA process.</p><p num="0004">There are a variety of known processes for producing
+hydrogen. For example, Figure 1 of the accompanying
+drawing shows the steam reforming of natural gas or
+naptha wherein a feedstock, e.g., a natural gas stream
+11, is compressed and fed to a purification unit 12 to
+remove sulfur compounds. The desulfurized feed is then
+mixed with superheated steam and fed to a reformer 13 to
+produce primarily H<sub>2</sub> and CO. The effluent stream from
+the reformer is sent to a heat recovery unit 14, then to
+a shift converter 15 to obtain additional H<sub>2</sub>. The
+effluent from the shift converter goes through a process
+cooling and recovery unit 16 prior to sending the
+effluent (e.g., a synthesis gas stream 17 having on a dry
+basis a composition of about 74.03% H<sub>2</sub>, 22.54% CO<sub>2</sub>, 0.36%
+CO, 2.16% CH<sub>4</sub>, and 0.91% N<sub>2</sub>) to a PSA purification system
+18 to produce a high purity hydrogen product stream 19.</p><p num="0005">Representative prior art PSA processes for hydrogen
+purification include the following: (1) Wagner, U.S. Pat.
+No. 3,430,418, (2) Batta, U.S. Pat. No. 3,564,816, (3)
+Sircar et al., U.S. Pat. No. 4,077,779, (4) Fuderer et
+al., U.S. Pat. No., 4,553,981, (5) Fong et al, U.S. Pat.
+No. 5,152,975, (6) Kapoor et al., U.S. Pat. No. 
+5,538,706, (7) Baksh et al., U.S. Pat. No. 5,565,018, and
+(8) Sircar et al., U.S. Pat. No. 5,753,010.</p><p num="0006">Wagner, U.S. Pat. No. 3,430,418 describes an eight-step
+PSA cycle for hydrogen purification. At least four
+beds are used in the process; following the bed-to-bed
+equalization step each bed undergoes a co-current
+depressurization step prior to countercurrent blowdown to
+recover void space gas for purging of another bed.</p><p num="0007">Batta, U.S. Pat. No. 3,564,816 describes a twelve-step
+PSA cycle using at least four adsorbent beds and two
+pressure equalization stages for separating hydrogen-containing
+gas mixtures contaminated with H<sub>2</sub>O, CO<sub>2</sub>, CH<sub>4</sub>
+and CO produced in steam reforming of natural gas. In
+the Batta process, after the first bed-to-bed
+equalization step, a co-current depressurization step is
+used to recover void space gas for purging of another
+bed, then a second bed-to-bed equalization step is used
+prior to the countercurrent blowdown step in the PSA
+cycle.</p><p num="0008">Scharpf et al., U.S. Pat. No. 5,294,247 discloses a
+vacuum PSA process for recovering hydrogen from dilute
+refinery off gases, preferably containing less than 60%
+hydrogen. The patent discloses the use of six adsorbent
+beds.</p><p num="0009">Baksh et al., U.S. Pat. No. 5,565,018 discloses a 12
+bed PSA process using external gas storage tanks to allow
+gases of increasing purity to used during
+repressurization.</p><p num="0010">Sircar et al., U.S. Pat. No. 5,753,010
+discloses a PSA hydrogen recovery system where a portion 
+of the hydrogen is recovered from the PSA
+depressurization and recycled to the PSA system.</p><p num="0011">Baksh, EP Application No. 00 117 437.4 (IG-20731-EP),for
+Pressure Swing Adsorption Process for the
+Production of Hydrogen, filed August 11,2000 discloses a
+pressure swing adsorption process for purifying an impure
+gas stream by passing it through an adsorbent bed
+containing an alumina layer for adsorption of H<sub>2</sub>O, an
+activated carbon layer for adsorption of CH<sub>4</sub>, CO<sub>2</sub>, and
+CO, and a layer containing the zeolite for adsorption of
+nitrogen from the gas stream. The pressure swing
+adsorption process provided in the Baksh application is a
+4 bed system employing a 12 step process (see <u style="single">inter alia</u>
+pages 13-16). The invention described in the present
+application differs in several important respects from
+the process disclosed in the Baksh application. These
+differences include, but are not limited to, the fact
+that the present invention uses a 2 bed system which
+allows for a reduction in the bed size factor; and in
+several embodiments, the present invention uses storage
+tanks (separate from the adsorption beds) which allow for
+the use of gas of increasing H<sub>2</sub> purity during refluxing.</p><p num="0012">It is among the objects of the present invention to
+provide an improved PSA process for the production of
+hydrogen from an impure gas stream containing more than
+50 mole % hydrogen, which provides increased hydrogen
+recovery and reduced PSA adsorbent requirements with
+consequent lower capital and operating costs. Other
+objects and advantages of the invention will be apparent 
+from the following description taken in connection with
+the accompanying drawing.</p><heading><u style="single"><b>SUMMARY OF THE INVENTION</b></u></heading><p num="0013">This invention provides a two bed pressure swing
+adsorption process (as distinguished from the four or
+more bed processes utilized in prior art designs) for
+recovering a primary component (e.g. hydrogen) at a
+purity of over 99% from a feed gas, e.g., synthesis gas,
+comprising the primary component and one or more
+impurities. The process is capable of producing high
+purity (&gt;99.99%) hydrogen at high recoveries with a
+significant reduction in the total cycle time versus
+prior art PSA processes used in H<sub>2</sub> production.</p><p num="0014">This invention includes a two bed pressure swing
+adsorption process for recovering a primary component at
+a purity of over 99% from a feed gas comprising the
+primary component and one or more impurities, wherein the
+process comprises: (a) passing the feed gas through a
+first adsorption bed to remove one or more impurities;
+(b) conducting a pressure swing adsorption cycle in the
+first bed; (c) separately passing effluent gases from the
+first bed into at least two separate tanks for subsequent
+purging and pressurization of the beds; (d) storing a gas
+mixture in the first of the tanks containing the primary
+component in a concentration higher than the
+concentration of the primary component in the gas mixture
+in the second of the tanks; (e) refluxing the mixture of
+the primary component from the second tank in the first
+adsorption bed during the regeneration steps therein; (f) 
+refluxing the mixture of the primary component from the
+first tank in the first adsorption bed during the
+regeneration steps therein; (g) simultaneously and non-concurrently
+performing steps (a) to (f) in a second bed;
+and (h) recovering the product gas stream.</p><p num="0015">In accordance therewith, decreased adsorbed
+inventories are required (without decreasing the H<sub>2</sub>
+product purities and recoveries), greater flexibility in
+controlling the duration and the pressures and end points
+of each step are achieved, and significant reductions
+(&gt;45%) in the amount of the adsorbent (e.g. zeolite) in
+the purification zone of each adsorbent bed are obtained.</p><p num="0016">The process of the present invention can handle a
+continuous feed and utilize several overlapping steps in
+the PSA cycle. Generally the feed gas will contain H<sub>2</sub>,
+CO, CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>, and H<sub>2</sub>O, and H<sub>2</sub> as the primary
+component.</p><p num="0017">Preferably, these processes utilize storage tanks to
+collect gas from certain steps in the PSA cycle, and then
+utilize the gas at a later time for purging and
+pressurization. The gases collected in the storage tanks
+are used in the order of increasing H<sub>2</sub> purity for
+refluxing of a bed that is undergoing regeneration.</p><p num="0018">In one variation, the first and second beds each
+comprise an alumina layer at the feed end of the bed, a
+zeolite layer at the product end of the bed, and a carbon
+layer between the alumina layer and the zeolite layer.
+Suitable zeolites include, but are not limited to, CaX
+zeolite and VSA6 zeolite.</p><p num="0019">Suitable zeolites include, but are not limited to,
+CaX, VSA6, 5A, Li-X, 13X, and LiA. CaX zeolites, most 
+desirably CaX (2.0), are particularly preferred. CaX
+(2.0) is a zeolite of the faujasite type exchanged at
+least 90% with calcium and having a SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub> molar ratio
+of 2.0. CaX (2.0) processes more feed gas per unit
+weight of adsorbent at a given P/F (purge to feed) ratio
+than other N<sub>2</sub>-selective adsorbents. Other useful Ca-exchanged
+zeolites may be prepared from naturally
+occurring crystalline zeolite molecular sieves such as
+chabazite, erionite and faujasite. Alternatively, the
+CaX zeolites useful herein include mixed cation (e.g.
+Ca<sup>2+</sup> and Na<sup>+</sup>) zeolites such as VSA-6 developed by UOP of
+Des Plaines, IL. with 74% Ca<sup>2+</sup> and a SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub> ratio of
+2.3. LIA and LIX zeolites having SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub> ratios within
+the range of 2.0-2.5 are also useful in the practice of
+the present invention. Other adsorbents useful herein
+include mixed lithium/alkaline earth metal Type A and
+Type X zeolites having SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub> molar ratios in the
+range of 2.0-2.5 such as CaLiX (2.3), having calcium
+contents of 15-30% (see Chao et al, U.S. Pat. Nos.
+5,413,625; 5,174,979; 5,698,013; 5,454,857 and
+4,859,217). The zeolite disclosures of the foregoing
+patents are incorporated by reference herein.</p><heading><u style="single"><b>BRIEF DESCRIPTION OF THE DRAWING</b></u></heading><p num="0020">In the accompanying drawing:
+<sl><li><b>Figure 1</b> is a schematic illustration of the prior
+art technique for the production of hydrogen by the steam
+reforming of natural gas.</li><li><b>Figure 2</b> is a schematic drawing of a PSA adsorption
+bed utilized in the practice of the present invention. </li><li><b>Figure 3</b> is a schematic drawing of a two bed PSA
+system for carrying out the PSA process of the invention.</li><li><b>Figure 4</b> is a schematic drawing of the 12 step PSA
+cycle utilizing product pressurization in the 2 bed PSA
+system of Figure 3.</li><li><b>Figure 5</b> is a graphic depiction of the bed pressure
+profile during one complete cycle in the two-bed PSA
+system of Figure 3, utilizing the 12 step cycle
+illustrated in Figure 4.</li><li><b>Figure 6</b> is a schematic drawing of an alternative
+two bed PSA system for carrying out the process of the
+invention.</li><li><b>Figure 7</b> is a schematic drawing of a 12 step PSA
+cycle, without product pressurization, in the two bed PSA
+system of Figure 6.</li><li><b>Figure 8</b> is a schematic drawing of a further
+alternative two bed PSA system, in which the purge tank
+and equalized tank are combined in a storage tank (ST)
+for carrying out the PSA process of the invention.</li><li><b>Figure 9</b> is a schematic drawing of a 10 step PSA
+cycle utilizing the two bed system of Figure 8, wherein
+the residual gas after purging is used for the first
+equalization.</li><li><b>Figure 10</b> is a schematic drawing of an 8 step PSA
+cycle utilizing the two bed system of Figure 8.</li><li><b>Figure 11</b> is a schematic drawing of a four bed
+adsorbent bed control system for carrying out a PSA
+process. </li><li><b>Figure 12</b> is a schematic drawing of a 12 step PSA
+cycle utilizing the four bed control PSA system of Figure
+11.</li><li><b>Figure 13</b> is a graphic depiction of the bed pressure
+profile during one complete cycle in the four-bed PSA
+system of Figure 11, utilizing the 12 step PSA cycle
+illustrated in Figure 12.</li><li><b>Figure 14</b> is a graphic comparison of the hydrogen
+purities and recoveries obtained with the 8-step 2-bed,
+10-step 2-bed, 12-step 2-bed, and 12-step 4-bed PSA
+processes described.</li></sl></p><heading><u style="single"><b>DETAILED DESCRIPTION OF THE INVENTION</b></u></heading><p num="0021">As pointed out above, the present invention includes
+novel two-bed PSA processes that are capable of handling
+continuous gas feeds and produce high purity (&gt;99.99%)
+hydrogen at high recoveries with a significant reduction
+in the total cycle time versus prior PSA processes used
+in H<sub>2</sub> production. The two bed PSA cycles of this
+invention also provide more flexibility in controlling
+the duration and the pressure end points of the PSA steps
+versus four bed prior art processes, and thus require
+less bed synchronization. Further, the two bed process
+of the invention uses product gas of increasing purity
+for refluxing during bed regeneration, and requires a
+reduced number of valves and piping, resulting in a less
+complex, less costly process with increased portability.
+In addition, because of the smaller void volume, due to
+the reduction in bed size factor, less hydrogen is lost
+during the regeneration of the bed and higher H<sub>2</sub> 
+recoveries result. These processes can handle a
+continuous feed and utilize several overlapping steps in
+the PSA cycle. For example, the two bed PSA cycles may
+utilize feed overlapping with equalization steps, and
+feed overlapping with product pressurization steps to
+produce high purity hydrogen from a feed mixture such as
+synthesis gas. Preferably, these processes utilize
+storage tanks to collect gas from certain steps in the
+PSA cycle, and then utilize the gas at a later time for
+purging and pressurization. The gases collected in the
+storage tanks are used in the order of increasing H<sub>2</sub>
+purity for refluxing of a bed that is undergoing
+regeneration.</p><heading>A. <u style="single">The Embodiment of Figure 3-5</u></heading><p num="0022">This invention will initially be described with
+reference to the two bed PSA system shown in Figure 3,
+the 12 steps PSA cycle shown in Figure 4, and the bed
+pressure profile depicted in Figure 5. Referring to
+those figures, the following 12 step cycle is illustrated
+<sl><li>Step 1 (AD1): Bed 1 (B1) is in the first adsorption
+step (AD1) at 11.72 bars, while bed 2 (B2) is undergoing
+countercurrent blowdown (BD).</li><li>Step 2 (AD2): Bed 1 is in the second adsorption step
+(AD2), and at the same time, bed 2 is undergoing the
+purging step. The gas used for purging comes from the
+purge tank (PGT) in Figure 3.</li><li>Step 3 (AD3): Bed 1 is in the third adsorption step
+(AD3), and at the same time, bed 2 is undergoing the
+first pressurization step, i.e., bed-to-tank equalization 
+(TEQ). The gas used for the first pressurization comes
+from the equalization tank (ET) in Figure 3.</li><li>Step 4 (EQ1): Bed 1 is undergoing the first
+equalization falling step (EQ1), while bed 2 receives gas
+from bed 1 and is undergoing the second equalization
+rising step (EQU). In addition, bed 2 is also receiving
+feed gas during the second equalization rising step.</li><li>Step 5 (EQ2): Bed 1 is undergoing the second
+equalization falling step (EQ2). The gas recovered in
+this step is collected in the equalization tank (ET). At
+the same time, bed 2 is undergoing both feed
+pressurization (FP) and product pressurization (PP). The
+gas for product pressurization comes from the product
+tank (PT) in Figure 3. The product pressurization
+provides additional refluxing gas beyond that produced
+using the purging and equalization rising steps. The
+pressurization also improves mass transfer in the
+purification zone to provide higher hydrogen purity.</li><li>Step 6 (PPG): Bed 1 is undergoing a cocurrent
+depressurization step to provide purge gas (PPG). The
+gas recovered during this step is stored in the purge
+tank (PGT), and later used in the purging step of the PSA
+cycle. At the same time, bed 2 continues to undergo feed
+pressurization, and starts producing product if the
+desired adsorption pressure is achieved prior to
+initializing the next step.</li><li>Step 7 (BD): Bed 1 (B1) is undergoing countercurrent
+blowdown (BD), while bed 2 (B2) is in the first
+adsorption step (AD1) at the adsorption pressure (11.72
+bars). </li><li>Step 8 (PG): Bed 1 is undergoing the purging step,
+while bed 2 is in the second adsorption step (AD2). The
+gas used for purging comes from the purge tank (PGT) in
+Figure 3.</li><li>Step 9 (TEQ): Bed 1 is undergoing the first
+pressurization step, i.e., bed-to-tank equalization
+(TEQ), while bed 2 is in the third adsorption step (AD3).
+The gas used for the first pressurization comes from the
+equalization tank (ET) in Figure 3.</li><li>Step 10 (EQU &amp; PP): Bed 1 receives gas from bed 2
+and is undergoing the second equalization rising step
+(EQU). In addition, bed 1 is also undergoing feed
+pressurization (FP) during the second equalization rising
+step. Simultaneously, bed 2 is undergoing the first
+equalization falling step (EQ1).</li><li>Step 11 (PP and FP): Bed 1 (B1) is undergoing feed
+pressurization (FP) and product pressurization (PP)
+simultaneously. The gas for product pressurization comes
+from the product tank (PT) in Figure 3. During this
+interval, bed 2 is undergoing the second equalization
+falling step (EQ2). The gas recovered during the second
+equalization falling step is collected in the
+equalization tank (ET).</li><li>Step 12 (FP and AD): Bed 1 continues to undergo feed
+pressurization, and starts producing product if the
+desired adsorption pressure is achieved prior to
+initializing the next step. During this same time
+interval, bed 2 is undergoing the cocurrent
+depressurization step to provide purge gas (PPG). The
+gas recovered in the cocurrent depressurization step is 
+stored in the purge tank (PGT), and later used in the
+purging step of the PSA cycle.</li></sl></p><p num="0023">A summary of the preceding twelve steps is given in
+Tables 1 and 2 below. In particular, Table 1 summarizes
+the valve sequence over one complete PSA cycle for the
+two bed system shown in Figure 3, and Table 2 gives the
+respective time intervals and the corresponding status of
+each bed during one complete PSA cycle. Note from Tables
+1 and 2 that the two beds operate in parallel, and that
+the two bed PSA process handles a continuous feed by
+utilizing overlapping steps in the PSA cycle.
+<tables><table><tgroup cols="13"><tbody><row><entry nameend="13" namest="1"><b>Two Bed H<sub>2</sub> PSA Valve Switching (O = OPENED, C =
+CLOSED)</b></entry></row><row><entry align="center"><b>Step</b></entry><entry align="center"><b>1</b></entry><entry align="center"><b>2</b></entry><entry align="center"><b>3</b></entry><entry align="center"><b>4</b></entry><entry align="center"><b>5</b></entry><entry align="center"><b>6</b></entry><entry align="center"><b>7</b></entry><entry align="center"><b>8</b></entry><entry align="center"><b>9</b></entry><entry align="center"><b>10</b></entry><entry align="center"><b>11</b></entry><entry align="center"><b>12</b></entry></row><row><entry align="center"><b>Bed 1 (B1)</b></entry><entry align="center"><b>AD1</b></entry><entry align="center"><b>AD2</b></entry><entry align="center"><b>AD3</b></entry><entry align="center"><b>EQ1</b></entry><entry align="center"><b>EQ2</b></entry><entry align="center"><b>PPG</b></entry><entry align="center"><b>BD</b></entry><entry align="center"><b>PG</b></entry><entry align="center"><b>TEQ</b></entry><entry align="center"><b>EQU &amp; FP</b></entry><entry align="center"><b>PP &amp; FP</b></entry><entry align="center"><b>FP &amp; AD</b></entry></row><row><entry align="center"><b>Bed 2 (B2)</b></entry><entry align="center"><b>BD</b></entry><entry align="center"><b>PG</b></entry><entry align="center"><b>TEQ</b></entry><entry align="center"><b>EQU &amp; FP</b></entry><entry align="center"><b>PP &amp; FP</b></entry><entry align="center"><b>FP &amp; AD</b></entry><entry align="center"><b>AD1</b></entry><entry align="center"><b>AD2</b></entry><entry align="center"><b>AD3</b></entry><entry align="center"><b>EQ1</b></entry><entry align="center"><b>EQ2</b></entry><entry align="center"><b>PPG</b></entry></row><row><entry align="center"><b>Valve No.</b></entry></row><row><entry align="center">1</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry></row><row><entry align="center">2</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="center">3</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="center">4</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="center">5</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="center">6</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="center">7</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry></row><row><entry align="center">8</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry></row><row><entry align="center">  </entry></row><row><entry align="center">9</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="center">10</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry></row><row><entry align="center">11</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry></row><row><entry align="center">12</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry></row><row><entry align="center">13</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="4"><tbody><row><entry nameend="4" namest="1"><b>Two Bed Time Interval and Step Sequence</b></entry></row><row><entry align="center"><b>Step Number</b></entry><entry align="center"><b>Time Interval</b></entry><entry align="center"><b>BED #1</b></entry><entry align="center"><b>BED #2</b></entry></row><row><entry align="center">1</entry><entry align="center">0-40</entry><entry align="center">AD1</entry><entry align="center">BD</entry></row><row><entry align="center">2</entry><entry align="center">40-100</entry><entry align="center">AD2</entry><entry align="center">PG</entry></row><row><entry align="center">3</entry><entry align="center">100-120</entry><entry align="center">AD3</entry><entry align="center">TEQ</entry></row><row><entry align="center">4</entry><entry align="center">120-133</entry><entry align="center">EQ1</entry><entry align="center">EQU &amp; FP</entry></row><row><entry align="center">5</entry><entry align="center">133-148</entry><entry align="center">EQ2</entry><entry align="center">PP &amp; FP</entry></row><row><entry align="center">6</entry><entry align="center">148-168</entry><entry align="center">PPG</entry><entry align="center">FP &amp; FP</entry></row><row><entry align="center">7</entry><entry align="center">168-208</entry><entry align="center">BD</entry><entry align="center">AD1</entry></row><row><entry align="center">8</entry><entry align="center">208-268</entry><entry align="center">PG</entry><entry align="center">AD2</entry></row><row><entry align="center">9</entry><entry align="center">268-288</entry><entry align="center">TEQ</entry><entry align="center">AD3</entry></row><row><entry align="center">10</entry><entry align="center">288-301</entry><entry align="center">EQU &amp; FP</entry><entry align="center">EQ1</entry></row><row><entry align="center">11</entry><entry align="center">301-316</entry><entry align="center">PP &amp; FP</entry><entry align="center">EQ2</entry></row><row><entry align="center">12</entry><entry align="center">316-336</entry><entry align="center">FE &amp; AD</entry><entry align="center">PPG</entry></row><row><entry>AD1 = First Adsorption Step
+
+AD2 = Second Adsorption Step
+ 
+AD3 = Third Adsorption Step
+
+EQ1 = First Equalization Down
+
+EQ2 = Second Equalization Down
+
+PPG = Provide Purge Gas Using Purge Tank (PGT)
+
+BD = Blowdown
+
+PG = Purge
+
+TEQ = First Equalization Up Using Tank (ET)
+
+EQU = Second Equalization Up
+
+PP = Product Pressurization Using Product Tank (PT)
+
+FP2 = Feed Pressurization
+
+AD = Adsorption</entry></row></tbody></tgroup></table></tables></p><p num="0024">The twelve step PSA cycle described above is
+illustrative only and is given to demonstrate the
+superior performance of the two bed PSA process of the
+present invention. Other PSA cycles may also be used to
+achieve the superior performance obtained in accordance
+with the invention without deviating from its scope.</p><heading>1. <u style="single">Use of VSA 6 Zeolite Adsorbent in the 2 Bed PSA
+Process of Figures 3-5</u></heading><p num="0025">Table 3 below discloses the operating conditions and
+PSA process performance using the VSA 6 zeolite in the
+top layer of each of the adsorbent beds B1 to B2 in the
+system illustrated in Figure 3, and carrying out the
+process in the manner set forth in Tables 1 and 2 above
+and illustrated in Figures 4 and 5. The symbols in Table
+3 have the following meanings: TPD = ton (2000 lb) per
+day of hydrogen, kPa = 1000 Pa = S.I. unit for pressure
+(1.0 atm. = 1.01325 bars = 101.325 kPa), and s = time in
+seconds. <tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1"><b>VSA6 Performance in the Process of Figures 3-5</b><!--footnotes removed--></entry></row><row><entry align="left">Cycle time(s)</entry><entry align="left">336</entry></row><row><entry align="left">Adsorbent in first layer of Bed</entry><entry align="left">Alumina</entry></row><row><entry align="left">Amount of alumina (lb/TPD H<sub>2</sub>)</entry><entry align="left">578</entry></row><row><entry align="left">Adsorbent in second layer of bed</entry><entry align="left">activated carbon</entry></row><row><entry align="left">Amount of activated carbon (lb/TPD H<sub>2</sub>)</entry><entry align="left">2862</entry></row><row><entry align="left">Adsorbent in third layer of bed</entry><entry align="left">VSA6 zeolite</entry></row><row><entry align="left">Amount of VSA6 zeolite (lb/TPD H<sub>2</sub>)</entry><entry align="left">1574</entry></row><row><entry align="left">High Pressure</entry><entry align="left">1.171 x 10<sup>3</sup> kPa</entry></row><row><entry align="left">Low Pressure</entry><entry align="left">1.327 x 10<sup>2</sup> kPa</entry></row><row><entry align="left">Feed Rate</entry><entry align="left">227.6 SCFH</entry></row><row><entry align="left">H<sub>2</sub> Purity</entry><entry align="left">99.991%</entry></row><row><entry align="left">H<sub>2</sub> Recovery</entry><entry align="left">77.81%</entry></row><row><entry align="left">Total Bed Size Factor (lb/TPD H<sub>2</sub>)</entry><entry align="left">5014</entry></row><row><entry align="left">Feed Temperature</entry><entry align="left">102°F</entry></row><row><entry align="left">Bed Length</entry><entry align="left">111.25 inches<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><heading>B. <u style="single">The Embodiment of Figures 6-7</u></heading><p num="0026">Figure 6 shows an alternative two bed PSA system for
+use with the PSA cycle depicted in Figure 7. The key
+differences between this process and the PSA process
+described in Figures 3-5 are: (1) the absence of the 
+product pressurization step in the cycle, and (2) the
+absence of conduits connecting the beds to the product
+tank (PT). The process of Figures 6 and 7 gives higher
+H<sub>2</sub> recovery and lower H<sub>2</sub> purity.</p><heading>C. <u style="single">The Embodiments of Figures 8-10</u></heading><p num="0027">Figure 8 shows a modified two bed PSA system for use
+with the ten step PSA cycle depicted in Figure 9. The
+key differences between this process and the PSA process
+described in Figures 3-5 are: (1) the absence of the
+product pressurization step in the cycle; (2) the absence
+of conduits connecting the beds to the product tank (PT);
+and (3) the presence of a single storage tank (ST) in
+place of the purge tank (PGT) and equalization tank (ET)
+shown in Figure 3. In addition, Figure 10 shows an eight
+step PSA cycle that could be implemented using the PSA
+process of Figure 8.</p><heading>1. <u style="single">Use of VSA6 Adsorbent in the 10-Step 2-Bed PSA
+Process of Figures 8-9</u></heading><p num="0028">Table 4 below discloses the operating conditions and
+performance of the two bed PSA process of Figure 8
+utilizing a VSA6 zeolite in the third (top) layer of each
+of the adsorbent beds B1 to B2, following the PSA cycle
+of Figure 9. <tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1"><b>VSA6 Performance in Process of Figures 8-9</b><!--footnotes removed--></entry></row><row><entry align="left">Cycle time(s)</entry><entry align="left">360</entry></row><row><entry align="left">Adsorbent in first layer of Bed</entry><entry align="left">Alumina</entry></row><row><entry align="left">Amount of alumina (lb/TPD H<sub>2</sub>)</entry><entry align="left">520.2</entry></row><row><entry align="left">Adsorbent in second layer of bed</entry><entry align="left">activated carbon</entry></row><row><entry align="left">Amount of activated carbon (lb/TPD H<sub>2</sub>)</entry><entry align="left">2575.2</entry></row><row><entry align="left">Adsorbent in third layer of bed</entry><entry align="left">VSA6 zeolite</entry></row><row><entry align="left">Amount of VSA6 zeolite (lb/TPD H<sub>2</sub>)</entry><entry align="left">1416.6</entry></row><row><entry align="left">High Pressure</entry><entry align="left">1.171 x 10<sup>3</sup> kPa</entry></row><row><entry align="left">Low Pressure</entry><entry align="left">1.327 x 10<sup>2</sup> kPa</entry></row><row><entry align="left">Feed Rate</entry><entry align="left">248.6 SCFH</entry></row><row><entry align="left">H<sub>2</sub> Purity</entry><entry align="left">99.9964%</entry></row><row><entry align="left">H<sub>2</sub> Recovery</entry><entry align="left">76.3%</entry></row><row><entry align="left">Total Bed Size Factor (lb/TPD H<sub>2</sub>)</entry><entry align="left">4,512.00</entry></row><row><entry align="left">Feed Temperature</entry><entry align="left">84°F</entry></row><row><entry align="left">Bed Length</entry><entry align="left">111.25 inches<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><heading>2. <u style="single">Use of VSA6 Adsorbent in the 2 Bed PSA Process
+of Figures 8 and 10</u></heading><p num="0029">Table 5 below discloses the operating conditions and
+performance of the two bed PSA process of Figure 8
+utilizing VSA6 zeolite in the third (top) layer of each
+of the adsorbent beds B1 to B2 and following the PSA
+cycle of Figure 10. <tables><table><tgroup cols="2"><tbody><row><entry align="left">Cycle time(s)</entry><entry align="left">360</entry></row><row><entry align="left">Adsorbent in first layer of Bed</entry><entry align="left">Alumina</entry></row><row><entry align="left">Amount of alumina (lb/TPD H<sub>2</sub>)</entry><entry align="left">642.5</entry></row><row><entry align="left">Adsorbent in second layer of bed</entry><entry align="left">activated carbon</entry></row><row><entry align="left">Amount of activated carbon (lb/TPD H<sub>2</sub>)</entry><entry align="left">3180.9</entry></row><row><entry align="left">Adsorbent in third layer of bed</entry><entry align="left">VSA6 zeolite</entry></row><row><entry align="left">Amount of VSA6 zeolite (lb/TPD H<sub>2</sub>)</entry><entry align="left">1749.8</entry></row><row><entry align="left">High Pressure</entry><entry align="left">1.171 x 10<sup>3</sup> kPa</entry> </row><row><entry align="left">Low Pressure</entry><entry align="left">1.327 x 10<sup>2</sup> kPa</entry></row><row><entry align="left">Feed Rate</entry> <entry align="left">231.4 SCFH</entry> </row> <row><entry align="left">H<sub>2</sub> Purity</entry><entry align="left">99.97%</entry></row><row><entry align="left">H<sub>2</sub> Recovery</entry><entry align="left">66.7%</entry></row><row><entry align="left">Total Bed Size Factor (lb/TPD H<sub>2</sub>)</entry><entry align="left">5,573.2</entry></row><row><entry align="left">Feed Temperature</entry><entry align="left">75° F</entry></row><row><entry align="left">Bed Length</entry><entry align="left">111.25 inches<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0030">A summary of the preceding twelve steps is given in
+Tables 6 and 7 below. In particular, Table 6 summarizes
+the valve sequence over one complete cycle for the four
+bed PSA system shown in Figure 11, and Table 7 gives the
+respective time intervals and the corresponding status of
+each bed during one complete PSA cycle. Note from Tables
+6 and 7 that the four beds operate in parallel, and
+during ¼ of the total cycle time one of the beds is in
+the adsorption step, while the other beds are either 
+undergoing pressure equalization, purge, blowdown, or
+product pressurization.
+<tables><table><tgroup cols="13"><tbody><row><entry nameend="13" namest="1"><b>Four Bed H2 PSA Valve Switching (O = OPENED, C = CLOSED)</b></entry></row><row><entry align="center">Step</entry><entry align="center">1</entry><entry align="center">2</entry><entry align="center">3</entry><entry align="center">4</entry><entry align="center">5</entry><entry align="center">6</entry><entry align="center">7</entry><entry align="center">8</entry><entry align="center">9</entry><entry align="center">10</entry><entry align="center">11</entry><entry align="center">12</entry></row><row><entry align="center">Bed 1 (BD1)</entry><entry align="center">AD1</entry><entry align="center">AD2</entry><entry align="center">AD3</entry><entry align="center">EQ1DN</entry><entry align="center">PPG</entry><entry align="center">EQ2DN</entry><entry align="center">BD</entry><entry align="center">PG</entry><entry align="center">EQ1UP</entry><entry align="center">EQ2UP</entry><entry align="center">PP1</entry><entry align="center">PP2</entry></row><row><entry align="center">Bed 2 (BD2)</entry><entry align="center">BD</entry><entry align="center">PG</entry><entry align="center">EQ1UP</entry><entry align="center">EQ2UP</entry><entry align="center">PP1</entry><entry align="center">PP2</entry><entry align="center">AD1</entry><entry align="center">AD2</entry><entry align="center">AD3</entry><entry align="center">EQ1DN</entry><entry align="center">PPG</entry><entry align="center">EQ2DN</entry></row><row><entry align="center">Bed 3 (BD3)</entry><entry align="center">EQ1DN</entry><entry align="center">PPG</entry><entry align="center">EQ2DN</entry><entry align="center">BD</entry><entry align="center">PG</entry><entry align="center">EQ1UP</entry><entry align="center">EQ2UP</entry><entry align="center">PP1</entry><entry align="center">PP2</entry><entry align="center">AD1</entry><entry align="center">AD2</entry><entry align="center">AD3</entry></row><row><entry align="center">Bed 4 (BD4)</entry><entry align="center">EQ2UP</entry><entry align="center">PP1</entry><entry align="center">PP2</entry><entry align="center">AD1</entry><entry align="center">AD2</entry><entry align="center">AD3</entry><entry align="center">EQ1DN</entry><entry align="center">PPG</entry><entry align="center">EQ2DN</entry><entry align="center">BD</entry><entry align="center">PG</entry><entry align="center">EQ1UP</entry></row><row><entry align="center">Valve No.</entry></row><row><entry align="left">1</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">2</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">3</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry></row><row><entry align="left">4</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">5</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry></row><row><entry align="left">6</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">7</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">8</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">  </entry></row><row><entry align="left">9</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry></row><row><entry align="left">10</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry></row><row><entry align="left">11</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">12</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">13</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry></row><row><entry align="left">14</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">15</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">16</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry></row><row><entry align="left">17</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">18</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry></row><row><entry align="left">19</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry></row><row><entry align="left">20</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">21</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row><row><entry align="left">22</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">O</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry><entry align="left">C</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1"><b>Time Interval and Step Sequence of the PSA Cycle</b></entry></row><row><entry align="center">Step Number</entry><entry align="center">Time Interval</entry><entry align="left">BED #1</entry><entry align="left">BED #2</entry><entry align="left">BED #3</entry><entry align="left">BED #4</entry></row><row><entry align="left">1</entry><entry align="left">0-40</entry><entry align="left">AD1</entry><entry align="left">BD</entry><entry align="left">EQ1DN</entry><entry align="left">EQ2UP</entry></row><row><entry align="left">2</entry><entry align="left">40-125</entry><entry align="left">AD2/PP 1</entry><entry align="left">PG</entry><entry align="left">PPG</entry><entry align="left">PP1</entry></row><row><entry align="left">3</entry><entry align="left">125-150</entry><entry align="left">AD3/PP 2</entry><entry align="left">EQ1UP</entry><entry align="left">EQ2DN</entry><entry align="left">PP2 </entry></row><row><entry align="left">4</entry><entry align="left">150-190</entry><entry align="left">EQ1DN</entry><entry align="left">EQ2UP</entry><entry align="left">BD</entry><entry align="left">AD1</entry></row><row><entry align="left">5</entry><entry align="left">190-275</entry><entry align="left">PPG</entry><entry align="left">PP1</entry><entry align="left">PG</entry><entry align="left">AD2/PP1</entry></row><row><entry align="left">6</entry><entry align="left">270-300</entry><entry align="left">EQ2DN</entry><entry align="left">PP2</entry><entry align="left">EQ1UP</entry><entry align="left">AD3/PP2</entry></row><row><entry align="left">7</entry><entry align="left">300-340</entry><entry align="left">BD</entry><entry align="left">AD1</entry><entry align="left">EQ2UP</entry><entry align="left">EQ1DN</entry></row><row><entry align="left">8</entry><entry align="left">340-425</entry><entry align="left">PG</entry><entry align="left">AD2/PP1</entry><entry align="left">PP1</entry><entry align="left">PPG</entry></row><row><entry align="left">9</entry><entry align="left">425-450</entry><entry align="left">EQ1UP</entry><entry align="left">AD3/PP2</entry><entry align="left">PP2</entry><entry align="left">EQ2DN</entry></row><row><entry align="left">10</entry><entry align="left">450-490</entry><entry align="left">EQ2UP</entry><entry align="left">EQ1DN</entry><entry align="left">AD1</entry><entry align="left">BD</entry></row><row><entry align="left">11</entry><entry align="left">490-575</entry><entry align="left">PP1</entry><entry align="left">PPG</entry><entry align="left">AD2/PP1</entry><entry align="left">PG</entry></row><row><entry align="left">12</entry><entry align="left">575-600</entry><entry align="left">PP2</entry><entry align="left">EQ2DN</entry><entry align="left">AD3/PP2</entry><entry align="left">EQ1UP</entry></row><row><entry>AD1 = First Adsorption Step
+
+AD2/PP1 = Second Adsorption Step/First product
+pressurization
+
+AD3/PP2 = Third Adsorption Step/Second product
+pressurization
+
+EQ1DN = First Equalization Down
+
+PPG = Provide Purge Gas
+
+EQ2DN = Second Equalization Down
+
+BD = Blowdown
+
+PG = Purge
+
+EQ1UP = First Equalization Up
+
+EQ2UP = Second Equalization Up
+
+PP1 = First Product Pressurization
+
+PP2 = Second Product Pressurization</entry></row></tbody></tgroup></table></tables></p><heading>D. <u style="single">The Embodiment of Figures 11-13 (Control)</u></heading><heading>1. <u style="single">Use of VSA6 Adsorbent in the 4 Bed PSA Process
+of Figures 11-13 (Control)</u></heading><p num="0031">Table 8 below discloses the operating conditions and
+performance of a four bed PSA process of Figures 11-13
+using VSA6 zeolite in the third (top) layer of each of
+the adsorbent bends B1 to B4. The results shown below
+correspond to pilot plant data using a feed mixture on a
+dry basis: 75.02% H<sub>2</sub>, 21.81% CO<sub>2</sub>, 0.36% CO, 2.06% CH<sub>4</sub> and
+0.75% N<sub>2</sub>.
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Cycle time(s)</entry><entry align="left">600</entry></row><row><entry align="left">Adsorbent in first layer of Bed</entry><entry align="left">Alumina</entry></row><row><entry align="left">Amount of alumina (lb/TPD H<sub>2</sub>)</entry><entry align="left">810.9</entry></row><row><entry align="left">Adsorbent in second layer of bed</entry><entry align="left">activated carbon</entry></row><row><entry align="left">Amount of activated carbon (lb/TPD H<sub>2</sub>)</entry><entry align="left">5733.6</entry></row><row><entry align="left">Adsorbent in third layer of bed</entry><entry align="left">VSA6 zeolite</entry></row><row><entry align="left">Amount of VSA6 zeolite (lb/TPD H<sub>2</sub>)</entry><entry align="left">3842.3</entry></row><row><entry align="left">High Pressure</entry><entry align="left">1.171 x 10<sup>3</sup> kPa</entry></row><row><entry align="left">Low Pressure</entry><entry align="left">1.327 x 10<sup>2</sup> kPa</entry></row><row><entry align="left">Feed Rate</entry><entry align="left">227.2 SCFH</entry></row><row><entry align="left">H<sub>2</sub> Purity</entry><entry align="left">99.999905%</entry></row><row><entry align="left">H<sub>2</sub> Recovery</entry><entry align="left">77.5%</entry></row><row><entry align="left">Total Bed Size Factor (lb/TPD H<sub>2</sub>)</entry><entry align="left">10,386.8</entry></row><row><entry align="left">Feed Temperature</entry><entry align="left">78° F </entry></row><row><entry align="left">Bed Length</entry><entry align="left">111.25 inches</entry></row></tbody></tgroup></table></tables></p><p num="0032">Figure 14 compares the aforementioned two bed PSA
+processes using the eight steps (Figures 8 and 10), ten
+steps (Figures 8 and 9) and twelve steps (Figures 3-5)
+with the four bed PSA process summarized above. The
+upper drawing of Figure 14 compares the H<sub>2</sub> purity and
+recovery using VSA6 zeolite; whereas, the lower diagram
+of Figure 14 shows the total bed size factor (TBSF,
+lb/TPDH<sub>2</sub>) obtained using each of the aforementioned PSA
+processes. In addition, Table 9 gives a summary of the
+novel/differentiating features of PSA processes depicted
+in Figure 14.</p><p num="0033">Table 9 below compares the operating conditions and
+performance of PSA processes using eight step, ten step,
+and twelve step PSA cycles and VSA6 zeolite (PH = 170
+psia).
+<tables><table><tgroup cols="6"><tbody><row><entry align="center"><b>Process Variable</b></entry><entry align="center"><b>8 Step/2 Bed</b></entry><entry align="center"><b>10 Step/2 Bed</b></entry><entry align="center"><b>12 Step/2 Bed Without Prod. Press.</b></entry><entry align="center"><b>12 Step/2 Bed With Prod. Press.</b></entry><entry align="center"><b>12 Step/4 Bed</b></entry></row><row><entry align="left">H<sub>2</sub> Purity</entry><entry align="center">99.97%</entry><entry align="center">99.996%</entry><entry align="center">99.9%</entry><entry align="center">99.991%</entry><entry align="center">99.9999%</entry></row><row><entry align="left">H<sub>2</sub> Recovery</entry><entry align="center">66.7%</entry><entry align="center">76.3%</entry><entry align="center">80%</entry><entry align="center">77.81%</entry><entry align="center">77.5%</entry></row><row><entry align="left">Total Bed Size Factor (lb/TPD H<sub>2</sub>)</entry><entry align="center">5573.2</entry><entry align="center">4512</entry><entry align="center">4876</entry><entry align="center">5014</entry><entry align="center">10,387</entry></row><row><entry align="left">Number of Beds</entry><entry align="center">2</entry><entry align="center">2</entry><entry align="center">2</entry><entry align="center">2</entry><entry align="center">4</entry></row><row><entry align="left">Number of Tanks</entry><entry align="center">2 (ST &amp; PT)</entry><entry align="center">2 (ST &amp; PT)</entry><entry align="center">2 (ET &amp; PGT)</entry><entry align="center">3 (ET,PGT&amp;PT)</entry><entry align="center">1 (PT) </entry></row><row><entry align="left">PSA Process</entry><entry align="center">Fig. 8</entry><entry align="center">Fig. 8</entry><entry align="center">Fig. 6</entry><entry align="center">Fig. 3</entry><entry align="center">Fig. 11</entry></row><row><entry align="left">PSA Cycle</entry><entry align="center">Fig. 10</entry><entry align="center">Fig. 9</entry><entry align="center">Fig. 7</entry><entry align="center">Fig. 4</entry><entry align="center">Fig. 12</entry></row><row><entry align="left">Pressure Profile</entry><entry align="center">---</entry><entry align="center">---</entry><entry align="center">---</entry><entry align="center">Fig. 5</entry><entry align="center">Fig. 13</entry></row><row><entry align="left">Table Number</entry><entry align="center">5</entry><entry align="center">4</entry><entry align="center">---</entry><entry align="center">3</entry><entry align="center">8</entry></row><row><entry align="left">Product Press.</entry><entry align="center">No</entry><entry align="center">No</entry><entry align="center">No</entry><entry align="center">Yes</entry><entry align="center">Yes</entry></row><row><entry align="left">Preference Order</entry><entry align="center">5</entry><entry align="center">3</entry><entry align="center">2</entry><entry align="center">1</entry><entry align="center">4</entry></row><row><entry>Preference 1 = Most Preferred Process
+
+Product Press. = Product Pressurization
+
+ET = Equalization Tank
+
+PGT = Purge Tank
+
+PT = Product Tank
+
+ST = Storage Tank, i.e., PGT &amp; ET combined
+as a single tank</entry></row></tbody></tgroup></table></tables>
+As shown above in Table 9, the 2 bed PSA process of the
+present invention has the advantage of a lower bed size
+factor than 4 bed PSA processes.</p><p num="0034">Although the foregoing PSA processes have been
+discussed in relation to H<sub>2</sub> production, the key features
+of this invention may be extended to other separation
+processes, e.g., CO<sub>2</sub> production from synthesis gas or
+other sources containing CO<sub>2</sub> in the feed, or in other PSA
+processes for the co-production of H<sub>2</sub> and CO.</p><p num="0035">In addition, the zeolite layer/zone of each
+adsorbent bed may be replaced with multiple layers of
+different adsorbents. For example, the homogeneous 
+zeolite layer may be substituted by a composite adsorbent
+layer containing different adsorbent materials positioned
+in separate zones and employing temperature conditions
+favoring adsorption performance of the particular
+adsorbent materials under applicable processing
+conditions in each zone.</p><p num="0036">It will be understood that these and other changes
+may be made in the preferred parameters of the PSA
+process hereof without departing from the invention.
+Accordingly, it is intended that the scope of this
+invention should be determined from the claims appended
+hereto.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A two bed pressure swing adsorption process for
+recovering a primary gaseous component at a purity of
+over 99% from a feed gas comprising the primary component
+and one or more impurities, wherein the process
+comprises:
+<claim-text><claim-text>a. passing the feed gas through a first adsorption
+bed to remove one or more impurities;</claim-text><claim-text>b. conducting a pressure swing adsorption cycle in
+the first bed;</claim-text><claim-text>c. separately passing effluent gases from the
+first bed into at least two separate tanks for
+subsequent purging and pressurization of the
+beds;</claim-text><claim-text>d. storing a gas mixture in the first of the tanks
+containing the primary component in a
+concentration higher than the concentration of
+the primary component in the gas mixture in the
+second of the tanks;</claim-text><claim-text>e. refluxing the mixture of the primary component
+from the second tank in the first adsorption
+bed during the regeneration steps therein;</claim-text><claim-text>f. refluxing the mixture of the primary component
+from the first tank in the first adsorption bed
+during the regeneration steps therein;</claim-text><claim-text>g. simultaneously and non-concurrently performing
+steps (a) to (f) in a second bed; and</claim-text><claim-text>h. recovering the product gas stream.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>A two bed pressure swing adsorption process for
+recovering hydrogen at a purity of over 99% from a feed
+gas comprising hydrogen and one or more impurities,
+wherein the process comprises:
+<claim-text><claim-text>a. passing the feed gas through a first adsorption
+bed to remove one or more impurities;</claim-text><claim-text>b. conducting a pressure swing adsorption cycle in
+the first bed;</claim-text><claim-text>c. refluxing a gas mixture containing increasing
+purities of hydrogen from the second tank in
+the adsorption beds during the regeneration
+steps therein;</claim-text><claim-text>d. refluxing a gas mixture containing increasing
+purities of hydrogen from the first tank in the
+adsorption beds during the regeneration steps
+therein;</claim-text><claim-text>e. simultaneously and non-concurrently performing
+steps (a) to (d) in a second adsorption bed;
+and</claim-text><claim-text>f. recovering hydrogen from the first and second
+beds, having a purity of over 99%.</claim-text></claim-text></claim-text></claim><claim num="3"><claim-text>The process of claims 1 or 2, wherein the feed
+gas contains H2, CO, CO2, CH4, N2, and H2O, and wherein H2
+is the primary component.</claim-text></claim><claim num="4"><claim-text>The process of claims 1 or 2, wherein the feed
+gas is continuously fed into the pressure swing
+adsorption system.</claim-text></claim><claim num="5"><claim-text>The process of claims 1 or 2, wherein the time
+for one full cycle is between about 100 and about 400
+seconds.</claim-text></claim><claim num="6"><claim-text>The process of claims 1 or 2, wherein at least
+one of the steps in the cycle involves the transfer of
+gas from the bed being depressurized to the bed being
+pressurized.</claim-text></claim><claim num="7"><claim-text>The process of claims 1 or 2, wherein the first
+and second beds each comprises an alumina layer at the
+feed end of the bed, a zeolite layer at the product end
+of the bed, and a carbon layer between the alumina layer
+and the zeolite layer.</claim-text></claim><claim num="8"><claim-text>The process of claim 2, wherein effluent gases
+from each of the beds are collected in at least 2
+different tanks resulting in at least 1 tank having a
+hydrogen concentration at least 10% higher than the
+hydrogen concentration of at least 1 of the other storage
+tanks.</claim-text></claim><claim num="9"><claim-text>The process of claim 1 or 2, wherein the first
+and second beds each comprises an alumina layer at the
+feed end of the bed, a zeolite layer at the product end
+of the bed, and a carbon layer between the alumina layer
+and the zeolite layer.</claim-text></claim><claim num="10"><claim-text>The process of claims 1 or 2, wherein the
+zeolite layer comprises a CaX zeolite or a VSA6 zeolite.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

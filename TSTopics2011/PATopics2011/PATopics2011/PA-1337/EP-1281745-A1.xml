@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1281745-A1" country="EP" doc-number="1281745" kind="A1" lang="EN" family-id="19061674" status="new" date-produced="20090516" date="20030205"><bibliographic-data><publication-reference ucid="EP-1281745-A1" status="new" fvid="23685419"><document-id status="new" format="original"><country>EP</country><doc-number>1281745</doc-number><kind>A1</kind><date>20030205</date></document-id></publication-reference><application-reference ucid="EP-02255267-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>02255267</doc-number><kind>A</kind><date>20020729</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2001229306-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2001229306</doc-number><kind>A</kind><date>20010730</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C08G  61/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  61/12        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09K  11/06        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09K  11/06        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08G  61/12</classification-symbol><classification-symbol scheme="EC">C09K  11/06</classification-symbol><classification-symbol scheme="ICO">M09K211:14B</classification-symbol><classification-symbol scheme="ICO">M09K211:14B2</classification-symbol><classification-symbol scheme="ICO">M09K211:14B4</classification-symbol><classification-symbol scheme="ICO">M09K211:14B6</classification-symbol><classification-symbol scheme="ICO">M09K211:14D6</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Polymere fluoresziernde Verbindung und deren Verwendung in einer Licht-emittierenden Vorrichtung</invention-title><invention-title load-source="ep" status="new" lang="EN">Polymeric fluorescent substance and polymer light-emitting device using the same</invention-title><invention-title load-source="ep" status="new" lang="FR">Substance fluorescente polymerique et dispositif electroluminescent organique l'utilisant</invention-title><citations><patent-citations><patcit ucid="US-6107452-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6107452</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6255449-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6255449</doc-number><kind>B1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2000046321-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2000046321</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2000055927-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2000055927</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>BERNIUS M., INBASEKARAN M., WOO E., WU W., WUJKOWSKI L.: "Light-emitting diodes based on fluorene polymers" THIN SOLID FILMS, vol. 363, - 2000 pages 55-57, XP002219114</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>SUMITOMO CHEMICAL CO</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>SUMITOMO CHEMICAL COMPANY, LIMITED</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>SUMITOMO CHEMICAL COMPANY, LIMITED</last-name><address><street>5-33, Kitahama 4-chome</street><city>Chuo-ku Osaka 541-8550</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>DOI SHUJI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NOGUCHI TAKANOBU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TSUBATA YOSHIAKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>DOI, SHUJI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>NOGUCHI, TAKANOBU</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TSUBATA, YOSHIAKI</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>DOI, SHUJI</last-name><address><street>2-13-1-1-201, Umezono</street><city>Tsukuba-shi, Ibaraki</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NOGUCHI, TAKANOBU</last-name><address><street>370-49, Minaminakatsuma</street><city>Tsukuba-shi, Ibaraki</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TSUBATA, YOSHIAKI</last-name><address><street>2-13-1-2-101, Umezono</street><city>Tsukuba-shi, Ibaraki</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Cresswell, Thomas Anthony</last-name><address><street>J.A. KEMP &amp;amp; CO. 14 South Square Gray's Inn</street><city>LONDON WC1R 5JJ</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country><country>NL</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>Provided is a polymeric fluorescent substance comprising a copolymer which
+has a substituent containing a specific aromatic amine structure below in the side
+chain,
+<img id="img-80000001" orientation="unknown" wi="78" img-format="tif" img-content="cf" file="80000001.tif" inline="no" he="22"/>
+wherein X<sub>1</sub> is a divalent hydrocarbon group; Ar<sub>2</sub> is an arylene group or the like; and
+Ar<sub>3</sub> and Ar<sub>4</sub> independently represent an aryl group or the like. The polymeric
+fluorescent substance is preferably used for a light-emitting layer of a polymer LED
+having high luminance and high light-emitting efficiency.</p></abstract><description load-source="ep" status="new" lang="EN"><heading>BACKGROUND OF THE INVENTION</heading><heading>Field of the Invention</heading><p num="0001">The present invention relates to a polymeric
+fluorescent substance and a polymer light-emitting device
+(hereinafter, sometimes referred to as polymer LED) using
+the same.</p><heading>Description of the Related Art</heading><p num="0002">Unlike with low molecular weight light-emitting
+materials, polymeric light-emitting materials (polymeric
+fluorescent substance) are soluble in a solvent, and can
+form a light-emitting layer in a light emitting device by a
+coating method, consequently, have been variously
+investigated. In recent years, polymeric fluorescent
+substances having a fluorene unit attract attention, and in
+order to improve the performance, copolymers comprising a
+fluorene unit and other unit have been studied.</p><p num="0003">Among the above copolymers, a copolymer comprising an
+aromatic amine structure (hereinafter, may be referred to
+as aromatic amine unit) as other unit is disclosed, for
+example, a polymeric fluorescent substance comprising a
+copolymer which comprises a fluorene unit and an aromatic
+amine unit having a nitrogen atom in the main chain (WO 
+99/54385).</p><p num="0004">However, the above known polymeric fluorescent
+substance comprising a fluorene unit and an aromatic amine
+unit having a nitrogen atom in the main chain has a problem
+that luminance and light emitting efficiency are not yet
+sufficient, when the polymeric fluorescent substance is
+used as a light emitting layer.</p><p num="0005">An object of the present invention is to provide a
+polymeric fluorescent substance comprising a copolymer
+which has a substituent containing a specific aromatic
+amine structure in the side chain, and when said polymeric
+fluorescent substance is used for a light emitting layer,
+high luminance and high light emitting efficiency are
+attained, and to provide a polymer LED using the polymeric
+fluorescent substance.</p><heading>SUMMARY OF THE INVENTION</heading><p num="0006">Namely, the present invention relates to a polymeric
+fluorescent substance exhibiting fluorescence in the solid
+state and having a polystyrene reduced number average
+molecular weight of 10<sup>3</sup> to 10<sup>8</sup>, which comprises one or more
+repeating units represented by formula (1) and one or more
+repeating units represented by formula (3),
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">-Ar<sub>1</sub>-</st32:che>
+wherein Ar<sub>1</sub> represents an arylene group or a divalent
+heterocyclic compound group and has 1 to 4 substituents 
+represented by following formula (2),
+<img id="img-00030001" orientation="unknown" wi="98" img-format="tif" img-content="cf" file="00030001.tif" inline="no" he="23"/>
+wherein X<sub>1</sub> represents a divalent hydrocarbon group; Ar<sub>2</sub>
+represents an arylene group or a divalent heterocyclic
+compound group; Ar<sub>3</sub> represents an aryl group or a
+monovalent heterocyclic compound group; Ar<sub>2</sub> and Ar<sub>3</sub> may be
+mutually connected to form a ring; Ar<sub>4</sub> represents an aryl
+group or a monovalent heterocyclic compound group; Ar<sub>3</sub> and
+Ar<sub>4</sub> may be mutually connected to form a ring; k is 0 or 1;
+1 represents an integer of 1 to 3,
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">-Ar<sub>5</sub>-</st32:che>
+wherein Ar<sub>5</sub> represents an arylene group or divalent
+heterocyclic compound group represented by formula (4) or
+(5):
+<img id="img-00030002" orientation="unknown" wi="76" img-format="tif" img-content="cf" file="00030002.tif" inline="no" he="29"/>
+wherein X<sub>2</sub> represents a group selected from O, S, SO, SO<sub>2</sub>,
+N-R<sub>3</sub>, CR<sub>4</sub>R<sub>5</sub>, SiR<sub>6</sub>R<sub>7</sub>; R<sub>3</sub> to R<sub>7</sub> each independently represent a
+group selected from a hydrogen atom, alkyl group, aryl
+group and monovalent heterocyclic compound group; R<sub>1</sub> and R<sub>2</sub>
+each independently represent a group selected from alkyl
+group, alkoxy group, alkylthio group, alkylsilyl group, 
+alkylamino group, aryl group, aryloxy group, arylsilyl
+group, arylamino group, arylalkyl group, arylalkoxy group,
+arylalkylsilyl group, arylalkylamino group, arylalkenyl
+group, arylalkynyl group, monovalent heterocyclic compound
+group and cyano group; m and n are each independently
+integers of 0 to 3; when m is two or more, a plurality of
+R<sub>1</sub> may be the same or different; when n is two or more, a
+plurality of R<sub>2</sub> may be the same or different; R<sub>1</sub> to R<sub>7</sub> may
+be connected to form a ring; when R<sub>1</sub> to R<sub>7</sub> is a group
+containing an alkyl chain, the alkyl chain may be
+interrupted by a group containing a hetero atom,
+<img id="img-00040001" orientation="unknown" wi="56" img-format="tif" img-content="cf" file="00040001.tif" inline="no" he="24"/>
+wherein R<sub>8</sub> represents a group selected from alkyl group,
+alkoxy group, alkylthio group, alkylsilyl group, alkylamino
+group, aryl group, aryloxy group, arylsilyl group,
+arylamino group, arylalkyl group, arylalkoxy group,
+arylalkylsilyl group, arylalkylamino group, arylalkenyl
+group, arylalkynyl group, monovalent heterocyclic compound
+group and cyano group; j is an integer of 0 to 3; when j is
+two or more, a plurality of R<sub>8</sub> may be the same or
+different; when R<sub>8</sub> is a group containing an alkyl chain,
+the alkyl chain may be interrupted by a group containing a
+hetero atom. </p><p num="0007">Further, the present invention relates to a polymer
+light-emitting device comprising a pair of electrodes
+composed of an anode and a cathode at least one of which is
+transparent or semitransparent and at least containing an
+light emitting layer between the electrodes, wherein the
+light emitting layer comprises the above polymeric
+fluorescent substance.</p><heading>DETAILED DESCRIPTION OF THE INVENTION</heading><p num="0008">The polymeric fluorescent substance of the present
+invention exhibits fluorescence in the solid state, and has
+a polystyrene reduced number average molecular weights of
+10<sup>3</sup> to 10<sup>8</sup>. The polymeric fluorescent substance comprises
+repeating units represented by the above formulas (1) and
+(3), respectively.</p><p num="0009">The total amount of the repeating unit represented by
+formulas (1) and (3) is suitably 50 % by mole or more
+based on all the repeating units. Moreover, the total
+amount of the repeating unit represented by formula (1) is
+suitably 0.1% by mole or more and 50% by mole or less based
+on the total amount of the repeating unit represented by
+formulas (1) and (3). More suitably, the total amount of
+the repeating unit represented by formulas (1) and (3) is
+50 % by mole or more based on all the repeating units, and
+the total amount of the repeating unit represented by
+formula (1) is 0.1% by mole or more and 50% by mole or less 
+based on the total amount of the repeating unit represented
+by formulas (1) and (3).</p><p num="0010">The repeating unit represented by the above formula
+(1) is an arylene group or divalent heterocyclic compound
+group having 1 to 4 substituents represented by the above
+formula (2).</p><p num="0011">The repeating unit represented by the above formula
+(3) is a divalent compound group represented by formula (4)
+or (5). The repeating unit represented by the above formula
+(4) is a biphenylene group bridging between two benzene
+rings, which may have a substituent. The repeating unit
+represented by the above formula (5) is a phenylene group
+which may have a substituent. As a repeating unit
+represented by formula (5), specifically exemplified is a
+repeating unit of formula (6) which is a fluorene-2,7-diyl
+group.
+<img id="img-00060001" orientation="unknown" wi="82" img-format="tif" img-content="cf" file="00060001.tif" inline="no" he="35"/>
+wherein R<sub>11</sub> and R<sub>12</sub> each independently represent a group
+selected from a hydrogen atom, alkyl group, aryl group and
+monovalent heterocyclic compound group; R<sub>9</sub> and R<sub>10</sub> each
+independently represent a group selected from alkyl group,
+alkoxy group, alkylthio group, alkylsilyl group, alkylamino 
+group, aryl group, aryloxy group, arylsilyl group,
+arylamino group, arylalkyl group, arylalkoxy group,
+arylalkylsilyl group, arylalkylamino group, arylalkenyl
+group, arylalkynyl group, monovalent heterocyclic compound
+group and cyano group; h and i are each independently
+integers of 0 to 3; when h is two or more, a plurality of
+R<sub>9</sub> may be the same or different; when i is two or more, a
+plurality of R<sub>10</sub> may be the same or different; R<sub>9</sub> to R<sub>12</sub> may
+be connected to form a ring; when R<sub>9</sub> to R<sub>12</sub> is a group
+containing an alkyl chain, the alkyl chain may be
+interrupted by a group containing a hetero atom.</p><p num="0012">The arylene group is an atomic group of an aromatic
+hydrocarbon in which two hydrogen atoms are removed. The
+aromatic hydrocarbon is a hydrocarbon used as a matrix of
+an aromatic compound, which contains a benzene ring. The
+aromatic hydrocarbon also includes those containing a
+condensed ring, and two or more of independent benzene
+rings or condensed rings bonded through a group such as a
+direct bond, a vinylene group or the like.</p><p num="0013">The arylene group usually has 6 to 60 carbon atoms,
+and examples thereof include phenylene group, biphenylene
+group, terphenylene group, fluorene diyl group,
+naphthalenediyl group, anthracenediyl group, etc. Here, the
+number of carbon atoms of the substituent is not counted as
+the number of carbon atoms of the arylene group. </p><p num="0014">The divalent heterocyclic compound group means an
+atomic group of a heterocyclic compound in which two
+hydrogen atoms are removed. The heterocyclic compound means
+an organic compound having a cyclic structure in which at
+least one heteroatom such as oxygen, sulfur, nitrogen,
+phosphorus, boron, etc. is contained in the cyclic
+structure as the element other than carbon atoms.</p><p num="0015">The divalent heterocyclic compound group usually has
+4 to 60 carbon atoms, and examples thereof include
+furandiyl group, thienylene group, fluorenediyl group,
+pyridinediyl group, pyrimidinediyl group, quinolinediyl
+group, quinoxalinediyl group, etc. Here, the number of
+carbon atoms of the substituent is not counted as the
+number of carbon atoms of the divalent heterocyclic
+compound group.</p><p num="0016">As the examples of Ar<sub>1</sub>, groups having a structure
+obtained by combination of two or more of the above arylene
+groups and divalent heterocyclic compound groups may be
+included.</p><p num="0017">Among them, phenylene group, biphenylene group,
+naphthalenediyl group, anthracenediyl group, pyridinediyl
+group, thienylene group, quinolinediyl group, and
+quinoxaline diyl group are more suitable.</p><p num="0018">Ar<sub>1</sub> has 1 to 4, preferably 1 to 2 substituents
+represented by the above formula (2). </p><p num="0019">Ar<sub>1</sub> may have a substituent other than the substituent
+represented by the above formula (2). As the substituent
+other than the substituent represented by the above formula
+(2), exemplified are alkyl group, alkoxy group, alkylthio
+group, alkylsilyl group, alkylamino group, aryl group,
+aryloxy group, arylsilyl group, arylamino group, arylalkyl
+group, arylalkoxy group, arylalkylsilyl group,
+arylalkylamino group, arylalkenyl group, arylalkynyl group,
+monovalent heterocyclic compound group, cyano group, etc.
+As the concrete examples, exemplified are the same groups
+with those of R<sub>1</sub> and R<sub>2</sub> mentioned later.</p><p num="0020">X<sub>1</sub> in the above formula (2) means a divalent
+hydrocarbon group. The divalent hydrocarbon group is an
+atomic group of a hydrocarbon in which two hydrogen atoms
+are removed, and usually has about 1 to 20 carbon atoms.
+Specifically, alkylene group, alkenylene group, alkynylene
+group, and polymethylene group are exemplified. More
+specifically, methylene group, ethylene group, propylene
+group, ethenylene group, ethynylene group, substituted
+ethenylene group, trimethylene group, tetramethylene group,
+etc. are exemplified. Among them, ethenylene group and
+substituted ethenylene group are more suitable.</p><p num="0021">As the substituted ethenylene group, exemplified are
+ethenylene groups having methyl group, ethyl group, phenyl
+group or cyano group as the substituent. </p><p num="0022">Ar<sub>2</sub> of the above formula (2) is an arylene group or a
+divalent heterocyclic compound group. Definition of the
+arylene group and the divalent heterocyclic compound group
+is the same with that of Ar<sub>1</sub>, and the concrete and
+preferable examples are the same as those described about
+Ar<sub>1</sub>.</p><p num="0023">Ar<sub>3</sub> and Ar<sub>4</sub> in the above formula (2) are each
+independently an aryl group or a monovalent heterocyclic
+compound group.</p><p num="0024">The aryl group usually has 6 to 60 carbon atoms, and
+examples thereof include phenyl group, biphenyl group,
+terphenyl group, fluorenyl group, naphtyl group,
+anthrylgroup, and groups thereof having a substituent.</p><p num="0025">The monovalent heterocyclic compound group usually
+has 4 to 60 carbon atoms, and examples thereof include
+pyridinyl group, pyrimidinyl group, furanyl group, thienyl
+group, quinolinyl group, quinoxalinyl group, and groups
+thereof having a substituent.</p><p num="0026">Among them, phenyl group, naphtyl group, anthryl
+group, pyridinyl group, thienyl group, quinolinyl group,
+quinoxalinyl group, and groups thereof having a substituent
+are more suitable. When Ar<sub>3</sub> and Ar<sub>4</sub> have a substituent,
+examples of the substituent include alkyl group, alkoxy
+group, alkylthio group, alkylsilyl group, alkylamino group,
+aryl group, aryloxy group, arylsilyl group, arylamino 
+group, arylalkyl group, arylalkoxy group, arylalkylsilyl
+group, arylalkylamino group, arylalkenyl group, arylalkynyl
+group, monovalent heterocyclic compound group, and cyano
+group.</p><p num="0027">Ar<sub>2</sub> and Ar<sub>3</sub> may be mutually connected with a single
+bond or a divalent hydrocarbon group. The divalent
+hydrocarbon group which connects Ar<sub>2</sub> and Ar<sub>3</sub> mutually has
+usually about one to 20 carbon atoms. Specifically,
+alkylene group, alkenylene group, alkynylene group, and
+polymethylene group are exemplified. More specifically,
+methylene group, ethylene group, propylene group,
+ethenylene group, ethynylene group, etc. are exemplified.
+Among them, a single bond, methylene group, and ethenylene
+group are preferable.</p><p num="0028">As the group having a structure in which Ar<sub>2</sub> and Ar<sub>3</sub>
+are mutually connected with a single bond or a divalent
+hydrocarbon group, exemplified are carbazolyl group and
+substituted carbazolyl group. As the substituent of
+substituted carbazolyl group, exemplified are alkyl group,
+alkoxy group, alkylthio group, alkylsilyl group, alkylamino
+group, aryl group, aryloxy group, arylsilyl group, aryl
+amino group, arylalkyl group, arylalkoxy group,
+arylalkylsilyl group, arylalkylamino group, arylalkenyl
+group, arylalkynyl group, monovalent heterocyclic compound
+group, and cyano group. </p><p num="0029">Ar<sub>3</sub> and Ar<sub>4</sub> may be mutually connected as the same
+manner with the above case of Ar<sub>2</sub> and Ar<sub>3</sub>.</p><p num="0030">As the example represented by formula (2),
+exemplified are those shown below. Further exemplified are
+groups thereof having, on their benzene ring, one or more
+substituents such as alkyl group, alkoxy group, alkylthio
+group, alkylsilyl group, alkylamino group, aryl group,
+aryloxy group, arylsilyl group, arylamino group, arylalkyl
+group, arylalkoxy group, arylalkylsilyl group,
+arylalkylamino group, arylalkenyl group, arylalkynyl group,
+monovalent heterocyclic compound group and cyano group.
+Also exemplified are groups thereof having, on their
+ethenyl group, a substituent such as alkyl group, aryl
+group and arylalkyl group. <img id="img-00130001" orientation="unknown" wi="155" img-format="tif" img-content="cf" file="00130001.tif" inline="no" he="36"/><img id="img-00130002" orientation="unknown" wi="156" img-format="tif" img-content="cf" file="00130002.tif" inline="no" he="95"/><img id="img-00130003" orientation="unknown" wi="156" img-format="tif" img-content="cf" file="00130003.tif" inline="no" he="31"/><img id="img-00130004" orientation="unknown" wi="155" img-format="tif" img-content="cf" file="00130004.tif" inline="no" he="34"/></p><p num="0031">Among them, the groups shown below are preferable. <img id="img-00140001" orientation="unknown" wi="79" img-format="tif" img-content="cf" file="00140001.tif" inline="no" he="34"/><img id="img-00140002" orientation="unknown" wi="79" img-format="tif" img-content="cf" file="00140002.tif" inline="no" he="29"/><img id="img-00140003" orientation="unknown" wi="79" img-format="tif" img-content="cf" file="00140003.tif" inline="no" he="34"/></p><p num="0032">In the repeating unit represented by formula (1), Ar<sub>1</sub>
+is preferably 1,4-phenylene group, and more preferably,
+1,4-phenylene group having one or two substituents
+represented by formula (2). Among the groups having two
+substituents represented by formula (2), 1,4-phenylene
+group having two substituents at 2,5-positions is further
+preferable.</p><p num="0033">The repeating unit represented by the above formula
+(3) is a divalent compound group represented by formula
+(4), (5) or (6).</p><p num="0034">R<sub>1</sub> and R<sub>2</sub> in formula (4), R<sub>8</sub> in formula (5) and, R<sub>9</sub>
+and R<sub>10</sub> in formula (6) each independently represent a group
+selected from alkyl group, alkoxy group, alkylthio group,
+alkyl silyl group, alkylamino group, aryl group, aryloxy 
+group, arylsilyl group, arylamino group, arylalkyl group,
+arylalkoxy group, arylalkylsilyl group, arylalkylamino
+group, arylalkenyl group, arylalkynyl group, monovalent
+heterocyclic compound group, and cyano group.</p><p num="0035">R<sub>1</sub> and R<sub>2</sub> in the repeating unit represented by the
+above formula (4), R<sub>8</sub> in the repeating unit represented by
+the above formula (5) and R<sub>9</sub> and R<sub>10</sub> in the repeating unit
+represented by the above formula (6) are described as
+follows when they are substituents other than cyano group.</p><p num="0036">The alkyl group may be any of linear, branched or
+cyclic, and usually has about 1 to 20 carbon atoms, and
+specific examples thereof include a methyl group, ethyl
+group, propyl group, i-propyl group, butyl group, i-butyl
+group, t-butyl group, pentyl group, isoamyl group, hexyl
+group, cyclohexyl group, heptyl group, octyl group, 2-ethylhexyl
+group, nonyl group, decyl group, 3,7-dimethyloctyl
+group, lauryl group and the like, and
+preferable are a pentyl group, isoamyl group, hexyl group,
+octyl group, 2-ethylhexyl group, decyl group and 3,7-dimethyloctyl
+group.</p><p num="0037">The alkoxy group may be any of linear, branched or
+cyclic, and the number of carbon atoms is usually from 1 to
+20, and specific examples thereof include a methoxy group,
+ethoxy group, propyloxy group, i-propyloxy group, butoxy
+group, i-butoxy group, t-butoxy group, pentyloxy group, 
+isoamyloxy group, hexyloxy group, cyclohexyloxy group,
+heptyloxy group, octyloxy group, 2-ethylhexyloxy group,
+nonyloxy group, decyloxy group, 3,7-dimethyloctyloxy group,
+lauryloxy group and the like, and preferable are a
+pentyloxy group, isoamyloxy group, hexyloxy group, octyloxy
+group, 2-ethylhexyloxy group, decyloxy group and 3,7-dimethyloctyloxy
+group.</p><p num="0038">The alkylthio group may be any of linear, branched or
+cyclic, and usually has about 1 to 20 carbon atoms, and
+specific examples thereof include a methylthio group,
+ethylthio group, propylthio group, i-propylthio group,
+butylthio group, i-butylthio group, t-butylthio group,
+pentylthio group, isoamylthio group, hexylthio group,
+cyclohexylthio group, heptylthio group, octylthio group, 2-ethylhexylthio
+group, nonylthio group, decylthio group,
+3,7-dimethyloctylthio group, laurylthio group and the like,
+and preferable are a pentylthio group, isoamylthio group,
+hexylthio group, octylthio group, 2-ethylhexylthio group,
+decylthio group and 3,7-dimethyloctylthio group.</p><p num="0039">The alkylsilyl group may be any of linear, branched
+or cyclic, and usually has about 1 to 60 carbon atoms, and
+specific examples thereof include a methylsilyl group,
+ethylsilyl group, propylsilyl group, i-propylsilyl group,
+butylsilyl group, i-butylsilyl group, t-butylsilyl group,
+pentylsilyl group, isoamylsilyl group, hexylsilyl group, 
+cyclohexylsilyl group, heptylsilyl group, octylsilyl group,
+2-ethylhexylsilyl group, nonylsilyl group, decylsilyl
+group., 3,7-dimethyloctylsilyl group, laurylsilyl group,
+trimethylsilyl group, ethyldimethylsilyl group,
+propyldimethylsilyl group, i-propyldimethylsilyl group,
+butyldimethylsilyl group, t-butyldimethylsilyl group,
+pentyldimethylsilyl group, isoamyldimethylsilyl group,
+hexyldimethylsilyl group, heptyldimethylsilyl group,
+octyldimethylsilyl group, 2-ethylhexyl-dimethylsilyl group,
+nonyldimethylsilyl group, decyldimethylsilyl group, 3,7-dimethyloctyl-dimethylsilyl
+group, lauryldimethylsilyl
+group and the like, and preferable are a pentylsilyl group,
+isoamylsilyl group, hexylsilyl group, octylsilyl group, 2-ethylhexylsilyl
+group, decylsilyl group, 3,7-dimethyloctylsilyl
+group, pentyldimethylsilyl group,
+isoamyldimethylsilyl group, hexyldimethylsilyl group,
+octyldimethylsilyl group, 2-ethylhexyl-dimethylsilyl group,
+decyldimethylsilyl group and 3,7-dimethyloctyldimethylsilyl
+group.</p><p num="0040">The alkylamino group may be any of linear, branched
+or cyclic, may be a monoalkyl group or a dialkylamino
+group, and usually has about 1 to 40 carbon atoms, and
+specific examples thereof include a methylamino group,
+dimethylamino group, ethylamino group, diethylamino group,
+propylamino group, i-propylamino group, butylamino group, 
+i-butylamino group, t-butylamino group, pentylamino group,
+isoamylamino group, hexylamino group, cyclohexylamino
+group, heptylamino group, octylamino group, 2-ethylhexylamino
+group, nonylamino group, decylamino group,
+3,7-dimethyloctylamino group, laurylamino group and the
+like, and preferable are a pentylamino group, isoamylamino
+group, hexylamino group, octylamino group, 2-ethylhexylamino
+group, decylamino group and 3,7-dimethyloctylamino
+group.</p><p num="0041">The aryl group usually has about 6 to 60 carbon
+atoms, and specific examples thereof include a phenyl
+group, C<sub>1</sub> to C<sub>12</sub> alkoxyphenyl groups (C<sub>1</sub> to C<sub>12</sub> indicates 1
+to 12 carbon atoms, the same in the following), C<sub>1</sub> to C<sub>12</sub>
+alkylphenyl groups, 1-naphthyl group, 2-naphthyl group and
+the like, and preferable are C<sub>1</sub> to C<sub>12</sub> alkoxyphenyl groups
+and C<sub>1</sub> to C<sub>12</sub> alkylphenyl groups.</p><p num="0042">The aryloxy group usually has about 6 to 60 carbon
+atoms, and specifically, a phenoxy group, C<sub>1</sub> to C<sub>12</sub>
+alkoxyphenoxy groups, C<sub>1</sub> to C<sub>12</sub> alkylphenoxy groups, 1-naphthyloxy
+group, 2-naphthyloxy and the like are
+exemplified, and preferable are a phenoxy group, C<sub>1</sub> to C<sub>12</sub>
+alkoxyphenoxy groups and C<sub>1</sub> to C<sub>12</sub> alkylphenoxy groups.</p><p num="0043">The arylsilyl group usually has about six to 60
+carbon atoms, and exemplified are phenylsilyl group, C<sub>1</sub> to
+C<sub>12</sub> alkoxyphenylsilyl group, C<sub>1</sub> to C<sub>12</sub> alkylphenylsilyl 
+group, 1-naphtylsilyl group, 2-naphtylsilyl group,
+dimethylphenylsilyl group, etc. C<sub>1</sub> to C<sub>12</sub> alkoxy phenyl
+silyl group and C<sub>1</sub> to C<sub>12</sub> alkyl phenyl silyl group are
+preferable.</p><p num="0044">The arylamino group usually has about 6 to 60 carbon
+atoms, and specific examples thereof include a phenylamino
+group, diphenylamino group, C<sub>1</sub> to C<sub>12</sub> alkoxyphenylamino
+groups, di(C<sub>1</sub> to C<sub>12</sub> alkoxyphenyl)amino groups, di(C<sub>1</sub> to C<sub>12</sub>
+alkylphenyl)amino groups, 1-naphthylamino group, 2-naphthylamino
+group, and the like, and preferable are C<sub>1</sub> to
+C<sub>12</sub> alkylphenylamino groups and di(C<sub>1</sub> to C<sub>12</sub>
+alkylphenyl)amino groups.</p><p num="0045">The arylalkyl group usually has about seven to 60
+carbon atoms. Specifically, phenyl-C<sub>1</sub> to C<sub>12</sub> alkyl group, C<sub>1</sub>
+to C<sub>12</sub> alkoxyphenyl-C<sub>1</sub> to C<sub>12</sub> alkyl group, C<sub>1</sub> to C<sub>12</sub>
+alkylphenyl-C<sub>1</sub> to C<sub>12</sub> alkyl group, 1-naphtyl-C<sub>1</sub> to C<sub>12</sub> alkyl
+group, 2-naphtyl-C<sub>1</sub> to C<sub>12</sub> alkyl group, etc. are
+exemplified, and C<sub>1</sub> to C<sub>12</sub> alkoxy phenyl-C<sub>1</sub> to C<sub>12</sub> alkyl
+group, and C<sub>1</sub> to C<sub>12</sub> alkyl phenyl-C<sub>1</sub> to C<sub>12</sub> alkyl group are
+preferable.</p><p num="0046">The arylalkoxy group usually has about 7 to 60 carbon
+atoms, and specifically, phenyl-C<sub>1</sub> to C<sub>12</sub> alkoxy groups, C<sub>1</sub>
+to C<sub>12</sub> alkoxyphenyl-C<sub>1</sub> to C<sub>12</sub> alkoxy groups, C<sub>1</sub> to C<sub>12</sub>
+alkylphenyl-C<sub>1</sub> to C<sub>12</sub> alkoxy groups, 1-naphthyl-C<sub>1</sub> to C<sub>12</sub>
+alkoxy groups, 2-naphthyl-C<sub>1</sub> to C<sub>12</sub> alkoxy groups and the 
+like are exemplified, and preferable are C<sub>1</sub> to C<sub>12</sub>
+alkoxyphenyl-C<sub>1</sub> to C<sub>12</sub> alkoxy groups and C<sub>1</sub> to C<sub>12</sub>
+alkylphenyl-C<sub>1</sub> to C<sub>12</sub> alkoxy groups.</p><p num="0047">The arylalkylsilyl group usually has about 7 to 60
+carbon atoms. Specifically, phenyl-C<sub>1</sub> to C<sub>12</sub> alkylsilyl
+group, C<sub>1</sub> to C<sub>12</sub> alkoxyphenyl-C<sub>1</sub> to C<sub>12</sub> alkylsilyl group, C<sub>1</sub>
+to C<sub>12</sub> alkylphenyl-C<sub>1</sub> to C<sub>12</sub> alkylsilyl group, 1-naphtyl-C<sub>1</sub>
+to C<sub>12</sub> alkylsilyl group, 2-naphtyl-C<sub>1</sub> to C<sub>12</sub> alkylsilyl
+group, phenyl-C<sub>1</sub> to C<sub>12</sub> alkyldimethylsilyl group, etc. are
+exemplified, and C<sub>1</sub> to C<sub>12</sub> alkoxyphenyl-C<sub>1</sub> to C<sub>12</sub> alkylsilyl
+group, and C<sub>1</sub> to C<sub>12</sub> alkylphenyl-C<sub>1</sub> to C<sub>12</sub> alkylsilyl group
+are preferable.</p><p num="0048">The arylalkylamino group has about 7 to 60 carbon
+atoms. Specifically Phenyl-C<sub>1</sub> to C<sub>12</sub> alkylamino group, C<sub>1</sub> to
+C<sub>12</sub> alkoxyphenyl-C<sub>1</sub> to C<sub>12</sub> alkylamino group, C<sub>1</sub> to C<sub>12</sub>
+alkylphenyl-C<sub>1</sub> to C<sub>12</sub> alkylamino group, di(C<sub>1</sub> to C<sub>12</sub>
+alkoxyphenyl-C<sub>1</sub> to C<sub>12</sub> alkyl)amino group, di(C1 to C<sub>12</sub>
+alkylphenyl-C<sub>1</sub> to C<sub>12</sub> alkyl)amino group, 1-naphtyl-C<sub>1</sub> to C<sub>12</sub>
+alkylamino group, 2-naphtyl-C<sub>1</sub> to C<sub>12</sub> alkylamino group, etc.
+are exemplified, and C<sub>1</sub> to C<sub>12</sub> alkylphenyl-C<sub>1</sub> to C<sub>12</sub>
+alkylamino group, and di(C<sub>1</sub> to C<sub>12</sub> alkylphenyl-C<sub>1</sub> to C<sub>12</sub>
+alkyl)amino group are preferable.</p><p num="0049">The monovalent heterocyclic compound group means a
+remaining atomic group obtained by removing one hydrogen
+atom from a heterocyclic compound, and the number of carbon 
+atoms is usually from about 4 to 60, preferably from 4 to
+20. The number of carbon atoms of a heterocyclic compound
+group does not include the number of carbon atoms of a
+substituent. Here, the term heterocyclic compound includes
+organic compounds having a cyclic structure in which
+elements constituting a ring is not composed only of a
+carbon atom but also hetero atoms such as oxygen, sulfur,
+nitrogen, phosphorus, boron and the like are contained in
+the ring. Specifically, a thienyl group, C<sub>1</sub> to C<sub>12</sub>
+alkylthienyl groups, pyrrolyl group, furyl group, pyridyl
+group, C<sub>1</sub> to C<sub>12</sub> alkylpyridyl groups and the like are
+exemplified, and preferable are a thienyl group, C<sub>1</sub> to C<sub>12</sub>
+alkylthienyl groups, pyridyl group are C<sub>1</sub> to C<sub>12</sub>
+alkylpyridyl groups.</p><p num="0050">R<sub>3</sub> to R<sub>7</sub> in the repeating unit represented by the
+above formula (4), and R<sub>11</sub> and R<sub>12</sub> in the repeating unit
+represented by the above formula (6) each independently
+represent a group selected from a hydrogen atom, alkyl
+group, aryl group and monovalent heterocyclic compound
+group.</p><p num="0051">R<sub>3</sub> to R<sub>7</sub> in X<sub>2</sub> of formula (4), and R<sub>11</sub> and R<sub>12</sub> in
+formula (6) are described as follows when they are
+substituents other than a hydrogen atom.</p><p num="0052">The alkyl group may be any of linear, branched or
+cyclic, and usually has about 1 to 20 carbon atoms, and 
+specific examples thereof include a methyl group, ethyl
+group, propyl group, i-propyl group, butyl group, i-butyl
+group, t-butyl group, pentyl group, isoamyl group, hexyl
+group, cyclohexyl group, heptyl group, octyl group, 2-ethylhexyl
+group, nonyl group, decyl group, 3,7-dimethyloctyl
+group, lauryl group and the like, and
+preferable are a pentyl group, isoamyl group, hexyl group,
+octyl group, 2-ethylhexyl group, decyl group and 3,7-dimethyloctyl
+group.</p><p num="0053">The aryl group usually has about 6 to 60 carbon
+atoms, and specific examples thereof include a phenyl
+group, C<sub>1</sub> to C<sub>12</sub> alkoxyphenyl groups (C<sub>1</sub> to C<sub>12</sub> indicates 1
+to 12 carbon atoms, the same in the following), C<sub>1</sub> to C<sub>12</sub>
+alkylphenyl groups, 1-naphthyl group, 2-naphthyl group and
+the like, and preferable are C<sub>1</sub> to C<sub>12</sub> alkoxyphenyl groups
+and C<sub>1</sub> to C<sub>12</sub> alkylphenyl groups.</p><p num="0054">The monovalent heterocyclic compound group usually
+has the carbon atoms from about 4 to 60, and exemplified,
+specifically, a thienyl group, C<sub>1</sub> to C<sub>12</sub> alkylthienyl
+groups, pyrrolyl group, furyl group, pyridyl group, C<sub>1</sub> to
+C<sub>12</sub> alkylpyridyl groups and the like, and preferable are a
+thienyl group, C<sub>1</sub> to C<sub>12</sub> alkylthienyl groups, pyridyl group
+are C<sub>1</sub> to C<sub>12</sub> alkylpyridyl groups.</p><p num="0055">In the repeating unit represented by the above
+formula (4), m and n are each independently an integer of 0 
+to 3. When m is two or more, a plurality of R<sub>1</sub> is the same
+or different. When n is two or more, a plurality of R<sub>2</sub> is
+the same or different. Any two of R<sub>1</sub> to R<sub>7</sub> may be connected
+to form a ring. Furthermore, when R<sub>1</sub> to R<sub>7</sub> is a group
+containing an alkyl chain, the alkyl chain may be
+interrupted by a group containing a hetero atom.</p><p num="0056">In the repeating unit represented by the above
+formula (5), j is an integer of 1 to 4. When j is two or
+more, a plurality of R<sub>8</sub> is the same or different. When j is
+two or more, any two of R<sub>8</sub> may be connected to form a ring.
+Furthermore, when R<sub>8</sub> is a group containing an alkyl chain,
+the alkyl chain may be interrupted by a group containing a
+hetero atom.</p><p num="0057">In the repeating unit represented by the above
+formula (6), h and i are each independently an integer of 0
+to 3. When h is two or more, a plurality of R<sub>9</sub> is the same
+or different. When i is two or more, a plurality of R<sub>10</sub> is
+the same or different. Any two of R<sub>9</sub> to R<sub>12</sub> may be connected
+to form a ring. Furthermore, when R<sub>9</sub> to R<sub>12</sub> is a group
+containing an alkyl chain, the alkyl chain may be
+interrupted by a group containing a hetero atom. Here, as
+the hetero atom, oxygen atom, sulfur atom, nitrogen atom,
+etc. are exemplified.</p><p num="0058">Examples of the group containing a hetero atom
+include following groups. <img id="img-00240001" orientation="unknown" wi="108" img-format="tif" img-content="cf" file="00240001.tif" inline="no" he="29"/><img id="img-00240002" orientation="unknown" wi="108" img-format="tif" img-content="cf" file="00240002.tif" inline="no" he="24"/>
+Here, R means a hydrogen atom, alkyl group having 1 to 20
+carbon atoms, aryl group having 6 to 60 carbon atoms, and
+heterocyclic compound group having 4 to 60 carbon atoms.</p><p num="0059">The substituent containing an alkyl chain may be any
+one of linear, branched and cyclic, or combination thereof,
+and as the examples of not linear, exemplified are isoamyl
+group, 2-ethylhexyl group, 3,7-dimethyloctyl group,
+cyclohexyl group, 4-C<sub>1</sub> to C<sub>12</sub> alkylcyclohexyl group, etc. In
+order to improve the solubility of the polymeric
+fluorescent substance in a solvent, it is suitable that at
+least one of the substituents in the above formula (1)
+contains a cyclic or branched alkyl chain.</p><p num="0060">In order to obtain a material of strong fluorescence,
+it is suitable that there is little symmetry in the form of
+the repeating unit including substituent.</p><p num="0061">Furthermore, when R<sub>1</sub> to R<sub>12</sub> are those including an
+aryl group or a heterocyclic compound group as a part of
+the structure, they may have further one or more
+substituents. </p><p num="0062">Since light emitting property and life time as a
+device may be deteriorated when a polymerizable group
+remains as an end group of the polymeric fluorescent
+substance, the end group may be protected by a stable
+group. Those having a conjugation bond continuing to a
+conjugated structure of the main chain are preferable, and
+exemplified are structures connecting to an aryl group or a
+heterocyclic compound group through a vinylene group.
+Concretely, substituents represented by Chemical Formula 10
+described in JP-A No. 9-45478, and the like are
+exemplified.</p><p num="0063">Method for synthesizing the polymeric fluorescent
+substance include a polymerization method by Suzuki
+coupling reaction from the corresponding monomer, a
+polymerization method by Grignard reaction, a
+polymerization method by using nickel (0) catalyst, a
+polymerization method by using an oxidizing agent such as
+FeCl<sub>3</sub>, etc., a method by electrochemical oxidative
+polymerization, and a method by decomposition of an
+intermediate polymer having suitable leaving group. Among
+them, in view of easiness of the reaction control, the
+polymerization method by Suzuki coupling reaction, the
+polymerization method by Grignard reaction, and the
+polymerization method by using nickel (0) catalyst are
+preferable. </p><p num="0064">This polymeric fluorescent substance may contain
+other repeating unit than the repeating unit of formulae
+(1) and (3) in the range wherein luminescent property and
+charge transport property do not deteriorate. The
+repeating unit of formulae (1) and (3) or other unit than
+the repeating unit of formulae (1) and (3) may be connected
+via a non-conjugated unit, or such non-conjugated part may
+also contained in the repeating unit. As the linkage
+structure, there are exemplified those shown in the
+following chemical formula, combinations of those shown in
+the following chemical formula with a vinylene group,
+combinations of two or more of those shown in the following
+chemical formula, and the like.</p><p num="0065">Here, R is selected from the same substituents as
+described above, and Ar represents a hydrocarbon group
+having 6 to 60 carbon atoms.
+<img id="img-00260001" orientation="unknown" wi="111" img-format="tif" img-content="cf" file="00260001.tif" inline="no" he="24"/><img id="img-00260002" orientation="unknown" wi="112" img-format="tif" img-content="cf" file="00260002.tif"  inline="no" he="22"/><img id="img-00260003" orientation="unknown" wi="112" img-format="tif"  img-content="cf"  file="00260003.tif"  inline="no" he="34"/></p><p num="0066">This polymeric fluorescent substance may also be a
+random, block or graft copolymer, or a polymer having an
+intermediate structure thereof, for example, a random
+copolymer having blocking property.</p><p num="0067">From the viewpoint for obtaining a polymeric
+fluorescent substance having high fluorescent quantum
+yield, the repeating regularity is preferably lower, and
+example, a random copolymer is more preferable than an
+alternating copolymer. In order to obtain an alternating
+copolymer, it is necessary to use monomers each having two
+kind of active groups for polymerization. On the other
+hand, a random copolymer can be obtained by charging a
+plurality of monomers having one kind of active group in a
+desired ratio, and the preparation is easily conducted.
+Further, a random copolymer having a block property and a
+block copolymer composed of blocks of ununiform sizes, or a
+graft copolymer, are more preferable than a complete random
+copolymer. Polymers of branching in the main chain and of
+three or more terminals are also included. Further, a
+dendrimer grown regularly and a structure containing random
+branching are also included.</p><p num="0068">Further, as the polymeric fluorescent substance,
+those emitting fluorescence in a solid state are suitably
+used, since the material utilizes light emission from a
+thin film. </p><p num="0069">As good solvents for the polymeric fluorescent
+substance, there are exemplified chloroform, methylene
+chloride, dichloroethane, tetrahydrofuran, toluene, xylene,
+mesitylene, tetralin, decalin, n-butylbenzene and the like.
+The polymeric fluorescent substance can be usually
+dissolved in these solvents in an amount of 0.1 wt % or
+more, though the amount differs depending on the structure
+and molecular weight of the polymeric fluorescent
+substance.</p><p num="0070">The polymeric fluorescent substance has a number-average
+molecular weight of 10<sup>3</sup> to 10<sup>8</sup> in terms of
+polystyrene, and the degree of polymerization thereof also
+changes depending on repeating structures and proportion
+thereof. From the standpoint of film forming property,
+generally the total amount of repeating structures is
+preferably from 20 to 10000, more preferably from 30 to
+10000, particularly preferably from 50 to 5000.</p><p num="0071">When these polymeric fluorescent substances are used
+as a light emitting material of a polymer LED, the purity
+thereof exerts an influence on light emitting property,
+therefore, it is preferable that a monomer before
+polymerization is purified by a method such as
+distillation, sublimation purification, re-crystallization
+and the like before being polymerized and further, it is
+preferable to conduct a purification treatment such as reprecipitation 
+purification, chromatographic separation and
+the like after the synthesis.</p><p num="0072">The polymeric fluorescent substance of the present
+invention can be used not only as a light emitting
+material, but also as an organic semiconductor material,
+optical material, or as conductive material by doping.</p><p num="0073">A method of producing a polymeric fluorescent
+substance of the present invention will be described below.</p><p num="0074">As the method of producing a polymeric fluorescent
+substance of the present invention, for example, a method
+described in JP-A No. 5-202355 is mentioned, when a
+vinylene group is contained in the main chain. Namely,
+there are exemplified methods such as polymerization of a
+compound having an aldehyde group with a compound having a
+phosphonium salt group, or of a compound having an aldehyde
+group and a phosphonium salt group, according to a Wittig
+reaction, polymerization of a compound having a vinyl group
+with a compound having a halogen group, or of a compound
+having a vinyl group and a halogen group, according to a
+Heck reaction, polymerization of a compound having an
+aldehyde group with a compound having an alkylphosphonate
+group, or of a compound having an aldehyde group and an
+alkylphosphonate group, according to a Horner-Wadsworth-Emmons
+reaction, polycondensation of a compound having two
+or more halogenated methyl groups, according to a dehydrohalogenating 
+method, polycondensation of a compound
+having two or more sulfonium salt groups, according to a
+sulfonium salt-decomposing method, polymerization of a
+compound having an aldehyde group with a compound having an
+acetonitrile group, or of a compound having an aldehyde
+group and an acetonitrile group, according to a Knoevenagel
+reaction, polymerization of a compound having two or more
+aldehyde groups, according to McMurry reaction, and the
+like.</p><p num="0075">When a vinylene group is not contained in the main
+chain, for example, a method of polymerization from
+corresponding monomers by a Suzuki coupling reaction, a
+method of polymerization by a Grignard reaction, a method
+of polymerization using a Ni(0) catalyst, a method of
+polymerization using an oxidizer such as FeCl<sub>3</sub> and the
+like, a method of oxidation polymerization
+electrochemically, a method of decomposition of an
+intermediate polymer having a suitable releasing group, and
+the like are exemplified.</p><p num="0076">Of these, the polymerization method by a Wittig
+reaction, the polymerization method by a Heck reaction, the
+polymerization method by a Horner-Wadsworth-Emmons method,
+the polymerization method by a Knoevenagel reaction, the
+polymerization method by a Suzuki coupling reaction, the
+polymerization method by a Grignard reaction and the 
+polymerization method using a Ni(0) catalyst are preferable
+since structure control is easy in these methods.</p><p num="0077">Specifically, a compound used as a monomer, having a
+plurality of reactive substituents is dissolved, if
+necessary, in an organic solvent, and can be reacted at the
+melting temperature or more and the boiling point or less
+of the organic solvent using an alkali or suitable
+catalyst, for example. For example, known methods can be
+used, described in "Organic Reactions", vol. 14, pp. 270
+to 490, John Wiley &amp; Sons, Inc., 1965, "Organic
+Reactions , vol. 27, pp. 345 to 390, John Wiley &amp; Sons,
+Inc., 1982, "Organic Synthesis" , Collective Volume VI,
+pp. 407 to 411, John Wiley &amp; Sons, Inc., 1988, Chemical
+Review, vol. 95, p. 2457 (1995), Journal of Organometallic
+Chemistry, vol. 576, p. 147 (1999), Journal of Praktical
+Chemistry, vol. 336, p. 247 (1994), Makromolecular
+Chemistry Macromolecular Symposium, vol. 12, p. 229 (1987),
+and the like.</p><p num="0078">It is preferable that the organic solvent used is
+subjected to a deoxygenation treatment sufficiently and the
+reaction is progressed under an inert atmosphere, generally
+for suppressing a side reaction, though the treatment
+differs depending on compounds and reactions used.
+Further, it is preferable to conduct a dehydration
+treatment likewise (however, this is not applicable in the 
+case of a reaction in a two-phase system with water, such
+as a Suzuki coupling reaction).</p><p num="0079">For the reaction, an alkali or suitable catalyst is
+added appropriately. These may be selected according to
+the reaction used. It is preferable that the alkali or
+catalyst is soluble sufficiently in a solvent used for the
+reaction. As the method of mixing an alkali or catalyst,
+there is exemplified a method of adding a solution of an
+alkali or catalyst slowly while stirring under an inner
+atmosphere of argon and nitrogen and the like or a method
+of slowly adding the reaction solution to a solution of an
+alkali or catalyst, inversely.</p><p num="0080">More specifically, regarding the reaction conditions,
+in the cases of a Wittig reaction, Horner reaction,
+Knoevengel reaction and the like, an alkali in an amount of
+equivalent or more, preferably from 1 to 3 equivalent of
+based on the amount of functional groups of monomers is
+used and reacted. The alkali is not particularly
+restricted, and for example, metal alkolates such as
+potassium-t-butoxide, sodium-t-butoxide, sodium ethylate,
+lithium methylate and the like, hydride reagents such as
+sodium hydride and the like, amides such as sodiumamide and
+the like can be used. As the solvent, N,N-dimethylformamide,
+tetrahydrofuran, dioxane, toluene and
+the like are used. The reaction can be progressed at a 
+reaction temperature of usually from room temperature to
+about 150°C. The reaction time is, for example, from 5
+minutes to 40 hours, and time for sufficient progress of
+polymerization may be permissible, and since there is no
+necessity of leaving for a long period of time after
+completion of the reaction, the reaction time is preferably
+from 10 minutes to 24 hours. The concentration in the
+reaction may advantageously be selected appropriately
+within the range from about 0.01 wt% to the maximum
+solution concentration since when the concentration is too
+low, the reaction efficiency is poor and when too high, the
+reaction control is difficult, and the usual range is from
+0.1 wt% to 20 wt%. In the case of a Heck reaction,
+monomers are reacted in the presence of a base such as
+triethylamine and the like, using a palladium catalayst.
+The reaction is effected at a reaction temperature of from
+about 80 to 160°C for a reaction time of about 1 to 100
+hours, using a solvent having relatively high boiling point
+such as N,N-dimethylformamide, N-methylpyrrolidone and the
+like.</p><p num="0081">In the case of a Suzuki coupling reaction, palladium
+[tetrakis(triphenylphosphine)], palladium acetates and the
+like are used, for example, as a catalyst, and an inorganic
+base such as potassium carbonate, sodium carbonate, barium
+hydroxide and the like, an organic base such as 
+triethylamine and the like, and an inorganic salt such as
+cesium fluoride and the like, are added preferably in
+equivalent amount, preferably in an amount of 1 to 10
+equivalent based on monomers, and reacted. It may be also
+permissible that an inorganic salt is used as an aqueous
+solution and reacted in a two-phase system. As the
+solvent, N,N-dimethylformamide, toluene, dimethoxyethane,
+tetrahydrofuran and the like are exemplified. Depending on
+the solvent, temperatures of 50 to 160°C are preferably
+used. It may also be permissible that the temperature is
+raised near the boiling point of a solvent, to cause
+reflux. The reaction time is from about 1 to 200 hours.</p><p num="0082">In the case of a Grignard reaction, exemplified is a
+method in which a halide and metal Mg are reacted in an
+ether-based solvent such as tetrahydrofuran, diethyl ether,
+dimethoxyethane and the like to prepare a Grignard reagent
+which is mixed with a separately prepared monomer solution,
+and a nickel or palladium catalyst is added while paying
+attention to excess reaction, then, the reaction
+temperature is raised to reflux and the reaction is
+effected. The Grignard reagent is used in the equivalent
+amount, preferably in an amount of from 1 to 1.5
+equivalent, more preferably from 1 to 1.2 equivalent, based
+on monomers. Also in the case of polymerization by other
+methods than those described above, the reaction can be 
+effected by known methods.</p><p num="0083">Next, the polymer LED of the present invention will
+be described. Regarding the structure of the polymer LED
+of the present invention, a light-emitting layer is present
+between an anode and a cathode at least one of which is
+transparent or semi-transparent, and the polymeric
+fluorescent substance of the present invention is contained
+in the light-emitting layer.</p><p num="0084">As the polymer LED of the present invention, there
+are listed polymer LEDs having an electron transporting
+layer disposed between a cathode and a light emitting
+layer, polymer LEDs having a hole transporting layer
+disposed between an anode and a light emitting layer,
+polymer LEDs having an electron transporting layer disposed
+between a cathode and a light emitting layer and having a
+hole transporting layer disposed between an anode and a
+light emitting layer.</p><p num="0085">For example, the following structures a) to d) are
+specifically exemplified.
+<sl><li>a) anode/light emitting layer/cathode</li><li>b) anode/hole transporting layer/light emitting
+layer/cathode</li><li>c) anode/light emitting layer/electron transporting
+layer/ /cathode</li><li>d) anode/hole transporting layer/light emitting 
+layer/electron transporting layer/cathode
+(wherein, / indicates adjacent lamination of layers.
+Hereinafter, the same)
+Herein, the light emitting layer is a layer having
+function to emit a light, the hole transporting layer is a
+layer having function to transport a hole, and the electron
+transporting layer is a layer having function to transport
+an electron. Herein, the electron transporting layer and
+the hole transporting layer are generically called a charge
+transporting layer.The light emitting layer, hole transporting layer and
+electron transporting layer may also each independently
+used in two or more layers.Of charge transporting layers disposed adjacent to an
+electrode, that having function to improve charge injecting
+efficiency from the electrode and having effect to decrease
+driving voltage of an device are particularly called
+sometimes a charge injecting layer (hole injecting layer,
+electron injecting layer) in general.For enhancing adherence with an electrode and
+improving charge injection from an electrode, the above-described
+charge injecting layer or insulation layer having
+a thickness of 2 nm or less may also be provided adjacent
+to an electrode, and further, for enhancing adherence of
+the interface, preventing mixing and the like, a thin 
+buffer layer may also be inserted into the interface of a
+charge transporting layer and light emitting layer.The order and number of layers laminated and the
+thickness of each layer can be appropriately applied while
+considering light emitting efficiency and life of the
+device.In the present invention, as the polymer LED having a
+charge injecting layer (electron injecting layer, hole
+injecting layer) provided, there are listed a polymer LED
+having a charge injecting layer provided adjacent to a
+cathode and a polymer LED having a charge injecting layer
+provided adjacent to an anode.For example, the following structures e) to p) are
+specifically exemplified.</li><li>e) anode/charge injecting layer/light emitting
+layer/cathode</li><li>f) anode/light emitting layer/charge injecting
+layer/cathode</li><li>g) anode/charge injecting layer/light emitting
+layer/charge injecting layer/cathode</li><li>h) anode/charge injecting layer/hole transporting
+layer/light emitting layer/cathode</li><li>i) anode/hole transporting layer/light emitting
+layer/charge injecting layer/cathode</li><li>j) anode/charge injecting layer/hole transporting 
+layer/light emitting layer/charge injecting layer/cathode</li><li>k) anode/charge injecting layer/light emitting
+layer/electron transporting layer/cathode</li><li>l) anode/light emitting layer/electron transporting
+layer/charge injecting layer/cathode</li><li>m) anode/charge injecting layer/light emitting
+layer/electron transporting layer/charge injecting
+layer/cathode</li><li>n) anode/charge injecting layer/hole transporting
+layer/light emitting layer/electron transporting
+layer/cathode</li><li>o) anode/hole transporting layer/light emitting
+layer/electron transporting layer/charge injecting
+layer/cathode</li><li>p) anode/charge injecting layer/hole transporting
+layer/light emitting layer/electron transporting
+layer/charge injecting layer/cathode</li> </sl></p><p num="0086">As the specific examples of the charge injecting
+layer, there are exemplified layers containing an
+conducting polymer, layers which are disposed between an
+anode and a hole transporting layer and contain a material
+having an ionization potential between the ionization
+potential of an anode material and the ionization potential
+of a hole transporting material contained in the hole
+transporting layer, layers which are disposed between a 
+cathode and an electron transporting layer and contain a
+material having an electron affinity between the electron
+affinity of a cathode material and the electron affinity of
+an electron transporting material contained in the electron
+transporting layer, and the like.</p><p num="0087">When the above-described charge injecting layer is a
+layer containing an conducting polymer, the electric
+conductivity of the conducting polymer is preferably 10<sup>-5</sup>
+S/cm or more and 10<sup>3</sup> S/cm or less, and for decreasing the
+leak current between light emitting pixels, more preferably
+10<sup>-5</sup> S/cm or more and 10<sup>2</sup> S/cm or less, further preferably
+10<sup>-5</sup> S/cm or more and 10<sup>1</sup> S/cm or less.</p><p num="0088">Usually, to provide an electric conductivity of the
+conducting polymer of 10<sup>-5</sup> S/cm or more and 10<sup>3</sup> S/cm or
+less, a suitable amount of ions are doped into the
+conducting polymer.</p> <p num="0089">Regarding the kind of an ion doped, an anion is used
+in a hole injecting layer and a cation is used in an
+electron injecting layer. As examples of the anion, a
+polystyrene sulfonate ion, alkylbenzene sulfonate ion,
+camphor sulfonate ion and the like are exemplified, and as
+examples of the cation, a lithium ion, sodium ion,
+potassium ion, tetrabutyl ammonium ion and the like are
+exemplified.</p> <p num="0090">The thickness of the charge injecting layer is for 
+example, from 1 nm to 100 nm, preferably from 2 nm to 50
+nm.</p> <p num="0091">Materials used in the charge injecting layer may
+properly be selected in view of relation with the materials
+of electrode and adjacent layers, and there are exemplified
+conducting polymers such as polyaniline and derivatives
+thereof, polythiophene and derivatives thereof, polypyrrole
+and derivatives thereof, poly(phenylene vinylene) and
+derivatives thereof, poly(thienylene vinylene) and
+derivatives thereof, polyquinoline and derivatives thereof,
+polyquinoxaline and derivatives thereof, polymers
+containing aromatic amine structures in the main chain or
+the side chain, and the like, and metal phthalocyanine
+(copper phthalocyanine and the like), carbon and the like.</p><p num="0092">The insulation layer having a thickness of 2 nm or
+less has function to make charge injection easy. As the
+material of the above-described insulation layer, metal
+fluoride, metal oxide, organic insulation materials and the
+like are listed. As the polymer LED having an insulation
+layer having a thickness of 2 nm or less, there are listed
+polymer LEDs having an insulation layer having a thickness
+of 2 nm or less provided adjacent to a cathode, and polymer
+LEDs having an insulation layer having a thickness of 2 nm
+or less provided adjacent to an anode.</p><p num="0093">Specifically, there are listed the following 
+structures q) to ab) for example.
+<sl><li>q) anode/insulation layer having a thickness of 2 nm
+or less/light emitting layer/cathode</li><li>r) anode/light emitting layer/insulation layer having
+a thickness of 2 nm or less/cathode</li><li>s) anode/insulation layer having a thickness of 2 nm
+or less/light emitting layer/insulation layer having a
+thickness of 2 nm or less/cathode</li><li>t) anode/insulation layer having a thickness of 2 nm
+or less/hole transporting layer/light emitting
+layer/cathode</li><li>u) anode/hole transporting layer/light emitting
+layer/insulation layer having a thickness of 2 nm or
+less/cathode</li><li>v) anode/insulation layer having a thickness of 2 nm
+or less/hole transporting layer/light emitting
+layer/insulation layer having a thickness of 2 nm or
+less/cathode</li><li>w) anode/insulation layer having a thickness of 2 nm
+or less/light emitting layer/electron transporting
+layer/cathode</li><li>x) anode/light emitting layer/electron transporting
+layer/insulation layer having a thickness of 2 nm or
+less/cathode</li><li>y) anode/insulation layer having a thickness of 2 nm 
+or less/light emitting layer/electron transporting
+layer/insulation layer having a thickness of 2 nm or
+less/cathode</li><li>z) anode/insulation layer having a thickness of 2 nm
+or less/hole transporting layer/light emitting
+layer/electron transporting layer/cathode</li><li>aa) anode/hole transporting layer/light emitting
+layer/electron transporting layer/insulation layer having a
+thickness of 2 nm or less/cathode</li><li>ab) anode/insulation layer having a thickness of 2 nm
+or less/hole transporting layer/light emitting
+layer/electron transporting layer/insulation layer having a
+thickness of 2 nm or less/cathode</li></sl></p><p num="0094">In producing a polymer LED, when a film is formed
+from a solution by using such polymeric fluorescent
+substance soluble in an organic solvent, only required is
+removal of the solvent by drying after coating of this
+solution, and even in the case of mixing of a charge
+transporting material and a light emitting material, the
+same method can be applied, causing an extreme advantage in
+production. As the film forming method from a solution,
+there can be used coating methods such as a spin coating
+method, casting method, micro gravure coating method,
+gravure coating method, bar coating method, roll coating
+method, wire bar coating method, dip coating method, spray 
+coating method, screen printing method, flexo printing
+method, offset printing method, inkjet printing method and
+the like.</p><p num="0095">Regarding the thickness of the light emitting layer,
+the optimum value differs depending on material used, and
+may properly be selected so that the driving voltage and
+the light emitting efficiency become optimum values, and
+for example, it is from 1 nm to 1 µm, preferably from 2 nm
+to 500 nm, further preferably from 5 nm to 200 nm.</p><p num="0096">In the polymer LED of the present invention, light
+emitting materials other than the above-described polymeric
+fluorescent substance can also be mixed in a light emitting
+layer. Further, in the polymer LED of the present
+invention, the light emitting layer containing light
+emitting materials other than the above-described polymeric
+fluorescent substance may also be laminated with a light
+emitting layer containing the above-described polymeric
+fluorescent substance.</p><p num="0097">As the light emitting material, known materials can
+be used. In a compound having lower molecular weight,
+there can be used, for example, naphthalene derivatives,
+anthracene or derivatives thereof, perylene or derivatives
+thereof; dyes such as polymethine dyes, xanthene dyes,
+coumarine dyes, cyanine dyes; metal complexes of 8-hydroxyquinoline
+or derivatives thereof, aromatic amine, 
+tetraphenylcyclopentane or derivatives thereof, or
+tetraphenylbutadiene or derivatives thereof, and the like.</p><p num="0098">Specifically, there can be used known compounds such
+as those described in JP-A Nos. 57-51781, 59-195393 and the
+like, for example.</p><p num="0099">When the polymer LED of the present invention has a
+hole transporting layer, as the hole transporting materials
+used, there are exemplified polyvinylcarbazole or
+derivatives thereof, polysilane or derivatives thereof,
+polysiloxane derivatives having an aromatic amine in the
+side chain or the main chain, pyrazoline derivatives,
+arylamine derivatives, stilbene derivatives,
+triphenyldiamine derivatives, polyaniline or derivatives
+thereof, polythiophene or derivatives thereof, polypyrrole
+or derivatives thereof, poly(p-phenylenevinylene) or
+derivatives thereof, poly(2,5-thienylenevinylene) or
+derivatives thereof, or the like.</p><p num="0100">Specific examples of the hole transporting material
+include those described in JP-A Nos. 63-70257, 63-175860,
+2-135359, 2-135361, 2-209988, 3-37992 and 3-152184.</p><p num="0101">Among them, as the hole transporting materials used
+in the hole transporting layer, preferable are polymer hole
+transporting materials such as polyvinylcarbazole or
+derivatives thereof, polysilane or derivatives thereof,
+polysiloxane derivatives having an aromatic amine compound 
+group in the side chain or the main chain, polyaniline or
+derivatives thereof, polythiophene or derivatives thereof,
+poly(p-phenylenevinylene) or derivatives thereof, poly(2,5-thienylenevinylene)
+or derivatives thereof, or the like,
+and further preferable are polyvinylcarbazole or
+derivatives thereof, polysilane or derivatives thereof and
+polysiloxane derivatives having an aromatic amine compound
+group in the side chain or the main chain. In the case of
+a hole transporting material having lower molecular weight,
+it is preferably dispersed in a polymer binder for use.</p><p num="0102">Polyvinylcarbazole or derivatives thereof are
+obtained, for example, by cation polymerization or radical
+polymerization from a vinyl monomer.</p><p num="0103">As the polysilane or derivatives thereof, there are
+exemplified compounds described in Chem. Rev., <u style="single">89</u>, 1359
+(1989) and GB 2300196 published specification, and the
+like. For synthesis, methods described in them can be
+used, and a Kipping method can be suitably used
+particularly.</p><p num="0104">As the polysiloxane or derivatives thereof, those
+having the structure of the above-described hole
+transporting material having lower molecular weight in the
+side chain or main chain, since the siloxane skeleton
+structure has poor hole transporting property.
+Particularly, there are exemplified those having an 
+aromatic amine having hole transporting property in the
+side chain or main chain.</p><p num="0105">The method for forming a hole transporting layer is
+not restricted, and in the case of a hole transporting
+layer having lower molecular weight, a method in which the
+layer is formed from a mixed solution with a polymer binder
+is exemplified. In the case of a polymer hole transporting
+material, a method in which the layer is formed from a
+solution is exemplified.</p><p num="0106">The solvent used for the film forming from a solution
+is not particularly restricted providing it can dissolve a
+hole transporting material. As the solvent, there are
+exemplified chlorine solvents such as chloroform, methylene
+chloride, dichloroethane and the like, ether solvents such
+as tetrahydrofuran and the like, aromatic hydrocarbon
+solvents such as toluene, xylene and the like, ketone
+solvents such as acetone, methyl ethyl ketone and the like,
+and ester solvents such as ethyl acetate, butyl acetate,
+ethylcellosolve acetate and the like.</p><p num="0107">As the film forming method from a solution, there can
+be used coating methods such as a spin coating method,
+casting method, micro gravure coating method, gravure
+coating method, bar coating method, roll coating method,
+wire bar coating method, dip coating method, spray coating
+method, screen printing method, flexo printing method, 
+offset printing method, inkjet printing method and the
+like, from a solution.</p><p num="0108">The polymer binder mixed is preferably that does not
+disturb charge transport extremely, and that does not have
+strong absorption of a visible light is suitably used. As
+such polymer binder, polycarbonate, polyacrylate,
+poly(methyl acrylate), poly(methyl methacrylate),
+polystyrene, poly(vinyl chloride), polysiloxane and the
+like are exemplified.</p><p num="0109">Regarding the thickness of the hole transporting
+layer, the optimum value differs depending on material
+used, and may properly be selected so that the driving
+voltage and the light emitting efficiency become optimum
+values, and at least a thickness at which no pin hole is
+produced is necessary, and too large thickness is not
+preferable since the driving voltage of the device
+increases. Therefore, the thickness of the hole
+transporting layer is, for example, from 1 nm to 1 µm,
+preferably from 2 nm to 500 nm, further preferably from 5
+nm to 200 nm.</p><p num="0110">When the polymer LED of the present invention has an
+electron transporting layer, known compounds are used as
+the electron transporting materials, and there are
+exemplified oxadiazole derivatives, anthraquinonedimethane
+or derivatives thereof, benzoquinone or derivatives 
+thereof, naphthoquinone or derivatives thereof,
+anthraquinone or derivatives thereof,
+tetracyanoanthraquinodimethane or derivatives thereof,
+fluorenone derivatives, diphenyldicyanoethylene or
+derivatives thereof, diphenoquinone derivatives, or metal
+complexes of 8-hydroxyquinoline or derivatives thereof,
+polyquinoline and derivatives thereof, polyquinoxaline and
+derivatives thereof, polyfluorene or derivatives thereof,
+and the like.</p><p num="0111">Specifically, there are exemplified those described
+in JP-A Nos. 63-70257, 63-175860, 2-135359, 2-135361, 2-209988,
+3-37992 and 3-152184.</p><p num="0112">Among them, oxadiazole derivatives, benzoquinone or
+derivatives thereof, anthraquinone or derivatives thereof,
+or metal complexes of 8-hydroxyquinoline or derivatives
+thereof, polyquinoline and derivatives thereof,
+polyquinoxaline and derivatives thereof, polyfluorene or
+derivatives thereof are preferable, and 2-(4-biphenyl)-5-(4-t-butylphenyl)-1,3,4-oxadiazole,
+benzoquinone,
+anthraquinone, tris(8-quinolinol)aluminum and polyquinoline
+are further preferable.</p><p num="0113">The method for forming the electron transporting
+layer is not particularly restricted, and in the case of an
+electron transporting material having lower molecular
+weight, a vapor deposition method from a powder, or a 
+method of film-forming from a solution or melted state is
+exemplified, and in the case of a polymer electron
+transporting material, a method of film-forming from a
+solution or melted state is exemplified, respectively.</p><p num="0114">The solvent used in the film-forming from a solution
+is not particularly restricted provided it can dissolve
+electron transporting materials and/or polymer binders. As
+the solvent, there are exemplified chlorine solvents such
+as chloroform, methylene chloride, dichloroethane and the
+like, ether solvents such as tetrahydrofuran and the like,
+aromatic hydrocarbon solvents such as toluene, xylene and
+the like, ketone solvents such as acetone, methyl ethyl
+ketone and the like, and ester solvents such as ethyl
+acetate, butyl acetate, ethylcellosolve acetate and the
+like.</p><p num="0115">As the film-forming method from a solution or melted
+state, there can be used coating methods such as a spin
+coating method, casting method, micro gravure coating
+method, gravure coating method, bar coating method, roll
+coating method, wire bar coating method, dip coating
+method, spray coating method, screen printing method, flexo
+printing method, offset printing method, inkjet printing
+method and the like.</p><p num="0116">The polymer binder to be mixed is preferably that
+which does not extremely disturb a charge transport 
+property, and that does not have strong absorption of a
+visible light is suitably used. As such polymer binder,
+poly(N-vinylcarbazole), polyaniline or derivatives thereof,
+polythiophene or derivatives thereof, poly(p-phenylene
+vinylene) or derivatives thereof, poly(2,5-thienylene
+vinylene) or derivatives thereof, polycarbonate,
+polyacrylate, poly(methyl acrylate), poly(methyl
+methacrylate), polystyrene, poly(vinyl chloride),
+polysiloxane and the like are exemplified.</p><p num="0117">Regarding the thickness of the electron transporting
+layer, the optimum value differs depending on material
+used, and may properly be selected so that the driving
+voltage and the light emitting efficiency become optimum
+values, and at least a thickness at which no pin hole is
+produced is necessary, and too large thickness is not
+preferable since the driving voltage of the device
+increases. Therefore, the thickness of the electron
+transporting layer is, for example, from 1 nm to 1 µm,
+preferably from 2 nm to 500 nm, further preferably from 5
+nm to 200 nm.</p><p num="0118">The substrate forming the polymer LED of the present
+invention may preferably be that does not change in forming
+an electrode and layers of organic materials, and there are
+exemplified glass, plastics, polymer film, silicon
+substrates and the like. In the case of a opaque 
+substrate, it is preferable that the opposite electrode is
+transparent or semitransparent.</p><p num="0119">In the present invention, it is preferable that an
+anode is transparent or semitransparent, and as the
+material of this anode, electron conductive metal oxide
+films, semitransparent metal thin films and the like are
+used. Specifically, there are used indium oxide, zinc
+oxide, tin oxide, and films (NESA and the like) fabricated
+by using an electron conductive glass composed of indium ·
+tin · oxide (ITO) , indium · zinc · oxide and the like,which are
+metal oxide complexes, and gold, platinum, silver, copper
+and the like are used, and among them, ITO, indium · zinc ·
+oxide, tin oxide are preferable. As the fabricating
+method, a vacuum vapor deposition method, sputtering
+method, ion plating method, plating method and the like are
+used. As the anode, there may also be used organic
+transparent conducting films such as polyaniline or
+derivatives thereof, polythiophene or derivatives thereof
+and the like.</p><p num="0120">The thickness of the anode can be appropriately
+selected while considering transmission of a light and
+electric conductivity, and for example, from 10 nm to 10 µ
+m, preferably from 20 nm to 1 µm, further preferably from
+50 nm to 500 nm.</p><p num="0121">Further, for easy charge injection, there may be 
+provided on the anode a layer comprising a phthalocyanine
+derivative conducting polymers, carbon and the like, or a
+layer having an average film thickness of 2 nm or less
+comprising a metal oxide, metal fluoride, organic
+insulating material and the like.</p><p num="0122">As the material of a cathode used in the polymer LED
+of the present invention, that having lower work function
+is preferable. For example, there are used metals such as
+lithium, sodium, potassium, rubidium, cesium, beryllium,
+magnesium, calcium, strontium, barium, aluminum, scandium,
+vanadium, zinc, yttrium, indium, cerium, samarium,
+europium, terbium, ytterbium and the like, or alloys
+comprising two of more of them, or alloys comprising one or
+more of them with one or more of gold, silver, platinum,
+copper, manganese, titanium, cobalt, nickel, tungsten and
+tin, graphite or graphite intercalation compounds and the
+like. Examples of alloys include a magnesium-silver alloy,
+magnesium-indium alloy, magnesium-aluminum alloy, indium-silver
+alloy, lithium-aluminum alloy, lithium-magnesium
+alloy, lithium-indium alloy, calcium-aluminum alloy and the
+like. The cathode may be formed into a laminated structure
+of two or more layers.</p><p num="0123">The thickness of the cathode can be appropriately
+selected while considering transmission of a light and
+electric conductivity, and for example, from 10 nm to 10 µ 
+m, preferably from 20 nm to 1 µm, further preferably from
+50 nm to 500 nm.</p><p num="0124">As the method for fabricating a cathode, there are
+used a vacuum vapor deposition method, sputtering method,
+lamination method in which a metal thin film is adhered
+under heat and pressure, and the like. Further, there may
+also be provided, between a cathode and an organic layer, a
+layer comprising an conducting polymer, or a layer having
+an average film thickness of 2 nm or less comprising a
+metal oxide, metal fluoride, organic insulation material
+and the like, and after fabrication of the cathode, a
+protective layer may also be provided which protects the
+polymer LED. For stable use of the polymer LED for a long
+period of time, it is preferable to provide a protective
+layer and/or protective cover for protection of the device
+in order to prevent it from outside damage.</p><p num="0125">As the protective layer, there can be used a polymer
+compound, metal oxide, metal fluoride, metal borate and the
+like. As the protective cover, there can be used a glass
+plate, a plastic plate the surface of which has been
+subjected to lower-water-permeation treatment, and the
+like, and there is suitably used a method in which the
+cover is pasted with an device substrate by a thermosetting
+resin or light-curing resin for sealing. If space is
+maintained using a spacer, it is easy to prevent an device 
+from being injured. If an inner gas such as nitrogen and
+argon is sealed in this space, it is possible to prevent
+oxidation of a cathode, and further, by placing a desiccant
+such as barium oxide and the like in the above-described
+space, it is easy to suppress the damage of an device by
+moisture adhered in the production process. Among them,
+any one means or more are preferably adopted.</p><p num="0126">For obtaining light emission in plane form using the
+polymer LED of the present invention, an anode and a
+cathode in the plane form may properly be placed so that
+they are laminated each other. Further, for obtaining
+light emission in pattern form, there are a method in which
+a mask with a window in pattern form is placed on the
+above-described plane light emitting device, a method in
+which an organic layer in non-light emission part is formed
+to obtain extremely large thickness providing substantial
+non-light emission, and a method in which any one of an
+anode or a cathode, or both of them are formed in the
+pattern. By forming a pattern by any of these methods and
+by placing some electrodes so that independent on/off is
+possible, there is obtained a display device of segment
+type which can display digits, letters, simple marks and
+the like. Further, for forming a dot matrix device, it may
+be advantageous that anodes and cathodes are made in the
+form of stripes and placed so that they cross at right 
+angles. By a method in which a plurality of kinds of
+polymeric fluorescent substances emitting different colors
+of lights are placed separately or a method in which a
+color filter or luminescence converting filter is used,
+area color displays and multi color displays are obtained.
+A dot matrix display can be driven by passive driving, or
+by active driving combined with TFT and the like. These
+display devices can be used as a display of a computer,
+television, portable terminal, portable telephone, car
+navigation, view finder of a video camera, and the like.</p><p num="0127">Further, the above-described light emitting device in
+plane form is a thin self-light-emitting one, and can be
+suitably used as a flat light source for back-light of a
+liquid crystal display, or as a flat light source for
+illumination. Further, if a flexible plate is used, it can
+also be used as a curved light source or a display.</p><heading>EXAMPLES</heading><p num="0128">The following examples further illustrate the present
+invention in detail but do not limit the scope thereof.</p><p num="0129">Here, regarding the weight-average molecular weight
+and number-average molecular weight, the polystyrene
+reduced average molecular weight was obtained by gel
+permeation chromatography (GPC) using chloroform as a
+solvent.</p><heading>Example 1</heading><p num="0130">9,9-dioctyl-2,7-dibromofluorene 0.77g, 2,5-bis{2'-{4''-(N,N-diphenylamino)phenyl}ethenyl}-1,4-dibromobenzene
+0.05, 2,2'-dipyridine 0.026g, anhydrous nickel chloride
+0.0217g, triphenylphosphine 0.5g and zinc dust 0.8g were
+charged into a reaction vessel, then, the atmosphere in the
+reaction system was purged with argon gas. To this, 8.5ml
+of N,N'-dimethylformamide (DMF) degassed beforehand by
+argon gas bubbling was added.</p><p num="0131">Then, the mixed solution was reacted at 80°C for 25
+hours. The reaction was performed in argon gas atmosphere.
+After the reaction, the solution was cooled and poured into
+methanol. Next, resulting precipitates were filtrated and
+collected. The precipitates were dried, then dissolved in
+chloroform. The solution was filtrated to remove insoluble
+materials, this solution was poured into methanol and
+resulting precipitates were collected. The precipitates
+were dried under reduced pressure to obtain a polymer
+0.11g. This polymer is referred to as polymeric fluorescent
+substance 1. The polystyrene reduced number average
+molecular weight of polymeric fluorescent substance 1 was
+5x10<sup>3</sup>.</p><p num="0132">From charging ratio of monomers, the ratio of the
+repeating units of formula (7) and formula (8) in polymeric
+fluorescent substance 1 is 95:5, and polymeric fluorescent
+substance 1 is a random copolymer. <img id="img-00570001" orientation="unknown" wi="108" img-format="tif" img-content="cf" file="00570001.tif" inline="no" he="28"/><img id="img-00570002" orientation="unknown" wi="108" img-format="tif" img-content="cf" file="00570002.tif" inline="no" he="87"/></p><heading>Example 2</heading><p num="0133">9,9-dioctyl-2,7-dibromofluorene 0.548g, 2-{4'-(N,N-diphenylamino)}phenyl-1,4-dichlorobenzene
+0.39g, 2,2'-dipyridine
+0.624g, 1,5-cyclooctadiene 0.866g were charged
+into a reaction vessel, then, the atmosphere in the
+reaction system was purged with argon gas. To this, 20ml of
+N,N'-dimethylformamide (DMF) degassed beforehand by argon
+gas bubbling was added.</p><p num="0134">Then, bis(1,5-cyclooctadiene)nickel (0) 1.10g was
+added to the mixed solution, and it was reacted at 70°C for
+20 hours. The reaction was performed in argon gas
+atmosphere. After the reaction, the solution was cooled and 
+poured into mixed solvent of methanol 25ml/ion-exchanged
+water 50ml containing 10ml of 25%aqueous ammonia. Next,
+resulting precipitates were filtrated and collected.</p><p num="0135">The precipitates were dried, then dissolved in
+chloroform. The solution was filtrated to remove insoluble
+materials, then the solvent was removed under reduced
+pressure to collect resulting precipitates. The
+precipitates were washed with acetone and dried under
+reduced pressure to obtain a polymer 0.15g. This polymer is
+referred to as polymeric fluorescent substance 2. The
+polystyrene reduced number average molecular weight of
+polymeric fluorescent substance 2 was 1.2x10<sup>4</sup>.</p><p num="0136">From charging ratio of monomers, the ratio of the
+repeating units of formula (9) and formula (10) in
+polymeric fluorescent substance 2 is 50:50, and polymeric
+fluorescent substance 2 is a random copolymer.
+<img id="img-00580001" orientation="unknown" wi="98" img-format="tif" img-content="cf" file="00580001.tif" inline="no" he="26"/><img id="img-00580002" orientation="unknown" wi="98" img-format="tif" img-content="cf" file="00580002.tif" inline="no" he="50"/></p><heading>Example 3</heading><p num="0137">9,9-dioctyl-2,7-dibromofluorene 0.79g, 2-{2'-{4"-(N,N-diphenylamino)}phenyl}ethenyl}-1,4-dibromobenzene
+0.081g, 2,2'-dipyridine 0.558g, 1,5-cyclooctadiene 0.432g
+were charged into a reaction vessel, then, the atmosphere
+in the reaction system was purged with argon gas. To this,
+20ml of N,N'-dimethylformamide (DMF) degassed beforehand by
+argon gas bubbling was added.</p><p num="0138">Then, bis(1,5-cyclooctadiene)nickel (0) 0.96g was
+added to the mixed solution, and it was reacted at 70°C for
+16 hours. The reaction was performed in argon gas
+atmosphere. After the reaction, the solution was cooled and
+poured into mixed solvent of methanol 25ml/ion-exchanged
+water 50ml containing 10ml of 25%aqueous ammonia. Next,
+resulting precipitates were filtrated and collected.</p><p num="0139">The precipitates were dried, then dissolved in
+chloroform. The solution was filtrated to remove insoluble
+materials, then the solvent was removed under reduced
+pressure to collect resulting precipitates. The
+precipitates were washed with acetone and dried under
+reduced pressure to obtain a polymer 0.5g. This polymer is
+referred to as polymeric fluorescent substance 3. The
+polystyrene reduced number average molecular weight of
+polymeric fluorescent substance 3 was 7.7x10<sup>3</sup>.</p><p num="0140">From charging ratio of monomers, the ratio of the 
+repeating units of formula (11) and formula (12) in
+polymeric fluorescent substance 3 is 90:10, and polymeric
+fluorescent substance 3 is a random copolymer.
+<img id="img-00600001" orientation="unknown" wi="84" img-format="tif" img-content="cf" file="00600001.tif" inline="no" he="24"/><img id="img-00600002" orientation="unknown" wi="84" img-format="tif" img-content="cf" file="00600002.tif" inline="no" he="55"/></p><heading>Example 4</heading><p num="0141">9,9-dioctylfluorene-2,7-bis(ethylene boronate)
+0.305g(0.575mmols), 2-{2'-{4''-(N,N-diphenylamino)phenyl}ethenyl}-1,4-dibromobenzene
+0.309g(0.
+547mmols) and aliquat336 (230mg, 0.57mmols) were dissolved
+in toluene (10ml), and 10ml of aqueous solution of
+potassium carbonate (240mg, 1.7mmols) was added to this.
+Further, tetrakis(triphenylphosphine)palladium (1.3mg,
+0.0011mmols) was added and refluxed for 10 hours with
+heating. The organic layer was added to methanol dropwise,
+and deposited precipitates were filtrated. The obtained
+precipitates were dissolved in toluene, and added to 
+methanol dropwise. The deposited precipitates were
+filtrated to obtain a polymer 0.25g. This polymer is
+referred to as polymeric fluorescent substance 4. The
+polystyrene reduced number average molecular weight of
+polymeric fluorescent substance 4 is 1.8x10<sup>4</sup>.</p><p num="0142">From charging ratio of monomers, the ratio of the
+repeating units of formula (13) and formula (14) in
+polymeric fluorescent substance 4 is 50:50, and polymeric
+fluorescent substance 4 is an alternating copolymer.
+<img id="img-00610001" orientation="unknown" wi="76" img-format="tif" img-content="cf" file="00610001.tif" inline="no" he="23"/><img id="img-00610002" orientation="unknown" wi="76" img-format="tif" img-content="cf" file="00610002.tif" inline="no" he="55"/></p><heading>Example 5</heading><p num="0143">9,9-dioctylfluorene-2,7-bis(ethylene boronate)
+0.309g(0.582mmols), 9,9-dioctyl-2,7-dibromofluorene
+0.274g(0.499mmols), 2-{2'-{4''-(N,N-diphenylamino)
+phenyl}ethenyl}-1,4-dibromobenzene 0.028g(0. 0554mmols) and
+aliquat336 (230mg, 0.57mmols) were dissolved in toluene 
+(10ml), and 10ml of aqueous solution of potassium
+carbonate (240mg, 1.7mmols) was added to this. Further,
+tetrakis(triphenylphosphine)palladium (1.3mg, 0.0011mmols)
+was added and refluxed for 10 hours with heating. The
+organic layer was added to methanol dropwise, and deposited
+precipitates were filtrated. The obtained precipitates were
+dissolved in toluene, and added to methanol dropwise. The
+deposited precipitates were filtrated to obtain a polymer
+0.34g. This polymer is referred to as polymeric fluorescent
+substance 5. The polystyrene reduced number average
+molecular weight of polymeric fluorescent substance 5 is
+4.0x10<sup>4</sup>.</p><p num="0144">From charging ratio of monomers, the ratio of the
+repeating units of formula (15) and formula (16) in
+polymeric fluorescent substance 5 is 95:5, and polymeric
+fluorescent substance 5 is a random copolymer consisting of
+the repeating units of formula (15) and formula (16). Here,
+the repeating unit of formula (15) inevitably exists next
+to the repeating unit of formula (16).
+<img id="img-00620001" orientation="unknown" wi="72" img-format="tif" img-content="cf" file="00620001.tif" inline="no" he="24"/><img id="img-00630001" orientation="unknown" wi="91" img-format="tif" img-content="cf" file="00630001.tif" inline="no" he="54"/></p><heading>Example 6</heading><p num="0145">9,9-dioctylfluorene-2,7-bis(ethylene boronate)
+0.305g(0.576mmols), 9,9-dioctyl-2,7-dibromofluorene
+0.271g(0.494mmols), 2,5-bis(3-(N-ethylcarbazolyl))-1,4-dibromobenzene
+0.037g(0. 055mmols) and aliquat336 (230mg,
+0.57mmols) were dissolved in toluene (10ml), and 10ml of
+aqueous solution of potassium carbonate (240mg, 1.7mmols)
+was added to this. Further,
+tetrakis(triphenylphosphine)palladium (1.3mg, 0.0011mmols)
+was added and refluxed for 10 hours with heating. The
+organic layer was added to methanol dropwise, and deposited
+precipitates were filtrated. The obtained precipitates were
+dissolved in toluene, and added to methanol dropwise. The
+deposited precipitates were filtrated to obtain a polymer
+0.32g. This polymer is referred to as polymeric fluorescent
+substance 6. The polystyrene reduced number average
+molecular weight of polymeric fluorescent substance 6 is
+3.1x10<sup>4</sup>. </p><p num="0146">From charging ratio of monomers, the ratio of the
+repeating units of formula (17) and formula (18) in
+polymeric fluorescent substance 6 is 95:5, and polymeric
+fluorescent substance 6 is a random copolymer consisting of
+the repeating units of formula (17) and formula (18). Here,
+the repeating unit of formula (17) inevitably exists next
+to the repeating unit of formula (18).
+<img id="img-00640001" orientation="unknown" wi="109" img-format="tif" img-content="cf" file="00640001.tif" inline="no" he="25"/><img id="img-00640002" orientation="unknown" wi="109" img-format="tif" img-content="cf" file="00640002.tif" inline="no" he="78"/></p><heading>Example 7</heading><p num="0147">9,9-dioctylfluorene-2,7-bis(ethylene boronate)
+0.305g(0.576mmols), 2,5-bis{2'-{4''-(N,N-diphenylamino)
+phenyl}ethenyl}-1,4-dibromobenzene 0.424g(0. 548mmols) and
+aliquat336 (230mg, 0.57mmols) were dissolved in toluene 
+(10ml), and 10ml of aqueous solution of potassium
+carbonate (240mg, 1.7mmols) was added to this. Further,
+tetrakis(triphenylphosphine)palladium (1.3mg, 0.0011mmols)
+was added and refluxed for 10 hours with heating. The
+organic layer was added to methanol dropwise, and deposited
+precipitates were filtrated. The obtained precipitates were
+dissolved in toluene, and added to methanol dropwise. The
+deposited precipitates were filtrated to obtain a polymer
+0.14g. This polymer is referred to as polymeric fluorescent
+substance 7. The polystyrene reduced number average
+molecular weight of polymeric fluorescent substance 7 is
+8.8x10<sup>4</sup>.</p><p num="0148">From charging ratio of monomers, the ratio of the
+repeating units of formula (19) and formula (20) in
+polymeric fluorescent substance 7 is 50:50, and polymeric
+fluorescent substance 7 is an alternating copolymer.
+<img id="img-00650001" orientation="unknown" wi="69" img-format="tif" img-content="cf" file="00650001.tif" inline="no" he="26"/><img id="img-00660001" orientation="unknown" wi="109" img-format="tif" img-content="cf" file="00660001.tif" inline="no" he="90"/></p><heading>Comparative example 1</heading><p num="0149">9,9-dioctylfluorene-2,7-bis(ethylene boronate)
+0.305g(0.574mmols), 9,9-dioctyl-2,7-dibromofluorene
+0.300g(0.547mmols) and aliquat336 (230mg, 0.57mmols) were
+dissolved in toluene (10ml), and 10ml of aqueous solution
+of potassium carbonate (240mg, 1.7mmols) was added to this.
+Further, tetrakis(triphenylphosphine)palladium (1.3mg,
+0.0011mmols) was added and refluxed for 10 hours with
+heating. The organic layer was added to methanol dropwise,
+and deposited precipitates were filtrated. The obtained
+precipitates were dissolved in toluene, and added to
+methanol dropwise. The deposited precipitates were
+filtrated to obtain a polymer 0.38g. This polymer is
+referred to as polymeric fluorescent substance 8. The 
+polystyrene reduced number average molecular weight of
+polymeric fluorescent substance 8 was 6.9x10<sup>4</sup>. Polymeric
+fluorescent substance 8 is a polymer consisting of the
+repeating unit of formula (21).
+<img id="img-00670001" orientation="unknown" wi="74" img-format="tif" img-content="cf" file="00670001.tif" inline="no" he="27"/></p><heading>Comparative example 2</heading><p num="0150">9,9-dioctyl-2,7-dibromofluorene 0.548g, 2-{(N-phenyl)-N-(3-dimetylphenyl)}amino-1,4-dichlorobenzene
+0.328g, 2,2'-dipyridine 0.624g, 1,5-cyclooctadiene 0.866g
+were charged into a reaction vessel, then, the atmosphere
+in the reaction system was purged with argon gas. To this,
+20ml of N,N'-dimethylformamide (DMF) degassed beforehand by
+argon gas bubbling was added.</p><p num="0151">Then, bis(1,5-cyclooctadiene)nickel (0) 1.108 was
+added to the mixed solution, and it was reacted at 70°C for
+20 hours. The reaction was performed in argon gas
+atmosphere. After the reaction, the solution was cooled and
+poured into mixed solvent of methanol 25ml/ion-exchanged
+water 50ml containing 10ml of 25%aqueous ammonia. Next,
+resulting precipitates were filtrated and collected.</p><p num="0152">The precipitates were dried, then dissolved in 
+chloroform. The solution was filtrated to remove insoluble
+materials, then the solvent was removed under reduced
+pressure to collect resulting precipitates. The
+precipitates were washed with acetone and dried under
+reduced pressure to obtain a polymer 0.10g. This polymer is
+referred to as polymeric fluorescent substance 9. The
+polystyrene reduced number average molecular weight of
+polymeric fluorescent substance 9 was 6.8x10<sup>3</sup>.</p><p num="0153">From charging ratio of monomers, the ratio of the
+repeating units of formula (22) and formula (23) in
+polymeric fluorescent substance 9 is 50:50, and polymeric
+fluorescent substance 9 is a random copolymer.
+<img id="img-00680001" orientation="unknown" wi="75" img-format="tif" img-content="cf" file="00680001.tif" inline="no" he="27"/><img id="img-00680002" orientation="unknown" wi="75" img-format="tif" img-content="cf" file="00680002.tif" inline="no" he="36"/></p><heading>Comparative example 3</heading><p num="0154">9,9-dioctylfluorene-2,7-bis(ethylene boronate)
+0.305g(0.575mmols), N,N-di(4-bromophenyl)-N-phenylamine
+0.221g(0. 548mmols) and aliquat336 (220mg, 0.55mmols) were
+dissolved in toluene (10ml), and 10ml of aqueous solution 
+of potassium carbonate (238mg, 1.7mmols) was added to
+this. Further, tetrakis(triphenylphosphine)palladium
+(1.3mg, 0.0011mmols) was added and refluxed for 10 hours
+with heating. The organic layer was added to methanol
+dropwise, and deposited precipitates were filtrated. The
+obtained precipitates were dissolved in toluene, and added
+to methanol dropwise. The deposited precipitates were
+filtrated to obtain a polymer 0.21g. This polymer is
+referred to as polymeric fluorescent substance 10. The
+polystyrene reduced number average molecular weight of
+polymeric fluorescent substance 10 is 3.7x10<sup>4</sup>.</p><p num="0155">From charging ratio of monomers, the ratio of the
+repeating units of formula (24) and formula (25) in
+polymeric fluorescent substance 10 is 50:50, and polymeric
+fluorescent substance 10 is an alternating copolymer.
+<img id="img-00690001" orientation="unknown" wi="73" img-format="tif" img-content="cf" file="00690001.tif" inline="no" he="23"/><img id="img-00690002" orientation="unknown" wi="73" img-format="tif" img-content="cf" file="00690002.tif" inline="no" he="29"/></p><heading>Example 10</heading><p num="0156">Polymeric fluorescent substances 1-10 were soluble in
+a solvent, such as toluene and chloroform.</p><heading>&lt;Evaluation of fluorescent property&gt;</heading><p num="0157">A 0.4 wt% solution of polymeric fluorescent substance
+1 in chloroform was spin-coated on a quarts plate to form a
+thin film of the polymeric fluorescent substance 1. The
+ultraviolet visible absorption spectrum and the fluorescent
+spectrum of this thin film were measured by using an
+ultraviolet visible absorption spectrophotometer (UV3500
+manufactured by Hitachi Ltd.) and a fluorescent
+spectrophotometer (850 manufactured by Hitachi Ltd.),
+respectively. For calculation of fluorescent intensity,
+fluorescent spectrum when excited at 350 nm was used. The
+relative value of fluorescent intensity was calculated by
+dividing the area of fluorescent spectrum plotted against
+wave number on the abscissa by absorption at 350 nm.</p><p num="0158">As the same manner with the above, fluorescent
+spectra of polymeric fluorescence substances 2 to 10 in the
+thin film state were obtained.</p><p num="0159">The polymeric fluorescent substances 1 to 10 had
+fluorescent peak wavelength as shown Table 1. Each of
+polymeric fluorescent substances 1 to 8 and 10 had a strong
+fluorescence in visible region in the thin film state, but
+polymeric fluorescent substance 9 had a very weak
+fluorescence. <tables><table><tgroup cols="4"><tbody><row><entry nameend="4" namest="1">Fluorescent characteristics of Polymeric fluorescent substance</entry></row><row><entry align="center"/><entry align="center">Polymeric fluorescent substance</entry><entry align="center">Fluorescent peak wavelength (nm)</entry><entry align="center">Fluorescent strength (arbitrary unit)</entry></row><row><entry align="center">Example 1</entry><entry align="center">Polymeric fluorescent substance 1</entry><entry align="center">484</entry><entry align="center">5.28</entry></row><row><entry align="center">Example 2</entry><entry align="center">Polymeric fluorescent substance 2</entry><entry align="center">422</entry><entry align="center">0.54</entry></row><row><entry align="center">Example 3</entry><entry align="center">Polymeric fluorescent substance 3</entry><entry align="center">452</entry><entry align="center">0.92</entry></row><row><entry align="center">Example 4</entry><entry align="center">Polymeric fluorescent substance 4</entry><entry align="center">454</entry><entry align="center">1.26</entry></row><row><entry align="center">Example 5</entry><entry align="center">Polymeric fluorescent substance 5</entry><entry align="center">428</entry><entry align="center">3.91</entry></row><row><entry align="center">Example 6</entry><entry align="center">Polymeric fluorescent substance 6</entry><entry align="center">480</entry><entry align="center">2.84</entry></row><row><entry align="center">Example 7</entry><entry align="center">Polymeric fluorescent substance 7</entry><entry align="center">486</entry><entry align="center">0.56</entry></row><row><entry align="center">Comparative Example 1</entry><entry align="center">Polymeric fluorescent substance 8</entry><entry align="center">428</entry><entry align="center">6.30</entry></row><row><entry align="center">Comparative Example 2</entry><entry align="center">Polymeric fluorescent substance 9</entry><entry align="center">422</entry><entry align="center">0.08</entry></row><row><entry align="center">Comparative Example 3</entry><entry align="center">Polymeric fluorescent substance 10</entry><entry align="center">436</entry><entry align="center">2.42</entry></row></tbody></tgroup></table></tables></p><heading>Example 11</heading><heading>&lt;Production and evaluation of the device&gt;</heading><p num="0160">On a glass substrate on which an ITO film had been 
+made at a thickness of 150 nm according to a sputtering
+method, a film having a thickness of 50 nm was formed using
+a solution (Baytron, manufactured by Bayer) of
+poly(ethylenedioxythiophene)/polystyrenesulfonic acid by
+spin coating, and the film was dried at 120°C for 10
+minutes on a hot plate. Next, polymeric fluorescent
+substance 1 were spin-coated using 1.5wt% toluene
+solution, to form a film having a thickness of about 70 nm.
+Further, this film was dried at 80°C for 1 hour under
+reduced pressure, then, lithium fluoride was vapor-deposited
+at 0.4 nm as a cathode buffer layer, calcium was
+vapor-deposited at 25 nm and aluminum was vapor-deposited
+at 40 nm as a cathode, to produce a polymer LED. In any
+vapor deposition, the degree of vacuum was 1 to 8×10<sup>-6</sup>
+Torr. Voltage was applied on the resulted device, to give
+EL light emission from Polymeric fluorescent substance 1.
+The intensity of EL light emission was approximately in
+proportion to the current density.</p><p num="0161">In the same manner, devices using polymeric
+fluorescent substances 6 and 8 were manufactured. By
+applying voltage on the resulted devices, EL light
+emissions from the polymeric fluorescent substances 6 and 8
+were obtained, respectively. Intensity of EL light
+emissions was almost proportional to the current density.</p><p num="0162">The characteristics of the resulted device are shown 
+in Table 2. Compared with polymeric fluorescent substance 8
+of Comparative Example 1, both of polymeric fluorescent
+substance 1 of Example 1 and polymeric fluorescent
+substance 6 of Example 6 had higher light-emitting
+efficiency and maximum luminance, and also had a starting
+voltage of light emission of equivalent or lower value.</p><p num="0163">Although polymeric fluorescent substance 8 of
+Comparative Example 1 and polymeric fluorescent substance
+10 of Comparative Example 3 had strong fluorescence (Table
+1), when used for a device, the light emitting efficiency
+was low and the luminance was also low.
+<tables><table><tgroup cols="4"><tbody><row><entry nameend="4" namest="1">Characteristics of Device using polymeric fluorescent substance</entry></row><row><entry align="center"/><entry align="center">Light emitting efficiency (cd/A)</entry><entry align="center">Starting voltage of light emission (V)</entry><entry align="center">Maximum luminance (cd/m<sup>2</sup>)</entry></row><row><entry align="center">polymeric fluorescent substance 1</entry><entry align="center">0.89</entry><entry align="center">3.5</entry><entry align="right">3517</entry></row><row><entry align="center">polymeric fluorescent substance 7</entry><entry align="center">0.48</entry><entry align="center">4.6</entry><entry align="right">4426</entry></row><row><entry align="center">polymeric fluorescent substance 8</entry><entry align="center">0.09</entry><entry align="center">4.6</entry><entry align="right">749</entry></row><row><entry align="center">polymeric fluorescent substance 10</entry><entry align="center">0.08</entry><entry align="center">6.0</entry><entry align="right">1041</entry></row></tbody></tgroup></table></tables></p><heading>Example 12</heading><p num="0164">2,5-(2,7-dimetyl-octyloxy)-1,4-dibromobenzene 0.41g,
+2-{4'-(N,N-diphenylamino)}phenyl-1,4-dichlorobenzene 0.29g,
+2,2'-dipyridine 0.68g were charged into a reaction vessel,
+then, the atmosphere in the reaction system was purged with
+argon gas. To this, 50ml of tetrahydrofuran(dehydrated)
+degassed beforehand by argon gas bubbling was added.</p><p num="0165">Then, bis(1,5-cyclooctadiene)nickel (0) 1.2g was
+added to the mixed solution, and it was reacted at 60°C for
+7 hours. The reaction was performed in argon gas
+atmosphere. After the reaction, the solution was cooled and
+poured into mixed solvent of methanol 100ml/ion-exchanged
+water 100ml. Next, resulting precipitates were filtrated
+and collected.</p><p num="0166">The precipitates were dried, then dissolved in
+toluene. The solution was filtrated to remove insoluble
+materials, purified by silica gel charged column, then the
+solvent was removed under reduced pressure to collect
+resulting precipitates. The precipitates were washed with
+ethanol and dried under reduced pressure to obtain a
+polymer 0.05g. This polymer is referred to as polymeric
+fluorescent substance 11. The polystyrene reduced number
+average molecular weight of polymeric fluorescent substance
+11 was 2.1x10<sup>4</sup>.</p><p num="0167">From charging ratio of monomers, the ratio of the 
+repeating units of formula (26) and formula (27) in
+polymeric fluorescent substance 11 is 50:50, and polymeric
+fluorescent substance 11 is a random copolymer.
+<img id="img-00750001" orientation="unknown" wi="128" img-format="tif" img-content="cf" file="00750001.tif" inline="no" he="41"/><img id="img-00750002" orientation="unknown" wi="128" img-format="tif" img-content="cf" file="00750002.tif" inline="no" he="50"/></p><heading>Comparative example 4</heading><p num="0168">2,5-(2,7-dimetyl-octyloxy)-1,4-dibromobenzene 0.41g,
+2-{N-(3-methylphenyl)-N-phenylamino}-1,4-dichlorobenzene
+0.24g, 2,2'-dipyridine 0.68g were charged into a reaction
+vessel, then, the atmosphere in the reaction system was
+purged with argon gas. To this, 50ml of
+tetrahydrofuran(dehydrated) degassed beforehand by argon
+gas bubbling was added.</p><p num="0169">Then, bis(1,5-cyclooctadiene)nickel (0) 1.2g was
+added to the mixed solution, and it was reacted at 60°C for
+7 hours. The reaction was performed in argon gas 
+atmosphere. After the reaction, the solution was cooled and
+poured into mixed solvent of methanol 100ml/ion-exchanged
+water 100ml. Next, resulting precipitates were filtrated
+and collected.</p><p num="0170">The precipitates were dried, then dissolved in
+toluene. The solution was filtrated to remove insoluble
+materials, purified by silica gel charged column, then the
+solvent was removed under reduced pressure to collect
+resulting precipitates. The precipitates were washed with
+ethanol and dried under reduced pressure to obtain a
+polymer 0.05g. This polymer is referred to as polymeric
+fluorescent substance 12. The polystyrene reduced number
+average molecular weight of polymeric fluorescent substance
+12 was 6.6x10<sup>3</sup>.</p><p num="0171">From charging ratio of monomers, the ratio of the
+repeating units of formula (28) and formula (29) in
+polymeric fluorescent substance 12 is 50:50, and polymeric
+fluorescent substance 12 is a random copolymer.
+<img id="img-00760001" orientation="unknown" wi="109" img-format="tif" img-content="cf" file="00760001.tif" inline="no" he="40"/><img id="img-00770001" orientation="unknown" wi="90" img-format="tif" img-content="cf" file="00770001.tif" inline="no" he="38"/></p><heading>Example 13</heading><p num="0172">As the same manner with example 10, fluorescent
+spectra of polymeric fluorescence substances 11 and 12 in
+the thin film state were obtained.</p><p num="0173">The polymeric fluorescent substances 11 had a strong
+fluorescence in visible region in the thin film state, but
+polymeric fluorescent substance 12 had a weaker
+fluorescence than polymeric fluorescent substance 11.
+<tables><table><tgroup cols="4"><tbody><row><entry nameend="4" namest="1">Fluorescent characteristics of Polymeric fluorescent substance 2</entry></row><row><entry align="center"/><entry align="center">Polymeric fluorescent substance</entry><entry align="center">Fluorescent peak wavelength (nm)</entry><entry align="center">Fluorescent strength (arbitrary unit)</entry></row><row><entry align="center">Example 12</entry><entry align="center">Polymeric fluorescent substance 11</entry><entry align="center">424</entry><entry align="center">1.22</entry></row><row><entry align="center">Comparative example 4</entry><entry align="center">Polymeric fluorescent substance 12</entry><entry align="center">428</entry><entry align="center">0.46</entry></row></tbody></tgroup></table></tables></p><p num="0174">The polymeric fluorescent substance of the present
+invention comprising a copolymer which has a substituent 
+containing a specific aromatic amine structure in the side
+chain, shows high luminance and high light emitting
+efficiency when used for a light emitting layer of a
+polymer LED. Therefore, the polymer LED can be preferably
+used for apparatus, such as a light source having a flat or
+curved surface for lightning or as a back light of a liquid
+crystal display, a segment display, and a dot matrix flat-panel
+display.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A polymeric fluorescent substance exhibiting fluorescence in the solid state
+and having a polystyrene reduced number average molecular weight of 103 to 108,
+which comprises one or more repeating units of formula (1):
+-Ar1-
+wherein Ar1 represents an arylene group or a divalent heterocyclic compound group
+and has 1 to 4 substituents of formula (2):
+
+wherein X1 represents a divalent hydrocarbon group; Ar2 represents an arylene group
+or a divalent heterocyclic compound group; Ar3 represents an aryl group or a
+monovalent heterocyclic compound group; Ar2 and Ar3 may be mutually connected
+to form a ring; Ar4 represents an aryl group or a monovalent heterocyclic compound
+group; Ar3 and Ar4 may be mutually connected to form a ring; k is 0 or 1; and 1
+represents an integer of 1 to 3,
+and one or more repeating units of formula (3):
+-Ar5-
+wherein Ar5 represents an arylene group or divalent heterocyclic compound group of
+formula (4):
+
+wherein X2 represents a group selected from O, S, SO, SO2, N-R3, CR4R5 and SiR6R7;
+R3 to R7 each independently represent a group selected from a hydrogen atom, alkyl
+group, aryl group and monovalent heterocyclic compound group; R1 and R2 each
+independently represent a group selected from alkyl group, alkoxy group, alkylthio
+group, alkylsilyl group, alkylamino group, aryl group, aryloxy group, arylsilyl group,
+arylamino group, arylalkyl group, arylalkoxy group, arylalkylsilyl group,
+arylalkylamino group, arylalkenyl group, arylalkynyl group, monovalent heterocyclic
+compound group and cyano group; m and n are each independently integers of 0 to 3;
+when m is two or more, a plurality of R1 may be the same or different; when n is two
+or more, a plurality of R2 may be the same or different; R1 to R7 may be connected to
+form a ring; and when any of R1 to R7 is a group containing an alkyl chain, the alkyl
+chain may be interrupted by a group containing a hetero atom,
+or formula (5):
+
+wherein R8 represents a group selected from alkyl group, alkoxy group, alkylthio
+group, alkylsilyl group, alkylamino group, aryl group, aryloxy group, arylsilyl group,
+arylamino group, arylalkyl group, arylalkoxy group, arylalkylsilyl group,
+arylalkylamino group, arylalkenyl group, arylalkynyl group, monovalent heterocyclic
+compound group and cyano group; j is an integer of 0 to 3; when j is two or more, a
+plurality of R8 may be the same or different; and when R8 is a group containing an
+alkyl chain, the alkyl chain may be interrupted by a group containing a hetero atom.</claim-text></claim><claim num="2"><claim-text>A substance according to claim 1 wherein the repeating unit of formula (3) is
+a repeating unit of formula (6):
+
+wherein R11 and R12 each independently represent a group selected from a hydrogen
+atom, alkyl group, aryl group and monovalent heterocyclic compound group; R9 and
+R10 each independently represent a group selected from alkyl group, alkoxy group,
+alkylthio group, alkylsilyl group, alkylamino group, aryl group, aryloxy group,
+arylsilyl group, arylamino group, arylalkyl group, arylalkoxy group, arylalkylsilyl
+group, arylalkylamino group, arylalkenyl group, arylalkynyl group, monovalent
+heterocyclic compound group and cyano group; h and i are each independently
+integers of 0 to 3; when h is two or more, a plurality of R9 may be the same or
+different; when i is two or more, a plurality of R10 may be the same or different; R9 to
+R12 may be connected to form a ring; and when any of R9 to R12 is a group containing
+an alkyl chain, the alkyl chain may be interrupted by a group containing a hetero
+atom.</claim-text></claim><claim num="3"><claim-text>A substance according to claim 1 or 2, wherein the total amount of the
+repeating units of formulas (1) and (3) is 50% by mole or more based on all the
+repeating units, and the total amount of the repeating units of formula (1) is 0.1% by
+mole or more and 50% by mole or less based on the total amount of the repeating
+units of formulas (1) and (3).</claim-text></claim><claim num="4"><claim-text>A polymer light-emitting device comprising a pair of electrodes composed of
+an anode and a cathode at least one of which is transparent or semitransparent and
+comprising at least a light-emitting layer between the electrodes, wherein the light-emitting
+layer comprises a polymeric fluorescent substance according to any one of
+claims 1 to 3.</claim-text></claim><claim num="5"><claim-text>A device according to claim 4, wherein a layer comprising a conductive
+polymer is disposed at least between one electrode and the light-emitting layer such
+that the layer comprising a conductive polymer is adjacent to said electrode.</claim-text></claim><claim num="6"><claim-text>A device according to claim 4 or 5, wherein an insulation layer having a
+thickness of 2nm or less is disposed at least between one electrode and the light-emitting
+layer such that the insulation layer is adjacent to said electrode.</claim-text></claim><claim num="7"><claim-text>A device according to any one of claims 4 to 6, wherein a layer comprising an
+electron-transporting compound is disposed between the cathode and the light-emitting
+layer such that the layer comprising an electron-transporting compound is
+adjacent to said light-emitting layer.</claim-text></claim><claim num="8"><claim-text>A device according to any one of claims 4 to 7, wherein a layer comprising a
+hole-transporting compound is disposed between the anode and the light-emitting
+layer such that the layer comprising a hole-transporting compound is adjacent to said
+light-emitting layer.</claim-text></claim><claim num="9"><claim-text>A flat light source comprising a polymer light-emitting device according to
+any one of claims 4 to 8.</claim-text></claim><claim num="10"><claim-text>A segment display comprising a polymer light-emitting device according to
+any one of claims 4 to 8.</claim-text></claim><claim num="11"><claim-text>A dot matrix display comprising a polymer light-emitting device according to
+any one of claims 4 to 8.</claim-text></claim><claim num="12"><claim-text>A liquid crystal display comprising a polymer light-emitting device according
+to any one of claims 4 to 8 as a back light.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

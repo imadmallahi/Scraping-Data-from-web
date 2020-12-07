@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1593377-A1" country="EP" doc-number="1593377" kind="A1" lang="EN" family-id="26760744" status="new" date-produced="20090516" date="20051109"><bibliographic-data><publication-reference ucid="EP-1593377-A1" status="new" fvid="24473214"><document-id status="new" format="original"><country>EP</country><doc-number>1593377</doc-number><kind>A1</kind><date>20051109</date></document-id></publication-reference><application-reference ucid="EP-05010611-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>05010611</doc-number><kind>A</kind><date>19990311</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-99909954-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>99909954</doc-number><kind>A</kind><date>19990311</date></document-id></priority-claim><priority-claim ucid="US-12124898-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>12124898</doc-number><kind>A</kind><date>19980723</date></document-id></priority-claim><priority-claim ucid="US-7860798-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>7860798</doc-number><kind>P</kind><date>19980319</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A61K   9/00        20060101A N20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61K   9/00        20060101C N20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61K   9/16        20060101A I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K   9/16        20060101C I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K   9/50        20060101A I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K   9/50        20060101C I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K  35/12        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  35/12        20060101C N20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  38/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  38/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  38/18        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  38/18        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  38/41        20060101C I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K  38/42        20060101A I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K  38/43        20060101C I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K  38/44        20060101A I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K  47/32        20060101A N20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61K  47/32        20060101C N20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61K  47/34        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  47/34        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  47/36        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  47/36        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  47/42        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  47/42        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61L  24/00        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61L  24/00        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61L  24/04        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61L  27/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61L  27/00        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61L  27/34        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61L  29/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61L  29/00        20060101C I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61L  29/08        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61L  31/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61L  31/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61L  31/14        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61L  31/14        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08B  37/00        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C08B  37/08        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C08F 251/00        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C08F 251/00        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C08F 251/02        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C08F 290/00        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C08F 290/00        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C08L  51/00        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C08L  51/02        20060101A I20070721RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">A61K  38/18H</classification-symbol><classification-symbol scheme="EC">A61K   9/16H6D</classification-symbol><classification-symbol scheme="EC">A61K   9/16H6D4</classification-symbol><classification-symbol scheme="EC">A61L  24/00H7</classification-symbol><classification-symbol scheme="EC">A61L  24/00H9</classification-symbol><classification-symbol scheme="EC">A61L  24/04R</classification-symbol><classification-symbol scheme="EC">A61L  27/34</classification-symbol><classification-symbol scheme="EC">A61L  27/34+C08L33/06</classification-symbol><classification-symbol scheme="EC">A61L  29/08B</classification-symbol><classification-symbol scheme="EC">A61L  31/14K</classification-symbol><classification-symbol scheme="EC">C08B  37/00P2F</classification-symbol><classification-symbol scheme="EC">C08F 251/00</classification-symbol><classification-symbol scheme="EC">C08F 251/02</classification-symbol><classification-symbol scheme="EC">C08F 290/00</classification-symbol><classification-symbol scheme="EC">C08L  51/02+B</classification-symbol><classification-symbol scheme="ICO">K61K35:12C1</classification-symbol><classification-symbol scheme="ICO">K61K47:32</classification-symbol><classification-symbol scheme="ICO">K61K47:34</classification-symbol><classification-symbol scheme="ICO">K61K9:00M5D</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Vernetzbare Macromere, die eine Initiatorgruppe Tragen</invention-title><invention-title load-source="ep" status="new" lang="EN">Crosslinkable macromers bearing initiator groups</invention-title><invention-title load-source="ep"  status="new" lang="FR">Macromères réticulables portant des groupes initiateurs</invention-title><citations><patent-citations><patcit ucid="US-4315998-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4315998</doc-number><kind>A</kind></document-id><sources><source category="YD" name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="US-5410016-A"  status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>5410016</doc-number><kind>A</kind></document-id><sources><source category="YD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1993016687-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1993016687</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><related-documents status="new"><relation type="division"><child-doc ucid="EP-05010611-A"><document-id status="new" format="original"><country>EP</country><doc-number>05010611</doc-number><kind>A</kind><date>19990311</date></document-id></child-doc><parent-doc ucid="EP-99909954-A" psta="unknown"><document-id status="new" format="original"><country>EP</country><doc-number>99909954</doc-number><kind>A</kind><date>19990311</date></document-id></parent-doc></relation></related-documents><parties><applicants><applicant status="new" format="epo"><addressbook><name>SURMODICS INC</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>SURMODICS, INC.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>SurModics, Inc.</last-name><address><street>9924 West 74th Street</street><city>Eden Prairie, MN 55344-3523</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>CHUDZIK STEPHEN J</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>CHUDZIK, STEPHEN J.</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>CHUDZIK, STEPHEN J.</last-name><address><street>11 Heather Place</street><city>St Paul, MN 55102</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Walker, Ross Thomson</last-name><address><street>FORRESTER &amp;amp; BOEHMERT, Pettenkoferstrasse 20-22</street><city>80336 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>ES</country><country>FR</country><country>GB</country><country>IE</country><country>IT</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A crosslinkable macromer system that includes two or more polymer-pendent
+polymerizable groups and one or more polymer-pendent initiator groups. The
+polymerizable groups and the initiator group(s) can be pendent on the same
+or different polymeric backbones. The macromer system provides
+advantages over the use of polymerizable macromers and separate, low
+molecular weight initiators, including advantages with respect to such
+properties as nontoxicity, efficiency, and solubility.</p></abstract><description load-source="ep" status="new" lang="EN"><heading>CROSS REFERENCE TO RELATED APPLICATIONS</heading><p num="0001">The present application is a continuation of US patent application filed July
+23, 1998 and assigned Serial No. 09/121,248, which is a continuation of provisional
+US patent application filed March 19, 1998 and assigned Serial No. 60/078,607, the
+entire disclosure of which is incorporated herein by reference.</p><heading>TECHNICAL FIELD</heading><p num="0002">The present invention relates to the preparation of matrices by the
+polymerization of macromers. In another aspect, the invention relates to the use of
+such matrices for such purposes as cell immobilization, tissue adherence, and
+controlled drug delivery.</p><heading>BACKGROUND OF THE INVENTION</heading><p num="0003">Matrices are polymeric networks characterized by insolubility in water. One
+type of polymeric matrix is a hydrogel, which can be defined as a water-containing
+polymeric network. The polymers used to prepare hydrogels can be based on a
+variety of monomer types, such as those based on methacrylic and acrylic ester
+monomers, acrylamide (methacrylamide) monomers, and N-vinyl-2-pyrrolidone. To
+form the gel, these monomer classes are typically crosslinked with such crosslinking
+agents as ethylene dimethacrylate, N,N'-methylenebisacrylamide, methylenebis(4-phenyl
+isocyanate), ethylene dimethacrylate, divinylbenzene, and allyl methacrylate.</p><p num="0004">Another type of polymeric network can be formed from more hydrophobic
+monomers and/or macromers. Matrices formed from these materials generally
+exclude water. Polymers used to prepare hydrophobic matrices can be based on a
+variety of monomer types such as alkyl acrylates and methacrylates, and polyester-forming
+monomers such as ε-caprolactone and lactide. When formulated for use in an
+aqueous environment, these materials do not need to be crosslinked, but they can be
+crosslinked with standard agents such as divinyl benzene. Hydrophobic matrices can
+also be formed from reactions of macromers bearing the appropriate reactive groups 
+such as the reaction of diisocyanate macromers with dihydroxy macromers, and the
+reaction of diepoxy-containing macromers with dianhydride or diamine-containing
+macromers.</p><p num="0005">Although there exist a variety of methods for producing polymeric networks,
+when these networks are intended to be created in the presence of viable tissue, and/or
+to contain a bioactive compound, the number of acceptable methods of producing
+polymeric networks is extremely limited.</p><p num="0006">It is nevertheless desirable to form both hydrogel and non-hydrogel polymeric
+matrices in the presence of viable tissue or bioactive agents for the purposes of drug
+delivery, cellular immune isolation, prevention of post-surgical adhesions, tissue
+repair, and the like. These polymeric matrices can be divided into two categories:
+biodegradable or bioresorbable polymer networks and biostable polymer networks.</p><p num="0007">Biodegradable polymeric matrices have been previously suggested for a
+variety of purposes, including controlled release carriers, adhesives and sealers.
+When used as controlled release carriers, for instance, polymeric matrices can contain
+and release drugs or other therapeutic agents over time. Such matrices can be formed,
+for instance, by a number of different processes, including solvent casting
+hydrophobic polymers. Solvent casting, however, typically involves the use of
+organic solvents and/or high temperatures which can be detrimental to the activity of
+biological materials and can complicate production methods. Solvent casting of
+polymers out of solution also results in the formation of uncrosslinked matrices. Such
+matrices have less structure than crosslinked matrices and it is more difficult to
+control the release of bioactive agents from such matrices. Yet another process, which
+involves the polymerization of monomers in or around the desired materials, suffers
+from cytotoxicity of monomers, oxygen inhibition and heat of polymerization
+complications.</p><p num="0008">Another process used in the past to prepare biodegradable and biostable
+hydrogels involves the polymerization of preformed macromers using low molecular
+weight initiators. This process involves a number of drawbacks as well, however,
+including toxicity, efficacy, and solubility considerations. For instance, when using a 
+macromer solution containing a low molecular weight soluble initiator to encapsulate
+viable cellular material, the initiator can penetrate the cellular membrane and diffuse
+into the cells. The presence of the initiator may involve some toxic consequence to
+the cells. When activated, however, these initiators produce free radicals having
+distinct cytotoxic potential. Other drawbacks arise if the initiator is able to diffuse out
+of the formed matrix, thereby producing toxicity and other issues. Such initiators also
+tend to aggregate in aqueous solution, causing efficiency and reproducibility
+problems. Finally, in view of the limited efficiency of many initiators for initiating
+the necessary radical chain polymerization, it is often necessary to add one or more
+monomeric polymerization "accelerators" to the polymerization mixture. Such
+accelerators tend to be small molecules capable of penetrating the cellular membrane,
+and often raise cytotoxic or carcinogenic concerns.</p><p num="0009">U.S. Patent Nos. 5,410,016 (Hubbell, et al.) and 5,529,914 (Hubbell, <i>et.al</i>.) for
+instance, relate to hydrogels prepared from biodegradable and biostable polymerizable
+macromers. The hydrogels are prepared from these polymerizable macromers by the
+use of soluble, low molecular weight initiators. Such initiators can be combined with
+the macromers, and irradiated in the presence of cells, in order to form a gel that
+encapsulates the cells.</p><p num="0010">Hydrogels often suffer from similar or other drawbacks in use as biological
+adhesives or sealants, e.g., for use as tissue adhesives, endovascular paving,
+prevention of post-surgical adhesions, etc. In each of the applications, the hydrogel
+matrix must generally "adhere" to one or more tissue surfaces. Current methods rely
+upon physical "adhesion" or the tendency of hydrogels to "stick" to a surface. A
+superior adhesive would provide both physical and chemical adhesion to surfaces
+utilizing the same physical characteristics as current hydrogel adhesives, but also
+providing chemical, covalent coupling of the matrix material to the tissue surface.
+Covalent bonds are generally much stronger than physical adhesive forces, such as
+hydrogen bonding and van der Waals forces.</p><p num="0011">As described above, when various techniques are used to form polymeric
+matrices via photoinitiation of macromers, the photoinitiators utilized tend to be low 
+molecular weight. Polymeric photoinitiators have been described as well, although
+for applications and systems quite distinct from those described above. See, for
+instance, "Radical Polymerization", C.H. Bamford, pp. 940-957 in Kroschwitz, ed.,
+<i>Concise Encyclopedia of Polymer Science and Engineering,</i> 1990. In the subsection
+entitled "Photosensitized Initiation: Polymeric Photosensitizers and Photoinitiators",
+the author states that "[p]olymeric photosensitizers and photoinitiators have been
+described. Many of these are polymers based on benzophenone, e.g., poly(p-divinylbenzophenone)
+(DVBP). Such rigid polymers are reported to be effective
+sensitizers since hydrogen abstraction from the backbone by excited benzophenone is
+less likely."</p><p num="0012">U.S. Patent No. 4,315,998 (Neckers) describes polymer-bound
+photosensitizing catalysts for use in the heterogeneous catalysis of photosensitized
+chemical reactions such as photo-oxidation, photodimerization, and photocyclo
+addition reactions. The polymer-bound photosensitizing catalysts are insoluble in
+water and common organic solvents, and therefore can be readily separated from the
+reaction medium and reaction products by simple filtration.</p><p num="0013">What is clearly needed are macromers and macromer systems that avoid the
+problems associated with conventional polymeric matrices, and in particular, those
+drawbacks that arise when polymeric matrices are formed in the presence of viable
+tissue or bioactive agents.</p><heading>SUMMARY OF THE INVENTION</heading><p num="0014">The present invention provides a crosslinkable macromer system comprising
+two or more polymer-pendent polymerizable groups and one or more polymer-pendent
+initiator groups. In a preferred embodiment, the polymerizable groups and the
+initiator group(s) are pendent on the same polymeric backbone. In an alternative
+preferred embodiment, the polymerizable groups and initiator group(s) are pendent on
+different polymeric backbones.</p><p num="0015">In the first embodiment, the macromer system comprises a polymeric
+backbone to which are covalently bonded both the polymerizable groups and initiator 
+group(s). Pendent initiator groups can be provided by bonding the groups to the
+backbone at any suitable time, e.g., either prior to the formation of the macromer (for
+instance, to monomers used to prepare the macromer), or to the fully formed
+macromer itself. The macromer system itself will typically comprise but a small
+percentage of macromers bearing both initiator groups and polymerizable groups.
+The majority of macromers will provide only pendent polymerizable groups, since the
+initiator groups are typically sufficient if present at far less than 1:1 stoichiometric
+ratio with macromer molecules.</p><p num="0016">In an alternative preferred embodiment, the macromer system comprises both
+polymerizable macromers, generally without pendent initiator groups, in combination
+with a polymeric initiator. In either embodiment, the initiator will be referred to
+herein as a "polymeric initiator", by virtue of the attachment of such initiator groups
+to a polymeric backbone.</p><p num="0017">Macromer systems of the present invention, employing polymeric initiators,
+provide a number of unexpected advantages over the use of polymerizable macromers
+and separate, low molecular weight initiators. Such systems, for instance, provide an
+optimal combination of such properties as nontoxicity, efficiency, and solubility.
+Solubility, for instance, can be improved by virtue of the ability to control the aqueous
+or organic solubility of the polymerizable macromer by controlling the backbone.
+Toxicity can also be improved, since the polymeric initiators of this invention
+typically cannot diffuse into cells in the course of immobilization.</p><p num="0018">In a preferred embodiment, the pendent initiator groups are selected from the
+group consisting of long-wave ultra violet (LWUV) light-activatable molecules such
+as; 4-benzoylbenzoic acid, [(9-oxo-2-thioxanthanyl)-oxy]acetic acid, 2-hydroxy
+thioxanthone, and vinyloxymethylbenzoin methyl ether; visible light activatable
+molecules; eosin Y, rose bengal, camphorquinone and erythrosin, and thermally
+activatable molecules; 4,4' azobis(4-cyanopentanoic) acid and 2,2-azobis[2-(2-imidazolin-2-yl)
+propane] dihydrochloride. An important characteristic of the initiator
+group being the ability to be coupled to a preformed macromer containing
+polymerizable groups, or to be modified to form a monomer which can take part in the 
+macromer synthesis, which is subsequently followed by the addition of polymerizable
+groups.</p><p num="0019">In such an embodiment, the pendent polymerizable groups are preferably
+selected from the group consisting of pendent vinyl groups, acrylate groups,
+methacrylate groups, ethacrylate groups, 2-phenyl acrylate groups, acrylamide groups,
+methacrylamide groups, itaconate groups, and styrene groups.</p><p num="0020">In a further preferred embodiment, the polymeric backbone is selected from
+the group consisting of synthetic macromers, such as polyvinylpyrrolidone (PVP),
+polyethylene oxide (PEO), and polyethylene glycol (PEG); derivatizable naturally
+occurring polymers such as cellulose; polysaccharides, such as hyaluronic acid,
+dextran, and heparin; and proteins, such as collagen, gelatin, and albumin.</p><p num="0021">The macromer of the present invention can be used in a variety of applications,
+including controlled drug release, the preparation of tissue adhesives and sealants, the
+immobilization of cells, and the preparation of three-dimensional bodies for implants.
+In one aspect, for instance, the invention provides a method for immobilizing cells,
+the method comprising the steps of combining a polymeric initiator of the present
+invention with one or more polymerizable macromers and in the presence of cells,
+under conditions suitable to polymerize the macromer in a manner that immobilizes
+the cells.</p><heading>DETAILED DESCRIPTION</heading><p num="0022">As used herein the following words and terms shall have the meaning ascribed
+below:
+<sl><li>"macromer system" shall refer to a polymerizable polymer system comprising
+one or more polymers providing pendent polymerizable and initiator groups. Groups
+can be present either on the same or different polymeric backbones, e.g., on either a
+polymerizable macromer or a non-polymerizable polymeric backbone;</li><li>"polymerizable macromer" shall refer to a polymeric backbone bearing two or
+more polymerizable (e.g., vinyl) groups; </li><li>"initiator group" shall refer to a chemical group capable of initiating a free
+radical reaction, present as either a pendent group on a polymerizable macromer or
+pendent on a separate, non-polymerizable polymer backbone; and</li><li>"polymeric initiator" shall refer to a polymeric backbone (polymerizable or
+non-polymerizable) comprising one or more initiator groups and optionally containing
+one or more other thermochemically reactive groups or affinity groups.</li></sl></p><p num="0023">The polymeric backbone of this invention can be either synthetic or naturally-occurring,
+and includes a number of macromers previously described as useful for the
+preparation of polymeric matrices. Generally, the backbone is one that is soluble, or
+nearly soluble, in aqueous solutions such as water, or water with added organic
+solvent (e.g., dimethylsulfoxide) or can be rendered soluble using an appropriate
+solvent or combination of solvents. Alternatively, the polymeric backbone can be a
+material which is a liquid under ambient physiological conditions. Backbones for use
+in preparing biodegradable gels are preferably hydrolyzable under <i>in vivo</i> conditions.</p><p num="0024">In general, the polymeric backbones of this invention can be divided into two
+categories: biodegradable or bioresorbable, and biostable reagents. These can be
+further divided into reagents which form hydrophilic, hydrogel matricies and reagents
+which form non-hydrogel matricies.</p><p num="0025">Bioresorbable hydrogel-forming backbones are generally naturally occurring
+polymers such as polysaccharides, examples of which include, but are not limited to,
+hyaluronic acid (HA), starch, dextran, heparin, and chitosan; and proteins (and other
+polyamino acids), examples of which include but are not limited to gelatin, collagen,
+fibronectin, laminin, albumin and active peptide domains thereof. Matrices formed
+from these materials degrade under physiological conditions, generally via enzyme-mediated
+hydrolysis.</p><p num="0026">Bioresorbable matrix-forming backbones are generally synthetic polymers
+prepared via condensation polymerization of one or more monomers. Matrix-forming
+polymers of this type include polylactide (PLA), polyglycolide (PGA),
+polycaprolactone (PCL), as well as copolymers of these materials, polyanhydrides,
+and polyortho esters. </p><p num="0027">Biostable hydrogel matrix-forming backbones are generally synthetic or
+naturally occurring polymers which are soluble in water, matrices of which are
+hydrogels or water-containing gels. Examples of this type of backbone include
+polyvinylpyrrolidone (PVP), polyethylene glycol (PEG), polyacrylamide (PAA),
+polyvinyl alcohol (PVA), and the like.</p><p num="0028">Biostable matrix-forming backbones are generally synthetic polymers formed
+from hydrophobic monomers such as methyl methacrylate, butyl methacrylate,
+dimethyl siloxanes, and the like. These backbone materials generally do not possess
+significant water solubility but can be formulated as neat liquids which form strong
+matrices upon activation. It is also possible to synthesize backbone polymers which
+contain both hydrophilic and hydrophobic monomers.</p><p num="0029">Polymeric backbones of polymerizable macromers can optionally provide a
+number of desirable functions or attributes, e.g., as described in the above-captioned
+Hubbell patents, the disclosures of which are incorporated herein by reference.
+Backbones can be provided with water soluble regions, biodegradable regions,
+hydrophobic regions, as well as polymerizable regions.</p><p num="0030">As used herein, the term "polymerizable group" will generally refer to a group
+that is polymerizable by initiation by free radical generation, most preferably by
+photoinitiators activated by visible or long wavelength ultraviolet radiation. Preferred
+polymerizable groups include acrylates, methacrylates, ethacrylates, itaconates,
+acrylamides, methacrylamide, and styrene.</p><p num="0031">Typically, polymerizable groups are incorporated into a macromer subsequent
+to the initial macromer formation using standard thermochemical reactions. Thus, for
+example, polymerizable groups can be added to collagen via reaction of amine
+containing lysine residues with acryloyl chloride or glycidyl acrylate. These reactions
+result in collagen containing pendent polymerizable moieties. Similarly, when
+synthesizing a macromer for use as described in the present invention, monomers
+containing reactive groups can be incorporated into the synthetic scheme. For
+example, hydroxyethylmethacrylate (HEMA) or aminopropylmethacrylamide
+(APMA) can be copolymerized with N-vinylpyrrolidone or acrylamide yielding a 
+water-soluble polymer with pendent hydroxyl or amine groups. These pendent groups
+can subsequently be reacted with acryloyl chloride or glycidyl acrylate to form water-soluble
+polymers with pendent polymerizable groups.</p><p num="0032">Initiator groups useful in the system of the present invention include those that
+can be used to initiate, by free radical generation, polymerization of the macromers to
+a desired extent and within a desired time frame. Crosslinking and polymerization are
+generally initiated among macromers by a light-activated free-radical polymerization
+initiator. Preferred initiators for long wave UV and visible light initiation include
+ethyl eosin, 2,2-dimethoxy-2-phenyl acetophenone, other acetophenone derivatives,
+thioxanthone, benzophenone, and camphorquinone.</p><p num="0033">Preferred polymeric initiators are photosensitive molecules which capture light
+energy and initiate polymerization of the macromers. Other preferred polymeric
+initiators are thermosensitive molecules which capture thermal energy and initiate
+polymerization of the macromers.</p><p num="0034">Photoinitiation of the free radical polymerization of macromers of the present
+invention will generally occur by one of three mechanisms. The first mechanism
+involves a homolytic alpha cleavage reaction between a carbonyl group and an
+adjacent carbon atom. This type of reaction is generally referred to as a Norrish type I
+reaction. Examples of molecules exhibiting Norrish type I reactivity and useful in a
+polymeric initiating system include derivatives of benzoin ether and acetophenone.</p><p num="0035">The second mechanism involves a hydrogen abstraction reaction, either intra-or
+intermolecular. This initiation system can be used without additional energy
+transfer acceptor molecules and utilizing nonspecific hydrogen abstraction, but is
+more commonly used with an energy transfer acceptor, typically a tertiary amine,
+which results in the formation of both aminoalkyl radicals and ketyl radicals.
+Examples of molecules exhibiting hydrogen abstraction reactivity and useful in a
+polymeric initiating system, include analogs of benzophenone, thioxanthone, and
+camphorquinone. </p><p num="0036">When using a polymeric initiator of the hydrogen abstraction variety, pendent
+tertiary amine groups can be incorporated into the polymeric backbone of the
+macromer. This will insure that all free radicals formed are polymer-bound.</p><p num="0037">The third mechanism involves photosensitization reactions utilizing
+photoreducible or photo-oxidizable dyes. In most instances, photoreducible dyes are
+used in conjunction with a reductant, typically, a tertiary amine. The reductant
+intercepts the induced triplet producing the radical anion of the dye and the radical
+cation of the reductant. Examples of molecules exhibiting photosensitization
+reactivity and useful in a polymeric initiating system include eosin Y, rose bengal, and
+erythrosin. Reductants can be incorporated into the polymer backbone, thereby
+assuring that all free radicals will be polymer-bound.</p><p num="0038">Thermally reactive polymeric initiators are also useful for the polymerization
+of macromers. Examples of thermally reactive initiators usable in a polymeric
+initiating system include 4,4' azobis(4-cyanopentanoic acid) and analogs of benzoyl
+peroxide.</p><p num="0039">A surprisingly beneficial effect of the use of polymeric initiators to polymerize
+macromers is the increased efficiency of polymerization exhibited by these polymeric
+initiators as compared to their low molecular weight counterparts. This increased
+efficiency is seen in all three photoinitiation mechanisms useful for the
+polymerization of macromers.</p><p num="0040">Polymeric initiation of monomer solutions has been investigated for its
+application in the field of UV-curable coatings for industrial uses, c.f. U.S. Patent No.
+4,315,998 (Neckers) and PCT Application, International Publication No. WO
+97/24376 (Kuester, <i>et.al</i>.) but there have been no reports of the adaptation of the use
+of polymeric initiators for the polymerization of macromers in the presence of
+biologic material or for the creation of drug-releasing matrices.</p><p num="0041">High efficiency of initiation is particularly important in systems such as these.
+It is generally desirable, when forming polymeric matrices in the presence of biologic
+or bioactive materials, to minimize the exposure time of the material to the energy 
+source used to initiate polymerization. It is therefore imperative that the initiation
+system utilized possess optimum initiation efficiency.</p><p num="0042">When matrix strength or durability are required for a particular application,
+high efficiency is again a necessary characteristic of an initiation system. When a
+matrix-forming system is initiated, the free radical polymerization of the system is
+propagated until gelation and vitrification of the polymerizing system render the
+diffusion of the elements of the matrix-forming system too difficult. Therefore, the
+higher the efficiency of the initiation system, the more complete the polymerization
+resulting in the formation of stronger, more durable matrices. The polymeric
+initiation systems described in this invention provide a higher degree of efficiency,
+without the use of accelerants, than is attainable using nonpolymer-bound, low
+molecular weight initiators.</p><p num="0043">Another beneficial effect is realized when the initiating groups on the
+polymeric initiators consist of groups exhibiting hydrogen abstraction reactivity, i.e.,
+the ability to abstract hydrogens intermolecularly. The beneficial effect is important
+when macromer systems containing these initiators are used as tissue adhesives,
+endovascular paving, formation of barriers to prevent post-surgical adhesions, or any
+application involving the "adhesion" of the matrix to one or more surfaces. Since
+initiators exhibiting this type of reactivity can abstract hydrogens from adjacent
+molecules, when a macromer system containing polymeric initiators of this type is
+applied to a substrate, photoactivation of the system causes the abstraction of
+hydrogens from the substrate by the initiators, thus forming a free radical on the
+substrate and a free radical on the initiator. This diradical can subsequently collapse
+forming a covalent bond between the macromer system and the substrate.</p><p num="0044">Other initiator groups on the same macromer initiate free radical reactions
+with other macromers resulting in the formation of a crosslinked matrix covalently
+bound to the surface. Initiator groups exhibiting this type of reactivity include
+analogs of benzophenone and thioxanthone. As can be readily understood, only
+polymeric initiators are capable of accomplishing this adhesion of the matrix to a 
+surface, low molecular weight analogs of these initiators cannot produce this
+phenomenon.</p><p num="0045">In another embodiment, the polymeric initiator comprises a polymeric
+backbone with pendent initiator groups and pendent reactive or affinity groups. These
+reactive or affinity groups enable the polymeric initiator to bind to target groups on
+surfaces of interest. This allows the polymeric initiator to bind to the surface of
+interest. In this manner, interfacial polymerization of macromers can be
+accomplished. A solution of polymeric initiator-containing pendent reactive or
+affinity groups is applied to a surface with target sites. The reactive or affinity groups
+on the polymeric initiator react with the sites on the surface causing the polymeric
+initiator to bind to the surface. Excess polymeric initiator can then be washed away.
+A solution of a polymerizable macromer is then applied to the surface. When light
+energy in applied to the system, a free radical polymerization reaction is initiated only
+at the surface of interest. By varying the concentration of the polymerizable
+macromer and the illumination time, the thickness and crosslink density of the
+resulting matrix on the surface can be manipulated.</p><p num="0046">Generally, there are two methods by which an initiator group can be
+incorporated into a polymeric backbone. The first method involves the formation of a
+monomer which includes the initiator. This can be accomplished readily using
+standard chemical reactions. For example, the acid chloride analog of an initiator can
+be reacted with an amine-containing monomer, to form a monomer which contains the
+initiator.</p><p num="0047">The second method of incorporating initiator groups into a polymeric
+backbone involves coupling a reactive analog of the initiator with a preformed
+polymer. For example, an acid chloride analog of an initiator can be reacted with a
+polymer containing pendent amine groups forming a polymer bearing pendent
+initiator groups.</p><p num="0048">Polymeric matrices prepared from macromer systems can be used in a variety
+of applications, including: </p><heading><u style="single">Cellular Encapsulation.</u></heading><p num="0049">The use of hydrogels to form micro- or
+macrocapsules containing cells and other tissue, is well documented in the literature.
+Applications include the treatment of diabetes, Parkinson's disease, Alzheimer's
+disease, ALS, chronic pain, and others. Descriptions of cellular encapsulation
+methods can be found throughout the patent and scientific literature. The use of the
+instant invention provides methods of encapsulating cells in two basic ways.</p><heading>1) Bulk polymerization</heading><p num="0050">In this embodiment, cellular material is mixed in a solution of the macromer
+system and energy subsequently added to activate initiation of free radical
+polymerization. Prior to initiation, the solution containing the macromer system with
+suspended cellular material, can be placed in molds, shaped in particular geometric
+shapes, or placed inside a preformed membrane system, such as a hollow fiber. Upon
+illumination or other energy addition, the initiation of free radical polymerization
+causes the macromer system to gel, forming a cell-containing matrix in the desired
+shape. When formed into free-standing geometric shapes, the formulation of the
+macromer system can be designed to provide the desired degrees of durability and
+permselectivity to the subsequently formed matrix. When formed inside membrane
+structures, such as hollow fibers designed to provide the desired permselectivity, the
+macromer system can be formulated to provide the desired characteristics of the cell-suspending
+matrix, such as biocompatibility, etc.</p><heading>2) Interfacial polymerization</heading><p num="0051">In this embodiment, a membrane is formed directly on the surface of the
+cellular material. A solution of polymerizable or non-polymerizable polymeric
+initiator-containing pendent affinity groups (e.g., positively charged groups) is mixed
+with the cellular material. The affinity groups bind to the sites on the surface of the
+cellular material. The excess polymeric initiator is subsequently washed away and the
+cellular material suspended in a solution of polymerizable macromer. Since initiator
+groups are present only at the surface of the cellular material, when light energy is
+applied, polymerization is initiated only at the surface:macromer interface. By
+manipulating the duration of illumination and macromer formulation, a polymeric 
+matrix exhibiting the desired characteristics of thickness, durability, permselectivity,
+etc. is formed directly on the surface of the cellular material.</p><heading><u style="single">Adhesives and sealants.</u></heading><p num="0052">Polymeric matrix systems have also found
+extensive use as adhesives for tissue and other surfaces. For this application, a
+solution of a macromer system is applied to a surface to which adhesion is desired,
+another surface is contacted with this surface, and illumination is applied forming a
+surface-to-surface junction. If a temporary adhesive is desired, the macromer system
+can be composed of degradable macromers.</p><heading><u style="single">Barriers.</u></heading><p num="0053">Polymeric matrices can be used for the formation of barriers on
+surfaces for various applications. One such application is a barrier for the prevention
+of tissue adhesions following surgery. For this application, a macromer system in
+liquid form is applied to the surface of damaged tissue. The liquid is illuminated to
+polymerize the macromers. The polymeric matrix prevents other tissue from adhering
+to the damaged tissue. Both degradable and non-degradable macromer systems can be
+used for this purpose. As described above, both bulk polymerization and interfacial
+polymerization methods can be used to prepare surface coatings of this type.</p><heading><u style="single">Controlled Release Carriers.</u></heading><p num="0054">Polymeric matrices find wide application as
+controlled release vehicles. For this application, a solution of a macromer system and
+drug, protein, or other active substance is applied to a surface. The solution is
+illuminated to polymerize the macromers. The polymeric matrix contains the drug,
+when exposed to a physiological or other liquid-containing environment, the drug is
+slowly released into the environment. The release profile of the entrained drug can be
+manipulated by varying the formulation of the macromer system. Both degradable
+and non-degradable macromer systems can be utilized for this purpose. Likewise,
+both bulk and interfacial polymerization techniques can be used to prepare controlled
+drug-releasing surfaces. In an alternative embodiment, a drug or other active
+substance can be imbibed by a preformed matrix on a surface. The absorption and
+release characteristics of the matrix can be manipulated by varying the crosslink
+density, the hydrophobicity of the matrix, and the solvent used for imbibition. </p><p num="0055">Alternatively, drug-containing polymeric microspheres can be prepared using
+standard techniques. A wide range of drugs and bioactive materials can be delivered
+using the invention which include but are not limited to, antithrombogenic, antiinflammatory,
+antimicrobial, antiproliferative, and anticancer agents, as well as
+growth factors, morphogenic proteins, and the like.</p><heading><u style="single">Tissue Replacement/Scaffolding.</u></heading><p num="0056">Polymeric matrices have found utility as
+three-dimensional scaffolding for hybrid tissues and organs. For this application, a
+macromer system in liquid form is applied to a tissue defect and subsequently
+illuminated to polymerize the macromers forming a matrix upon which ingrowing
+cells can migrate and organize into a functional tissue. In one embodiment, the
+macromer system additionally includes a growth factor which is slowly released and
+stimulates the ingrowth of desired cell types. In another embodiment, the macromers
+include pendent extracellular matrix peptides which can stimulate the ingrowth of
+desired cell types. A third embodiment would include both of the above features. An
+alternative embodiment includes cells included in the matrix with or without
+additional growth factor. The scaffolding can be generated <i>in vitro</i> by placing the
+liquid macromer system in a mold or cavities in a device, or can be generated <i>in vivo</i>
+by applying the liquid macromer system to a tissue defect. Both degradable and non-degradable
+macromer systems could be used for this application, but degradable
+matrices are preferred.</p><heading><u style="single">Wound Dressing.</u></heading><p num="0057">Polymeric matrices have been used extensively as
+superior wound dressing preparations. Currently, hydrogel and hydrocolloid wound
+dressing materials are being increasingly used due to their superior wound healing
+properties. For this application, a macromer system in liquid form is applied to the
+wound site and subsequently formed into a flexible polymeric matrix upon exposure
+to light. When applied as a liquid, the macromer preparation conforms to the irregular
+surface of the wound. Upon illumination, a flexible matrix is formed which is
+completely conformal to the surface of the wound; no fluid-filled pockets which can
+act as sites of bacterial infiltration can exist. In one embodiment, the macromer
+system additionally includes one or more therapeutic agents, such as growth factors or 
+antimicrobial agents which are slowly released into the wound. Both degradable and
+non-degradable macromer systems can be used for this application.</p><heading><u style="single"><i>In Situ</i> Device Formation.</u></heading><p num="0058">Polymeric materials can be implanted into the
+body to replace or support the function of diseased or damaged tissues. One example
+of this is the use of hollow cylindrical polymeric devices to support the structure of a
+coronary artery following percutaneous transluminal coronary angioplasty (PTCA).
+Currently, pre-formed cylindrical devices are implanted via catheter insertion
+followed by balloon expansion to secure the device. The expanded device supports
+the structure of the artery and prevents the reversion of the artery to the closed
+position (restenosis).</p><p num="0059">For this application, a liquid macromer preparation could be applied to an
+injured artery via a multi-lumen catheter containing an illumination element. After
+application of the liquid macromer system to the injured tissue, a semi-rigid polymeric
+matrix can be formed by a brief illumination. Upon removal of the catheter, a hollow,
+cylindrical, conformal polymeric device remains to support the artery and prevent
+restenosis. In one embodiment, the macromer system additionally includes a
+releasable therapeutic agent or agents, such as antiproliferative and/or antithrombotic
+drugs. These agents are slowly released from the formed matrix, to provide additional
+therapeutic benefit to the injured tissues. Both degradable and non-degradable
+macromer systems can be used for this application.</p><p num="0060">The invention will be further described with reference to the following nonlimiting
+Examples. It will be apparent to those skilled in the art that many changes can
+be made in the embodiments described without departing from the scope of the
+present invention. Thus the scope of the present invention should not be limited to the
+embodiments described in this application, but only by embodiments described by the
+language of the claims and the equivalents of those embodiments. Unless otherwise
+indicated, all percentages are by weight </p><heading>EXAMPLES</heading><heading>Example 1</heading><heading>Synthesis of 7-Methyl-9-oxothioxanthene-3-carboxylic Acid Chloride (MTA-Cl)</heading><p num="0061">The 7-methyl-9-oxothioxanthene-3-carboxylic acid (MTA), 50.0 g (0.185
+mol), was dissolved in 350 ml of toluene and 415 ml (5.69 mol) of thionyl chloride
+using an overhead stirrer in a 2 liter 3-neck round bottom flask. N,N-Dimethylformamide
+(DMF), 2 ml, was added and the reaction was brought to reflux
+for 2 hours. After this time, the mixture was stirred at room temperature for 16 hours.
+The solvent was removed under vacuum and the product was azeotroped with 3 x 350
+ml of toluene to remove the excess thionyl chloride. The product was recrystallized
+from 800 ml of chloroform and the resulting solid was placed in a vacuum oven for 16
+hours at 45°C to complete removal of solvent. The isolated product weighed 45.31 g
+(85% yield) and nuclear magnetic resonance spectroscopy (NMR) confirmed the
+desired structure. This product was used for the preparation of a photoreactive
+monomer as described in Example 2.</p><heading>Example 2</heading><heading>Synthesis of N-[3-(7-Methyl-9-oxothioxanthene-3-carboxamido)propyl]methacrylamide
+(MTA-APMA)</heading><p num="0062">The N-(3-aminopropyl)methacrylamide hydrochloride (APMA), 4.53 g (25.4
+mmol), was suspended in 100 ml of anhydrous chloroform in a 250 ml round bottom
+flask equipped with a drying tube. After cooling the slurry in an ice bath, the MTA-Cl,
+7.69 g (26.6 mmol), was added as a solid with stirring. A solution of 7.42 ml
+(53.2 mmol) of triethylamine (TEA) in 20 ml of chloroform was then added over a 1.5
+hour time period, followed by a slow warming to room temperature. The mixture was
+allowed to stir 16 hours at room temperature under a drying tube. After this time, the
+reaction was washed with 0.1 N HCl and the solvent was removed under vacuum after
+adding a small amount of phenothiazine as an inhibitor. The resulting product was
+recrystallized from tetrahydrofuran (THF)/toluene (3/1) and gave 8.87 g (88.7 %
+yield) of product after air drying. The structure of the compound was confirmed by
+NMR analysis. </p><heading>Example 3</heading><heading>Preparation of N-Succinimidyl 6-Maleimidohexanoate (MAL-EAC-NOS)</heading><p num="0063">6-Aminohexanoic acid, 100.0 g (0.762 moles), was dissolved in 300 ml of
+acetic acid in a three-neck, 3 liter flask equipped with an overhead stirrer and drying
+tube. Maleic anhydride, 78.5 g (0.801 moles), was dissolved in 200 ml of acetic acid
+and added to the 6-aminohexanoic acid solution. The mixture was stirred one hour
+while heating on a boiling water bath, resulting in the formation of a white solid.
+After cooling overnight at room temperature, the solid was collected by filtration and
+rinsed with 2 x 50 ml of hexane. After drying, the typical yield of the (Z)-4-oxo-5-aza-2-undecendioic
+acid was 158-165 g (90-95%) with a melting point of 160-165°C.
+Analysis on an NMR spectrometer was consistent with the desired product.</p><p num="0064">(Z)-4-Oxo-5-aza-2-undecendioic acid, 150.0 g (0.654 moles), acetic
+anhydride, 68 ml (73.5 g, 0.721 moles), and phenothiazine, 500 mg, were added to a 2
+liter three-neck round bottom flask equipped with an overhead stirrer. Triethylamine,
+91 ml (0.653 moles), and 600 ml of THF were added and the mixture was heated to
+reflux while stirring. After a total of 4 hours of reflux, the dark mixture was cooled to
+&lt;60°C and poured into a solution of 250 ml of 12 N HCl in 3 liters of water. The
+mixture was stirred 3 hours at room temperature and then was filtered through a Celite
+545 pad to remove solids. The filtrate was extracted with 4 x 500 ml of chloroform
+and the combined extracts were dried over sodium sulfate. After adding 15 mg of
+phenothiazine to prevent polymerization, the solvent was removed under reduced
+pressure. The 6-maleimidohexanoic acid was recrystallized from hexane/chloroform
+(2/1) to give typical yields of 76-83 g (55-60%) with a melting point of 81-85°C.
+Analysis on a NMR spectrometer was consistent with the desired product.</p><p num="0065">The 6-maleimidohexanoic acid, 20.0 g (94.7 mmol), was dissolved in 100 ml
+of chloroform under an argon atmosphere, followed by the addition of 41 ml (0.47
+mol) of oxalyl chloride. After stirring for 2 hours at room temperature, the solvent
+was removed under reduced pressure with 4 x 25 ml of additional chloroform used to
+remove the last of the excess oxalyl chloride. The acid chloride was dissolved in 100
+ml of chloroform, followed by the addition of 12.0 g (0.104 mol) of N-hydroxysuccinimide 
+and 16.0 ml (0.114 mol) of triethylamine. After stirring
+overnight at room temperature, the product was washed with 4 x 100 ml of water and
+dried over sodium sulfate. Removal of solvent gave 24.0 g (82%) of MAL-EAC-NOS
+which was used without further purification. Analysis on an NMR spectrometer was
+consistent with the desired product.</p><heading>Example 4</heading><heading>Preparation of a Copolymer of MTA-APMA, MAL-EAC-NOS, and N-Vinylpyrrolidone</heading><p num="0066">A polymeric initiator is prepared by copolymerization of a monomer charge
+consisting of 5 mole % MTA-APMA, 10 mole % MAL-EAC-NOS, and 85 mole %
+N-vinylpyrrolidone (VP). The polymerization is run in formamide or other suitable
+solvent using 2,2'-azobisisobutyronitrile (AIBN) as an initiator and N,N,N',N'-tetramethylethylenediamine
+(TEMED) as an oxygen scavenger. Mercaptoethanol is
+added as a chain transfer reagent at a concentration designed to give a molecular
+weight between 2,000 and 20,000 daltons. Upon completion of the polymerization,
+the copolymer is precipitated by addition of ether or other non-solvent for the
+polymer. After isolation by filtration, the product is washed extensively with the
+precipitating solvent to remove residual monomers and low molecular weight
+oligomers. The copolymer is dried under vacuum and is stored desiccated to protect
+the hydrolyzable N-oxysuccinimide (NOS) esters.</p> <heading>Example 5</heading><heading>Synthesis of a Photoreactive Macromer Derived from a Poly(caprolactone-co-lactide)
+Derivative of Pentaerythritol Ethoxylate</heading><p num="0067">A 15 gram scale reaction was performed by charging a thick-walled tube with
+8.147 g (56.5 mmol) of 1-lactide (3,6-dimethyl-1,4-dioxane-2,5-dione) and 6.450 g
+(56.5 mmol) of ε-caprolactone. To this mixture was added 0.402 g (1.49 mmol) of
+pentaerythritol ethoxylate (ave. MW appprox. 270) to provide polymerization sites
+and control molecular weight. This mixture was warmed gently until dissolution of
+all reagents was complete. The catalyst, stannous 2-ethylhexanoate (0.015 ml) was
+added and the reaction vessel sealed. The reaction mixture was warmed to 150°C and 
+stirred for 20 hours. The resulting polymer was dissolved in chloroform and dialyzed
+against methanol using 1000 MWCO dialysis tubing. After dialysis, the solvent was
+removed <i>in vacuo</i>. The purified polymer was dissolved in chloroform and treated
+with 2.41 g (23.8 mmol) of TEA. To this reaction mixture was added 292 mg (1.19
+mmol) of 4-benzoylbenzoyl chloride (BBA-Cl) and the resulting mixture was stirred
+for 16 hours. To this reaction mixture was added 0.734 g (8.11 mmol) of acryloyl
+chloride and the reaction was stirred an additional 8 hours. The modified polymer
+was purified by dialysis against methanol using 1000 MWCO dialysis tubing. After
+dialysis, the solvent was removed <i>in vacuo</i> and the polymer (15.36 grams) stored
+desiccated at room temperature.</p><heading>Example 6</heading><heading>Synthesis of Water Soluble Siloxane Macromer with Pendent Initiator Groups</heading> <p num="0068">Fifty grams of a water-soluble siloxane macromer with pendent initiator
+groups were synthesized by first dissolving 50 grams of commercially available
+poly[dimethylsiloxane-<i>co</i>-methyl (3-hydroxypropyl)siloxane]-<i>graft</i>-poly(ethylene
+glycol) 3-aminopropyl ether (Aldrich Chemical) in 50 ml of methylene chloride. To
+this solution was added 5.0 g (49 mmol) of TEA. The reaction solution was cooled to
+-50°C, then transferred to a stir plate at room temperature. MTA-Cl, 1.0 g (3.5
+mmol), prepared according to the general method in Example 1, and 5.0 g (55 mmol)
+of acryloyl chloride were added and the solution was stirred for 6 hours at room
+temperature. The solution was dialyzed against deionized water using 3500 MWCO
+dialysis tubing and the water was subsequently removed <i>in vacuo</i>. The product (48.4
+grams) was stored desiccated at room temperature.</p> <heading>Example 7</heading> <heading>Synthesis of a Polymerizable Hyaluronic Acid</heading><p num="0069">Two grams of hyaluronic acid (Lifecore Biomedical, Chaska, MN) were
+dissolved in 100 ml of dry formamide. To this solution were added 1.0 g (9.9 mmol)
+of TEA and 4.0 g (31 mmol) of glycidyl acrylate. The reaction mixture was stirred at
+37°C for 72 hours. After exhaustive dialysis against deionized water using 12-14k
+MWCO dialysis tubing, the product (2.89 grams) was isolated by lyophilization. </p><heading>Example 8</heading><heading>Preparation of a Photoderivatized Polyacrylamide (Photo-PAA)</heading><p num="0070">Acrylamide, 10.24 g (0.144 mol), was dissolved in 200 ml of deionized water.
+To the solution was added 0.279 g (1.56 mmol) of APMA, 0.33 g (1.45 mmol) of
+ammonium persulfate and 0.155 g (1.33 mmol) of TEMED. The solution was
+evacuated in a filter flask with a water aspirator for 10 minutes. The tubing was
+clamped and the solution left under vacuum for one hour. The resulting polymer
+solution was dialyzed against deionized water using 12-14k MWCO dialysis tubing.
+To 150 ml of polymer solution in a PTFE bottle containing 3.0 grams of polymer was
+added 0.504 ml (3.62 mmol) of TEA. To this solution was added 30 ml of 28.4
+mg/ml (3.48 mmol) 4-benzoylbenzoyl chloride in CHCl<sub>3</sub>. The bottle was capped
+tightly and shaken for one hour. The bottle was then centrifuged for 10 minutes to
+separate the phases after which the aqueous layer was removed, dialyzed against
+deinoized water using 12-14k MWCO dialysis tubing, and lyophilized. The product
+(3.21 grams) was stored, dessicated at room temperature.</p><heading>Example 9</heading><heading>Synthesis of the N-Hydroxysuccinimide Ester of Eosin Y</heading><p num="0071">Eosin Y, 1.00 g (1.54 mmol), was dissolved in 10 ml dry dioxane with stirring,
+gentle warming and some sonication. After the solution was complete, the orange
+solution was cooled to room temperature under argon. N-Hydroxysuccinimide, 0.195
+g (1.69 mmol), and 1,3-dicyclohexylcarbodiimide, 0.635 g (3.08 mmol), were added
+as solids. The resulting red mixture was stirred at room temperature for 48 hours
+under an inert atmosphere. After this time the solid was removed by filtration and
+washed with dioxane. The filtrate was concentrated <i>in vacuo</i> to give 1.08 g (94%
+yield) of a glassy red solid.</p><heading>Example 10</heading><heading>Synthesis of a Copolymer of APMA, Methyl Methacrylate, and N-Vinylpyrrolidone
+Followed by Addition of Acryloyl Groups</heading><p num="0072">The following ingredients for the copolymer were placed in a glass vessel and
+dissolved in 20 ml DMSO: APMA (2.68 g, 15.0 mmol), VP (6.74 ml, 63.1 mmol), 
+methyl methacrylate (mMA) (0.334 ml, 3.12 mmol), mercaptoethanol (0.053 ml, 0.76
+mmol), AIBN (0.041 g, 0.25 mmol), and TEMED (0.057 ml, 0.38 mmol). After
+solution was complete, the monomer solution was degassed, blanketed with argon and
+placed in an agitating incubator at 55° C. The copolymer was dialyzed against
+deionized water in 6-8,000 MWCO dialysis tubing. The dialyzed solution (~ 400 ml)
+was loaded with acrylate groups. TEA, 5.0 ml (35.9 mmol), was added with stirring.
+The solution was placed in a freezer for 5-10 minutes to cool. After this time, 5.0 ml
+(61.5 mmol) of acryloyl chloride in 5 ml of chloroform were added with stirring. The
+reaction mixture was stirred at room temperature for 16 hrs. After this time the
+acrylated polymer was dialyzed against deionized water using 6-8,000 MWCO tubing.
+The product was lyophilized and 7.10 g were obtained.</p><heading>Example 11</heading><heading>Synthesis of a Copolymer of MTA-APMA, APMA, Methyl Methacrylate, and N-Vinylpyrrolidone
+Followed by Addition of Acryloyl Groups</heading><p num="0073">The following ingredients for the copolymer were placed in a glass vessel and
+dissolved in 20 ml DMSO: MTA-APMA (0.613 g, 1.55 mmol), APMA (2.578 g,
+14.4 mmol), VP (6.27 ml, 58.7 mmol), mMA (0.319 ml, 2.98 mmol), mercaptoethanol
+(0.054 ml, 0.77 mmol), AIBN (0.039 g, 0.24 mmol), and TEMED (0.053 ml, 0.35
+mmol). After solution was complete, the monomer solution was degassed, blanketed
+with argon and placed in an agitating incubator at 55° C. The copolymer was dialyzed
+against deionized water in 6-8,000 MWCO dialysis tubing. The dialyzed solution was
+protected from light and loaded with acrylate groups. TEA, 5.0 ml (35.9 mmol), was
+added with stirring. The solution was placed in a freezer for 5-10 minutes to cool.
+After this time, 5.0 ml (61.5 mmol) of acryloyl chloride in 5 ml of chloroform were
+added with stirring. The reaction mixture was stirred at room temperature for 9 hrs.
+After this time the acrylated polymer was dialyzed against deionized water using 6-8,000
+MWCO tubing and protected from light. The product (8.88 grams) was isolated
+by lyophilization. </p><heading>Example 12</heading><heading>Evaluation of Matrix Formation</heading><p num="0074">A 15 % solution of the co-polymer from Example 11 was prepared in 10%
+DMS0/ water. The MTA content of the solution was estimated by measuring the
+absorbance of the solution at 395nm(A@395nm=42.6).A 15 % solution of the co-polymer
+from Example10(same co- polymer as that described in Example 11 but with
+no MTA-APMA) was prepared in 10 %DMSO/water. MTA was added to this
+solution until its absorbance at 395nm matched that of the solution described above.
+The two solutions were identical in concentration of co-polymer and photoinitiator,
+the only difference between them being that in one solution the photoinitiator was
+present in polymeric form(POLY) and in the other the photoinitiator was present in
+non-polymeric form(NON).</p><p num="0075">In order to compare the matrix forming ability of the two solutions the
+following evaluation was undertaken: the indentations in the lid of a 96 well
+microtiter plate were used as miniature molds to evaluate the ability of the
+photoreactive polymer solutions to form solid hydrogel discs upon illumination. The
+indentations are eight millimeters in diameter and approximately 0. 6 millimeters
+deep. 30 microliters of polymer solution will just fill the indentatation. Thirty
+microliters of both the (POLY) and (NON) solutions were added to wells. After
+addition of the polymer solutions, the lids were illuminated using an EFOS Ultracure
+100 SS illumination system equipped with a 400-500nm filter, for varying lengths of
+time. After illumination the lid was flooded with water and each polymer formulation
+rated for its ability to form solid discs using the following arbitrary scale:
+<sl><li>0 = liquid, no gelation</li><li>1 = soft gel, unable to remove from mold</li><li>2 = firm gel, removable from mold with slight difficulty.</li><li>3 = very firm gel, easily removed from mold</li><li>4 = very firm gel, elastomeric properties evident</li></sl></p><heading>Results:</heading><p num="0076"><tables><table><tgroup cols="7"><tbody><row><entry align="left" namest="1">Polymer</entry><entry nameend="7" align="center" namest="2">Time(sec)</entry></row><row><entry align="center"/><entry align="center">2</entry><entry align="center">5</entry><entry align="center">10</entry><entry align="center">30</entry><entry align="center">60</entry><entry align="center">120</entry></row><row><entry align="left">(POLY)</entry><entry align="center">1</entry><entry align="center">2</entry><entry align="center">3</entry><entry align="center">4</entry><entry align="center">4</entry><entry align="center">4</entry></row><row><entry align="left">(NON)</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">1</entry><entry align="center">2</entry><entry align="center">3</entry><entry align="center">3</entry></row></tbody></tgroup></table></tables></p><heading>Matrix formation</heading><p num="0077">The polymer solution containing the polymer-bound initiator(POLY) formed
+matrices more rapidly and more completely than the polymer solution containing nonpolymer-bound
+initiator(NON) when exposed to light energy.</p><heading>Example 13</heading><heading>Synthesis of an Eosin Substituted Polymer</heading><p num="0078">N-Vinylpyrrolidone, 10.0 g (90.0 mmol), was dissolved in 50 ml DMSO. To
+the solution was added 0.30 g (1.68 mmol) of APMA, 0.15 g (0.91 mmol) of AIBN,
+and 0.10 g (0.86 mmol) of TEMED. The solution was sparged with nitrogen for 20
+minutes and incubated at 55°C for 20 hours. The resulting polymer was purified by
+dialysis against water and isolated by lyophiliaztion.</p><p num="0079">Three grams of the polymer were dissolved in 150 mls dry dioxane. To this
+solution was added 0.504 ml (3.62 mmoles) of TEA. Subsequently, 2.74 grams (3.5
+mmoles) of the N-hydroxysuccinimide ester of Eosin Y was added and the reaction
+mixture stirred for two hours at room temperature. The solution was dialyzed against
+dH<sub>2</sub>O using 12-14kda cut-off dialysis tubing and lyophilized to isolate the product.
+The reaction yielded 3.96 grams of red polymer.</p><heading>Example 14</heading><heading>A Biodegradable Tissue Adhesive.</heading><p num="0080">A solution was prepared consisting of 5% polymerizable hyaluronic acid
+(Example 7) and 2% photoderivatized polyacrylamide (Example 8) in water. This
+reagent was evaluated for use as a tissue adhesive using cellulose dialysis tubing as a
+tissue model.</p><p num="0081">Shear strength testing was performed on dialysis tubing. The tubing was slit
+and cut into 2 cm × 4 cm pieces. The pieces were soaked in water briefly, removed, 
+and tested while still damp. One piece was laid flat on a surface and 10 µl of adhesive
+applied to one end of the strip. Another piece was laid over this piece with a 1 cm
+overlap between pieces. When evaluating the photoactivatable adhesive (2/5 HA), the
+overlap area was illuminated for 10 seconds. When evaluating a control adhesive, the
+adhesive was allowed to set for five minutes. The bonded samples were mounted in a
+tensiometer lengthwise by the ends such that the plane of the area of adhesive was
+parallel to the axis of the tensiometer. The samples were extended at the rate of 1
+cm/minute until adhesive or substrate failure, and the force at failure recorded.
+Substrate-only, and, for photoactivatable adhesive, non-illuminated samples, were
+included as controls in the evaluations.
+<tables><table><tgroup cols="4"><tbody><row><entry align="center"><b>Adhesive</b></entry><entry align="center"><b>Maximum Force Generated Kg</b></entry><entry align="center"><b>Adhesive Failed Before Substrate</b></entry><entry align="center"><b>Substrate Failed Before Adhesive</b></entry></row><row><entry align="center">2/5 HA</entry><entry align="center">0.53</entry><entry align="center">0/4</entry><entry align="center">4/4</entry></row><row><entry align="center">2/5 HA (no illumination)</entry><entry align="center">0.081</entry><entry align="center">4/4</entry><entry align="center">0/4</entry></row><row><entry align="center">Fibrin glue</entry><entry align="center">0.045</entry><entry align="center">4/4</entry><entry align="center">0/4</entry></row><row><entry align="center">Cyanoacrylate</entry><entry align="center">0.49</entry><entry align="center">0/4</entry><entry align="center">4/4</entry></row></tbody></tgroup></table></tables></p><heading>Example 15</heading><heading>Formation of an <i>in situ</i> hydrogel wound dressing.</heading><p num="0082">Photopolymerizable, matrix-forming reagents were evaluated for efficacy as <i>in
+situ</i> wound dressings.</p><heading>Preparation of reagents:</heading><p num="0083">An experimental <i>in situ</i> forming wound dressing was prepared by:
+<sl><li>1) Dissolving reactive macromer from Example 10 at 20% into a sterile 6%
+glycerin solution in water.</li><li>2) Preparing a sterile solution of polymeric eosin reagent from Example 12 at
+4% in water and a sterile solution of 2M triethanolamine (TEA) in water.</li><li>3) Transporting the three sterile solutions to a surgical suite for application to
+wound sites created on porcine skin.</li></sl></p><p num="0084">Four young female China White swine weighing between 15-20 kg were
+anesthetized and 12 wounds inflicted on one side of each pig. Wounds were 1" × 2"
+and 0.015" deep and were inflicted by a calibrated electrodermatome (Padgett). The 
+wounds were inflicted in two rows of six on the thoracic and paravertebral area of
+each pig, leaving approximately two inches between adjacent wounds. The wounds
+were randomized and received one of three treatments:
+<sl><li>1) No treatment (control)</li><li>2) Application of OpSite®, a semi-occlusive wound dressing from
+Smith and Nephew, Inc.</li><li>3) Experimental photo-curable dressing</li></sl></p><p num="0085">To apply the experimental dressing, 0.5 mls of the polymeric-eosin solution
+and 0.5 mls of the TEA solution were added to the macromer/glycerin solution
+yielding a photo-wound dressing solution. The solution was transferred to 16 three ml
+sterile syringes (2 ml/syringe) and one syringe was used to application to each wound
+site. The solutions were applied to each assigned wound site (approximately 1.5 mls
+solutions/site) and allowed to flow over the site. The solutions were fixed by
+illumination with a 150 W incandescent light bulb positioned four inches from the
+wound surface for 30 seconds. The dressing solution readily formed into a durable,
+rubbery hydrogel which adhered very well to the wound sites. Sterile 4 × 4 gauze
+pads were placed over the entire wounded area of each pig, and the pigs placed in
+sterile stockinettes. On selected days (3, 4, 5, and 7), one pig was euthanized and the
+effect of dressing on wound epithelialization and repair evaluated.</p><heading>Evaluation of effect of dressing on wound epithelialization and repair:</heading><p num="0086">Following euthanasia, skin wounds were removed from the underlying deep
+subcutaneous tissue and fixed in 10% neutral buffered formalin solution. After
+fixation, five biopsy sites from each wound were obtained with a 6 mm Keys skin
+biopsy punch. Each biopsy was packaged, labeled and submitted for histological
+sectioning. Histological sections were sectioned at 4 microns and stained with
+hematoxylin and eosin. Histological sections were examined with the microscope
+without knowing the type of covering placed over the wound site. The following
+criteria were evaluated and scored in microscopic examination:
+<sl><li>Degree of epithelialization of the wound</li><li>Magnitude of the inflammatory reaction </li><li>Degree of fibroplasia in the wound</li><li>Degree of damage to subcutaneous tissue:
+<sl><li>Morphometric analysis of cell types in the histological sections were used to
+help differentiate the degree of inflammatory reaction present. The number of
+polymorphonuclear cells, lymphocytic cells, and fibroblasts was evaluated. Each
+histological biopsy was graded on a scale of 1-5.</li></sl></li></sl></p><heading>Degree of inflammatory reaction:</heading><p num="0087"><sl><li>1. No or borderline cellular inflammatory reaction</li><li>2. Minimal inflammation</li><li>3. Moderate density of inflammatory cells with some exudate</li><li>4. Severe, high density of inflammatory cells in or on the wound tissue with thicker
+layer of exudate</li><li>5. Excessive inflammation, with signs of dense foci of inflammatory cells infiltrating
+the wound tissue or on the wound and forming a thick layer of inflammatory
+exudate.</li></sl></p><heading>Degree of wound epithelialization:</heading><p num="0088"><sl><li>1. Stratum corneum present at least 4 layers of cells and entire epidermal surface is
+present.</li><li>2. Stratum corneum is present at least 1 layer of cells and entire epidermal surface is
+present.</li><li>3. Stratum corneum is present at least 1 layer of cells and 1/2 of epidermal surface is
+covered.</li><li>4. No stratum corneum is present; minimal inflammation of the subepidermal tissue.</li><li>5. No stratum corneum is present; moderate inflammation in subepidermal tissue.</li></sl></p><heading>Degree of fibroplasia in the wound:</heading><p num="0089"><sl><li>1. No fibroplasia in the wound</li><li>2. Mild fibroplasia in the wound involving 1/3 to 1/2 wound surface</li><li>3. Mild fibroplasia in the wound involving 2/3 or more of the wound</li><li>4. Moderate fibroplasia involving 1/3 to 1/2 of the wound</li><li>5. Severe fibroplasia involving 1/2 or more of the wound</li></sl></p><heading>Degree of damage to the subcutaneous tissue:</heading><p num="0090"><sl><li>1. No damage to the subcutaneous tissue</li><li>2. Mild damage to the subcutaneous tissue with mild edema and few inflammatory
+cells.</li><li>3. Moderate damage to the subcutaneous tissue with moderate edema and moderate
+accumulation of inflammatory cells</li><li>4. Severe damage to the subcutaneous tissue with severe edema and large number of
+inflammatory cells</li><li>5. Excessive damage to the subcutaneous tissue with dense foci of inflammatory
+cells</li></sl></p><heading>Results:</heading><p num="0091">Each biopsy was graded blindly using the criteria listed above. When the
+histological examination was completed, the graded biopsies were correlated with the
+wound sites. A single average score for each dressing was calculated by adding all
+the scores for every site for each dressing and dividing by the number or scores.</p><p num="0092">The total scores for each type of wound dressing on days 3, 4, 5, and 7 were
+evaluated with an ANOVA SAS program for data intervals to statistically evaluate if
+there was any difference between the three types of wound treatments administered.
+Only two scores were found to be statistically significant:
+<sl><li>1. On day 4 following wound creation the mean for the OpSite® dressing was
+2.4 and was found to be statistically significant when compared to the control
+and experimental wound sites.</li><li>2. On day 7 following the creation of the wounds the mean for the experimental
+dressing, 1.8 was found to be statistically significant when compared to the
+control and the OpSite® wound dressings.</li></sl></p><p num="0093">On day 7 post-wound creation, the wound sites treated with the experimental
+photocurable dressing showed significantly superior healing to those that were
+untreated or treated with OpSite® dressing, as judged by the criteria described. </p><heading>Example 16</heading><heading>A Bioresorbable Drug Delivery Coating.</heading><p num="0094">A solution of 33% of the macromer from Example 5 was prepared in ethanol.
+Ten centimeter lengths of polyurethane rod (PU) were dipped into the macromer
+solutions and illuminated for six minutes to form a matrix. This procedure resulted in
+the formation of a very durable, tenacious, and flexible coating on the rod. One gram
+of chlorhexidine diacetate (an antimicrobial agent) was dissolved in 10 mls of the
+macromer solution and the coating process repeated on additional PU rods. This also
+resulted in a tenacious, durable, and flexible coating on the rods. The rods were cut
+into one centimeter pieces and evaluated in a zone of inhibition analysis.</p><p num="0095">Coated dye-containing pieces, coated no-drug controls, and uncoated pieces
+were placed in Mueller-Hinton agar plates which were swabbed with a 10<sup>6</sup> suspension
+of <i>Staphylococcus epidermidis</i> (Christensen RP62A). These pieces functioned as
+unwashed controls and were transferred to freshly swabbed agar plates each day for
+60 days.</p><p num="0096">Additional pieces, no-drug controls (both coated and uncoated) and drug-incorporated
+coated, were placed in snap-cap vials and washed with 50% Normal Calf
+Serum in PBS. The tubes were placed on an orbital shaker and incubated at 37°C and
+200 rpm for 20 days. Each day the wash solution was removed and replaced with
+fresh solution. Periodically, pieces were removed from the serum/PBS and placed in
+agar as described above. Zones of inhibition resulting from these pieces were
+recorded and compared to the zones produced by unwashed pieces.</p><p num="0097">The no-drug coated control pieces, both coated and uncoated, produced no
+zones. On day 0, both washed and unwashed drug-incorporated pieces produced zone
+of 24.5 mm. On day 20, when the final washed pieces were evaluated, the unwashed
+pieces were producing zones of 17.5 mm, and the washed pieces were producing
+zones of 9.5 mm. On day 60, when the experiment was terminated, the unwashed
+pieces were still producing zones of 17 mm. </p><p num="0098">This experiment demonstrates the utility of this matrix-forming polymer at
+producing drug delivery coatings which provide a long-term delivery of a bioactive
+agent.</p><heading>Example 17</heading><heading>A Biostable Drug Delivery Coating.</heading><p num="0099">A solution of 25% of the macromer from Example 6 was prepared in 50%
+IPA/H<sub>2</sub>O. Ten centimeter lengths of polyurethane rod were dipped into the macromer
+solution and illuminated for six minutes to form matrix. This procedure resulted in
+the formation of a very durable, tenacious, and flexible coating on the rod. Five
+hundred milligrams of chlorhexidase diacetate was dissolved in 10 mls ethanol. Half
+of the coated rods were soaked in this solution for 60 minutes at room temperature,
+and half of the rods were soaked in neat ethanol under the same conditions. After
+soaking, the rods were removed from the ethanol and allowed to dry for 20 hours at
+room temperature. The rods were cut into one centimeter pieces and evaluated in a
+zone of inhibition analysis.</p><p num="0100">Uncoated control, coated control, and coated drug-incorporated pieces were
+placed in Mueller-Hinton agar plates which were swabbed with a 10<sup>6</sup> suspension of
+<i>Staphylococcus epidermidis</i> (Christensen RP62A). These plates were incubated for
+20 hours at 37°C. The zone where no bacterial growth was evident around each piece
+was measured and the piece transferred to a freshly swabbed agar plate each day for
+14 days.</p><p num="0101">The uncoated control pieces and the coated control pieces produced no zones.
+On day 0, the drug-incorporated coated pieces produced average zones of 25 mm.
+These pieces continued to produce zones each day. On day 14, when the experiment
+was terminated, the pieces produced average zones of 6 mm.</p><heading>Example 18</heading><heading>Formation of a Three-Dimensional Device.</heading><p num="0102">One end of a 3 mm diameter teflon-coated rod was dipped to a level of 1.5 cm
+in neat BBA-acryloylpolytetra(caprolactone-<u style="single">co</u>-lactide)pentaerthritol ethoxylate (see
+Example 5) and immediately illuminated, with rotation, for 10 seconds suspended 
+between opposed Dymax lamps. After illumination, a semi-rigid elastomeric coating
+had formed on the rod. The rod was cooled to facilitate removal of the polymeric
+coating. The closed end of the cylinder was removed with a razor blade, thus forming
+a hollow cylindrical device of 1.25 cm in length and 3.5 mm in diameter.</p><heading>Example 19</heading><heading>Synthesis of a Polymerizable Collagen.</heading><p num="0103">One gram of soluble collagen (Semed-S, Kensey-Nash Corp.) (a mixture of
+Types I and III) was dissolved in 50 mls of 0.01 N HCl. When dissolved, 1.25 gms
+triethylamine (12.4 mmoles) was added to the reaction mixture. One gram of acryloyl
+chloride (11.0 mmoles) dissolved in one milliliter of methylene chloride was added to
+the reaction vessel and the mixture was stirred for 20 hours at room temperature.</p><p num="0104">The reaction mixture was dialyzed exhaustively against dH<sub>2</sub>O, and the product
+isolated by lyophilization. A yield of 1.17 grams of polymerizable collagen was
+realized.</p><heading>Example 20</heading><heading>A Collagen Scaffolding that Contains a Bone Morphogenic Protein.</heading><heading>A. Preparation of the solidified scaffolding.</heading><p num="0105">A solution of liquid macromer is prepared which consists of 5% (w/v) of
+polymerizable collagen (Example 19) plus 1% (w/v) of photoderivatized
+polyacrylamide (prepared as described in Example 8) in phosphate buffered saline, pH
+7.4. To this is added 50 µg/ml (0.005% w/v) of bone morphogenic protein (BMP-7
+from a private source). Aliquots of the above solution (150 µl) are then placed in
+molds (8 mm diameter and 3 mm high) and are illuminated for 10 seconds with a
+Dymax lamp (as described in Example 13) to solidify the collagen scaffolding.
+Control disks of solidified collagen scaffolding are prepared via the same protocol
+except that BMP-7 is not added.</p><heading>B. Evaluation of the solidified scaffolding.</heading><p num="0106">Disks of solidified collagen scaffolding with BMP-7 are evaluated for
+stimulation of bone growth in a rat cranial onlay implant model. In this model, the
+periosteal membrane is removed and the collagen disks are implanted on the cranium. 
+After 30 days, the implants and adjacent cranial bone are removed, fixed in cold
+methanol, embedded in PMMA, sectioned, ground to 50-100 µm thickness, stained
+with Sandersons Rapid Bone Stain, and counterstained with Van Gieson's picro-fuchsin.
+This protocol evaluates nondecalcified bone, with mature bone staining red,
+immature bone staining pink, cartilage staining blue-gray, and undegraded collagen
+appearing acellular and pale yellow.</p><p num="0107">One control consists of disks of solidified collagen scaffolding lacking BMP-7.
+A second control consists of 150 µl of nonilluminated liquid macromer solution
+which contains BMP-7 (the same solution composition that was placed in molds and
+illuminated to produce the solidified collagen scaffolding containing BMP-7).</p><p num="0108">When evaluated histologically at 30 days as described above, the experimental
+disks (solidified collagen scaffolding containing BMP-7) show extensive bone
+formation in the space originally occupied by the collagen disk. In contrast, both
+controls (the solidified collagen scaffolding lacking BMP-7 and the nonilluminated
+liquid control solution containing BMP-7) show little or no bone formation. The
+amount of bone that forms with the controls is less than 25% of that observed with the
+experimental disks, therefore demonstrating that the solidified collagen scaffolding
+greatly enhances BMP-stimulated bone formation. </p><p num="0109">The present invention will now be described by way of
+reference to the following clauses:
+<sl><li>1. A crosslinkable macromer system comprising one or more polymers
+providing pendent polymerizable and pendent initiator groups wherein the system is
+adapted to be polymerized to form a matrix suitable for <i>in vivo</i> application.</li><li>2. A macromer system according to clause 1 wherein the polymerizable
+groups and the initiator group(s) are pendent on the same polymeric backbone.</li><li>3. A macromer system according to clause 1 wherein the polymerizable
+groups and initiator group(s) are pendent on different polymeric backbones.</li><li>4. A macromer system according to clause 1 wherein the pendent initiator
+groups are bonded to one or more monomers used to prepare the polymeric macromer.</li><li>5. A macromer system according to clause 1 wherein the pendent initiator
+groups are bonded to the polymeric macromer itself.</li><li>6. A macromer system according to clause 1 wherein the system
+comprises macromers bearing both initiator groups and polymerizable groups in
+combination with macromers providing only pendent polymerizable groups.</li><li>7. A macromer system according to clause 1 wherein the pendent initiator
+groups are selected from the group consisting of long-wave ultra violet (LWUV)
+light-activatable molecules, visitble light-activatable molecules, and thermally
+activatable molecules.</li><li>8. A macromer system according to clause 7 wherein the LWUV
+molecules are selected from the group consisting of 4-benzoylbenzoic acid, [(9-oxo-2-thioxanthanyl)-oxy]acetic
+acid, 2-hydroxy thioxanthone, and vinyloxymethylbenzoin
+methyl ether.</li><li>9. A macromer system according to clause 7 wherein the visible light
+activatable molecules are selected from the group consisting of eosin Y, rose bengal,
+camphorquinone and erythrosin. </li><li>10. A macromer system according to clause 7 wherein the thermally
+activatable molecules are selected from the group consisting of 4,4' azobis(4-cyanopentanoic)
+acid and 2,2-azobis[2-(2-imidazolin-2-yl) propane] dihydrochloride.</li><li>11. A macromer system according to clause 1 wherein the pendent
+polymerizable groups are selected from the group consisting of pendent vinyl groups,
+acrylate groups, methacrylate groups, ethacrylate groups, 2-phenyl acrylate groups,
+acrylamide groups, methacrylamide groups, itaconate groups, and styrene groups.</li><li>12. A macromer system according to clause 7 wherein photoinitiation
+occurs by means of a hydrogen abstraction reaction.</li><li>13. A macromer system according to clause 12 wherein the system further
+comprises one or more polymer-pendent energy transfer acceptor molecules.</li><li>14. A macromer system according to clause 13 wherein the energy transfer
+molecule is selected from the group consisting of tertiary amines.</li><li>15. A macromer system according to clause 1 wherein the polymeric
+backbone is selected from the group consisting of synthetic polymers and naturally-occurring
+polymers.</li><li>16. A macromer system according to clause 15 wherein the polymeric
+backbone is selected from the group consisting of biodegradable polymers and
+biostable polymers.</li><li>17. A macromer system according to clause 16 wherein the polymer is
+selected from the group consisting of polymers adapted to form hydrogel matricies
+and polymers adapted to form non-hydrogel matricies.</li><li>18. A macromer system according to clause 17 wherein the polymer
+comprises a biodegradable polymer adapted to form hydrogel matricies.</li><li>19. A macromer system according to clause 18 wherein the polymer is a
+naturally-occurring polymer selected from the group consisting of polysaccharides
+and polyamino acids.</li><li>20. A macromer system according to clause 19 wherein the
+polysaccharides are selected from the group consisting of hyaluronic acid, starch,
+dextran, heparin, and chitosan, and the polyamino acids are selected from the group 
+consisting of gelatin, collagen, fibronectin, laminin, albumin and active peptide
+domains thereof.</li><li>21. A macromer system according to clause 15 wherein the polymer
+comprises a synthetic polymer prepared via condensation polymerization of one or
+more monomers.</li><li>22. A macromer system according to clause 16 wherein the polymers are
+hydrophobic, biodegradable polymers selected from the group consisting of
+polylactides, polyglycolides, polycaprolactones, including copolymers thereof,
+polyanhydrides, and polyortho esters.</li><li>23. A macromer system according to clause 16 wherein the polymers are
+biostable, hydrophilic polymers selected from the group consisting of
+polyvinylpyrrolidone, polyethylene glycol, polyacrylamide, and polyvinyl alcohol.</li><li>24. A macromer system according to clause 16 wherein the polymers are
+synthetic, biostable polymers formed by the polymerization of hydrophobic
+monomers selected from the group consisting of methyl methacrylate, butyl
+methacrylate, and dimethyl siloxanes.</li><li>25. A macromer system according to clause 1 wherein the polymeric
+backbone further comprises pendent reactive groups or affinity groups.</li><li>26. A macromer system according to clause 25 wherein the reactive groups
+or affinity groups are adapted to bind to target groups on a surface of interest.</li><li>27. A method of forming a polymeric matrix adapted for <i>in vivo</i>
+application, the method comprising the steps of providing a macromer system
+according to claim 1, applying the system to a substrate, and cross-linking the system
+by free radical polymerization to form a matrix.</li><li>28. A method according to clause 27, wherein the <i>in vivo</i> application is
+selected from the group consisting of cellular encapsulation, adhesives/sealants,
+barriers, controlled release carriers, tissue replacement, wound dressing, and <i>in situ</i>
+device formation.</li><li>29. A method according to clause 27 wherein photoinitiation of the system
+occurs by means of a hydrogen abstraction reaction. </li><li>30. A method according to clause 29 wherein wherein the system further
+comprises one or more polymer-pendent energy transfer acceptor molecules.</li><li>31. A method according to clause 30 wherein the energy transfer molecules
+are selected from the group consisting of tertiary amines.</li><li>32. A method according to clause 29 wherein photoinitiation results in the
+formation of covalent bonds between the matrix and the substrate.</li><li>33. A polymeric matrix adapted for <i>in vivo</i> application, the matrix
+comprising a macromer system according to clause 1, the system having been crosslinked
+by free radical polymerization to form a matrix.</li><li>34. A matrix according to clause 33, wherein the <i>in vivo</i> application is
+selected from the group consisting of cellular encapsulation, adhesives/sealants,
+barriers, controlled release carriers, tissue replacement, wound dressing, and <i>in situ</i>
+device formation.</li><li>35. A matrix according to clause 33 wherein photoinitiation of the system
+occurs by means of a hydrogen abstraction reaction.</li><li>36. A matrix according to clause 35 wherein the system further comprises
+one or more polymer-pendent energy transfer acceptor molecules.</li><li>37. A matrix according to clause 36 wherein the energy transfer molecules
+are selected from the group consisting of tertiary amines.</li><li>38. A matrix according to clause 35 wherein photoinitiation results in the
+formation of covalent bonds between the matrix and the substrate.</li></sl></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An implantable combination comprising
+<claim-text><claim-text>a) an implant article, and</claim-text><claim-text>b) a matrix-forming system positioned upon the article or between the article and a tissue site and
+comprising a polymerization initiator and a crosslinkable macromer comprising one or more
+polymers having bound polymerizable groups.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The implantable combination according to claim 1 wherein the implant article is selected from
+the group consisting of tissue implants and prosthetic devices providing a porous surface</claim-text></claim><claim num="3"><claim-text>The implantable combination according to claim 1 wherein the implant article is a medical
+device.</claim-text></claim><claim num="4"><claim-text>The implantable combination of any one of claims 1-3 wherein the matrix-forming system is
+crosslinked to form a matrix suitable to permit continuous tissue growth through the matrix and
+between the implant and a tissue site.</claim-text></claim><claim num="5"><claim-text>The implantable combination of any one of claims 1-3 wherein the combination is positioned
+within and/or in apposition to a tissue site, and wherein continuous tissue ingrowth is present
+through the matrix and between the tissue site and the implant article.</claim-text></claim><claim num="6"><claim-text>The implantable combination of any one of claims 1-3 wherein the polymerizable groups and
+the initiator group(s) are pendent on the same polymeric backbone.</claim-text></claim><claim num="7"><claim-text>The implantable combination of any one of claims 1-3 wherein the polymerizable groups and
+initiator group(s) are pendent on different polymeric backbones.</claim-text></claim><claim num="8"><claim-text>The implantable combination of any one of claims 1-3 wherein the pendent initiator groups are
+bonded to one or more monomers used to prepare the polymeric macromer.</claim-text></claim><claim num="9"><claim-text>The implantable combination of any one of claims 1-3 wherein the pendent initiator groups are
+bonded to the polymeric macromer itself.</claim-text></claim><claim num="10"><claim-text>The implantable combination of any one of claims 1-3 wherein the system comprises
+macromers bearing both initiator groups and polymerizable groups in combination with
+macromers providing only pendent polymerizable groups.</claim-text></claim><claim num="11"><claim-text>The implantable combination of any one of claims 1-3 wherein the pendent initiator groups
+are selected from the group consisting of long-wave ultra violet (LWUV) light-activatable
+molecules, visitble light-activatable molecules, and thermally activatable molecules.</claim-text></claim><claim num="12"><claim-text>The implantable combination of claim 11 wherein the LWUV molecules are selected from
+the group consisting of 4-benzoylbenzoic acid, [(9-oxo-2-thioxanthanyl)-oxy]acetic acid, 2-hydroxy
+thioxanthone, and vinyloxymethylbenzoin methyl ether.</claim-text></claim><claim num="13"><claim-text>The implantable combination of claim 11 wherein the visible light activatable molecules
+are selected from the group consisting of eosin Y, rose bengal, camphorquinone and erythrosin.</claim-text></claim><claim num="14"><claim-text>The implantable combination of claim 11 wherein the thermally activatable molecules are
+selected from the group consisting of 4,4' azobis(4-cyanopentanoic) acid and 2,2-azobis[2-(2-imidazolin-2-yl)
+propane] dihydrochloride.</claim-text></claim><claim num="15"><claim-text>The implantable combination of any one of claims 1-3 wherein the pendent polymerizable
+groups are selected from the group consisting of pendent vinyl groups, acrylate groups,
+methacrylate groups, ethacrylate groups, 2-phenyl acrylate groups, acrylamide groups,
+methacrylamide groups, itaconate groups, and styrene groups.</claim-text></claim><claim num="16"><claim-text>The implantable combination of claim 11 wherein photoinitiation occurs by means of a
+hydrogen abstraction reaction.</claim-text></claim><claim num="17"><claim-text>The implantable combination of any one of claims 1-3 wherein the system further comprises
+one or more polymer-pendent energy transfer acceptor molecules.</claim-text></claim><claim num="18"><claim-text>The implantable combination of claim 17 wherein the energy transfer molecule is selected
+from the group consisting of tertiary amines.</claim-text></claim><claim num="19"><claim-text>The implantable combination of any one of claims 1-3 wherein the system includes a
+polymeric backbone is selected from the group consisting of synthetic polymers and naturally-occurring
+polymers.</claim-text></claim><claim num="20"><claim-text>The implantable combination of any one of claims 1-3 wherein the polymer is a naturally-occurring
+polymer selected from the group consisting of polysaccharides and polyamino acids.</claim-text></claim><claim num="21"><claim-text>The implantable combination of claim 20 wherein the polysaccharides are selected from the
+group consisting of hyaluronic acid, starch, dextran, heparin, and chitosan, and the polyamino
+acids are selected from the group consisting of gelatin, collagen, fibronectin, laminin, albumin
+and active peptide domains thereof.</claim-text></claim><claim num="22"><claim-text>The implantable combination of any one of claims 1-3 wherein the polymer comprises a
+synthetic polymer prepared via condensation polymerization of one or more monomers.</claim-text></claim><claim num="23"><claim-text>The implantable combination of any one of claims 1-3 wherein the polymers are
+hydrophobic, biodegradable polymers selected from the group consisting of polylactides,
+polyglycolides, polycaprolactones, including copolymers thereof, polyanhydrides, and polyortho
+esters.</claim-text></claim><claim num="24"><claim-text>The implantable combination of any one of claims 1-3 wherein the polymers are biostable,
+hydrophilic polymers selected from the group consisting of polyvinylpyrrolidone, polyethylene
+glycol, polyacrylamide, and polyvinyl alcohol.</claim-text></claim><claim num="25"><claim-text>The implantable combination of any one of claims 1-3 wherein the polymers are synthetic,
+biostable polymers formed by the polymerization of hydrophobic monomers selected from the
+group consisting of methyl methacrylate, butyl methacrylate, and dimethyl siloxanes.</claim-text></claim><claim num="26"><claim-text>The implantable combination of any one of claims 1-3 wherein the polymeric backbone
+further comprises pendent reactive groups or affinity groups.</claim-text></claim><claim num="27"><claim-text>The implantable combination of claim 26 wherein the reactive groups or affinity groups are
+adapted to bind to target groups on a surface of interest.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

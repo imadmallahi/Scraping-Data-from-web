@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1245661-A1" country="EP" doc-number="1245661" kind="A1" lang="EN" family-id="25212788" status="new" date-produced="20090516" date="20021002"><bibliographic-data><publication-reference ucid="EP-1245661-A1" status="new" fvid="23562778"><document-id status="new" format="original"><country>EP</country><doc-number>1245661</doc-number><kind>A1</kind><date>20021002</date></document-id></publication-reference><application-reference ucid="EP-02251922-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>02251922</doc-number><kind>A</kind><date>20020318</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-81357501-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>81357501</doc-number><kind>A</kind><date>20010321</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B01D  53/56        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  53/56        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  53/62        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  53/62        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  53/86        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01D  53/86        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01D  53/94        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01D  53/94        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  11/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10G  11/18        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B01D  53/56</classification-symbol><classification-symbol scheme="EC">B01D  53/62</classification-symbol><classification-symbol scheme="EC">C10G  11/18A</classification-symbol><classification-symbol scheme="ICO">L01D257:402</classification-symbol><classification-symbol scheme="ICO">L01D257:404</classification-symbol><classification-symbol scheme="ICO">L01D257:502</classification-symbol><classification-symbol scheme="ICO">M10M201:02</classification-symbol><classification-symbol scheme="ICO">M10M205:14</classification-symbol><classification-symbol scheme="ICO">M10M205:16</classification-symbol><classification-symbol scheme="ICO">M10M205:17</classification-symbol><classification-symbol scheme="ICO">M10M207:281</classification-symbol><classification-symbol scheme="ICO">M10M207:282</classification-symbol><classification-symbol scheme="ICO">M10M207:283</classification-symbol><classification-symbol scheme="ICO">M10M207:286</classification-symbol><classification-symbol scheme="ICO">M10M207:40</classification-symbol><classification-symbol scheme="ICO">M10M207:404</classification-symbol><classification-symbol scheme="ICO">M10M209:104</classification-symbol><classification-symbol scheme="ICO">M10M219:024</classification-symbol><classification-symbol scheme="ICO">M10M219:082</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Verminderung des Stickoxidausstosses aus einem Reaktor zur Regenerierung eines Katalysators</invention-title><invention-title load-source="ep" status="new" lang="EN">Reduction of nitrogen oxide emissions from a reactor for regenerating a catalyst</invention-title><invention-title load-source="ep" status="new" lang="FR">Réduction d'emissions d'oxydes d'azote dans un reacteur pour la régeneration d'un catalyseur</invention-title><citations><patent-citations><patcit ucid="GB-1417980-A" status="new"><document-id status="new" format="epo"><country>GB</country><doc-number>1417980</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4051069-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4051069</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4056486-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4056486</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4313848-A"  status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4313848</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4843051-A" status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>4843051</doc-number><kind>A</kind></document-id><sources><source category="X"  name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="US-5908804-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5908804</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>BOC GROUP INC</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>THE BOC GROUP, INC.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>THE BOC GROUP, INC.</last-name><address><street>575 Mountain Avenue</street><city>Murray Hill, New Providence, New Jersey 07974-2082</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>GANGULY SUBODH</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>LIMBACH KIRK WALTON</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TAMHANKAR SATISH SHANKAR</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GANGULY, SUBODH</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>LIMBACH, KIRK WALTON</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TAMHANKAR, SATISH SHANKAR</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GANGULY, SUBODH</last-name><address><street>2 Meadow Drive</street><city>Plainsboro, New Jersey 08536</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>LIMBACH, KIRK WALTON</last-name><address><street>3 Aiman Circle</street><city>Dresher, Pennsylvania 19025</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TAMHANKAR, SATISH SHANKAR</last-name><address><street>2098 Maple View Court</street><city>Scotch Plains, New Jersey 07076</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Wickham, Michael</last-name><address><street>c/o Patent and Trademark Department The BOC Group plc Chertsey Road</street><city>Windlesham Surrey GU20 6HJ</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A process for regenerating a spent catalyst having coke deposits thereon in a
+catalyst regeneration vessel having a dense phase and a dilute phase, wherein the
+process comprises the steps of: (a) contacting the spent catalyst with a primary
+oxygen-containing gas in the dense phase, thereby combusting the coke, resulting
+in the formation of a combustion gas comprising nitrogen oxides and carbon
+monoxide which further reacts, thus reducing a majority of the nitrogen oxides to
+form elemental nitrogen; and (b) contacting the combustion gas with a secondary
+oxygen-containing gas, and typically a shield gas, in the dilute phase, thereby
+oxidizing the remaining CO to CO<sub>2</sub> without significant temperature rise in the dilute
+phase due to the after burn.
+<img id="img-00000001" orientation="unknown" wi="76" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="99"/></p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">This invention relates to process and reactor modifications for the reduction of
+nitrogen oxides (No<sub>x</sub>) emissions from catalyst regenerators.</p><p num="0002">In the fluid catalytic cracking (FCC) process, hydrocarbon feedstock is injected into
+the riser section of a hydrocarbon cracking reactor where it cracks into lighter,
+valuable products on contacting hot catalyst circulated to the riser-reactor from a
+catalyst regenerator vessel. As the endothermic cracking reactions take place, the
+catalyst is covered with coke deposits. The catalyst and hydrocarbon vapors are
+carried up the riser to the disengagement section of the reactor where they are
+separated. Subsequently, the catalyst flows into the stripping section where the
+hydrocarbon vapors entrained with the catalyst are stripped by steam injection, and
+the stripped catalyst flows through a spent catalyst standpipe and into the catalyst
+regenerator vessel.</p><p num="0003">The regenerator vessel is operated as a fluid bed reactor with the catalyst forming a
+dense phase in the lower section of the reactor and a dilute phase above the dense
+phase. Air or oxygen-enriched air is introduced through an air grid located in the
+dense phase near the bottom of the vessel. When the coke-laden catalyst comes in
+contact with the air the coke is burned forming CO and carbon dioxide (CO<sub>2</sub>), which,
+along with the nitrogen in the air, pass upwards through the dense phase, into the
+dilute phase, and then exits the regenerator. These gases constitute the majority of
+the flue gas. During the coke combustion process, any nitrogen containing species
+present in the coke also react with oxygen to form mostly elemental nitrogen (N<sub>2</sub>)
+and a small amount of NO<sub>x</sub>. These species, along with any sulfur oxides (SO<sub>x</sub>)
+formed by the combustion of sulfur present in the coke, also travel with the
+CO/CO<sub>2</sub>/N<sub>2</sub> through the regenerator. The region of the reactor near the air grid,
+within the dense phase, has a high oxygen concentration that constitutes the 
+oxidizing zone. Away, or downstream from the air grid, as oxygen is depleted, a
+reducing zone forms, where the CO concentration is significant. The CO continues
+to react with the remainder of the oxygen to form CO<sub>2</sub>. In the reducing zone, NO<sub>x</sub>
+species also react with CO to form elemental nitrogen. Depending on the
+concentration of CO and O<sub>2</sub> in this zone, more or less NO<sub>x</sub> will react.</p><p num="0004">The catalyst regeneration vessel may be operated in the complete CO combustion
+mode, which has now become the standard combustion mode, or in partial CO
+combustion mode. In the complete combustion operation, the coke on the catalyst
+is oxidized completely to form CO<sub>2</sub>. This is typically accomplished by conducting the
+regeneration in the presence of excess oxygen, provided in the form of excess air.
+The exhaust gas from a complete combustion operation comprises primarily
+nitrogen, CO<sub>2</sub>, H<sub>2</sub>O and excess oxygen, but also contains NO<sub>X</sub> and SO<sub>X</sub>.</p><p num="0005">In the partial CO combustion mode of operation, the catalyst regeneration vessel is
+operated with insufficient oxygen to fully oxidize all of the coke in the catalyst to CO<sub>2</sub>.
+Consequently the coke is combusted to a mixture of CO and CO<sub>2</sub>. The remaining
+CO is oxidized to CO<sub>2</sub> in a downstream CO boiler. When the regeneration vessel is
+operated in the partial CO combustion mode, less NO<sub>X</sub> is produced, and that which
+is produced reacts with CO in the reducing zone to form elemental nitrogen.
+Instead, nitrogen species in the coke leave the regeneration vessel as reduced
+nitrogen species, such as, ammonia and HCN. However, the reduced nitrogen
+species are unstable in the CO boiler, where they are converted to NO<sub>X</sub>. Thus the
+effluent from the CO boiler comprises primarily nitrogen, CO<sub>2</sub> and H<sub>2</sub>O, but also
+contains NO<sub>X</sub> and SO<sub>X</sub>.</p><p num="0006">Recently, there has been considerable concern about the amount of NO<sub>X</sub> and SO<sub>X</sub>
+being released to the environment in refinery flue gases. It is now the accepted view
+that most of the NO<sub>X</sub> present in catalyst regenerator exhaust comes from coke
+nitrogen, i.e., nitrogen contained in the coke in the form of hetero-compounds, such 
+as, condensed cyclic compounds, and that little or none of the NO<sub>X</sub> contained in the
+exhaust gas is derived from the nitrogen contained in the air feed to the regeneration
+vessel.</p><p num="0007">Several approaches have been used in industry to reduce NO<sub>x</sub> in FCC regenerator
+vessel exhaust gases. These include capital-intensive and expensive options, such
+as pretreatment of reactor feed with hydrogen, and flue gas post-treatment options,
+such as Selective Catalytic Reduction (SCR), as well as the use of in-situ FCC
+catalyst additives. A number of other methods have also been contemplated for NO<sub>x</sub>
+reduction, as discussed below.</p><p num="0008">U.S. Patent No. 5,268,089 discloses that NO<sub>X</sub> can be reduced by operating the
+regenerator "on the brink", i.e., in a region between conventional partial CO
+combustion operation and complete combustion operation with less than 2 mol %
+CO in the flue gas. The patent claims NO<sub>X</sub> reduction by operating in this mode.
+However, a CO boiler is still required to burn the CO exiting from the regenerator, as
+is the case in the partial combustion mode of operation. Furthermore, while U.S.
+Patent No. 5,268,089 discloses the existence of afterburn as a result of operating
+"on the brink", a solution to avoid or mitigate the overheating in the dilute phase due
+to afterburn is not disclosed.</p><p num="0009">Several patents disclose the reduction of NO<sub>X</sub> in FCC regenerators by means of
+promoters, segregated feed cracking, post treatment of exhaust gas, etc. These
+patents are discussed in detail in U.S. Patent No. 5,268,089, the disclosure of which
+is incorporated herein by reference.</p><p num="0010">U.S. Patents Nos. 5,705,053, 5,716,514, and 5,372,706 each disclose variations of
+the basic idea of controlled air addition to flue gas from a regenerator operated in
+the partial combustion mode, before the CO boiler, to convert part of the NO<sub>X</sub>
+precursor species (HCN, NH<sub>3</sub>) selectively to N<sub>2</sub> rather than NO<sub>X</sub>. Consequently, in 
+the CO boiler, less NO<sub>X</sub> is generated. In U.S. Patent No. 5,705,053 an additional
+catalytic step is suggested for NO<sub>X</sub>/NH<sub>3</sub> reaction. In U.S. Patent No. 5,372,706, the
+thermal conversion of NO<sub>X</sub> precursors is claimed at temperatures between 2000 and
+2900 °F. In U.S. Patent No. 5,716,514 flue gases are specifically removed from the
+regenerator and comprise at least 2.5% carbon monoxide. These gases are reacted
+in a separate turbulent flow reactor. In all of these patents, the secondary air
+addition is aimed at reacting part of the NH<sub>3</sub>/HCN formed due to the partial
+combustion operation.</p><p num="0011">U.S. Patent No. 5,240,690 suggests a partial combustion mode of operation and the
+addition of air to the regenerator off-gas comprising at least 1% carbon monoxide to
+oxidize NH<sub>3</sub>/HCN and preferentially produce N<sub>2</sub> prior to the CO boiler.</p><p num="0012">Efforts are continuously underway to find new and improved methods of reducing
+the concentrations of NO<sub>X</sub> and SO<sub>X</sub> in industrial flue gases, such as, FCC
+regeneration vessel exhaust gases.</p><p num="0013">The present invention provides inexpensive regeneration vessel modifications that
+significantly reduce NO<sub>X</sub> emissions by concurrently introducing secondary oxygen-containing
+gases, optionally with shielding gases, into the dilute phase of a
+regeneration vessel which is operated in a manner that does not require the use of a
+CO boiler. The present invention provides means to eliminate the majority of NO<sub>x</sub>
+emissions from a FCC regenerator.</p><p num="0014">The present invention is directed to a process for substantially reducing the emission
+of nitrogen oxide from a regeneration reactor during the regeneration of a spent
+catalyst, such as, a hydrocarbon cracking catalyst, having coke deposits thereon,
+which comprises the steps of:
+<sl><li>(a) contacting the spent catalyst with a primary oxygen-containing gas in the 
+dense phase of the reactor, thereby combusting the coke and forming a
+combustion gas comprising nitrogen oxide and carbon monoxide which
+further react in said dense phase, thus reducing a majority of the nitrogen
+oxides to form elemental nitrogen, thereby forming a nitrogen-enriched
+combustion gas; and</li><li>(b) contacting the nitrogen-enriched combustion gas in the dilute phase of the
+reactor with a secondary oxygen-containing gas, wherein the carbon
+monoxide is oxidized to form carbon dioxide.</li></sl></p><p num="0015">The amount of the primary oxygen-containing gas in step (a) is adjusted so that the
+nitrogen-enriched combustion gas prior to step (b) comprises up to 1% carbon
+monoxide. As a result of this process, nitrogen oxide emissions from the
+regeneration reactor are significantly reduced while the temperature rise due to
+afterburn in the dilute phase is minimized and controlled by the introduction of a
+shield gas or heat removal devices.</p><p num="0016">The present invention also employs one or more nozzles configured to allow the
+secondary oxygen-containing gas, and, optionally, a shield gas, to be introduced into
+the dilute phase of the regeneration reactor so as to provide combustion conditions,
+and control the temperature rise due to afterburn in the dilute phase.</p><p num="0017">The secondary oxygen-containing gas introduced to the reactor oxidizes the residual
+CO exiting the dense phase. Steam or water may be added to the secondary
+oxygen-containing gas stream as a shield gas to assist in the even distribution of
+oxygen across the regenerator vessel and to reduce the temperature rise in the
+dilute phase due to the combustion of CO. The location of the one or more nozzles
+feeding the steam or water is selected such that there is minimal contact of steam
+with the majority of the catalyst, thereby avoiding catalyst deactivation. The excess
+heat generated in the dilute phase due to the exothermic CO oxidation may also be 
+removed by other means, such as, for example, with a cooling coil located in the
+dilute phase.</p><p num="0018">The present invention may also be configured in such a manner that the secondary
+oxygen-containing gas is introduced in different stages at different vertical heights in
+the reactor vessel. For example, a portion of the secondary oxygen-containing gas
+may be introduced to the reactor at or just above the interface between the dense
+phase and the dilute phase, prior to introducing the main secondary oxygen-containing
+gas, as described above. The secondary oxygen-containing gas
+introduced at the interface is in an amount sufficient to combust the small amount of
+residual reduced nitrogen species, such as, NH<sub>3</sub> and HCN, contained in the
+combustion gas to form nitrogen oxides, which are subsequently reacted with CO to
+form elemental nitrogen. The secondary oxygen-containing gas is then staged or
+introduced to the dilute phase of the vessel at a point downstream in order to
+perform the process as described above. The secondary oxygen containing gas
+may be introduced to the interface between the dense and dilute phases of the
+reactor with one or more nozzles. Additionally, a shield gas may be introduced with
+the secondary oxygen-containing gas to assist in the even distribution of oxygen
+across the vessel and to avoid catalyst deactivation by creating a gas barrier
+between the steam introduced above that point and the catalyst.</p><p num="0019">In another embodiment of the present invention, to further eliminate the small
+amount of CO that may escape from the dilute phase of the regenerator vessel, the
+secondary oxygen-containing gas is staged or introduced to the exhaust flue of the
+vessel after carrying out the processes as described above. The oxygen-containing
+gas oxidizes any remaining CO that may be present in the flue gas, thus forming
+CO<sub>2</sub>. The secondary oxygen-containing gas may be introduced to the exhaust flue
+with one or more nozzles. Additionally, a shield gas may also be introduced to
+assist in the even distribution of oxygen across the exhaust duct and control the
+temperature rise due to afterburn. </p><p num="0020">Significant cost savings relative to the large reduction in NO<sub>x</sub> occur since no
+separate NO<sub>x</sub> removal equipment is required downstream. In addition, the process
+of the present invention is advantageous since it involves minimal modifications to
+the existing regeneration vessel and associated equipment, compared to installation
+of a secondary air grid. Furthermore, because there is virtually no CO exiting the
+reactor, no downstream carbon monoxide boiler is required.</p><p num="0021">The present invention is also directed to a catalyst regeneration vessel having a
+dense phase and a dilute phase comprising:
+<sl><li>(a) a means for introducing a primary oxygen-containing gas into the dense
+phase of the regeneration vessel; and</li><li>(b) a means for introducing a secondary oxygen-containing gas into the dilute
+phase of the regeneration vessel.</li></sl></p><p num="0022">In one embodiment of the present invention, the regeneration vessel is a reactor.
+Preferably, a means for introducing a primary oxygen-containing gas to the reactor is
+an air grid located in the dense phase. In addition, preferably, one or more means
+for introducing a secondary oxygen-containing gas, and optionally a shield gas, into
+the reactor is in the form of nozzles, which are located in the side walls and/or the
+dome of the reactor at various angles and heights. In another embodiment of the
+present invention, the reactor has a means for staging the introduction of the
+secondary oxygen-containing gas to the dilute phase of the reactor at or just above
+the interface with the dense phase. In yet another embodiment of the present
+invention, the reaction vessel has a means for staging the introduction of the
+secondary oxygen-containing gas to the exhaust flue of the vessel. </p><p num="0023">The process and vessel according to the invention will now be described by way of
+example with reference to the accompanying drawings, in which:
+<sl><li>Figure 1 is a cross sectional view of a regeneration vessel illustrating one
+embodiment of the present invention;</li><li>Figure 2 is a top view of the regeneration vessel of Figure 1;</li><li>Figure 3 is a cross sectional view of a regeneration vessel illustrating another
+embodiment of the present invention;</li><li>Figure 4 is a top view of the regeneration vessel of Figure 3;</li><li>Figure 5 is a cross sectional view of a regeneration vessel illustrating still another
+embodiment of the present invention;</li><li>Figure 6 is a side view of a concentric nozzle according to the present invention; and</li><li>Figure 7 is a front view of the concentric nozzle taken along lines II-II of Figure 6.</li></sl></p><p num="0024">According to this invention, NO<sub>X</sub> emissions from a FCC regeneration vessel are
+reduced significantly by operating the regenerator essentially in a complete
+combustion mode such that up to about 1 % CO by volume exits the dense catalyst
+phase, and by introducing secondary oxygen-containing gases, and, optionally,
+shield gases, which can improve CO conversion while reducing temperature rise and
+improve the distribution of oxygen in the dilute phase. Afterburn temperature rise in
+the dilute catalyst phase may also be controlled by a separate mechanism, such as,
+with a heat exchanger. </p><p num="0025">Referring to Figure 1, in one embodiment of the present invention, spent catalyst is
+introduced into regeneration vessel 2 via spent catalyst transport line 4. The spent
+catalyst swirls around the interior of regeneration vessel 2 and settles into dense
+phase 12. Dilute phase 14 forms in the upper region of regeneration vessel 2 and is
+substantially free of spent catalyst. A primary oxygen-containing gas 8 is introduced
+into regeneration vessel 2 via air grid feed line 16, which feeds air grid 18. Air grid
+18 is located within dense phase 12. The spent catalyst contacts the primary
+oxygen-containing gas 8 in dense phase 12, thereby combusting the coke on the
+surface of the spent catalyst, and forming a combustion gas containing carbon
+monoxide, carbon dioxide, nitrogen oxides, water vapor, and/or sulfur oxides. As a
+result of the CO present in the dense phase forming a reducing atmosphere, the
+nitrogen oxides formed near the air grid, by reactions of nitrogen species present in
+the coke with oxygen, are reduced to elemental nitrogen.</p><p num="0026">The combustion gas rapidly rises in regeneration vessel 2 and enters dilute phase
+14. As the combustion gas rises up through dilute phase 14, a secondary oxygen-containing
+gas 22 and, preferably, a shield gas 23 are introduced into dilute phase
+14 via one or more nozzles 24. The CO in the combustion gas is oxidized by the
+secondary oxygen-containing gas to form CO<sub>2</sub>. The resulting temperature increase
+in dilute phase 14 due to the exothermic reaction associated with the oxidation of the
+carbon monoxide can be controlled by the injection of shield gas 23 into dilute phase
+14 via one or more nozzles 24, or by using some other heat removal device, such as
+a heat exchanger. The combustion gas containing carbon dioxide and elemental
+nitrogen is vented from dilute phase 14 of regeneration vessel 2 through exhaust
+flue 10. While a specific number of nozzles, and nozzle locations are shown in
+Figure 1, it is to be understood that regeneration vessel 2 can be configured with
+any number of nozzles at any number of angles. Depending on the number of
+nozzles used and the angle of their placement, the regenerator controls can be
+adjusted to achieve the desired combustion and afterburn control. </p><p num="0027">By way of example, the above embodiment is further illustrated in Figure 2, which is
+a top view of regeneration vessel 2 depicted in Figure 1. One or more nozzles 24 for
+introducing the secondary oxygen-containing gas and shield gas may be positioned
+on top dome 3 of regeneration vessel 2 between one or more cyclones 38, also
+positioned on top dome 3 of regeneration vessel 2. The one or more nozzles 24
+may be extended into the regeneration vessel 2 on a lance or angled such that the
+secondary oxygen-containing gas and the shield gas is injected deep into the dilute
+phase of regeneration vessel 2, achieving excellent mixing and optimum combustion
+conditions in the dilute phase. While a specific number of nozzles are shown in
+Figure 2, it should be understood that regeneration vessel 2 can be configured with
+any number of nozzles at any number of angles. Depending on the number of
+nozzles used and the angle of their placement, the regenerator controls can be
+adjusted to achieve the desired combustion and afterburn control.</p><p num="0028">Referring to Figures 3 and 4, another example of a regeneration vessel having one
+or more nozzles is depicted. The operation of this regeneration vessel is identical to
+that described above for the regeneration vessel depicted in Figure 1. Regeneration
+vessel 2, depicted in Figure 3, may be configured with one or more nozzles 24
+located in the side wall of regeneration vessel 2. The nozzles may be placed at
+different vertical heights in the vessel in order to stage the introduction of the
+oxygen-containing gas. In addition, the one or more nozzles 24 can be angled such
+that secondary oxygen-containing gas 22 and, preferably, shield gas 23 are injected
+into dilute phase 14 such that the desired combustion and afterburn control is
+achieved. Figure 4 shows the top view of regeneration vessel 2 of Figure 3. One or
+more nozzles 24 can be located around the circumference of the vessel walls, at the
+desired heights and angles. While a specific number of nozzles are shown in Figure
+4, it should be understood that regeneration vessel 2 can be configured with any
+number of nozzles at any number of angles and heights. Depending on the number
+of nozzles used and the angle and height of their placement, the regenerator
+controls can be adjusted to achieve the desired combustion and afterburn control. </p><p num="0029">Another embodiment of the present invention is depicted in Figure 5. In this
+embodiment, prior to introducing the secondary oxygen-containing gas, as described
+in Figures 1 through 4 above, one or more nozzles 24 are used to stage the
+introduction of the secondary oxygen-containing gas to dilute phase 14 of vessel 2,
+at or just above the interface between dense phase 12 and dilute phase 14. This
+interface is the point where the combustion gas enters dilute phase 14 from dense
+phase 12. The NH<sub>3</sub> and HCN in the combustion gas are oxidized by the secondary
+oxygen-containing gas 22, which is introduced near the interface, resulting in the
+formation of nitrogen oxides. Little of the CO is oxidized by the secondary oxygen-containing
+gas 22 at this point. The majority of the CO present in dilute phase 14 is
+oxidized by the secondary oxygen-containing gas 22 that is introduced at a higher
+location in dilute phase 14 in the manner described in Figures 1 through 4 above.
+The resulting temperature increase in dilute phase 14 due to the exothermic reaction
+associated with the oxidation of the carbon monoxide is controlled by the injection of
+shield gas 23 into dilute phase 14 via one or more nozzles 24, or by some other heat
+removal device, such as a heat exchanger. Additionally, shield gas 23 comprising
+nitrogen or carbon dioxide or recirculated flue gases, introduced near the interface,
+assists in the even distribution of oxygen across the vessel and prevents the
+deactivation of catalyst in dense phase 12 in the case where shield gas 23,
+introduced at a higher location, is steam or water particles. While a specific number
+of nozzles are shown in Figure 5, it should be understood that regeneration vessel 2
+can be configured with any number of nozzles at any number of angles and heights.
+Depending on the number of nozzles used and the angle and height of their
+placement, the regenerator controls can be adjusted to achieve the desired
+combustion and afterburn control.</p><p num="0030">In another embodiment of the present invention (not shown), the secondary oxygen-containing
+gas is staged such that it is introduced to the exhaust flue of the vessel to
+prevent CO leakage. This additional secondary oxygen-containing gas oxidizes the 
+small amount of residual CO that may be in the exhaust gas leaving the vessel to
+form CO<sub>2</sub>. The secondary oxygen-containing gas may be introduced to the exhaust
+flue by one or more nozzles. Additionally, a shield gas may also be introduced to
+the exhaust flue to assist in the even distribution of oxygen across the exhaust flue
+and control temperature rise due to afterburn resulting from the exothermic oxidation
+of the CO. Depending on the number and the configuration of nozzles used, the
+regeneration vessel controls can be adjusted to achieve the desired combustion and
+afterburn control.</p><p num="0031">While any suitable nozzle may be used to inject the oxygen-containing gas and the
+shield gas into the regeneration vessel or exhaust flue, it is preferred that a
+concentric nozzle be used. By using a concentric nozzle, the oxygen-containing gas
+and the shield gas can be simultaneously injected. As a result, the desired
+combustion can be achieved while concurrently controlling the resulting temperature
+rise due to afterburn with the shield gas. The concentric nozzles are configured to
+allow penetration of the gases deep into the regenerator vessel dilute phase to effect
+good mixing and the desired reactions. Preferably, the nozzles are located
+externally through the walls of the regenerator and/or through the top dome of the
+regenerator.</p><p num="0032">Referring to Figures 6 and 7, an example of a concentric nozzle is provided.
+Concentric nozzle 24 has nozzle head 26, inner delivery channel 32, and outer
+delivery channel 34. Oxygen-containing gas 22 is fed to inner delivery channel 32
+and is injected into the regeneration vessel through nozzle head 26 as oxygen-containing
+gas stream 30. Shield gas 23 is fed to outer delivery channel 34 and is
+injected into the regeneration vessel as shield gas stream 28, which surrounds the
+entire circumference of oxygen-containing gas stream 30 upon discharge from
+nozzle 24. By introducing the oxygen-containing gas and the shield gas into the
+regeneration vessel via one or more concentric nozzles, deeper penetration and a
+more uniform dispersion of the gases throughout the vessel is achieved. </p><p num="0033">The primary oxygen-containing gas injected into the air grid in the dense phase of
+the regeneration vessel may be any typical feed gas mixture, for example, air,
+oxygen-enriched air, oxygen-carbon dioxide, oxygen-argon, and mixtures thereof.
+Preferred gas mixtures include air and oxygen-enriched air. It is preferred that the
+gas mixture has an oxygen content that is at least 20 % by volume and more
+preferably greater than 24 % by volume. The primary oxygen-containing gas is fed
+to the air grid in the dense phase at a superficial vessel velocity from about 0.5 to
+about 10.0 ft/sec. This allows for the conversion of most of the coke nitrogen
+species to elemental nitrogen, NO, and NO<sub>2</sub> in the dense catalyst phase. Small
+amounts of reduced nitrogen species, such as NH<sub>3</sub> and HCN may also be present in
+the combustion gas exiting the dense catalyst phase.</p><p num="0034">The regeneration vessel conditions (i.e., regeneration gas flow, catalyst circulation
+rate, etc.) are adjusted such that throughout the dense phase, excluding the
+combustion zone in the immediate vicinity of the air grid, reducing conditions are
+maintained so as to allow sufficient residence time for the CO/NO<sub>X</sub> reactions
+resulting in the formation of elemental nitrogen. To assure these conditions exist, up
+to about 1% CO is present in the combustion gas exiting the dense phase and rising
+into the dilute phase of the regeneration vessel.</p><p num="0035">The maximum oxygen throughput in the dense phase of the regeneration vessel
+relative to the amount of coke to be burned is controlled such that the average
+temperature in the dense phase is in the range from about 650°C to 815°C.
+Preferably, the average temperature in the dense phase of the regeneration vessel
+is from about 670°C to 790°C.</p><p num="0036">The secondary oxygen-containing gas introduced into the dilute phase or the
+exhaust flue of the regeneration vessel may be any typical feed gas mixture, for
+example, air, oxygen-enriched air, oxygen-carbon dioxide, oxygen-argon, and 
+mixtures thereof. Preferred gas mixtures include air and oxygen-enriched air. It is
+preferred that the gas mixture has an oxygen content that is at least 20% by volume,
+and more preferably at least 24% by volume, and is fed to the dilute phase at a
+velocity from about 50 ft/sec to 400 ft/sec through nozzles to allow for an even
+distribution of oxygen in the dilute phase.</p><p num="0037">The amount of oxygen introduced in the secondary oxygen-containing gas stream is
+3 to 50 times smaller than that entering the primary oxygen-containing gas stream
+introduced through the air grid. The amount of oxygen is selected so as to be
+sufficient for residual CO combustion. A majority of the coke combustion still occurs
+within the dense phase of the regenerator.</p><p num="0038">In concert with the use of a shield gas or a mechanical device to cool the dilute
+catalyst phase, the maximum concentration of oxygen entering the dilute phase of
+the regeneration vessel is controlled such that the average temperature increase in
+the dilute phase due to the combustion is from about 10°C to 50°C. Preferably, the
+average temperature increase in the dilute phase of the regeneration vessel is less
+than 30°C. Various means of cooling the dilute phase can be used, such as, for
+example, a heat exchanger, atomized water, steam, and combinations thereof.
+When atomized water is used, the cooling is effected by the phase change and
+sensible heat required to equalize the temperature of the water and combustion
+gases. When steam is used, the cooler temperature of the steam being introduced
+lowers the temperature of the combustion gases through direct heat exchange.</p><p num="0039">Suitable shield gas that is injected into the dilute phase may include, for example,
+gas selected from the group consisting of: steam, nitrogen, recirculated flue gases,
+carbon dioxide, and mixtures thereof. Preferably, the shield gas introduced with the
+secondary gas stream is steam or water mist and is introduced into the dilute phase
+at a velocity from about 50 ft/sec to 400 ft/sec. Steam or water allows for some
+cooling of the dilute phase and enhances the conversion of CO to CO<sub>2</sub>. In the case 
+where the secondary oxygen-containing gas is staged such that it is introduced at
+the interface between the dense and dilute phases of the vessel, the shield gas
+introduced is preferably nitrogen or recirculated flue gas and is introduced at a
+velocity from about 50 ft/sec to 400 ft/sec.</p><p num="0040">The present invention is further illustrated, but not limited, by the examples below.</p><heading><u style="single">EXAMPLE 1</u></heading><p num="0041">For a 40 TBD FCC unit, about 4 MMSCFH air would be used as the feed gas. If one
+used a 90/10 split of air with 90% being fed to the dense phase of the regeneration
+vessel and 10% being fed to the dilute phase of the regeneration vessel, about
+400,000 SCFH air would be fed through the one or more nozzles. Assuming, for
+example, that 20 nozzles are used, velocities of over 200 ft/sec can be achieved
+with 2" diameter nozzles. This is sufficient to move the air about 15 ft into the
+regeneration vessel. If a shield gas, such as steam or recirculated flue gas is used
+in a concentric nozzle design, the air or enriched air can be propelled even further,
+and with a more uniform dispersion of O<sub>2</sub> throughout the regeneration vessel cross-section.
+Nozzles would be angled to achieve the desired flow pattern and two or
+more levels of oxygen introduction may be used. The temperature rise due to
+afterburn, in this case, is expected to be in the range 20 to 100°C, which can be
+mitigated with the injected steam or other quenching gases, which comprise the
+shield gas, or by mechanical means.</p><p num="0042">Experiments conducted in a 3" fluidized bed reactor revealed that with a residence
+time of 28 sec, 1% CO entering the dilute phase was completely removed to
+undetectable levels by introducing only 1% O<sub>2</sub> at 700°C in the absence of any
+catalyst. Although the residence time is somewhat longer than typically expected,
+substantial reduction of CO is expected by adjusting the O<sub>2</sub> injection level. </p><heading><u style="single">EXAMPLE 2</u></heading><p num="0043">A 1" ID reactor system was used to perform CO kinetic experiments. A T-mixing
+station was placed at the entrance to the reactor with preheating of the feeds so that
+hot feeds could be mixed in a rigorous fashion just prior to entering the reactor. A
+cooling coil exchanger was placed at the reactor outlet to cool exit gases quickly.</p><p num="0044">Results, presented in Table 1 below, indicate that CO combustion could be achieved
+by 1% to 2% O<sub>2</sub> in the dilute phase of a FCC regeneration vessel operating at typical
+temperatures in the range of 700°C or higher in the case where a CO boiler is not
+available and carbon monoxide exiting the dense catalyst bed has a concentration of
+up to 1%. About 10 seconds of gas residence time appears to reduce CO from
+approximately 1% to the 200 ppm range, and a typical FCC regeneration vessel
+would have over 10 seconds of gas residence time available for this purpose.
+<tables><table><tgroup cols="5"><tbody><row><entry nameend="5" namest="1"><b>CO Combustion Results</b></entry></row><row><entry align="center">Temperature
+
+(°C)</entry><entry align="center">Residence Time
+
+(sec)</entry><entry align="center">O<sub>2</sub> in
+
+(%)</entry><entry align="center">CO in
+
+(%)</entry><entry align="center">CO out
+
+(ppm)</entry></row><row><entry align="center">700</entry><entry align="center">10</entry><entry align="center">1.8</entry><entry align="center">1</entry><entry align="center">200</entry></row><row><entry align="center">700</entry><entry align="center">10</entry><entry align="center">0.9</entry><entry align="center">1</entry><entry align="center">250</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">EXAMPLE 3</u></heading> <p num="0045">For nitrogen oxide (NO) experimentation, a 1" ID reactor was used with an expanded
+head region for catalyst disengagement. A high matrix equilibrium FCC catalyst was
+used, and gas residence time in the catalyst bed was calculated to be 2 seconds.
+Typical gas residence time in a FCC dense phase catalyst bed is over 3 seconds.
+The reactor was maintained at roughly 730°C throughout the experiments. </p><p num="0046">First, the catalyst was exposed to 21% O<sub>2</sub> in N<sub>2</sub> for 5 minutes. The catalyst was then
+exposed to 1.5% H<sub>2</sub> in N<sub>2</sub> for 2 minutes. This procedure is meant to simulate the
+time the catalyst is in the regeneration vessel in an oxidizing atmosphere and then in
+the riser/stripper in a reducing atmosphere. N<sub>2</sub> was used to briefly purge the catalyst
+after each step. A stream containing 0.5% CO and 500 ppm NO in N<sub>2</sub> was passed
+over the catalyst with a 2 second residence time in the catalyst bed. The
+concentration of NO exiting the reactor was too small to measure. The experiment
+was repeated with 1% CO, 0.5% O<sub>2</sub> and 500 ppm NO entering the reactor. Again,
+the concentration of NO exiting the reactor was too small to measure. These results
+indicate that under conditions similar to those in a FCC regeneration vessel, NO
+would be destroyed by CO.</p><p num="0047">Experiments were also conducted in a steady state mode as described in Table 2
+below with complete elimination of NO in the reactor. In these experiments, 500
+ppm NO entered the reactor along with the compositions described in Table 2, and
+N<sub>2</sub>.
+<tables><table><tgroup cols="5"><tbody><row><entry nameend="5" namest="1"><b>NO Reaction with CO Results</b></entry></row> <row><entry align="center">Temperature
+
+(°C)</entry> <entry align="center">Residence Time
+
+(sec)</entry> <entry align="center">O<sub>2</sub> in
+
+(%)</entry><entry align="center">CO in
+
+(%)</entry><entry align="center">NO out
+
+(ppm)</entry></row><row><entry align="center">730</entry><entry align="center">2</entry><entry align="center">0</entry><entry align="center">0.5</entry><entry align="center">0</entry></row><row><entry align="center">730</entry><entry align="center">2</entry><entry align="center">0.5</entry><entry align="center">1</entry><entry align="center">0</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">EXAMPLE 4</u></heading><p num="0048">For NH<sub>3</sub> and HCN kinetic experimentation, a 1" ID reactor was used without catalyst
+present in order to simulate the dilute catalyst phase. The data in Table 3 indicates
+that in a 4 second residence time, oxygen could be introduced to a stream with as
+high as 2% CO and still obtain preferential oxidation of NH<sub>3</sub> and HCN. When the 
+concentration of O<sub>2</sub> exiting the reaction zone is in the range of 100 to 200 ppm, a
+significant portion of the resulting NO is destroyed, even in that relatively short
+residence time.
+<tables><table><tgroup cols="11"><tbody><row><entry nameend="11" namest="1"><b>FCC Regenerator chemistry (700 °C, 4 sec residence time, quartz reactor, non-catalytic)</b></entry></row><row><entry align="left">IN</entry><entry align="center"/><entry align="center"/><entry align="center"/><entry align="center"/><entry align="left">OUT</entry></row><row><entry align="center">O<sub>2</sub></entry><entry align="center">CO</entry><entry align="center">NH<sub>3</sub></entry><entry align="center">HCN</entry><entry align="center">NO</entry><entry align="center">O<sub>2</sub></entry><entry align="center">CO</entry><entry align="center">CO<sub>2</sub></entry><entry align="center">NH<sub>3</sub></entry><entry align="center">HCN</entry><entry align="center">NO</entry></row><row><entry align="center">ppm</entry><entry align="center">%</entry><entry align="center">ppm</entry><entry align="center">ppm</entry><entry align="center">ppm</entry><entry align="center">ppm</entry><entry align="center">%</entry><entry align="center">%</entry><entry align="center">ppm</entry><entry align="center">ppm</entry><entry align="center">ppm</entry></row><row><entry align="center">2200</entry><entry align="center">2</entry><entry align="center">300</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">200</entry><entry align="center">1.6</entry><entry align="center">0.4</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">75</entry></row><row><entry align="center">6600</entry><entry align="center">2</entry><entry align="center">300</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">700</entry><entry align="center">0.8</entry><entry align="center">1.2</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">260</entry></row><row><entry align="center">11000</entry><entry align="center">2</entry><entry align="center">300</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">1900</entry><entry align="center">0.16</entry><entry align="center">1.7</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">275</entry></row><row><entry align="center">2200</entry><entry align="center">2</entry><entry align="center">0</entry><entry align="center">300</entry><entry align="center">0</entry><entry align="center">100</entry><entry align="center">1.6</entry><entry align="center">0.4</entry><entry align="center">10</entry><entry align="center">0</entry><entry align="center">100</entry></row><row><entry align="center">6600</entry><entry align="center">2</entry><entry align="center">0</entry><entry align="center">300</entry><entry align="center">0</entry><entry align="center">2500</entry><entry align="center">0.8</entry><entry align="center">1.2</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">240</entry></row><row><entry align="center">11000</entry><entry align="center">2</entry><entry align="center">0</entry><entry align="center">300</entry><entry align="center">0</entry><entry align="center">4300</entry><entry align="center">0.7</entry><entry align="center">1.2</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">250</entry></row><row><entry align="center">2200</entry><entry align="center">2</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">300</entry><entry align="center">100</entry><entry align="center">1.7</entry><entry align="center">0.3</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">10</entry></row><row><entry align="center">11000</entry><entry align="center">2</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">300</entry><entry align="center">1800</entry><entry align="center">0.18</entry><entry align="center">1.7</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">290</entry></row><row><entry align="center">0</entry><entry align="center">1.1</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">500</entry><entry align="center">0</entry><entry align="center">1</entry><entry align="center">0.04</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">EXAMPLE 5</u></heading><p num="0049">When the concentration of water vapor was increased from about 0% to 8%, the
+conversion of CO to CO<sub>2</sub> was enhanced with near complete conversion in a 1
+second residence time, non-catalytic reaction. This short residence time requirement
+adds additional flexibility for multistage configurations. <tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1"><b>Effect of water on CO and nitrogen compound reactions (700°C and 1 sec residence time, quartz reactor, no catalyst)</b></entry></row><row><entry align="left">IN</entry><entry align="center"/><entry align="center"/><entry align="left">OUT</entry></row><row><entry align="center">O<sub>2</sub></entry><entry align="center">CO</entry><entry align="center">H<sub>2</sub>O</entry><entry align="center">O<sub>2</sub></entry><entry align="center">CO</entry><entry align="center">CO<sub>2</sub></entry></row><row><entry align="center">ppm</entry><entry align="center">%</entry><entry align="center">%</entry><entry align="center">ppm</entry><entry align="center">%</entry><entry align="center">%</entry></row><row><entry align="center">3000</entry><entry align="center">1</entry><entry align="center">0</entry><entry align="center">2000</entry><entry align="center">0.8</entry><entry align="center">0.15</entry></row><row><entry align="center">3000</entry><entry align="center">1</entry><entry align="center">8</entry><entry align="center">100</entry><entry align="center">0.4</entry><entry align="center">0.55</entry></row><row><entry align="center">4000</entry><entry align="center">1</entry><entry align="center">8</entry><entry align="center">400</entry><entry align="center">0.07</entry><entry align="center">0.84</entry></row><row><entry align="center">3000</entry><entry align="center">1</entry><entry align="center">0</entry><entry align="center">2200</entry><entry align="center">0.8</entry><entry align="center">0.14</entry></row><row><entry align="center">3000</entry><entry align="center">1</entry><entry align="center">8</entry><entry align="center">0</entry><entry align="center">0.26</entry><entry align="center">0.67</entry></row><row><entry align="center">4000</entry><entry align="center">1</entry><entry align="center">8</entry><entry align="center">200</entry><entry align="center">0.03</entry><entry align="center">0.87</entry></row></tbody></tgroup></table></tables></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A process for substantially reducing the emission of nitrogen oxides from a
+regeneration reactor during the regeneration of spent catalyst having coke
+deposits thereon, which comprises the steps of:
+<claim-text><claim-text>(a) contacting said spent catalyst with a primary oxygen-containing gas in
+a dense phase of said reactor, thereby combusting said coke and
+forming a combustion gas comprising nitrogen oxide and carbon
+monoxide which further react in said dense phase, thus reducing a
+majority of the nitrogen oxides to form elemental nitrogen, thereby
+forming a nitrogen-enriched combustion gas; and</claim-text><claim-text>(b) contacting said nitrogen-enriched combustion gas in a dilute phase of
+said reactor with a secondary oxygen-containing gas, wherein said
+carbon monoxide is oxidized to form carbon dioxide;</claim-text></claim-text>
+wherein the amount of said primary oxygen-containing gas in step (a) is
+adjusted so that said nitrogen-enriched combustion gas prior to step (b)
+comprises up to 1% carbon monoxide.</claim-text></claim><claim num="2"><claim-text>A process according to claim 1, wherein said catalyst is a hydrocarbon
+cracking catalyst.</claim-text></claim><claim num="3"><claim-text>A process according to claim 1 or claim 2, wherein before step (b) is carried
+out in said dilute phase a portion of said secondary oxygen-containing gas is
+introduced at an interface between said dense phase and said dilute phase
+where said nitrogen-enriched combustion gas exits said dense phase and
+enters said dilute phase.</claim-text></claim><claim num="4"><claim-text>A process according to any one of the preceding claims, wherein, during step
+(b), any residual reduced nitrogen species present in said nitrogen-enriched
+combustion gas is oxidized to nitrogen oxides, wherein the resulting nitrogen
+oxides then react with said carbon monoxide in said nitrogen-enriched
+combustion gas to form elemental nitrogen.</claim-text></claim><claim num="5"><claim-text>A process according to any one of the preceding claims, further comprising
+introducing a shield gas to said dilute phase during step (b).</claim-text></claim><claim num="6"><claim-text>A process according to claim 4, wherein said shield gas is selected from the
+group consisting of: steam, water mist, nitrogen, recirculated flue gases,
+carbon dioxide, and mixtures thereof.</claim-text></claim><claim num="7"><claim-text>A process according to any one of the preceding claims, wherein said primary
+oxygen-containing gas is selected from the group consisting of: air, oxygen-enriched
+air, oxygen-carbon dioxide, oxygen-argon, oxygen-enriched air-carbon
+dioxide, and mixtures thereof and said secondary oxygen-containing
+gas is selected from the group consisting of: air, oxygen-enriched air, oxygen-carbon
+dioxide, oxygen-argon, and mixtures thereof</claim-text></claim><claim num="8"><claim-text>A process according to any one of the preceding claims, wherein said
+secondary oxygen-containing gas in step (b) is fed to said dilute phase at a
+velocity in the range between about 50 ft/sec and 400 ft/sec.</claim-text></claim><claim num="9"><claim-text>A catalyst regeneration vessel comprising a dense phase and a dilute phase
+for substantially reducing the emission of nitrogen oxide during the
+regeneration of spent catalyst having coke deposits thereon, which
+comprises:<claim-text><claim-text>(a) a means for introducing a primary oxygen-containing gas into said
+dense phase of said vessel; and</claim-text><claim-text>(b) a means for introducing a secondary oxygen-containing gas into said
+dilute phase of said vessel.</claim-text></claim-text></claim-text></claim><claim num="10"><claim-text>A catalyst regeneration vessel according to claim 9, further comprising a
+means for introducing said secondary oxygen-containing gas into said dilute
+phase of said vessel at an interface where a combustion gas exits said dense
+phase and enters said dilute phase.</claim-text></claim><claim num="11"><claim-text>A catalyst regeneration vessel according to claim 9 or claim 10, wherein said
+means for introducing said primary oxygen-containing gas into said dense
+phase of said vessel is an air distribution means.</claim-text></claim><claim num="12"><claim-text>A catalyst regeneration vessel according to any one of claims 9 to 11,
+wherein said means for introducing said secondary oxygen-containing gas
+into said dilute phase of said vessel comprises one or more nozzles.</claim-text></claim><claim num="13"><claim-text>A catalyst regeneration vessel according to claim 12, wherein said one or
+more nozzles are concentric nozzles.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

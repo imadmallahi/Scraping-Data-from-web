@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1136534-A1" country="EP" doc-number="1136534" kind="A1" lang="EN" family-id="24120451" status="new" date-produced="20090516" date="20010926"><bibliographic-data><publication-reference ucid="EP-1136534-A1" status="new" fvid="23237715"><document-id status="new" format="original"><country>EP</country><doc-number>1136534</doc-number><kind>A1</kind><date>20010926</date></document-id></publication-reference><application-reference ucid="EP-01106832-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01106832</doc-number><kind>A</kind><date>20010319</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-53212200-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>53212200</doc-number><kind>A</kind><date>20000321</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B24B  37/00        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B24B  37/00        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09G   1/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09G   1/02        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09G   1/02</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Hybrid-Polieraufschlämmung</invention-title><invention-title load-source="ep" status="new" lang="EN">Hybrid polishing slurry</invention-title><invention-title load-source="ep" status="new"  lang="FR">Boue de polissage hybride</invention-title><citations><patent-citations><patcit ucid="EP-0842997-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0842997</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5997620-A"  status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>5997620</doc-number><kind>A</kind></document-id><sources><source category="X"  name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1998023697-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1998023697</doc-number><kind>A1</kind></document-id><sources><source category="XD" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>PRAXAIR TECHNOLOGY INC</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>PRAXAIR S.T. TECHNOLOGY, INC.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Praxair S.T. Technology, Inc.</last-name><address><street>441 Sackett Point Road</street><city>North Haven, CT 06473</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>KNAPP JAMES KENT</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>KWOK DORIS</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KNAPP, JAMES KENT</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KWOK, DORIS</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KNAPP, JAMES KENT</last-name><address><street>6251 N. County Road 250E</street><city>Pittsboro, Indiana 46167</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KWOK, DORIS</last-name><address><street>8931 Bradwell Place 205</street><city>Fischers, Indiana 46038</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Schwan - Schwan - Schorer</last-name><address><street>Patentanwälte European Patent Attorneys Elfenstrasse 32</street><city>81739 München</city><country>DE</country></address> </addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country> <country>FR</country> <country>GB</country> <country>IE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A hybrid slurry mixture that polishes substrates'
+surfaces. The hybrid slurry includes, by weight
+percent, 1 to 30 primary polishing particles, 1 to 50
+dispersed colloidal particles, 1 to 40 oxidizer and
+balance water. The primary polishing particles are
+metal compounds selected from the group consisting of
+oxides, nitrides, carbides and borides. The primary
+polishing particles have a particle size from about 0.1
+to 2 µm mean diameter. The dispersed colloidal
+particles are at least one oxide selected from the
+group consisting of alumina and silica. The dispersed
+colloidal particles have a particle size from about 2
+to 500nm mean diameter.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">Technical Field</u></heading><p num="0001">This invention relates to the field of polishing
+slurries. In particular, this invention relates to the
+field of polishing slurries for producing smooth
+surfaces for computer hard disks.</p><heading><u style="single">Background Art</u></heading><p num="0002">The typical manufacturing process for memory hard
+disk media involves plating an aluminum disk substrate
+with a layer of nickel phosphorus and polishing the
+nickel alloy to obtain a smooth and flat surface. This
+polished nickel alloy's surface is suitable for the
+application of a hard disk's magnetic storage layer.
+The computer industry's requirements for increased
+storage capacity on hard disk drives has necessitated a
+substantial increase in areal density, i.e., data
+storage capacity per unit surface area, on the disk
+media. This demand for hard disks with higher areal
+densities has required several manufacturing
+improvements that include enhanced plating uniformity,
+reduced surface roughness after polishing and enhanced
+texturing characteristics. The polishing process is an
+important factor that influences many of these new
+requirements.</p><p num="0003">In addition to these new manufacturing
+requirements, significant improvements in surface
+inspection methodology have allowed disk manufacturers
+to inspect for smaller surface defects. This advanced
+inspection technology has led to optimization of
+polishing parameters such as polishing time, pressure
+and revolution rate of a polishing machine's upper and
+lower tables. Optimizing these parameters typically 
+reduces surface defects that can occur during
+polishing. This technique however requires a high
+degree of expertise; and it is quite time consuming.
+Other advances have been made in the area of
+consumables: polishing pads, abrasive slurry, and
+cleaning materials.</p><p num="0004">Although these techniques all reduce surface
+defects, surfaces with various types of defects do
+result in uneven plating of the magnetic layer. For
+example, surface defects on the magnetic layer such as
+nodules that reduce the clearance between the magnetic
+head and the magnetic layer to less than 0.2 µm may
+damage or even crush the magnetic head. Other defects
+such as scratches and pits may result in errors in
+reading or writing information on hard disks.</p><p num="0005">Manufacturers have experienced limited success
+with eliminating errors that arise from conventional
+aluminum oxide slurries. These high-tech slurries use
+aluminum oxide of various surface area (5 to 50m<sup>2</sup>/g)
+and size distribution (0.1 to 10 µm) as the polishing
+agent. Unfortunately, these slurries' large particle
+sizes cause micro-scratches, micro-pits and nodules on
+nickel-plated substrates' surface. There are several
+possible causes for these defects including: 1) the
+grinding action of aluminum oxide on substrate surfaces
+introduces polish scratches; 2) the accumulation of
+unwanted wastes from the oxidized substrate and nickel
+debris mixed with the water to reduce the effectiveness
+of the injected polishing slurry; and 3) agglomeration
+of the abraded debris in the pores of the polishing
+pads scratches and pits the substrate's surface. In
+view of all these factors, it is difficult for disk
+manufacturers to achieve their required smooth surface, 
+i.e., a roughness (peak-to-valley height) of less than
+3Å or even 6Å with conventional alumina-based slurries.</p><p num="0006">Manufacturers have suggested that surface defects
+form primarily during the nickel plating process. In
+an attempt to correct these plating defects, most
+proposed solutions have increased the polishing rate to
+reduce or eliminate surface irregularities. For
+example, chemical additives such as chelating agents
+and oxidizers promote oxidation and accelerate the
+polishing rate of slurries. Others have used smaller
+or softer alumina-based abrasive particles to minimize
+polish scratches on substrate surfaces.</p><p num="0007">These attempts for eliminating surface
+irregularities have primarily focused on increasing the
+rate of chemical etching and mechanical abrasion of the
+nickel plated on the aluminum substrate, for example,
+by applying a high polishing rate. It is however
+necessary to increase the particle size of aluminum
+oxide in order to provide sufficient mechanical
+abrasion. Unfortunately, the use of large particles
+also tends to roughen the polished surfaces. Thus, it
+is often difficult, if not impossible, to achieve a
+high polishing rate and low roughness simultaneously.
+Other slurry manufacturers have used strong oxidizers
+or accelerators in slurries to increase the oxidizing
+rate of nickel plated on aluminum substrates. These
+chemically aggressive slurries may, however, cause
+pitting on the substrate surfaces and result in an
+undesirable buildup of slurry and nickel debris in the
+polishing pads. An excessive build up of unwanted
+waste in polishing pads leads to: defects on substrate
+surfaces; longer pad scraping between polishing cycles;
+and reduced pad life. </p><p num="0008">Wang et al., in U.S. Pat. No. 5,693,239 disclose
+the use of submicron alumina for chemical-mechanical
+polishing. Okajima et al., in U.S. Pat. No. 4,956,015
+combine α-alumina with boemite for improved polishing
+removal rates. As far as known, these slurries lack
+the combination of removal rate and performance
+demanded by current disk manufacturers.</p><p num="0009">Furthermore, there have been other unsuccessful
+attempts to prevent the formation of surface defects by
+using smaller and softer conventional abrasives
+powders; these slurries however, often form pits and
+nodules due to their slow polishing rates. In
+addition, prior attempts to polish nickel-plated
+aluminum substrates include using a silica-only slurry.
+For example, PCT Pat. Pub. No. 98/23697 discloses
+polishing with slurries that contain 5 weight percent
+silica. Similarly, U.S. Pat. No. 5,733,819 to Kodama
+et al. discloses the use of fumed silica with malic
+acid. Finally, Kodama et al., in U.S. Pat. No.
+5,575,837, disclose a silica gel with a relatively
+strong persulfate accelerator for increasing polishing
+removal rates. Although these fumed silica processes
+obtain a smooth surface, their polishing rate are too
+slow for many commercial applications--even when adding
+a large amount of oxidizers or accelerators to the
+slurry. Furthermore, these slurries can become too
+acidic for safe handling by operators on a daily basis.</p><p num="0010">It is an object of this invention to provide a
+polishing slurry for producing flat-smooth surfaces.</p><p num="0011">It is a further object of this invention to
+provide a polishing slurry for disk manufacturers to
+achieve a surface roughness of less than 6Å. </p><p num="0012">It is a further object of this invention to
+produce a smooth surface with removal rates analogous
+to alumina-based slurries.</p><heading><u style="single">Summary of the Invention</u></heading><p num="0013">A hybrid slurry mixture that polishes substrates'
+surfaces. The hybrid slurry includes, by weight
+percent, 1 to 30 primary polishing particles, 1 to 50
+dispersed colloidal particles, 1 to 40 oxidizer and
+balance water. The primary polishing particles are
+metal compounds selected from the group consisting of
+oxides, nitrides, carbides and borides. The primary
+polishing particles have a particle size from about 0.1
+to 2 µm mean diameter. The dispersed colloidal
+particles are at least one oxide selected from the
+group consisting of alumina and silica. The dispersed
+colloidal particles have a particle size from about 2
+to 500nm mean diameter.</p><heading><u style="single">Detailed Description</u></heading><p num="0014">The present invention includes a hybrid polishing
+composition containing a metal compound as the primary
+polishing agent and a sol or gel of alumina or silica
+as the secondary-polishing agent. Polishing with this
+combination of primary polishing particles and
+dispersed colloidal particles improves substrates'
+surface characteristics and minimizes or eliminates all
+surface defects. This hybrid polishing composition's
+bimodal size distribution is most advantageous for
+polishing rigid hard disks plated with nickel and
+nickel alloys such as, nickel-phosphorus alloys. It
+achieves a surface roughness of less than 3Å with
+commercially acceptable nickel removal rates. This
+hybrid slurry reduces the number of defective products 
+and the cost of production. When using colloidal
+silica, the nickel debris produced from the chemical
+etching and the mechanical abrasion of the substrate
+surface react or adsorb onto silica particles' surface.
+Thus, since polishers continuously remove the silica as
+a wash product, it also removes adsorbed nickel debris.
+Therefore, this process unexpectedly reduces pad
+scraping between polishing cycles and increases
+production capacity.</p><p num="0015">Effective primary polishing particles include at
+least one metal compound selected from the group of
+oxides, nitrides, carbides and borides. In particular,
+at least one metal oxides of silica, alumina, ceria,
+zirconia, titania provide excellent polishing
+performance. Most advantageously, the primary
+polishing particles are alumina particles. In
+particular, alumina particles predominately in the form
+of an alpha crystal structure form the most effective
+primary particles.</p><p num="0016">The primary particle concentration in the
+polishing composition advantageously is in the range of
+about 1 to 30 percent by weight, most advantageously,
+about 5 to 25 percent by weight. The primary particles
+have a particle diameter in the range of about 0.1 to
+2.0 µm mean diameter. Advantageously, the primary
+polishing particles have a particle diameter of about
+0.1 to 1 µm mean diameter and most advantageously,
+about 0.1 to 0.3 µm mean diameter. The surface area of
+the primary polishing particles typically have a
+surface area of about 4 to 100m<sup>2</sup>/g. Advantageously,
+this has a surface area of about 5 to 60m<sup>2</sup>/g and most
+advantageously, about 30 to 40m<sup>2</sup>/g for effective
+polishing. </p><p num="0017">The dispersed colloidal particles advantageously
+originate from a stable dispersion or sol of discrete
+particles of at least one oxide selected from the group
+consisting of alumina and silica. Most advantageously,
+the dispersed particles are silica. Amorphous silica
+forms a particularly effective colloidal dispersion.
+These silica dispersions may originate from hydrolysis
+of silicon compounds, neutralizing soluble silicates
+with acids, electrodialysis, ion exchange, etc.</p><p num="0018">The colloidal dispersion typically has a particle
+diameter in the range of about 2 to 500nm mean
+diameter. Advantageously, it has a particle diameter
+of about 10 to 200nm mean diameter. Most
+advantageously, about 20 to 60nm mean diameter for
+smooth polishing with acceptable removal rates. The
+dispersed colloidal particle's surface area
+advantageously falls within the range of about 60 to
+about 250m<sup>2</sup>/g, most advantageously, about 65 to 90m<sup>2</sup>/g.
+The sol or gel of alumina or silica has a solid
+concentration in the range of about 1 to 50 percent by
+weight-it's possible to add this component directly to
+a polishing slurry under agitation. Advantageously,
+the colloidal alumina or silica is in the range of
+about 2 to 50 percent by weight and most advantageously
+about 10 to 40 percent by weight.</p><p num="0019">The resulting slurry also contains a chemical
+oxidizer, which accelerates the polishing removal rate.
+Acceptable chemical accelerators include: nitric acid,
+nickel nitrate, aluminum nitrate and magnesium nitrate.
+Advantageously, the slurry contains about 1 to 40
+weight percent oxidizer. Most advantageously, it
+contains about 1 to 10 weight percent oxidizer.</p><p num="0020">The advantageous blending ratio of primary alumina
+particles to colloidal silica particles is about 1-to-1 
+to 1-to-5 by weight. Furthermore, a dilution ratio of
+about three parts water to one part slurry
+advantageously dilutes the slurry at the point-of-use.
+Final solids content at the point-of-use most
+advantageously ranges between about 5 and 15 percent by
+weight, depending on the application.</p><p num="0021">Polishing with softer and smaller particle size
+alumina-based slurries obtains smoother substrate
+surfaces. Experimental data show that very fine
+alumina slurries (0.05 to 0.3 µm mean diameter) achieve
+a surface roughness of less than or equal to about
+3.5Å.</p><heading>Example</heading><p num="0022">Nickel-phosphorus plated aluminum substrates of 95
+mm outer diameters were polished with a slurry
+consisting of three samples. Comparative Sample A
+(alumina only) contained: 100g aluminum oxide, 33g
+aluminum nitrate, 0.77g aluminum sulfate and 365g de-ionized
+water. Comparative Sample B (silica only)
+contained 100g silica, 62g aluminum nitrate and 108g
+de-ionized water.</p><p num="0023">Sample 1 contained 100g aluminum oxide, 100g
+silica, 33g aluminum nitrate, 0.77g aluminum sulfate
+and 465g de-ionized water. Sample 2 contained: 100g
+alumina, 450g silica, 33g aluminum nitrate, 0.77g
+aluminum sulfate and 820g de-ionized water. The
+alumina of Samples A, 1 and 2 had a particle size of
+0.2 µm (mean diameter) and a surface area of 40m<sup>2</sup>/g.
+The silica of Samples B, 1 and 2 had a particle size of
+0.04 um (mean diameter) and a surface area of 70m<sup>2</sup>/g.
+The polisher used was a Strasbaugh 6EE--an automatic
+polisher that laps on both sides. The polisher had a
+polyurethane-based polishing pad mounting on the upper 
+and lower tables of the polishing machine. The
+duration of the polishing cycle was 10 minutes by
+mutually sliding the disks and the two polishing pads
+under a net downforce of 80 g/cm<sup>2</sup> and by injecting
+350ml/min of the above-mentioned slurry between the
+disks and the polishing pads. Upon completion of the
+polishing cycle, the disks were removed from the
+polisher and cleaned in a Vtech disk cleaner to remove
+any residual particles attached onto the surfaces of
+the disk. The weight of the disk was measured, and the
+average polishing rate was determined from the
+reduction in weight. The roughness of the disk was
+measured using a Veeco TMS 2000 laser scattering device
+in which the surface measurements of 6000 points on the
+disk were taken to compute the average disk roughness.
+The surface of the disk was also inspected visually by
+microscope for various types of surface defects. The
+test results are shown in Table 1.
+<tables><table><tgroup cols="5"><tbody><row><entry nameend="5" namest="1">Table 1. Polishing Test Results</entry></row><row><entry align="center">Sample</entry><entry align="center">Al<sub>2</sub>O<sub>3</sub>: SiO<sub>2</sub> Weight</entry><entry align="center">Polishing rate µm/min/side</entry><entry align="center">Roughness Å</entry><entry align="center">Surface Defects</entry></row><row><entry align="center">A</entry><entry align="center">1:0</entry><entry align="center">8.64</entry><entry align="center">3.4</entry><entry align="left">Micro-pits and micro scratches</entry></row><row><entry align="center">B</entry><entry align="center">0:1</entry><entry align="center">1.88</entry><entry align="center">2.0</entry><entry align="left">Orange-peel defects</entry></row><row><entry align="center">1</entry><entry align="center">1:1</entry><entry align="center">8.64</entry><entry align="center">3.2</entry><entry align="left">Very few micro-pits, no scratches</entry></row><row><entry align="center">2</entry><entry align="center">1:5</entry><entry align="center">4.83</entry><entry align="center">2.4</entry><entry align="left">No pits or scratches</entry></row></tbody></tgroup></table></tables></p><p num="0024">Hybrid Samples 1 and 2 had different water
+dilution ratio at point-of-use. The dilution ratio of
+Sample 2 was reduced to match the polishing rate of
+Sample 1 in order to compare surface quality of disks
+polished with these two samples. </p><p num="0025">The hybrid slurries readily produce flat-smooth
+surfaces having a surface roughness of less than about
+4Å. Furthermore, the hybrid slurries produce smooth
+surfaces with removal rates analogous to alumina-based
+slurries. For example, primary alumina/colloidal
+silica slurries remove electrodeposited nickel-phosphorus
+coatings at a rate of at least about 7.5
+µm/min/side.</p><p num="0026">Although the invention has been described in
+detail with reference to a certain preferred
+embodiment, those skilled in the art will recognize
+that there are other embodiments of the invention
+within the spirit and the scope of the claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A hybrid slurry mixture for polishing
+surfaces comprising by weight percent about 1 to 30
+primary polishing particles, said primary polishing
+particles being at least one metal compound selected
+from the group consisting of oxides, nitrides, carbides
+and borides and said primary polishing particles having
+a particle size from about 0.1 to 2 µm mean diameter,
+about 1 to 50 dispersed colloidal particles being at
+least one oxide selected from the group consisting of
+alumina and silica, said dispersed colloidal particles
+having a particle size from about 2 to 500nm mean
+diameter, about 1 to 40 oxidizer and balance water.</claim-text></claim><claim num="2"><claim-text>The hybrid slurry mixture of claim 1 wherein
+said primary polishing particles are alumina and said
+dispersed colloidal particles are silica.</claim-text></claim><claim num="3"><claim-text>A hybrid slurry mixture for polishing
+surfaces comprising by weight percent about 5 to 25
+primary polishing particles, said primary polishing
+particles being at least one oxide selected from the
+group consisting of silica, alumina, ceria, zirconia
+and titania, said primary polishing particles having a
+particle size from about 0.1 to 1 µm mean diameter and
+a surface area from about 4 to 100m2/g, about 2 to 50
+dispersed colloidal particles, said dispersed colloidal
+particles being at least one oxide selected from the
+group consisting of alumina and silica, said dispersed
+colloidal silica having a particle size from about 10
+to 200nm mean diameter and a surface area from about 60
+to 250m2/g, about 1 to 40 oxidizer and balance water.</claim-text></claim><claim num="4"><claim-text>The hybrid slurry mixture of claim 3 wherein
+said primary polishing particles are alumina.</claim-text></claim><claim num="5"><claim-text>The hybrid slurry mixture of claim 3 wherein
+said dispersed colloidal particles are silica.</claim-text></claim><claim num="6"><claim-text>A hybrid slurry mixture for polishing
+surfaces comprising by weight percent about 5 to 20
+alumina polishing particles, said alumina polishing
+particles having a particle size from about 0.1 to 0.3
+µm mean diameter and a surface area from about 5 to
+60m2/g, about 10 to 40 silica, said silica having a
+particle size from about 20 to 60nm mean diameter and a
+surface area from about 65 to 90m2/g, about 1 to 10
+oxidizer and balance water.</claim-text></claim><claim num="7"><claim-text>The hybrid slurry mixture of claim 6 wherein
+said oxidizer is selected from the group consisting of
+nitric acid, nickel nitrate, aluminum nitrate and
+magnesium nitrate.</claim-text></claim><claim num="8"><claim-text>The hybrid slurry mixture of claim 6 wherein
+said alumina polishing particles have a surface area
+from about 30 to 40m2/g.</claim-text></claim><claim num="9"><claim-text>The hybrid slurry mixture of claim 6 having a
+ratio of said alumina to said silica of about 1 to 1 to
+1 to 5 by weight.</claim-text></claim><claim num="10"><claim-text>The hybrid slurry mixture of claim 6 wherein the
+slurry mixture removes electrodeposited nickel-phosphorus
+coatings at a rate of at least about 7.5
+µm/min/side and produces a finished surface roughness
+of less than about 4Å.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

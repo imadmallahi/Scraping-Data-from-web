@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1006143-A1" country="EP" doc-number="1006143" kind="A1" lang="EN" family-id="18336750" status="new" date-produced="20090516" date="20000607"><bibliographic-data><publication-reference ucid="EP-1006143-A1" status="new" fvid="22834657"><document-id status="new" format="original"><country>EP</country><doc-number>1006143</doc-number><kind>A1</kind><date>20000607</date></document-id></publication-reference><application-reference ucid="EP-99119083-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>99119083</doc-number><kind>A</kind><date>19991001</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-34041698-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>34041698</doc-number><kind>A</kind><date>19981130</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B09B   3/00        20060101AFI20060310RMJP        </classification-ipcr><classification-ipcr status="new">B09B   3/00        20060101CFI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C08J  11/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08J  11/14        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08J  11/28        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08J  11/14+L75/04</classification-symbol><classification-symbol scheme="EC">C08J  11/28+L75/04</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Vorrichtung zur Zersetzung und Rückgewinnung von Polyurethanharz</invention-title><invention-title load-source="ep" status="new" lang="EN">Apparatus for decomposition and recovery of polyurethane resin</invention-title><invention-title load-source="ep" status="new" lang="FR">Installation pour la décomposition et la récupération de résine de polyuréthane</invention-title><citations><patent-citations><patcit ucid="DE-4128588-A1" status="new"><document-id status="new" format="epo"><country>DE</country><doc-number>4128588</doc-number><kind>A1</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0854165-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0854165</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-3117940-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>3117940</doc-number><kind>A</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1998034904-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1998034904</doc-number><kind>A1</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>KOBE STEEL LTD</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>TAKEDA CHEMICAL INDUSTRIES LTD</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>KABUSHIKI KAISHA KOBE SEIKO SHO</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>TAKEDA CHEMICAL INDUSTRIES, LTD.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Kabushiki Kaisha Kobe Seiko Sho</last-name><address><street>3-18, Wakinohama-cho 1-Chome, Chuo-ku, Kobe-shi</street><city>Hyogo 651-0072</city><country>JP</country></address></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>TAKEDA CHEMICAL INDUSTRIES, Ltd.</last-name><address><street>1-1, Doshomachi 4-chome, Chuo-ku</street><city>Osaka-shi, Osaka-fu</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>KASUYA FUMIHIKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>KODAMA KATSUHISA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>KUMAKI TAKASHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MURAYAMA KOUICHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NAGASE YOSHIYUKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>NAKATA MASAAKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NISHIDA SATOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KASUYA, FUMIHIKO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KODAMA, KATSUHISA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KUMAKI, TAKASHI</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>MURAYAMA, KOUICHI</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>NAGASE, YOSHIYUKI</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>NAKATA, MASAAKI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>NISHIDA, SATOSHI</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KASUYA, FUMIHIKO</last-name><address><street>Osaka Branch Kobe Steel, Ltd., 4-1-3, Bingomachi</street><city>Chuo-ku, Osaka-shi, Osaka-fu</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KODAMA, KATSUHISA</last-name><address><street>Takeda Chem.Ind., Ltd., 17-85 Jusohonmachi 2-chome</street><city>Yodogawa-ku, Osaka-shi, Osaka-fu</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KUMAKI, TAKASHI</last-name><address><street>Takeda Chem.Ind., Ltd., 17-85 Jusohonmachi 2-chome</street><city>Yodogawa-ku, Osaka-shi, Osaka-fu</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MURAYAMA, KOUICHI</last-name><address><street>Takeda Chem.Ind., Ltd., 17-85 Jusohonmachi 2-chome</street><city>Yodogawa-ku, Osaka-shi, Osaka-fu</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Nagase, Yoshiyuki, Kobe Corp. Res. Lab.</last-name><address><street>Kobe Steel, Ltd., 5-5, Takatsukadai 1-chome</street><city>Nishi-ku, Kobe-shi, Hyogo-ken</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NAKATA, MASAAKI</last-name><address><street>Osaka Branch Kobe Steel, Ltd., 4-1-3, Bingomachi</street><city>Chuo-ku, Osaka-shi, Osaka-fu</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NISHIDA, SATOSHI</last-name><address><street>Osaka Branch Kobe Steel, Ltd., 4-1-3, Bingomachi</street><city>Chuo-ku, Osaka-shi, Osaka-fu</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Müller-Boré &amp;amp; Partner Patentanwälte</last-name><address><street>Grafinger Strasse 2</street><city>81671 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country> <country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country> <country>PT</country> <country>SE</country> </ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>Disclosed is an apparatus for decomposing a polyurethane
+resin and recovering the decomposed polyurethane resin as a
+polyamine compound and a polyol compound, said apparatus
+including: a fluidizer that fluidizes the polyurethane resin as a
+target compound of hydrolysis decomposition; a reactor that
+hydrolyzes the fluidized target compound of decomposition with
+either one of supercritical water and high-temperature high-pressure
+water to a decomposition product mixture; a water
+supplier that feeds either one of supercritical water and high-temperature
+high-pressure water to the reactor; and a post-processor
+that causes the decomposition product mixture
+discharged from the reactor to be subjected to a post treatment
+procedure, such as dehydration, addition, distillation, separation,
+and liquid separation to recover the polyamine compound and/or
+the polyol compound.</p><p>According to the present invention, there can be provided
+an apparatus of decomposition and recovery that continuously
+decomposes and recovers polyurethane resin with high-temperature
+high-pressure water or supercritical water, which
+advantageously reduces the required energy cost, reduces the size of
+the whole apparatus, removes foreign substances from the
+shredder dust, and decreases the required quantities of substances
+for decomposition.
+<img id="img-00000001" orientation="unknown" wi="79" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="54"/></p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to an industrially
+advantageous apparatus that chemically decomposes cut piece
+wastes of polyurethane resin in the molding and working process
+and product wastes thereof after their use, and recovers the
+decomposed polyurethane resin as a polyamine compound and/or a
+polyol compound that are the materials of the polyurethane resin.</p><p num="0002">Polyurethane resin is massively used in the form of soft,
+semi-rigid, and rigid urethane foams in a variety of fields as the
+cushioning materials, for example, for sofas, beds, other furniture,
+and seats in vehicles and the thermal insulating materials, for
+example, for the refrigerators. The polyurethane resin is also
+used in the form of elastomers, for example, for shoe bottoms, tires,
+and belts. As the greater importance is placed on protection of
+the resources and preservation of the environment, a variety of
+techniques have been proposed and studied to attain the recycle
+and the reuse of various plastics including polyurethane resin.</p><p num="0003">Known recycling procedures of polyurethane resin are
+roughly classified into three; that is, the material recycling
+technique, the chemical recycling technique, and the energy 
+recycling technique. One example of the material recycling
+technique reclaims the used polyurethane foams as the cushioning
+materials by means of re-bonding or compression molding.
+Another example crushes the used polyurethane foams and
+elastomers and mixes the crushed resin as a filler with a new
+material. The chemical recycling technique decomposes the
+polyurethane resin to its raw materials or to compounds which can be
+used as the raw materials, and reuses the raw materials and the
+compounds. The chemical recycling may be attained, for example,
+through glycol decomposition, amine decomposition, or hydrolysis.
+The energy recycling technique utilizes the used polyurethane
+resin directly as a fuel or as an energy resource to give steam or a
+gaseous fuel.</p><p num="0004">The material recycling technique, however, possibly causes
+problems of the poor quality of resulting products and thus limits
+the range of application. The energy recycling technique possibly
+leads to environmental problems, such as generation of harmful
+substances through the combustion. The chemical recycling
+technique is, on the other hand, applicable to a wide variety of
+compounds to be recovered. By taking into account these merits
+and demerits, it has highly been demanded to develop an improved
+apparatus to attain the chemical recycling technique economically
+on the industrial base.</p><p num="0005">The glycol decomposition process or the amine
+decomposition process applied for the chemical recycling technique 
+cuts the urethane bond, the biuret bond, the allophanate bond,
+which are relatively easily decomposable among all the bonds,
+such as the urethane bond, the urea bond, the biuret bond, and the
+allophanate bond, that are present in the polyurethane resin, by
+means of the glycol compound or the amine compound, thereby
+decomposing the polyurethane resin to low molecular-weight
+substances and generating a liquid decomposition product. The
+glycol compound or the amine compound used as the decomposer,
+however, newly generates urethane bonds and urea bonds and is
+linked to the decomposition product by these bond. Such
+decomposition processes can thus not decompose the polyurethane
+resin to a polyol compound as a starting material of the
+polyurethane resin, and a polyamine as an intermediate compound
+of polyisocyanate. The recovered substances are accordingly
+usable for only the limited applications.</p><p num="0006">The applicant of the present invention has proposed a
+method of hydrolyzing polyurethane resin using high-temperature
+high-pressure liquid water as the decomposer (WO98/34909).
+This proposed technique heats polyurethane foam to decrease its
+volume and supplies the solid polyurethane foam of the reduced
+volume to hydrolysis means. A further improvement in material
+supply means is required to provide an efficient continuous flow
+apparatus for carrying out the hydrolysis of polyurethane resin on
+the industrial base. Problems of contaminating the reaction
+passage with foreign matters and blocking the reaction passage 
+may arise, for example, in the process of recycling shredder dust of
+the seats in the vehicles, which is generally a mixture of fibers and
+resin.</p><p num="0007">An object of the present invention is thus to provide an
+apparatus of decomposition and recovery that continuously
+decomposes and recovers polyurethane resin with high-temperature
+high-pressure water or supercritical water, which
+advantageously reduces the required energy cost, reduces the size
+of the whole apparatus, removes foreign substances from the
+shredder dust, and decreases the required quantities of substances
+for decomposition, and the like.</p><p num="0008">At least part of the above and the other related objects is
+realized by an apparatus for decomposing a polyurethane resin and
+recovering the decomposed polyurethane resin as a polyamine
+compound and/or a polyol compound. The apparatus includes: a
+fluidizer that fluidizes the polyurethane resin as a target
+compound of hydrolysis decomposition; a reactor that hydrolyzes
+the fluidized target compound with either one of supercritical
+water and high-temperature high-pressure water to a
+decomposition product mixture; a water supplier that feeds of
+either one of supercritical water and high-temperature high-pressure
+water to the reactor; and a post-processor that causes the
+decomposition product mixture discharged from the reactor to be 
+subjected to a post process, such as dehydration, addition,
+distillation, separation, and liquid separation, to recover the
+polyamine compound and/or the polyol compound.</p><p num="0009">The apparatus of the present invention fluidizes
+polyurethane resin and feeds the fluidized polyurethane resin to
+the reactor. This arrangement enables continuous decomposition.
+Compared with the prior art apparatus that hydrolyzes solid
+polyurethane resin in a reactor, this arrangement relieves the
+conditions of the hydrolysis. This advantageously decreases the
+water addition ratio and reduces the reaction time, thereby
+reducing the volume of the reactor, lowering the required level of
+the performance of the water supply unit, and eventually reducing
+the recycling cost.</p><p num="0010">These and other objects, features, aspects, and advantages
+of the present invention will become more apparent from the
+following detailed description of the preferred embodiments / examples
+with the accompanying drawings.
+<sl><li>Fig. 1 is a diagram showing an apparatus for decomposition
+and recovery in one embodiment according to the present
+invention;</li><li>Fig. 2 is a diagram showing another apparatus for
+decomposition and recovery in another embodiment according to
+the present invention; and </li><li>Fig. 3 is a diagram showing stilt another apparatus for
+decomposition and recovery in still another embodiment according
+to the present invention.</li></sl></p><p num="0011">The apparatus of the present invention includes: a fluidizer
+that fluidizes the polyurethane resin as a target compound of
+hydrolysis decomposition; a reactor that hydrolyzes the fluidized
+target compound with either one of supercritical water and high-temperature
+high-pressure water to a decomposition product
+mixture; a water supplier that feeds either one of supercritical
+water and high-temperature high-pressure water to the reactor;
+and a post-processor that causes the decomposition product
+mixture discharged from the reactor to be subjected to a post
+process, such as dehydration, addition, distillation, separation,
+and liquid separation, and recovers the polyamine compound
+and/or the polyol compound.</p><p num="0012">In accordance with one preferable application, the fluidizer
+includes a decomposition tank, in which combining a polyamine
+compound and the polyurethane resin causes aminolysis to thereby
+decompose the polyurethane resin and to produce the resulting
+fluidized target compound of hydrolysis decomposition. This
+arrangement enables the polyurethane resin to be readily fluidized
+by means of a polyamine compound and ensures the continuous
+processing. The polyamine compound obtained by the hydrolysis 
+of the polyurethane resin may be refluxed and used for the
+fluidization process. This effectively saves the limited resources.
+Instead of taking advantage of the aminolysis, the fluidization
+process may use a medium like a polyol compound to make the
+polyurethane resin slurry or use an adequate solvent to make the
+polyurethane resin dissolved.</p><p num="0013">In accordance with another preferable application, the
+apparatus further includes a filter disposed in a pathway between
+the fluidizer and the reactor to continuously feed the fluidized
+target compound of hydrolysis decomposition to the reactor. In
+the event that the fluidized target compound contains some foreign
+matters, the filter removes the foreign matters and effectively
+prevents the foreign matters from causing troubles, such as
+blocking, in the downstream portion of the apparatus including the
+reactor.</p><p num="0014">In accordance with still another preferable application, the
+apparatus further includes a reflux system that refluxes part of
+the decomposition product mixture from an arbitrary position
+downstream from the reactor with respect to the mixture feeding
+direction to the fluidizer. The decomposition product mixture
+includes a polyamine compound and a polyol compound, and is
+refluxed to the fluidizer by the reflux system, so as to be used in
+the aminolysis process or a medium of the process of making the
+slurry.</p><p num="0015">In one preferable embodiment, the post-processor has a 
+dehydrator that removes water from the decomposition product
+mixture, and a separating/recovering unit that separately recovers
+the polyamine compound and the polyol compound from the
+dehydrated decomposition product mixture. The dehydrator
+disposed before the separating/recovering unit favorably assures
+the size reduction of the separating/recovering unit.</p><p num="0016">In the above structure, the reflux system may be disposed
+between the dehydrator and the separating/recovering unit. The
+liquid decomposition product mixture after the dehydration or
+removal of water non-required for the fluidization is refluxed to
+the fluidizer. This configuration enables only the decomposition
+product mixture required for the fluidization to be fed to the
+fluidizer, thereby assuring the size reduction of the whole
+apparatus and enabling the fluidization with a high efficiency.</p><p num="0017">In the above structure, it is preferable that the post-processor
+further includes a rough separation unit disposed
+between the dehydrator and the separating/recovering unit to
+roughly divide the dehydrated decomposition product mixture into
+a first portion mainly composed of the polyamine compound and a
+second portion mainly composed of the polyol compound. The
+reflux system refluxes the first portion mainly composed of the
+polyamine compound. This arrangement causes the polyamine
+compound required for the fluidization to be roughly separated and
+refluxed to the fluidizer. This also assures the size reduction of
+the whole apparatus and enables the fluidization with a high 
+efficiency.</p><p num="0018">In the above configuration, the reflux system refluxes the
+second portion mainly composed of the polyol compound, instead of
+the first portion mainly composed of the polyamine compound.
+This arrangement is useful when the fluidizer adopts the process
+of making the slurry.</p><p num="0019">In accordance with one preferable embodiment of the above
+structure, the reflux system refluxes the polyamine compound
+separately recovered by the separating/recovering unit. This
+arrangement enables the polyamine compound of the higher purity
+to be refluxed to the fluidizer for the aminolysis with a higher
+efficiency, thereby enabling further size reduction of the whole
+apparatus.</p><p num="0020">In accordance with another preferable embodiment of the
+above structure, the reflux system refluxes the polyol compound
+separately recovered by the separating/recovering unit. This
+arrangement enables the polyol compound of the higher purity to
+be refluxed to the fluidizer to make the slurry with a higher
+efficiency.</p><p num="0021">In accordance with still another preferable embodiment of
+the above structure, it is preferable that the apparatus further
+includes a water reflux system that refluxes water discharged from
+the dehydrator to the water supplier. This arrangement enables
+water indispensable for the hydrolysis to be recycled and thereby
+decreases the quantity of exhaust discharged out of the apparatus. </p><p num="0022">In accordance with still another preferable embodiment of
+the above structure, the fluidizer includes: a decomposition tank,
+in which combining a polyamine compound and the polyurethane
+resin causes aminolysis to thereby decompose the polyurethane
+resin and to produce the resulting fluidized product; and an
+intermediate separation tank that separates the fluidized product
+into a target compound of hydrolysis decomposition and a non-hydrolysis
+compound. The apparatus further may have a feeder
+that feeds the non-hydrolysis compound discharged from the
+intermediate separation tank to the separating/recovering unit.
+As the result of aminolysis in the fluidizer, the fluidized product
+includes an urea bond-containing compound and a polyol compound.
+The polyol compound is, however, a target of recovery and does not
+require any hydrolysis. The arrangement of bypassing the
+reactor and passing the polyol compound directly to the
+separating/recovering unit favorably reduces the size of the
+reactor and the post-processor.</p><p num="0023">The apparatus for decomposition and recovery according to
+the present invention hydrolyzes polyurethane resin to useful
+substances for recycling. The polyurethane resin, which is the
+object to be decomposed, is obtained in the form of cut piece wastes
+and defectives in the molding and working process of the
+polyurethane resin products, as well as in the form of article
+wastes after the use in a variety of fields. The polyurethane resin
+includes foams, such as flexible urethane foam, semi-rigid 
+urethane foam, and rigid urethane foam, elastomers (cast, kneaded,
+and thermoplastic elastomers), RIM products, and ISF (integral-skin
+foams). The apparatus of the present invention can
+decompose any of these polyurethane resins. The apparatus can
+also decompose shredder dust without any problems since foreign
+matters included in the fluidized shredder dust are filtered out by
+the filter.</p><p num="0024">The apparatus of the present invention decomposes the
+polyurethane resin to a polyol compound and a polyamine
+compound, which are the raw materials of the polyurethane resin.
+The polyol compound and the polyamine compound are then
+recycled and reused as the raw materials for producing the
+polyurethane resin.</p><p num="0025">The apparatus for decomposition and recovery according to
+the present invention is described more in detail with referring to
+the drawings.</p><p num="0026">Fig. 1 schematically illustrates an apparatus for
+decomposition and recovery in one embodiment according to the
+present invention. The apparatus includes a fluidizer 1, a
+supplier 2 for feeding a fluidized target compound of hydrolysis
+decomposition to a reactor 3, the reactor 3 for causing the fluidized
+target compound of decomposition to be brought into contact with
+supercritical water or high-temperature high-pressure water for
+hydrolysis, a water supplier 4 for feeding a supercritical water or
+high-temperature high-pressure water to the reactor 3, a post-processor 
+5, a reflux system 6, an introduction unit 10 for
+introducing polyurethane resin into the fluidizer 1, and a pressure
+control valve 31.</p><p num="0027">The polyurethane resin is fed from the introduction unit 10
+to the fluidizer 1 by a batch process or by a flow process. The
+introduction unit 10 may be a hopper or a reservoir. In the event
+that the polyurethane resin to be decomposed is not sufficiently
+small pieces like shredder dust, it is preferable to cut the
+polyurethane resin into sufficiently small pieces with a milling
+machine, such as a cutter mill, a roll mill, or a hammer mill, before
+the polyurethane resin is stored in the introduction unit 10. A
+powder feeder like a rotary feeder or a belt feeder may be used to
+pass the small pieces of polyurethane resin to the introduction
+unit 10.</p><p num="0028">The fluidizer 1 fluidizes the polyurethane resin. There are
+mainly three processes applicable for the fluidization. The first
+process causes the polyurethane resin to react with a polyamine
+compound and decomposes the polyurethane resin to a polyol
+compound and a urea bond-containing compound through the
+aminolysis. The second process uses a polyol compound or
+another liquid medium and physically stirs the polyurethane resin
+to a slurry. The third process dissolves the polyurethane resin in
+a solvent having ability to dissolve the polyurethane resin.</p><p num="0029">The fluidizer 1 corresponding to one of these three processes
+includes a vessel for decomposing, making a slurry, or dissolving 
+and an agitating mechanism. Concrete examples of the fluidizer 1
+include a tank reactor with an agitator, a horizontal reactor, a
+vessel rotating mixer such as a V-shaped rotating mixer or a
+conical mixer, and mechanical agitation blenders with ribbon-shaped
+or cone-shaped screws. In the case of continuous
+decomposition and recovery process, vessel rotating mixers,
+mechanical agitation blenders, and a horizontal reactor are
+preferably used. For example, a horizontal reactor for agitating a
+high viscous substance described in JAPANESE PATENT LAID-OPEN
+GAZETTE No. 10-342 enables fluidization with a high
+efficiency.</p><p num="0030">Among the three applicable processes for fluidization
+described above, the aminolysis is the most favorable method.
+The aminolysis gives a polyol compound, which is a target of
+recovery, prior to the hydrolysis process. The configuration of
+passing the polyol compound obtained by the aminolysis to the
+post-processor 5 enables size reduction of the units after the
+reactor in the apparatus. The polyamine compound produced by
+the hydrolysis process may be used for the aminolysis. This saves
+the limited resources. The presence of a little amount of a polyol
+compound decreases the viscosity of the reaction mixture in the
+fluidizer. This enables the reaction to proceed homogeneously.
+When the aminolysis is applied for the fluidization process, the
+vessel of the fluidizer 1 is a decomposition tank.</p><p num="0031">The polyamine compound, which is the raw material of the 
+polyurethane resin, may be used for the aminolysis. Typical
+examples of the polyamine compound include tolylenediamine
+(TDA), diaminodiphenylmethane, polymethylpolyphenyl polyamine.
+The aminolysis is generally carried out at temperatures of 120 to
+220°C.</p><p num="0032">The target compound of hydrolysis decomposition fluidized
+by the fluidizer 1 is fed into the reactor 3 by means of the supplier
+2, such as a pump or a screw extruder. A filter may be disposed
+integrally with the fluidizer 1 or in the vicinity of an exit of the
+fluidizer 1. When the polyurethane resin to be decomposed
+includes foreign matters like shredder dust, it is preferable to
+remove the foreign matters before passing the fluidized target
+compound to the reactor 3, in order to prevent possible troubles
+like blocking. The filter may be arranged at any arbitrary
+position between the fluidizer 1 and the reactor 3. Examples of
+the filter include a filter, a disc filter, and a centrifuge.</p><p num="0033">The hydrolysis is performed in the reactor 3. In the case
+where the target compound of hydrolysis decomposition fluidized
+through the aminolysis is fed into the reactor 3, the hydrolysis
+reaction mainly hydrolyzes the urea bond included in the urea
+bond-containing compound. In the case where the fluidizer 1
+adopts the process other than the aminolysis, on the other hand,
+the hydrolysis reaction hydrolyzes a variety of bonds included in
+the polyurethane resin.</p><p num="0034">Either supercritical water or high-temperature high-pressure 
+water is required for the hydrolysis. The reactor 3 used
+should maintain water in the supercritical state or in the high-temperature
+high-pressure state. The water supplier 4 feeds
+water kept in the supercritical state or in the high-temperature
+high-pressure state to the reactor 3. The respective states of
+water are described below. In the embodiment shown in Fig. 1,
+the water supplier 4 comprises a water tank 41, a pump 42, and a
+heater 43. A heat exchanger may be used for the heater and heats
+water by taking advantage of a hot medium discharged after the
+separating/recovering process or a hot medium heated in another
+heater.</p><p num="0035">In another possible configuration, only the pump 42 may use
+as the water supplier 4 and pressurized water is introduced into a
+reactor with a heater by means of the pump 42. In still another
+possible configuration, water is introduced into a reactor with a
+heater and subsequently pressurized by decreasing the volume of
+the reactor kept in a sealed state by means of a cylinder.</p><p num="0036">The hydrolysis is carried out at temperatures of 200 to
+400°C in a specific pressure range of 3 to 30 MPa, in which water is
+kept in the liquid state in this temperature range. The water is
+preferably supplied to the reactor 3 at a temperature and pressure
+sufficient to ensure that the hydrolysis is carried out in the
+reactor 3 in the above temperature range and pressure without a
+heating of the reactor. Water at the temperature of 374°C or
+more under 22.1 MPa or more is referred to as supercritical water. 
+Water at the temperature in the range of 200-400°C under the
+pressure in the range of 3-30 MPa other than the region of
+supercritical water is referred to as high-temperature high-pressure
+water. It is preferable to regulate the amount of water
+in such a manner that the fluidized target compound of hydrolysis
+decomposition and water are fed to the reactor at the ratio of 1:0.3
+to 1:10.0(weight ratio, hereinafter referred to as the water
+addition ratio). The more preferable water addition ratio (the
+weight of water to the weight of hydrolysis target compound)
+ranges from 1.0 to 5.0.</p><p num="0037">A decomposition product mixture discharged from the
+reactor 3 is passed to the post-processor 5 via a passage with the
+pressure control valve 31. In the embodiment shown in Fig. 1, the
+post-processor 5 has a dehydrator 51, and a separating/recovering
+unit 52. The dehydrator 51 is a simple distillation apparatus ,
+and the separating/recovering unit 52 is a distillation column.
+The decomposition product mixture contains water, carbon dioxide,
+a polyol compound, and a polyamine compound. The dehydrator
+51 removes water and carbon dioxide, and the
+separating/recovering unit 52 separately recovers the polyol
+compound and the polyamine compound. This completes the
+separating recovery process of the polyurethane resin in the
+apparatus of the present invention.</p><p num="0038">Examples of the dehydrator 51 include a simple distillation
+apparatus, a flash vaporization apparatus like a flash drum, a 
+vacuum distillation apparatus like a distillation column, an
+adsorption apparatus like an adsorption column, and a dryer. In
+the case of using the flash vaporization apparatus, the reactor 3
+has a high internal pressure, so that only a pressure decreasing
+operation, for example, an operation of passing the decomposition
+product mixture to the atmospheric pressure in the flash
+vaporization apparatus with the pressure control valve 31,
+implements dehydration of the decomposition product mixture.</p><p num="0039">Examples of the separating/recovering unit 52 include a
+simple distillation apparatus, a vacuum distillation apparatus like
+a distillation column, a thin-film evaporator, and apparatuses for
+degasification, extraction, centrifugation, filtration, squeeze, and
+fractionation. The post-processor 5 may further include an
+addition unit, such as a reactor for a chemical reaction, (a reactor
+for adding alkylene oxide to the polyamine compound and
+recovering a polyol compound) and a liquid separation unit, which
+may be used alone or in combination with the dehydrator 51 and
+the separating/recovering unit 52. The respective treatment may
+be performed under reduced pressure or under pressure. Any of
+the post-processor 5 may include a plurality of apparatuses and
+units. In the case of using a distillation column as the
+separating/recovering unit 52, the polyamine compound is
+recovered as a light weight fraction from the top of the column,
+while the polyol compound is recovered as a heavy weight fraction
+from the bottom of the column. </p><p num="0040">In the embodiment shown in Fig. 1, the reflux system 6 is
+disposed between the dehydrator 51 and the separating/recovering
+unit 52 to reflux the dehydrated decomposition product mixture to
+the fluidizer 1. The reflux system 6 is, for example, a reflux
+conduit with a valve. The reflux system 6 is not necessarily
+located between the dehydrator 51 and the separating/recovering
+unit 52, but may be disposed at any arbitrary position downstream
+from the reactor 3 with respect to the decomposition product
+mixture feeding direction. In the case where the aminolysis is
+applied for fluidization of the polyurethane resin, it is necessary
+to contain the polyamine compound in the refluxed fluid, and the
+reflux fluid may or may not contain water and the polyol compound.
+In order to attain the high efficiency of aminolysis, however, it is
+not desirable to dilute the reaction mixture excessively.
+Refluxing the non-required medium in the apparatus makes the
+whole apparatus undesirably bulky, so that the reflux system 6 is
+preferably arranged downstream the dehydrator 51.</p><p num="0041">Fig. 2 illustrates another apparatus for decomposition and
+recovery in another embodiment according to the present invention.
+The same constituents as those in Fig. 1 are shown by the same
+numerals. In this embodiment of Fig. 2, the post-processor 5 has
+a rough separation unit 53, which is a centrifuge and is disposed
+between the dehydrator 51 and the separating/recovering unit 52.
+The rough separation unit 53 roughly divides the dehydrated
+decomposition product mixture into a polyamine compound-rich 
+first portion and a polyol compound-rich second portion. For the
+reduced running cost of the whole apparatus, the rough separation
+unit 53 preferably has a low energy cost and does not require
+heating. Preferable examples of the rough separation unit 53
+include a tubular or decanter-type centrifugal settling classifier, a
+liquid cyclone, a film separator, and a tank for still standing
+separation. Especially preferable is the technique of utilizing the
+fact that the polyamine compound has a greater specific gravity
+than the polyol compound for separation, that is, the centrifugal
+settling classifier, the liquid cyclone, and the tank for still
+standing separation. The polyamine compound-rich first portion
+is discharged from the lower part of such rough separation unit 53.
+In the event that a distillation column is used for the
+separating/recovering unit 52, it is preferable to feed the
+polyamine compound-rich first portion to an upper half of the
+distillation column. This reduces the required size of the
+distillation column and the energy cost.</p><p num="0042">In the embodiment shown in Fig. 2, a reflux system 61
+refluxes the polyamine compound-rich first portion discharged
+from the rough separation unit 53 to the fluidizer 1. Another
+reflux system 62 may be disposed in place of or in addition to the
+reflux system 61. The reflux system 62 refluxes part of the
+polyamine compound discharged from the separating/recovering
+unit 52 to the fluidizer 1. In the event that a distillation column
+is used for the separating/recovering unit 52, the polyamine 
+compound recovered from the top of the distillation column and the
+polyamine compound-rich substance taken out of the upper half of
+the distillation column may be refluxed through the reflux system
+62.</p><p num="0043">Refluxing the polyamine compound purified by the
+separating/recovering unit 52 with a certain energy cost to the
+fluidizer 1 for the aminolysis wastes the energy. Refluxing the
+polyamine compound of the higher purity is preferable, on the
+other hand, in order to attain the high efficiency of the aminolysis.
+Either one of or both of the reflux systems 61 and 62 may thus be
+applied according to the requirements. Either of the reflux
+systems 61 and 62 refluxes the polyamine compound-rich
+substance obtained by the removal of water and the polyol
+compound, which are not required for the aminolysis, with a low
+energy cost. This arrangement favorably reduces the quantities
+of water and the polyol compound from the reflux fluid, thereby
+reducing the size of the whole apparatus and the running cost. In
+the event that the process of making the slurry with the polyol
+compound is applied for the fluidization, the reflux system 61 may
+be disposed at an upper outlet of the rough separation unit 53 or
+alternatively at the bottom of the separating/recovering unit 52, in
+order to reflux the polyol compound-rich substance.</p><p num="0044">In the embodiment of Fig. 2, a water reflux system 7
+includes a condenser 71 and a feeding device like a pump 72.
+Water discharged from the dehydrator 51 is condensed by the 
+condenser 71 and refluxed to a water tank 41 by the feeding pump
+72. Water used for the hydrolysis may contain the polyamine
+compound and the polyol compound, since water containing the
+polyamine compound and the polyol compound dose not adversely
+affect the hydrolysis. Recycling the water discharged from the
+dehydrator 51 decreases the quantity of water discharged out of
+the apparatus and thus advantageously reduces the consumption
+of water.</p><p num="0045">Fig. 3 illustrates still another apparatus for decomposition
+and recovery in still another embodiment according to the present
+invention. In the embodiment of Fig. 3, the fluidizer 1 is a
+decomposition tank 11 and an intermediate separation tank 12
+that separates the fluidized product discharged from the
+decomposition tank 11 into a target compound of hydrolysis
+decomposition and a non-hydrolysis compound. In the case where
+the aminolysis is applied for the fluidization process, the fluidized
+product(the discharge from the decomposition tank 11) mainly
+contains a polyol compound and an urea bond-containing compound.
+The polyol compound is a target of recovery and does not require
+the hydrolysis. The intermediate separation tank 12 separates
+the polyol compound as the non-hydrolysis compound from the urea
+bond-containing compound as the target compound of hydrolysis
+decomposition. This arrangement advantageously reduces the
+size of the whole apparatus including the reactor and the energy
+cost. </p><p num="0046">The intermediate separation tank 12 may be a tubular or
+decanter-type centrifugal settling classifier, a liquid cyclone, or a
+tank for still standing separation, which are exemplified as the
+rough separation unit 53, since the strict separation is not
+required here. A filter may be disposed at an inlet of the
+intermediate separation tank 12. The non-hydrolysis compound
+discharged from the intermediate separation tank 12 is directly
+fed to the separating/recovering unit 52 by a feeder 13 like a pump
+for the separation and purification. The hydrolysis target
+compound mainly composed of the urea bond-containing compound
+is passed to the reactor 3 via the supplier 2.</p><p num="0047">The apparatus for decomposition and recovery according to
+the present invention has been described with reference to Figs. 1
+to 3. The apparatus of the present invention is, however, not
+restricted to the configurations of these embodiments, but may be
+modified without departing from the scope and the spirit of the
+present invention.</p><p num="0048">The present invention is further described with some
+examples.</p><heading>Examples 1 to 3</heading><p num="0049">A mixture of polypropylene triol ("Actcol 79-56"
+manufactured by Takeda Chemical Industries, Ltd., molecular
+weight 3000, hereinafter abbreviated to PPG) and tolylene
+diisocyanate ("Takenate 80" manufactured by Takeda Chemical 
+Industries, Ltd., hereinafter abbreviated to TDI) was polymerized
+and foamed to a soft polyurethane foam. The soft polyurethane
+foam thus obtained had the density of 25 kg/m<sup>3</sup>.</p><p num="0050">A decomposition and recovery experiment was carried out
+for the soft polyurethane foam with the apparatus for
+decomposition and recovery shown in Fig. 1. In the experiment,
+the soft polyurethane foam was cut into small pieces, and the small
+pieces of the foam were charged into a hopper (the introduction
+unit 10), and introduced in a fixed quantity of the polyurethane foam
+into a tank reactor with an agitator (the fluidizer 1). An equal-volume
+solution mixture of tolylenediamine (TDA) and PPG (for
+decreasing the viscosity of the reaction mixture) was added six
+times by weight to the fixed quantity of the polyurethane foam and
+stirred for one hour at 170°C. The polyurethane foam was then
+completely liquefied and fluidized, the progress of the aminolysis
+was conformed.</p><p num="0051">The fluidized product was then fed to the reactor 3 by means
+of a pump (the supplier 2), while high-temperature high pressure
+water, which was passed from the water tank 41, pressurized by
+the pressure pump 42, and heated by the heater 43, was fed to the
+reactor 3. The fluidized product was brought into contact with
+the high-temperature high-pressure water in the reactor 3 for
+hydrolysis. The conditions of the hydrolysis are shown in Table 1.
+The water addition ratio denotes the weight ratio of the high-temperature
+high-pressure water to the hydrolysis target 
+compound included in the fluidized product.</p><p num="0052">The decomposition product after hydrolysis was discharged
+from the reactor 3, and the pressure thereof was decreased to the
+atmospheric pressure with the pressure control valve 31. The
+product under the atmospheric pressure was passed to a simple
+distillation column (the dehydrator 51), and removed water and
+carbon dioxide. The dehydrated substance (TDA and the polyol)
+was recovered from the bottom of the simple distillation column.
+The experiment did not use a distillation column (the
+separating/recovering unit 52) but determined the quantity of TDA
+included in the recovered substance by gas chromatography. The
+quantity of TDA recovered from the polyurethane foam was
+calculated by subtracting the quantity of TDA used for the
+fluidization from the quantity of TDA thus determined. The
+recovery rate was calculated according to an equation given below.
+The results of the calculation are shown in Table 1.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">Recovery rate of TDA [%] = 100 x (recovered quantity of TDA
+[mole] / quantity of TDI for synthesis of polyurethane foam [mole])</st32:df><tables><table><tgroup cols="5"><tbody><row><entry align="center"/><entry align="center">Temperature (°C)</entry><entry align="center">Pressure (MPa)</entry><entry align="center">Water addition ratio (wt/wt)</entry><entry align="center">Recovery rate of TDA (%)</entry></row><row><entry align="left">Ex.1</entry><entry align="right">250</entry><entry align="right">12</entry><entry align="center">1.0</entry><entry align="right">90</entry></row><row><entry align="left">Ex.2</entry><entry align="right">250</entry><entry align="right">12</entry><entry align="center">1.8</entry><entry align="right">99</entry></row><row><entry align="left">Ex.3</entry><entry align="right">250</entry><entry align="right">12</entry><entry align="center">3.0</entry><entry align="right">98</entry></row></tbody></tgroup></table></tables></p><heading>Example 4</heading><p num="0053">A decomposition and recovery experiment was carried out
+for the polyurethane foam produced in Example 1 with the
+apparatus used in Example 1. In the experiment, the soft
+polyurethane foam was cut into small pieces, and the small pieces
+of the foam were charged into a hopper (the introduction unit 10),
+and introduced in a fixed quantity of the polyurethane foam into a
+tank reactor with an agitator (the fluidizer 1). The decomposed
+and recovered substance obtained in Example 2 was added ten
+times by weight to the fixed quantity of the polyurethane foam and
+stirred for one hour at 170°C. The polyurethane foam was then
+completely liquefied and fluidized, the progress of the aminolysis
+was conformed.</p><p num="0054">The fluidized product was hydrolyzed in the same manner as
+Example 1, except two conditions shown in Table 2 were applied for
+the hydrolysis. The decomposed and recovered substance was
+obtained through the dehydration (simple distillation) process.
+The recovery rate of TDA [%] is shown in Table 2.
+<tables><table><tgroup cols="4"><tbody><row><entry align="center">Temperature (°C)</entry><entry align="center">Pressure (MPa)</entry><entry align="center">Water addition ratio (wt/wt)</entry><entry align="center">Recovery rate of TDA (%)</entry></row><row><entry align="right">250</entry><entry align="right">12</entry><entry align="center">1.8</entry><entry align="right">97</entry></row><row><entry align="right">270</entry><entry align="right">15</entry><entry align="center">1.8</entry><entry align="right">99</entry></row></tbody></tgroup></table></tables></p><heading>Example 5</heading><p num="0055">A decomposition and recovery experiment was carried out
+for the polyurethane foam produced in Example 1 with the
+apparatus used in Example 1. In the experiment, the soft
+polyurethane foam was cut into small pieces, and the small pieces
+of the foam were charged into a hopper (the introduction unit 10),
+and were introduced in a fixed quantity of the polyurethane foam into
+a tank reactor with an agitator (the fluidizer 1). TDA was then
+added three times by weight to the fixed quantity of the
+polyurethane foam and stirred for one hour at 180°C for the
+aminolysis.</p><p num="0056">The fluidized product was hydrolyzed in the same manner as
+Example 1, except conditions shown in Table 3 were applied for the
+hydrolysis. The decomposed and recovered substance was
+obtained through the dehydration (simple distillation) process.
+The recovery rate of TDA [%] is shown in Table 3.
+<tables><table><tgroup cols="4"><tbody><row><entry align="center">Temperature (°C)</entry><entry align="center">Pressure (MPa)</entry><entry align="center">Water addition ratio (wt/wt)</entry><entry align="center">Recovery rate of TDA (%)</entry></row><row><entry align="right">260</entry><entry align="right">16</entry><entry align="center">1.8</entry><entry align="right">99</entry></row></tbody></tgroup></table></tables></p><heading>Example 6</heading><p num="0057">A decomposition and recovery experiment was carried out
+for the polyurethane foam produced in Example 1 with the 
+apparatus used in Example 1. In the experiment, the soft
+polyurethane foam was cut into small pieces, and the small pieces
+of the foam were charged into a hopper (the introduction unit 10),
+and were introduced in a fixed quantity of the polyurethane foam into
+a tank reactor with an agitator (the fluidizer 1). The decomposed
+and recovered substance after the dehydration process obtained in
+Example 5 was further subjected to simple distillation under the
+conditions of 15 Torr (2000 Pa) and 160°C. The resulting liquid
+substance having the TDA concentration of 95% was recovered and
+added four times by weight of the fixed quantity of the
+polyurethane foam in the reactor and stirred for one hour at 180°C
+for the aminolysis.</p><p num="0058">The fluidized product was hydrolyzed in the same manner as
+Example 1, except conditions shown in Table 4 were applied for the
+hydrolysis. The decomposed and recovered substance was
+obtained through the simple distillation process. The recovery
+rate of TDA [%] is shown in Table 4.
+<tables><table><tgroup cols="4"><tbody><row><entry align="center">Temperature (°C)</entry><entry align="center">Pressure (MPa)</entry><entry align="center">Water addition ratio (wt/wt)</entry><entry align="center">Recovery rate of TDA (%)</entry></row><row><entry align="right">260</entry><entry align="right">16</entry><entry align="center">1.8</entry><entry align="right">98</entry></row></tbody></tgroup></table></tables></p><heading>Example 7</heading><p num="0059">A decomposition and recovery experiment was carried out 
+for the polyurethane foam produced in Example 1 with the
+apparatus used in Example 1. In the experiment, the soft
+polyurethane foam was cut into small pieces, and the small pieces
+of the foam were charged into a hopper (the introduction unit 10),
+and were introduced in a fixed quantity of the polyurethane foam into
+a tank reactor with an agitator (the fluidizer 1). The decomposed
+and recovered substance after the dehydration process obtained in
+Example 5 was further subjected to simple distillation under the
+conditions of 15 Torr (2000 Pa) and 160°C for recovery of
+polypropylene glycol. The polypropylene glycol was added to the
+polyurethane foam in the reactor and mechanically stirred to make
+the polyurethane foam slurry. The slurry was hydrolyzed in the
+same manner as Example 1, except conditions shown in Table 5
+were applied for the hydrolysis. The decomposed and recovered
+substance was obtained through the simple distillation process.
+The recovery rate of TDA [%] is shown in Table 5.
+<tables><table><tgroup cols="4"><tbody><row><entry align="center">Temperature (°C)</entry><entry align="center">Pressure (MPa)</entry><entry align="center">Water addition ratio (wt/wt)</entry><entry align="center">Recovery rate of TDA (%)</entry></row><row><entry align="right">280</entry><entry align="right">20</entry><entry align="center">3.0</entry><entry align="right">98</entry></row></tbody></tgroup></table></tables></p><p num="0060">As described above, the apparatus for decomposition and
+recovery according to the present invention decomposes
+polyurethane resin and recovers the decomposed polyurethane as a 
+polyamine compound or a polyol compound, which are the raw
+materials of the polyurethane resin. The polyurethane resin is
+fluidized before being subjected to hydrolysis. This configuration
+enables the continuous processing and facilitates the removal of
+foreign matters. Compared with the prior art apparatus that
+hydrolyzes solid polyurethane resin in a reactor, this arrangement
+advantageously decreases the water addition ratio and reduces the
+reaction time, thereby reducing the volume of the reactor, lowering
+the required level of the performance of the water supplier, and
+eventually reducing the recycling cost.</p><p num="0061">Application of the aminolysis for the fluidization process
+enables part of polyamine compound produced through the
+hydrolysis to be recycled. Separation of the polyol produced
+through the aminolysis prior to the hydrolysis process ensures the
+size reduction of the whole apparatus and favorably decreases the
+running cost.</p><p num="0062">The present invention is not restricted to the above
+embodiments/examples or their modifications, but there may be
+many other modifications, changes, and alterations without
+departing from the scope or spirit of the main characteristics of
+the present invention.</p><p num="0063">The scope and spirit of the present invention are limited
+only by the terms of the appended claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An apparatus for decomposing a polyurethane resin and
+recovering the decomposed polyurethane resin as a polyamine
+compound and/or a polyol compound, said apparatus comprising:
+<claim-text><claim-text>a fluidizer that fluidizes the polyurethane resin as a target
+compound of hydrolysis decomposition;</claim-text><claim-text>a reactor that hydrolyzes the fluidized target compound of
+decomposition with either one of supercritical water and high-temperature
+high-pressure water to a decomposition product
+mixture;</claim-text><claim-text>a water supplier that feeds either one of supercritical water
+and high-temperature high-pressure water to said reactor; and</claim-text><claim-text>a post-processor that causes the decomposition product
+mixture discharged from said reactor to be subjected to a post
+treatment procedure, such as dehydration, addition, distillation,
+separation, and liquid separation to recover the polyamine
+compound and/or the polyol compound.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>An apparatus according to claim 1, wherein said fluidizer
+comprises a decomposition tank, in which combining a polyamine
+compound and the polyurethane resin causes aminolysis to thereby
+decompose the polyurethane resin and to produce the resulting
+fluidized target compound of hydrolysis decomposition.</claim-text></claim><claim num="3"><claim-text>An apparatus according to claim 1 or 2, further comprising:
+<claim-text><claim-text>a filter disposed in a pathway between the fluidizer and the
+reactor to continuously feed the fluidized target compound to said
+reactor.</claim-text></claim-text></claim-text></claim><claim num="4"><claim-text>An apparatus according to one or more of claims 1 to 3, further comprising:
+<claim-text><claim-text>a reflux system that refluxes part of the decomposition
+product mixture from a position downstream from said reactor
+with respect to the mixture feeding direction to said fluidizer.</claim-text></claim-text></claim-text></claim><claim num="5"><claim-text>An apparatus according to one or more of claims 1 to 4, wherein
+said post-processor comprises:
+<claim-text><claim-text>a dehydrator that removes water from the decomposition
+product mixture; and</claim-text><claim-text>a separating/recovering unit that separately recovers the
+polyamine compound and the polyol compound from the dehydrated
+decomposition product mixture.</claim-text></claim-text></claim-text></claim><claim num="6"><claim-text>An apparatus according to claim 5 further comprising:
+<claim-text><claim-text>a water reflux system that refluxes water discharged from
+said dehydrator to said water supplier.</claim-text></claim-text></claim-text></claim><claim num="7"><claim-text>An apparatus according to claim 5 or 6, wherein said reflux
+system is disposed between said dehydrator and said
+separating/recovering unit.</claim-text></claim><claim num="8"><claim-text>An apparatus according to claim 5, 6 or 7, wherein said post-processor
+further comprises a rough separation unit disposed
+between said dehydrator and said separating/recovering unit to
+roughly divide the dehydrated decomposition product mixture into
+a first portion mainly composed of the polyamine compound and a
+second portion mainly composed of the polyol compound, and
+   said reflux system refluxes the first portion mainly
+composed of the polyamine compound.</claim-text></claim><claim num="9"><claim-text>An apparatus according to claim 5, 6 or 7, wherein said post-processor
+further comprises a rough separation unit that is
+disposed between said dehydrator and said separating/recovering
+unit to roughly divide the dehydrated decomposition product
+mixture into a first portion mainly composed of the polyamine
+compound and a second portion mainly composed of the polyol
+compound, and
+   said reflux system refluxes the second portion mainly
+composed of the polyol compound.</claim-text></claim><claim num="10"><claim-text>An apparatus according to claim 5, wherein said reflux
+system refluxes the polyamine compound recovered by said
+separating/recovering unit.</claim-text></claim><claim num="11"><claim-text>An apparatus according to claim 5, wherein said reflux
+system refluxes the polyol compound recovered by said
+separating/recovering unit.</claim-text></claim><claim num="12"><claim-text>An apparatus according to one or more of claims 5 to 11,
+wherein said fluidizer comprises:
+<claim-text><claim-text>a decomposition tank, in which combining a polyamine
+compound and the polyurethane resin causes aminolysis to thereby
+decompose the polyurethane resin and to produce the resulting
+fluidized product; and</claim-text><claim-text>an intermediate separation tank that separates the
+fluidized product into a target compound of hydrolysis
+decomposition and a non-hydrolysis compound,
+said apparatus further comprising:</claim-text><claim-text>a feeder that feeds the non-hydrolysis compound
+discharged from said intermediate separation tank to said
+separating/recovering unit.</claim-text></claim-text></claim-text></claim></claims><drawings status="new"><figure num="1"><img id="img-00340001" orientation="unknown" wi="158" img-format="tif" img-content="dr" file="00340001.tif" inline="no" he="245"/></figure><figure num="2"><img id="img-00350001" orientation="unknown" wi="137" img-format="tif" img-content="dr" file="00350001.tif" inline="no" he="118"/></figure></drawings><search-report-data status="new"><doc-page id="img--90000001" orientation="portrait" wi="154" status="new" file="90000001.tif" he="238" type="tif"/><doc-page id="img--90010001" orientation="portrait" wi="157" status="new" file="90010001.tif" he="235" type="tif"/></search-report-data><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

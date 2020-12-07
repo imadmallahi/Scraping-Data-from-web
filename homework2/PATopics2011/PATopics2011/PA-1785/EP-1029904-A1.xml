@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1029904-A1" country="EP" doc-number="1029904" kind="A1" lang="EN" family-id="22959393" status="new" date-produced="20090516" date="20000823"><bibliographic-data><publication-reference ucid="EP-1029904-A1" status="new" fvid="22901156"><document-id status="new" format="original"><country>EP</country><doc-number>1029904</doc-number><kind>A1</kind><date>20000823</date></document-id></publication-reference><application-reference ucid="EP-00301279-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00301279</doc-number><kind>A</kind><date>20000218</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-25322699-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>25322699</doc-number><kind>A</kind><date>19990219</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/01        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/01        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09D  11/00C</classification-symbol><classification-symbol scheme="EC">C09D  11/00C20</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Lösungsmittel zur Steigerung der Druckfähigkeit und Tropfenausstoss von Tinten, die Latexpolymere enthalten</invention-title><invention-title load-source="ep" status="new" lang="EN">Solvents that enhance the printability and drop ejection of inks containing latex polymers</invention-title><invention-title load-source="ep" status="new" lang="FR">Solvants améliorant les propriétés d'impression et d'éjection de  gouttes d'encres contenant des polymères de latex</invention-title><citations><patent-citations><patcit ucid="EP-0859037-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0859037</doc-number><kind>A1</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0872344-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0872344</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA"  created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new"  format="epo"><addressbook><name>HEWLETT PACKARD CO</name><address><country>US</country></address></addressbook></applicant><applicant status="new"  format="intermediate"><addressbook><name>HEWLETT-PACKARD COMPANY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Hewlett-Packard Company</last-name><address><street>3000 Hanover Street</street><city>Palo Alto, California 94304</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>REHMAN ZIA</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>REHMAN, ZIA</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>REHMAN, ZIA</last-name><address><street>3010 NE Glacier Way</street><city>Corvallis, OR 97330</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Colgan, Stephen James</last-name><address><street>CARPMAELS &amp;amp; RANSFORD 43 Bloomsbury Square</street><city>London WC1A 2RA</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A solvent system has been found which aids in start-up, drop ejection, decap
+and high frequency firing above 10 kHz for inks which contain latex polymers. Two
+solvents work in conjunction with each other: 3-hexyne-2,5-diol and 1,2-octanediol.
+These two solvents in combination improve printability in latex polymer-containing
+ink-jet inks. Such ink-jet inks also include one or more pigments and a vehicle comprising
+at least one organic, water-miscible solvent and water.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">TECHNICAL FIELD</u></heading><p num="0001">The present invention relates generally to ink-jet inks, and, more particularly to
+ink-jet inks containing latex polymers having improved print properties.</p><heading><u style="single">BACKGROUND ART</u></heading><p num="0002">Ink-jet inks have recently been developed that utilize latex polymers to
+achieve smearfastness. Examples of such latex polymers are disclosed in, for example,
+application Serial Number 09/120,046, filed July 21, 1998. Examples of such latex
+polymers used in formulating ink-jet ink compositions are disclosed in, for example,
+Serial Number 09/120,270, also filed July 21, 1998. Both applications are assigned to
+the same assignee as the present application.</p><p num="0003">There are two types of such latex polymers disclosed and claimed. The first
+type is referred to as durable core/shell polymers and are given by the formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">[(A)<sub>m</sub>(B)<sub>n</sub>(C)<sub>p</sub>(D)<sub>q</sub>(E)<sub>r</sub>]<sub>x</sub></st32:che>
+wherein A, B, C, D, and E represent functionalities as follows:
+<sl><li>A = at least one hydrophobic component contributing to improved durable,
+film-forming properties selected from moieties which, when homopolymerized 
+to a solid state, have a glass transition temperature (T<sub>g</sub>) in the
+range between -150°C to +25°C;</li><li>B = at least one hydrophobic and solvent barrier moiety used to adjust
+the T<sub>g</sub> of the hydrophobic component of the polymer (I) which, when homopolymerized
+to a solid state, has a T<sub>g</sub> greater than +25°C;</li><li>C = at least one hydrophilic component, selected from a wide variety
+of water-soluble monomers (optional);</li><li>D = at least one UV absorber (optional);</li><li>E = a moiety having at least one highly polar functional group (optional);</li><li>m = 5 to 95 wt%;</li><li>n = 5 to 95 wt%;</li><li>p = 0 to 60 wt%;</li><li>q = 0 to 50 wt%;</li><li>r= 0 to 40 wt%;</li><li><st32:f xmlns:st32="http://www.matrixware.com/ns/st32/">m+n+p+q+r = 100 wt%</st32:f>; and</li><li>x = 1 to 100,000.</li></sl></p><p num="0004">Preferably, the final T<sub>g</sub> the polymer(s) (I) is within the range of about -25°
+to +110°C, and more preferably, the final T<sub>g</sub> is within the range of about -15° to
++90°C, and most preferably within the range of about -10° to +75°C.</p><p num="0005">The molecular weight (weight average) of polymer (I) is between about 1,000
+and 2,000,000, preferably between about 5,000 and 500,000, and most preferably
+between about 10,000 and 70,000.</p><p num="0006">Either the C moiety or the E moiety must be present in the polymer to provide
+a polymer having either a hydrophilic portion or a highly polar portion. Alternatively,
+one or more surfactants may be used in conjunction with polymer (I), whether in the
+presence or the absence of the C or E, or both, moieties. The surfactant(s) may be anionic,
+cationic, non-ionic, or zwitterionic. </p><p num="0007">The second type of latex polymers is referred to as primer core/shell polymers,
+which also have a hydrophilic portion and a hydrophobic portion and have the following
+general structure given by formula (II)
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">[(A)<sub>m</sub>(B)<sub>n</sub>(C)<sub>p</sub>(E)<sub>r</sub>]<sub>y</sub></st32:che>
+wherein A, B, C, and E are as described above and where m, n, and r are as follows:
+<sl><li>m = 0 to 90 wt%, preferably 10 to 60 wt%, and more preferably 15 to
+50 wt%;</li><li>n = 0 to 90 wt%, preferably 10 to 60 wt%, and more preferably 15 to 50
+wt%;</li><li>p = 0 to 90 wt%, preferably 10 to 60 wt%, and more preferably 15 to
+50 wt%;</li><li>r = 0.01 to 100 wt%, preferably 0.01 to 60 wt%, and more preferably 1
+to 40 wt%;</li><li><st32:f xmlns:st32="http://www.matrixware.com/ns/st32/">m + n + r = 100 wt%</st32:f>; and</li><li>y = 1 to 100,000, preferably 10 to 10,000, and more preferably 100 to
+1,000.</li></sl>
+Preferably, either m or n is non-zero.</p><p num="0008">The T<sub>g</sub> of the primer core/shell polymers is within the range of about -100° to
++100°C, preferably within the range of about -25° to +25°C, and more preferably
+within the range of about 0° to +25°C.</p> <p num="0009">The molecular weight (weight average) of polymer (II) is between about 100
+and 2,000,000, preferably between about 1,000 and 500,000, and most preferably
+between about 5,000 and 300,000.</p><p num="0010">These latex polymers, though good for smearfastness, are difficult to print.
+The printability concerns stems from one or more of the following factors. Because of
+their partial solubility, these polymers could hinder the bubble nucleation, growth, and
+ejection process and also could dry fast in the orifice. Essentially, because of their
+bulky nature, they collect at the interface during nucleation and firing of the droplet, 
+thus hindering the firing. By "printability" is meant any or all of the foregoing: start-up,
+drop ejection, decap and high frequency firing above 10 kHz. By "start-up" is
+meant when the pen first starts to fire, the ease with which it fires all nozzles, i.e., the
+amount of "spitting" required before all nozzles are active. By "drop ejection" is
+meant the degree of straight drops whose characteristics do not change with (1) time,
+(2) amount of firing, and (3) frequency. By "decap" is meant the ability of the pen to
+fire all nozzles consistently alter non-firing periods of 5, 10, 15, or up to 20 seconds.</p><p num="0011">There is a need to improve the printability of ink-jet inks that utilize latex
+polymers, whether of the foregoing formulations or of other formulations.</p><heading><u style="single">DISCLOSURE OF THE INVENTION</u></heading> <p num="0012">In accordance with the present invention, a solvent system has been found
+which aids in start-up, drop ejection, decap and high frequency firing above 10 kHz
+for inks which contain latex polymers. Two solvents work in conjunction with each
+other: 3-hexyne-2,5-diol and 1,2-octanediol. These two solvents in combination improve
+printability in latex polymer-containing ink-jet inks.</p> <heading><u style="single">BEST MODES FOR CARRYING OUT THE INVENTION</u> </heading><p num="0013">Latex polymers, also termed "core/shell" polymers, are polymers having both
+hydrophilic and hydrophobic portions. Such polymers are primarily used in pigment-based
+inks to improve the smearfastness of the inks.</p><p num="0014">In accordance with the present invention, the printability of inks containing one
+or more latex polymers is improved by including in the vehicle of the ink the following
+two co-solvents: 3-hexyne-2,5-diol and 1,2-octanediol. These two solvents in combination
+improve the printability of latex polymer-containing ink-jet inks.</p><p num="0015">The first compound (3-hexyne-2,5-diol) is present in a range of about 1 to 8
+wt%, while the second compound (1,2-octanediol) is present in a range of about 0.01
+to 0.5 wt%, both of the total ink composition. Preferably, the second compound is 
+employed at the lower range of concentration, due to its tendency to feather at higher
+concentrations.</p><p num="0016">Although the concentration of each compound may be independent of the
+other, it is preferred that the ratio of the first compound to the second compound be
+about 100:1 to 1:100, and preferably about 20:1.</p><p num="0017">The inks of the invention comprise a colorant and a vehicle. Specifically, the
+inks of the present invention comprise about 5 to 50 wt%, preferably about 10 to 25
+wt%, water-miscible organic co-solvent, about 0.05 to 10 wt%, preferably about 0.5 to
+10 wt%, colorant, about 0.005 to 50 wt%, preferably about 0.1 to 10 wt %, more preferably
+about 0.5 to 5 wt%, durable core/shell polymer, about 0.005 to 50 wt%, preferably
+about 0.1 to 10 wt%, more preferably about 0.5 to 5 wt%, primer core/shell
+polymer, and water. Other components and additives to the ink may also be present,
+as discussed below.</p><p num="0018">The black inks of the invention comprise a pigment and a vehicle. Specifically,
+the black inks of the present invention comprise about 5 to 50 wt%, preferably about
+10 to 25 wt%, water-miscible organic co-solvent, about 0.05 to 10 wt%, preferably
+about 0.5 to 10 wt%, pigment, about 0.005 to 50 wt%, preferably about 0.1 to 10 wt%,
+more preferably about 0.5 to 5 wt%, durable latex polymer, about 0.005 to 50 wt%,
+preferably about 0.1 to 10 wt%, more preferably about 0.5 to 5 wt%, primer latex
+polymer, and water, in addition to the ester or diol/triol additive discussed above.
+Other components and additives to the ink may also be present, as discussed below.</p><heading><u style="single">1. Self-Dispersed Pigments</u></heading><p num="0019">In one embodiment, the colorant employed in the ink is a self-dispersing pigment.
+Such pigments suitable for use in the practice of the present invention include
+all chemically-modified, water-dispersible pigments known for use in ink-jet printing.
+These chemical modifications impart water-dispersibility to the pigment precursors
+that encompass all organic pigments.</p><p num="0020">For self-dispersibility or water solubility, the pigments herein are modified by
+the addition of one or more organic groups comprising at least one aromatic group or 
+a C<sub>1</sub>-C<sub>12</sub> alkyl group and at least one ionic or ionizable group. The ionizable group is
+one that forms its ionic groups in the aqueous medium. The ionic group may be anionic
+or cationic. The aromatic groups may be further substituted or unsubstituted. Examples
+include phenyl or naphthyl groups and the ionic group is sulfonic acid, sulfinic
+acid, phosphonic acid, carboxylic acid, ammonium, quaternary ammonium, or phosphonium
+group.</p><p num="0021">Depending on the process selected, the pigment can either be anionic or cationic
+in character. As commercially available, the anionic chromophores are usually
+associated with sodium or potassium cations, and the cationic chromophores are usually
+associated with chloride or sulfate anions.</p><p num="0022">For modification, one preferred method is treatment of a carbon black pigment
+with aryl diazonium salts containing at least one acidic functional group. Examples of
+aryl diazonium salts include those prepared from sulfinic acid, 4-aminobenzoic acid,
+4-aminosalicylic acid, 7-amino-4-hydroxy-2-naphthylenesulfonic acid, aminophenylboronic
+acid, aminophenylphosphonic acid, and metalinic acid.</p><p num="0023">Ammonium, quaternary ammonium groups, quaternary phosphonium groups,
+and protonated amine groups represent examples of cationic groups that can be attached
+to the same organic groups discussed above.</p><p num="0024">Reference is made to U.S. Patents 5,707,432; 5,630,868; 5,571,311; and
+5,554,739 for a discussion of modified carbon black pigments and methods of attaching
+the functionalized groups.</p><p num="0025">The following water-insoluble pigments are useful in the practice of the invention;
+however, this listing is not intended to limit the invention. The following
+pigments are available from Cabot: Monarch® 1400, Monarch® 1300, Monarch®
+1100, Monarch® 1000, Monarch® 900, Monarch® 880, Monarch® 800, and Monarch®
+700. The following pigments are available from Ciba-Geigy: Igralite® Rubine
+4BL. The following pigments are available from Columbian: Raven 7000, Raven
+5750, Raven 5250, Raven 5000, and Raven 3500. The following pigments are available
+from Degussa: Color Black FW 200, Color Black FW 2, Color Black FW 2V,
+Color Black FW 1, Color Black FW 18, Color Black S 160, Color Black S 170, Special 
+Black 6, Special Black 5, Special Black 4A, Special Black 4, Printex U, Printex
+V, Printex 140U, and Printex 140V. The following pigment is available from DuPont:
+Tipure® R-101. The following pigment is available from Hoechst: Permanent Rubine
+F6B. The following pigment is available from Sun Chemical: LHD9303 Black.</p><p num="0026">Self-dispersing pigments are also commercially available from Cabot as Cab-O-Jet®
+200 and Cab-O-Jet® 300.</p><p num="0027">In another embodiment herein, the black pigment is dispersed in the ink composition
+with the aid of a dispersing agent. Such black pigments include any black
+pigment that is dispersed with a dispersant having an anionic functionality, for example,
+the Joncryl polymers available from S.C. Johnson Polymer. Of course, any other
+dispersant exhibiting anionic charges may be employed in the practice of the present
+invention. For a more complete discussion of black pigments and anionic dispersants,
+see U.S. Patents 5,181,045 and 5,785,743.</p><heading><u style="single">2. Latex Polymers</u></heading><p num="0028">Ink-jet inks have recently been developed that utilize latex polymers to achieve
+smearfastness. Examples of such latex polymers are disclosed in, for example, application
+Serial Number 09/120,270 and application Serial No. 09/120,046, both filed July
+21, 1998.</p><p num="0029">There are two types of such latex polymers employed in the practice of the
+present invention. The first type is referred to as "durable core/shell" polymers and are
+given by the formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">[(A)<sub>m</sub>(B)<sub>n</sub>(C)<sub>p</sub>(D)<sub>q</sub>(E)<sub>r</sub>]<sub>x</sub></st32:che>
+wherein A, B, C, D, and E represent functionalities as follows:
+<sl><li>A = at least one hydrophobic component contributing to improved durable,
+film-forming properties selected from moieties which, when homo-polymerized
+to a solid state, have a glass transition temperature (T<sub>g</sub>) in the
+range between -150°C to + 25°C; </li><li>B = at least one hydrophobic and solvent barrier moiety used to adjust
+the T<sub>g</sub> of the hydrophobic component of the polymer (I) which, when homo-polymerized
+to a solid state, has a T<sub>g</sub> greater than +25°C;</li><li>C = at least one hydrophilic component selected from a wide variety
+of water-soluble monomers (optional);</li><li>D = at least one UV absorber (optional);</li><li>E = a moiety having at least one highly polar functional group (optional);</li><li>m = 5 to 95 wt%;</li><li>n = 5 to 95 wt%;</li><li>p = 0 to 60 wt%;</li><li>q = 0 to 50 wt%;</li><li>r = 0 to 40 wt%;</li><li><st32:f xmlns:st32="http://www.matrixware.com/ns/st32/">m+n+p+q+r = 100 wt%</st32:f>; and</li><li>x = 1 to 100,000.</li></sl></p><p num="0030">Preferably, the final T<sub>g</sub> of the polymer(s) (I) is within the range of about -25°
+to +110°C, and more preferably, the final T<sub>g</sub> is within the range of about -15° to
++90°C, and most preferably within the range of about -10° to +75°C.</p><p num="0031">The molecular weight (weight average) of polymer (I) is between about 1,000
+and 2,000,000, preferably between about 5,000 and 500,000, and most preferably
+between about 10,000 and 70,000.</p><p num="0032">Either the C moiety or the E moiety must be present in the polymer to provide a
+polymer having either a hydrophilic portion or a highly polar portion. Alternatively, one
+or more surfactants may be used in conjunction with polymer (I), whether in the presence
+or the absence of the C or E, or both, moieties. The surfactant(s) may be anionic,
+cationic, non-ionic, or zwitterionic.</p><p num="0033">The second type of latex polymers is referred to as "primer core/shell" polymers,
+which also have a hydrophilic portion and a hydrophobic portion and have the
+following general structure given by formula (II) <st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">[(A)<sub>m</sub>(B)<sub>n</sub>(C)<sub>p</sub>(E)<sub>r</sub>]<sub>y</sub></st32:che>
+wherein A, B, C, and E are as described above and where m, n, and r are as follows:
+<sl><li>m = 0 to 90 wt%, preferably 10 to 60 wt%, and more preferably 15 to
+50 wt%;</li><li>n = 0 to 90 wt%, preferably 10 to 60 wt%, and more preferably 15 to50
+wt%;</li><li>p = 0 to 90 wt%, preferably 10 to 60 wt%, and more preferably 15 to
+50 wt%;</li><li>r = 0.01 to 100 wt%, preferably 0.01 to 60 wt%, and more preferably 1
+to 40 wt%;</li><li><st32:f xmlns:st32="http://www.matrixware.com/ns/st32/">m+n+r = 100 wt%</st32:f>; and</li><li>y = 1 to 100,000, preferably 10 to 10,000, and more preferably 100 to
+1,000.</li></sl>
+Preferably, either in or n is non-zero.</p><p num="0034">The T<sub>g</sub> of the primer core/shell polymers is within the range of about -100° to
++100°C, preferably within the range of about -25° to +25°C, and more preferably
+within the range of about 0° to +25°C.</p><p num="0035">The molecular weight (weight average) of polymer (II) is between about 100
+and 2,000,000, preferably between about 1,000 and 500,000, and most preferably
+between about 5,000 and 300,000.</p><p num="0036">The durable and primer core/shell polymers are used with pigment colorants to
+disperse them in aqueous-based inks.</p><heading><u style="single">3. Vehicle</u></heading><p num="0037">The vehicle comprises one or more co-solvents and water. The co-solvents
+comprise one or more organic, water-miscible solvents commonly employed in ink-jet
+printing. Classes of co-solvents employed in the practice of this invention include, but
+are not limited to, aliphatic alcohols, aromatic alcohols, diols, glycol ethers,
+poly(glycol) ethers, caprolactams, formamides, acetamides, and long chain alcohols. 
+Examples of compounds employed in the practice of this invention include, but are
+not limited to, primary aliphatic alcohols of 30 carbons or less, primary aromatic alcohols
+of 30 carbons or less, secondary aliphatic alcohols of 30 carbons or less, secondary
+aromatic alcohols of 30 carbons or less, 1,2-alcohols of 30 carbons or less, 1,3-alcohols
+of 30 carbons or less, 1,ω-alcohols of 30 carbons or less, ethylene glycol alkyl
+ethers, propylene glycol alkyl ethers, poly(ethylene glycol) alkyl ethers, higher
+homologs of poly(ethylene glycol) alkyl ethers, poly(propylene glycol) alkyl ethers,
+higher homologs of poly(propylene glycol) alkyl ethers, N-alkyl caprolactams, unsubstituted
+caprolactams, substituted formamides, unsubstituted formamides, substituted
+acetamides, and unsubstituted acetamides. Specific examples of co-solvents that are
+preferably employed in the practice of this invention include, but are not limited to, N-methyl
+pyrrolidone, 1,5-pentanediol, 2-pyrrolidone, diethylene glycol, 1,3,5-(2-methyl)-pentanetriol,
+tetramethylene sulfone, 3-methoxy-3-methylbutanol, glycerol,
+and 1,2-alkyldiols.</p><p num="0038">The balance of the ink is water, together with other additives commonly added
+to ink-jet inks, which are employed to optimize the properties of the ink for specific applications.
+For example, as is well-known to those skilled in the art, biocides may be
+used in the ink composition to inhibit growth of microorganisms, sequestering agents
+such as EDTA may be included to eliminate deleterious effects of heavy metal impurities,
+and buffer solutions may be used to control the pH of the ink. Other known additives
+such as viscosity modifiers and other acrylic or non-acrylic polymers may be
+added to improve various properties of the ink compositions as desired. The purity of
+all components is that normally employed in conventional commercial practice of
+formulating ink-jet inks.</p><p num="0039">The pH of the pigment-based dye may be adjusted to a slightly basic value,
+say about 8.5, with potassium hydroxide, sodium hydroxide, sodium carbonate, or triethanol
+amine. </p><heading><u style="single">EXAMPLES</u></heading><heading><u style="single">Example 1</u>.</heading><p num="0040">A black ink was formulated with the following components:
+<dl compact="compact" tsize="9"><dt>6 wt%</dt><dd>2-pyrrolidone</dd><dt>7 wt%</dt><dd>3-hexyne-2,5-diol</dd><dt>0.3 wt%</dt><dd>1,2-octanediol</dd><dt>0.5 wt%</dt><dd>hexylene glycol</dd><dt>3.80 wt%</dt><dd>LEG-1 (liponic ethylene glycol, available from Liponics)</dd><dt>3 wt%</dt><dd>durable latex polymer QX25A, comprising (hexyl acrylate)<sub>40</sub>
+(methyl methacrylate)<sub>40</sub> (methyl polyethylene glycol (mw=2000)
+methacrylate)<sub>20</sub></dd><dt>1 wt%</dt><dd>primer latex polymer QX26B, comprising (methyl
+methacrylate)<sub>32</sub> (hexyl acrylate)<sub>46</sub> (methyl polyethylene glycol (mw=350)
+methacrylate)<sub>12</sub> (acrylic acid)<sub>10</sub></dd><dt>3 wt%</dt><dd>Cabot Monarch 700 pigment treated with <u style="single">p</u>-aminobenzoic
+acid (PABA) and amino dodecanoic acid (ADDA) (ratio: 0.8:0.5)</dd><dt>balance</dt><dd>water.</dd></dl>
+The pH was adjusted to 8.5 with potassium hydroxide.</p><heading><u style="single">Example 2</u>.</heading><p num="0041">The black ink of Example 1 was formulated, except that the 3-hexyne-2,5-diol
+and the 1,2-octanediol were omitted.</p><heading><u style="single">Results Between Example 1 and Comparative Example 1</u>.</heading><p num="0042">Both black inks were printed on plain paper. Tests for printability (start up,
+drop ejection, and decap) were then conducted. High frequency firing above 10 kHz is
+part of the drop ejection test. </p><p num="0043">The objective of the start-up test is to determine how an ink behaves when
+filled in the pens and first for the first time. The test procedure involves printing a diagnostic
+file for a number of pages and then counting the number of nozzles present
+after each page. The larger the number of nozzles present at each page, the better the
+ink on start-up.</p><p num="0044">The objective of the drop ejection test is to determine the steadiness of a drop
+(1) at different frequencies and (2) at the same frequency at different times. The test
+procedure involves the use of various proprietary tools to determine drop ejection.</p><p num="0045">The objective of the decap test is to determine how the pen performs after
+slewing on the carriage without firing. The test measures the propensity of the ink to
+dry in the nozzles while the pen is not firing during slewing. The test procedure involves
+printing a diagnostic file, which fires at intervals of 5, 10, 15, and 20 seconds.
+The number of nozzles present at each time interval are counted. The greater the time
+interval and the greater the number of nozzles present, the better the ink. Two diagnostics
+are usually run; the first diagnostic is the first time all nozzles fire, and the
+second diagnostic is the second time all nozzles fire.</p><p num="0046">The inks of Example 1 were observed to evidence excellent printability as
+compared to the inks of Comparative Example 1. A frequency scan showed that both
+inks printed at high frequency without nozzle degradation. The inks of Example 1
+evidenced good short-term decap. Specifically, the short-term decap for the inks of
+Example 1 was 15 to 20 seconds (all diagnostics recovered), while the short-term decap
+for the inks of Comparative Example 1 was 5 seconds (the second diagnostic did
+not recover). The long-term decap of the inks of Example 1 recovered after lying for 1
+day without tape (i.e., exposed to air) and required no intervention, while the long-term
+decap of the inks of Comparative Example 1 did not recover.</p><heading><u style="single">INDUSTRIAL APPLICABILITY</u></heading><p num="0047">The two co-solvents, 3-hexyne-2,5-diol and 1,2-octanediol, are expected to
+find use in ink-jet inks containing latex polymers for improving their printability. </p><p num="0048">Thus, there have been disclosed ink-jet ink compositions to which two specific
+co-solvents have been added for improved printability where those ink-jet ink compositions
+contain one or more latex polymers. It will be apparent to those skilled in this
+art that various changes and modifications of an obvious nature may be made, and all
+such changes and modifications are considered to fall within the scope of the appended
+claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An improved ink-jet ink for ink-jet printing, said ink-jet ink containing at
+least one latex polymer, characterized in that said ink-jet ink further contains 3-hexyne-2,5-diol
+and 1,2-octanediol.</claim-text></claim><claim num="2"><claim-text>The ink-jet ink of Claim 1 additionally containing at least one colorant and a
+vehicle, wherein said at least one colorant comprises at least one pigment and wherein
+said vehicle comprises at least one organic, water-miscible solvent and water.</claim-text></claim><claim num="3"><claim-text>The ink-jet ink of Claim 2 additionally comprising at least one additive for
+modifying one or more properties of said ink.</claim-text></claim><claim num="4"><claim-text>The ink-jet ink of Claim 1 wherein said at least one latex polymer comprises
+at least one latex polymer selected from the group consisting of:
+<claim-text><claim-text>(a) 
+[(A)m(B)n(C)p(D)q(E)r]x
+wherein A, B, C, D, and E represent functionalities as follows:
+<claim-text><claim-text>A = at least one hydrophobic component contributing to improved durable,
+film-forming properties selected from moieties which, when homopolymerized
+to a solid state, have a glass transition temperature (Tg) in the
+range between -150°C to +25°C;</claim-text><claim-text>B = at least one hydrophobic and solvent barrier moiety used to adjust
+the Tg of the hydrophobic component of the polymer (I) which, when homopolymerized
+to a solid state, has a Tg greater than +25°C;</claim-text><claim-text>C = at least one hydrophilic component selected from a wide variety
+of water-soluble monomers (optional);</claim-text><claim-text>D = at least one UV absorber (optional);</claim-text><claim-text>E = a moiety having at least one highly polar functional group (optional);</claim-text><claim-text>m = 5 to 95 wt%;</claim-text><claim-text>n = 5 to 95 wt%;</claim-text><claim-text>p = 0 to 60 wt%;</claim-text><claim-text>q = 0 to 50 wt%;</claim-text><claim-text>r = 0 to 40 wt%;</claim-text><claim-text>m+n+p+q+r = 100 wt%; and</claim-text><claim-text>x = 1 to 100,000; and</claim-text></claim-text></claim-text><claim-text>(b) 
+[(A)m(B)n(C)p(E)r]y
+wherein A, B, C, and E are as described above and where m, n, p, and r of formula
+(II) are as follows:
+<claim-text><claim-text>m = 0 to 90 wt%;</claim-text><claim-text>n = 0 to 90 wt%;</claim-text><claim-text>p = 0 to 90 wt%;</claim-text><claim-text>r = 0.01 to 100 wt%;</claim-text><claim-text>m+n+p+r = 100 wt%; and</claim-text><claim-text>y = 1 to 100,000.</claim-text></claim-text></claim-text></claim-text></claim-text></claim><claim num="5"><claim-text>The ink-jet ink of Claim 1 wherein said 3-hexyne-2,5-diol is present in a
+range of about 1 to 8 wt% and said 1,2-octanediol is present in a range of about 0.01
+to 0.5 wt%.</claim-text></claim><claim num="6"><claim-text>A method for improving printability of said ink-jet ink of Claim 1, said
+method comprising adding to said ink 3-hexyne-2,5-diol and 1,2-octanediol.</claim-text></claim></claims><search-report-data status="new"><doc-page id="img--90000001" orientation="portrait" wi="156" status="new" file="90000001.tif" he="242" type="tif"/><doc-page id="img--90010001" orientation="portrait" wi="156" status="new" file="90010001.tif" he="236" type="tif"/></search-report-data><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

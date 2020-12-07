@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1536041-A2" country="EP" doc-number="1536041" kind="A2" lang="EN" family-id="34468584" status="new" date-produced="20090516" date="20050601"><bibliographic-data><publication-reference ucid="EP-1536041-A2" status="new" fvid="24366290"><document-id status="new" format="original"><country>EP</country><doc-number>1536041</doc-number><kind>A2</kind><date>20050601</date></document-id></publication-reference><application-reference ucid="EP-04105829-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>04105829</doc-number><kind>A</kind><date>20041117</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2003393793-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2003393793</doc-number><kind>A</kind><date>20031125</date></document-id></priority-claim><priority-claim ucid="JP-2003424403-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2003424403</doc-number><kind>A</kind><date>20031222</date></document-id></priority-claim><priority-claim ucid="JP-2003424404-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2003424404</doc-number><kind>A</kind><date>20031222</date></document-id></priority-claim><priority-claim ucid="JP-2003424405-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2003424405</doc-number><kind>A</kind><date>20031222</date></document-id></priority-claim><priority-claim ucid="JP-2004058681-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2004058681</doc-number><kind>A</kind><date>20040303</date></document-id></priority-claim><priority-claim ucid="JP-2004058684-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2004058684</doc-number><kind>A</kind><date>20040303</date></document-id></priority-claim><priority-claim ucid="JP-2004058685-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2004058685</doc-number><kind>A</kind><date>20040303</date></document-id></priority-claim><priority-claim ucid="JP-2004172510-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2004172510</doc-number><kind>A</kind><date>20040610</date></document-id></priority-claim><priority-claim ucid="JP-2004175038-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2004175038</doc-number><kind>A</kind><date>20040614</date></document-id></priority-claim><priority-claim ucid="JP-2004178074-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2004178074</doc-number><kind>A</kind><date>20040616</date></document-id></priority-claim><priority-claim ucid="JP-2004178075-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2004178075</doc-number><kind>A</kind><date>20040616</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C23C  16/02        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C23C  16/02        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C23C  16/30        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C23C  16/30        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C23C  16/40        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C23C  16/40        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C23C  30/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C23C  30/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C23C  16/02H</classification-symbol><classification-symbol scheme="EC">C23C  16/30</classification-symbol><classification-symbol scheme="EC">C23C  16/40</classification-symbol><classification-symbol scheme="EC">C23C  16/40D</classification-symbol><classification-symbol scheme="EC">C23C  30/00B</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Beschichteter Cermet Schneideinsatz mit harter, gegen Abschiefern beständiger Beschichtung</invention-title><invention-title load-source="ep" status="new" lang="EN">Coated cermet cutting tool with a chipping resistant, hard coating layer</invention-title><invention-title load-source="ep" status="new" lang="FR">Outil de coupe en cermet revêtu d'une couche de revêtement dure résistante à l'écaillement</invention-title><citations><patent-citations><patcit ucid="EP-1247789-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1247789</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1288335-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1288335</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>A.A. LAYYOUS, D.M. FREINKEL, R. ISRAEL: "Al2O3 coated cemented carbides: optimization structure, number of layers and type of interlayer" SURFACE AND COATINGS TECHNOLOGY, vol. 56, 1992, pages 89-95, XP002362565</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>M. KATHREIN, W. SCHINTLMEISTER, W. WALLGRAM, U. SCHLEINKOFER:  "Doped CVD Al2O3 coatings for high performance cutting tools" SURFACE AND COATINGS TECHNOLOGY, vol. 163, 1 January 2003 (2003-01-01), pages 181-188, XP002362564</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>MITSUBISHI MATERIALS CORP</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>MITSUBISHI MATERIALS CORPORATION</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>MITSUBISHI MATERIALS CORPORATION</last-name><address><street>5-1, Otemachi 1-chome</street><city>Chiyoda-ku, Tokyo</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>HAYAHI TAKUYA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>OSHIKA TAKATOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TSUSHIMA FUMIO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HAYAHI, TAKUYA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>OSHIKA, TAKATOSHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TSUSHIMA, FUMIO</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Hayahi, Takuya Mitsubishi Materials Corporation</last-name><address><street>Cen. Res. Inst. Naka Res. Centre 1002-14 Mukaiyama</street><city>Naka-cho, Naka-gun, Ibaraki</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Oshika, Takatoshi Mitsubishi Materials Corporation</last-name><address><street>Cen. Res. Inst. Naka Res. Centre 1002-14 Mukaiyama</street><city>Naka-cho, Naka-gun, Ibaraki</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Tsushima, Fumio Mitsubishi Materials Corporation</last-name><address><street>Cen. Res. Inst. Naka Res. Centre 1002-14 Mukaiyama</street><city>Naka-cho, Naka-gun, Ibaraki</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Türk, Gille, Hrabal, Leifert</last-name><address><street>Patentanwälte Brucknerstrasse 20</street><city>40593 Düsseldorf</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country><country>IT</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A surface-coated cermet cutting tool with a hard-coating
+layer having excellent chipping resistance, in which
+the hard coating layer formed on a surface of a tool
+substrate that constitutes the surface-coated cermet cutting
+tool is composed of the following upper and lower layers (a)
+and (b):
+<sl><li>(a) as the lower layer, a titanium compound layer
+having at least one or two of a titanium carbide layer, a
+titanium nitride layer, a titanium carbonitride layer, a
+titanium carboxide layer and a titanium oxycarbonitride
+layer, all of which are deposited by chemical vapor
+deposition, the titanium compound layer having a total
+average layer thickness of 3 to 20 µm, and</li><li>(b) as the upper layer, a heat-transformed α-type Al-Zr
+oxide layer formed by carrying out a heat-transforming
+treatment in a state that a titanium oxide layer satisfying
+the composition formula: TiO<sub>Y</sub>, (where value Y is 1.2 to 1.9
+in an atomic ratio to Ti when measured by Auger Electron
+Spectroscopy) and having an average layer thickness of 0.05
+to 1.5 µm is chemically deposited on a surface of an Al-Zr
+oxide layer having a κ-type or -type crystal structure
+deposited by chemical vapor deposition and satisfying the
+composition formula: (Al<sub>1-X</sub>Zr<sub>X</sub>)<sub>2</sub>O<sub>3</sub> (where value X is 0.003 to 
+0.05 in an atomic ratio when measured by an electron probe
+micro-analyzer (EPMA)) to thereby transform the crystal
+structure of the Al-Zr oxide layer having the κ-type or -type
+crystal structure into an α-type crystal structure.
+The heat-transformed α-type Al-Zr oxide layer shows an
+inclination angle frequency-distribution graph on which a
+highest peak appears in an inclination angle interval in a
+range of 0 to 10 degrees and the sum of frequencies in a
+range of 0 to 10 degrees occupies 45% or more of the total
+sum of frequencies on the inclination angle frequency-distribution
+graph, in which the inclination angle
+frequency-distribution graph is obtained from the results of
+radiating electron beam onto crystal grains having a
+hexagonal crystal lattice in a measuring range of surfaces
+to be polished using a field-emission-type scanning electron
+microscope, measuring an inclination angle of a normal line
+of the plane (0001) as a crystal plane in which each of the
+crystal grains is formed with respect to each of the
+polished surfaces, sorting the measured inclination angles
+in a range of 0 to 45 degrees among all the measured
+inclination angles into several intervals at a pitch of 0.25
+degrees, and summing up the frequencies in each of the
+intervals. The heat-transformed α-type Al-Zr oxide layer
+has an average layer thickness of 1 to 15 µm.</li></sl><img id="img-00000001" orientation="unknown" wi="150" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="220"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading>BACKGROUND OF THE INVENTION</heading><heading>1. Field of the Invention</heading><p num="0001">The present invention relates to a surface-coated
+cermet cutting tool (hereinafter referred to as a coated
+cermet tool) of which a hard coating layer exhibits
+excellent chipping resistance, in particular, during high-speed
+intermittent cutting of steel, cast iron, etc.</p><heading>2. Description of the Related Art</heading><p num="0002">Conventionally, a coated cermet tool is known, which is
+generally formed by coating, on a surface of a substrate
+(hereinafter, generally referred to as a tool substrate)
+made of tungsten carbide (hereinafter, referred to as WC)-based
+cemented carbide or titanium carbonitride (hereinafter,
+referred to as TiCN)-based cermet, a hard-coating layer
+composed of the following upper and lower layers (a) and
+(b) :
+<sl><li>(a) as the lower layer, a titanium compound layer
+having at least one or two of titanium carbide (hereinafter,
+referred to as TiC) layer, a titanium nitride (hereinafter,
+referred to as TiN) layer, a titanium carbonitride
+(hereinafter, referred to as TiCN) layer, a titanium
+carboxide (hereinafter, referred to as TiCO) layer, and a 
+titanium oxycarbonitride (hereinafter, referred to as TiCNO)
+layer, all of which are formed by chemical vapor deposition,
+the titanium compound layer having a total average layer
+thickness of 3 to 20 µm, and</li><li>(b) as the upper layer, a deposited α-type aluminum
+oxide (hereinafter referred to as Al<sub>2</sub>O<sub>3</sub>) layer having an α-type
+crystal structure deposited by chemical vapor
+deposition and an average layer thickness of 1 to 15 µm.
+The coated cermet tool is widely used for, for example,
+continuous or intermittent cutting of steel or cast iron.</li></sl></p><p num="0003">Generally, it is also well known that a titanium
+compound layer or deposited α-type Al<sub>2</sub>O<sub>3</sub> layer constituting
+the hard-coating layer of a coated cermet tool has a
+granular crystal structure, and further a TiCN layer
+constituting the titanium compound layer has a lengthwise
+growth crystal structure formed by carrying out chemical
+vapor deposition in a moderate temperature range of 700 to
+950°C using as a reaction gas a mixed gas which includes
+organic carbonitride, for example, CH<sub>3</sub>CN in a conventional
+chemical vapor deposition reactor for increasing the
+strength of the layer, as disclosed in Japanese Unexamined
+Patent Application Publications Nos. 6-31503 and 6-8010.</p><p num="0004">In recent years, the performance of cutting tools has
+been markedly enhanced, and demands for labor saving and
+energy saving in cutting work and cost reduction have been 
+increased. Accordingly, the cutting work is more often
+carried out at a higher speed range. The conventional
+coated cermet tools generally present no problem when they
+are used in the continuous cutting or intermittent cutting
+of steel, cast iron or the like under normal conditions.
+And, when the conventional cutting tools are used in a high-speed
+intermittent cutting under the severest cutting
+condition, i.e., in the high-speed intermittent cutting
+where mechanical and thermal impacts are repeatedly applied
+to the cutting edge at very short pitches, a titanium
+compound layer which is typically the lower layer of a hard-coating
+layer has high strength and exhibits excellent
+impact resistance. However, the deposited α-type Al<sub>2</sub>O<sub>3</sub> layer
+that constitutes the upper layer of a hard-coating layer,
+despite its hardness in high temperature and excellent heat
+resistance, is very brittle against the mechanical and
+thermal impacts. As a result, chipping (fine crack) easily
+occurs in the hard-coating layer, consequently shortening
+the usable life of cermet cutting tools.</p><heading>SUMMARY OF THE INVENTION</heading><p num="0005">The present invention is made to solve the above
+problems, and it is therefore an object of the present
+invention to provide a surface-coated cermet cutting tool
+with a hard-coating layer having excellent chipping 
+resistance.</p><p num="0006">Considering the above problems, the inventors have
+conducted studies for improving the chipping resistance of a
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layer that constitutes the upper layer
+of the hard-coating layer of the coated cermet tools, and
+have obtained the following results (a) to (c) described
+below.
+<sl><li>(a) On a surface of a tool substrate, the titanium
+compound layer as a lower layer is formed under normal
+conditions using a conventional chemical vapor deposition
+reactor. An Al-Zr oxide layer [hereinafter, referred to as
+an (Al, Zr)<sub>2</sub>O<sub>3</sub> layer having a κ-type or -type crystal
+structure and satisfying the composition formula: (Al<sub>1</sub>-<sub>x</sub>Zr<sub>x</sub>)<sub>2</sub>O<sub>3</sub>
+(where value X is 0.003 to 0.05 in an atomic ratio
+when measured by an electron probe micro-analyzer (EPMA)] is
+deposited under the same normal conditions.
+Next, the surface of the (Al, Zr)<sub>2</sub>O<sub>3</sub> layer is processed
+using the chemical vapor deposition reactor under the
+following conditions:
+<sl><li>Composition of a reaction gas: in volume%, TiCl<sub>4</sub>: 0.2 to
+3%, CO<sub>2</sub>: 0.2 to 10%, Ar: 5 to 50%, and H<sub>2</sub>: balance,</li><li>Temperature of reaction atmosphere: 900 to 1020°C,</li><li>Pressure of reaction atmosphere: 7 to 30 kPa, and</li><li>Time: 25 to 100 min.</li></sl>
+Then, a titanium oxide layer satisfying the composition 
+formula: TiO<sub>y</sub>, (wherein value Yis 1.2 to 1.9 in an atomic
+ratio to Ti when measured by Auger Electoron Spectroscopy)
+and having an average layer thickness 0.05 to 1.5 µm are
+formed on the surface of the (Al, Zr)<sub>2</sub>O<sub>3</sub> layer.In this state, by carrying out a heat-transforming
+treatment in an atmosphere of Ar gas, preferably, under the
+following conditions: a pressure of 7 to 50 kPa, a
+temperature of 1000 to 1200°C, and a holding duration of 10
+to 120 minutes, to transform the (Al, Zr)<sub>2</sub>O<sub>3</sub> layer having the
+κ-type or -type crystal structure into the (Al, Zr)<sub>2</sub>O<sub>3</sub> layer
+having an α-type crystal structure. Then, by the operation
+of the titanium oxide layer formed on the surface of the (Al,
+Zr)<sub>2</sub>O<sub>3</sub> layer before the transformation the κ-type or -type
+crystal structure is wholly and simultaneously transformed
+into the α-type crystal structure and the progress of the
+heat transformation is markedly promoted. Thus, cracks
+generated at the time of the transformation become extremely
+fine and the titanium oxide particulates are uniformly and
+dispersedly distributed. Further, the high temperature
+strength of the (Al, Zr)<sub>2</sub>O<sub>3</sub> layer itself is markedly enhanced
+by the effect of Zr as a constituent element of the (Al,
+Zr)<sub>2</sub>O<sub>3</sub> layer. As a result, the heat-transformed α-type (Al,
+Zr)<sub>2</sub>O<sub>3</sub> layer has a uniformed structure in which cracks
+generated by the transformation process has fine
+characteristics over the entire length, in addition to high 
+strength, very strong resistance against mechanical and
+thermal impacts and excellent chipping resistance.
+Accordingly, in the coated cermet tool having a hard-coating
+layer composed of the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub>
+layer as the upper layer and the titanium compound layer
+(this titanium compound layer does not exhibit any change
+during heat-transforming treatment under the above-mentioned
+conditions) as the lower layer, the heat-transformed α-type
+(Al, Zr)<sub>2</sub>O<sub>3</sub> layer exhibits excellent chipping resistance,
+even in a high-speed intermittent cutting accompanied with
+severe mechanical and thermal impacts, while it has the same
+high temperature hardness and heat resistance as the
+excellent high temperature hardness and heat resistance
+inherent to an α-type Al<sub>2</sub>O<sub>3</sub> layer. Thus, with the presence
+of the titanium compound layer having high strength, the
+occurrence of chipping in the hard-coating layer is markedly
+suppressed and an excellent wear resistance is exhibited for
+a prolonged period of time.</li><li>(b) As for the conventional α-type Al<sub>2</sub>O<sub>3</sub> layer and the
+above heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer, when an
+inclination angle frequency-distribution graph is obtained
+from the results of radiating electron beam onto crystal
+grains having a hexagonal crystal lattice in a measuring
+range of surfaces to be polished using a field-emission-type
+scanning electron microscope, as shown in schematic 
+explanatory views of Figs. 1(a) and 1(b), measuring an
+inclination angle of a normal line of a plane (0001) as a
+crystal plane in which each of the crystal grains is formed
+with respect to each of the polished surfaces, sorting the
+measured inclination angles in a range of 0 to 45 degrees
+among all the measured inclination angles into several
+intervals at a pitch of 0.25 degrees, and summing up the
+frequencies in each of the intervals, the conventional
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layer, as illustrated in Fig. 6, shows
+an inclination angle frequency-distribution graph on which
+the distribution of measured inclination angles of the plane
+(0001) is unbiased in a range of 0 to 45 degrees, whereas
+the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer, as illustrated
+in Fig. 2, shows an inclination angle frequency-distribution
+graph on which a sharp and highest peak appears at a certain
+position in an inclination angle interval, and the position
+of the sharp and highest peak appearing in the inclination
+angle interval on an X-axis of the graph varies depending on
+the variation of value Y in the composition formula: TiO<sub>Y</sub> of
+the titanium oxide layer.</li><li>(c) According to the test results, when value Y in the
+composition formula: TiO<sub>Y</sub> of the titanium oxide layer is set
+to 1.2 to 1.9 in an atomic ratio as described above, there
+is obtained an inclination angle frequency-distribution
+graph on which the sharp and highest peak appears in an 
+inclination angle range of 0 to 10 degrees, and the sum of
+frequencies in the range of 0 to 10 degrees occupies 45% or
+more of the total sum of frequencies on the inclination
+angle frequency-distribution graph. In a coated cermet tool
+of the present invention deposited using, as the upper layer
+of the hard coating layer, a heat-transformed α-type (Al,
+Zr)<sub>2</sub>O<sub>3</sub> layer which shows the resulting inclination angle
+frequency-distribution graph on which the inclination angle
+frequency in the range of 0 to 10 degrees occupies 45% or
+more, and the highest peak appears in the inclination angle
+interval in the range of 0 to 10 degrees with the presence
+of the titanium compound layer as the lower layer, the
+coated cermet tools of the present invention exhibit more
+excellent wear resistance without causing chipping in the
+cutting edge, in particular, in the high-speed intermittent
+cutting, as compared to the conventional cermet tool.</li></sl></p><p num="0007">The present invention has been achieved based on the
+above research results (a) to (c).</p><p num="0008">According to the present invention, there is provided a
+surface-coated cermet cutting tool with a hard-coating layer
+exhibiting excellent chipping resistance, the surface-coated
+cermet cutting tool being formed by coating, on a surface of
+a tool substrate made of tungsten-carbide-based cemented
+carbide or titanium-carbonitride-based cermet, the hard-coating
+layer composed of the following upper and lower 
+layers (a) and (b):
+<sl><li>(a) as the lower layer, a titanium compound layer
+having at least one or two of a titanium carbide layer, a
+titanium nitride layer, a titanium carbonitride layer, a
+titanium carboxide layer and a titanium oxycarbonitride
+layer, all of which are deposited by chemical vapor
+deposition, the titanium compound layer having a total
+average layer thickness of 3 to 20 µm, and</li><li>(b) as the upper layer, a heat-transformed α-type (Al,
+Zr)<sub>2</sub>O<sub>3</sub> layer formed by carrying out a heat-transforming
+treatment in a state that a titanium oxide layer satisfying
+the composition formula: TiO<sub>Y</sub>, (where value Y is 1.2 to 1.9
+in an atomic ratio to Ti when measured by Auger Electron
+Spectroscopy) and having an average layer thickness of 0.05
+to 1.5 µm is chemically deposited on a surface of an (Al,
+Zr)<sub>2</sub>O<sub>3</sub> layer having a κ-type or -type crystal structure
+deposited by chemical vapor deposition and satisfying the
+composition formula: (Al<sub>1-x</sub>Zr<sub>x</sub>)<sub>2</sub>O<sub>3</sub> (where value X is 0.003 to
+0.05 in an atomic ratio when measured by an electron probe
+micro-analyzer (EPMA)) to thereby transform the crystal
+structure of the (Al, Zr)<sub>2</sub>O<sub>3</sub> layer having the κ-type or -type
+crystal structure into an α-type crystal structure,</li></sl>
+   the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer showing an
+inclination angle frequency-distribution graph on which a
+highest peak appears in an inclination angle interval in a 
+range of 0 to 10 degrees and the sum of frequencies in a
+range of 0 to 10 degrees occupies 45% or more of the total
+sum of frequencies on the inclination angle frequency-distribution
+graph, wherein the inclination angle frequency-distribution
+graph is obtained from results of radiating
+electron beam onto crystal grains having a hexagonal crystal
+lattice in a measuring range of surfaces to be polished
+using a field-emission-type scanning electron microscope,
+measuring an inclination angle of a normal line of the plane
+(0001) as a crystal plane in which each of the crystal
+grains is formed with respect to each of the polished
+surfaces, sorting the measured inclination angles in a range
+of 0 to 45 degrees among all the measured inclination angles
+into several intervals at a pitch of 0.25 degrees, and
+summing up the frequencies in each of the intervals,
+
+   and the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer having
+an average layer thickness of 1 to 15 µm.</p><p num="0009">The reasons for limiting the numerical values in the
+layers constituting the hard coating layer of the coated
+cermet layer of the present invention as described above
+will be described below.</p><heading>(a) Average layer thickness of the lower layer (Ti
+compound layer)</heading><p num="0010">A titanium compound layer inherently has excellent high
+temperature strength, and the hard-coating layer has high 
+temperature strength by virtue of the existence of the
+titanium compound layer. In addition, the titanium compound
+layer is firmly adhered to both of the tool substrate and
+the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer that is the
+upper layer. Accordingly, it contributes to improving the
+adherence of the hard-coating layer to the tool substrate.
+However, when the total average layer thickness is less than
+3 µm, the above function cannot be sufficiently obtained.
+On the other hand, when the total average layer thickness
+exceeds 20 µm, thermal plastic deformation is apt to occur,
+particularly in a high-speed intermittent cutting
+accompanied by the generation of high heat, which causes
+partial wear. Accordingly, the average layer thickness of a
+lower layer is preferably set to 3 to 20 µm.</p><heading>(b) Composition and average layer thickness of titanium
+oxide layer (value Y)</heading><p num="0011">As described above, by the operation of the titanium
+compound layer a deposited κ-type or -type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer
+is wholly and simultaneously transformed into a heat-transformed
+α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer to thereby make cracks
+generated at the time of heating transformation fine and
+uniform. In addition, the titanium compound layer functions
+to promote the heating transformation and to suppress the
+growth of crystal grains by shortening the processing time.
+Moreover, when value Y in the composition formula: TiO<sub>y</sub> of 
+the titanium compound layer is set to 1.2 to 1.9 as
+described above, according to the test results, the titanium
+compound layer functions to show an inclination angle
+frequency-distribution graph on which a highest peak of
+inclination angle frequency appears in an inclination angle
+interval range of 0 to 10 degrees, and the ratio of the sum
+of frequencies in the inclination angle frequency range of 0
+to 10 degrees occupies 45% of the total sum of frequencies
+on the inclination angle frequency-distribution graph.
+Accordingly, when value Y is less than 1.2, the highest peak
+appears less in the range of 0 to 10 degrees on the
+inclination angle frequency-distribution graph of the heat-transformed
+α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer. In other words, the
+ratio of the sum of frequencies in the range of 0 to 10
+degrees may become less than 45% of the total sum of
+frequencies on the inclination angle frequency-distribution
+graph. In this case, as described above, a desired
+excellent high temperature strength cannot be secured in the
+heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer, which leads to the
+failure in obtaining a desired chipping resistance. On the
+other hand, when value Y exceeds 1.9, the inclination angle
+interval in which the highest peak appears may deviates out
+of the range of 0 to 10 degrees. In this case, the desired
+high temperature strength cannot be secured in the heat-transformed
+α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer. Thus, value Y is set 
+to 1.2 to 1.9 in an atomic ratio to Ti.</p><p num="0012">Further, in this case, when the average layer thickness
+of the titanium oxide layer is less than 0.05 µm, the above-mentioned
+functions cannot be sufficiently obtained. On the
+other hand, since the above functions can be sufficiently
+obtained only with an average layer thickness of 1.5 µm, and
+the thickness beyond the limit is unnecessary, the average
+layer thickness of the titanium oxide layer is preferably
+set to 0.05 to 1.5 µm.</p><heading>(c) Content ratio of Zr in the upper layer [a heat-transformed
+α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer] and average layer
+thickness of the upper layer</heading><p num="0013">The heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer has
+excellent high temperature hardness and heat resistance by
+the presence of Al as a constituent element thereof, and has
+high temperature strength by the presence of Zr as a
+constituent element thereof. Thus, the heat-transformed α-type
+(Al, Zr)<sub>2</sub>O<sub>3</sub> layer exhibits excellent wear resistance and
+chipping resistance. However, when the content ratio (value
+X) of Zr is less than 0.003 in an atomic ratio occupied in
+the total amount with Al (this is true of the following
+ratios), a sufficiently enhanced high temperature strength
+cannot be secured. On the other hand, when the content
+ratio of Zr exceeds 0.05, instability is caused in the
+hexagonal crystal lattice, which makes it difficult to 
+sufficiently transform an κ-type or -type crystal structure
+into an α-type crystal structure during the heat-transforming
+treatment. Thus, the content ratio (value X)
+of Zr is preferably set to 0.003 to 0.05.</p><p num="0014">Further, when the average layer thickness of the heat-transformed
+α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer is less than 1 µm, the
+hard coating layer cannot be allowed to sufficiently exhibit
+wear resistance. On the other hand, when the average layer
+thickness of the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer is
+greater than 15 µm, chipping is apt to occur. Thus, the
+average layer thickness of the heat-transformed α-type (Al,
+Zr)<sub>2</sub>O<sub>3</sub> layer is preferably set to 1.15 µm.</p><p num="0015">Furthermore, for the purpose of identifying the cutting
+tool before and after the use thereof, a TiN layer having a
+gold color tone may be deposited, if desired. In this case,
+the average layer thickness of the TiN layer is preferably
+0.1 to 1 µm. This is because, when the average layer
+thickness is less than 0.1 µm, a sufficient identification
+cannot be achieved, whereas the identification due to the
+TiN layer is sufficient with an average layer thickness of
+up to 1 µm.</p><p num="0016">Further, the inventors have obtained the following
+results (a) to (c) described below.
+<sl><li>(a) On a surface of a tool substrate, the titanium
+compound layer as a lower layer is formed under normal 
+conditions using a conventional chemical vapor deposition
+reactor. An Al-Cr oxide [hereinafter, referred to as an (Al,
+Cr)<sub>2</sub>O<sub>3</sub> layer having a κ-type or -type crystal structure and
+satisfying the composition formula: (Al<sub>1-x</sub>Cr<sub>x</sub>)<sub>2</sub>O<sub>3</sub> (where value
+X is 0.005 to 0.04 in an atomic ratio when measured by an
+electron probe micro-analyzer (EPMA)] is deposited under the
+same normal conditions.
+Next, the surface of the (Al, Cr)<sub>2</sub>O<sub>3</sub> layer is processed
+using the chemical vapor deposition reactor under the
+following conditions:
+<sl><li>Composition of a reaction gas: in volume%, TiCl<sub>4</sub>: 0.2 to
+3%, CO<sub>2</sub>: 0.2 to 10%, Ar: 5 to 50%, and H<sub>2</sub>: balance,</li><li>Temperature of reaction atmosphere: 900 to 1020°C,</li><li>Pressure of reaction atmosphere: 7 to 30 kPa, and</li><li>Time: 25 to 100 min.</li></sl>
+Then, a titanium oxide layer satisfying the composition
+formula: TiO<sub>Y</sub>, (wherein value Y is 1.2 to 1.9 in an atomic
+ratio to Ti when measured by Auger Electoron Spectroscopy)
+and having an average layer thickness 0.1 to 2 µm are formed
+on the surface of the (Al, Cr)<sub>2</sub>O<sub>3</sub> layer.In this state, by carrying out a heat-transforming
+treatment in an atmosphere of Ar gas, preferably, under the
+following conditions: a pressure of 7 to 50 kPa, and a
+temperature of 1000 to 1200°C, to transform the (Al, Cr)<sub>2</sub>O<sub>3</sub>
+layer having the κ-type or -type crystal structure into the 
+(Al, Cr)<sub>2</sub>O<sub>3</sub> layer having an α-type crystal structure. Then,
+by the operation of the titanium oxide layer formed on the
+surface of the (Al, Cr)<sub>2</sub>O<sub>3</sub> layer before the transformation
+the κ-type or -type crystal structure is wholly and
+simultaneously transformed into the α-type crystal structure
+and the progress of the heat transformation is markedly
+promoted. Thus, since cracks generated at the time of the
+transformation are simultaneously generated, the titanium
+oxide particulates are extremely finely, uniformly and
+dispersedly distributed, and the fineness of the cracks
+generated due to transformation is further promoted by the
+effect of Cr as a constituent element of the (Al, Cr)<sub>2</sub>O<sub>3</sub>
+layer. As a result, since the formed heat-transformed α-type
+(Al, Cr)<sub>2</sub>O<sub>3</sub> layer has a uniformed structure in which
+cracks generated by transformation process and crystal
+grains has fine characteristics over the entire layer, it
+has a very strong resistance against mechanical and thermal
+impacts and consequently excellent chipping resistance.
+Accordingly, in the coated cermet tool having a hard-coating
+layer composed of the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub>
+layer as the upper layer and the titanium compound layer
+(this titanium compound layer does not exhibit any change
+during heat-transforming treatment under the above-mentioned
+conditions) as the lower layer, the heat-transformed α-type
+(Al, Cr)<sub>2</sub>O<sub>3</sub> layer exhibits excellent chipping resistance, 
+even in the high-speed intermittent cutting accompanied with
+severe mechanical and thermal impacts, while it has the same
+high temperature hardness and heat resistance as the
+excellent high temperature hardness and heat resistance
+inherent to an α-type Al<sub>2</sub>O<sub>3</sub> layer. Thus, with the presence
+of the titanium compound layer having high strength, the
+occurrence of chipping in the hard-coating layer is markedly
+suppressed and the excellent wear resistance is exhibited
+for a prolonged period of time.</li><li>(b) As for the conventional α-type Al<sub>2</sub>O<sub>3</sub> layer and the
+above heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer, when an
+inclination angle frequency-distribution graph is obtained
+from the results of radiating electron beam onto crystal
+grains having a hexagonal crystal lattice in a measuring
+range of surfaces to be polished using a field-emission-type
+scanning electron microscope, as shown in schematic
+explanatory views of Figs. 1(a) and 1(b), measuring an
+inclination angle of a normal line of the plane (0001) as a
+crystal plane in which each of the crystal grains is formed
+with respect to each of the polished surfaces, sorting the
+measured inclination angles in a range of 0 to 45 degrees
+among all the measured inclination angles into several
+intervals at a pitch of 0.25 degrees, and summing up the
+frequencies in each of the intervals, the conventional
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layer, as illustrated in Fig. 6, shows 
+an inclination angle frequency-distribution graph on which
+the distribution of measured inclination angles of the plane
+(0001) is unbiased in a range of 0 to 45 degrees, whereas
+the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer, as illustrated
+in Fig. 3, shows an inclination angle frequency-distribution
+graph on which a sharp and highest peak appears at a certain
+position in an inclination angle interval and the position
+of the sharp and highest peak appearing in the inclination
+angle interval on an X-axis of the graph varies depending on
+the variation of value Y in the composition formula: TiO<sub>Y</sub> of
+the titanium oxide layer.</li><li>(c) According to the test results, when value Y in the
+composition formula: TiO<sub>Y</sub> of the titanium oxide layer is set
+to 1.2 to 1.9 in an atomic ratio to Ti as described above,
+there is obtained an inclination angle frequency-distribution
+graph on which the sharp and highest peak
+appears in an inclination angle range of 0 to 10 degrees,
+and the sum of frequencies (the sum of frequencies is
+proportional to the height of the highest peak) in the range
+of 0 to 10 degrees occupies 45% or more of the total sum of
+frequencies on the inclination angle frequency-distribution
+graph. In a coated cermet tool of the present invention
+deposited using, as the upper layer of the hard coating
+layer, a heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer which
+shows the resulting inclination angle frequency-distribution 
+graph on which the inclination angle frequency in the range
+of 0 to 10 degrees occupies 45% or more, and the highest
+peak appears in the inclination angle interval in the range
+of 0 to 10 degrees with the presence of the titanium
+compound layer as a lower layer, the coated cermet tools of
+the present invention exhibit more excellent wear resistance
+without causing chipping in a cutting edge, in particular,
+in the high-speed intermittent cutting, as compared to the
+conventional cermet tool.</li></sl></p><p num="0017">The present invention has been achieved based on the
+above research results (a) to (c).</p><p num="0018">According to the present invention, there is provided a
+surface-coated cermet cutting tool with a hard-coating layer
+exhibiting excellent chipping resistance, the surface-coated
+cermet cutting tool being formed by coating, on a surface of
+a tool substrate made of tungsten carbide-based cemented
+carbide or titanium carbonitride-based cermet, the hard-coating
+layer composed of the following upper and lower
+layers (a) and (b):
+<sl><li>(a) as the lower layer, a titanium compound layer
+having at least one or two of a titanium carbide layer, a
+titanium nitride layer, a titanium carbonitride layer, a
+titanium carboxide layer and a titanium oxycarbonitride
+layer, all of which are deposited by chemical vapor
+deposition, the titanium compound layer having a total 
+average layer thickness of 3 to 20 µm, and</li><li>(b) as the upper layer, a heat-transformed α-type (Al,
+Cr)<sub>2</sub>O<sub>3</sub> layer formed by carrying out a heat-transforming
+treatment in a state that a titanium oxide layer satisfying
+the composition formula: TiO<sub>Y</sub>, (where value Y is 1.2 to 1.9
+in an atomic ratio to Ti when measured by Auger Electorn
+Spectroscopy) and having an average layer thickness of 0.1
+to 2 µm is chemically deposited on a surface of an (Al,
+Cr)<sub>2</sub>O<sub>3</sub> layer having a κ-type or -type crystal structure
+deposited by chemical vapor deposition and satisfying the
+composition formula: (Al<sub>1-x</sub>Cr<sub>x</sub>)<sub>2</sub>O<sub>3</sub> (where value X is 0.005 to
+0.04 in an atomic ratio when measured by an electron probe
+micro-analyzer (EPMA)) to thereby transform the crystal
+structure of the (Al, Cr)<sub>2</sub>O<sub>3</sub> layer having the κ-type or -type
+crystal structure into an α-type crystal structure,</li></sl>
+   the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer showing an
+inclination angle frequency-distribution graph on which a
+highest peak appears in an inclination angle interval in a
+range of 0 to 10 degrees and the sum of frequencies in a
+range of 0 to 10 degrees occupies 45% or more of the total
+sum of frequencies on the inclination angle frequency-distribution
+graph wherein the inclination angle frequency-distribution
+graph is obtained from the results of radiating
+electron beam onto crystal grains having a hexagonal crystal
+lattice in a measuring range of surfaces to be polished 
+using a field-emission-type scanning electron microscope,
+measuring an inclination angle of a normal line of the plane
+(0001) as a crystal plane in which each of the crystal
+grains is formed with respect to each of the polished
+surfaces, sorting the measured inclination angles in a range
+of 0 to 45 degrees among all the measured inclination angles
+into several intervals at a pitch of 0.25 degrees, and
+summing up the frequencies in each of the intervals,
+
+   and the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer having
+an average layer thickness of 1 to 15 µm.</p><p num="0019">The reasons for limiting the numerical values in the
+layers constituting the hard coating layer of the coated
+cermet layer of the present invention as described above
+will be described below.</p><heading>(a) Average layer thickness of the lower layer (a
+titanium compound layer)</heading><p num="0020">A titanium compound layer inherently has excellent high
+temperature strength, and the hard-coating layer has high
+temperature strength by virtue of the existence of the
+titanium compound layer. In addition, the titanium compound
+layer is firmly adhered to both of the tool substrate and
+the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer that is the
+upper layer. Accordingly, it contributes to improving the
+adherence of the hard-coating layer to the tool substrate.
+However, when the total average layer thickness is less than 
+3 µm, the above function cannot be sufficiently obtained.
+On the other hand, when the total average layer thickness
+exceeds 20 µm, thermal plastic deformation is apt to occur,
+particularly in the high-speed intermittent cutting
+accompanied by the generation of high heat, which causes
+partial wear. Accordingly, the average layer thickness of a
+lower layer is preferably set to 3 to 20 µm.</p><heading>(b) Composition and average layer thickness of titanium
+oxide layer (value Y)</heading><p num="0021">As described above, by the operation of the titanium
+compound layer a deposited κ-type or -type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer
+is wholly and simultaneously transformed into a heat-transformed
+α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer to thereby make cracks
+generated at the time of heating transformation fine and
+uniform. In addition, the titanium compound layer functions
+to promote the heating transformation and to suppress the
+growth of crystal grains by shortening the processing time.
+Moreover, when value Y in the composition formula: TiO<sub>y</sub> of
+the titanium compound layer is set to 1.2 to 1.9 as
+described above, according to the test results, the titanium
+compound layer functions to show an inclination angle
+frequency-distribution graph on which a highest peak of
+inclination angle frequency appears in an inclination angle
+interval range of 0 to 10 degrees, and the ratio of the sum
+of frequencies in the inclination angle frequency range of 0 
+to 10 degrees occupies 45% of the total sum of frequencies
+on the inclination angle frequency-distribution graph.
+Accordingly, when value Y is less than 1.2, the highest peak
+appear less in the range of 0 to 10 degrees on the
+inclination angle frequency-distribution graph of the heat-transformed
+α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer. In other words, the
+ratio of the sum of frequencies in the range of 0 to 10
+degrees may become less than 45% of the total sum of
+frequencies on the inclination angle frequency-distribution
+graph. In this case, as described above, a desired
+excellent high temperature strength cannot be secured in the
+heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer, which leads to the
+failure in obtaining a desired chipping resistance. On the
+other hand, when value Y exceeds 1.9, the inclination angle
+interval in which the highest peak appears may deviates out
+of the range of 0 to 10 degrees. In this case, the desired
+high temperature strength cannot be secured in the heat-transformed
+α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer. Thus, value Y is
+preferably set to 1.2 to 1.9 in an atomic ratio to Ti.</p><p num="0022">Further, in this case, when the average layer thickness
+of the titanium oxide layer is less than 0.1 µm, the above-mentioned
+functions cannot be sufficiently obtained. On the
+other hand, since the above functions can be sufficiently
+obtained only with an average layer thickness of 2 µm, and
+the thickness beyond the limit is unnecessary, the average 
+layer thickness of the titanium oxide layer is preferably
+set to 0.1 to 2 µm.</p><heading>(c) Content ratio and average layer thickness of Cr in
+the upper layer [heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer]</heading><p num="0023">The heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer has
+excellent high temperature hardness and heat resistance by
+the presence of Al as a constituent element thereof. On the
+other hand, when Cr as a constituent element coexists with
+the titanium oxide layer, it functions to still further
+promote the fineness of fine cracks due to transformation,
+which is generated at the time of a deposited α-type (Al,
+Cr)<sub>2</sub>O<sub>3</sub> layer into a heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer.
+However, when the content ratio (value X) of Cr is less than
+0.005 in an atomic ratio occupied in the total amount with
+Al (this is true of the following ratios), an effect to
+further promote the fineness of cracks due to transformation
+cannot be secured. On the other hand, when the content
+ratio of Cr exceeds 0.04, instability is caused in the
+hexagonal crystal lattice, which makes it difficult to
+sufficiently perform a κ-type or -type crystal structure
+into an α-type crystal structure during the heat-transforming
+treatment. Thus, the content ratio (value X)
+of Cr is set to 0.005 to 0.04, preferably, 0.012 to 0.035.</p><p num="0024">Further, when the average layer thickness of the heat-transformed
+α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer is less than 1 µm, the 
+hard coating layer cannot be allowed to sufficiently exhibit
+wear resistance. On the other hand, when the average layer
+thickness of the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer is
+greater than 15 µm, chipping is apt to occur. Thus, the
+average layer thickness of the heat-transformed α-type (Al,
+Cr)<sub>2</sub>O<sub>3</sub> layer is preferably set to 1 to 15 µm.</p><p num="0025">Furthermore, for the purpose of identifying the cutting
+tool before and after the use thereof, a TiN layer having a
+gold color tone may be deposited, if desired. In this case,
+the average layer thickness of the TiN layer is preferably
+0.1 to 1 µm. This is because, when the average layer
+thickness is less than 0.1 µm, sufficient identification
+cannot be achieved, whereas the identification due to the
+TiN layer is sufficient with an average layer thickness of
+up to 1 µm.</p><p num="0026">Further, the inventors have obtained the following
+results (a) to (c) described below.
+<sl><li>(a) On a surface of a tool substrate, the titanium
+compound layer as a lower layer is formed under normal
+conditions using a conventional chemical vapor deposition
+reactor. An Al-Ti oxide layer [hereinafter, referred to as
+an (Al, Ti)<sub>2</sub>O<sub>3</sub> layer having a κ-type or -type crystal
+structure and satisfying the composition formula:
+(Al<sub>1-x</sub>Ti<sub>x</sub>)<sub>2</sub>O<sub>3</sub> (where value X is 0.01 to 0.05 in an atomic ratio
+when measured by an electron probe micro-analyzer (EPMA)] is 
+deposited under the same normal conditions.
+Next, the surface of the (Al, Ti)<sub>2</sub>O<sub>3</sub> layer is processed
+using the chemical vapor deposition reactor under the
+following conditions:
+<sl><li>Composition of a reaction gas: in volume%, TiCl<sub>4</sub>: 0.2 to
+3%, CO<sub>2</sub>: 0.2 to 10%, Ar: 5 to 50%, and H<sub>2</sub>: balance,</li><li>Temperature of reaction atmosphere: 900 to 1020°C,</li><li>Pressure of reaction atmosphere: 7 to 30 kPa, and</li><li>Time: 25 to 100 min.</li></sl>
+Then, a titanium oxide layer satisfying the composition
+formula: TiO<sub>Y</sub>, (wherein value Y is 1.2 to 1.9 in an atomic
+ratio to Ti when measured by Auger Electron Spectroscopy)
+and having an average layer thickness 0.05 to 1.5 µm are
+formed on the surface of the (Al, Zr)<sub>2</sub>O<sub>3</sub> layer. In this
+state, by carrying out a heat-transforming treatment in an
+atmosphere of Ar gas, preferably, under the following
+conditions: a pressure of 7 to 50 kPa, a temperature of 1000
+to 1200°C, and a holding duration of 10 to 120 minutes, to
+transform the (Al, Ti)<sub>2</sub>O<sub>3</sub> layer having the κ-type or -type
+crystal structure into the (Al, Ti)<sub>2</sub>O<sub>3</sub> layer having an α-type
+crystal structure. Then, by the operation of the titanium
+oxide layer formed on the surface of the (Al, Ti)<sub>2</sub>O<sub>3</sub> layer
+before the transformation the κ-type or -type crystal
+structure is wholly and simultaneously transformed into the
+α-type crystal structure and the progress of the heat 
+transformation is markedly promoted. Thus, since cracks
+generated at the time of the transformation are
+simultaneously generated, the titanium oxide particulates
+are extremely finely, uniformly and dispersedly distributed,
+and the crystal growth at the time of the heat
+transformation is suppressed by the effect of Ti as a
+constituent element of the (Al, Ti)<sub>2</sub>O<sub>3</sub> layer and the crystal
+becomes preferably fine. As a result, since the formed
+heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer has a uniformed
+structure in which cracks generated by the transformation
+process and crystal grains become fine over the entire layer,
+it has a very strong resistance against mechanical and
+thermal impacts and consequently excellent chipping
+resistance. Accordingly, in the coated cermet tool having a
+hard-coating layer composed of the heat-transformed α-type
+(Al, Ti)<sub>2</sub>O<sub>3</sub> layer as the upper layer and the titanium
+compound layer (this titanium compound layer does not
+exhibit any change by heat-transforming treatment under the
+above-mentioned conditions) as the lower layer, the heat-transformed
+α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer exhibits excellent
+chipping resistance, even in the high-speed intermittent
+cutting accompanied with severe mechanical and thermal
+impacts, while it has the same high temperature hardness and
+heat resistance as the excellent high temperature hardness
+and heat resistance inherent to the α-type Al<sub>2</sub>O<sub>3</sub> layer. Thus, 
+with the presence of the titanium compound layer having high
+strength, the occurrence of chipping in the hard-coating
+layer is markedly suppressed and the excellent wear
+resistance is exhibited for a prolonged period of time.</li><li>(b) As for the conventional α-type Al<sub>2</sub>O<sub>3</sub> layer and the
+above heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer, when an
+inclination angle frequency-distribution graph is obtained
+from the results of radiating electron beam onto crystal
+grains having a hexagonal crystal lattice in a measuring
+range of surfaces to be polished using a field-emission-type
+scanning electron microscope, as shown in schematic
+explanatory views of Figs. 1(a) and 1(b), measuring an
+inclination angle of a normal line of the plane (0001) as a
+crystal plane in which each of the crystal grains is formed
+with respect to each of the polished surfaces, sorting the
+measured inclination angles in a range of 0 to 45 degrees
+among all the measured inclination angles into several
+intervals at a pitch of 0.25 degrees, and summing up the
+frequencies in each of the intervals, the conventional
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layer, as illustrated in Fig. 6, shows
+an inclination angle frequency-distribution graph on which
+the distribution of measured inclination angles of the plane
+(0001) is unbiased in a range of 0 to 45 degrees, whereas
+the heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer, as illustrated
+in Fig. 4, shows an inclination angle frequency-distribution 
+graph on which a sharp and highest peak appears at a certain
+position in an inclination angle interval and the position
+of the sharp and highest peak appearing in the inclination
+angle interval on an X-axis of the graph varies depending on
+the variation of value Y in the composition formula: TiO<sub>Y</sub> of
+the titanium oxide layer.</li><li>(c) According to the test results, when value Y in the
+composition formula: TiO<sub>Y</sub> of the titanium oxide layer is set
+to 1.2 to 1.9 in an atomic ratio to Ti as described above,
+there is obtained an inclination angle frequency-distribution
+graph on which the sharp and highest peak
+appears in an inclination angle range of 0 to 10 degrees,
+and the sum of frequencies (the sum of frequencies is
+proportional to the height of the highest peak) in the range
+of 0 to 10 degrees occupies 45% or more of the total sum of
+frequencies on the inclination angle frequency-distribution
+graph. In a coated cermet tool of the present invention
+deposited using, as the upper layer of the hard coating
+layer, a heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer which
+shows the resulting inclination angle frequency-distribution
+graph on which the inclination angle frequency in the range
+of 0 to 10 degrees occupies 45% or more, and the highest
+peak appears in the inclination angle interval in the range
+of 0 to 10 degrees with the presence of the titanium
+compound layer as the lower layer, the coated cermet tool of 
+the present invention exhibits more excellent wear
+resistance without causing chipping in a cutting edge, in
+particular, in the high-speed intermittent cutting, as
+compared to the conventional cermet tool.</li></sl></p><p num="0027">The present invention has been achieved based on the
+above research results (a) to (c).</p><p num="0028">According to the present invention, there is provided a
+surface-coated cermet cutting tool with a hard-coating layer
+exhibiting excellent chipping resistance, the surface-coated
+cermet cutting tool being formed by coating, on a surface of
+a tool substrate made of tungsten carbide-based cemented
+carbide or titanium carbonitride-based cermet, the hard-coating
+layer composed of the following upper and lower
+layers (a) and (b):
+<sl><li>(a) as the lower layer, a titanium compound layer
+having at least one or two of a titanium carbide layer, a
+titanium nitride layer, a titanium carbonitride layer, a
+titanium carboxide layer and a titanium oxycarbonitride
+layer, all of which are deposited by chemical vapor
+deposition, and the titanium compound layer having a total
+average layer thickness of 3 to 20 µm, and</li><li>(b) as the upper layer, a heat-transformed α-type (Al,
+Ti)<sub>2</sub>O<sub>3</sub> layer formed by carrying out a heat-transforming
+treatment in a state that a titanium oxide layer satisfying
+the composition formula: TiO<sub>Y</sub>, (where value Y is 1.2 to 1.9 
+in an atomic ratio to Ti when measured by Auger Electron
+Spectroscopy) and having an average layer thickness of 0.05
+to 1.5 µm is chemically deposited on a surface of an (Al-Ti)<sub>2</sub>O<sub>3</sub>
+layer having a κ-type or -type crystal structure
+deposited by chemical vapor deposition and satisfying the
+composition formula: (Al<sub>1-x</sub>Ti<sub>x</sub>)<sub>2</sub>O<sub>3</sub> (where value X is 0.01 to
+0.05 in an atomic ratio when measured by an electron probe
+micro-analyzer (EPMA)) to thereby transform the crystal
+structure of the (Al, Ti)<sub>2</sub>O<sub>3</sub> layer having the κ-type or -type
+crystal structure into an α-type crystal structure,</li></sl>
+   the heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer showing an
+inclination angle frequency-distribution graph on which a
+highest peak appears in an inclination angle interval in a
+range of 0 to 10 degrees and the sum of frequencies in a
+range of 0 to 10 degrees occupies 45% or more of the total
+sum of frequencies on the inclination angle frequency-distribution
+graph wherein the inclination angle frequency-distribution
+graph is obtained from results of radiating
+electron beam onto crystal grains having a hexagonal crystal
+lattice in a measuring range of surfaces to be polished
+using a field-emission-type scanning electron microscope,
+measuring an inclination angle of a normal line of the plane
+(0001) as a crystal plane in which each of the crystal
+grains is formed with respect to each of the polished
+surfaces, sorting the measured inclination angles in a range 
+of 0 to 45 degrees among all the measured inclination angles
+into several intervals at a pitch of 0.25 degrees, and
+summing up the frequencies in each of the intervals,
+
+   and the heat-transformed α-type (Al, Ti) oxide layer
+having an average layer thickness of 1 to 15 µm.</p><p num="0029">The reason for limiting the numerical values in the
+layers constituting a hard coating layer of the coated
+cermet layer of the present invention as described above
+will be described below.</p><heading>(a) Average layer thickness of the lower layer
+(titanium compound layer)</heading><p num="0030">A titanium compound layer inherently has excellent high
+strength, and the hard-coating layer has high strength by
+virtue of the existence of the titanium compound layer. In
+addition, the titanium compound layer is firmly adhered to
+both of the tool substrate and the heat-transformed α-type
+(Al, Ti)<sub>2</sub>O<sub>3</sub> layer that is the upper layer. Accordingly, it
+contributes to improving the adherence of the hard-coating
+layer to the tool substrate. However, when the total
+average layer thickness is less than 3 µm, the above
+function cannot be sufficiently obtained. On the other hand,
+when the total average layer thickness exceeds 20 µm,
+thermal plastic deformation is apt to occur, particularly in
+a high-speed intermittent cutting accompanied by the
+generation of high heat, which causes partial wear. 
+Accordingly, the total average layer thickness is preferably
+set to 3 to 20 µm.</p><heading>(b) Composition and average layer thickness of titanium
+oxide layer (value Y)</heading><p num="0031">As described above, by the operation of the titanium
+compound layer a deposited κ-type or -type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer
+is wholly and simultaneously transformed into a heat-transformed
+α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer to thereby make cracks
+generated at the time of heating transformation fine and
+uniform. In addition, the titanium compound layer functions
+to promote the heating transformation and to suppress the
+growth of crystal grains by shortening the processing time.
+Moreover, when value Y in the composition formula: TiO<sub>Y</sub> of
+the titanium compound layer is set to 1.2 to 1.9 as
+described above, according to the test results, the titanium
+compound layer functions to show an inclination angle
+frequency-distribution graph on which a highest peak of
+inclination angle frequency appears in an inclination angle
+interval range of 0 to 10 degrees, and the ratio of the sum
+of frequencies in the inclination angle frequency range of 0
+to 10 degrees occupies 45% of the total sum of frequencies
+on the inclination angle frequency-distribution graph.
+Accordingly, when value Y is less than 1.2, the highest peak
+appears less in the range of 0 to 10 degrees on the
+inclination angle frequency-distribution graph of the heat-transformed 
+α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer. In other words, the
+ratio of the sum of frequencies in the range of 0 to 10
+degrees may become less than 45% of the total sum of
+frequencies on the inclination angle frequency-distribution
+graph. In this case, as described above, a desired
+excellent high temperature strength cannot be secured in the
+heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer, which leads to the
+failure in obtaining a desired chipping resistance. On the
+other hand, when value Y exceeds 1.9, the inclination angle
+interval in which the highest peak appears may deviates out
+of the range of 0 to 10 degrees. In this case, desired
+excellent high temperature strength cannot be secured in the
+heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer. Thus, value Y is
+set to 1.2 to 1.9 in an atomic ratio to Ti.</p><p num="0032">Further, in this case, when the average layer thickness
+of the titanium oxide layer is less than 0.05 µm, the above-mentioned
+functions cannot be sufficiently obtained. On the
+other hand, since the above functions can be sufficiently
+obtained only with an average layer thickness of 1.5 µm, and
+the thickness beyond the limit is unnecessary, the average
+layer thickness of the titanium oxide layer is preferably
+set to 0.05 to 1.5 µm.</p><heading>(c) Content ratio of Ti in the upper layer [a heat-transformed
+α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer] and average layer
+thickness of the upper layer</heading><p num="0033">The heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer has
+excellent high temperature hardness and heat resistance by
+the presence of Al as a constituent element thereof, and has
+high temperature strength by the presence of Ti as a
+constituent element thereof. Thus, the heat-transformed α-type
+(Al, Ti)<sub>2</sub>O<sub>3</sub> layer exhibits excellent wear resistance and
+chipping resistance. However, when the content ratio (value
+X) of Ti is less than 0.01 in an atomic ratio (this is true
+of the following ratios) occupied in the total amount with
+Al, an effect to make crystal sufficiently fine cannot be
+exhibited. On the other hand, when the content ratio of Ti
+exceeds 0.05, instability is caused in the hexagonal crystal
+lattice, which makes it difficult to sufficiently transform
+a κ-type or -type crystal structure into an α-type crystal
+structure during the heat-transforming treatment. Thus, the
+content ratio (value X) of Ti is preferably set to 0.01 to
+0.05.</p><p num="0034">Further, when the average layer thickness of the heat-transformed
+α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer is less than 1 µm, the
+hard coating layer cannot be allowed to sufficiently exhibit
+wear resistance. On the other hand, when the average layer
+thickness of the heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer is
+greater than 15 µm, chipping is apt to occur. Thus, the
+average layer thickness of the heat-transformed α-type (Al,
+Ti)<sub>2</sub>O<sub>3</sub> layer is preferably set to 1.15 µm. </p><p num="0035">Furthermore, for the purpose of identifying the cutting
+tool before and after the use thereof, a TiN layer having a
+gold color tone may be deposited, if desired. In this case,
+the average layer thickness of the TiN layer is preferably
+0.1 to 1 µm. This is because, when the average layer
+thickness is less than 0.1 µm, a sufficient identification
+cannot be achieved, whereas the identification due to the
+TiN layer is sufficient with an average layer thickness of
+up to 1 µm.</p><p num="0036">Further, the inventors have obtained the following
+results (a) to (c) described below.
+<sl><li>(a) On a surface of a tool substrate, the titanium
+compound layer as a lower layer is formed under normal
+conditions using a conventional chemical vapor deposition
+reactor. An Al<sub>2</sub>O<sub>3</sub> (hereinafter, referred to as a deposited κ,
+-Al<sub>2</sub>O<sub>3</sub>) layer having a κ-type or -type crystal structure in
+a state formed by vapor deposition is formed under the same
+normal conditions.
+Next, the surface of the deposited κ, -Al<sub>2</sub>O<sub>3</sub> layer is
+processed using the chemical vapor deposition reactor under
+the following conditions:
+<sl><li>Composition of a reaction gas: in volume%, TiCl<sub>4</sub>: 0.2 to
+3%, CO<sub>2</sub>: 0.2 to 10%, Ar: 5 to 50%, and H<sub>2</sub>: balance,</li><li>Temperature of reaction atmosphere: 800 to 1100°C,</li><li>Pressure of reaction atmosphere: 4 to 70 kPa, and </li><li>Time: 15 to 60 min.</li></sl>
+Then, a titanium oxide layer satisfying the composition
+formula: TiO<sub>x</sub>, (where value X to Ti is 1.2 to 1.9 in an
+atomic ratio when measured by Auger Electron Spectroscopy)
+and having an average layer thickness 0.05 to 1 µm are
+formed on the surface of the Al<sub>2</sub>O<sub>3</sub> layer.In this state, heat-transforming treatment is carried
+out in an atmosphere of Ar gas, preferably, under the
+following conditions: a pressure of 7 to 50 kPa and a
+temperature of 1000 to 1200°C, to transform the Al<sub>2</sub>O<sub>3</sub> layer
+having the deposited κ, -Al<sub>2</sub>O<sub>3</sub> layer into an Al<sub>2</sub>O<sub>3</sub> layer
+having an α-type crystal structure. Then, by the operation
+of the titanium oxide layer formed on the surface of the
+deposited κ, -Al<sub>2</sub>O<sub>3</sub> layer before the transformation the
+transformation of the κ-type or -type crystal structure is
+wholly and simultaneously transformed into the α-type
+crystal structure and the progress of the heat
+transformation is markedly promoted. Thus, since cracks
+generated at the time of the transformation are
+simultaneously formed, the titanium oxide particulates are
+extremely finely, uniformly and dispersedly distributed, and
+the growth of crystal grains is markedly suppressed by the
+shortening of the heat-transforming treatment time. As a
+result, since the formed heat-transformed α-type Al<sub>2</sub>O<sub>3</sub> layer
+has a uniformed structure in which cracks generated by the 
+transformation and crystal grains becomes fine over the
+entire layer, it has very strong resistance against
+mechanical and thermal impacts. Accordingly, in the coated
+cermet tool having a hard-coating layer composed of the
+transformed α-Al<sub>2</sub>O<sub>3</sub> layer as the upper layer and the titanium
+compound layer (this titanium compound layer does not
+exhibit any change during heat-transforming treatment under
+the above-mentioned conditions) as the lower layer, the
+transformed α-Al<sub>2</sub>O<sub>3</sub> layer exhibits excellent chipping
+resistance with the presence of the titanium compound layer
+having high strength. Thus, the occurrence of chipping in
+the hard-coating layer is markedly suppressed and the
+excellent wear resistance is exhibited for a prolonged
+period of time.</li><li>(b) As for the conventional α-type Al<sub>2</sub>O<sub>3</sub> layer known as
+the upper layer of a hard coating layer and the transformed
+α-Al<sub>2</sub>O<sub>3</sub> layer described in (a), when an inclination angle
+frequency-distribution graph is obtained from results of
+radiating electron beam onto crystal grains having a
+hexagonal crystal lattice in a measuring range of surfaces
+to be polished using a field-emission-type scanning electron
+microscope, as shown in schematic explanatory views of Figs.
+1(a) and 1(b), measuring an inclination angle of a normal
+line of the plane (0001) as a crystal plane in which each of
+the crystal grains is formed with respect to each of the 
+polished surfaces, sorting the measured inclination angles
+in a range of 0 to 45 degrees among all the measured
+inclination angles into several intervals at a pitch of 0.25
+degrees, and summing up the frequencies in each of the
+intervals, the conventional deposited α-Al<sub>2</sub>O<sub>3</sub> layer, as
+illustrated in Fig. 6, shows an inclination angle frequency-distribution
+graph on which the distribution of measured
+inclination angles of the plane (0001) is unbiased in a
+range of 0 to 45 degrees, whereas the transformed α-Al<sub>2</sub>O<sub>3</sub>
+layer, as illustrated in Fig. 5, shows an inclination angle
+frequency-distribution graph on which a sharp and highest
+peak appears at a certain position in an inclination angle
+interval and the position of the sharp and highest peak
+appearing in the inclination angle interval on an X-axis of
+the graph varies depending on the variation of value X in
+the composition formula: TiO<sub>x</sub> of the titanium oxide layer.</li><li>(c) According to the test results, when value X to Ti
+in the composition formula: TiO<sub>x</sub> of the titanium oxide layer
+is set to 1.2 to 1.9 in an atomic ratio as described above,
+there is obtained an inclination angle frequency-distribution
+graph on which the sharp and highest peak
+appears in an inclination angle range of 0 to 10 degrees,
+and the sum of frequencies in the range of 0 to 10 degrees
+occupies 45% or more of the total sum of frequencies on the
+inclination angle frequency-distribution graph. In a coated 
+cermet tool of the present invention deposited using, as the
+upper layer of the hard coating layer, a transformed α-Al<sub>2</sub>O<sub>3</sub>
+layer which shows the resulting inclination angle frequency-distribution
+graph on which the inclination angle frequency
+in the range of 0 to 10 degrees occupies 45% or more, and
+the highest peak appears in the inclination angle interval
+in the range of 0 to 10 degrees with the presence of the
+titanium compound layer as the lower layer, the coated
+cermet tool of the present invention exhibits more excellent
+wear resistance without causing chipping in a cutting edge,
+in particular, in the high-speed cutting, as compared to the
+conventional cermet tool.</li></sl></p><p num="0037">The present invention has been achieved based on the
+above research results.</p><p num="0038">According to the present invention, there is provided a
+surface-coated cermet cutting tool with a hard-coating layer
+exhibiting excellent chipping resistance, the surface-coated
+cermet cutting tool being formed by coating, on a surface of
+a tool substrate made of tungsten carbide-based cemented
+carbide or titanium carbonitride-based cermet, the hard-coating
+layer composed of the following upper and lower
+layers (a) and (b):
+<sl><li>(a) as the lower layer, a titanium compound layer
+having at least one or two of a titanium carbide layer, a
+titanium nitride layer, a titanium carbonitride layer, a 
+titanium carboxide layer and a titanium oxycarbonitride
+layer, all of which are deposited by chemical vapor
+deposition, and the titanium compound layer having a total
+average layer thickness of 3 to 20 µm, and</li><li>(b) as the upper layer, a transformed α-Al<sub>2</sub>O<sub>3</sub> layer
+formed by carrying out a heat-transforming treatment in a
+state that a titanium oxide layer satisfying the composition
+formula: TiO<sub>x</sub>, (where value X is 1.2 to 1.9 in an atomic
+ratio to Ti when measured by Auger Electron Spectroscopy) is
+chemically deposited on a surface of a deposited κ, -Al<sub>2</sub>O<sub>3</sub>
+layer to thereby transform the crystal structure of the
+deposited κ, -Al<sub>2</sub>O<sub>3</sub> layer into an α-type crystal structure,</li></sl>
+   the transformed α-Al<sub>2</sub>O<sub>3</sub> layer showing an inclination
+angle frequency-distribution graph on which a highest peak
+appears in an inclination angle interval in a range of 0 to
+10 degrees and the sum of frequencies in a range of 0 to 10
+degrees occupies 45% or more of the total sum of frequencies
+on the inclination angle frequency-distribution graph
+wherein the inclination angle frequency-distribution graph
+is obtained from results of radiating electron beam onto
+crystal grains having a hexagonal crystal lattice in a
+measuring range of surfaces to be polished using a field-emission-type
+scanning electron microscope, measuring an
+inclination angle of a normal line of the plane (0001) as a
+crystal plane in which each of the crystal grains is formed 
+with respect to each of the polished surfaces, sorting the
+measured inclination angles in a range of 0 to 45 degrees
+among all the measured inclination angles into several
+intervals at a pitch of 0.25 degrees, and summing up the
+frequencies in each of the intervals,
+
+   and the transformed α-Al<sub>2</sub>O<sub>3</sub> layer having an average
+layer thickness of 1 to 15 µm.</p><p num="0039">The reasons for limiting the numerical values in the
+layers constituting a hard coating layer of the coated
+cermet layer of the present invention as described above
+will be described below.</p><heading>(a) Average layer thickness of a lower layer (Ti
+compound layer)</heading><p num="0040">A titanium compound layer inherently has excellent high
+temperature strength, and the hard-coating layer has high
+temperature strength by virtue of the existence of the
+titanium compound layer. In addition, the titanium compound
+layer is firmly adhered to both of the tool substrate and
+the transformed α-type Al<sub>2</sub>O<sub>3</sub> layer that is the upper layer.
+Accordingly, it contributes to improving the adherence of
+the hard-coating layer to the tool substrate. However, when
+the total average layer thickness is less than 3 µm, the
+above function cannot be sufficiently obtained. On the
+other hand, when the total average layer thickness exceeds
+20 µm, thermal plastic deformation is apt to occur, 
+particularly in a high-speed intermittent cutting
+accompanied by the generation of high heat, which causes
+partial wear. Accordingly, the total average layer
+thickness is preferably set to 3 to 20 µm.</p><heading>(b) Composition and average layer thickness of titanium
+oxide layer (value X)</heading><p num="0041">As described above, by the operation of the titanium
+compound layer the heating transformation of a deposited κ,
+-Al<sub>2</sub>O<sub>3</sub> layer is wholly and simultaneously transformed into
+an α-Al<sub>2</sub>O<sub>3</sub> layer to thereby make cracks generated at the time
+of heating transformation fine and uniform. In addition,
+the titanium compound layer has a functions to promote the
+heating transformation and to suppress the growth of crystal
+grains by shortening the processing time. Moreover, when
+value X in the composition formula: TiO<sub>x</sub> of the titanium
+compound layer is set to 1.2 to 1.9 as described above,
+according to the test results, the titanium compound layer
+functions to show an inclination angle frequency-distribution
+graph on which a highest peak of inclination
+angle frequency appears in an inclination angle interval
+range of 0 to 10 degrees, and the ratio of the sum of
+frequencies in the inclination angle frequency range of 0 to
+10 degrees occupies 45% of the total sum of frequencies on
+the inclination angle frequency-distribution graph.
+Accordingly, when value X is less than 1.2, the highest peak 
+appears less in the range of 0 to 10 degrees on the
+inclination angle frequency-distribution graph of the
+transformed α-Al<sub>2</sub>O<sub>3</sub> layer. In other words, the ratio of the
+sum of frequencies in the range of 0 to 10 degrees may
+become less than 45% of the total sum of frequencies on the
+inclination angle frequency-distribution graph. In this
+case, as described above, desired excellent high temperature
+strength cannot be secured in the transformed α-Al<sub>2</sub>O<sub>3</sub> layer,
+which leads to the failure in obtaining a desired chipping
+resistance. On the other hand, when value X exceeds 1.9,
+the inclination angle interval in which the highest peak
+appears may deviates out of the range of 0 to 10 degrees.
+In this case, desired excellent high temperature strength
+cannot also be secured in the transformed α-Al<sub>2</sub>O<sub>3</sub> layer.
+Therefore, value X to Ti is preferably set to 1.2 to 1.9 in
+an atomic ratio.</p><p num="0042">Further, in this case, when the average layer thickness
+of the titanium oxide layer is less than 0.05 µm, the above-mentioned
+functions cannot be sufficiently obtained. On the
+other hand, since the above functions can be sufficiently
+obtained only with an average layer thickness of 1 µm, and
+the thickness beyond the limit is unnecessary, the average
+layer thickness of the titanium oxide layer is preferably
+set to 0.05 to 1 µm.</p><heading>(c) Average layer thickness of an upper layer (a 
+transformed α-Al<sub>2</sub>O<sub>3</sub> layer)</heading><p num="0043">The transformed α-Al<sub>2</sub>O<sub>3</sub> layer functions to improve the
+wear resistance of the hard coating layer by virtue of the
+high temperature hardness and excellent heat resistance
+possessed by Al<sub>2</sub>O<sub>3</sub> itself and to markedly suppress the
+occurrence of chipping in the hard coating layer even in the
+high-speed cutting by virtue of its inherent excellent
+resistance against thermal or mechanical impacts (chipping
+resistance), as described above. However, when the average
+layer thickness of the transformed α-Al<sub>2</sub>O<sub>3</sub> layer is less than
+1 µm, the above function cannot be sufficiently obtained.
+On the other hand, when the average layer thickness of the
+transformed α-Al<sub>2</sub>O<sub>3</sub> layer exceeds 15 µm, chipping is apt to
+occur. Accordingly, the average layer thickness of the
+transformed α-Al<sub>2</sub>O<sub>3</sub> layer is preferably set to 1 to 15 µm.</p><p num="0044">Furthermore, for the purpose of identifying the cutting
+tool before and after the use thereof, a TiN layer having a
+gold color tone may be deposited, if desired. In this case,
+the average layer thickness of the TiN layer is preferably
+0.1 to 1 µm. This is because, when the average layer
+thickness is less than 0.1 µm, a sufficient identification
+cannot be obtained, whereas the identification due to the
+TiN layer is sufficient with an average layer thickness of
+up to 1 µm.</p><p num="0045">In the coated cermet tool according to the present 
+invention, the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layer
+constituting the upper layer of the hard-coating layer
+exhibits excellent high temperature hardness and heat
+resistance, and further excellent chipping resistance even
+in the high-speed intermittent cutting of steel or cast iron
+accompanied with very high mechanical and thermal impacts.
+Thus, the excellent wear resistance is exhibited without
+causing chipping in the hard coating layer.</p><p num="0046">In the coated cermet tool according to the present
+invention, the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layer
+constituting the upper layer of the hard-coating layer
+exhibits excellent high temperature hardness and heat
+resistance, and further excellent chipping resistance even
+in the high-speed intermittent cutting of steel or cast iron
+accompanied with very high mechanical and thermal impacts.
+Thus, the excellent wear resistance is exhibited without
+causing chipping in the hard coating layer.</p><p num="0047">In the coated cermet tool according to the present
+invention, the heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer
+constituting the upper layer of the hard-coating layer
+exhibits excellent high temperature hardness and heat
+resistance, and further excellent chipping resistance even
+in the high-speed intermittent cutting of steel or cast iron
+accompanied with very high mechanical and thermal impacts.
+Thus, the excellent wear resistance is exhibited without 
+causing chipping in the hard coating layer.</p><p num="0048">In the coated cermet tool according to the present
+invention, the transformed α-Al<sub>2</sub>O<sub>3</sub> layer constituting the
+upper layer of the hard-coating layer exhibits excellent
+chipping resistance even in the high-speed intermittent
+cutting of steel or cast iron accompanied very high
+mechanical and thermal impacts and high heat generation.
+Thus, the excellent wear resistance is exhibited for a
+prolonged period of time.</p><heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading><p num="0049"><sl><li>Fig. 1 is a schematic explanatory view illustrating a
+measuring range of an inclination angle of the plane (0001)
+of crystal grains in various kinds of a heat-transformed α-type
+(Al, Zr)<sub>2</sub>O<sub>3</sub> layer, a heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub>
+layer, a heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layer, a
+transformed α-Al<sub>2</sub>O<sub>3</sub> layer and a deposited α-type Al<sub>2</sub>O<sub>3</sub> layer,
+which constitute a hard coating layer;</li><li>Fig. 2 is an inclination angle frequency-distribution
+graph of the plane (0001) of a heat-transformed α-type (Al,
+Zr)<sub>2</sub>O<sub>3</sub> layer which constitutes a hard coating layer of a
+coated cermet tool 2 of the present invention as shown in
+Table 5;</li><li>Fig. 3 is an inclination angle frequency-distribution
+graph of the plane (0001) of a heat-transformed α-type (Al, 
+Cr)<sub>2</sub>O<sub>3</sub> layer which constitutes a hard coating layer of a
+coated cermet tool 2 of the present invention as shown in
+Table 9;</li><li>Fig. 4 is an inclination angle frequency-distribution
+graph of the plane (0001) of a heat-transformed α-type (Al,
+Ti)<sub>2</sub>O<sub>3</sub> layer which constitutes a hard coating layer of a
+coated cermet tool 2 of the present invention as shown in
+Table 13;</li><li>Fig. 5 is an inclination angle frequency-distribution
+graph of the plane (0001) of a transformed α-Al<sub>2</sub>O<sub>3</sub> layer
+which constitutes a hard coating layer of a coated cermet
+tool 2 of the present invention as shown in Table 17; and</li><li>Fig. 6 is an inclination angle distribution graph of
+the plane (0001) of a deposited α-type Al<sub>2</sub>O<sub>3</sub> layer which
+constitutes a hard coating layer of a conventional coated
+cermet tool.</li></sl></p><heading>DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading><p num="0050">Hereinafter, coated cermet tools according to the
+present invention will be described in detail by examples
+with reference to the accompanying drawings.</p><heading>[Example 1]</heading><p num="0051">The following powders, each having a mean particle size
+in a range of 1 to 3 µm, were prepared as raw materials for
+substrates: WC powder, TiC powder, ZrC powder, VC powder, 
+TaC powder, NbC powder, Cr<sub>3</sub>C<sub>2</sub> powder, TiN powder, TaN powder
+and Co powder. Those raw powders were compounded with each
+other based on the compounding compositions shown in Table 1,
+mixed with each other in an acetone solution having wax
+added thereto for 24 hours using a ball mill and were dried
+under reduced pressure. Thereafter, the resulting powder
+mixtures were press-formed into green compacts having
+predetermined shape at a pressure of 98 Mpa. The green
+compacts were then sintered in a vacuum under the following
+conditions: a pressure of 5 Pa, a predetermined temperature
+in a range of 1370 to 1470°C, and a holding duration of 1
+hour. After sintering, cutting edges were subjected to
+horning (R: 0.07 mm) to manufacture tool substrates A to F
+made of WC-based cemented carbide and having throwaway tip
+shapes defined in ISO·CNMG120408.</p><p num="0052">Further, the following powders, each having a mean
+particle size in a range of 0.5 to 2 µm, were prepared as
+raw materials for substrates: TiCN (TiC/TiN=50/50 in weight
+ratio) powder, Mo<sub>2</sub>C power, Zrc power, NbC powder, TaC powder,
+WC power, Co powder and Ni powder. Those raw powders were
+compounded with each other based on the compounding
+composition shown in Table 2, wet-mixed with each other for
+24 hours using a ball mill and were dried. Thereafter, the
+resulting powder mixtures were press-formed into green
+compacts at a pressure of 98 MPa. The green compacts were 
+then sintered in a nitrogen atmosphere under the following
+conditions: a pressure of 1.3 kPa, a temperature of 1540°C,
+and a holding duration of 1 hour. After sintering, cutting
+edges were subjected to horning (R:0.07 mm) to manufacture
+tool substrates a to f made of TiCN-based cermet and having
+tip shapes defined in ISO Standard-CNMG120412.</p><p num="0053">Next, by using a general chemical vapor deposition
+reactor, on the surfaces of the tool substrates A to F and a
+to f, titanium compound layers as lower layers of the hard-coating
+layers were deposited with combinations and target
+layer thickness shown in Table 5 under conditions shown in
+Table 3 (in Table 3, 1-TiCN represents formation conditions
+of TiCN layers having a lengthwise growth crystal structure
+described in Japanese Unexamined Patent Application
+Publication No. 6-8010, and the others represent formation
+conditions of general granular crystal structure). Next,
+similarly, (Al, Zr)<sub>2</sub>O<sub>3</sub> layers having a κ-type or -type
+crystal structure were deposited with combinations and
+target layer thickness shown in Table 5 under conditions
+shown in Table 3. Subsequently, on a surface of each of the
+(Al, Zr)<sub>2</sub>O<sub>3</sub> layers having κ-type or -type crystal structure,
+a titanium oxide layer was deposited with a combination
+shown in Table 5 under conditions shown in Table 4. In this
+state, heat-transforming treatment was performed in an Ar
+atmosphere under the following conditions: a pressure of 30 
+kPa, a temperature of 1100°C, and a predetermined holding
+duration in a range of 20 to 100 minutes to transform the
+(Al, Zr)<sub>2</sub>O<sub>3</sub> layers having a κ-type or -type crystal
+structure into (Al, Zr)<sub>2</sub>O<sub>3</sub> layers having an α-type crystal
+structure. As a result, coated cermet tools 1 to 13 of the
+present invention having the heat-transformed α-type (Al,
+Zr)<sub>2</sub>O<sub>3</sub> layers as upper layers of the hard-coating layers were
+manufactured, respectively.</p><p num="0054">Furthermore, in manufacturing the coated cermet tools 1
+to 13 of the present invention, separate test pieces are
+prepared, and those test pieces were loaded into the same
+chemical vapor deposition reactor. The test pieces were
+taken out of the chemical vapor deposition reactor at the
+time when the titanium oxide layers are formed on the
+surfaces of the test pieces, and compositions (value Y) and
+layer thickness of the titanium oxide layers were measured
+(the longitudinal sections of the layers were measured)
+using Auger Electron Spectroscopy or a scanning electron
+microscope. As a result, all the coated cermet tools showed
+substantially the same compositions and average layer
+thickness (the average value of values measured at five
+points) as the target compositions and target layer
+thickness.</p><p num="0055">For the purpose of comparison, as shown in Table 6, the
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layers as upper layers of the hard-coating 
+layers with target layer thickness shown in Table 6
+were formed under the same conditions as those shown in
+Table 3. Then, the conventional cermet tools 1 to 13 were
+manufactured under the same conditions as the above ones
+except that the formation of the titanium oxide layers and
+the heat-transforming treatment under the conditions
+mentioned above were not performed.</p><p num="0056">Next, an inclination angle frequency-distribution graph
+of the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layers and the
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layers that constitute the hard-coating
+layers of the coated cermet tools of the present
+invention and conventional cermet tools was drawn up using a
+field-emission-type scanning electron microscope.</p><p num="0057">Specifically, the inclination angle frequency-distribution
+graphs were drawn up through the following
+steps. First, the test pieces are set in a lens-barrel of a
+field-emission-type scanning electron microscope, using the
+surfaces of the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> layers
+and deposited α-type Al<sub>2</sub>O<sub>3</sub> layers thereof as surfaces to be
+polished. Then, electron beam having an acceleration
+voltage of 15 kV are individually radiated on crystal grains
+having the hexagonal crystal lattice in a measuring range of
+the polished surfaces with an irradiating current of 1 nA at
+an incidence angle of 70 degrees with respect to the
+polished surfaces. Next, an inclination angle of a normal 
+line of the plane (0001) as a crystal plane in which each of
+the crystal grains is formed with respect to a normal line
+of each of the polished surface was measured at an interval
+of 0.1 µm/step for an area of 30 x 50 µm, using an electron
+backscattering diffraction image device. Based on these
+measurement results, among all the measured inclination
+angles, the measured inclination angles in a range of 0 to
+45 degrees are sorted into several intervals at a pitch of
+0.25 degrees, and the frequencies in each sorted interval
+are summed up.</p><p num="0058">In the resulting inclination angle frequency-distribution
+graphs of the various heat-transformed α-type
+(Al, Zr)<sub>2</sub>O<sub>3</sub> layers and deposited α-type Al<sub>2</sub>O<sub>3</sub> layers, an
+inclination angle interval in which the plane (0001) shows
+the highest peak, and the ratio occupied by the inclination
+angle frequencies in an inclination angle interval ranging
+from 0 to 10 degrees to all the inclination angle
+frequencies on the inclination angle frequency-distribution
+graph is shown in Tables 5 and 6, respectively.</p><p num="0059">In the above various inclination angle frequency-distribution
+graphs, as shown in Tables 5 and 6,
+respectively, all the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub>
+layers of the coated cermet tool of the present invention
+show an inclination angle frequency-distribution graph on
+which the measured inclination angle distribution of the 
+plane (0001) shows the highest peak in the inclination angle
+interval in a range of 0 to 10 degrees and on which the
+ratio of the inclination angle frequencies in the
+inclination angle interval ranging from 0 to 10 degrees is
+45% or more. To the contrary, all the deposited α-type Al<sub>2</sub>O<sub>3</sub>
+layers of the conventional coated cermet tools 1 to 13 show
+an inclination angle frequency-distribution graph on which
+the distribution of measured inclination angles of the plane
+(0001) is unbiased in a range of 0 to 45 degrees, the
+highest peak does not appear, and the ratio of the
+inclination angle frequencies in the inclination angle
+interval ranging from 0 to 10 degrees is 23% or less.</p><p num="0060">In addition, Fig. 2 illustrates an inclination angle
+frequency-distribution graph of the heat-transformed α-type
+(Al, Zr)<sub>2</sub>O<sub>3</sub> layer of the coated cermet tool 2 of the present
+invention, and Fig. 6 illustrates an angle frequency-distribution
+graph of the deposited α-type Al<sub>2</sub>O<sub>3</sub> layer of the
+conventional coated cermet tool 10.</p><p num="0061">Moreover, as for the coated cermet tools 1 to 13 of the
+present invention and the conventional coated cermet tools 1
+to 13, when the layers that constitute the hard coating
+layers of the coated cermet tools are observed using an
+electron probe micro-analyzer (EPMA) or the Auger Electron
+Spectroscopy (when the longitudinal sections of the layers
+are observed), it was found that all the coated cermet tools 
+1 to 13 of the present invention are composed of a Ti
+compound layer and a heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub>
+layer, which have substantially the same compositions as the
+target compositions, and the Ti compound layer deposited
+before heat-transforming treatment also exists in the
+surfaces of the tools. On the other hand, it was found that
+all the conventional cermet tools 1 to 13 are composed of a
+Ti compound layer and a deposited α-type Al<sub>2</sub>O<sub>3</sub> layer, which
+have substantially the same compositions as the target
+compositions. Further, when the thickness of layers
+constituting the hard-coating layers of the coated cermet
+tools was measured by using a scanning electron microscope
+(similarly, the longitudinal sections of the layers were
+measured), all the coated cermet tools had substantially the
+same average layer thickness (the average value of values
+measured at five points) as the target layer thickness.</p><p num="0062">Next, in a state in which each of the above-mentioned
+various coated cermet tools was screw-fixed to a tip of a
+bite made of tool steel with a fixing jig, the coated cermet
+tools 1 to 13 of the present invention and the conventional
+coated cermet tools 1 to 13 were subjected to the following
+tests:
+<sl><li>(1) a dry high-speed intermittent cutting test of
+alloyed steel (normal cutting speed is 200 m/min) under the
+following conditions: <sl><li>Workpiece: a JIS·SCM 420 round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 450 m/min,</li><li>Depth of cut: 1.5 mm,</li><li>Feed rate: 0.3 mm/rev,</li><li>Cutting time: 5 min,</li></sl></li><li>(2) a dry high-speed intermittent cutting test of
+carbon steel (normal cutting speed is 250 m/min) under the
+following conditions:
+<sl><li>Workpiece: a JIS·S25C round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 450 m/min,</li><li>Depth of cut: 1.5 mm,</li><li>Feed rate: 0.35 mm/rev,</li><li>Cutting time: 5 min,</li></sl></li><li>(3) a dry high-speed intermittent cutting test of cast
+iron (normal cutting speed is 250 m/min) under the following
+conditions:
+<sl><li>Workpiece: a JIS·FC250 round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 500 m/min,</li><li>Depth of cut: 1.5 mm, </li><li>Feed rate: 0.3 mm/rev,</li><li>Cutting time: 5 min,</li></sl></li></sl>
+Then, the width of flank wear of a cutting edge was measured
+in each test. The measurement results are shown in Table 7. <img id="img-00580001" orientation="unknown" wi="157" img-format="tif" img-content="tb" file="00580001.tif" inline="no" he="97"/><img id="img-00590001" orientation="unknown" wi="133" img-format="tif" img-content="tb" file="00590001.tif" inline="no" he="103"/><tables><table><tgroup cols="5"><tbody><row><entry nameend="2" align="center" namest="1">Layer Constituting Hard Coating Layer</entry><entry nameend="5" align="center" namest="3">Formation Condition (kPa denotes pressure of reaction atmosphere, and °C denotes temperature thereof)</entry></row><row><entry align="center" namest="1">Type</entry><entry align="center" namest="2">Target Composition (atomic ratio)</entry><entry align="center" namest="3">Reaction Gas Composition (volume %)</entry><entry nameend="5" align="center" namest="4">Reaction Atmosphere</entry></row><row><entry align="center"/><entry align="center"/><entry align="center"/><entry align="center">Pressure</entry><entry align="center">Temperature</entry></row><row><entry align="center">TiC</entry><entry align="center">TiC</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CH<sub>4</sub>: 8.5%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1020</entry></row><row><entry align="center">TiN (First Layer)</entry><entry align="center">TiN</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 30%, H<sub>2</sub>: Balance</entry><entry align="center">30</entry><entry align="center">900</entry></row><row><entry align="center">TiN (Other Layers)</entry><entry align="center">TiN</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 35%, H<sub>2</sub>: Balance</entry><entry align="center">50</entry><entry align="center">1040</entry></row><row><entry align="center">1-TiCN</entry><entry align="center">1-TiC<sub>0.5</sub>N<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 20%, CH<sub>3</sub>CN: 0.6%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">900</entry></row><row><entry align="center">TiCN</entry><entry align="center">TiC<sub>0.5</sub>N<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>:20%, CH<sub>4</sub>: 4%, H<sub>2</sub>: Balance</entry><entry align="center">12</entry><entry align="center">1020</entry></row><row><entry align="center">TiCO</entry><entry align="center">TiC<sub>0.5</sub>O<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CO: 4%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1020</entry></row><row><entry align="center">TiCNO</entry><entry align="center">TiC<sub>0.3</sub>N<sub>0.3</sub>O<sub>0.4</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CO: 3%, CH<sub>4</sub>: 3%, N<sub>2</sub>: 20%, H<sub>2</sub>: Balance</entry><entry align="center">20</entry><entry align="center">1020</entry></row><row><entry align="center">Deposited α-type Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">α-Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">AlCl<sub>3</sub>: 2.2%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1000 </entry></row><row><entry align="center">Deposited κ-type MO:A</entry><entry align="center">Zr (Value X) : 0.003</entry><entry align="center">AlCl<sub>3</sub>: 3.7%, ZrCl<sub>4</sub>: 0.03%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:B</entry><entry align="center">Zr (Value X): 0.01</entry><entry align="center">AlCl<sub>3</sub>: 3.6%, ZrCl<sub>4</sub>: 0.1%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry align="center">Deposited κ-type MO:C</entry><entry align="center">Zr (Value X): 0.017</entry><entry align="center">AlCl<sub>3</sub>: 3.53% ZrCl<sub>4</sub>: 0.17%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:D</entry><entry align="center">Zr (Value X): 0.024</entry><entry align="center">AlCl<sub>3</sub>: 3.46%, ZrCl<sub>4</sub>: 0.24%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry align="center">Deposited κ-type MO:E</entry><entry align="center">Zr (Value X): 0.03</entry><entry align="center">AlCl<sub>3</sub>: 3.4%, ZrCl<sub>4</sub>: 0.3%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:F</entry><entry align="center">Zr (Value X): 0.037</entry><entry align="center">AlCl<sub>3</sub>: 3.33%, ZrCl<sub>4</sub>: 0.37%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry align="center">Deposited κ-type MO:G</entry><entry align="center">Zr (Value X): 0.043</entry><entry align="center">AlCl<sub>3</sub>: 3.27%, ZrCl<sub>4</sub>: 0.43%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:H</entry><entry align="center">Zr (Value X): 0.05</entry><entry align="center">AlCl<sub>3</sub>: 3.2%, ZrCl<sub>4</sub>: 0.5%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry>(In Table 3, MO denotes (Al, Zr)<sub>2</sub>O<sub>3</sub>.)</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="5"><tbody><row><entry nameend="2" align="center" namest="1">Thin Ti Oxide Layer</entry><entry nameend="5" align="center" namest="3">Formation Condition</entry></row><row><entry align="center" namest="1">Type</entry><entry align="center" namest="2">Target Composition (atomic ratio)</entry><entry align="center" namest="3">Reaction Gas Composition (volume %)</entry><entry nameend="5" align="center" namest="4">Reaction Atmosphere</entry></row><row><entry align="center"/><entry align="center"/><entry align="center"/><entry align="center">Pressure (kPa)</entry><entry align="center">Temperature (°C)</entry></row><row><entry align="center">1</entry><entry align="center">TiO<sub>1.20</sub></entry><entry align="center">TiCl<sub>4</sub>: 0.5%, CO<sub>2</sub>: 0.2%, Ar: 40%, H<sub>2</sub>: Balance</entry><entry align="center">30</entry><entry align="center">1020</entry></row><row><entry align="center">2</entry><entry align="center">TiO<sub>1.35</sub></entry><entry align="center">TiCl<sub>4</sub>: 3%, CO<sub>2</sub>: 5%, Ar: 40%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1000</entry></row><row><entry align="center">3</entry><entry align="center">TiO<sub>1.50</sub></entry><entry align="center">TiCl<sub>4</sub>: 3%, CO<sub>2</sub>: 10%, Ar: 50%, H<sub>2</sub>: Balance</entry><entry align="center">14</entry> <entry align="center">1000</entry></row><row><entry align="center">4</entry><entry align="center">TiO<sub>1.60</sub></entry> <entry align="center">TiCl<sub>4</sub>: 1%, CO<sub>2</sub>: 4.5%, Ar: 40%, H<sub>2</sub>: Balance</entry> <entry align="center">7</entry> <entry align="center">1000</entry></row><row><entry align="center">5</entry><entry align="center">TiO<sub>1.75</sub></entry><entry align="center">TiCl<sub>4</sub>: 1%, CO<sub>2</sub>: 8%, Ar: 10%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">6</entry><entry align="center">TiO<sub>1.90</sub></entry><entry align="center">TiCl<sub>4</sub>: 0.2%, CO<sub>2</sub>: 5%, Ar: 5%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">900</entry></row></tbody></tgroup></table></tables><img id="img-00630001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00630001.tif" inline="no" he="195"/><img id="img-00640001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00640001.tif" inline="no" he="202"/> 
+inclination angle interval in which the plane (0001) shows the highest peak;
+Frequency Ratio represents a frequency ratio in an inclination angle interval of
+0 to 10 degrees] <img id="img-00660001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00660001.tif" inline="no" he="202"/><img id="img-00670001" orientation="unknown" wi="165" img-format="tif" img-content="tb" file="00670001.tif" inline="no" he="225"/> 
+in which the plane (0001) shows the highest peak; Frequency Ratio represents a
+frequency ratio in an inclination angle interval of 0 to 10 degrees] <img id="img-00690001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00690001.tif" inline="no" he="201"/><img id="img-00700001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00700001.tif" inline="no" he="214"/><img id="img-00710001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00710001.tif" inline="no" he="138"/></p><p num="0063">As apparent from the results shown in Tables 5 to 7, in
+all the cermet tools 1 to 13 of the present invention in
+which the upper layers of the hard coating layers are
+composed of a heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub> showing an
+inclination angle frequency-distribution graph on which the
+inclination angle of the plane (0001) shows the highest peak
+in an inclination angle interval in a range of o to 10
+degrees and the ratio of the sum of frequencies in the
+inclination angle interval ranging from 0 to 10 degrees
+occupy 45% or more, the heat-transformed α-type (Al, Zr)<sub>2</sub>O<sub>3</sub>
+layers exhibit excellent chipping resistance in high-speed
+intermittent cutting of steel or cast iron accompanied with
+very high mechanical and thermal impacts and high heat
+generation. As a result, occurrence of chipping in cutting
+edges is suppressed markedly and the excellent wear
+resistance is exhibited. To the contrary, in all the
+conventional coated cermet tools 1 to 13 in which the upper
+layers of the hard coating layers are composed of a
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layer showing an inclination angle
+frequency-distribution graph on which the distribution of
+measured inclination angles of the plane (0001) is unbiased
+in a range from 0 to 45 degrees, and the highest peak does
+not appear, the deposited α-type Al<sub>2</sub>O<sub>3</sub> layers could not
+resist to severe mechanical and thermal impacts in high-speed
+intermittent cutting to generate chipping in the 
+cutting edges, consequently shortening the usable life of
+the conventional cermet cutting tools.</p><heading>[Example 2]</heading><p num="0064">The following powders, each having a mean particle size
+in a range of 1 to 3 µm, were prepared as raw materials for
+substrates: WC powder, TiC powder, ZrC powder, VC powder,
+TaC powder, NbC powder, Cr<sub>3</sub>C<sub>2</sub> powder, TiN powder, TaN powder
+and Co powder. Those raw powders were compounded with each
+other based on the compounding compositions shown in Table 1,
+mixed with each other in an acetone solution having wax
+added thereto for 24 hours using a ball mill and were dried
+under reduced pressure. Thereafter, the resulting powder
+mixtures were press-formed into green compacts having
+predetermined shape at a pressure of 98 Mpa. The green
+compacts were then sintered in a vacuum under the following
+conditions: a pressure of 5 Pa, a predetermined temperature
+in a range of 1370 to 1470°C, and a holding duration of 1
+hour. After sintering, cutting edges were subjected to
+horning (R: 0.07 mm) to manufacture tool substrates A to F
+made of WC-based cemented carbide and having throwaway tip
+shapes defined in ISO·CNMG120408.</p><p num="0065">Further, the following powders, each having a mean
+particle size in a range of 0.5 to 2 µm, were prepared as
+raw materials for substrates: TiCN (TiC/TiN=50/50 in weight
+ratio) powder, Mo<sub>2</sub>C power, ZrC power, NbC powder, TaC powder, 
+WC power, Co powder and Ni powder. Those raw powders were
+compounded with each other based on the compounding
+composition shown in Table 2, wet-mixed with each other for
+24 hours using a ball mill and were dried. Thereafter, the
+resulting powder mixtures were press-formed into green
+compacts at a pressure of 98 MPa. The green compacts were
+then sintered in a nitrogen atmosphere under the following
+conditions: a pressure of 1.3 kPa, a temperature of 1540°C,
+and a holding duration of 1 hour. After sintering, cutting
+edges were subjected to horning (R: 0.07 mm) to manufacture
+tool substrates a to f made of TiCN-based cermet and having
+tip shapes defined in ISO Standard·CNMG120412.</p><p num="0066">Next, by using a general chemical vapor deposition
+reactor, on the surfaces of the tool substrates A to F and a
+to f, titanium compound layers as lower layers of the hard-coating
+layers were deposited with combinations and target
+layer thickness shown in Table 9 under conditions shown in
+Table 8 (in Table 8, 1-TiCN represents formation conditions
+of TiCN layers having a lengthwise growth crystal structure
+described in Japanese Unexamined Patent Application
+Publication No. 6-8010, and the others represent formation
+conditions of general granular crystal structure). Next,
+similarly, (Al, Cr)<sub>2</sub>O<sub>3</sub> layers having a κ-type or -type
+crystal structure were deposited with combinations and
+target layer thickness shown in Table 9 under conditions 
+shown in Table 8. Subsequently, on the surfaces of the (Al,
+Cr)<sub>2</sub>O<sub>3</sub> layers having a κ-type or -type crystal structure, a
+titanium oxide layer was deposited with combinations shown
+in Table 9 under conditions shown in Table 4. In this state,
+heat-transforming treatment was performed in an Ar
+atmosphere under the following conditions: a pressure of 30
+kPa, a temperature of 1100°C, and a predetermined holding
+duration in a range of 20 to 100 minutes to transform the
+(Al, Cr)<sub>2</sub>O<sub>3</sub> layers having a κ-type or -type crystal
+structure into (Al, Cr)<sub>2</sub>O<sub>3</sub> layers having an α-type crystal
+structure. As a result, coated cermet tools 1 to 13 of the
+present invention having the heat-transformed α-type (Al,
+Cr)<sub>2</sub>O<sub>3</sub> layers as upper layers of the hard-coating layers were
+manufactured, respectively.</p><p num="0067">Furthermore, in manufacturing the coated cermet tools 1
+to 13 of the present invention, separate test pieces are
+prepared, and those test pieces were loaded into the same
+chemical vapor deposition reactor. The test pieces were
+taken out of the chemical vapor deposition reactor at the
+time when the titanium oxide layers are formed on the
+surfaces of the test pieces, and compositions (value Y) and
+layer thickness of the titanium oxide layers were measured
+(the longitudinal sections of the layers were measured)
+using Auger Electron Spectroscopy or a scanning electron
+microscope. As a result, all the coated cermet tools showed 
+substantially the same compositions and average layer
+thickness (the average value of values measured at five
+points) as the target compositions and target layer
+thickness.</p><p num="0068">For the purpose of comparison, as shown in Table 10,
+the deposited α-type Al<sub>2</sub>O<sub>3</sub> layers as upper layers of the
+hard-coating layers with target layer thickness shown in
+Table 10 were formed under the same conditions as those
+shown in Table 8. Then, conventional cermet tools 1 to 13
+were manufactured under the same conditions as the above
+ones except that the formation of the titanium oxide layer
+and the heat-transforming treatment under the conditions
+mentioned above were not performed.</p><p num="0069">Next, an inclination angle frequency-distribution graph
+of the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> layers and the
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layers that constitute the hard-coating
+layers of the coated cermet tools of the present
+invention and conventional cermet tools was drawn up using a
+field-emission-type scanning electron microscope.</p><p num="0070">Specifically, the inclination angle frequency-distribution
+graphs were drawn up through the following
+steps. First, the test pieces tools are set in a lens-barrel
+of a field-emission-type scanning electron microscope,
+using the surfaces of the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub>
+layers and deposited α-type Al<sub>2</sub>O<sub>3</sub> layers thereof as surfaces 
+to be polished. Then, electron beam having an acceleration
+voltage of 15 kV are individually radiated on crystal grains
+having the hexagonal crystal lattice in a measuring range of
+the polished surfaces with an irradiating current of 1 nA at
+an incidence angle of 70 degrees with respect to the
+polished surfaces. Next, an inclination angle of a normal
+line of the plane (0001) as a crystal plane in which each of
+the crystal grains is formed with respect to a normal line
+of each of the polished surface was measured at an interval
+of 0.1 µm/step for an area of 30 x 50 µm, using an electron
+backscattering diffraction image device. Based on these
+measurement results, among all the measured inclination
+angles, the measured inclination angles in a range of 0 to
+45 degrees are sorted into several intervals at a pitch of
+0.25 degrees, and the frequencies in each sorted interval
+are summed up.</p><p num="0071">In the resulting inclination angle frequency-distribution
+graphs of the various heat-transformed α-type
+(Al, Cr)<sub>2</sub>O<sub>3</sub> layers and deposited α-type Al<sub>2</sub>O<sub>3</sub> layers, an
+inclination angle interval in which the plane (0001) shows
+the highest peak, and the ratio occupied by the inclination
+angle frequencies in an inclination angle interval ranging
+from 0 to 10 degrees to all the inclination angle
+frequencies on the inclination angle frequency-distribution
+graph is shown in Tables 9 and 10, respectively. </p><p num="0072">In the above various inclination angle frequency-distribution
+graphs, as shown in Tables 9 and 10,
+respectively, all the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub>
+layers of the coated cermet tool of the present invention
+show an inclination angle frequency-distribution graph on
+which the measured inclination angle distribution of the
+plane (0001) shows the highest peak in the inclination angle
+interval in a range of 0 to 10 degrees and on which the
+ratio of the inclination angle frequencies in the
+inclination angle interval ranging from 0 to 10 degrees is
+45% or more. To the contrary, all the deposited α-type Al<sub>2</sub>O<sub>3</sub>
+layers of the conventional coated cermet tools 1 to 13 show
+an inclination angle frequency-distribution graph on which
+the distribution of measured inclination angles of the plane
+(0001) is unbiased in a range of 0 to 45 degrees, the
+highest peak does not appear, and the ratio of the
+inclination angle frequencies in the inclination angle
+interval ranging from 0 to 10 degrees is 25% or less.</p><p num="0073">In addition, Fig. 3 illustrates an inclination angle
+frequency-distribution graph of the heat-transformed α-type
+(Al, Cr)<sub>2</sub>O<sub>3</sub> layer of the coated cermet tool 2 of the present
+invention, and Fig. 6 illustrates an angle frequency-distribution
+graph of the deposited α-type Al<sub>2</sub>O<sub>3</sub> layer of the
+conventional coated cermet tool 10.</p><p num="0074">Moreover, as for the coated cermet tools 1 to 13 of the 
+present invention and the conventional coated cermet tools 1
+to 13, when the layers that constitute the hard coating
+layers of the coated cermet tools are observed using an
+electron probe micro-analyzer (EPMA) or the Auger electron
+Spectroscopy (when the longitudinal sections of the layers
+are observed), it was found that all the coated cermet tools
+1 to 13 of the present invention are composed of a Ti
+compound layer and a heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub>
+layer, which have substantially the same compositions as the
+target compositions, and the Ti compound layer deposited
+before heat-transforming treatment also exists in the
+surface of the tools. On the other hand, it was found that
+all the conventional cermet tools 1 to 13 are composed of a
+Ti compound layer and a deposited α-type Al<sub>2</sub>O<sub>3</sub> layer, which
+have substantially the same compositions as the target
+compositions. Further, when the thickness of layers
+constituting the hard-coating layers of the coated cermet
+tools was measured by using a scanning electron microscope
+(similarly, the longitudinal sections of the layers were
+measured), all the coated cermet tools had substantially the
+same average layer thickness (the average value of values
+measured at five points) as the target layer thickness.</p><p num="0075">Next, in a state in which each of the above-mentioned
+various coated cermet tools was screw-fixed to a tip of a
+bite made of tool steel with a fixing jig, the coated cermet 
+tools 1 to 13 of the present invention and the conventional
+coated cermet tools 1 to 13 were subjected to the following
+tests:
+<sl><li>(1) a dry high-speed intermittent cutting test of
+alloyed steel (normal cutting speed is 200 m/min) under the
+following conditions:
+<sl><li>Workpiece: a JIS·SCM 440 round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 350 m/min,</li><li>Depth of cut: 1.5 mm,</li><li>Feed rate: 0.2 mm/rev,</li><li>Cutting time: 10 min,</li></sl></li><li>(2) a dry high-speed intermittent cutting test of
+carbon steel (normal cutting speed is 250 m/min) under the
+following conditions:
+<sl><li>Workpiece: a JIS·S30C round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 450 m/min,</li><li>Depth of cut: 2.0 mm,</li><li>Feed rate: 0.3 mm/rev,</li><li>Cutting time: 10 min,</li></sl></li><li>(3) a dry high-speed intermittent cutting test of cast
+iron (normal cutting speed is 250 m/min) under the following 
+conditions:
+<sl><li>Workpiece: a JIS·FC300 round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 400 m/min,</li><li>Depth of cut: 2.5 mm,</li><li>Feed rate: 0.25 mm/rev,</li><li>Cutting time: 10 min,</li></sl></li></sl>
+Then, the width of flank wear of a cutting edge was measured
+in each test. The measurement results are shown in Table 11. <tables><table><tgroup cols="5"><tbody><row><entry nameend="2" align="center" namest="1">Layer Constituting Hard Coating Layer</entry><entry nameend="5" align="center" namest="3">Formation Condition (kPa denotes pressure of reaction atmosphere, and °C denotes temperature thereof)</entry></row><row><entry align="center" namest="1">Type</entry><entry align="center" namest="2">Target Composition (atomic ratio)</entry><entry align="center" namest="3">Reaction Gas Composition (volume %)</entry><entry nameend="5" align="center" namest="4">Reaction Atmosphere</entry></row><row><entry align="center"/><entry align="center"/><entry align="center"/><entry align="center">Pressure</entry><entry align="center">Temperature</entry></row><row><entry align="center">TiC</entry><entry align="center">TiC</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CH<sub>4</sub>: 8.5%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1020</entry></row><row><entry align="center">TiN (First Layer)</entry><entry align="center">TiN</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 30%, H<sub>2</sub>: Balance</entry><entry align="center">30</entry><entry align="center">900</entry></row><row><entry align="center">TiN (Other Layers)</entry><entry align="center">TiN</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 35%, H<sub>2</sub>: Balance</entry><entry align="center">50</entry><entry align="center">1040</entry></row><row><entry align="center">1-TiCN</entry><entry align="center">1-TiC<sub>0.5</sub>N<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 20%, CH<sub>3</sub>CN: 0.6%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">900</entry></row><row><entry align="center">TiCN</entry><entry align="center">TiC<sub>0.5</sub>N<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>:20%, CH<sub>4</sub>: 4%, H<sub>2</sub>: Balance</entry><entry align="center">12</entry><entry align="center">1020</entry></row><row><entry align="center">TiCO</entry><entry align="center">TiC<sub>0.5</sub>O<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CO: 4%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1020</entry></row><row><entry align="center">TiCNO</entry><entry align="center">TiC<sub>0.3</sub>N<sub>0.3</sub>O<sub>0.4</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CO: 3%, CH<sub>4</sub>: 3%, N<sub>2</sub>: 20%, H<sub>2</sub>: Balance</entry><entry align="center">20</entry><entry align="center">1020</entry></row><row><entry align="center">Deposited α-type Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">α-Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">AlCl<sub>3</sub>: 2.2%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1000 </entry></row><row><entry align="center">Deposited κ-type MO:A</entry><entry align="center">Cr (Value X): 0.005</entry><entry align="center">AlCl<sub>3</sub>: 2.5%, CrCl<sub>3</sub>: 0.05%, CO<sub>2</sub>: 2.2%, HCl: 3%, H<sub>2</sub>S: 0.1%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:B</entry><entry align="center">Cr (Value X): 0.012</entry><entry align="center">AlCl<sub>3</sub>: 2.5%, CrCl<sub>3</sub>: 0.08%, CO<sub>2</sub>: 2.2%, HCl: 3%, H<sub>2</sub>S: 0.3%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry align="center">Deposited κ-type MO:C</entry><entry align="center">Cr (Value X): 0.02</entry><entry align="center">AlCl<sub>3</sub>: 2.3% CrCl<sub>3</sub>: 0.08%, CO<sub>2</sub>: 2.2%, HCl: 3%, H<sub>2</sub>S: 0.1%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:D</entry><entry align="center">Cr (Value X): 0.025</entry><entry align="center">AlCl<sub>3</sub>: 2.3%, CrCl<sub>3</sub>: 0.1%, CO<sub>2</sub>: 2.2%, HCl: 3%, H<sub>2</sub>S: 0.3%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry align="center">Deposited κ-type MO:E</entry><entry align="center">Cr (Value X): 0.03</entry><entry align="center">AlCl<sub>3</sub>: 2.2%, CrCl<sub>3</sub>: 0.1%, CO<sub>2</sub>: 2%, HCl: 3%, H<sub>2</sub>S: 0.1%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:F</entry><entry align="center">Cr (Value X): 0.035</entry><entry align="center">AlCl<sub>3</sub>: 2.2%, CrCl<sub>3</sub>: 0.12%, CO<sub>2</sub>: 2%, HCl: 3%, H<sub>2</sub>S: 0.3%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry align="center">Deposited κ-type MO:G</entry><entry align="center">Cr (Value X): 0.04</entry><entry align="center">AlCl<sub>3</sub>: 2.2%, CrCl<sub>3</sub>: 0.15%, CO<sub>2</sub>: 2%, HCl: 3%, H<sub>2</sub>S: 0.1%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry>[In Table 8, MO denotes (Al, Cr)<sub>2</sub>O<sub>3</sub>]</entry></row></tbody></tgroup></table></tables><img id="img-00840001" orientation="unknown" wi="164" img-format="tif" img-content="tb" file="00840001.tif" inline="no" he="213"/><img id="img-00850001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00850001.tif" inline="no"  he="213"/><img id="img-00860001" orientation="unknown" wi="160" img-format="tif" img-content="tb"  file="00860001.tif"  inline="no"  he="37"/><img id="img-00870001" orientation="unknown" wi="153" img-format="tif" img-content="tb" file="00870001.tif" inline="no" he="225"/><img id="img-00880001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00880001.tif" inline="no" he="220"/><img id="img-00890001" orientation="unknown" wi="162" img-format="tif" img-content="tb" file="00890001.tif" inline="no" he="48"/><img id="img-00900001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00900001.tif" inline="no" he="191"/><img id="img-00910001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00910001.tif" inline="no" he="208"/><img id="img-00920001" orientation="unknown" wi="165" img-format="tif" img-content="tb" file="00920001.tif" inline="no" he="135"/></p><p num="0076">As apparent from the results shown in Tables 9 to 11,
+in all the cermet tools 1 to 13 of the present invention in
+which the upper layers of the hard coating layers are
+composed of a heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub> showing an
+inclination angle frequency-distribution graph on which the
+inclination angle of the plane (0001) shows the highest peak
+in an inclination angle interval in a range of 0 to 10
+degrees and the ratio of the sum of frequencies in the
+inclination angle interval ranging from 0 to 10 degrees
+occupy 45% or more, the heat-transformed α-type (Al, Cr)<sub>2</sub>O<sub>3</sub>
+layers exhibit excellent chipping resistance in high-speed
+intermittent cutting of steel or cast iron accompanied with
+very high mechanical and thermal impacts and high heat
+generation. As a result, occurrence of chipping in cutting
+edges is suppressed markedly and the excellent wear
+resistance is exhibited. To the contrary, in all the
+conventional coated cermet tools 1 to 13 in which the upper
+layers of the hard coating layers are composed of a
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layer showing an inclination angle
+frequency-distribution graph on which the distribution of
+measured inclination angles of the plane (0001) is unbiased
+in a range from 0 to 45 degrees, and the highest peak does
+not appear, the deposited α-type Al<sub>2</sub>O<sub>3</sub> layers could not
+resist to severe mechanical and thermal impacts in high-speed
+intermittent cutting to generate chipping in the 
+cutting edges, consequently shortening the usable life of
+the conventional cermet cutting tools.</p><heading>[Example 3]</heading><p num="0077">The following powders, each having a mean particle size
+in a range of 1 to 3 µm, were prepared as raw materials for
+substrates: WC powder, TiC powder, ZrC powder, VC powder,
+TaC powder, NbC powder, Cr<sub>3</sub>C<sub>2</sub> powder, TiN powder, TaN powder
+and Co powder. Those raw powders were compounded with each
+other based on the compounding compositions shown in Table 1,
+mixed with each other in an acetone solution having wax
+added thereto for 24 hours using a ball mill and were dried
+under reduced pressure. Thereafter, the resulting powder
+mixtures were press-formed into green compacts having
+predetermined shape at a pressure of 98 Mpa. The green
+compacts were then sintered in a vacuum under the following
+conditions: a pressure of 5 Pa, a predetermined temperature
+in a range of 1370 to 1470°C, and a holding duration of 1
+hour. After sintering, cutting edges were subjected to
+horning (R: 0.07 mm) to manufacture tool substrates A to F
+made of WC-based cemented carbide and having throwaway tip
+shapes defined in ISO.CNMG120408.</p><p num="0078">Further, the following powders, each having a mean
+particle size in a range of 0.5 to 2 µm, were prepared as
+raw materials for substrates: TiCN (TiC/TiN=50/50 in weight
+ratio) powder, Mo<sub>2</sub>C power, Zrc power, NbC powder, TaC powder, 
+WC power, Co powder and Ni powder. Those raw powders were
+compounded with each other based on the compounding
+composition shown in Table 2, wet-mixed with each other for
+24 hours using a ball mill and were dried. Thereafter, the
+resulting powder mixtures were press-formed into green
+compacts at a pressure of 98 MPa. The green compacts were
+then sintered in a nitrogen atmosphere under the following
+conditions: a pressure of 1.3 kPa, a temperature of 1540°C,
+and a holding duration of 1 hour. After sintering, cutting
+edges were subjected to horning (R: 0.07 mm) to manufacture
+tool substrates a to f made of TiCN-based cermet and having
+tip shapes defined in ISO·Standard CNMG120412.</p><p num="0079">Next, by using a general chemical vapor deposition
+reactor, on the surfaces of the tool substrates A to F and a
+to f, titanium compound layers as lower layers of the hard-coating
+layers were deposited with combinations and target
+layer thickness shown in Table 13 under conditions shown in
+Table 12 (in Table 12, 1-TiCN represents formation
+conditions of TiCN layers having a lengthwise growth crystal
+structure described in Japanese Unexamined Patent
+Application Publication No. 6-8010, and the others represent
+formation conditions of general granular crystal structure).
+Next, similarly, (Al, Ti)<sub>2</sub>O<sub>3</sub> layers having a κ-type or -type
+crystal structure were deposited with combinations and
+target layer thickness shown in Table 13 under conditions 
+shown in Table 12. Subsequently, on the surfaces of the (Al,
+Ti)<sub>2</sub>O<sub>3</sub> layers having a κ-type or -type crystal structure, a
+titanium oxide layer was deposited with combinations shown
+in Table 13 under conditions shown in Table 4. In this
+state, heat-transforming treatment was performed in an Ar
+atmosphere under the following conditions: a pressure of 30
+kPa, a temperature of 1100°C, and a predetermined holding
+duration in a range of 20 to 100 minutes to transform the
+(Al, Ti)<sub>2</sub>O<sub>3</sub> layers having a κ-type or -type crystal
+structure into (Al, Ti)<sub>2</sub>O<sub>3</sub> layers having an α-type crystal
+structure. As a result, coated cermet tools 1 to 13 of the
+present invention having the heat-transformed α-type (Al,
+Ti)<sub>2</sub>O<sub>3</sub> layers as upper layers of the hard-coating layers were
+manufactured, respectively.</p><p num="0080">Furthermore, in manufacturing the coated cermet tools 1
+to 13 of the present invention, separate test pieces are
+prepared, and those test pieces were loaded into the same
+chemical vapor deposition reactor. The test pieces were
+taken out of the chemical vapor deposition reactor at the
+time when the titanium oxide layers are formed on the
+surfaces of the test pieces, and compositions (value Y) and
+layer thickness of the titanium oxide layers were measured
+(the longitudinal sections of the layers were measured)
+using Auger Electron Spectroscopy or a scanning electron
+microscope. As a result, all the coated cermet tools showed 
+substantially the same compositions and average layer
+thickness (the average value of values measured at five
+points) as the target compositions and target layer
+thickness.</p><p num="0081">For the purpose of comparison, as shown in Table 14,
+the deposited α-type Al<sub>2</sub>O<sub>3</sub> layers as upper layers of the
+hard-coating layers with target layer thickness shown in
+Table 14 were formed under the same conditions as those
+shown in Table 12. Then, conventional cermet tools 1 to 13
+were manufactured under the same conditions as the above
+ones except that the formation of the titanium oxide layer
+and the heat-transforming treatment under the conditions
+mentioned above were not performed.</p><p num="0082">Next, an inclination angle frequency-distribution graph
+of the heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> layers and the
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layers that constitute the hard-coating
+layers of the coated cermet tools of the present
+invention and conventional cermet tools was drawn up using a
+field-emission-type scanning electron microscope.</p><p num="0083">Specifically, the inclination angle frequency-distribution
+graphs were drawn up through the following
+steps. First, the test pieces tools are set in a lens-barrel
+of a field-emission-type scanning electron microscope,
+using the surfaces of the heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub>
+layers and deposited α-type Al<sub>2</sub>O<sub>3</sub> layers thereof as surfaces 
+to be polished. Then, electron beam having an acceleration
+voltage of 15 kV are individually radiated on crystal grains
+having the hexagonal crystal lattice in a measuring range of
+the polished surfaces with an irradiating current of 1 nA at
+an incidence angle of 70 degrees with respect to the
+polished surfaces. Next, an inclination angle of a normal
+line of the plane (0001) as a crystal plane in which each of
+the crystal grains is formed with respect to a normal line
+of each of the polished surface was measured at an interval
+of 0.1 µm/step for an area of 30 x 50 µm, using an electron
+backscattering diffraction image device. Based on these
+measurement results, among all the measured inclination
+angles, the measured inclination angles in a range of 0 to
+45 degrees are sorted into several intervals at a pitch of
+0.25 degrees, and the frequencies in each sorted interval
+are summed up.</p><p num="0084">In the resulting inclination angle frequency-distribution
+graphs of the various heat-transformed α-type
+(Al, Ti)<sub>2</sub>O<sub>3</sub> layers and deposited α-type Al<sub>2</sub>O<sub>3</sub> layers, an
+inclination angle interval in which the plane (0001) shows
+the highest peak, and the ratio occupied by the inclination
+angle frequencies in an inclination angle interval ranging
+from 0 to 10 degrees to all the inclination angle
+frequencies on the inclination angle frequency-distribution
+graph is shown in Tables 13 and 14, respectively. </p><p num="0085">In the above various inclination angle frequency-distribution
+graphs, as shown in Tables 13 and 14,
+respectively, all the heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub>
+layers of the coated cermet tool of the present invention
+show an inclination angle frequency-distribution graph on
+which the measured inclination angle distribution of the
+plane (0001) shows the highest peak in the inclination angle
+interval in a range of 0 to 10 degrees and on which the
+ratio of the inclination angle frequencies in the
+inclination angle interval ranging from 0 to 10 degrees is
+45% or more. To the contrary, all the deposited α-type Al<sub>2</sub>O<sub>3</sub>
+layers of the conventional coated cermet tools 1 to 13 show
+an inclination angle frequency-distribution graph on which
+the distribution of measured inclination angles of the plane
+(0001) is unbiased in a range of 0 to 45 degrees, the
+highest peak does not appear, and the ratio of the
+inclination angle frequencies in the inclination angle
+interval ranging from 0 to 10 degrees is 25% or less.</p><p num="0086">In addition, Fig. 4 illustrates an inclination angle
+frequency-distribution graph of the heat-transformed α-type
+(Al, Ti)<sub>2</sub>O<sub>3</sub> layer of the coated cermet tool 2 of the present
+invention, and Fig. 6 illustrates an angle frequency-distribution
+graph of the deposited α-type Al<sub>2</sub>O<sub>3</sub> layer of the
+conventional coated cermet tool 10.</p><p num="0087">Moreover, as for the coated cermet tools 1 to 13 of the 
+present invention and the conventional coated cermet tools 1
+to 13, when the layers that constitute the hard coating
+layers of the coated cermet tools are measured using an
+electron probe micro-analyzer (EPMA) or the Auger Electron
+Spectroscopy (when the longitudinal sections of the layers
+are observed), it was found that all the coated cermet tools
+1 to 13 of the present invention are composed of a Ti
+compound layer and a heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub>
+layer, which have substantially the same compositions as the
+target compositions, and the Ti compound layer deposited
+before heat-transforming treatment also exists in the
+surfaces of the tools. On the other hand, it was found that
+all the conventional cermet tools 1 to 13 are composed of a
+Ti compound layer and a deposited α-type Al<sub>2</sub>O<sub>3</sub> layer, which
+have substantially the same compositions as the target
+compositions. Further, when the thickness of layers
+constituting the hard-coating layers of the coated cermet
+tools was measured by using a scanning electron microscope
+(similarly, the longitudinal sections of the layers were
+measured), all the coated cermet tools had substantially the
+same average layer thickness (the average value of values
+measured at five points) as the target layer thickness.</p><p num="0088">Next, in a state in which each of the above-mentioned
+various coated cermet tools was screw-fixed to a tip of a
+bite made of tool steel with a fixing jig, the coated cermet 
+tools 1 to 13 of the present invention and the conventional
+coated cermet tools 1 to 13 were subjected to the following
+tests:
+<sl><li>(1) a dry high-speed intermittent cutting test of
+alloyed steel (normal cutting speed is 200 m/min) under the
+following conditions:
+<sl><li>Workpiece: a JIS·SCM 415 round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 400 m/min,</li><li>Depth of cut: 1.5 mm,</li><li>Feed rate: 0.35 mm/rev,</li><li>Cutting time: 5 min,</li></sl></li><li>(2) a dry high-speed intermittent cutting test of
+carbon steel (normal cutting speed is 250 m/min) under the
+following conditions:
+<sl><li>Workpiece: a JIS·S35C round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 450 m/min,</li><li>Depth of cut: 1.5 mm,</li><li>Feed rate: 0.25 mm/rev,</li><li>Cutting time: 5 min,</li></sl></li><li>(3) a dry high-speed intermittent cutting test of cast
+iron (normal cutting speed is 250 m/min) under the following 
+conditions:
+<sl><li>Workpiece: a JIS·FC150 round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 550 m/min,</li><li>Depth of cut: 1.5 mm,</li><li>Feed rate: 0.3 mm/rev,</li><li>Cutting time: 5 min,</li></sl></li></sl>
+Then, the width of flank wear of a cutting edge was measured
+in each test. The measurement results are shown in Table 15. <tables><table><tgroup cols="5"><tbody><row><entry nameend="2" align="center" namest="1">Layer Constituting Hard Coating Layer</entry><entry nameend="5" align="center" namest="3">Formation Condition (kPa denotes pressure of reaction atmosphere, and °C denotes temperature thereof)</entry></row><row><entry align="center" namest="1">Type</entry><entry align="center" namest="2">Target Composition (atomic ratio)</entry><entry align="center" namest="3">Reaction Gas Composition (volume %)</entry><entry nameend="5" align="center" namest="4">Reaction Atmosphere</entry></row><row><entry align="center"/><entry align="center"/><entry align="center"/><entry align="center">Pressure</entry><entry align="center">Temperature</entry></row><row><entry align="center">TiC</entry><entry align="center">TiC</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CH<sub>4</sub>: 8.5%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1020</entry></row><row><entry align="center">TiN (First Layer)</entry><entry align="center">TiN</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 30%, H<sub>2</sub>: Balance</entry><entry align="center">30</entry><entry align="center">900</entry></row><row><entry align="center">TiN (Other Layers)</entry><entry align="center">TiN</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 35%, H<sub>2</sub>: Balance</entry><entry align="center">50</entry><entry align="center">1040</entry></row><row><entry align="center">1-TiCN</entry><entry align="center">1-TiC<sub>0.5</sub>N<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 20%, CH<sub>3</sub>CN: 0.6%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">900</entry></row><row><entry align="center">TiCN</entry><entry align="center">TiC<sub>0.5</sub>N<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>:20%, CH<sub>4</sub>: 4%, H<sub>2</sub>: Balance</entry><entry align="center">12</entry><entry align="center">1020</entry></row><row><entry align="center">TiCO</entry><entry align="center">TiC<sub>0.5</sub>O<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CO: 4%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1020</entry></row><row><entry align="center">TiCNO</entry><entry align="center">TiC<sub>0.3</sub>N<sub>0.3</sub>O<sub>0.4</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CO: 3%, CH<sub>4</sub>: 3%, N<sub>2</sub>: 20%, H<sub>2</sub>: Balance</entry><entry align="center">20</entry><entry align="center">1020</entry></row><row><entry align="center">Deposited α-type Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">α-Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">AlCl<sub>3</sub>: 2.2%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1000 </entry></row><row><entry align="center">Deposited κ-type MO:A</entry><entry align="center">Ti (Value X): 0.01</entry><entry align="center">AlCl<sub>3</sub>: 3.27%, TiCl<sub>4</sub>: 0.03%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:B</entry><entry align="center">Ti (Value X): 0.015</entry><entry align="center">AlCl<sub>3</sub>: 4.24%, TiCl<sub>4</sub>: 0.07%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry align="center">Deposited κ-type MO:C</entry><entry align="center">Ti (Value X): 0.02</entry><entry align="center">AlCl<sub>3</sub>: 3.23% TiCl<sub>4</sub>: 0.07%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:D</entry><entry align="center">Ti (Value X): 0.025</entry><entry align="center">AlCl<sub>3</sub>: 4.19%, TiCl<sub>4</sub>: 0.11%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry align="center">Deposited κ-type MO:E</entry><entry align="center">Ti (Value X): 0.03</entry><entry align="center">AlCl<sub>3</sub>: 3.20%, TiCl<sub>4</sub>: 0.10%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:F</entry><entry align="center">Ti (Value X): 0.035</entry><entry align="center">AlCl<sub>3</sub>: 4.15%, TiCl<sub>4</sub>: 0.15%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry align="center">Deposited κ-type MO:G</entry><entry align="center">Ti (Value X): 0.04</entry><entry align="center">AlCl<sub>3</sub>: 3.17%, TiCl<sub>4</sub>: 0.13%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -type MO:H</entry><entry align="center">Ti (Value X): 0.05</entry><entry align="center">AlCl<sub>3</sub>: 4.09%, TiCl<sub>4</sub>: 0.22%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row><row><entry>[In Table 12, MO denotes (Al, Ti)<sub>2</sub>O<sub>3</sub>]</entry></row></tbody></tgroup></table></tables><img id="img-01050001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="01050001.tif" inline="no" he="195"/><img id="img-01060001" orientation="unknown" wi="164" img-format="tif" img-content="tb" file="01060001.tif" inline="no" he="207"/><img id="img-01070001" orientation="unknown" wi="161" img-format="tif" img-content="tb" file="01070001.tif" inline="no" he="38"/><img id="img-01080001" orientation="unknown" wi="165" img-format="tif" img-content="tb" file="01080001.tif" inline="no" he="215"/><img id="img-01090001" orientation="unknown" wi="162" img-format="tif" img-content="tb" file="01090001.tif" inline="no" he="218"/><img id="img-01100001" orientation="unknown" wi="162" img-format="tif" img-content="tb" file="01100001.tif" inline="no" he="32"/><img id="img-01110001" orientation="unknown" wi="164" img-format="tif" img-content="tb" file="01110001.tif" inline="no" he="208"/><img id="img-01120001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="01120001.tif" inline="no" he="216"/><img id="img-01130001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="01130001.tif" inline="no" he="121"/></p><p num="0089">As apparent from the results shown in Tables 13 to 15,
+in all the cermet tools 1 to 13 of the present invention in
+which the upper layers of the hard coating layers are
+composed of a heat-transformed α-type (Al, Ti)<sub>2</sub>O<sub>3</sub> showing an
+inclination angle frequency-distribution graph on which the
+inclination angle of the plane (0001) shows the highest peak
+in an inclination angle interval in a range of 0 to 10
+degrees and the ratio of the sum of frequencies in the
+inclination angle interval ranging from 0 to 10 degrees
+occupy 45% or more, the heat-transformed α-type (Al-Ti)<sub>2</sub>O<sub>3</sub>
+layers exhibit excellent chipping resistance in high-speed
+intermittent cutting of steel or cast iron accompanied with
+very high mechanical and thermal impacts and high heat
+generation. As a result, occurrence of chipping in cutting
+edges is suppressed markedly and the excellent wear
+resistance is exhibited. To the contrary, in all the
+conventional coated cermet tools 1 to 13 in which the upper
+layers of the hard coating layers are composed of a
+deposited α-type Al<sub>2</sub>O<sub>3</sub> layer showing an inclination angle
+frequency-distribution graph on which the distribution of
+measured inclination angles of the plane (0001) is unbiased
+in a range from 0 to 45 degrees, and the highest peak does
+not appear, the deposited α-type Al<sub>2</sub>O<sub>3</sub> layers could not
+resist to severe mechanical and thermal impacts in high-speed
+intermittent cutting to generate chipping in the 
+cutting edges, consequently shortening the usable life of
+the conventional cermet cutting tools.</p><heading>[Example 4]</heading><p num="0090">The following powders, each having a mean particle size
+in a range of 1 to 3 µm, were prepared as raw materials for
+substrates: WC powder, TiC powder, ZrC powder, VC powder,
+TaC powder, NbC powder, Cr<sub>3</sub>C<sub>2</sub> powder, TiN powder, TaN powder
+and Co powder. Those raw powders were compounded with each
+other based on the compounding compositions shown in Table 1,
+mixed with each other in an acetone solution having wax
+added thereto for 24 hours using a ball mill and were dried
+under reduced pressure. Thereafter, the resulting powder
+mixtures were press-formed into green compacts having
+predetermined shape at a pressure of 98 Mpa. The green
+compacts were then sintered in a vacuum under the following
+conditions: a pressure of 5 Pa, a predetermined temperature
+in a range of 1370 to 1470°C, and a holding duration of 1
+hour. After sintering, cutting edges were subjected to
+horning (R: 0.07 mm) to manufacture tool substrates A to F
+made of WC-based cemented carbide and having throwaway tip
+shapes defined in ISO·CNMG120408.</p><p num="0091">Further, the following powders, each having a mean
+particle size in a range of 0.5 to 2 µm, were prepared as
+raw materials for substrates: TiCN (TiC/TiN=50/50 in weight
+ratio) powder, Mo<sub>2</sub>C power, Zrc power, NbC powder, TaC powder, 
+WC power, Co powder and Ni powder. Those raw powders were
+compounded with each other based on the compounding
+composition shown in Table 2, wet-mixed with each other for
+24 hours using a ball mill and were dried. Thereafter, the
+resulting powder mixtures were press-formed into green
+compacts at a pressure of 98 MPa. The green compacts were
+then sintered in a nitrogen atmosphere under the following
+conditions: a pressure of 1.3 kPa, a temperature of 1540°C,
+and a holding duration of 1 hour. After sintering, cutting
+edges were subjected to horning (R: 0.07 mm) to manufacture
+tool substrates a to f made of TiCN-based cermet and having
+tip shapes defined in ISO Standard·CNMG120412.</p><p num="0092">Next, by using a general chemical vapor deposition
+reactor, on the surfaces of the tool substrates A to F and a
+to f, titanium compound layers as lower layers of the hard-coating
+layers were deposited with combinations and target
+layer thickness shown in Table 17 under conditions shown in
+Table 16 (in Table 16, 1-TiCN represents formation
+conditions of TiCN layers having a lengthwise growth crystal
+structure described in Japanese Unexamined Patent
+Application Publication No. 6-8010, and the others represent
+formation conditions of general granular crystal structure).
+Next, similarly, the deposited κ, -Al<sub>2</sub>O<sub>3</sub> layers were
+deposited with combinations and target layer thickness shown
+in Table 17 under conditions shown in Table 16. 
+Subsequently, on the surfaces of the deposited κ, -Al<sub>2</sub>O<sub>3</sub>
+layers, a titanium oxide thin layer was deposited with
+combinations shown in Table 17 under conditions shown in
+Table 4. Heat-transforming treatment was performed in an Ar
+atmosphere under the following conditions: a pressure of 30
+kPa, a temperature of 1100°C, and a predetermined holding
+duration in a range of 10 to 60 minutes to transform the
+deposited κ, -Al<sub>2</sub>O<sub>3</sub> layers into Al<sub>2</sub>O<sub>3</sub> layers having an α-type
+crystal structure. As a result, coated cermet tools 1 to 13
+of the present invention having the transformed α-Al<sub>2</sub>O<sub>3</sub>
+layers as upper layers of the hard coating layers were
+manufactured, respectively.</p><p num="0093">Furthermore, in manufacturing the coated cermet tools 1
+to 13 of the present invention, separate test pieces are
+prepared, and those test pieces were loaded into the same
+chemical vapor deposition reactor. The test pieces were
+taken out of the chemical vapor deposition reactor at the
+time when the thin titanium oxide thin layers are formed on
+the surfaces of the test pieces, and compositions (value X)
+and average layer thickness (µm) of the thin titanium oxide
+thin layer were measured (the longitudinal sections of the
+layers were measured) using Auger Electron Spectroscopy or a
+transmission electron microscope.</p><p num="0094">For the purpose of comparison, as shown in Table 18,
+the deposited α-type Al<sub>2</sub>O<sub>3</sub> layers as upper layers of the 
+hard-coating layers with target layer thickness shown in
+Table 18 were formed under the same conditions as those
+shown in Table 16. Then, conventional cermet tools 1 to 13
+were manufactured under the same conditions as the above
+ones except that the formation of the titanium oxide thin
+layer and the heat-transforming treatment under the
+conditions mentioned above were not performed.</p><p num="0095">Next, an inclination angle frequency-distribution graph
+of the heat-transformed α-type Al<sub>2</sub>O<sub>3</sub> layers and the deposited
+α-type Al<sub>2</sub>O<sub>3</sub> layers that constitute the hard-coating layers
+of the coated cermet tools of the present invention and
+conventional cermet tools was drawn up using a field-emission-type
+scanning electron microscope.</p><p num="0096">Specifically, the inclination angle frequency-distribution
+graphs were drawn up through the following
+steps. First, the test pieces tools are set in a lens-barrel
+of a field-emission-type scanning electron microscope,
+using the surfaces of the transformed α-Al<sub>2</sub>O<sub>3</sub> layers and
+deposited α-Al<sub>2</sub>O<sub>3</sub> layers thereof as surfaces to be polished.
+Then, electron beam having an acceleration voltage of 15 kV
+are individually radiated on crystal grains having the
+hexagonal crystal lattice in a measuring range of the
+polished surfaces with an irradiating current of 1 nA at an
+incidence angle of 70 degrees with respect to the polished
+surfaces. Next, an inclination angle of a normal line of 
+the plane (0001) as a crystal plane in which each of the
+crystal grains is formed with respect to a normal line of
+each of the polished surface was measured at an interval of
+0.1 µm/step for an area of 30 x 50 µm, using an electron
+backscattering diffraction image device. Based on these
+measurement results, among all the measured inclination
+angles, the measured inclination angles in a range of 0 to
+45 degrees are sorted into several intervals at a pitch of
+0.25 degrees, and the frequencies in each sorted interval
+are summed up.</p><p num="0097">In the resulting inclination angle frequency-distribution
+graphs of the various heat-transformed α-Al<sub>2</sub>O<sub>3</sub>
+layers and deposited α-Al<sub>2</sub>O<sub>3</sub> layers, an inclination angle
+interval in which the plane (0001) shows the highest peak,
+and the ratio occupied by the inclination angle frequencies
+in an inclination angle interval ranging from 0 to 10
+degrees to all the inclination angle frequencies on the
+inclination angle frequency-distribution graph is shown in
+Tables 17 and 18, respectively.</p><p num="0098">In the above various inclination angle frequency-distribution
+graphs, as shown in Tables 17 and 18,
+respectively, all the α-Al<sub>2</sub>O<sub>3</sub> layers of the coated cermet
+tool of the present invention show an inclination angle
+frequency-distribution graph on which the measured
+inclination angle distribution of the plane (0001) shows the 
+highest peak in the inclination angle interval in a range of
+0 to 10 degrees and on which the ratio of the inclination
+angle frequencies in the inclination angle interval ranging
+from 0 to 10 degrees is 45% or more. To the contrary, all
+the deposited α-Al<sub>2</sub>O<sub>3</sub> layers of the conventional coated
+cermet tools 1 to 13 show an inclination angle frequency-distribution
+graph on which the distribution of measured
+inclination angles of the plane (0001) is unbiased in a
+range of 0 to 45 degrees, the highest peak does not appear,
+and the ratio of the inclination angle frequencies in the
+inclination angle interval ranging from 0 to 10 degrees is
+25% or less.</p><p num="0099">In addition, Fig. 5 illustrates an inclination angle
+frequency-distribution graph of the transformed α-Al<sub>2</sub>O<sub>3</sub> layer
+of the coated cermet tool 9 of the present invention, and
+Fig. 6 illustrates an angle frequency-distribution graph of
+the deposited α-Al<sub>2</sub>O<sub>3</sub> layer of the conventional coated cermet
+tool 10.</p><p num="0100">Moreover, as for the resulting coated cermet tools 1 to
+13 of the present invention and the resulting conventional
+coated cermet tools 1 to 13, when the layers that constitute
+the hard coating layers of the coated cermet tools are
+measured using the Auger Electron Spectroscopy (when the
+longitudinal sections of the layers are observed), it was
+found that all the coated cermet tools 1 to 13 of the 
+present invention are composed of a Ti compound layer and a
+transformed α-Al<sub>2</sub>O<sub>3</sub> layer, which have substantially the same
+compositions as the target compositions, and the Ti compound
+layer deposited in the surfaces of the tools before heat-transforming
+treatment also has the substantially the same
+compositions in the above measurement as the target
+compositions. On the other hand, it was found that all the
+conventional cermet tools 1 to 13 are composed of a Ti
+compound layer and a deposited α-type Al<sub>2</sub>O<sub>3</sub> layer, which have
+substantially the same compositions as the target
+compositions. Moreover, when the thickness of layers
+constituting the hard coating layers of the coated cermet
+tools was measured by using a scanning electron microscope
+(similarly, the longitudinal sections of the layers were
+measured), all the coated cermet tools had substantially the
+same average layer thickness (the average value of values
+measured at five points) as the target layer thickness.</p><p num="0101">Next, in a state in which each of the above-mentioned
+various coated cermet tools was screw-fixed to a tip of a
+bite made of tool steel with a fixing jig, the coated cermet
+tools 1 to 13 of the present invention and the conventional
+coated cermet tools 1 to 13 were subjected to the following
+tests:
+<sl><li>(1) a dry high-speed intermittent cutting test of
+alloyed steel (normal cutting speed is 200 m/min) under the 
+following conditions:
+<sl><li>Workpiece: a JIS·SCr 420H round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 380 m/min,</li><li>Depth of cut: 1.5 mm,</li><li>Feed rate: 0.2 mm/rev,</li><li>Cutting time: 10 min,</li></sl></li><li>(2) a dry high-speed intermittent cutting test of
+carbon steel (normal cutting speed is 200 m/min) under the
+following conditions:
+<sl><li>Workpiece: a JIS.S40C round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 350 m/min,</li><li>Depth of cut: 1.0 mm,</li><li>Feed rate: 0.25 mm/rev,</li><li>Cutting time: 10 min,</li></sl></li><li>(3) a dry high-speed intermittent cutting test of cast
+iron (normal cutting speed is 200 m/min) under the following
+conditions:
+<sl><li>Workpiece: a JIS·FCD450 round bar having four
+longitudinal grooves equidistantly arranged in the
+longitudinal direction,</li><li>Cutting speed: 400 m/min, </li><li>Depth of cut: 1.5 mm,</li><li>Feed rate: 0.3 mm/rev,</li><li>Cutting time: 10 min,</li></sl></li></sl>
+Then, the width of flank wear of a cutting edge was measured
+in each test. The measurement results are shown in Table 19. <tables><table><tgroup cols="5"><tbody><row><entry nameend="2" align="center" namest="1">Layer Constituting Hard Coating Layer</entry><entry nameend="5" align="center" namest="3">Formation Condition (kPa denotes pressure of reaction atmosphere, and °C denotes temperature thereof)</entry></row><row><entry align="center" namest="1">Type</entry><entry align="center" namest="2">Target Composition (atomic ratio)</entry><entry align="center" namest="3">Reaction Gas Composition (volume %)</entry><entry nameend="5" align="center" namest="4">Reaction Atmosphere</entry></row><row><entry align="center"/><entry align="center"/><entry align="center"/><entry align="center">Pressure</entry><entry align="center">Temperature</entry></row><row><entry align="center">TiC</entry><entry align="center">TiC</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CH<sub>4</sub>: 8.5%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1020</entry></row><row><entry align="center">TiN (First Layer)</entry><entry align="center">TiN</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 30%, H<sub>2</sub>: Balance</entry><entry align="center">30</entry><entry align="center">900</entry></row><row><entry align="center">TiN (Other Layers)</entry><entry align="center">TiN</entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 35%, H<sub>2</sub>: Balance</entry><entry align="center">50</entry><entry align="center">1040</entry></row><row><entry align="center">1-TiCN</entry><entry align="center">1-TiC<sub>0.5</sub>N<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>: 20%, CH<sub>3</sub>CN: 0.6%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">900</entry></row><row><entry align="center">TiCN</entry><entry align="center">TiC<sub>0.5</sub>N<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, N<sub>2</sub>:20%, CH<sub>4</sub>: 4%, H<sub>2</sub>: Balance</entry><entry align="center">12</entry><entry align="center">1020</entry></row><row><entry align="center">TiCO</entry><entry align="center">TiC<sub>0.5</sub>O<sub>0.5</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CO: 4%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">1020</entry></row><row><entry align="center">TiCNO</entry><entry align="center">TiC<sub>0.3</sub>N<sub>0.3</sub>O<sub>0.4</sub></entry><entry align="center">TiCl<sub>4</sub>: 4.2%, CO: 3%, CH<sub>4</sub>: 3%, N<sub>2</sub>: 20%, H<sub>2</sub>: Balance</entry><entry align="center">20</entry><entry align="center">1020</entry></row><row><entry align="center">Deposited α-Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">α-Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">AlCl<sub>3</sub>: 2.2%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>:</entry><entry align="center">7</entry><entry align="center">1000 </entry></row><row><entry align="right"/><entry align="right"/><entry align="center">Balance</entry></row><row><entry align="center">Deposited κ-Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">κ-Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">AlCl<sub>3</sub>: 3.3%, CO<sub>2</sub>: 5.5%, HCl: 2.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">950</entry></row><row><entry align="center">Deposited -Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">-Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">AlCl<sub>3</sub>: 4.3%, CO<sub>2</sub>: 5.5%, HCl: 1.2%, H<sub>2</sub>S: 0.2%, H<sub>2</sub>: Balance</entry><entry align="center">7</entry><entry align="center">800</entry></row></tbody></tgroup></table></tables><img id="img-01260001" orientation="unknown" wi="164" img-format="tif" img-content="tb" file="01260001.tif" inline="no" he="199"/><img id="img-01270001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="01270001.tif" inline="no" he="193"/><img id="img-01280001" orientation="unknown" wi="164" img-format="tif" img-content="tb" file="01280001.tif" inline="no" he="207"/><img id="img-01290001" orientation="unknown" wi="161" img-format="tif" img-content="tb" file="01290001.tif" inline="no" he="226"/><img id="img-01300001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="01300001.tif" inline="no" he="35"/><img id="img-01310001" orientation="unknown" wi="164" img-format="tif" img-content="tb" file="01310001.tif" inline="no" he="203"/><img id="img-01320001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="01320001.tif" inline="no" he="210"/><img id="img-01330001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="01330001.tif" inline="no" he="133"/></p><p num="0102">As apparent from the results shown in Tables 17 to 19,
+in all the cermet tools 1 to 13 of the present invention in
+which the upper layers of the hard coating layers are
+composed of a transformed α-Al<sub>2</sub>O<sub>3</sub> showing an inclination
+angle frequency-distribution graph on which the inclination
+angle of the plane (0001) shows the highest peak in an
+inclination angle interval in a range of 0 to 10 degrees and
+the ratio of the sum of frequencies in the inclination angle
+interval ranging from 0 to 10 degrees occupy 45% or more,
+the transformed α-Al<sub>2</sub>O<sub>3</sub> layers exhibit excellent chipping
+resistance in high-speed intermittent cutting of steel or
+cast iron accompanied with very high mechanical and thermal
+impacts and high heat generation. As a result, occurrence
+of chipping in cutting edges is suppressed markedly and the
+excellent wear resistance is exhibited. To the contrary, in
+all the conventional coated cermet tools 1 to 13 in which
+the upper layers of the hard coating layers are composed of
+a deposited α-Al<sub>2</sub>O<sub>3</sub> layer showing an inclination angle
+frequency-distribution graph on which the distribution of
+measured inclination angles of the plane (0001) is unbiased
+in a range from 0 to 45 degrees, and the highest peak does
+not appear, the deposited α-Al<sub>2</sub>O<sub>3</sub> layers could not resist to
+severe mechanical and thermal impacts in high-speed
+intermittent cutting to generate chipping in the cutting
+edges, consequently shortening the usable life of the 
+conventional cermet cutting tools.</p><p num="0103">As described above, the coated cermet tools of the
+present invention exhibit excellent chipping resistance not
+only in continuous cutting or intermittent cutting of
+various materials such as steel and cast iron under normal
+conditions but also in high-speed intermittent cutting work
+having severe cutting conditions, and exhibit excellent
+cutting performance for a prolonged period of time.
+Accordingly, it is possible to sufficiently and
+satisfactorily cope with the demand for high performance of
+a cutting device, labor saving and energy saving in cutting
+work, and cost reduction.</p><p num="0104">Further, the coated cermet tools of the present
+invention exhibit excellent chipping resistance not only in
+continuous cutting or intermittent cutting of various
+materials such as steel and cast iron under normal
+conditions but also in high-speed intermittent cutting under
+the severest cutting condition accompanied with very high
+mechanical and thermal impacts and high heat generation, and
+exhibit excellent cutting performance for a prolonged period
+of time. Accordingly, it is possible to sufficiently and
+satisfactorily cope with the demand for high performance of
+a cutting device, labor saving and energy saving in cutting
+work, and cost reduction. </p><heading>[Name of Document] DRAWINGS</heading><p num="0105"><sl><li>[Fig. 1] (a)
+<sl><li>NORMAL LINE OF POLISHED SURFACE</li><li>NORMAL LINE OF PLANE (0001)</li><li>INCLINATION ANGLE OF PLANE (0001): 0 DEGREE</li><li>POLISHED SURFACE</li></sl></li><li>[Fig. 1] (b)
+<sl><li>NORMAL LINE OF POLISHED SURFACE</li><li>NORMAL LINE OF PLANE (0001)</li><li>INCLINATION ANGLE OF PLANE (0001): 45 DEGREES</li><li>POLISHED SURFACE</li></sl></li><li>[Fig. 2]
+<sl><li>INCLINATION ANGLE INTERVAL (DEGREES)</li><li>SUMMED FREQUENCY</li></sl></li><li>[Fig. 3]
+<sl><li>INCLINATION ANGLE INTERVAL (DEGREES)</li><li>SUMMED FREQUENCY</li></sl></li><li>[Fig. 4]
+<sl><li>INCLINATION ANGLE INTERVAL (DEGREES)</li><li>SUMMED FREQUENCY</li></sl></li><li>[Fig. 5]
+<sl><li>INCLINATION ANGLE INTERVAL (DEGREES)</li><li>SUMMED FREQUENCY</li></sl></li><li>[Fig. 6]
+<sl><li>INCLINATION ANGLE INTERVAL (DEGREES)</li><li>SUMMED FREQUENCY</li></sl></li></sl></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A surface-coated cermet cutting tool with a hard-coating
+layer having excellent chipping resistance,
+   wherein the surface-coated cermet cutting tool is
+formed by coating, on a surface of a tool substrate made of
+tungsten carbide-based cemented carbide or titanium
+carbonitride-based cermet, a hard-coating layer composed of
+the following upper and lower layers (a) and (b):
+<claim-text><claim-text>(a) as the lower layer, a titanium compound layer
+having at least one or two of a titanium carbide layer, a
+titanium nitride layer, a titanium carbonitride layer, a
+titanium carboxide layer and a titanium oxycarbonitride
+layer, all of which are deposited by chemical vapor
+deposition, the titanium compound layer having a total
+average layer thickness of 3 to 20 µm, and</claim-text><claim-text>(b) as the upper layer, a heat-transformed α-type Al-Zr
+oxide layer formed by carrying out a heat-transforming
+treatment in a state that a titanium oxide layer satisfying
+the composition formula: TiOY, (where value Y is 1.2 to 1.9
+in an atomic ratio to Ti when measured by Auger Electron
+Spectroscopy) and having an average layer thickness of 0.05
+to 1.5 µm is chemically deposited on a surface of an Al-Zr
+oxide layer having a κ-type or -type crystal structure
+deposited by chemical vapor deposition and satisfying the
+composition formula: (Al1-xZrx)2O3 (where value X is 0.003 to
+0.05 in an atomic ratio when measured by an electron probe
+micro-analyzer (EPMA)) to thereby transform the crystal
+structure of the Al-Zr oxide layer having the κ-type or -type
+crystal structure into an α-type crystal structure,</claim-text></claim-text>
+   wherein the heat-transformed α-type Al-Zr oxide layer
+shows an inclination angle frequency-distribution graph on
+which a highest peak appears in an inclination angle
+interval in a range of 0 to 10 degrees and the sum of
+frequencies in a range of 0 to 10 degrees occupies 45% or
+more of the total sum of frequencies on the inclination
+angle frequency-distribution graph, in which the inclination
+angle frequency-distribution graph is obtained from results
+of radiating electron beam onto crystal grains having a
+hexagonal crystal lattice in a measuring range of surfaces
+to be polished using a field-emission-type scanning electron
+microscope, measuring an inclination angle of a normal line
+of the plane (0001) as a crystal plane in which each of the
+crystal grains is formed with respect to each of the
+polished surfaces, sorting the measured inclination angles
+in a range of 0 to 45 degrees among all the measured
+inclination angles into several intervals at a pitch of 0.25
+degrees, and summing up the frequencies in each of the
+intervals, and
+   wherein the heat-transformed α-type Al-Zr oxide layer
+has an average layer thickness of 1 to 15 µm.</claim-text></claim><claim num="2"><claim-text>A surface-coated cermet cutting tool with a hard-coating
+layer having excellent chipping resistance,
+   wherein the surface-coated cermet cutting tool is
+formed by coating, on a surface of a tool substrate made of
+tungsten carbide-based cemented carbide or titanium
+carbonitride-based cermet, the hard-coating layer composed
+of the following upper and lower layers (a) and (b):
+<claim-text><claim-text>(a) as the lower layer, a titanium compound layer
+having at least one or two of a titanium carbide layer, a
+titanium nitride layer, a titanium carbonitride layer, a
+titanium carboxide layer and a titanium oxycarbonitride
+layer, all of which are deposited by chemical vapor
+deposition, and the titanium compound layer having a total
+average layer thickness of 3 to 20 µm, and</claim-text><claim-text>(b) as the upper layer, a heat-transformed α-type Al-Cr
+oxide layer formed by carrying out a heat-transforming
+treatment in a state that a titanium oxide layer satisfying
+the composition formula: TiOY, (where value Y is 1.2 to 1.9
+in an atomic ratio to Ti when measured by Auger Electron
+Spectroscopy) and having an average layer thickness of 0.1
+to 2 µm is chemically deposited on a surface of an Al-Cr
+oxide layer having a κ-type or -type crystal structure
+deposited by chemical vapor deposition and satisfying the
+composition formula: (Al1-xCrx)2O3 (where value X is 0.005 to
+0.04 in an atomic ratio when measured by an electron probe
+micro-analyzer (EPMA)) to thereby transform the crystal
+structure of the Al-Cr oxide layer having the κ-type or -type
+crystal structure into an α-type crystal structure,</claim-text></claim-text>
+   wherein the heat-transformed α-type Al-Cr oxide layer
+shows an inclination angle frequency-distribution graph on
+which a highest peak appears in an inclination angle
+interval in a range of 0 to 10 degrees and the sum of
+frequencies in a range of 0 to 10 degrees occupies 45% or
+more of the total sum of frequencies on the inclination
+angle frequency-distribution graph, in which the inclination
+angle frequency-distribution graph is obtained from the
+results of radiating electron beam onto crystal grains
+having a hexagonal crystal lattice in a measuring range of
+surfaces to be polished using a field-emission-type scanning
+electron microscope, measuring an inclination angle of a
+normal line of the plane (0001) as a crystal plane in which
+each of the crystal grains is formed with respect to each of
+the polished surfaces, sorting the measured inclination
+angles in a range of 0 to 45 degrees among all the measured
+inclination angles into several intervals at a pitch of 0.25
+degrees, and summing up the frequencies in each of the
+intervals, and wherein the heat-transformed α-type Al-Cr
+oxide layer has an average layer thickness of 1 to 15 µm.</claim-text></claim><claim num="3"><claim-text>A surface-coated cermet cutting tool with a hard-coating
+layer having excellent chipping resistance,
+   wherein the surface-coated cermet cutting tool is
+formed by coating, on a surface of a tool substrate made of
+tungsten carbide-based cemented carbide or titanium
+carbonitride-based cermet, the hard-coating layer composed
+of the following upper and lower layers (a) and (b):
+<claim-text><claim-text>(a) as the lower layer, a titanium compound layer
+having at least one or two of a titanium carbide layer, a
+titanium nitride layer, a titanium carbonitride layer, a
+titanium carboxide layer and a titanium oxycarbonitride
+layer, all of which are deposited by chemical vapor
+deposition, and the titanium compound layer having a total
+average layer thickness of 3 to 20 µm, and</claim-text><claim-text>(b) as the upper layer, a heat-transformed α-type Al-Ti
+oxide layer formed by carrying out a heat-transforming
+treatment in a state that a titanium oxide layer satisfying
+the composition formula: TiOY, (where value Y is 1.2 to 1.9
+in an atomic ratio to Ti when measured by Auger Electron
+Spectroscopy) and having an average layer thickness of 0.05
+to 1.5 µm is chemically deposited on a surface of an Al-Ti
+oxide layer having a κ-type or -type crystal structure
+deposited by chemical vapor deposition and satisfying the
+composition formula: (Al1-xTix)2O3 (where value X is 0.01 to
+0.05 in an atomic ratio when measured by an electron probe
+micro-analyzer (EPMA)) to thereby transform the crystal
+structure of the Al-Ti oxide layer having the κ-type or -type
+crystal structure into an α-type crystal structure,</claim-text></claim-text>
+   wherein the heat-transformed α-type Al-Ti oxide layer
+shows an inclination angle frequency-distribution graph on
+which a highest peak appears in an inclination angle
+interval in a range of 0 to 10 degrees and the sum of
+frequencies in a range of 0 to 10 degrees occupies 45% or
+more of the total sum of frequencies on the inclination
+angle frequency-distribution graph, in which the inclination
+angle frequency-distribution graph is obtained from the
+results of radiating electron beam onto crystal grains
+having a hexagonal crystal lattice in a measuring range of
+surfaces to be polished using a field-emission-type scanning
+electron microscope, measuring an inclination angle of a
+normal line of the plane (0001) as a crystal plane in which
+each of the crystal grains is formed with respect to each of
+the polished surfaces, sorting the measured inclination
+angles in a range of 0 to 45 degrees among all the measured
+inclination angles into several intervals at a pitch of 0.25
+degrees, and summing up the frequencies in each of the
+intervals, and
+   wherein the heat-transformed α-type Al-Ti oxide layer
+has an average layer thickness of 1 to 15 µm.</claim-text></claim><claim num="4"><claim-text>A surface-coated cermet cutting tool with a hard-coating
+layer having excellent chipping resistance,
+   wherein the surface-coated cermet cutting tool being
+formed by coating, on a surface of a tool substrate made of
+tungsten carbide-based cemented carbide or titanium
+carbonitride-based cermet, the hard-coating layer composed
+of the following upper and lower layers (a) and (b):
+<claim-text><claim-text>(a) as the lower layer, a titanium compound layer
+having at least one or two of a titanium carbide layer, a
+titanium nitride layer, a titanium carbonitride layer, a
+titanium carboxide layer and a titanium oxycarbonitride
+layer, all of which are deposited by chemical vapor
+deposition, the titanium compound layer having a total
+average layer thickness of 3 to 20 µm, and</claim-text><claim-text>(b) as the upper layer, a heat-transformed α-type
+aluminum oxide layer formed by carrying out a heat-transforming
+treatment in a state that a titanium oxide thin
+layer satisfying the composition formula: TiOx, (where value
+X to Ti is 1.2 to 1.9 in an atomic ratio when measured by
+Auger Electron Spectroscopy) and having an average layer
+thickness of 0.05 to 1.0 µm is chemically deposited on a
+surface of a heat-transformed aluminum oxide layer having a
+κ-type or -type crystal structure deposited by chemical
+vapor deposition to thereby transform the crystal structure
+of the aluminum oxide layer having the κ-type or -type
+crystal structure into an α-type crystal structure,</claim-text></claim-text>
+   wherein the heat-transformed α-type aluminum oxide
+layer shows an inclination angle frequency-distribution
+graph on which a highest peak appears in an inclination
+angle interval in a range of 0 to 10 degrees and the sum of
+frequencies in a range of 0 to 10 degrees occupies 45% or
+more of the total sum of frequencies on the inclination
+angle frequency-distribution graph, in which the inclination
+angle frequency-distribution graph is obtained from results
+of radiating electron beam onto crystal grains having a
+hexagonal crystal lattice in a measuring range of surfaces
+to be polished using a field-emission-type scanning electron
+microscope, measuring an inclination angle of a normal line
+of the plane (0001) as a crystal plane in which each of the
+crystal grains is formed with respect to each of the
+polished surfaces, sorting the measured inclination angles
+in a range of 0 to 45 degrees among all the measured
+inclination angles into several intervals at a pitch of 0.25
+degrees, and summing up the frequencies in each of the
+intervals, and wherein the heat-transformed α-type
+aluminum oxide layer has an average layer thickness of 1 to
+15 µm.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1022115-A1" country="EP" doc-number="1022115" kind="A1" lang="EN" family-id="26814356" status="new" date-produced="20090516" date="20000726"><bibliographic-data><publication-reference ucid="EP-1022115-A1" status="new" fvid="22879892"><document-id status="new" format="original"><country>EP</country><doc-number>1022115</doc-number><kind>A1</kind><date>20000726</date></document-id></publication-reference><application-reference ucid="EP-00300413-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00300413</doc-number><kind>A</kind><date>20000120</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-11655299-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>11655299</doc-number><kind>P</kind><date>19990121</date></document-id></priority-claim><priority-claim ucid="US-48019300-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>48019300</doc-number><kind>A</kind><date>20000110</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B29C  47/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B29C  47/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B29C  70/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B29C  70/64        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B29K  33/04        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">B29K 105/24        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   3/12        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   3/12        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   3/24        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   3/24        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   5/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   5/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08K  13/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08K  13/04        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L  25/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L  25/06        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L  33/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08L  33/08        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L  33/10        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L  33/12        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B29C  47/00B</classification-symbol><classification-symbol scheme="EC">B29C  70/64</classification-symbol><classification-symbol scheme="EC">C08L  33/12+B2</classification-symbol><classification-symbol scheme="ICO">M08L205:02</classification-symbol><classification-symbol scheme="ICO">M08L205:18</classification-symbol><classification-symbol scheme="ICO">M08L205:22</classification-symbol><classification-symbol scheme="ICO">M08L33:12</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Polymere Gegenstände mit strukturierter Oberfläche und mattem Aussehen</invention-title><invention-title load-source="ep" status="new" lang="EN">Polymeric articles having a textured surface and frosted appearance</invention-title><invention-title load-source="ep" status="new" lang="FR">Articles polymères ayant une surface texturée et un aspect mat</invention-title><citations><patent-citations><patcit ucid="EP-0596290-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0596290</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0786494-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0786494</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="GB-2220002-A" status="new"><document-id status="new" format="epo"><country>GB</country><doc-number>2220002</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-1236257-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>1236257</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="Y"/></sources></patcit><patcit ucid="US-3345434-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>3345434</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-3883617-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>3883617</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-3992486-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>3992486</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4000216-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4000216</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4464513-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4464513</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1997014749-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1997014749</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN vol. 013, no. 569 (C-666), 15 December 1989 (1989-12-15) &amp; JP 01 236257 A (MITSUBISHI RAYON CO LTD), 21 September 1989 (1989-09-21)</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>ATOCHEM ELF SA</name><address><country>FR</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ATOFINA</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Elf Atochem S.A.</last-name><address><street>4 - 8, Cours Michelet, La Defense 10</street><city>92800 Puteaux</city><country>FR</country></address></addressbook></applicant></applicants><inventors><inventor status="new"  format="epo"><addressbook><name>CLARK RALPH H</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>COHEN LESLIE A</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>GIBERTI FABIO</name><address><country>IT</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>YANG SHI-JUN</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>CLARK, RALPH H.</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>COHEN, LESLIE A.</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>GIBERTI, FABIO</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>YANG, SHI-JUN</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>CLARK, RALPH H.</last-name><address><street>307 Leconey Avenue</street><city>Palmyra, New Jersey 08065</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>COHEN, LESLIE A.</last-name><address><street>55 Polder Drive</street><city>Langhorne, Pennsylvania 19053</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GIBERTI, FABIO</last-name><address><street>Via Edera 1</street><city>Paderno Dugnano (MI) 20034</city><country>IT</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>YANG, SHI-JUN</last-name><address><street>1741 Waterford Way</street><city>Maple Glen, Pennsylvania 19002</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Marshall, Monica Anne</last-name><address><street>J.A. KEMP &amp;amp; CO. 14 South Square Gray's Inn</street><city>London WC1R 5LX</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The invention relates to a polymeric article having a frosted and/or surface
+textured finish made from a polymeric resin comprising a polymeric matrix and
+polymeric particles which are substantially spherical, highly crosslinked, have a mean
+particle size of between 15 and 70 micrometers and have a particle size distribution
+between 10-110 micrometers.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">BACKGROUND OF THE INVENTION</u></heading><heading><u style="single">Field of the Invention</u></heading><p num="0001">The present invention relates to polymeric
+articles having a textured surface and frosted
+appearance and to resins for producing such articles.</p><heading><u style="single">Related Art Statement</u></heading><p num="0002">In lighting applications, and point of purchase,
+and cosmetic/decorative markets, people are always
+looking for new and innovative products that can
+provide flexibility for designs and fabrications at a
+competitive cost.</p><p num="0003">Presently, there is not a successful plastic
+product in this market that can be used in a one-step
+process and provide the properties and appearance 
+needed to replace sand blasted glass material. It
+would be desirable to have a resin that could be used
+for sheet and profile extrusion applications and that
+creates a product with a surface texture and frosted
+appearance.</p><p num="0004">Such a plastic material could reduce the
+production and fabrication costs and provide design
+flexibility for end users. Similar thermoplastic
+products are traditionally made by surface treatment,
+such as, sand blasting and surface pattern
+fabrication, and by adding inorganic filler, such as,
+barium sulfate, calcium carbonate, titanium dioxide,
+silica, etc. Such inorganic fillers are normally
+difficult to disperse evenly in polymer matrix
+material, reduce greatly the light transmission of the
+polymer, and do not generate the desired surface
+texture. Also, the filler particles have a tendency to
+deteriorate physical properties of the polymer.</p><p num="0005">Fine particles (i.e. less than 15 micrometers) of
+a copolymer made by an emulsion polymerization process
+are sometimes added into a plastic matrix to generate
+a light diffusion effect for display and light panel
+applications, for example, US patent 5,346,954.
+However, this type of product tends to soften the
+polymer matrix and can not produce the textured
+surface so often preferred by the end user.</p><heading><u style="single">SUMMARY OF THE INVENTION</u></heading><p num="0006">The present invention provides a novel extruded
+or profile extruded polymeric article having a frosted
+and/or surface textured finish, preferably both. Since
+the article is a thermoplastic material, it can be
+recycled, re-extruded, or injection molded to generate
+the desired appearance.</p><p num="0007">In one embodiment the article is comprised of a
+polymeric matrix and polymeric particles in which the 
+particles are substantially spherical, are highly
+crosslinked, have a mean particle size of between 15
+and 70 micrometers and have a particle size
+distribution between 10-110 micrometers.</p><p num="0008">In another embodiment the article is comprised of
+a dispersion of cross-linked fine particles in a
+substrate of a polymer matrix; the fine particles are
+comprised of 0-100 % styrene, 0-100% alkyl
+methacrylate, 0-100% alkyl acrylate and crosslinking
+agent.</p><p num="0009">In another embodiment the article is comprised of
+a dispersion of cross-linked fine particles in a
+substrate of a polymer matrix; the fine particles are
+comprised of 0-50% styrene, 45-100 % alkyl
+methacrylate or alkyl acrylate, and 0.01-5%
+crosslinking agent.</p><p num="0010">In another embodiment the article is comprised of
+a dispersion of crosslinked fine particles in a
+substrate polymer comprising mainly methyl
+methacrylate; the fine particles are comprised of 0-50%
+styrene, 45-100 % alkyl methacrylate or alkyl
+acrylate, and 0.01-5% crosslinking agent.</p><p num="0011">The purpose of the highly crosslinked spherical
+particles in the present invention is to impart to the
+thermoplastic composition a textured surface and a
+frosted appearance. The frosted appearance of the
+thermoplastic compositions is achieved through the
+mismatch of the refractive indexes, Δn &gt; 0.02, of the
+fine particles and thermoplastic matrices. The surface
+texture is controlled by the degree of crosslinking
+and mean size of the fine particles.</p><p num="0012">Another aspect of the invention is the resin
+composition used to produce the article. In one
+embodiment, the resin comprised of
+<sl><li>a) 20 - 90% polymethyl methacrylate or alkyl
+methylacrylate/alkyl acrylate copolymer based matrix; </li><li>b) 0 - 50% modifiers; and</li><li>c) 5 - 60% highly crosslinked spherical beads
+comprised of about
+<sl><li>0-100 % styrene,</li><li>0-100% alkyl methacrylate,</li><li>0-100% alkyl acrylate and</li><li>crosslinking agent</li></sl></li></sl></p><p num="0013">In another embodiment of the invention, the resin
+composition is comprised of
+<sl><li>a) 20 - 90% polymethyl methacrylate based matrix,</li><li>b) 0 - 50%, preferably 5 - 50%, modifiers, and</li><li>c) 5 - 30% highly crosslinked spherical beads
+comprised of styrene and/or methyl methacrylate and a
+crosslinking agent.</li></sl></p><p num="0014">In another embodiment of the invention, the resin
+is comprised of
+<sl><li>a) 20 - 90% polymethyl methacrylate based matrix,</li><li>b) 0 - 50%, preferably 5 - 50%, modifiers, and</li><li>c) 5 - 30% highly crosslinked spherical beads
+comprised of
+<sl><li>0 - 50 % styrene</li><li>100 - 50 % alkyl alkylacrylate or alkyl
+acrylate, or combination of both</li><li>0.1 - 2.5 % crosslinking agent,</li></sl>
+wherein the beads have a mean particle size of 15-70
+micrometers, and a particle size distribution of
+between 10-110 micrometers.</li></sl></p><p num="0015">In another embodiment of the invention, the resin
+is comprised of
+<sl><li>a) 70 - 85% polymethyl methacrylate based matrix; and</li><li>b) 15 - 30% highly crosslinked spherical beads
+comprised of
+<sl><li>15 - 35 % styrene</li><li>65 - 85 % methyl methacrylate</li><li>0.5-1.5% allylmethacrylate;</li></sl> 
+wherein the beads have a mean particle size of 15-70
+micrometers, and a particle size distribution of
+between 15-110 micrometers.</li></sl></p><heading><u style="single">DETAILED DESCRIPTION OF THE INVENTION</u></heading><p num="0016">Polymers, such as, acrylic polymers, PET, PS,
+ASA, SAN, MMA/S, PVC, ABS terpolymer, polycarbonate,
+polyester(such as poly(butylene terephthalate) and
+poly(ethylene terephthalate), MBS copolymer, HIPS,
+acrylonitrile/acrylate copolymer, acrylonitrile/methyl
+methacrylate copolymer, impact modified polyolefins
+and impact modified PVC, etc, or mixtures thereof, can
+be used as the polymeric matrix. Preferably the
+polymer is an acrylic, more preferably, an impact
+modified acrylic polymer.</p><p num="0017">The term "acrylic polymer(s)" as used herein
+means
+<sl><li>1) alkyl methacrylate homo polymers,</li><li>2) copolymers of alkyl methacrylates with other alkyl
+methacrylates or alkyl acrylates or other
+ethylenically unsaturated monomers,</li><li>3) alkyl acrylate homo polymers, and</li><li>4) copolymers of alkyl acrylates with other alkyl
+acrylates or alkyl methacrylates or other
+ethylenically unsaturated monomers.</li></sl></p><p num="0018">The alkyl group can be from 1-18 carbon atoms,
+preferably 1-4 carbon atoms. Preferred are polymethyl
+methacrylate based matrix and copolymers of methyl
+methacrylate with from about 0.1 - 20% alkyl
+acrylates, wherein the alkyl contains 1 - 4 carbon
+atoms, alkyl acrylic acids wherein alkyl contains 1 -
+18 carbon atoms.</p><p num="0019">Preferably the thermoplastic matrix material
+comprises a polymer or copolymer of methyl
+methacrylate(MMA); typical copolymers include 80 to
+99% MMA and 1 to 20%, preferably 1 to 5%, of (C1-C10) 
+alkyl acrylates, such as methyl acrylate and ethyl
+acrylate(EA). A suitable commercially available
+poly(methyl methacrylate) type thermoplastic matrix
+material is Plexiglas® V-grade molding powder, such as
+Plexiglas® V(825),V(825)HID, V(045),V(052) and V(920)
+etc.</p><p num="0020">The polymer matrix is conveniently prepared by
+conventional cell casting or melt extrusion processes
+and is typically provided in particulate form. In
+addition, thermoplastic matrix materials may be
+prepared by a conventional bulk process (for example, a
+continuous flow stirred tank reactor(CFSTR) process),
+solution, suspension or emulsion polymerization
+techniques, in which case conventional isolation
+processes used to recover the polymer in particulate
+form include, for example, filtration, coagulation and
+spray drying.</p><p num="0021">The matrix may also include other modifiers or
+additives which are well known in the art. For
+example, the composition may contain impact modifiers,
+external lubricants, antioxidants, flame retardants or
+the like. If desired, ultraviolet stabilizers, flow
+aids, metal additives for electronic magnetic
+radiation shielding such as nickel coated graphite
+fibers, antistatic agents, coupling agents, such as
+amino silanes, and the like, may also be added.</p><p num="0022">One of the processes of incorporating the
+modifier is to make the modified matrix by an emulsion
+process.</p><p num="0023">A rubber modifier can be added to the matrix,
+especially an acrylic polymer matrix, to enhance its
+performance properties.</p><p num="0024">In an emulsion process, particles generated are
+usually small, 0.05 - 5 micrometers. Initiators used
+for the emulsion process are water soluble. The final
+product from an emulsion process is a stable latex 
+which is normally not suitable for filtration. The
+latex emulsion is typically spray dried or
+coagulated/wash dried.</p><p num="0025">The emulsifying reagents are well known to those
+skilled in the art. Useful emulsifying agents include
+common soaps, alkyl benzenesulfonates, such as: sodium
+dodecyl benzenesulfonate, alkylphenoxypolyethylene
+sulfonates, sodium lauryl sulfate, salts of long chain
+amines, salts of long-chain carboxylic and sulfonic
+acids, etc. In general, the emulsifier should be
+compounds containing hydrocarbon groups of 8-22 carbon
+atoms coupled to highly polar solubilizing groups such
+as alkali metal and ammonium carboxylate groups,
+sulfate half ester groups, sulfonate groups, phosphate
+partial ester groups, and the like.</p><p num="0026">The blend of the multi-stage polymer (rubber
+modifiers) with the thermoplastic polymer can be
+accomplished by any known method, such as dispersing
+the multi-stage polymer in a monomer mixture used to
+prepare the thermoplastic polymer or in a monomer-polymer
+syrup mixture which together would provide the
+desired thermoplastic polymer. Alternatively, the
+multi-stage polymer can be placed in a casting mix in
+the form of an emulsion, suspension or dispersion in
+water or in an organic carrier; the water or organic
+carrier can then be removed before or after casting
+into the final thermoplastic polymer form. The multi-stage
+polymer may also be blended with the
+thermoplastic polymer by extrusion compounding.
+Additional specific methods and details of blending
+the thermoplastic polymer and impact modifiers are
+disclosed in U.S. patent No. 3,793,402.</p><p num="0027">A preferred thermoplastic matrix material is
+impact modified poly(methyl methacrylate) commercially
+available as Plexiglas® DR101, MI-4, and MI-7 molding
+powder. Plexiglas® in North and South America, and 
+Oroglas® in Europe and Asia are trademarks of Elf
+Atochem North America, Philadelphia, PA, USA.</p><p num="0028">The matrix material can be made by many different
+processes known in the art, including, continuous cell
+casting, emulsion, suspension, bulk polymerization,
+and continuous stirred tank reactions (CFSTR), etc.
+Each of these methods utilize free radical
+polymerization chemistry. In the continuous cell
+casting process of acrylic resins, the viscous
+polymer/monomer mixture, often referred to as syrup
+and which has about 30-50% polymer conversion, is fed
+between two stainless steel belts at a controlled
+temperature. Polymer conversion is completed with the
+continuous moving belt. In an emulsion process, the
+major components are monomers, water, emulsifiers,
+water soluble initiators, and chain transfer agents.
+The water to monomer ratio is controlled between 70:30
+and 40:60. A core/shell particle structure can be
+achieved through grafting by an emulsion process,
+which is often a preferred process for making impact
+modifiers.</p><p num="0029">The highly crosslinked particles may be made by a
+suspension process. The composition of the particles
+may be 0-50% styrene, 45-100% alkyl methacrylate or
+alkyl acrylate, or a mixture of both, and 0.01-5%
+crosslinking agent. A preferred typical composition
+is 10-50 % styrene, 50-90%, MMA, and 0.1-2.5%
+crosslinking agent.</p><p num="0030">Crosslinking monomers suitable for use as in the
+spherical polymer particles (beads) are well known to
+those skilled in the art, and are generally monomers
+copolymerizable with monomers present, and having at
+least two or more unsaturated vinyl groups which have
+approximately equal or different reactivities, such as
+divinyl benzene, glycol di- and tri-methacrylate and
+acrylates, ethylene glycol dimethylacrylate, allyl 
+methacrylates, diallyl maleate, allyl
+acryloxypropionates, butylene glycol diacrylates, etc.
+Preferred crosslinkers are ethylene glycol
+dimethacrylate, divinylbenzene, and allyl
+methacrylate. Most preferred is allyl methacrylate.</p><p num="0031">"Highly crosslinked" means that the particulate
+material can not be dissolved at all in a strong
+organic solvent, such as tetrahydrofuran (THF) or
+methylene chloride (MDC). The swell ratio measurement,
+which measures the particle size change in an organic
+solvent after a certain period of time, is normally a
+test method to determine the degree of crosslinking.
+A low swell ratio, no soluble fraction in a MDC/THF
+solvent, and the retention of particle integrity are
+the indications of a highly crosslinked acrylic
+polymer. The degree of crosslinking can also be
+monitored through surface hardness and surface gloss
+measurements. The related test methods are American
+Standard Test Methods: ASTM D785 and ASTM D2457.</p><p num="0032">The beads have a mean particle size of 15-70
+micrometers, preferably, 25-55 micrometers, and a
+particle size distribution of between 10-110
+micrometers. The particle size may be controlled by
+agitation speed, reaction time, and level and type of
+suspending agents. The "mean particle size" is a
+weight mean. As used herein and in the following
+sections and appended claims, the term "weight mean"
+or "weight percent" means average by weight or the
+percent by weight of each component based on the total
+weight of composition. The light scattering methods
+used for particle size determination are ASTM:D4464,
+B822, and ISO13321:1996(E).</p><p num="0033">The composition of the polymer particles may be
+analyzed by a pyrolysis GC/MS spectrometer where the
+polymer material is pyrolyzed at an elevated 
+temperature and the decomposed components are analyzed
+further for a quantitative determination.</p><p num="0034">In order for the article produced by the blend of
+the resin and particles to be frosted, the refractive
+index of the crosslinked particles has to be different
+from that of the matrix material. The difference in
+refractive index should be Δn&gt;0.02. The crosslinked
+spherical particles have mismatched refractive indices
+with many thermoplastic polymers, such as, but not
+limited to, acrylic polymers (defined as above),
+polycarbonate, polyvinyl chloride and the like,
+polystyrene, PET, PETG, imidized polymers of methyl
+methacrylate, copolymer of acrylonitrile and styrene,
+and copolymer of styrene and MMA.</p><p num="0035">The spherical particles may be made by a
+suspension process wherein the water is a continuous
+phase serving as a heat transfer medium and the
+polymerization is carried out in monomer droplets. In
+a suspension process the viscosity change during the
+polymer conversion is very small; therefore, the heat
+transfer is very efficient. The agitation speed, and
+composition and level of the suspending agent are
+critical factors in determining the particle size
+distribution. The typical particle size from
+suspension is about 10 - 1000 micrometers. More
+detailed information about the suspension process can
+be found in US Patent 5,705,580, EP 0,683,182-A2, and
+EP 0,774,471-A1. Typical examples of using the
+suspension process for the spherical particles are
+provided in Examples 1, 2A, 2B, and 2C respectively.</p><p num="0036">It is within the scope of the present invention
+to color the crosslinked beads during the suspension
+process. The advantages of using colored beads over a
+colored matrix material are process flexibility, cost
+reduction, better color dispersion, reduced surface
+gloss, deep/natural color appearance and a reduction 
+in cleaning process equipment between product changes.</p><p num="0037">The surface textured and frosted article of the
+present invention is a polymeric matrix which contains
+the highly crosslinked spherical particles which have
+a mean particle size between 15 and 70 micrometers,
+and a particle size distribution between 0.2-110
+micrometers.</p><p num="0038">A particularly preferred embodiment has the
+composition
+<sl><li>a) 70 - 85% polymethyl methacrylate based matrix; and</li><li>b) 15 - 30% highly crosslinked spherical beads
+comprised of
+<sl><li>15 - 35, preferably 24.9 % styrene</li><li>65 - 85, preferably 74.0 % methyl methacrylate,
+and</li><li>0.5 - 1.5, preferably 0.9 % allyl methacrylate.</li></sl></li></sl></p><p num="0039">The article of the present invention is produced
+by extrusion compounding together the crosslinked
+particles(beads) made from the suspension process, the
+optional modifiers, and the polymer matrix on a single
+or twin screw extruder to produce an article having a
+surface textured and frosted appearance.</p><p num="0040">An example of the process for producing an
+article of the present invention is as follows:</p><p num="0041">The cross-linked spherical beads may be dried in
+an hot air oven before compounding into a
+thermoplastic matrix through, for example, a Killion
+extruder equipped with a two-stage medium work screw
+and a vacuum venting system. A WP twin screw extruder
+can also be used for the compounding. The beads,
+polymer, and additives are added into the extruder
+through different feeders on the extruder. The
+conveyer system for spherical beads should be a closed
+system to avoid safety hazards and dust hazards. The
+beads are fed into the Killion extruder through a K-TRON®
+hopper with an auger screw by gravimetric 
+control or by volumetric feeding control. The
+temperature profile which can be used for making the
+frosted article when the composition contains 10-35%
+suspension beads, made by Example 2C, and 65-90% PMMA
+made by a free radical polymerization process, can be
+as follows:</p><p num="0042">Typical process conditions for compounding
+extruder:
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Feed Zone:</entry><entry align="left">235°C</entry></row><row><entry align="left">Compression Zone:</entry><entry align="left">245°C</entry></row><row><entry align="left">Metering Zone:</entry><entry align="left">250°C</entry></row><row><entry align="left">RPM(revolution per minute)</entry><entry align="left">70-100</entry></row></tbody></tgroup></table></tables></p><p num="0043">The extruded article is oven dried before further
+usage.</p><p num="0044">The frosted article can be further processed the
+same way as normal thermoplastics, such as, by profile
+extrusion, sheet extrusion, injection molding, and
+plunge molding, etc., into various final products. The
+product resulting from sheet or profile extrusion will
+have a textured surface and frosted appearance while
+the product resulting from injection molding will have
+a frosted look.</p><p num="0045">The frosted article(for example extruded sheet
+product) can also be produced by feeding directly the
+crosslinked particles with the matrix resins into a
+sheet extruder or injection molding machine to
+eliminate the compounding step. The precompounded
+resin is better suited for commercial applications and
+user friendly because direct feeding of beads requires
+special equipment to handle the slippery beads.</p><p num="0046">The crosslinked beads from the suspension process
+can also be extrusion compounded into other polymers,
+such as, PC, PET, PS, ABS terpolymer, ASA copolymer,
+HIPS, SAN, PVC, modified PVC, MBS copolymer, etc., to
+generate a similar effect. </p><p num="0047">Unlike other surface treated product, the frosted
+appearance and textured surface from this invention
+can be maintained through thermoforming, bending, and
+other post-treatments. The "textured surface" can be
+generated through conventional extrusion or profile
+extrusion equipment without the requirements of a
+specific patterned roll or polishing equipment,
+providing process flexibility for the end users.</p><p num="0048">By the term "textured surface" as used herein is
+meant a minimum surface roughness of 0.5 um to as high
+as 30 um or higher. Surface Roughness is determined
+by a TENCOR Alpha-step 500 surface profiler, the
+reference method number can be found in ASME: B46.1.1,
+B46.1.2, B46.1.12, ASME Y14.36. ASME is an
+abbreviation for the American Society of Mechanic
+Engineering.</p><p num="0049">One of the advantages of the current invention is
+that the Total White Light Transmission (TWLT) is much
+higher than the similar commercial products filled by
+inorganic fillers, such as barium sulfate or color
+concentrate, to achieve a frosted appearance. For
+example, barium sulfate pigmented PMMA has a 47% TWLT
+while the frosted product of the present invention has
+a 84% TWLT, and both have a similar frosted
+appearance. The sample made from suspension beads
+described in Example 2C allows more light to be
+transmitted in lighting applications.</p><p num="0050">TWLT is measured by a Hunterlab colorimeter-D25
+model, ASTM: E1331 and E1164. The frosted appearance
+can be determined by an opacity measurement. The
+higher the opacity number, the better the hiding power
+of the thermoplastic sample. To have a frosted
+appearance, the minimum opacity number should be about
+10%. The loading of suspension beads and mismatch of
+refractive index between beads and matrix material
+would affect the hiding power of the sample which is 
+measured by the opacity number. The related standard
+methods for these measurements are ASTM D2805-80, ASTM
+D589-65, TAPPI T-425, TAPPI T-519.</p><p num="0051">The composition of the current invention can be
+used for profile and sheet extrusion to generate final
+parts for lighting, signs, point of purchase and
+cosmetic displays, containers, home and office
+decorations, furniture applications, shower doors, and
+office doors where privacy is preserved without
+sacrificing loss of light.</p><p num="0052">The present invention will now be exemplified in
+more detail by referencing the following, non-limiting
+examples.</p><heading><u style="single">Example 1</u></heading><p num="0053">The following is a typical recipe for suspension
+polymerization which gives a weight mean particle size
+of <sup>∼</sup>35 microns.</p><p num="0054">The following ingredients are mixed and reacted
+to form particles of P(MMA/styrene/ALMA)
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Deionized Water</entry><entry align="center">1772 gram</entry></row><row><entry align="left">p(dimethyldiallylammonium chloride)</entry><entry align="center">32 gram</entry></row><row><entry align="left">NaOH</entry><entry align="center">0.048 gram</entry></row><row><entry align="left">NaCl</entry><entry align="center">72 gram</entry></row><row><entry align="left">Gelatin</entry><entry align="center">2.16 gram</entry></row><row><entry align="left">DI water for gelatin (90°C)</entry><entry align="center">144 gram</entry></row><row><entry align="left">MMA</entry><entry align="center">465.5 gram</entry></row><row><entry align="left">styrene</entry><entry align="center">134.5 gram</entry></row><row><entry align="left">ALMA</entry><entry align="center">4.86 gram</entry></row><row><entry align="left">butyl peroctoate</entry><entry align="center">6 gram</entry></row></tbody></tgroup></table></tables></p><p num="0055">The water phase in this recipe is composed of
+deionized water, p(dimethyldiallylammonium chloride),
+sodium hydroxide, sodium chloride, and gelatin. The
+organic phase is composed of styrene, MMA, allyl
+methacrylate, and butyl peroctoate. The 
+p(dimethyldiallyammonium chloride) and DI water are
+charged into a reactor and NaOH and NaCl are added
+into the mix for pH modification. The target pH is in
+the range of 9.5-10.5. The oxygen is removed by
+sweeping nitrogen gas through the reactor and heating
+the solution to 90°C. 2.16g gelatin is dissolved into
+144g DI water at 75°C in a separate container with
+constant agitation until complete dissolution occurs.
+The gelatin solution is then added into the reactor.
+The reactor temperature is adjusted to 80°C and the
+monomer mix which is composed of MMA, styrene, allyl
+methacrylate, and t-butyl peroctoate is charged into
+the reactor with an agitation of 350 RPM. The reactor
+is heated gradually to 90°C over 2 hrs and polymer
+conversion is completed in about 4 hrs. Polymer in
+the form of fine particles is obtained. The
+crosslinked beads are then centrifuged, washed, and
+oven dried for extrusion compounding. The resulting
+particles are highly crosslinked which contain 0.81%
+ALMA in their composition and have a weight mean size
+of 35 microns.</p><heading><u style="single">Example 2A</u></heading><heading><u style="single">Preparation of Crosslinked Microbeads by a Suspension
+Process</u></heading><p num="0056">The crosslinked beads with a weight mean particle size
+of 20-50 microns can be prepared through the following
+procedure and recipe:
+<img id="img-00150001" orientation="unknown" wi="133" img-format="tif" img-content="tb" file="00150001.tif" inline="no" he="25"/><img id="img-00160001" orientation="unknown" wi="98" img-format="tif" img-content="tb" file="00160001.tif" inline="no" he="20"/></p><p num="0057">All portions are measured by weight.</p><p num="0058">245 parts deionized water and 5 parts polyvinyl
+alcohol are fed into a stirred, temperature
+controlled, and pressure-resistant reactor at 40°C.
+The reactor is deoxygenated by a nitrogen flow and
+stirred until the complete dissolution of polyvinyl
+alcohol occurs. A monomer mix described above is then
+fed into the reactor. The reactor is sealed under
+nitrogen, and pressurized at 100KPa. The mixture is
+heated gradually up to 110°C over 120 minutes and kept
+at this temperature for 15 minutes and then cooled for
+discharge. After centrifuging, washing, and drying,
+the microbeads with a weight mean of 20-30 micrometers
+can be separated from waste water for sample
+preparation.</p><heading><u style="single">Example 2B</u></heading><heading><u style="single">Preparation of Beads by Polymeric Suspending Agent</u></heading><p num="0059">The crosslinked beads can also be prepared by
+using a mixture of polymeric suspending agent and pulp
+water generated from previous suspension process to
+minimize the discharge of waste water to the
+environment. This process improves the separation
+efficiency of microbeads from suspending solution and
+increases yields of raw materials.</p><heading>Step 1: Preparation of suspending agent</heading><p num="0060"><tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">Raw materials:</entry></row><row><entry align="left">NaOH(99.0%)</entry><entry align="center">48 parts</entry></row><row><entry align="left">DI H2O</entry><entry align="center">702 parts</entry></row><row><entry align="left">AMPS (2-acrylamido-2'-methylpropansulphonic acid)</entry><entry align="center">250 parts</entry></row><row><entry align="left">Potassium persulphate</entry><entry align="center">0.075 parts</entry></row><row><entry align="left">Sodium methabisulphite</entry><entry align="center">0.025 parts</entry></row></tbody></tgroup></table></tables></p><p num="0061">48 parts by weight of NaOH and 702 parts by weight
+of deionized water are charged into a reactor and
+stirred till NaOH dissolves. 250 parts by weight of
+AMPS are slowly added into the reactor, and then the
+PH value is adjusted to between 7 and 8 by addition of
+either NaOH or AMPS. Remove oxygen from the reactor
+by nitrogen flow and heat the reactor to 50°C. Add to
+the reactor 0.075 parts potassium persulphate and
+0.025 parts sodium methabisulphite. After 60 minutes,
+the reaction should be completed and 4000 parts by
+weight of deionized water is added into the reactor,
+diluting the solution to about 5.0% solids level. The
+prepared solution is ready to be used as the
+suspending agent for making microbeads in the
+following step.</p><heading>Step 2 Preparation of Crosslinked Beads</heading><p num="0062"><img id="img-00170001" orientation="unknown" wi="135" img-format="tif" img-content="tb" file="00170001.tif" inline="no" he="61"/></p><p num="0063">193 parts by weight of deionized water and 7 parts
+by weight of solution from step 1 are charged into a
+reactor with agitation. Oxygen is removed from reactor
+by nitrogen flow. The reactor is sealed and
+pressurized at 100kPa and heated to 110°C in 150
+minutes. The agitation speed should be maintained at
+100RPM or higher. After the reaction is completed, 
+maintain the reactor temperature at 110°C for another
+15 minutes to reduce the residual monomer before
+cooling for discharge. The microbeads with a weight
+mean about 35-60 microns are separated by
+centrifuging, washing, and oven drying and can be used
+for frosted acrylic sample preparation. The waste
+water which contains a total dry residues of 0.62% (at
+160°C), composed of 0.2% by weight suspending agent
+and fractions of beads smaller than a few micometers,
+can be used as the suspending agent for subsequent
+process.</p><heading><u style="single">Experiment 2C</u></heading><heading><u style="single">Preparation of Crosslinked Beads Using Waste Water</u></heading><p num="0064">The microbeads can also be prepared using waste water
+from Example 2B. The following raw materials are
+charged into a reactor to make the highly crosslinked
+particle for frosted acrylic sample preparation.
+<img id="img-00180001" orientation="unknown" wi="128" img-format="tif" img-content="tb" file="00180001.tif" inline="no" he="38"/></p><p num="0065">Introduce 300 parts of waste water from example
+2B into a pressurized reactor and heat to 80°C and
+then introduce 100 parts of monomer mix into the same
+reactor with continuous stirring. Remove the oxygen
+from the reactor by a nitrogen flux. Pressurize the
+reactor at 100Kpa and seal. Heat the reactor gradually
+to 110°C in 150 minutes. After complete conversion,
+the reactor temperature is maintained at 110°C for
+another 15 minutes and then cooled down for discharge.
+Microbeads with a weight mean particle size of 50 
+microns are separated from the solution by
+centrifuging, washing, and oven drying.</p><heading><u style="single">Example 3</u></heading><p num="0066">In order to evaluate the compositional effect of
+different particles in thermoplastic matrixes, samples
+are made by the following method for evaluation of
+their appearance, transmission light efficiency, and
+surface texture effect.</p><p num="0067">The EX III-A sample is made by compounding 25%
+suspension beads which have a composition of 74.3%
+methyl methacrylate, 24.8% styrene, and 0.9% allyl
+methacrylate, into 75% of an impact modified PMMA
+matrix (MMA/BA/Styrene/ALMA) on a Killion extruder
+equipped with a medium work two stage screw and a
+vacuum vent for monomer/moisture removal.</p><p num="0068">The EX III-B sample is made by compounding 25%
+suspension beads which have a composition of 79.3%
+methyl methacrylate, 19.8% butyl acrylate, and 0.9%
+allyl methacrylate, into 75% of an impact modified
+PMMA matrix (MMA/BA/Styrene/ALMA) on a Killion
+extruder.</p><p num="0069">The EX III-C sample is made by compounding 20%
+inorganic beads, Scotchlite Glass Bubbles sold by 3M,
+into 80% of an impact modified PMMA matrix
+(MMA/BA/Styrene/ALMA) through a Killion extruder.</p><p num="0070">The samples used in this example are made through
+a two step extrusion process: compounding the
+different particles with impact modified PMMA matrix
+to make a resin; and passing the resin through a sheet
+extruder to make 0.125" thickness sheet for testing.
+The temperature profiles used for resin compounding
+and sheet extrusion are listed in the following table: <tables><table><tgroup cols="5"><tbody><row><entry nameend="5" namest="1">Resin compounding conditions</entry></row><row><entry align="center">Feed Zone</entry><entry align="center">Compression Zone</entry> <entry align="center">Metering Zone</entry><entry align="center">Die Zone</entry><entry align="center">RPM</entry></row><row><entry align="right">235°C</entry> <entry align="right">245°C</entry> <entry align="right">250°C</entry> <entry align="right">275°C</entry><entry align="right">85</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Sheet Extrusion Conditions</entry></row><row><entry align="center">Feed Zone</entry><entry align="center">Compression Zone</entry><entry align="center">Metering Zone</entry><entry align="center">Die Zone</entry><entry align="center">RPM</entry><entry align="center">Roll temp.</entry></row><row><entry align="right">225°C</entry><entry align="right">240°C</entry><entry align="right">240°C</entry><entry align="right">260°C</entry><entry align="right">85</entry><entry align="right">82°C</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="7"><tbody><row><entry align="left">Sample</entry><entry align="center">Wt % load</entry><entry align="left">Bead type</entry><entry align="center">Mean particle size<!--footnotes removed--></entry><entry align="left">Appearance</entry><entry align="center">Total white light transmission (TWLT)<!--footnotes removed--></entry><entry align="center">Surface roughness <!--footnotes removed--></entry></row><row><entry align="left">ExIII-A</entry><entry align="right">25</entry><entry align="left">crosslinked Sty/MMA/ALMA</entry><entry align="center">31.8</entry><entry align="left">translucent/textured surface</entry><entry align="center">83.5%</entry><entry align="center">9.6 um</entry></row><row><entry align="left">ExIII-B</entry><entry align="right">25</entry><entry align="left">crosslinked BA/MMA/ALMA</entry><entry align="center">57.1</entry><entry align="left">white agglomerate /turbid texture surface</entry><entry align="center">78.9%</entry><entry align="center">4.3um</entry></row><row><entry align="left">-ExIII-C</entry><entry align="right">20</entry><entry align="left">Inorg.glass beads</entry><entry align="center">55</entry><entry align="left">Opaque/proc. problm./brittle incompatible</entry><entry align="center">N/A</entry><entry align="center">N/A<!--footnotes removed--><!--footnotes removed--><!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0071">Conclusions: The suspension beads of EX III-A give the
+best result for frosted resin. It is easier to
+disperse the suspension particles of EX III-A than the
+other two compositions, EX III-B and EX III-C, in a
+thermoplastic matrix. Although the glass beads in EX
+III-C has a similar particle size range, it can not
+generate the desired surface texture and light
+transmission efficiency. The glass beads are not
+compatible with the thermoplastic material at higher
+loadings and deteriorate the polymer's physical 
+properties. The parts made in EX III-C are very
+brittle and can not pass the visual test.</p><heading><u style="single">Example 4</u></heading><p num="0072">The following table shows the results of using
+the crosslinked spherical particles made by the method
+of Example 2C for other thermoplastic matrixes. The
+sample appearance, the surface roughness, and the
+total white light transmission are measured for
+different samples. The samples are made by extrusion
+compounding the crosslinked beads with PVC, PC,
+Polystyrene, and PMMA polymer material in a 20%
+suspension particles and 80% polymer matrix material
+on a Killion extruder with a two stage medium work
+screw and a vacuum vent. The resins are then passed
+through a sheet extruder.</p><p num="0073">The following conditions are used for sample
+preparation:
+<tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Temperature Profile for Extrusion Compounding</entry></row><row><entry align="center"/><entry align="center">Feed Zone</entry><entry align="center">Compression Zone</entry><entry align="center">Metering Zone</entry><entry align="center">Die Zone</entry><entry align="center">RPM</entry></row><row><entry align="left">PVC-1</entry><entry align="right">182°C</entry><entry align="right">182°C</entry><entry align="right">182°C</entry><entry align="right">182°C</entry><entry align="left">100</entry></row><row><entry align="left">PC-1</entry><entry align="right">249°C</entry><entry align="right">271°C</entry><entry align="right">265°C</entry><entry align="right">265°C</entry><entry align="left">80</entry></row><row><entry align="left">PSY-1</entry><entry align="right">238°C</entry><entry align="right">238°C</entry><entry align="right">243°C</entry><entry align="right">243°C</entry><entry align="left">100</entry></row><row><entry align="left">PMMA-1</entry><entry align="right">220°C</entry><entry align="right">230°C</entry><entry align="right">235°C</entry><entry align="right">240°C</entry><entry align="left">100</entry></row></tbody></tgroup></table></tables></p><p num="0074">The sheet extrusion conditions for each of the
+samples are listed in the following table: <tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1">Temperature Profile for Sheet Extrusion</entry></row><row><entry align="center"/><entry align="center">Feed Zone</entry><entry align="center">Compression Zone</entry><entry align="center">Metering Zone</entry><entry align="center">Die Zone</entry><entry align="center">RPM</entry><entry align="center">Roll Temp</entry></row><row><entry align="left">PVC-1</entry><entry align="right">182°C</entry><entry align="right">182°C</entry><entry align="right">182°C</entry><entry align="right">193°C</entry><entry align="left">100</entry><entry align="right">82°C</entry></row><row><entry align="left">PC-1</entry><entry align="right">249°C</entry><entry align="right">260°C</entry><entry align="right">260°C</entry><entry align="right">265°C</entry><entry align="left">80</entry><entry align="right">82°C</entry></row><row><entry align="left">PSY-1</entry><entry align="right">226°C</entry><entry align="right">232°C</entry><entry align="right">232°C</entry><entry align="right">232°C</entry><entry align="left">100</entry><entry align="right">82°C</entry></row><row><entry align="left">PMMA-1</entry><entry align="right">210°C</entry><entry align="right">225°C</entry><entry align="right">230°C</entry><entry align="right">240°C</entry><entry align="left">100</entry><entry align="right">82°C</entry></row></tbody></tgroup></table></tables></p><p num="0075">The sample for the Surface Roughness Measurement
+is made by sheet extrusion at a 0.125 thickness and
+the sample for total white light transmission(TWLT) is
+made by an injection molding machine with the same
+temperature profile as sheet extrusion conditions.
+The mold temperature as listed in the following: PVC-1
+at 65.5°C ; PC-1 at 71°C; PSY-1 at 60°C; PMMA-1 at
+65°C.</p><p num="0076">Conclusion: The copolymer beads made by a suspension
+process can be used for different thermoplastic
+matrices at a 5-35% loading. All of the samples give
+a frosted, non gloss appearance, and textured surface,
+and the samples maintain good physical properties.
+The PMMA-1 sample gives a better light efficiency and
+surface texture. It is noted that the loading of the
+beads in polycarbonate should be lower in order to
+have better light transmission. All the samples have
+good hiding power, high light output and low object
+recognition.</p><p num="0077">The compositions all use 20% beads of 74.3%
+MMA/24.8% Styrene/0.9% ALMA and have a weight mean 
+particle size of 57 micrometers. The beads were made
+as in Example 2C.
+<tables><table><tgroup cols="4"><tbody><row><entry nameend="4" namest="1">Frosted Matrix Polymer Data</entry></row><row><entry align="center">Matrix polymer</entry><entry align="center">Total white light transmission (TWLT)<!--footnotes removed--></entry><entry align="center">Surface roughness<!--footnotes removed--></entry><entry align="center">Sample Appearance</entry></row><row><entry align="left">PVC</entry><entry align="center">77.1%</entry><entry align="center">13.5 um</entry><entry align="left">textured Translucent</entry></row><row><entry align="left">PC</entry><entry align="center">28.9%</entry><entry align="center">4.3 um</entry><entry align="left">textured Translucent</entry></row><row><entry align="left">P-Styrene</entry><entry align="center">56.4%</entry><entry align="center">15.5 um</entry><entry align="left">textured Translucent</entry></row><row><entry align="left">PMMA<!--footnotes removed--></entry><entry align="center">85.7%</entry><entry align="center">12.8 um</entry><entry align="left">textured Translucent<!--footnotes removed--><!--footnotes removed--><!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 5</u></heading><heading><u style="single">Effect of Different Concentrations of Styrene/MMA/ALMA
+Crosslinked Beads in PMMA Matrix</u></heading><p num="0078">This experiment is designed to evaluate the
+concentration effect of the particles on the final
+product's surface texture, total light transmission,
+appearance, hiding power, and mechanical impact 
+properties. The surface roughness measurement is made
+on a TENCOR Alpha-step 500 surface profiler. The
+appearance is evaluated visually. The total light
+transmission is a measurement of lighting efficiency.
+The Melt Flow Rate, used broadly by the those skilled
+in the art, gives the process flow information for the
+sample. The Dynatup impact test is used for
+mechanical impact properties.</p><p num="0079">In order to understand the best loading level of
+spherical particles made by the suspension process,
+samples are prepared by the sheet extrusion and
+injection molding methods using a rubber modified PMMA
+matrix (MMA/EA/BA/Styrene). The suspension beads are
+compounded into the rubber modified matrix material
+through a Killion extruder equipped with a two stage
+medium work screw at the following conditions:
+<tables><table><tgroup cols="5"><tbody><row><entry align="center">Feed Zone</entry><entry align="center">Compression Zone</entry><entry align="center">Metering Zone</entry><entry align="center">Die Zone</entry><entry align="center">RPM</entry></row><row><entry align="right">225°C</entry><entry align="right">235°C</entry><entry align="right">235°C</entry><entry align="right">240°C</entry><entry align="right">100</entry></row></tbody></tgroup></table></tables></p><p num="0080">The resin is then injection molded into parts, as
+known to those skilled in the art, for the analysis of
+light transmission, mechanical properties, and extruded
+into sheet sample at 0.125" thickness for surface
+texture analysis. <tables><table><tgroup cols="8"><tbody><row><entry align="center">Sample ID</entry><entry align="center">Bead conc. %<!--footnotes removed--></entry><entry align="center">Dynatup <!--footnotes removed--></entry><entry align="left">Appearance</entry><entry align="center">Surface roughness</entry><entry align="center">Total Reflect light</entry><entry align="center">Total white light transmission (TWLT)</entry><entry align="center">MFR<!--footnotes removed--></entry></row><row><entry align="left">FST-0</entry><entry align="left">0</entry><entry align="center">8.3 ft-lb<!--footnotes removed--></entry><entry align="left">Clear/gloss</entry><entry align="center">0.128um</entry><entry align="center">7.41%</entry><entry align="center">90.4%</entry><entry align="center">1.76</entry></row><row><entry align="left">FST-5</entry><entry align="left">5</entry><entry align="center">7.29ft-lb</entry><entry align="left">Gloss/Transparent</entry><entry align="center">4.36um</entry><entry align="center">7.46%</entry><entry align="center">88.9%</entry><entry align="center">1.23</entry></row><row><entry align="left">FST-10</entry><entry align="left">10</entry><entry align="center">7.04ft-lb</entry><entry align="left">matt/transparent</entry><entry align="center">5.85um</entry><entry align="center">7.44%</entry><entry align="center">85.8%</entry><entry align="center">1.10</entry></row><row><entry align="left">FST-15</entry><entry align="left">15</entry><entry align="center">6.10ft-lb</entry><entry align="left">Textured/good</entry><entry align="center">6.38um</entry><entry align="center">N/A</entry><entry align="center">84.5%</entry><entry align="center">0.95</entry></row><row><entry align="left">FST-20</entry><entry align="left">20</entry><entry align="center">5.70 ft-lb.</entry><entry align="left">Textured/Excellent</entry><entry align="center">8.92um</entry><entry align="center">8.16%</entry><entry align="center">83.4%</entry><entry align="center">0.81<!--footnotes removed--><!--footnotes removed--><!--footnotes removed--><!--footnotes removed--> 
+impact strength comparing to the standard PMMA
+material(5.7 ft/lb vs 1.0 ft/lb).</entry></row></tbody></tgroup></table></tables></p><p num="0081">Conclusion: Sample FST-20 has the most textured
+surface and the best appearance among all the samples
+prepared. The impact strength of this sample shows
+that the material maintains good impact properties.</p><heading><u style="single">Example 6</u></heading><p num="0082">This example relates to the effect of bead
+concentration on hiding power. The opacity results are
+in % units.</p><p num="0083">The samples used for this experiment are the same
+as those used in EXAMPLE 5. The samples tested are
+FST-05 which is 5% beads, 45% acrylic modifier, 50%
+PMMA, FST-10 which is 10% beads, 43% acrylic modifier,
+47% PMMA, FST-15 which is 15% beads, 40% acrylic
+modifier, 44% PMMA, FST-20 which is 20% beads, 38.4%
+acrylic modifier, 41.6% PMMA.</p><p num="0084">The beads have a weight mean size: 57.1 microns.
+The samples are injection molded at a 0.125" thickness.
+Injection molded samples typically have a very smooth
+surface. The FST-20 sample when extruded into a 0.125"
+thickness sheet sample, has a opacity of 21.5% because
+of the textured surface. The same sample material when
+injection molded has an opacity of 17.68% due to the
+smooth surface. <tables><table><tgroup cols="3"><tbody><row><entry align="center">Sample</entry><entry align="center"><u style="single">Opacity</u><u style="single">(ASTM D2805-80,</u><u style="single">(ASTM D589-65)</u></entry><entry align="center"><u style="single">Transmission</u><u style="single">Haze (ASTM D1003)</u></entry></row><row><entry align="left">FST-05</entry><entry align="center">11.14 %</entry><entry align="center">96.52%</entry></row><row><entry align="left">FST-10</entry><entry align="center">12.14 %</entry><entry align="center">98.03%</entry></row><row><entry align="left">FST-15</entry><entry align="center">14.20%</entry><entry align="center">98.19%</entry></row><row><entry align="left">FST-20</entry><entry align="center">17.68%</entry><entry align="center">98.31%</entry></row></tbody></tgroup></table></tables></p><p num="0085">For a sample (at 0.125" thickness) to have a
+frosted appearance the Haze number must be at least 90%
+transmission as determined by ASTM D1003, or at least a
+10% opacity as determined by ASTM D2805-80.</p><p num="0086">Other samples are measured:
+<tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">Opacity</entry></row><row><entry align="left">20% beads in Polycarbonate</entry><entry align="center">85.3%</entry></row><row><entry align="left">20% beads in PVC</entry><entry align="center">18.41%</entry></row><row><entry align="left">20% beads in Polystyrene</entry><entry align="center">36.41%</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 7</u></heading><heading><u style="single">The Effect of the Amount of Crosslinking of the
+Particles on the Final Product</u></heading><p num="0087">The suspension particles used for this experiment
+are made by the method described in Example 2B by
+varying the amount of allyl methacrylate in each
+sample. The particles have a weight mean particle size
+of 33 micrometers. The particles with different
+crosslinking levels are compounded into a rubber
+modified PMMA matrix through a Killion extruder and
+then passed through a sheet extruder to generate the
+samples for evaluation. </p><p num="0088">The loading of the particles in each sample is 20%
+beads and 80% rubber modified PMMA matrix. After
+multiple passes through the extruder, the particles
+with the lower level of crosslinking agent can not
+sustain their integrity and are deformed, which is a
+contributing factor for a non homogeneous surface
+texture of the sheet samples. The better samples are
+generated from the particles having at least 0.6%
+crosslinking agent. The sample VI-D gives the best
+results among the samples tested. The proper
+crosslinking in the suspension particles appears to be
+critical to the final appearance of the product.
+<tables><table><tgroup cols="4"><tbody><row><entry align="center">Sample</entry><entry align="center">Amount of Crosslinking agent used</entry><entry align="center">Surface Appearance</entry><entry align="center">Particle Appearance</entry></row><row><entry align="left">VI-A</entry><entry align="center">0.2%</entry><entry align="left">gloss</entry><entry align="left">deformed</entry></row><row><entry align="left">VI-B</entry><entry align="center">0.4%</entry><entry align="left">gloss</entry><entry align="left">deformed</entry></row><row><entry align="left">VI-C</entry><entry align="center">0.6%</entry><entry align="left">acceptable</entry><entry align="left">partially deformed</entry></row><row><entry align="left">VI-D</entry><entry align="center">0.8%</entry><entry align="left">textured</entry><entry align="left">maintained integrity</entry></row></tbody></tgroup></table></tables></p><p num="0089">The present invention may be embodied in other
+specific forms without departing from the spirit or
+essential attributes thereof.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An extruded polymeric article comprising a polymeric matrix and
+polymeric particles which are substantially spherical, highly crosslinked, have a mean
+particle size of between 15 and 70 micrometers and have a particle size distribution
+between 10-110 micrometers wherein the article has a frosted, a surface textured finish
+or a frosted and surface textured finish.</claim-text></claim><claim num="2"><claim-text>An article according to claim 1 wherein the beads have a mean particle
+size of 25-55 micrometers.</claim-text></claim><claim num="3"><claim-text>An article according to claim 1 or claim 2 wherein the polymeric matrix
+is an ABS terpolymer, ASA copolymer, polycarbonate, polyester, PETG, MBS
+copolymer, HIPS, acrylonitrile/acrylate copolymer, polystyrene, SAN, MMA/S, an
+acrylonitrile/methyl methacrylate copolymer, impact modified polyolefins, PVC, impact
+modified PVC, imidized acrylic polymer, acrylic polymer or impact modified acrylic
+polymer.</claim-text></claim><claim num="4"><claim-text>An article according to claim 3 wherein the polymeric matrix is
+polymethyl methacrylate based.</claim-text></claim><claim num="5"><claim-text>An article according to any one of the preceding claims wherein a frosted
+appearance is achieved through the mismatch of the refractive indices of the polymeric
+particles and polymeric matrix by greater than 0.02.</claim-text></claim><claim num="6"><claim-text>An article according to any one of the preceding claims comprising
+<claim-text><claim-text>a) 20-90% polymethyl methacrylate or alkyl methylacrylate/alkyl acrylate
+copolymer based matrix;</claim-text><claim-text>b) 0-50% modifiers; and</claim-text><claim-text>c) 5-60% highly crosslinked spherical beads comprising
+<claim-text><claim-text>0-100% styrene;</claim-text><claim-text>0-100% alkyl methacrylate;</claim-text><claim-text>0-100% alkyl acrylate; and</claim-text><claim-text>crosslinking agent.</claim-text></claim-text></claim-text></claim-text></claim-text></claim><claim num="7"><claim-text>An article according to claim 6 comprising 5-30% of highly crosslinked
+spherical beads.</claim-text></claim><claim num="8"><claim-text>An article according to any one of claims 1 to 5 comprising
+<claim-text><claim-text>a) 20-90% polymethyl methacrylate based matrix;</claim-text><claim-text>b) 0-50% modifiers; and</claim-text><claim-text>c) 5-30% highly crosslinked spherical beads comprising
+<claim-text><claim-text>0-50% styrene;</claim-text><claim-text>100-50% alkyl alkylacrylate, alkyl acrylate or a combination thereon and</claim-text><claim-text>0.1-2.5% crosslinking agent</claim-text></claim-text></claim-text></claim-text></claim-text></claim><claim num="9"><claim-text>An article according to any one of claims 1 to 5 wherein the particles
+comprise
+<claim-text><claim-text>a) 0-50% styrene;</claim-text><claim-text>b) 45-100% alkyl methylacrylate or alkyl acrylate; and</claim-text><claim-text>c) 0.01-5% crosslinking agent.</claim-text></claim-text></claim-text></claim><claim num="10"><claim-text>An article according to any one of claims 6 to 9 wherein the crosslinking
+agent is ethylene glycol dimethacrylate, divinylbenzene or allyl methacrylate.</claim-text></claim><claim num="11"><claim-text>An article according to claim 10 wherein the crosslinking agent is
+divinylbenzene.</claim-text></claim><claim num="12"><claim-text>A resin comprising
+<claim-text><claim-text>a) 20-90% polymethyl methacrylate based matrix;</claim-text><claim-text>b) 5-50% modifiers; and</claim-text><claim-text>c) 5-30% highly crosslinked spherical beads comprising
+<claim-text><claim-text>10-50% styrene;</claim-text><claim-text>90-50% methyl methacrylate; and</claim-text><claim-text>0.1-2.5% crosslinking agent,</claim-text></claim-text>
+wherein the beads have a mean particle size of 15-70 micrometers, and a particle
+size distribution of between 15-110 micrometers.</claim-text></claim-text></claim-text></claim><claim num="13"><claim-text>A resin according to claim 12 wherein the crosslinking agent is ethylene
+glycol dimethacrylate, divinylbenzene or allyl methacrylate.</claim-text></claim><claim num="14"><claim-text>A resin according to claim 13 wherein the crosslinking agent is allyl
+methacrylate.</claim-text></claim><claim num="15"><claim-text>A resin according to any one of claims 12 to 14 wherein the beads contain
+a colorant.</claim-text></claim><claim num="16"><claim-text>A resin comprising
+<claim-text><claim-text>a) 70-85% polymethyl methacrylate based matrix; and</claim-text><claim-text>b) 15-30% highly crosslinked spherical beads comprising
+<claim-text><claim-text>15-35% styrene;</claim-text><claim-text>65-85% methyl methacrylate; and</claim-text><claim-text>0.5-1.5% allyl methacrylate,</claim-text></claim-text>
+wherein the beads have a mean particle size of 15-70 micrometers, and a particle
+size distribution of between 15-110 micrometers.</claim-text></claim-text></claim-text></claim><claim num="17"><claim-text>A resin comprising
+<claim-text><claim-text>a) 20-90% polymethyl methacrylate or alkyl methylacrylate/alkyl acrylate
+copolymer based matrix;</claim-text><claim-text>b) 0-50% modifiers; and</claim-text><claim-text>c) 5-30% highly crosslinked spherical beads comprising
+<claim-text><claim-text>0-100% styrene;</claim-text><claim-text>0-100% alkyl methacrylate;</claim-text><claim-text>0-100% alkyl acrylate; and</claim-text><claim-text>crosslinking agent.</claim-text></claim-text></claim-text></claim-text></claim-text></claim><claim num="18"><claim-text>Use of a polymeric matrix and polymeric particles as defined in any one
+of the preceding claims for preparing an article having a frosted, a surface textured finish
+or a frosted and surface textured finish.</claim-text></claim><claim num="19"><claim-text>Use of a resin as defined in any one of claims 12 to 17 for preparing an
+article having a frosted, a surface textured finish or a frosted and surface textured finish.</claim-text></claim><claim num="20"><claim-text>Use of an article as defined in any one of claims 1 to 11 or a resin as
+defined in any one of claims 12 to 17 for preparing parts for lighting, signs, point of
+purchase or cosmetic displays, containers, home or office decorations, furniture
+applications, shower doors or office doors.</claim-text></claim></claims><search-report-data status="new"><doc-page id="img--90000001" orientation="portrait" wi="156" status="new" file="90000001.tif" he="242" type="tif"/><doc-page id="img--90010001" orientation="portrait" wi="157" status="new" file="90010001.tif" he="242" type="tif"/><doc-page id="img--90020001" orientation="portrait" wi="157" status="new" file="90020001.tif" he="237" type="tif"/><doc-page id="img--90030001" orientation="portrait" wi="157" status="new" file="90030001.tif" he="237" type="tif"/></search-report-data><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

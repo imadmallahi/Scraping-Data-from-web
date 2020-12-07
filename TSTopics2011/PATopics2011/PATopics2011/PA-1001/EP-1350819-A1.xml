@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1350819-A1" country="EP" doc-number="1350819" kind="A1" lang="EN" family-id="28035932" status="new" date-produced="20090516" date="20031008"><bibliographic-data><publication-reference ucid="EP-1350819-A1" status="new" fvid="23867456"><document-id status="new" format="original"><country>EP</country><doc-number>1350819</doc-number><kind>A1</kind><date>20031008</date></document-id></publication-reference><application-reference ucid="EP-03007384-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03007384</doc-number><kind>A</kind><date>20030402</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2002101347-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002101347</doc-number><kind>A</kind><date>20020403</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/01        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/01        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09B  47/04        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09B  47/06        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09B  47/067       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09B  47/073       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09B  47/24        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09B  47/067H</classification-symbol><classification-symbol scheme="EC">C09B  47/06H</classification-symbol><classification-symbol scheme="EC">C09D  11/00C20</classification-symbol><classification-symbol scheme="EC">C09D  11/00C2D</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Tinte und Methode für die Aufzeichnung mittels eines Tintenstrahldruckers</invention-title><invention-title load-source="ep" status="new" lang="EN">Inkjet recording ink and inkjet recording method</invention-title><invention-title load-source="ep" status="new" lang="FR">Une encre et une méthode d'enregistrement par jet d'encre</invention-title><citations><patent-citations><patcit ucid="EP-1270677-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1270677</doc-number><kind>A2</kind></document-id><sources><source category="XP" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1469047-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1469047</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1473335-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1473335</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit><patcit ucid="GB-1356837-A" status="new"><document-id status="new" format="epo"><country>GB</country><doc-number>1356837</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5882390-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5882390</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6123761-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6123761</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6241789-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6241789</doc-number><kind>B1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2001066648-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2001066648</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2002060994-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2002060994</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2003000811-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2003000811</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2003062323-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2003062323</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>FUJI PHOTO FILM CO LTD</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>FUJI PHOTO FILM CO., LTD.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>FUJI PHOTO FILM CO., LTD.</last-name><address><street>210 Nakanuma Minami-Ashigara-shi</street><city>Kanagawa 250-01</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>OZAWA TAKASHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>OZAWA, TAKASHI</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Ozawa, Takashi, Fuji Photo Film Co., Ltd.</last-name><address><street>200, Onakazato, Fujinomiya-shi</street><city>Shizuoka</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>HOFFMANN - EITLE</last-name><address><street>Patent- und Rechtsanwälte Arabellastrasse 4</street><city>81925 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>An ink comprising an aqueous medium and at least one
+dye represented by the formula (I) as defined herein, which
+is dissolved or dispersed in the aqueous medium, wherein
+the ink permeates into a recording medium having an image-receiving
+layer to a depth of 5 to 30 µm.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">FIELD OF THE INVENTION</u></heading><p num="0001">The present invention relates to an inkjet recording
+ink which provides an image having high quality and
+excellent preservability and ensures excellent ejection
+stability.</p><heading><u style="single">BACKGROUND OF THE INVENTION</u></heading><p num="0002">Accompanying recent overspreading of computers,
+inkjet printers are widely used for the printing on paper,
+film, cloth or the like not only in offices but also at
+homes.</p><p num="0003">The inkjet recording method includes a system of
+jetting out a liquid droplet by applying a pressure using
+a piezo element, a system of jetting out a liquid droplet
+by generating bubbles in an ink under heat, a system of
+using an ultrasonic wave, and a system of jetting out a
+liquid droplet by suction using an electrostatic force.
+The ink used for such inkjet recording systems includes an
+aqueous ink, an oily ink and a solid (fusion-type) ink. 
+Among these inks, the aqueous ink is predominating in view
+of production, handleability, odor, safety and the like.</p><p num="0004">The dye used in such an inkjet recording ink is
+required to have high solubility in a solvent, enable
+high-density recording, provide good color, exhibit
+excellent fastness to light, heat, air, water and
+chemicals, ensure good fixing property to an image-receiving
+material and less blurring, give an ink having
+excellent storability, have high purity and no toxicity,
+and be available at a low cost. However, it is very
+difficult to find out a dye satisfying these requirements
+in a high level. In particular, a dye having good cyan
+color and excellent weather resistance is strongly
+demanded.</p><p num="0005">Also, the inkjet recording is known to have a
+problem that a phenomenon of metal gloss called bronze
+which is deemed ascribable to regular reflected light on
+the surface of dye particle is sometimes observed and this
+deteriorates the image quality.</p><heading><u style="single">SUMMARY OF THE INVENTION</u></heading><p num="0006">Accordingly, an object of the present invention is
+to provide an inkjet recording ink having good ejection 
+stability, giving a high-quality image and ensuring good
+image preservability under severe conditions, which is an
+aqueous ink preferred in view of handleability, odor,
+safety and the like.</p><p num="0007">The above-described object can be attained by the
+followings. More specifically, according to the present
+invention, the following inkjet recording ink and inkjet
+recording method are provided.
+<sl><li>(1) An inkjet recording ink comprising an aqueous
+medium having dissolved or dispersed therein at least one
+dye represented by the following formula (I), wherein the
+ink permeates into a recording medium having an image-receiving
+layer to a depth of 5 to 30 µm:
+<img id="img-00030001" orientation="unknown" wi="134" img-format="tif" img-content="cf" file="00030001.tif" inline="no" he="103"/>
+wherein X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub> and X<sub>4</sub> each independently represents-SO-Z, 
+-SO<sub>2</sub>-Z, -SO<sub>2</sub>NR<sub>1</sub>R<sub>2</sub>, a sulfo group, -CONR<sub>1</sub>R<sub>2</sub> or -CO<sub>2</sub>R<sub>1</sub>,
+each Z independently represents a substituted or
+unsubstituted alkyl group, a substituted or unsubstituted
+cycloalkyl group, a substituted or unsubstituted alkenyl
+group, a substituted or unsubstituted aralkyl group, a
+substituted or unsubstituted aryl group or a substituted
+or unsubstituted heterocyclic group, R<sub>1</sub> and R<sub>2</sub> each
+independently represents a hydrogen atom, a substituted or
+unsubstituted alkyl group, a substituted or unsubstituted
+cycloalkyl group, a substituted or unsubstituted alkenyl
+group, a substituted or unsubstituted aralkyl group, a
+substituted or unsubstituted aryl group or a substituted
+or unsubstituted heterocyclic group, Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> and Y<sub>4</sub> each
+independently represents a monovalent substituent, a<sub>1</sub> to a<sub>4</sub>
+and b<sub>1</sub> to b<sub>4</sub> each represents the number of substituent X<sub>1</sub>,
+X<sub>2</sub>, X<sub>3</sub>, X<sub>4</sub>, Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> or Y<sub>4</sub>, a<sub>1</sub> to a<sub>4</sub> each independently
+represents a number of 0 to 4 but all are not 0 at the
+same time, b<sub>1</sub> to b<sub>4</sub> each independently represents a number
+of 0 to 3, provided that when at least one of a<sub>1</sub> to a<sub>4</sub> and
+b<sub>1</sub> to b<sub>4</sub> represents a number of 2 or more, corresponding
+plurality of substituents X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub>, X<sub>4</sub>, Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> or Y<sub>4</sub>
+may be the same or different, and M represents a hydrogen
+atom, a metal atom or an oxide, hydroxide or halide
+thereof.</li><li>(2) The ink as described in (1) above, wherein the 
+dye represented by formula (I) is a dye represented by the
+following formula (II):
+<img id="img-00050001" orientation="unknown" wi="138" img-format="tif" img-content="cf" file="00050001.tif" inline="no" he="112"/>
+wherein X<sub>11</sub> to X<sub>14</sub>, Y<sub>11</sub> to Y<sub>18</sub> and M have the same meanings
+as X<sub>1</sub> to X<sub>4</sub>, Y<sub>1</sub> to Y<sub>4</sub> and M in formula (I), respectively,
+and a<sub>11</sub> to a<sub>14</sub> each independently represents an integer of
+1 or 2.</li><li>(3) An inkjet recording method using the inkjet
+recording ink described in (1) or (2) above.</li><li>(4) An inkjet recording method comprising jetting
+out an ink droplet on an image-receiving material
+according to recording signals to record an image on the
+image-receiving material, the image-receiving material
+comprising a support having thereon an image-receiving 
+layer containing a white inorganic pigment particle,</li></sl>
+wherein the ink droplet comprises the inkjet recording ink
+described in (1) or (2) above.</p><heading><u style="single">DETAILED DESCRIPTION OF THE INVENTION</u></heading><p num="0008">The present invention is described in detail below.</p><p num="0009">The dye used in the inkjet recording ink of the
+present invention is a phthalocyanine dye, preferably a
+dye represented by formula (I). The phthalocyanine dye is
+a dye having fastness but this dye is known to be inferior
+in the fastness to ozone gas when used as a dye for inkjet
+recording.</p><p num="0010">In the present invention, an electron withdrawing
+group is preferably introduced into the phthalocyanine
+skeleton to have an oxidation potential nobler than 1.0 V
+(vs SCE) and thereby reduce the reactivity with ozone
+which is an electrophilic agent. A nobler oxidation
+potential is more preferred and the oxidation potential is
+more preferably nobler than 1.1 V (vs SCE) and most
+preferably nobler than 1.2 V (vs SCE).</p><p num="0011">The oxidation potential value (Eox) can be easily
+measured by one skilled in the art and the method therefor
+is described, for example, in P. Delahay, <u style="single">New Instrumental</u><u style="single">Methods in Electrochemistry,</u> Interscience Publishers
+(1954), A.J. Bard et al., <u style="single">Electrochemical Methods,</u> John
+Wiley &amp; Sons (1980), and Akira Fujishima et al.,
+<u style="single">Denkikagaku Sokutei Ho (Electrochemical Measuring Method),</u>
+Gihodo Shuppan Sha (1984).</p><p num="0012">More specifically, a test sample is dissolved to a
+concentration of 1×10<sup>-4</sup> to 1×10<sup>-6</sup> mol/liter in a solvent
+such as dimethylformamide or acetonitrile containing a
+supporting electrolyte such as sodium perchlorate or
+tetrapropylammonium perchlorate and the oxidation
+potential is measured as a value to SCE (saturated calomel
+electrode) using a cyclic voltammetry or a direct current
+polarography. This value sometimes deviates on the order
+of tens of millivolt due to the effect of liquid junction
+potential, liquid resistance of sample solution, or the
+like, however, the reproducibility of potential can be
+guaranteed by adding a standard sample (for example,
+hydroquinone).</p><p num="0013">In order to univocally specify the potential, in the
+present invention, the value (vs SCE) measured by a direct
+current polarography in a dimethylformamide (concentration
+of dye: 0.001 mol dm<sup>-3</sup>) containing 0.1 mol dm<sup>-3</sup> of tetrapropylammonium
+perchlorate as the supporting electrolyte
+is used as the oxidation potential of the dye. </p><p num="0014">The Eox value indicates the transferability of an
+electron from the sample to the electrode and as the value
+is larger (the oxidation potential is nobler), the
+electron is less transferable from the sample to the
+electrode, in other words, the oxidation less occurs. As
+for the relationship with the structure of compound, the
+oxidation potential becomes nobler by introducing an
+electron withdrawing group and becomes baser by
+introducing an electron donating group. In the present
+invention, the oxidation potential is preferably rendered
+nobler by introducing an electron withdrawing group into
+the phthalocyanine skeleton so as to reduce the reactivity
+with ozone which is an electrophilic agent. Accordingly,
+when the Hammett's substituent constant σp value as a
+measure for the electron withdrawing property or electron
+donating property of substituent is used, the oxidation
+potential can be rendered nobler by introducing a
+substituent having a large σp value, such as sulfinyl
+group, sulfonyl group and sulfamoyl group.</p><p num="0015">For such potential control, the phthalocyanine dye
+represented by formula (I) is used in the present
+invention.</p><p num="0016">In formula (I), X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub> and X<sub>4</sub> each independently
+represents -SO-Z, -SO<sub>2</sub>-Z, -SO<sub>2</sub>NR<sub>1</sub>R<sub>2</sub>, a sulfo group, -CONR<sub>1</sub>R<sub>2</sub>
+or -CO<sub>2</sub>R<sub>1</sub>. Among these substituents, preferred are -SO-Z, 
+-SO<sub>2</sub>-Z, -SO<sub>2</sub>NR<sub>1</sub>R<sub>2</sub> and -CONR<sub>1</sub>R<sub>2</sub>, more preferred are -SO<sub>2</sub>-Z
+and -SO<sub>2</sub>NR<sub>1</sub>R<sub>2</sub>, and most preferred is -SO<sub>2</sub>-Z. In the case
+where at least one of a<sub>1</sub> to a<sub>4</sub> showing the number of
+substituent each represents a number of 2 or more, a
+corresponding plurality of substituents X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub> or X<sub>4</sub>
+may be the same or different and each independently
+represents any one of the above-described groups. X<sub>1</sub>, X<sub>2</sub>,
+X<sub>3</sub> and X<sub>4</sub> may be completely the same substituents, may be
+substituents of the same kind but partially different as
+in the case, for example, where X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub> and X<sub>4</sub> all are-SO<sub>2</sub>-Z
+and Zs are different from each other, or may include
+substituents different from each other, for example, -SO<sub>2</sub>-Z
+and -SO<sub>2</sub>NR<sub>1</sub>R<sub>2</sub>.</p><p num="0017">Each Z independently represents a substituted or
+unsubstituted alkyl group, a substituted or unsubstituted
+cycloalkyl group, a substituted or unsubstituted alkenyl
+group, a substituted or unsubstituted aralkyl group, a
+substituted or unsubstituted aryl group, or a substituted
+or unsubstituted heterocyclic group, preferably a
+substituted or unsubstituted alkyl group, a substituted or
+unsubstituted aryl group or a substituted or unsubstituted
+heterocyclic group, and most preferably a substituted
+alkyl group, a substituted aryl group or a substituted
+heterocyclic group.</p><p num="0018">R<sub>1</sub> and R<sub>2</sub> each independently represents a hydrogen 
+atom, a substituted or unsubstituted alkyl group, a
+substituted or unsubstituted cycloalkyl group, a
+substituted or unsubstituted alkenyl group, a substituted
+or unsubstituted aralkyl group, a substituted or
+unsubstituted aryl group, or a substituted or
+unsubstituted heterocyclic group, preferably a hydrogen
+atom, a substituted or unsubstituted alkyl group, a
+substituted or unsubstituted aryl group, or a substituted
+or unsubstituted heterocyclic group, most preferably a
+hydrogen atom, a substituted alkyl group, a substituted
+aryl group or a substituted heterocyclic group. However,
+it is not preferred that R<sub>1</sub> and R<sub>2</sub> both are a hydrogen atom.</p><p num="0019">The substituted or unsubstituted alkyl group
+represented by R<sub>1</sub>, R<sub>2</sub> and Z is preferably an alkyl group
+having from 1 to 30 carbon atoms, more preferably a
+branched alkyl group because the solubility of dye and the
+stability of ink are improved, and still more preferably
+an alkyl group having an asymmetric carbon (use in the
+racemic form). Examples of the substituent include those
+described later as the substituent when Z, R<sub>1</sub>, R<sub>2</sub>, Y<sub>1</sub>, Y<sub>2</sub>,
+Y<sub>3</sub> and Y<sub>4</sub> can further have a substituent. In particular, a
+hydroxyl group, an ether group, an ester group, a cyano
+group, an amido group and a sulfonamido group are
+preferred because the aggregating property and fastness of
+dye are enhanced. Other than these, the alkyl group may 
+be substituted by a halogen atom or an ionic hydrophilic
+group.</p><p num="0020">The substituted or unsubstituted cycloalkyl group
+represented by R<sub>1</sub>, R<sub>2</sub> and Z is preferably a cycloalkyl
+group having from 5 to 30 carbon atoms, more preferably a
+cycloalkyl group having an asymmetric carbon (use in the
+racemic form) because the solubility of dye and the
+stability of ink are improved. Examples of the
+substituent include those described later as the
+substituent when Z, R<sub>1</sub>, R<sub>2</sub>, Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> and Y<sub>4</sub> can further
+have a substituent. In particular, a hydroxyl group, an
+ether group, an ester group, a cyano group, an amido group
+and a sulfonamido group are preferred because the
+aggregating property and fastness of dye are enhanced.
+Other than these, the cycloalkyl group may be substituted
+by a halogen atom or an ionic hydrophilic group.</p><p num="0021">The substituted or unsubstituted alkenyl group
+represented by R<sub>1</sub>, R<sub>2</sub> and Z is preferably an alkenyl group
+having from 2 to 30 carbon atoms, more preferably a
+branched alkenyl group because the solubility of dye and
+the stability of ink are improved, and still more
+preferably an alkenyl group having an asymmetric carbon
+(use in the racemic form). Examples of the substituent
+include those described later as the substituent when Z,
+R<sub>1</sub>, R<sub>2</sub>, Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> and Y<sub>4</sub> can further have a substituent. 
+In particular, a hydroxyl group, an ether group, an ester
+group, a cyano group, an amido group and a sulfonamido
+group are preferred because the aggregating property and
+fastness of dye are enhanced. Other than these, the
+alkenyl group may be substituted by a halogen atom or an
+ionic hydrophilic group.</p><p num="0022">The substituted or unsubstituted aralkyl group
+represented by R<sub>1</sub>, R<sub>2</sub> and Z is preferably an aralkyl group
+having from 7 to 30 carbon atoms, more preferably a
+branched aralkyl group because the solubility of dye and
+the stability of ink are improved, and still more
+preferably an aralkyl group having an asymmetric carbon
+(use in the racemic form). Examples of the substituent
+include those described later as the substituent when Z,
+R<sub>1</sub>, R<sub>2</sub>, Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> and Y<sub>4</sub> can further have a substituent.
+In particular, a hydroxyl group, an ether group, an ester
+group, a cyano group, an amido group and a sulfonamido
+group are preferred because the aggregating property and
+fastness of dye are enhanced. Other than these, the
+aralkyl group may be substituted by a halogen atom or an
+ionic hydrophilic group. Incidentally, the number of
+carbon atoms in the alkyl group does not contain carbon
+atoms of substituents and this applies to other groups.</p><p num="0023">The substituted or unsubstituted aryl group
+represented by R<sub>1</sub>, R<sub>2</sub> and Z is preferably an aryl group 
+having from 6 to 30 carbon atoms. Examples of the
+substituent include those described later as the
+substituent when Z, R<sub>1</sub>, R<sub>2</sub>, Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> and Y<sub>4</sub> can further
+have a substituent. In particular, an electron
+withdrawing group is preferred because the dye can be
+noble in the oxidation potential and improved in the
+fastness.</p><p num="0024">Examples of the electron withdrawing group for use
+in the present invention include those having a positive
+Hammett's substituent constant σp value. Among these,
+preferred are a halogen atom, a heterocyclic group, a
+cyano group, a carboxyl group, an acylamino group, a
+sulfonamido group, a sulfamoyl group, a carbamoyl group, a
+sulfonyl group, an imido group, an acyl group, a sulfo
+group and a quaternary ammonium group, more preferred are
+a cyano group, a carboxyl group, a sulfamoyl group, a
+carbamoyl group, a sulfonyl group, an imido group, an acyl
+group, a sulfo group and a quaternary ammonium group.</p><p num="0025">The heterocyclic group represented by R<sub>1</sub>, R<sub>2</sub> and Z is
+preferably a 5- or 6-membered ring and the ring may be
+further condensed. Also, the heterocyclic group may be an
+aromatic heterocyclic group or a non-aromatic heterocyclic
+group. Examples of the heterocyclic group represented by
+R<sub>1</sub>, R<sub>2</sub> and Z are shown below in the form of a heterocyclic
+ring by omitting the substitution site. The substitution 
+site is not limited and for example, pyridine may be
+substituted at the 2-position, 3-position and 4-position.
+Examples include pyridine, pyrazine, pyrimidine,
+pyridazine, triazine, quinoline, isoquinoline, quinazoline,
+cinnoline, phthalazine, quinoxaline, pyrrole, indole,
+furan, benzofuran, thiophene, benzothiophene, pyrazole,
+imidazole, benzimidazole, triazole, oxazole, benzoxazole,
+thiazole, benzothiazole, isothiazole, benzisothiazole,
+thiadiazole, isoxazole, benzisoxazole, pyrrolidine,
+piperidine, piperazine, imidazolidine and thiazoline. In
+particular, an aromatic heterocyclic group is preferred.
+Preferred examples thereof include, shown in the same
+manner as above, pyridine, pyrazine, pyrimidine,
+pyridazine, triazine, pyrazole, imidazole, benzimidazole,
+triazole, thiazole, benzothiazole, isothiazole,
+benzisothiazole and thiadiazole. These groups each may
+have a substituent and examples of the substituent include
+those described later as the substituent when Z, R<sub>1</sub>, R<sub>2</sub>, Y<sub>1</sub>,
+Y<sub>2</sub>, Y<sub>3</sub> and Y<sub>4</sub> can further have a substituent. Preferred
+substituents are the same as the above-described
+substituents of the aryl group and more preferred
+substituents are the same as the above-described more
+preferred substituents of the aryl group.</p><p num="0026">Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> and Y<sub>4</sub> each independently represents a
+hydrogen atom, a halogen atom, an alkyl group, a 
+cycloalkyl group, an alkenyl group, an aralkyl group, an
+aryl group, a heterocyclic group, a cyano group, a
+hydroxyl group, a nitro group, an amino group, an
+alkylamino group, an alkoxy group, an aryloxy group, an
+acylamino group, an arylamino group, a ureido group, a
+sulfamoylamino group, an alkylthio group, an arylthio
+group, an alkoxycarbonylamino group, a sulfonamido group,
+a carbamoyl group, a sulfamoyl group, a sulfonyl group, an
+alkoxycarbonyl group, a heterocyclic oxy group, an azo
+group, an acyloxy group, a carbamoyloxy group, a silyloxy
+group, an aryloxycarbonyl group, an aryloxycarbonylamino
+group, an imido group, a heterocyclic thio group, a
+phosphoryl group, an acyl group, a carboxyl group or a
+sulfo group. These substituents each may further have a
+substituent.</p><p num="0027">Among these, preferred are a hydrogen atom, a
+halogen atom, an alkyl group, an aryl group, a cyano group,
+an alkoxy group, an amido group, a ureido group, a
+sulfonamido group, a carbamoyl group, a sulfamoyl group,
+an alkoxycarbonyl group, a carboxyl group and a sulfo
+group, more preferred are a hydrogen atom, a halogen atom,
+a cyano group, a carboxyl group and a sulfo group, and
+most preferred is a hydrogen atom.</p><p num="0028">When Z, R<sub>1</sub>, R<sub>2</sub>, Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> and Y<sub>4</sub> each is a group
+which can further have a substituent, the group may 
+further have the following substituent.</p><p num="0029">Examples of the substituent include a linear or
+branched alkyl group having from 1 to 12 carbon atoms, a
+linear or branched aralkyl group having from 7 to 18
+carbon atoms, a linear or branched alkenyl group having
+from 2 to 12 carbon atoms, a linear or branched alkynyl
+group having from 2 to 12 carbon atoms, a linear or
+branched cycloalkyl group having from 3 to 12 carbon atoms,
+a linear or branched cycloalkenyl group having from 3 to
+12 carbon atoms (these groups each is preferably a group
+having a branched chain because the solubility of dye and
+the stability of ink are improved, more preferably a group
+having an asymmetric carbon, e.g., methyl, ethyl, propyl,
+isopropyl, sec-butyl, tert-butyl, 2-ethylhexyl, 2-methylsulfonylethyl,
+3-phenoxypropyl, trifluoromethyl,
+cyclopentyl), a halogen atom (e.g., chlorine, bromine), an
+aryl group (e.g., phenyl, 4-tert-butylphenyl, 2,4-di-tert-amylphenyl),
+a heterocyclic group (e.g., imidazolyl,
+pyrazolyl, triazolyl, 2-furyl, 2-thienyl, 2-pyrimidinyl,
+2-benzothiazolyl), a cyano group, a hydroxyl group, a
+nitro group, a carboxy group, an amino group, an alkyloxy
+group (e.g., methoxy, ethoxy, 2-methoxyethoxy, 2-methane-sulfonylethoxy),
+an aryloxy group (e.g., phenoxy, 2-methylphenoxy,
+4-tert-butylphenoxy, 3-nitrophenoxy, 3-tert-butyloxycarbamoylphenoxy,
+3-methoxycarbamoyl), an 
+acylamino group (e.g., acetamido, benzamido, 4-(3-tert-butyl-4-hydroxyphenoxy)butanamido),
+an alkylamino group
+(e.g., methylamino, butylamino, diethylamino,
+methylbutylamino), an anilino group (e.g., phenylamino, 2-chloroanilino),
+a ureido group (e.g., phenylureido,
+methylureido, N,N-dibutylureido), a sulfamoylamino group
+(e.g., N,N-dipropylsulfamoylamino), an alkylthio group
+(e.g., methylthio, octylthio, 2-phenoxyethylthio), an
+arylthio group (e.g., phenylthio, 2-butoxy-5-tert-octylphenylthio,
+2-carboxyphenylthio), an
+alkyloxycarbonylamino group (e.g., methoxycarbonylamino),
+a sulfonamido group (e.g., methanesulfonamido,
+benzenesulfonamido, p-toluenesulfonamido), a carbamoyl
+group (e.g., N-ethylcarbamoyl, N,N-dibutylcarbamoyl), a
+sulfamoyl group (e.g., N-ethylsulfamoyl, N,N-dipropylsulfamoyl,
+N-phenylsulfamoyl), a sulfonyl group
+(e.g., methanesulfonyl, octanesulfonyl, benzenesulfonyl,
+toluenesulfonyl), an alkyloxycarbonyl group (e.g.,
+methoxycarbonyl, butyloxycarbonyl), a heterocyclic oxy
+group (e.g., 1-phenyltetrazol-5-oxy, 2-tetrahydro-pyranyloxy),
+an azo group (e.g., phenylazo, 4-methoxyphenylazo,
+4-pivaloylaminophenylazo, 2-hydroxy-4-propanoylphenylazo),
+an acyloxy group (e.g., acetoxy), a
+carbamoyloxy group (e.g., N-methylcarbamoyloxy, N-phenyl-carbamoyloxy),
+a silyloxy group (e.g., trimethylsilyloxy, 
+dibutylmethylsilyloxy), an aryloxycarbonylamino group
+(e.g., phenoxycarbonylamino), an imido group (e.g., N-succinimido,
+N-phthalimido), a heterocyclic thio group
+(e.g., 2-benzothiazolylthio, 2,4-di-phenoxy-1,3,5-triazole-6-thio,
+2-pyridylthio), a sulfinyl group (e.g.,
+3-phenoxypropylsulfinyl), a phosphonyl group (e.g.,
+phenoxyphosphonyl, octyloxyphosphonyl, phenylphosphonyl),
+an aryloxycarbonyl group (e.g., phenoxycarbonyl), an acyl
+group (e.g., acetyl, 3-phenylpropanoyl, benzoyl), and an
+ionic hydrophilic group (e.g., carboxyl, sulfo, phosphono,
+quaternary ammonium).</p><p num="0030">In the case where the phthalocyanine dye represented
+by formula (I) is water-soluble, the dye preferably has an
+ionic hydrophilic group. Examples of the ionic
+hydrophilic group include a sulfo group, a carboxyl group,
+a phosphono group and a quaternary ammonium group. Among
+these ionic hydrophilic groups, preferred are a carboxyl
+group, a phosphono group and a sulfo group, more preferred
+are a carboxyl group and a sulfo group. The carboxyl
+group, the phosphono group and the sulfo group each may be
+in the form of a salt and examples of the counter ion for
+forming the salt include ammonium ion, alkali metal ion
+(e.g., lithium ion, sodium ion, potassium ion) and organic
+cation (e.g., tetramethylammonium ion,
+tetramethylguanidium ion, tetramethylphosphonium). Among 
+these counter ions, an alkali metal salt is preferred and
+a lithium salt is more preferred because this salt
+enhances the solubility of dye and improves the stability
+of ink.</p><p num="0031">As for the number of ionic hydrophilic groups, the
+phthalocyanine dye preferably has at least two ionic
+hydrophilic groups, more preferably at least two sulfo
+groups and/or carboxyl groups, within one molecule.</p><p num="0032">a<sub>1</sub> to a<sub>4</sub> and b<sub>1</sub> to b<sub>4</sub> each represents the number of
+substituent X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub>, X<sub>4</sub>, Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> or Y<sub>4</sub>. a<sub>1</sub> to a<sub>4</sub> each
+independently represents a number of 0 to 4 but all are
+not 0 at the same time. b<sub>1</sub> to b<sub>4</sub> each independently
+represents a number of 0 to 4. When at least one of a<sub>1</sub> to
+a<sub>4</sub> and b<sub>1</sub> to b<sub>4</sub> each represents a number of 2 or more, a
+corresponding plurality of substituents of at least one of
+X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub>, X<sub>4</sub>, Y<sub>1</sub>, Y<sub>2</sub>, Y<sub>3</sub> or Y<sub>4</sub> may be the same or different.</p><p num="0033">a<sub>1</sub> and b<sub>1</sub> each independently represents a number of 0
+to 4 satisfying the relationship of a<sub>1</sub>+b<sub>1</sub>=4. In particular,
+a combination that a<sub>1</sub> represents 1 or 2 and b<sub>1</sub> represents 3
+or. 2 is preferred, and a combination that a<sub>1</sub> represents 1
+and b<sub>1</sub> represents 3 is most preferred.</p><p num="0034">The same relationship as that between a<sub>1</sub> and b<sub>1</sub> is
+present in each of the pairs a<sub>2</sub> and b<sub>2</sub>, a<sub>3</sub> and b<sub>3</sub>, and a<sub>4</sub>
+and b<sub>4</sub>, and the preferred combination is also the same.</p><p num="0035">M represents a hydrogen atom, a metal element or an 
+oxide, hydroxide or halide thereof.</p><p num="0036">M is preferably a hydrogen atom, a metal element
+such as Li, Na, K, Mg, Ti, Zr, V, Nb, Ta, Cr, Mo, W, Mn,
+Fe, Co, Ni, Ru, Rh, Pd, Os, Ir, Pt, Cu, Ag, Au, Zn, Cd, Hg,
+Al, Ga, In, Si, Ge, Sn, Pb, Sb and Bi, an oxide such as VO
+and GeO, a hydroxide such as Si(OH)<sub>2</sub>, Cr(OH)<sub>2</sub> and Sn(OH)<sub>2</sub>,
+or a halide such as AlCl, SiCl<sub>2</sub>, VCl, VCl<sub>2</sub>, VOCl, FeCl,
+GaCl and ZrCl.</p><p num="0037">Among these, preferred are Cu, Ni, Zn and Al, and
+most preferred is Cu.</p><p num="0038">Also, Pc (phthalocyanine ring) may form a dimer (for
+example, Pc-M-L-M-Pc) or a trimer through L (divalent
+linking group). At this time, Ms may be the same or
+different.</p><p num="0039">The divalent linking group represented by L is
+preferably an oxy group -O-, a thio group -S-, a carbonyl
+group -CO-, a sulfonyl group -SO<sub>2</sub>-, an imino group -NH-, a
+methylene group -CH<sub>2</sub>- or a group formed by combining two
+or more of these groups.</p><p num="0040">As for the preferred combination of substituents in
+the compound represented by formula (I), a compound where
+at least one of various substituents is the preferred
+group is preferred, a compound where a larger number of
+various substituents are the preferred groups is more
+preferred, and a compound where all substituents are the 
+preferred groups is most preferred.</p><p num="0041">Among the phthalocyanine dyes represented by formula
+(I), a phthalocyanine dye having a structure represented
+by formula (II) is preferred. The phthalocyanine dye
+represented by formula (II) of the present invention is
+described in detail below.</p><p num="0042">In formula (II), X<sub>11</sub> to X<sub>14</sub> and Y<sub>11</sub> to Y<sub>18</sub> have the
+same meanings as X<sub>1</sub> to X<sub>4</sub> and Y<sub>1</sub> to Y<sub>4</sub> in formula (I),
+respectively, and preferred examples are also the same. M
+has the same meaning as M in formula (I) and preferred
+examples are also the same.</p><p num="0043">In formula (II), a<sub>11</sub> to a<sub>14</sub> each independently
+represents an integer of 1 or 2 and preferably satisfy
+4≤a<sub>11</sub>+a<sub>12</sub>+a<sub>13</sub>+a<sub>14</sub>≤6, and a<sub>11</sub>=a<sub>12</sub>=a<sub>13</sub>=a<sub>14</sub>=1 is more preferred.</p><p num="0044">X<sub>11</sub>, X<sub>12</sub>, X<sub>13</sub> and X<sub>14</sub> may be completely the same
+substituents, may be substituents of the same kind but
+partially different as in the case, for example, where X<sub>11</sub>,
+X<sub>12</sub>, X<sub>13</sub> and X<sub>14</sub> all are -SO<sub>2</sub>-Z and Zs are different from
+each other, or may include substituents different from
+each other, for example, -SO<sub>2</sub>-Z and -SO<sub>2</sub>NR<sub>1</sub>R<sub>2</sub>.</p><p num="0045">In the phthalocyanine dye represented by formula
+(II), the following combination of substituents is
+particularly preferred.</p><p num="0046">X<sub>11</sub> to X<sub>14</sub> each independently represents
+preferably -SO-Z, -SO<sub>2</sub>-Z, -SO<sub>2</sub>NR<sub>1</sub>R<sub>2</sub> or -CONR<sub>1</sub>R<sub>2</sub>, more 
+preferably -SO<sub>2</sub>Z or -SO<sub>2</sub>NR<sub>1</sub>R<sub>2</sub>, most preferably -SO<sub>2</sub>-Z.</p><p num="0047">Each Z independently represents preferably a
+substituted or unsubstituted alkyl group, a substituted or
+unsubstituted aryl group or a substituted or unsubstituted
+heterocyclic group, and most preferably a substituted
+alkyl group, a substituted aryl group or a substituted
+heterocyclic group. In particular, the case where an
+asymmetric carbon is present in the substituent (use in
+the racemic form) is preferred because the solubility of
+dye and the stability of ink are enhanced. Also, the case
+where a hydroxyl group, an ether group, an ester group, a
+cyano group, an amido group or a sulfonamido group is
+present in the substituent is preferred because the
+aggregating property and fastness are improved.</p><p num="0048">R<sub>1</sub> and R<sub>2</sub> each independently represents preferably a
+hydrogen atom, a substituted or unsubstituted alkyl group,
+a substituted or unsubstituted aryl group or a substituted
+or unsubstituted heterocyclic group, and most preferably a
+hydrogen atom, a substituted alkyl group, a substituted
+aryl group or a substituted heterocyclic group. However,
+it is not preferred that R<sub>1</sub> and R<sub>2</sub> both are a hydrogen atom.
+In particular, the case where an asymmetric carbon is
+present in the substituent (use in the racemic form) is
+preferred because the solubility of dye and the stability
+of ink are enhanced. Also, the case where a hydroxyl 
+group, an ether group, an ester group, a cyano group, an
+amido group or a sulfonamido group is present in the
+substituent is preferred because the aggregating property
+and fastness are improved.</p><p num="0049">Y<sub>11</sub> to Y<sub>18</sub> each independently represents preferably a
+hydrogen atom, a halogen atom, an alkyl group, an aryl
+group, a cyano group, an alkoxy group, an amido group, a
+ureido group, a sulfonamido group, a carbamoyl group, a
+sulfamoyl group, an alkoxycarbonyl group, a carboxyl group
+or a sulfo group, more preferably a hydrogen atom, a
+halogen atom, a cyano group, a carboxyl group or a sulfo
+group, and most preferably a hydrogen atom.</p><p num="0050">a<sub>11</sub> to a<sub>14</sub> each independently represents preferably 1
+or 2 and it is particularly preferred that all are 1.</p><p num="0051">M represents a hydrogen atom, a metal element or an
+oxide, hydroxide or halide thereof, more preferably Cu, Ni,
+Zn or Al, and most preferably Cu.</p><p num="0052">In the case where the phthalocyanine dye represented
+by formula (II) is water-soluble, the dye preferably has
+an ionic hydrophilic group. Examples of the ionic
+hydrophilic group include a sulfo group, a carboxyl group,
+a phosphono group and a quaternary ammonium group. Among
+these ionic hydrophilic groups, preferred are a carboxyl
+group, a phosphono group and a sulfo group, more preferred
+are a carboxyl group and a sulfo group. The carboxyl 
+group, the phosphono group and the sulfo group each may be
+in the form of a salt and examples of the counter ion for
+forming the salt include ammonium ion, alkali metal ion
+(e.g., lithium ion, sodium ion, potassium ion) and organic
+cation (e.g., tetramethylammonium ion,
+tetramethylguanidium ion, tetramethylphosphonium). Among
+these counter ions, an alkali metal salt is preferred and
+a lithium salt is more preferred because this salt
+enhances the solubility of dye and improves the stability
+of ink.</p><p num="0053">As for the number of ionic hydrophilic groups, the
+phthalocyanine dye preferably has at least two ionic
+hydrophilic groups, more preferably at least two sulfo
+groups and/or carboxyl groups, within one molecule.</p><p num="0054">As for the preferred combination of substituents in
+the compound represented by formula (II), a compound where
+at least one of various substituents is the preferred
+group is preferred, a compound where a larger number of
+various substituents are the preferred groups is more
+preferred, and a compound where all substituents are the
+preferred groups is most preferred.</p><p num="0055">As for the chemical structure of the phthalocyanine
+dye of the present invention, at least one electron
+withdrawing group such as sulfinyl group, sulfonyl group
+and sulfamoyl group is preferably introduced into 
+respective four benzene rings of phthalocyanine such that
+the total of σp values of the substituents in the entire
+phthalocyanine skeleton becomes 1.6 or more.</p><p num="0056">The Hammett's substituent constant σp value is
+briefly described. The Hammett's rule is a rule of thumb
+advocated by L.P. Hammett in 1935 so as to quantitatively
+discuss the effect of substituent on the reaction or
+equilibrium of benzene derivatives and its propriety is
+widely admitted at present. The substituent constant
+determined by the Hammett's rule includes a σp value and a
+σm value and these values can be found in a large number
+of general publications but these are described in detail,
+for example, in J.A. Dean (compiler), <u style="single">Lange's Handbook of
+Chemistry,</u> 12th ed., McGraw-Hell (1979), and <u style="single">Kagakuno
+Ryoiki (Chemistry Region),</u> special number, No. 122, pp.
+96-103, Nankodo (1979).</p><p num="0057">Generally, in view of the synthesis method, the
+phthalocyanine derivative represented by formula (I) is
+inevitably a mixture of analogues differing in the site
+where the substituents Xn (n=1 to 4) and Ym (m=1 to 4) are
+introduced and in the number of the substituents
+introduced. Accordingly, these analogue mixtures are
+statistically averaged and represented by a formula in
+many cases. In the present invention, it has been found
+that when these analogue mixtures are classified into the 
+following three types, a specific mixture is particularly
+preferred. The phthalocyanine-base dye analogue mixtures
+represented by formulae (I) and (II) are defined by
+classifying these into the following three types based on
+the substitution site.</p><heading>(1) β-Position substitution type:</heading><p num="0058">A phthalocyanine dye having specific substituents at
+the 2- and/or 3-position, the 6- and/or 7-position, the
+10- and/or 11-position, and the 14- and/or 15-position.</p><heading>(2) α-Position substitution type:</heading><p num="0059">A phthalocyanine dye having specific substituents at
+the 1- and/or 4-position, the 5- and/or 8-position, the 9-and/or
+12-position, and the 13- and/or 16-position.</p><heading>(3) α,β-Position mixed substitution type:</heading><p num="0060">A phthalocyanine dye having specific substitutions
+at the 1- to 16-positions without any regularity.</p><p num="0061">In the present invention, phthalocyanine dye
+derivatives different in the structure (particularly in
+the substitution site) are described by using these β-position
+substitution type, α-position substitution type
+and α,β-position mixed substitution type.</p><p num="0062">The phthalocyanine derivative for use in the present
+invention can be synthesized by combining the methods
+described or cited, for example, in Shirai and Kobayashi,
+<u style="single">Phthalocyanine -Kagaku to Kino- (Phthalocyanine -Chemistry</u><u style="single">and Function-),</u> pp. 1-62, IPC, and C.C. Leznoff and A.B.P.
+Lever, <u style="single">Phthalocyanines - Properties and Applications,</u>
+pp. 1-54, VCH, or methods analogous thereto.</p><p num="0063">The phthalocyanine compound represented by formula
+(I) of the present invention can be synthesized, for
+example, through sulfonation, sulfonyl chloridation and
+amidation of an unsubstituted phthalocyanine compound as
+described in International Patents 00/17275, 00/08103,
+00/08101 and 98/41853 and JP-A-10-36471 (the term "JP-A"
+as used herein means an "unexamined published Japanese
+patent application"). In this case, sulfonation may take
+place at any site of the phthalocyanine nucleus and the
+number of sites sulfonated is difficult to control.
+Accordingly, when a sulfo group is introduced under such
+reaction conditions, the site and number of sulfo groups
+introduced into the product cannot be specified and a
+mixture of those different in the number of substituents
+or in the substitution site inevitably results. If the
+compound of the present invention is synthesized starting
+from such a product, the compound of the present invention
+is obtained as an α,β-position mixed substitution type
+mixture containing several kinds of compounds different in
+the number of substituents or in the substitution site
+because the number of sulfamoyl groups substituted on the
+heterocyclic ring or their substitution sites cannot be 
+specified.</p><p num="0064">As described above, for example, when many electron
+withdrawing groups such as sulfamoyl group are introduced
+into the phthalocyanine nucleus, the oxidation potential
+becomes nobler and the ozone resistance is increased.
+However, according to the above-described synthesis method,
+a phthalocyanine dye where the number of electron
+withdrawing groups introduced is small, namely, the
+oxidation potential is baser, is inevitably mingled.
+Accordingly, in order to improve the ozone resistance, it
+is preferred to use a synthesis method where the
+production of a compound having a baser oxidation
+potential is suppressed.</p><p num="0065">On the other hand, the phthalocyanine compound
+represented by formula (II) of the present invention can
+be synthesized, for example, by reacting a phthalonitrile
+derivative (Compound P) shown below and/or a
+diiminoisoindoline derivative (Compound Q) shown below
+with a metal derivative represented by formula (III) or
+may be derived from a tetrasulfophthalocyanine compound
+obtained by reacting a 4-sulfophthalonitrile derivative
+(Compound R) shown below with a metal derivative
+represented by formula (III). <img id="img-00290001" orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00290001.tif" inline="no" he="219"/></p><p num="0066">In the formulae above, X<sub>p</sub> corresponds to X<sub>11</sub>, X<sub>12</sub>, X<sub>13</sub>
+or X<sub>14</sub> in formula (II) and Y<sub>q</sub> and Y<sub>q'</sub> each corresponds to 
+Y<sub>11</sub>, Y<sub>12</sub>, Y<sub>13</sub>, Y<sub>14</sub>, Y<sub>15</sub>, Y<sub>16</sub>, Y<sub>17</sub> or Y<sub>18</sub> in formula (II). In
+Compound R, M' represents cation. Examples of the cation
+represented by M' include alkali metal ion such as Li, Na
+and K, and organic cation such as triethylammonium ion and
+pyridinium ion.
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">Formula (III):
+
+M-(Y)<sub>d</sub></st32:che>
+wherein M has the same meaning as M in formulae (I) and
+(II), Y represents a monovalent or divalent ligand such as
+halogen atom, acetate anion, acetylacetonate and oxygen,
+and d represents an integer of 1 to 4.</p><p num="0067">That is, according to this synthesis method, a
+specific number of desired substituents can be introduced.
+Particularly, in the case of introducing a large number of
+electron withdrawing groups so as to render the oxidation
+potential nobler as in the present invention, this
+synthesis method is very excellent as compared with the
+above-described method for synthesizing the phthalocyanine
+compound of formula (I).</p><p num="0068">The thus-obtained phthalocyanine compound
+represented by formulae (II) is usually a mixture of
+compounds represented by the following formulae (a)-1 to
+(a)-4 which are isomers in respect to the substitution
+site of each X<sub>p</sub>, namely, a β-position substitution type. <img id="img-00310001" orientation="unknown" wi="121" img-format="tif" img-content="cf" file="00310001.tif" inline="no" he="112"/><img id="img-00310002" orientation="unknown" wi="121" img-format="tif" img-content="cf" file="00310002.tif" inline="no" he="112"/><img id="img-00320001" orientation="unknown" wi="130" img-format="tif" img-content="cf" file="00320001.tif" inline="no" he="115"/><img id="img-00320002" orientation="unknown" wi="130" img-format="tif" img-content="cf" file="00320002.tif" inline="no" he="111"/></p><p num="0069">In the synthesis method above, when all Xp are the 
+same, a β-position substitution type phthalocyanine dye
+where X<sub>11</sub>, X<sub>12</sub>, X<sub>13</sub> and X<sub>14</sub> are completely the same
+substituents can be obtained. On the other hand, when Xp
+are different, a dye having substituents of the same kind
+but partially different from each other or a dye having
+substituents different from each other can be synthesized.
+Among the dyes of formula (II), these dyes having electron
+withdrawing substituents different from each other are
+preferred because the solubility and aggregating property
+of dye and the aging stability of ink can be controlled.</p><p num="0070">In the present invention, it has been found very
+important in any substitution type for the improvement of
+fastness that the oxidation potential is nobler than 1.0 V
+(vs SCE). The great effect thereof cannot be expected at
+all from the above-described known techniques.
+Furthermore, although the cause is not particularly known,
+there is a tendency that the β-position substitution type
+is apparently more excellent in the color, light fastness,
+ozone resistance and the like than the α,β-position mixed
+substitution type.</p><p num="0071">Specific examples (Compounds I-1 to I-12 and 101 to
+190) of the phthalocyanine dyes represented by formulae
+(I) and (II) are set forth below, however, the
+phthalocyanine dye for use in the present invention is not
+limited to the following examples. </p><heading>Compounds:</heading><p num="0072"><img id="img-00340001" orientation="unknown" wi="124" img-format="tif" img-content="cf" file="00340001.tif" inline="no" he="99"/><img id="img-00340002" orientation="unknown" wi="159" img-format="tif" img-content="cf" file="00340002.tif" inline="no" he="107"/><img id="img-00350001" orientation="unknown" wi="141" img-format="tif" img-content="cf" file="00350001.tif" inline="no" he="106"/><img id="img-00350002" orientation="unknown" wi="141" img-format="tif" img-content="cf" file="00350002.tif" inline="no" he="105"/><img id="img-00360001" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00360001.tif" inline="no" he="116"/><img id="img-00360002" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00360002.tif" inline="no" he="111"/><img id="img-00370001" orientation="unknown" wi="157" img-format="tif" img-content="cf" file="00370001.tif" inline="no" he="130"/><img id="img-00370002" orientation="unknown" wi="157" img-format="tif" img-content="cf"  file="00370002.tif" inline="no" he="108"/><img id="img-00380001" orientation="unknown" wi="161"  img-format="tif"  img-content="cf"  file="00380001.tif" inline="no" he="126"/><img id="img-00380002" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00380002.tif" inline="no" he="104"/><img id="img-00390001" orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00390001.tif" inline="no" he="124"/><img id="img-00390002" orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00390002.tif" inline="no" he="98"/></p><p num="0073">In the following Tables, specific examples of each
+pair of (X<sub>1</sub>, X<sub>2</sub>), (Y<sub>11</sub>, Y<sub>12</sub>), (Y<sub>13</sub>, Y<sub>14</sub>), (Y<sub>15</sub>, Y<sub>16</sub>) and (Y<sub>17</sub>,
+Y<sub>18</sub>) are independently in an irregular order. <img id="img-00410001" orientation="unknown" wi="153" img-format="tif" img-content="tb" file="00410001.tif" inline="no" he="231"/><img id="img-00420001" orientation="unknown" wi="162" img-format="tif" img-content="tb" file="00420001.tif" inline="no" he="232"/><img id="img-00430001" orientation="unknown" wi="144" img-format="tif" img-content="tb" file="00430001.tif" inline="no" he="229"/><img id="img-00440001" orientation="unknown" wi="150" img-format="tif" img-content="tb" file="00440001.tif" inline="no" he="232"/><img id="img-00450001" orientation="unknown" wi="149" img-format="tif" img-content="tb" file="00450001.tif" inline="no" he="231"/><img id="img-00460001" orientation="unknown" wi="147" img-format="tif" img-content="tb" file="00460001.tif" inline="no" he="231"/><img id="img-00470001" orientation="unknown" wi="139" img-format="tif" img-content="tb" file="00470001.tif" inline="no" he="230"/></p><p num="0074">In the following Tables, each introduction site of
+substituents (R<sub>1</sub>) and (R<sub>2</sub>) is in an irregular order within
+the β-position substitution type. <img id="img-00490001" orientation="unknown" wi="145" img-format="tif" img-content="tb" file="00490001.tif" inline="no" he="230"/><img id="img-00500001" orientation="unknown" wi="149" img-format="tif" img-content="tb" file="00500001.tif" inline="no" he="231"/><img id="img-00510001" orientation="unknown" wi="158" img-format="tif" img-content="tb" file="00510001.tif" inline="no" he="229"/><img id="img-00520001" orientation="unknown" wi="119" img-format="tif" img-content="tb" file="00520001.tif" inline="no" he="229"/></p><p num="0075">The structural formula of the phthalocyanine
+compound represented by M-Pc(X<sub>p1</sub>)<sub>m</sub>(X<sub>p2</sub>)<sub>n</sub> in Tables 8 to 11
+is shown below:
+<img id="img-00530001" orientation="unknown" wi="120" img-format="tif" img-content="cf" file="00530001.tif" inline="no" he="92"/>
+(wherein each X<sub>p1</sub> is independently X<sub>p1</sub> or X<sub>p2</sub>).</p><p num="0076">The phthalocyanine dye represented by formula (I)
+can be synthesized according to the patent publications
+described above. Furthermore, the phthalocyanine dye
+represented by formula (II) can be synthesized by the
+methods described in JP-A-2001-226275, JP-A-2001-96610,
+JP-A-2001-47013 and JP-A-2001-193638. The starting
+material, dye intermediate and synthesis route are not
+limited to those described in these patent publications.</p><p num="0077">The inkjet recording ink of the present invention
+contains the above-described phthalocyanine dye in an 
+amount of preferably from 0.2 to 20 % by weight, more
+preferably from 0.5 to 15 % by weight.</p><p num="0078">In combination with the above-described cyan dye,
+other dyes may be used in the inkjet recording ink of the
+present invention so as to adjust the color tone for
+obtaining a full color image. Examples of the dye which
+can be used in combination include the followings.</p><p num="0079">Examples of the yellow dye include aryl- or heteryl-azo
+dyes having a phenol, a naphthol, an aniline, a
+pyrazolone, a pyridone or an open chain-type active
+methylene compound as the coupling component; azomethine
+dyes having an open chain-type active methylene compound
+as the coupling component; methine dyes such as
+benzylidene dye and monomethine oxonol dye; and quinone-base
+dyes such as naphthoquinone dye and anthraquinone dye.
+Other examples of the dye species include quinophthalone
+dye, nitro·nitroso dye, acridine dye and acridinone dye.
+These dyes may be a dye which provides a yellow color for
+the first time when a part of the chromophore is
+dissociated. In this case, the counter cation may be an
+inorganic cation such as alkali metal and ammonium, an
+organic cation such as pyridinium and quaternary ammonium
+salt, or a polymer cation having such a cation as a
+partial structure.</p><p num="0080">Examples of the magenta dye include aryl- or 
+heteryl-azo dyes having a phenol, a naphthol or an aniline
+as the coupling component; azomethine dyes having a
+pyrazolone or a pyrazolotriazole as the coupling
+component; methine dyes such as arylidene dye, styryl dye,
+merocyanine dye and oxonol dye; carbonium dyes such as
+diphenylmethane dye, triphenylmethane dye and xanthene
+dye; quinone-base dyes such as naphthoquinone,
+anthraquinone and anthrapyridone; and condensed polycyclic
+dyes such as dioxazine dye. These dyes may be a dye which
+provides a magenta color for the first time when a part of
+the chromophore is dissociated. In this case, the counter
+cation may be an inorganic cation such as alkali metal and
+ammonium, an organic cation such as pyridinium and
+quaternary ammonium salt, or a polymer cation having such
+a cation as a partial structure.</p><p num="0081">Examples of the cyan dye include azomethine dyes
+such as indoaniline dye and indophenol dye; polymethine
+dyes such as cyanine dye, oxonol dye and merocyanine dye;
+carbonium dyes such as diphenylmethane dye,
+triphenylmethane dye and xanthene dye; phthalocyanine
+dyes; anthraquinone dyes; aryl- or heteryl-azo dyes having
+a phenol, a naphthol or an aniline as the coupling
+component; and indigo.thioindigo dyes. These dyes may be
+a dye which provides a cyan color for the first time when
+a part of the chromophore is dissociated. In this case, 
+the counter cation may be an inorganic cation such as
+alkali metal and ammonium, an organic cation such as
+pyridinium and quaternary ammonium salt, or a polymer
+cation having such a cation as a partial structure.</p><p num="0082">A black dye such as polyazo dye can also be used.</p><p num="0083">Examples of the water-soluble dye include a direct
+dye, an acid dye, a food color, a basic dye and a reactive
+dye. Preferred examples thereof include C.I. Direct Red 2,
+4, 9, 23, 26, 31, 39, 62, 63, 72, 75, 76, 79, 80, 81, 83,
+84, 89, 92, 95, 111, 173, 184, 207, 211, 212, 214, 218, 21,
+223, 224, 225, 226, 227, 232, 233, 240, 241, 242, 243 and
+247; C.I. Direct Violet 7, 9, 47, 48, 51, 66, 90, 93, 94,
+95, 98, 100 and 101; C.I. Direct Yellow 8, 9, 11, 12, 27,
+28, 29, 33, 35, 39, 41, 44, 50, 53, 58, 59, 68, 86, 87, 93,
+95, 96, 98, 100, 106, 108, 109, 110, 130, 132, 142, 144,
+161 and 163; C.I. Direct Blue 1, 10, 15, 22, 25, 55, 67,
+68, 71, 76, 77, 78, 80, 84, 86, 87, 90, 98, 106, 108, 109,
+151, 156, 158, 159, 160, 168, 189, 192, 193, 194, 199, 200,
+201, 202, 203, 207, 211, 213, 214, 218, 225, 229, 236, 237,
+244, 248, 249, 251, 252, 264, 270, 280, 288, 289 and 291;
+C.I. Direct Black 9, 17, 19, 22, 32, 51, 56, 62, 69, 77,
+80, 91, 94, 97, 108, 112, 113, 114, 117, 118, 121, 122,
+125, 132, 146, 154, 166, 168, 173 and 199; C.I. Acid Red
+35, 42, 52, 57, 62, 80, 82, 111, 114, 118, 119, 127, 128,
+131, 143, 151, 154, 158, 249, 254, 257, 261, 263, 266, 289, 
+299, 301, 305, 336, 337, 361, 396 and 397; C.I. Acid
+Violet 5, 34, 43, 47, 48, 90, 103 and 126; C.I. Acid
+Yellow 17, 19, 23, 25, 39, 40, 42, 44, 49, 50, 61, 64, 76,
+79, 110, 127, 135, 143, 151, 159, 169, 174, 190, 195, 196,
+197, 199, 218, 219, 222 and 227; C.I. Acid Blue 9, 25, 40,
+41, 62, 72, 76, 78, 80, 82, 92, 106, 112, 113, 120, 127:1,
+129, 138, 143, 175, 181, 205, 207, 220, 221, 230, 232, 247,
+258, 260, 264, 271, 277, 278, 279, 280, 288, 290 and 326;
+C.I. Acid Black 7, 24, 29, 48, 52:1 and 172; C.I. Reactive
+Red 3, 13, 17, 19, 21, 22, 23, 24, 29, 35, 37, 40, 41, 43,
+45, 49 and 55; C.I. Reactive Violet 1, 3, 4, 5, 6, 7, 8, 9,
+16, 17, 22, 23, 24, 26, 27, 33 and 34; C.I. Reactive
+Yellow 2, 3, 13, 14, 15, 17, 18, 23, 24, 25, 26, 27, 29,
+35, 37, 41 and 42; C.I. Reactive Blue 2, 3, 5, 8, 10, 13,
+14, 15, 17, 18, 19, 21, 25, 26, 27, 28, 29 and 38; C.I.
+Reactive Black 4, 5, 8, 14, 21, 23, 26, 31, 32 and 34; C.I.
+Basic Red 12, 13, 14, 15, 18, 22, 23, 24, 25, 27, 29, 35,
+36, 38, 39, 45 and 46; C.I. Basic Violet 1, 2, 3, 7, 10,
+15, 16, 20, 21, 25, 27, 28, 35, 37, 39, 40 and 48; C.I.
+Basic Yellow 1, 2, 4, 11, 13, 14, 15, 19, 21, 23, 24, 25,
+28, 29, 32, 36, 39 and 40; C.I. Basic Blue 1, 3, 5, 7, 9,
+22, 26, 41, 45, 46, 47, 54, 57, 60, 62, 65, 66, 69 and 71;
+and C.I. Basic Black 8.</p><p num="0084">The dye containing the phthalocyanine dye for use in
+the present invention is substantially soluble or 
+dispersible in water. More specifically, the solubility
+of the dye in water at 20°C is preferably 10 % by weight
+or more, more preferably 15 % by weight or more.</p><p num="0085">In the ink of the present invention, a pigment can
+also be used in combination.</p><p num="0086">As the pigment for use in the present invention,
+commercially available pigments and known pigments
+described in various publications can be used. The
+publication includes <u style="single">Color Index,</u> compiled by The Society
+of Dyers and Colourists, <u style="single">Kaitei Shin Han Ganryo Binran
+(Revised New Handbook of Pigments),</u> compiled by Nippon
+Ganryo Gijutsu Kyokai (1989), <u style="single">Saishin Ganryo Oyo Gijutsu
+(Newest Pigment Application Technology),</u> CMC Shuppan
+(1986), <u style="single">Insatsu Ink Gijutsu (Printing Ink Technique),</u> CMC
+Shuppan (1984), and W. Herbst and K. Hunger, <u style="single">Industrial
+Organic Pigments,</u> VCH Verlagsgesellschaft (1993).
+Specific examples of the organic pigment include azo
+pigments (e.g., azo lake pigment, insoluble azo pigment,
+condensed azo pigment, chelate azo pigment), polycyclic
+pigments (e.g., phthalocyanine-base pigment,
+anthraquinone-base pigment, perylene-base and perynone-base
+pigment, indigo-base pigment, quinacridone-base
+pigment, dioxazine-base pigment, isoindolinone-base
+pigment, quinophthalone-base pigment,
+diketopyrrolopyrrole-base pigment), dyeing lake pigments 
+(lake pigments of acidic or basic dye) and azine pigments.
+Specific examples of the inorganic pigment include yellow
+pigments such as C.I. Pigment Yellow 34, 37, 42 and 53,
+red-base pigments such as C.I. Pigment Red 101 and 108,
+blue-base pigments such as C.I. Pigment Blue 27, 29 and
+17:1, black-base pigments such as C.I. Pigment Black 7 and
+magnetite, and white-base pigments such as C.I. Pigment
+White 4, 6, 18 and 21.</p><p num="0087">The pigments having a preferred color tone for the
+formation of an image include the followings. As the blue
+to cyan pigment, phthalocyanine pigments, anthraquinone-type
+indanthrone pigments (for example, C.I. Pigment Blue
+60) and dyeing lake pigment-type triarylcarbonium pigments
+are preferred, and phthalocyanine pigments are most
+preferred (preferred examples thereof include copper
+phthalocyanine such as C.I. Pigment Blue 15:1, 15:2, 15:3,
+15:4 and 15:6, monochloro or low chlorinated copper
+phthalocyanine, aluminum phthalocyanine such as pigments
+described in European Patent 860475, nonmetallic
+phthalocyanine such as C.I. Pigment Blue 16, and
+phthalocyanine with the center metal being Zn, Ni or Ti,
+and among these, C.I. Pigment Blue 15:3 and 15:4 and
+aluminum phthalocyanine are more preferred).</p><p num="0088">As the red to violet pigment, azo pigments
+(preferred examples thereof include C.I. Pigment Red 3, 5, 
+11, 22, 38, 48:1, 48:2, 48:3, 48:4, 49:1, 52:1, 53:1, 57:1,
+63:2, 144, 146 and 184, and among these, C.I. Pigment Red
+57:1, 146 and 184 are more preferred), quinacridone-base
+pigments (preferred examples thereof include C.I. Pigment
+Red 122, 192, 202, 207 and 209 and C.I. Pigment Violet 19
+and 42, and among these, C.I. Pigment Red 122 is more
+preferred), dyeing lake pigment-type triarylcarbonium
+pigments (preferred examples thereof include xanthene-base
+C.I. Pigment Red 81:1 and C.I. Pigment Violet 1, 2, 3, 27
+and 39), dioxazine-base pigments (for example, C.I.
+Pigment Violet 23 and 37), diketopyrrolopyrrole-base
+pigments (for example, C.I. Pigment Red 254), perylene
+pigments (for example, C.I. Pigment Violet 29),
+anthraquinone-base pigments (for example, C.I. Pigment
+Violet 5:1, 31 and 33) and thioindigo-base pigments (for
+example, C.I. Pigment Red 38 and 88) are preferred.</p><p num="0089">As the yellow pigment, azo pigments (preferred
+examples thereof include monoazo pigment-type C.I. Pigment
+Yellow 1, 3, 74 and 98, disazo pigment-type C.I. Pigment
+Yellow 12, 13, 14, 16, 17 and 83, synthetic azo-type C.I.
+Pigment 93, 94, 95, 128 and 155, and benzimidazolone-type
+C.I. Pigment Yellow 120, 151, 154, 156 and 180, and among
+these, those not using a benzidine-base compound as a raw
+material are more preferred), isoindoline·isoindolinone-base
+pigments (preferred examples thereof include C.I. 
+Pigment Yellow 109, 110, 137 and 139,), quinophthalone
+pigments (preferred examples thereof include C.I. Pigment
+Yellow 138) and flavanthrone pigments (for example, C.I.
+Pigment Yellow 24) are preferred.</p><p num="0090">As the black pigment, inorganic pigments (preferred
+examples thereof include carbon black and magnetite) and
+aniline black are preferred.</p><p num="0091">Other than these, an orange pigment (for example,
+C.I. Pigment Orange 13 and 16) and a green pigment (for
+example, C.I. Pigment Green 7) may be used.</p><p num="0092">The pigment which can be used in the present
+invention may be the above-described pigment as it is or a
+pigment after the surface treatment. For the surface
+treatment, a method of coating the surface with resin or
+wax, a method of attaching a surfactant, and a method of
+binding a reactive substance (for example, a radical
+generated from a silane coupling agent, an epoxy compound,
+polyisocyanate or a diazonium salt) to the pigment surface
+may be used and these are described in the following
+publications and patents:
+<sl><li>(1) <u style="single">Kinzoku Sekken no Seishitsu to Oyo (Properties
+and Applications of Metal Soap),</u> Saiwai Shobo;</li><li>(2) <u style="single">Insatsu Ink Insatsu (Printing Ink Printing),</u>
+CMC Shuppan (1984);</li><li>(3) <u style="single">Saishin Ganryo Oyo Gijutsu (Newest Pigment</u><u style="single">Application Technology),</u> CMC Shuppan (1986);</li><li>(4) U.S. Patents 5,554,739 and 5,571,311; and</li><li>(5) JP-A-9-151342, JP-A-10-140065, JP-A-10-292143
+and JP-A-11-166145.</li></sl></p><p num="0093">Particularly, self-dispersible pigments prepared by
+allowing a diazonium salt to act on carbon black described
+in U.S. Patents of (4) and capsulated pigments prepared by
+the method described in Japanese Patent Publications of
+(5) are effective because dispersion stability can be
+obtained without using an excess dispersant in the ink.</p><p num="0094">In the present invention, the pigment may be
+dispersed by further using a dispersant. Various known
+dispersants can be used according to the pigment used, for
+example, a surfactant-type low molecular dispersant or a
+polymer-type dispersant can be used. Examples of the
+dispersant include those described in JP-A-3-69949 and
+European Patent 549486. In using the dispersant, a
+pigment derivative called synergist may also be added so
+as to accelerate the adsorption of dispersant to the
+pigment.</p><p num="0095">The particle size of the pigment which can be used
+in the present invention is, after the dispersion,
+preferably from 0.01 to 10 µm, more preferably from 0.05
+to 1 µm.</p><p num="0096">As for the method of dispersing the pigment, known 
+dispersion techniques used at the production of ink or
+toner can be used. Examples of the dispersing machine
+include vertical or horizontal agitator mill, attritor,
+colloid mill, ball mill, three-roll mill, bar mill, super-mill,
+impeller, disperser, KD mill, dynatron and pressure
+kneader. These are described in detail in <u style="single">Saishin Ganryo
+Oyo Gijutsu (Newest Pigment Application Technology),</u> CMC
+Shuppan (1986).</p><p num="0097">In a recording medium having an image-receiving
+layer, the ink of the present invention permeates to a
+depth of 5 to 30 µm. With the permeation depth in this
+range, an image having good cyan color and free from
+generation of bronze can be obtained. The permeation
+depth is preferably from 8 to 30 µm, more preferably from
+10 to 30 µm.</p><p num="0098">The permeation depth can be measured, for example,
+by cutting out a section or a slice of the recording
+medium using a microtome and observing it through a
+microscope.</p><p num="0099">The permeation depth varies depending on the
+hydrophilic/hydrophobic balance due to the number of
+hydrophilic group in the dye, the alkylene chain length in
+the side chain, the amide bond and the like, but can be
+controlled by the species of water-miscible organic
+solvent which is described later, the amount of water-miscible 
+organic solvent or the surfactant. For example,
+when the dye is hydrophobic, the permeation is generally
+shallow, however, the permeation can be promoted by
+additionally adding 2-pyrrolidone, diethylene glycol,
+triethylene glycol, glycerin, triethanolamine or the like
+or increasing the amount thereof or by using a surfactant.</p><p num="0100">In order to attain a permeation depth in the desired
+range, the water-miscible organic solvent is preferably
+used to give a total content of 1 to 60 % by weight, more
+preferably from 5 to 50 % by weight in the ink. The
+amount of the surfactant used is preferably from 0.1 to
+10 % by weight, more preferably from 0.5 to 6 % by weight.</p><p num="0101">The surfactant for use in the present invention is
+described below.</p><p num="0102">Examples of the surfactant for use in the present
+invention include anionic surfactants such as fatty acid
+salts, ester salts of higher alcohol, alkylbenzenesulfonates,
+sulfosuccinic acid ester salts, and phosphoric
+acid ester salts of higher alcohol; cationic surfactants
+such as aliphatic amine salts and quaternary ammonium
+salts; nonionic surfactants such as ethylene oxide adducts
+of higher alcohol, ethylene oxide adducts of alkylphenol,
+ethylene oxide adducts of polyhydric alcohol fatty acid
+ester, acetylene glycol and ethylene oxide adducts
+thereof; amphoteric surfactants such as amino acid type 
+and betaine type; and fluorine-containing or silicon-containing
+compounds. These surfactants can be used
+individually or in combination of two or more thereof.</p><p num="0103">When a surfactant is incorporated into the inkjet
+recording ink of the present invention and the liquid
+properties of the ink, such as surface tension, are
+thereby adjusted, the ejection stability of ink can be
+improved and an excellent effect can be provided on the
+elevation of water resistance of image or prevention of
+blurring of the printed ink.</p><p num="0104">The inkjet recording ink of the present invention
+can be produced by dissolving the above-described phthalocyanine
+dye in an aqueous medium, adding a specific amount
+of a surfactant, and if desired, dissolving and/or
+dispersing other additives. The "aqueous medium" as used
+in the present invention means water or a mixture of water
+and a slight amount of water-miscible organic solvent,
+where additives such as wetting agent, stabilizer and
+antiseptic are added, if desired.</p><p num="0105">At the preparation of the ink solution of the
+present invention, in the case of a water-soluble ink, the
+dye is preferably first dissolved in water and thereafter,
+various solvents and additives are added, dissolved and
+mixed to provide a uniform ink solution.</p><p num="0106">For dissolving the dye and the like, various methods 
+such as stirring, ultrasonic irradiation and shaking can
+be used. Among these, stirring is preferred. In
+performing the stirring, various methods known in the art
+can be used, such as flow stirring and stirring utilizing
+the shearing force by means of a reversal agitator or a
+dissolver. Also, a stirring method utilizing the shearing
+force with the bottom surface of a container, such as
+magnetic stirrer, can be advantageously used.</p><p num="0107">The preparation method of the aqueous ink for ink
+jetting is described in detail in JP-A-5-148436, JP-A-5-295312,
+JP-A-7-97541, JP-A-7-82515, JP-A-7-118584 and
+Japanese Patent Application Nos. 2000-200780 and 2000-249799
+and those described in these patent publications
+can be utilized also in the preparation of the inkjet
+recording ink of the present invention.</p><p num="0108">The aqueous medium may be a mixture mainly
+comprising water, where a water-miscible organic solvent
+is added, if desired. Examples of the water-miscible
+organic solvent include alcohols (e.g., methanol, ethanol,
+propanol, isopropanol, butanol, isobutanol, sec-butanol,
+tert-butanol, pentanol, hexanol, cyclohexanol, benzyl
+alcohol), polyhydric alcohols (e.g., ethylene glycol,
+diethylene glycol, triethylene glycol, polyethylene glycol,
+propylene glycol, dipropylene glycol, polypropylene glycol,
+butylene glycol, hexanediol, pentanediol, glycerin, 
+hexanetriol, thiodiglycol), glycol derivatives (e.g.,
+ethylene glycol monomethyl ether, ethylene glycol
+monoethyl ether, ethylene glycol monobutyl ether,
+diethylene glycol monomethyl ether, diethylene glycol
+monobutyl ether, propylene glycol monomethyl ether,
+propylene glycol monobutyl ether, dipropylene glycol
+monomethyl ether, triethylene glycol monomethyl ether,
+ethylene glycol diacetate, ethylene glycol monomethyl
+ether acetate, triethylene glycol monomethyl ether,
+triethylene glycol monoethyl ether, ethylene glycol
+monophenyl ether), amines (e.g., ethanolamine,
+diethanolamine, triethanolamine, N-methyldiethanolamine,
+N-ethyldiethanolamine, morpholine, N-ethylmorpholine,
+ethylenediamine, diethylenetriamine, triethylenetetramine,
+polyethyleneimine, tetramethylpropylenediamine) and other
+polar solvents (e.g., formamide, N,N-dimethylformamide,
+N,N-dimethylacetamide, dimethylsulfoxide, sulfolane, 2-pyrrolidone,
+N-methyl-2-pyrrolidone, N-vinyl-2-pyrrolidone,
+2-oxazolidone, 1,3-dimethyl-2-imidazolidinone,
+acetonitrile, acetone). These water-miscible organic
+solvents can be used in combination of two or more thereof.</p><p num="0109">In the case where the above-described phthalocyanine
+dye is an oil-soluble dye, the ink solution can be
+prepared by dissolving the oil-soluble dye in a high
+boiling point organic solvent and emulsification-dispersing 
+it in an aqueous medium.</p><p num="0110">The high boiling point organic solvent for use in
+the present invention preferably has a boiling point of
+150°C or more, more preferably 170°C or more.</p><p num="0111">Examples of the high boiling point organic solvent
+include phthalic acid esters (e.g., dibutyl phthalate,
+dioctyl phthalate, dicyclohexyl phthalate, di-2-ethylhexyl
+phthalate, decyl phthalate, bis(2,4-di-tert-amylphenyl)
+isophthalate, bis(1,1-diethylpropyl) phthalate), esters of
+phosphoric acid or phosphone (e.g., diphenyl phosphate,
+triphenyl phosphate, tricresyl phosphate, 2-ethylhexyl-diphenyl
+phosphate, dioctylbutyl phosphate, tricyclohexyl
+phosphate, tri-2-ethylhexyl phosphate, tridecyl phosphate,
+di-2-ethylhexylphenyl phosphate), benzoic acid esters
+(e.g., 2-ethylhexyl benzoate, 2,4-dichlorobenzoate,
+dodecyl benzoate, 2-ethylhexyl-p-hydroxybenzoate), amides
+(e.g., N,N-diethyldodecanamide, N,N-diethyllaurylamide),
+alcohols or phenols (e.g., isostearyl alcohol, 2,4-di-tert-amylphenol),
+aliphatic esters (e.g., dibutoxyethyl
+succinate, di-2-ethylhexyl succinate, 2-hexyldecyl
+tetradecanoate, tributyl citrate, diethyl azelate,
+isostearyl lactate, trioctyl citrate), aniline derivatives
+(e.g., N,N-dibutyl-2-butoxy-5-tert-octylaniline),
+chlorinated paraffins (e.g., paraffins having a chlorine
+content of 10 to 80%), trimesic acid esters (e.g., 
+tributyl trimesate), dodecylbenzene,
+diisopropylnaphthalene, phenols (e.g., 2,4-di-tert-amylphenyl,
+4-dodecyloxyphenol, 4-dodecyloxycarbonylphenol,
+4-(4-dodecyloxyphenylsulfonyl)phenol), carboxylic acids
+(e.g., 2-(2,4-di-tert-amylphenoxy)butyric acid, 2-ethoxyoctanedecanoic
+acid), alkylphosphoric acids (e.g.,
+di-(2-ethylhexyl)phosphoric acid and diphenylphosphoric
+acid). The high boiling point organic solvent can be used
+in an amount of, in terms of the mass (weight) ratio to
+the oil-soluble dye, from 0.01 to 3 times, preferably from
+0.01 to 1.0 times.</p><p num="0112">These high boiling point organic solvents may be
+used individually or as a mixture of several kinds [for
+example, tricresyl phosphate and dibutyl phthalate,
+trioctyl phosphate and di(2-ethylhexyl) sebacate, or
+dibutyl phthalate and poly(N-tert-butylacrylamide)].</p><p num="0113">Examples of the high boiling point organic solvent
+for use in the present invention, other than the above-described
+compounds, and the synthesis method of these
+high boiling organic solvents are described, for example,
+in U.S. Patents 2,322,027, 2,533,514, 2,772,163, 2,835,579,
+3,594,171, 3,676,137, 3,689,271, 3,700,454, 3,748,141,
+3,764,336, 3,765,897, 3,912,515, 3,936,303, 4,004,928,
+4,080,209, 4,127,413, 4,193,802, 4,207,393, 4,220,711,
+4,239,851, 4,278,757, 4,353,979, 4,363,873, 4,430,421, 
+4,430,422, 4,464,464, 4,483,918, 4,540,657, 4,684,606,
+4,728,599, 4,745,049, 4,935,321 and 5,013,639, EP-A-276319,
+EP-A-286253, EP-A-289820, EP-A-309158, EP-A-309159, EP-A-309160,
+EP-A-509311, EP-A-510576, East German Patents
+147,009, 157,147, 159,573 and 225,240A, British Patent
+2091124A, JP-A-48-47335, JP-A-50-26530, JP-A-51-25133, JP-A-51-26036,
+JP-A-51-27921, JP-A-51-27922, JP-A-51-149028,
+JP-A-52-46816, JP-A-53-1520, JP-A-53-1521, JP-A-53-15127,
+JP-A-53-146622, JP-A-54-91325, JP-A-54-106228, JP-A-54-118246,
+JP-A-55-59464, JP-A-56-64333, JP-A-56-81836, JP-A-59-204041,
+JP-A-61-84641, JP-A-62-118345, JP-A-62-247364,
+JP-A-63-167357, JP-A-63-214744, JP-A-63-301941, JP-A-64-9452,
+JP-A-64-9454, JP-A-64-68745, JP-A-1-101543, JP-A-1-102454,
+JP-A-2-792, JP-A-2-4239, JP-A-2-43541, JP-A-4-29237,
+JP-A-4-30165, JP-A-4-232946 and JP-A-4-346338.</p><p num="0114">The high boiling point organic solvent is used in a
+mass (weight) ratio of 0.01 to 3.0 times, preferably from
+0.01 to 1.0 times, to the oil-soluble dye.</p><p num="0115">In the present invention, the oil-soluble dye or
+high boiling point organic solvent is used by
+emulsification-dispersing it in an aqueous medium. At the
+emulsification-dispersion, a low boiling point organic
+solvent may be used in combination depending on the case
+from the viewpoint of emulsifiability. The low boiling
+point organic solvent which can be used in combination is 
+an organic solvent having a boiling point of about 30°C to
+150°C at atmospheric pressure. Preferred examples thereof
+include esters (e.g., ethyl acetate, butyl acetate, ethyl
+propionate, β-ethoxyethyl acetate, methylcellosolve
+acetate), alcohols (e.g., isopropyl alcohol, n-butyl
+alcohol, secondary butyl alcohol), ketones (e.g., methyl
+isobutyl ketone, methyl ethyl ketone, cyclohexanone),
+amides (e.g., dimethylformamide, N-methylpyrrolidone) and
+ethers (e.g., tetrahydrofurane, dioxane), however, the
+present invention is not limited thereto.</p><p num="0116">In the emulsification dispersion, an oil phase
+obtained by dissolving the dye in a high boiling organic
+solvent or depending on the case, in a mixed solvent of a
+high boiling organic solvent and a low boiling organic
+solvent is dispersed in an aqueous phase mainly comprising
+water to form fine oil droplets of the oil phase. At this
+time, in either one or both of the aqueous phase and the
+oil phase, additives described later, such as surfactant,
+wetting agent, dye stabilizer, emulsification stabilizer,
+antiseptic and fungicide, can be added, if desired.</p><p num="0117">In the general emulsification method, an oil phase
+is added to an aqueous phase, however, a so-called phase
+inversion emulsification method of adding dropwise an
+aqueous phase in an oil phase can also be preferably used.</p><p num="0118">In performing the emulsification dispersion of the 
+present invention, various surfactants described above can
+be used. Preferred examples thereof include anionic
+surfactants such as fatty acid salt, alkylsulfuric ester
+salt, alkylbenzenesulfonate, alkylnaphthalenesulfonate,
+dialkylsulfosuccinate, alkylphosphoric ester salt,
+naphthalenesulfonic acid formalin condensate and
+polyoxyethylenealkylsulfuric ester salt, and nonionic
+surfactants such as polyoxyethylene alkylallyl ether,
+polyoxyethylene fatty acid ester, sorbitan fatty acid
+ester, polyoxyethylene sorbitan fatty acid ester,
+polyoxyethylene alkylamine, glycerin fatty acid ester and
+oxyethylene oxypropylene block copolymer. Also, SURFYNOLS
+(produced by Air Products &amp; Chemicals), which is an
+acetylene-base polyoxyethylene oxide surfactant, is
+preferably used. In addition, amine oxide-type amphoteric
+surfactants such as N,N-dimethyl-N-alkylamine oxide are
+preferred. Furthermore, surfactants described in JP-A-59-157636
+(pages (37) to (38)) and <u style="single">Research Disclosure,</u> No.
+308119 (1989) can be used.</p><p num="0119">For the purpose of stabilizing the dispersion
+immediately after the emulsification, a water-soluble
+polymer may also be added in combination with the
+surfactant. As the water-soluble polymer, polyvinyl
+alcohol, polyvinylpyrrolidone, polyethylene oxide,
+polyacrylic acid, polyacrylamide, and copolymers thereof 
+are preferably used. In addition, natural water-soluble
+polymers such as polysaccharides, casein and gelatin are
+also preferably used. Furthermore, for the stabilization
+of the dye dispersion, a polymer which does not
+substantially dissolve in an aqueous medium, such as
+polyvinyl, polyurethane, polyester, polyamide, polyurea
+and polycarbonate obtained by the polymerization of
+acrylic acid esters, methacrylic acid esters, vinyl esters,
+acrylamides, methacrylamides, olefins, styrenes, vinyl
+ethers and acrylonitriles, can also be used in combination.
+This polymer preferably contains -SO<sup>2-</sup> or -COO<sup>-</sup>. In the
+case of using this polymer which does not substantially
+dissolve in an aqueous medium, the polymer is preferably
+used in an amount of 20 % by weight or less, more
+preferably 10 % by weight or less, based on the high
+boiling point organic solvent.</p><p num="0120">In preparing an aqueous ink by dispersing an oil-soluble
+dye or a high boiling point organic solvent
+according to the emulsification dispersion, control of the
+particle size is important. In order to elevate the color
+purity or density of an image formed by the ink jetting,
+it is essential to reduce the average particle size. The
+average particle size is, in terms of the volume average
+particle size, preferably 1 µm or less, more preferably
+from 5 to 100 nm. </p><p num="0121">The volume average particle size and particle size
+distribution of the dispersed particles can be easily
+measured by a known method such as static light scattering
+method, dynamic light scattering method, centrifugal
+precipitation method and the method described in <u style="single">Jikken
+Kagaku Koza (Lecture of Experimental Chemistry),</u> 4th ed.,
+pp. 417-418. For example, the ink solution is diluted
+with distilled water such that the particle concentration
+in the ink becomes from 0.1 to 1 % by weight, then, the
+particle size can be easily measured by a commercially
+available volume average particle size measuring apparatus
+(for example, Microtrac UPA, manufactured by Nikkiso K.K.).
+The dynamic light scattering method utilizing the laser
+Doppler effect is particularly preferred because the
+particle size can be measured even in the case of
+particles having a small size.</p><p num="0122">The volume average particle size is an average
+particle size weighted with the particle volume and is
+obtained by multiplying the diameter of individual
+particles in the gathering of particles with the volume of
+the particle and dividing the sum total of the obtained
+values by the total volume of particles. The volume
+average particle size is described in Soichi Muroi,
+<u style="single">Kobunshi Latex no Kagaku (Chemistry of Polymer Latex),</u>
+page 119, Kobunshi Kanko Kai. </p><p num="0123">Also, it is revealed that the presence of coarse
+particles greatly affects the printing performance. More
+specifically, the coarse particle clogs the nozzle of head
+or even if the nozzle is not clogged, forms a soil to
+bring about failure or slippage in the ejection of ink and
+seriously affect the printing performance. In order to
+prevent these troubles, it is important that when an ink
+is prepared, the number of particles having a particle
+size of 5 µm or more and the number of particles having a
+particle size of 1 µm or more are reduced to 10 or less
+and 100 or less, respectively, in 1 µl of ink.</p><p num="0124">For removing these coarse particles, a known method
+such as centrifugal separation or microfiltration can be
+used. This separation step may be performed immediately
+after the emulsification dispersion or may be performed
+immediately before filling the ink in an ink cartridge
+after various additives such as wetting agent and
+surfactant are added to the emulsified dispersion.</p><p num="0125">A mechanically emulsifying apparatus is effective
+for reducing the average particle size and eliminating
+coarse particles.</p><p num="0126">As the emulsifying apparatus, known apparatuses such
+as simple stirrer, impeller stirring system, in-line
+stirring system, mill system such as colloid mill, and
+ultrasonic system can be used, however, a high-pressure 
+homogenizer is particularly preferred.</p><p num="0127">The mechanism of the high-pressure homogenizer is
+described in detail in U.S. Patent 4,533,254 and JP-A-6-47264.
+Examples of the commercially available apparatus
+include Gaulin Homogenizer (manufactured by A.P. V Gaulin
+Inc.), Microfluidizer (manufactured by Microfluidex Inc.)
+and Altimizer (produced by Sugino Machine).</p><p num="0128">The recent high-pressure homogenizer with a
+mechanism of pulverizing particles in an ultrahigh
+pressure jet stream described in U.S. Patent 5,720,551 is
+particularly effective for the emulsification dispersion
+of the present invention. Examples of the emulsifying
+apparatus using this ultrahigh pressure jet stream include
+DeBEE2000 (manufactured by BEE International Ltd.).</p><p num="0129">In performing the emulsification by a high-pressure
+emulsification dispersing apparatus, the pressure is 50
+MPa or more, preferably 60 MPa or more, more preferably
+180 MPa or more.</p> <p num="0130">A method of using two or more emulsifying
+apparatuses, for example, emulsification in a stirring
+emulsifier and then passing through a high-pressure
+homogenizer, is particularly preferred. Also, a method of
+once emulsification dispersing the dye solution by such an
+emulsifying apparatus, adding additives such as wetting
+agent and surfactant, and then again passing the 
+dispersion through a high-pressure homogenizer until
+filling the ink into a cartridge is preferred.</p><p num="0131">In the case of containing a low boiling point
+organic solvent in addition to a high boiling point
+organic solvent, the low boiling point solvent is
+preferably removed in view of stability of the emulsified
+product, safety and hygiene. For removing the low boiling
+point solvent, various known methods can be used according
+to the kind of solvent. Examples of the method include
+evaporation, vacuum evaporation and ultrafiltration. This
+removal of the low boiling point organic solvent is
+preferably performed as soon as possible immediately after
+the emulsification.</p><p num="0132">In the present invention, in the case of using the
+ink as an inkjet recording ink, additives can be
+appropriately selected and used in an appropriate amount
+in addition to those compounds, such as drying inhibitor
+for preventing clogging due to drying of ink at the
+ejection port, permeation accelerator for attaining more
+successful permeation of ink into paper, ultraviolet
+absorbent, antioxidant, viscosity adjusting agent, surface
+tension adjusting agent, dispersant, dispersion stabilizer,
+fungicide, rust inhibitor, pH adjusting agent, defoaming
+agent and chelating agent.</p><p num="0133">The drying inhibitor for use in the present 
+invention is preferably a water-soluble organic solvent
+having a vapor pressure lower than water.</p><p num="0134">Specific examples thereof include polyhydric
+alcohols represented by ethylene glycol, propylene glycol,
+diethylene glycol, polyethylene glycol, thiodiglycol,
+dithiodiglycol, 2-methyl-1,3-propanediol, 1,2,6-hexanetriol,
+acetylene glycol derivative, glycerin and
+trimethylolpropane; lower alkyl ethers of polyhydric
+alcohol, such as ethylene glycol monomethyl(or ethyl)
+ether, diethylene glycol monomethyl(or ethyl) ether and
+triethylene glycol monoethyl(or butyl) ether; heterocyclic
+rings such as 2-pyrrolidone, N-methyl-2-pyrrolidone, 1,3-dimethyl-2-imidazolidinone
+and N-ethylmorpholine; sulfur-containing
+compounds such as sulfolane, dimethylsulfoxide
+and 3-sulfolene; polyfunctional compounds such as
+diacetone alcohol and diethanolamine; and urea derivatives.
+Among these, polyhydric alcohols such as glycerin and
+diethylene glycol are preferred. These drying inhibitors
+may be used individually or in combination of two or more
+thereof. The drying inhibitor is preferably contained in
+the ink in an amount of 10 to 50 % by weight.</p> <p num="0135">Examples of the permeation accelerator for use in
+the present invention include alcohols such as ethanol,
+isopropanol, butanol, diethylene glycol monobutyl ether,
+triethylene glycol monobutyl ether and 1,2-hexanediol, 
+sodium laurylsulfate, sodium oleate and nonionic
+surfactants. A sufficiently high effect can be obtained
+by adding from 10 to 30 % by weight of the permeation
+accelerator to the ink. The permeation accelerator is
+preferably used within the amount range of causing no
+blurring of printed letter or no print through.</p> <p num="0136">Examples of the ultraviolet absorbent which can be
+used for improving the preservability of image in the
+present invention include benzotriazole-base compounds
+described in JP-A-58-185677, JP-A-61-190537, JP-A-2-782,
+JP-A-5-197075 and JP-A-9-34057, benzophenone-base
+compounds described in JP-A-46-2784, JP-A-5-194483 and U.S.
+Patent 3,214,463, cinnamic acid-base compounds described
+in JP-B-48-30492 (the term "JP-B" as used herein means an
+"examined Japanese patent publication"), JP-B-56-21141 and
+JP-A-10-88106, triazine-base compounds described in JP-A-4-298503,
+JP-A-8-53427, JP-A-8-239368, JP-A-10-182621 and
+JP-T-8-501291 (the term "JP-T" as used herein means a
+"published Japanese translation of a PCT patent
+application"), compounds described in <u style="single">Research Disclosure</u>
+No. 24239, and compounds of absorbing ultraviolet light
+and emitting fluorescent light, so-called fluorescent
+brightening agents represented by stilbene-base compound
+and benzoxazole-base compound.</p> <p num="0137">As the antioxidant used for improving the 
+preservability of image in the present invention, various
+organic discoloration inhibitors and metal complex-base
+discoloration inhibitors can be used. Examples of the
+organic discoloration inhibitor include hydroquinones,
+alkoxyphenols, dialkoxyphenols, phenols, anilines, amines,
+indanes, chromans, alkoxyanilines and heterocyclic rings.
+Examples of the metal complex include nickel complex and
+zinc complex. More specifically, compounds described in
+patents cited in <u style="single">Research Disclosure,</u> Nos. 17643 (Items
+VII-I to VII-J), 15162, 18716 (page 650, left column),
+36544 (page 527), 307105 (page 872) and 15162, and
+compounds included in formulae of representative compounds
+and in exemplary compounds described in JP-A-62-215272
+(pages 127 to 137) can be used.</p><p num="0138">Examples of the fungicide for use in the present
+invention include sodium dehydroacetate, sodium benzoate,
+sodium pyridinethione-1-oxide, ethyl p-hydroxybenzoate,
+1,2-benzisothiazolin-3-one and salts thereof. The
+fungicide is preferably used in the ink in an amount of
+0.02 to 5.00 % by weight. These are described in detail
+in <u style="single">Bokin Bobai Zai Jiten (Dictionary of Microbicide and
+Fungicide),</u> compiled by Nippon Bokin Bobai Gakkai Jiten
+Henshu Iinkai. Examples of the rust inhibitor include
+acidic sulfite, sodium thiosulfate, ammon thioglycolate,
+diisopropylammonium nitrite, pentaerythritol tetranitrate, 
+dicyclohexylammonium nitrite and benzotriazole. The rust
+inhibitor is preferably used in the ink in an amount of
+0.02 to 5.00 by weight.</p><p num="0139">The pH adjusting agent for use in the present
+invention is suitably used for adjusting the pH and
+imparting dispersion stability. The pH of the ink is
+adjusted to 8 to 11 at 25°C. If the pH is less than 8, the
+solubility of dye decreases to readily cause clogging of a
+nozzle, whereas if it exceeds 11, the water resistance
+deteriorates. Examples of the pH adjusting agent include,
+as basic one, organic bases and inorganic alkalis, and as
+acidic one, organic acids and inorganic acids.</p><p num="0140">Examples of the organic base include triethanolamine,
+diethanolamine, N-methyldiethanolamine and
+dimethylethanolamine. Examples of the inorganic alkali
+include hydroxides of alkali metal, such as sodium
+hydroxide, lithium hydroxide and potassium hydroxide;
+carbonates of alkali metal, such as sodium carbonate and
+sodium hydrogencarbonate; and ammonium. Examples of the
+organic acid include acetic acid, propionic acid,
+trifluoroacetic acid and alkylsulfonic acid. Examples of
+the inorganic acid include hydrochloric acid, sulfuric
+acid and phosphoric acid.</p><p num="0141">The surface tension of the ink for use in the
+present invention is preferably from 20 to 50 mN/m, more 
+preferably from 20 to 40 mN/m, at 25°C. If the surface
+tension exceeds 50 mN/m, ejection stability and printing
+qualities such as blurring and whisker at the color mixing
+are seriously deteriorated, whereas if the surface tension
+of ink is less than 20 mN/m, printing failure may occur
+due to attachment of ink to the hard surface at the
+ejection.</p><p num="0142">The viscosity of the ink for use in the present
+invention is preferably 30 mPa·s or less, more preferably
+20 mPa·s or less. For the purpose of adjusting the
+viscosity, a viscosity adjusting agent is sometimes used.
+Examples of the viscosity adjusting agent include
+celluloses, water-soluble polymers such as polyvinyl
+alcohol, and nonionic surfactants. These are described in
+detail in <u style="single">Nendo Chosei Gijutsu (Viscosity Adjusting
+Technology),</u> Chap. 9, Gijutsu Joho Kyokai (1999), and
+<u style="single">Inkjet Printer Yo Chemicals (98 Zoho) -Zairyo no Kaihatsu
+Doko·Tenbo Chosa- (Chemicals for Inkjet Printer (Enlarged
+Edition of 98) -Survey on Tendency·Prospect of Development
+of Materials-),</u> pp. 162-174, CMC (1997).</p><p num="0143">In the present invention, a polymer fine particle
+dispersion may also be used. This is described in detail
+in Japanese Patent Application No. 2001-63780.</p><p num="0144">In the present invention, if desired, the above-described
+various cationic, anionic or nonionic 
+surfactants can be used as the dispersant or dispersion
+stabilizer, and fluorine-base or silicone-base compounds,
+chelating agents represented by EDTA, and the like can be
+used as the defoaming agent.</p><p num="0145">The ink of the present invention can be used for
+forming an image on known materials for recording, namely,
+plain paper, resin coated paper, inkjet special paper
+described; for example, in JP-A-8-169172, JP-A-8-27693,
+JP-A-2-276670, JP-A-7-276789, JP-A-9-323475, JP-A-62-238783,
+JP-A-10-153989, JP-A-10-217473, JP-A-10-235995,
+JP-A-10-337947, JP-A-10-217597 and JP-A-10-337947, film,
+electrophotographic common paper, cloth, glass, metal,
+ceramic and the like.</p><p num="0146">The recording paper and recording film used in the
+inkjet printing using the ink of the present invention are
+described below. The support which can be used for the
+recording paper or film is produced, for example, from a
+chemical pulp such as LBKP and NBKP, a mechanical pulp
+such as GP, PGW, RMP, TMP, CTMP, CMP and CGP, a waste
+paper pulp such as DIP, or the like by mixing; if desired,
+conventionally known additives such as pigment, binder,
+sizing agent, fixing agent, cation agent and paper
+strength increasing agent, and then sheeting the mixture
+using various devices such as Fourdrinier paper machine
+and cylinder paper machine. Other than these supports, 
+synthetic paper or plastic film may be used. The
+thickness of the support is preferably from 10 to 250 µm
+and the basis weight is preferably from 10 to 250 g/m<sup>2</sup>. An
+ink-accepting layer and a backcoat layer may be provided
+on the support as it is or may be provided after providing
+a size press or anchor coat layer using starch, polyvinyl
+alcohol and the like. The support may also be subjected
+to a flattening treatment by a calendering device such as
+machine calender, TG calender and soft calender. In the
+present invention, the support is preferably paper or
+plastic film of which both surfaces are laminated with
+polyolefin (for example, polyethylene, polystyrene,
+polyethylene terephthalate, polybutene or a copolymer
+thereof). In the polyolefin, a white pigment (for example,
+titanium oxide or zinc oxide) or a tinting dye (for
+example, cobalt blue, ultramarine or neodymium oxide) is
+preferably added.</p><p num="0147">The image-accepting layer provided on the support
+contains a pigment and an aqueous binder. The pigment is
+preferably a white pigment and examples of the white
+pigment include inorganic white pigments such as calcium
+carbonate, kaolin, talc, clay, diatomaceous earth,
+synthetic amorphous silica, aluminum silicate, magnesium
+silicate, calcium silicate, aluminum hydroxide, alumina,
+lithopone, zeolite, barium sulfate, calcium sulfate, 
+titanium dioxide, zinc sulfide and zinc carbonate, and
+organic pigments such as styrene-base pigment, acryl-base
+pigment, urea resin and melamine resin. The white pigment
+contained in the ink-accepting layer is preferably a
+porous inorganic white pigment and a synthetic amorphous
+silica and the like having a large pore area are more
+preferred. The synthetic amorphous silica may be either a
+silicic acid anhydride obtained by a dry production method
+(gas phase method) or a silicic acid hydrate obtained by a
+wet production method. In particular, a silicic acid
+hydrate is preferred. These pigments may be used in
+combination of two or more thereof.</p><p num="0148">Specific examples of the recording paper containing
+the pigment in the image-receiving layer include those
+disclosed in JP-A-10-81064, JP-A-10-119423, JP-A-10-157277,
+JP-A-10-217601, JP-A-11-348409, JP-A-2001-138621, JP-A-2000-43401,
+JP-A-2000-211235, JP-A-2000-309157, JP-A-2001-96897,
+JP-A-2001-138627, JP-A-11-91242, JP-A-8-2087, JP-A-8-2090,
+JP-A-8-2091, JP-A-8-2093, JP-A-8-174992, JP-A-11-192777
+and JP-A-2001-301314.</p><p num="0149">Examples of the aqueous binder contained in the
+image-accepting layer include water-soluble polymers such
+as polyvinyl alcohol, silanol-modified polyvinyl alcohol,
+starch, cationized starch, casein, gelatin, carboxymethyl
+cellulose, hydroxyethyl cellulose, polyvinylpyrrolidone, 
+polyalkylene oxide and polyalkylene oxide derivatives, and
+water-dispersible polymers such as styrene butadiene latex
+and acryl emulsion. These aqueous binders can be used
+individually or in combination of two or more thereof.
+Among these, polyvinyl alcohol and silanol-modified
+polyvinyl alcohol are preferred in the present invention
+in view of adhesion to the pigment and peeling resistance
+of the ink-accepting layer.</p><p num="0150">The image-accepting layer may contain a mordant, a
+water-proofing agent, a light fastness enhancer, an ozone
+resistance enhancer, a surfactant and other additives in
+addition to the pigment and the aqueous binder.</p><p num="0151">The mordant added to the image-accepting layer is
+preferably immobilized and for this purpose, a polymer
+mordant is preferably used.</p><p num="0152">The polymer mordant is described in JP-A-48-28325,
+JP-A-54-74430, JP-A-54-124726, JP-A-55-22766, JP-A-55-142339,
+JP-A-60-23850, JP-A-60-23851, JP-A-60-23852, JP-A-60-23853,
+JP-A-60-57836, JP-A-60-60643, JP-A-60-118834,
+JP-A-60-122940, JP-A-60-122941, JP-A-60-122942, JP-A-60-235134,
+JP-A-1-161236 and U.S. Patents 2,484,430,
+2,548,564, 3,148,061, 3,309,690, 4,115,124, 4,124,386,
+4,193,800, 4,273,853, 4,282,305 and 4,450,224. An image-receiving
+material containing the polymer mordant
+described in JP-A-1-161236 (pages 212 to 215) is 
+particularly preferred. When the polymer mordant
+described in this patent publication is used, an image
+having excellent image quality can be obtained and at the
+same time, light fastness of the image is improved.</p><p num="0153">The water-proofing agent is effective for obtaining
+a water-resistant image. The water-proofing agent is
+preferably a cationic resin. Examples of the cationic
+resin include polyamidopolyamine epichlorohydrin,
+polyethyleneimine, polyaminesulfone, poly-dimethyldiallyl-ammonium
+chloride and cation polyacrylamide. The content
+of the cationic resin is preferably from 1 to 15 % by
+weight, more preferably from 3 to 10 % by weight, based on
+the entire solid content of the ink-accepting layer.</p><p num="0154">Examples of the light fastness enhance and the gas
+resistance enhance include phenol compounds, hindered
+phenol compounds, thioether compounds, thiourea compounds,
+thiocyanic acid compounds, amine compounds, hindered amine
+compounds, TEMPO compounds, hydrazine compounds, hydrazide
+compounds, amidine compounds, vinyl group-containing
+compounds, ester compounds, amide compounds, ether
+compounds, alcohol compounds, sulfinic acid compounds,
+saccharides, water-soluble reducing compounds, organic
+acids, inorganic acids, hydroxy group-containing organic
+acids, benzotriazole compounds, benzophenone compounds,
+triazine compounds, heterocyclic compounds, water-soluble 
+metal salts, organic metal compounds and metal complexes.</p><p num="0155">Specific compound examples thereof include those
+described in JP-A-10-182621, JP-A-2001-260519, JP-A-2000-260519,
+JP-B-4-34953, JP-B-4-34513, JP-B-4-34512, JP-A-11-170686,
+JP-A-60-67190, JP-A-7-276808, JP-A-2000-94829, JP-T-8-512258
+and JP-A-11-321090.</p><p num="0156">The surfactant functions as a coating aid, a
+releasability improver, a slipperiness improver or an
+antistatic agent. The surfactant is described in JP-A-62-173463
+and JP-A-62-183457.</p><p num="0157">In place of the surfactant, an organic fluoro
+compound may be used. The organic fluoro compound is
+preferably hydrophobic. Examples of the organic fluoro
+compound include a fluorine-containing surfactant, an oily
+fluorine-base compound (for example, fluorine oil) and a
+solid fluorine compound resin (for example, ethylene
+tetrafluoride resin). The organic fluoro compound is
+described in JP-B-57-9053 (columns 8 to 17), JP-A-61-20994
+and JP-A-62-135826.</p><p num="0158">As the hardening agent, for example, the materials
+described in JP-A-1-161236 (page 222), JP-A-9-263036, JP-A-10-119423
+and JP-A-310547 can be used.</p><p num="0159">Other additives added to the ink-accepting layer
+include a pigment dispersant, a thickener; a defoaming
+agent, a dye, a fluorescent brightening agent, an 
+antiseptic, a pH adjusting agent, a matting agent, a
+hardening agent and the like. The ink-accepting layer may
+be composed of either one layer or two layers.</p><p num="0160">In the recording paper or film, a backcoat layer may
+also be provided. Examples of the component which can be
+added to this layer include a white pigment, an aqueous
+binder and other components. Examples of the white
+pigment contained in the backcoat layer include white
+inorganic pigments such as precipitated calcium carbonate,
+heavy calcium carbonate, kaolin, talc, calcium sulfate,
+barium sulfate, titanium dioxide, zinc oxide, zinc sulfide,
+zinc carbonate, satin white, aluminum silicate,
+diatomaceous earth, calcium silicate, magnesium silicate,
+synthetic amorphous silica, colloidal silica, colloidal
+alumina, pseudo-boehmite, aluminum hydroxide, alumina,
+lithopone, zeolite, hydrolyzed halloysite, magnesium
+carbonate and magnesium hydroxide, and organic pigments
+such as styrene-base plastic pigment, acryl-base plastic
+pigment, polyethylene, microcapsule, urea resin and
+melamine resin.</p><p num="0161">Examples of the aqueous binder contained in the
+backcoat layer include water-soluble polymers such as
+styrene/maleate copolymer, styrene/acrylate copolymer,
+polyvinyl alcohol, silanol-modified polyvinyl alcohol,
+starch, cationized starch, casein, gelatin, carboxymethyl 
+cellulose, hydroxyethyl cellulose and polyvinylpyrrolidone,
+and water-dispersible polymers such as styrene butadiene
+latex and acryl emulsion. Other components contained in
+the backcoat layer include a defoaming agent, a foam
+inhibitor, a dye, a fluorescent brightening agent, an
+antiseptic, a water-proofing agent and the like.</p><p num="0162">A polymer latex may be added to a constituent layer
+(including the back layer) of the inkjet recording paper
+or film. The polymer latex is used for the purpose of
+improving film properties, for example, stabilizing
+dimension and preventing curling, adhesion or film
+cracking. The polymer latex is described in JP-A-62-245258,
+JP-A-62-1316648 and JP-A-62-110066. When a
+polymer latex having a low glass transition temperature
+(40°C or less) is added to a layer containing the mordant,
+the layer can be prevented from cracking or curling. Also,
+by adding a polymer latex having a high glass transition
+temperature to the back layer, curling can be prevented.</p><p num="0163">The ink of the present invention is not limited on
+the inkjet recording system and is used in a known system,
+for example, an electric charge controlling system of
+jetting out the ink by using the electrostatic induction
+force, a drop-on-demand system (pressure pulse system)
+using an oscillation pressure of a piezoelectric device,
+an acoustic inkjet system of converting electric signals 
+into acoustic beams, irradiating the beams on the ink and
+jetting out the ink using the radiation pressure, or a
+thermal inkjet system of heating the ink to form bubbles
+and utilizing the generated pressure.</p><p num="0164">The inkjet recording system includes a system of
+ejecting a large number of small volumes of so-called
+photo-ink having a low concentration, a system designed to
+improve the image quality by using a plurality of inks
+substantially the same in hue but different in the
+concentration, and a system using colorless transparent
+ink.</p><p num="0165">The inkjet recording ink of the present invention
+can be used for uses other than the inkjet recording, such
+as a material for display image, an image-forming material
+for interior decoration and an image-forming material for
+outdoor decoration.</p><p num="0166">Examples of the material for display image include
+various materials such as poster, wall paper, ornamental
+goods (e.g., ornament, doll), handbill for commercial
+advertisement, wrapping paper, wrapping material, paper
+bag, vinyl bag, package material, billboard, image drawn
+or attached to the side face of traffic (e.g., automobile,
+bus, electric car), and clothes with a logo. In the case
+of using the dye of the present invention as a material
+for forming a display image, the image includes, in 
+addition to a strict image, all patterns by a dye, which
+can be acknowledged by a human, such as abstract design,
+letter and geometrical pattern.</p><p num="0167">Examples of the material for interior decoration
+include various materials such as wall paper, ornamental
+goods (e.g., ornament, doll), member of luminaire, member
+of furniture and design member of floor or ceiling. In
+the case of using the dye of the present invention as a
+material for forming an image, the image includes, in
+addition to a strict image, all patterns by a dye, which
+can be acknowledged by a human, such as abstract design,
+letter and geometrical pattern.</p><p num="0168">Examples of the material for outdoor decoration
+include various materials such as wall material, roofing
+material, billboard, gardening material, outdoor
+ornamental goods (e.g., ornament, doll), and member of
+outdoor luminaire. In the case of using the dye of the
+present invention as a material for forming an image, the
+image includes, in addition to a strict image, all
+patterns by a dye, which can be acknowledged by a human,
+such as abstract design, letter and geometrical pattern.</p><p num="0169">In these uses, examples of the medium where the
+pattern is formed include various materials such as paper,
+fiber, cloth (including non-woven fabric), plastic, metal
+and ceramic. Examples of the dyeing form include 
+mordanting, printing and fixing of a dye in the form of a
+reactive dyestuff having introduced thereinto a reactive
+group. Among these, preferred is dyeing by mordanting.</p><heading><u style="single">EXAMPLES</u></heading><p num="0170">The present invention is described below by
+referring to Examples, however, the present invention is
+not limited thereto.</p><heading>(Example 1)</heading><p num="0171">Deionized water was added to the following
+components to make 1 liter and the resulting solution was
+stirred for 1 hour under heating at 30 to 40°C. Thereafter,
+the solution was filtered under reduced pressure through a
+microfilter having an average pore size of 0.25 µm to
+prepare an ink solution for cyan color.
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Cyan dye of the Present Invention (Compound 154)</entry><entry align="left">17.5 g/liter</entry></row><row><entry align="left">Diethylene glycol</entry><entry align="left">167 g/liter</entry></row><row><entry align="left">Glycerin</entry><entry align="left">164 g/liter</entry></row><row><entry align="left">Triethylene glycol monobutyl ether</entry><entry align="left">125 g/liter</entry></row><row><entry align="left">Triethanolamine</entry><entry align="left">6.5 g/liter</entry></row><row><entry align="left">Benzotriazole</entry><entry align="left">0.07 g/liter </entry></row><row><entry align="left">PROXEL XL2</entry><entry align="left">3.5 g/liter</entry></row><row><entry align="left">Surfactant (w-1)</entry><entry align="left">10 g/liter</entry></row></tbody></tgroup></table></tables></p><p num="0172">A magenta ink, a light magenta ink, a cyan ink, a
+yellow ink a dark yellow ink and a black ink were prepared
+by using a magenta dye, a yellow dye or a black dye as the
+dye species in place of the cyan dye and changing the
+additives, and thereby Ink Set 101 shown in Table 12 was
+prepared. <tables><table><tgroup cols="8"><tbody><row><entry align="center"/><entry align="left">Light Cyan</entry><entry align="left">Cyan</entry><entry align="left">Light Magenta</entry><entry align="left">Magenta</entry><entry align="left">Yellow</entry><entry align="left">Dark Yellow</entry><entry align="left">Black</entry></row><row><entry align="left">Dye (g/liter)</entry><entry align="left">154</entry><entry align="left">154</entry><entry align="left">A-1</entry><entry align="left">A-1</entry><entry align="left">A-3</entry><entry align="left">A-3</entry><entry align="left">A-5</entry></row><row><entry align="right"/><entry align="left">17.5</entry><entry align="left">68.0</entry><entry align="left">10.2</entry><entry align="left">30.8</entry><entry align="left">14.0</entry><entry align="left">10.0</entry><entry align="left">20.0</entry></row><row><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="left">A-4</entry><entry align="left">A-4</entry><entry align="left">A-6</entry></row><row><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="left">14.0</entry><entry align="left">10.0</entry><entry align="left">39.0</entry></row><row><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="left">A-2</entry><entry align="left">A-7</entry></row><row><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="left">13.0</entry><entry align="left">17.0</entry></row><row><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="left">A-3</entry></row><row><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="left">20.0</entry></row><row><entry align="left">Diethylene glycol (g/liter)</entry><entry align="left">167</entry><entry align="left">110</entry><entry align="left">47</entry><entry align="left">76</entry><entry align="left">85</entry><entry align="left">-</entry><entry align="left">20</entry></row><row><entry align="left">Urea (g/liter)</entry><entry align="left">-</entry><entry align="left">-</entry><entry align="left">37</entry><entry align="left">46</entry><entry align="left">-</entry><entry align="left">-</entry><entry align="left">-</entry></row><row><entry align="left">Glycerin (g/liter)</entry><entry align="left">164</entry><entry align="left">148</entry><entry align="left">198</entry><entry align="left">150</entry><entry align="left">154</entry><entry align="left">147</entry><entry align="left">120</entry></row><row><entry align="left">Triethylene glycol monobutyl ether (g/liter)</entry><entry align="left">125</entry><entry align="left">132</entry><entry align="left">105</entry><entry align="left">107</entry><entry align="left">130</entry><entry align="left">127</entry><entry align="left">-</entry></row><row><entry align="left">Diethylene glycol monobutyl ether (g/liter)</entry><entry align="left">-</entry><entry align="left">-</entry><entry align="left">-</entry><entry align="left">-</entry><entry align="left">-</entry><entry align="left">-</entry><entry align="left">230</entry></row><row><entry align="left">2-Pyrrolidone (g/liter)</entry><entry align="left">-</entry><entry align="left">20</entry><entry align="left">40</entry><entry align="left">-</entry><entry align="left">-</entry><entry align="left">-</entry><entry align="left">80</entry></row><row><entry align="left">Surfactant (g/liter)</entry><entry align="left">10</entry><entry align="left">10</entry><entry align="left">6</entry><entry align="left">12</entry><entry align="left">3</entry><entry align="left">3</entry><entry align="left">5</entry></row><row><entry align="left">Triethanolamine (g/liter)</entry><entry align="left">6.5</entry><entry align="left">10</entry><entry align="left">7</entry><entry align="left">7</entry><entry align="left">1</entry><entry align="left">1</entry><entry align="left">18</entry></row><row><entry align="left">Benzotriazole (g/liter)</entry><entry align="left">0.07</entry><entry align="left">0.09</entry><entry align="left">0.07</entry><entry align="left">0.08</entry><entry align="left">0.06</entry><entry align="left">0.08</entry><entry align="left">0.08</entry></row><row><entry align="left">Proxel XL2 (g/liter)</entry><entry align="left">3.5</entry><entry align="left">4.0</entry><entry align="left">5.0</entry><entry align="left">4.5</entry><entry align="left">3</entry><entry align="left">5</entry><entry align="left">4</entry></row><row><entry nameend="5" align="left" namest="1">Deionized water was added to make 1 liter.</entry></row></tbody></tgroup></table></tables><img id="img-00960001" orientation="unknown" wi="114" img-format="tif" img-content="cf" file="00960001.tif" inline="no" he="61"/><img id="img-00960002" orientation="unknown" wi="119" img-format="tif" img-content="cf" file="00960002.tif" inline="no" he="62"/><img id="img-00960003" orientation="unknown" wi="160" img-format="tif" img-content="cf" file="00960003.tif" inline="no" he="36"/><img id="img-00960004" orientation="unknown" wi="164" img-format="tif" img-content="cf" file="00960004.tif" inline="no" he="53"/><img id="img-00970001" orientation="unknown" wi="140" img-format="tif" img-content="cf" file="00970001.tif" inline="no" he="59"/><img id="img-00970002" orientation="unknown" wi="141" img-format="tif" img-content="cf" file="00970002.tif" inline="no" he="40"/><img id="img-00970003" orientation="unknown" wi="142" img-format="tif" img-content="cf" file="00970003.tif" inline="no" he="47"/><img id="img-00970004" orientation="unknown" wi="99" img-format="tif" img-content="cf" file="00970004.tif" inline="no" he="57"/></p><p num="0173">Ink Sets 102 to 108 were prepared in the same manner
+as Ink Set 101 except that the dye species, surfactant
+species and amount added of the light cyan ink and the
+cyan ink of Ink Set 101 were changed as shown in Table 13
+below. The permeation depth was measured by preparing a
+solid image printed sample of cyan, cutting out the
+section thereof using a microtome (Model MT2-B,
+manufactured by SORVALL) and observing it through a
+microscope.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center">Ink Set</entry><entry align="center">Light Cyan</entry><entry align="center">Cyan</entry><entry align="center">Permeation Depth, µm</entry><entry align="center">Remarks</entry></row><row><entry align="center">101</entry><entry align="center">154</entry><entry align="center">154</entry><entry align="center">20</entry><entry align="center">Invention</entry></row><row><entry align="center">102</entry><entry align="center">108</entry><entry align="center">108</entry><entry align="center">23</entry><entry align="center">Invention</entry></row><row><entry align="center">103</entry><entry align="center">109</entry><entry align="center">109</entry><entry align="center">23</entry><entry align="center">Invention</entry></row><row><entry align="center">104</entry><entry align="center">110</entry><entry align="center">110</entry><entry align="center">10</entry><entry align="center">Invention</entry></row><row><entry align="center">105</entry><entry align="center">110</entry><entry align="center">110</entry><entry align="center">3</entry><entry align="center">Comparison</entry></row><row><entry align="center">106</entry><entry align="center">149</entry><entry align="center">149</entry><entry align="center">3</entry><entry align="center">Comparison</entry></row><row><entry align="center">107</entry><entry align="center">EPSON genuine ink (PM-920C)</entry><entry align="center">EPSON genuine ink (PM-920C)</entry><entry align="center">12</entry><entry align="center">Comparison</entry></row><row><entry align="center">108</entry><entry align="center">A-1</entry><entry align="center">A-1</entry><entry align="center">11</entry><entry align="center">Comparison</entry></row></tbody></tgroup></table></tables></p><heading>(Inkjet Recording)</heading><p num="0174">Ink Sets 101 to 108 prepared above each was filled
+in a cartridge of an inkjet printer PM920C (manufactured
+by Seiko Epson Corporation) and an image was printed-on 
+inkjet paper Photo-Gloss Paper EX produced by Fuji Photo
+Film Co., Ltd. using the printer. The following
+evaluations were performed and the results obtained are
+shown in Table 13.
+<sl><li>(1) As the printing performance (i), the cartridge was
+set in the printer and after confirming the ejection of
+ink from all nozzles, 20 sheets of A4 paper were output
+and evaluated on the disorder of printing.
+<sl><li>A: No disorder of printing from the start to the
+end of printing.</li><li>B: Disorder of printing was generated.</li><li>C: Printing was disordered from the start to the
+end of printing.</li></sl>As the printing performance (ii), the cartridge was
+left standing at 60°C for 2 days and the disorder of
+printing was evaluated by the same method as the printing
+performance (i).</li><li>(2) As for the image preservability, a solid image
+printed sample of cyan was prepared to have a reflection
+density of 1 and evaluated on the following matters.</li></sl></p><heading>(i) Light Fastness</heading><p num="0175">The image density Ci immediately after printing was
+measured by X-Rite 310 and thereafter, xenon light (85,000
+lx) was irradiated on the image for 6 days using a weather
+meter manufactured by Atlas. The image density Cf was 
+again measured and the dye residual percentage Ci/Cf*100
+was determined and evaluated. The dye residual percentage
+was evaluated at three points having a reflection density
+was 1, 1.5 and 2. The light fastness was rated A when the
+dye residual percentage was 80% or more at any density,
+rated B when less than 80% at two points, and rated C when
+less than 80% at all densities.</p><heading>(ii) Heat Fastness</heading><p num="0176">The sample was stored for 5 days under the
+conditions of 80 to 70% RH and the density before and
+after the storage was measured by X-Rite 310. The dye
+residual percentage was determined and evaluated. The dye
+residual percentage was evaluated at three points having a
+reflection density of 1, 1.5 and 2. The heat fastness was
+rated A when the dye residual percentage was 90% or more
+at any density, rated B when less than 90% at two points,
+and rated C when less than 90% at all densities.</p><heading>(iii) Ozone Resistance</heading><p num="0177">The sample was stored for 7 days under the
+conditions heated at 80°C while passing outside air and
+the image density before and after the storage was
+measured by a reflection densitometer (X-Rite 310TR). The
+dye residual percentage was determined and evaluated. The
+dye residual percentage was evaluated at three points
+having a reflection density of 1, 1.5 and 2. The ozone 
+resistance was rated A when the dye residual percentage
+was 90% or more at any density, rated B when less than 90%
+at two points, and rated C when less than 90% at all
+densities.
+<sl><li>(3) The image quality was evaluated as follows by
+observing the presence or absence of generation of bronze
+phenomenon with an eye.
+<sl><li>○: No generation of bronze phenomenon.</li><li>×: Bronze phenomenon was generated.</li></sl></li></sl><img id="img-01020001" orientation="unknown" wi="92" img-format="tif" img-content="tb" file="01020001.tif" inline="no" he="232"/></p><p num="0178">It is seen that when the ink composition of the
+present invention is used for the inkjet recording,
+excellent printing performance is obtained and the fastness
+and ozone resistance are also excellent. Furthermore, with
+the ink of the present invention, an excellent image
+quality free of bronze phenomenon is revealed.</p><p num="0179">The same effect as above are obtained even when the
+image-receiving paper used in the present invention is
+changed to PM photographic paper produced by Seiko Epson
+Corporation or PR101 produced by Canon Inc.</p><p num="0180">According to the present invention, an inkjet
+recording ink having high ejection stability, good color
+and excellent weather resistance and capable of giving a
+recorded image having excellent image quality can be
+provided.</p><p num="0181">This application is based on Japanese Patent
+application JP 2002-101347, filed April 3, 2002, the entire
+content of which is hereby incorporated by reference, the
+same as if set forth at length.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An ink comprising an aqueous medium and at least
+one dye represented by the following formula (I) which is
+dissolved or dispersed in the aqueous medium, wherein the
+ink permeates into a recording medium having an image-receiving
+layer to a depth of 5 to 30 µm:
+
+wherein X1, X2, X3 and X4 each independently represents -SO-Z,
+-SO2-Z, -SO2NR1R2, a sulfo group, -CONR1R2 or -CO2R1, each
+Z independently represents a substituted or unsubstituted
+alkyl group, a substituted or unsubstituted cycloalkyl
+group, a substituted or unsubstituted alkenyl group, a
+substituted or unsubstituted aralkyl group, a substituted
+or unsubstituted aryl group or a substituted or
+unsubstituted heterocyclic group, R1 and R2 each
+independently represents a hydrogen atom, a substituted or
+unsubstituted alkyl group, a substituted or unsubstituted
+cycloalkyl group, a substituted or unsubstituted alkenyl
+group, a substituted or unsubstituted aralkyl group, a
+substituted or unsubstituted aryl group or a substituted or
+unsubstituted heterocyclic group, Y1, Y2, Y3 and Y4 each
+independently represents a monovalent substituent, a1 to a4
+and b1 to b4 each represents a number of substituent X1, X2,
+X3, X4, Y1, Y2, Y3 or Y4, a1 to a4 each independently
+represents a number of 0 to 4, provided that at least one
+of a1 to a4 does not represents 0, b1 to b4 each
+independently represents a number of 0 to 4, provided that
+when at least one of a1 to a4 and b1 to b4 each represents a
+number of 2 or more, corresponding plurality of
+substituents X1, X2, X3, X4, Y1, Y2, Y3 or Y4 may be the same
+or different, and M represents a hydrogen atom, a metal
+atom or an oxide, hydroxide or halide thereof.</claim-text></claim><claim num="2"><claim-text>The ink according to claim 1, wherein the dye
+represented by the formula (I) is a dye represented by the
+following formula (II) :
+wherein X11, X12, X13 and X14 each independently represents-SO-Z,
+-SO2-Z, -SO2NR1R2, a sulfo group, -CONR1R2 or -CO2R1,
+Y11 to Y18 each independently represents a monovalent
+substituent, M represents a hydrogen atom, a metal atom or
+an oxide, hydroxide or halide thereof, and a11 to a14 each
+independently represents an integer of 1 or 2, provided
+that when at least one of a11 to a14 each represents a
+number of 2, corresponding plurality of substituents X11,
+X12, X13 or X14 may be the same or different.</claim-text></claim><claim num="3"><claim-text>The ink according to claim 1, wherein an amount
+of the dye represented by the formula (I) is from 0.2 to
+20 % by weight.</claim-text></claim><claim num="4"><claim-text>The ink according to claim 2, wherein an amount
+of the dye represented by the formula (II) is from 0.2 to
+20 % by weight.</claim-text></claim><claim num="5"><claim-text>An inkjet recording method comprising ejecting of
+the ink according to claim 1.</claim-text></claim><claim num="6"><claim-text>An inkjet recording method comprising ejecting of
+the ink according to claim 2.</claim-text></claim><claim num="7"><claim-text>An inkjet recording method comprising:
+<claim-text><claim-text>preparing an image-receiving material which comprises
+a support and an image-receiving layer comprising white
+inorganic pigment particles; and</claim-text><claim-text>ejecting an ink droplet comprising the ink according
+to claim 1 to the image-receiving material according to
+recording signals so as to record an image on the image-receiving
+material.</claim-text></claim-text></claim-text></claim><claim num="8"><claim-text>An inkjet recording method comprising:
+<claim-text><claim-text>preparing an image-receiving material which comprises
+a support and an image-receiving layer comprising white
+inorganic pigment particles; and</claim-text><claim-text>ejecting an ink droplet comprising the ink according
+to claim 2 to the image-receiving material according to
+recording signals so as to record an image on the image-receiving
+material.</claim-text></claim-text></claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

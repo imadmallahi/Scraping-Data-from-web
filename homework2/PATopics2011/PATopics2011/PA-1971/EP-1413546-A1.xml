@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1413546-A1" country="EP" doc-number="1413546" kind="A1" lang="EN" family-id="32069392" status="new" date-produced="20090516" date="20040428"><bibliographic-data><publication-reference ucid="EP-1413546-A1" status="new" fvid="24027197"><document-id status="new" format="original"><country>EP</country><doc-number>1413546</doc-number><kind>A1</kind><date>20040428</date></document-id></publication-reference><application-reference ucid="EP-03023897-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03023897</doc-number><kind>A</kind><date>20031021</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-28084302-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>28084302</doc-number><kind>A</kind><date>20021025</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B01D  53/047       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  53/047       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  53/86        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  53/86        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C01B   3/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C01B   3/16        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C01B   3/56        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B01D  53/047</classification-symbol><classification-symbol scheme="EC">B01D  53/86H</classification-symbol><classification-symbol scheme="EC">C01B   3/16</classification-symbol><classification-symbol scheme="EC">C01B   3/56</classification-symbol><classification-symbol scheme="ICO">M01B203:02B</classification-symbol><classification-symbol scheme="ICO">M01B203:02H</classification-symbol><classification-symbol scheme="ICO">M01B203:04F2</classification-symbol><classification-symbol scheme="ICO">M01B203:04F4</classification-symbol><classification-symbol scheme="ICO">M01B203:04H4</classification-symbol><classification-symbol scheme="ICO">M01B203:04P2</classification-symbol><classification-symbol scheme="ICO">M01B203:04P4</classification-symbol><classification-symbol scheme="ICO">M01B203:10B2</classification-symbol><classification-symbol scheme="ICO">M01B203:10D</classification-symbol><classification-symbol scheme="ICO">M01B203:10D2</classification-symbol><classification-symbol scheme="ICO">M01B203:10D2D</classification-symbol><classification-symbol scheme="ICO">M01B203:10D4</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Simultanes Wasser-Gas Shift und Adsorptionsverfahren zur Erzeugung reines Wasserstoffes</invention-title><invention-title load-source="ep" status="new" lang="EN">Silmultaneous shift-reactive and adsorptive process to produce pure hydrogen</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédé simultané de conversion à la vapeur d'eau et d'adsorption pour la production d'hydrogène pur</invention-title><citations><patent-citations><patcit ucid="DE-19946381-A1" status="new"><document-id status="new" format="epo"><country>DE</country><doc-number>19946381</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0737646-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0737646</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1006079-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1006079</doc-number><kind>A1</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1018485-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1018485</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-1816523-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>1816523</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-20020098394-A1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>20020098394</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="US-20020110503-A1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>20020110503</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5254368-A"  status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>5254368</doc-number><kind>A</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>CARVILL B T ET AL: "SORPTION-ENHANCED REACTION PROCESS" AICHE JOURNAL, NEW YORK, NY, US, vol. 42, no. 10, 1 October 1996 (1996-10-01), pages 2765-2772, XP000674846 ISSN: 0001-1541</text><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>CHUN HAN ET AL: "SIMULTANEOUS SHIFT REACTION AND CARBON DIOXIDE SEPARATION FOR THE DIRECT PRODUCTION OF HYDROGEN" CHEMICAL ENGINEERING SCIENCE, OXFORD, GB, vol. 49, no. 24B, 1994, pages 5875-5883, XP000534176 ISSN: 0009-2509</text><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>HUFTON J R ET AL: "SORPTION-ENHACED REACTION PROCESS FOR HYDROGEN PRODUCTION" AICHE JOURNAL, NEW YORK, NY, US, vol. 45, no. 2, February 1999 (1999-02), pages 248-256, XP000978072 ISSN: 0001-1541</text><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>AIR PROD &amp; CHEM</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>AIR PRODUCTS AND CHEMICALS, INC.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>AIR PRODUCTS AND CHEMICALS, INC.</last-name><address><street>7201 Hamilton Boulevard</street><city>Allentown, PA 18195-1501</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>ALLAM RODNEY JOHN</name><address><country>GB</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>DULLEY SARAH JANE</name><address><country>GB</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>HUFTON JEFFREY RAYMOND</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NATARAJ SHANKAR</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>XU JIANGUO</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>YING DAVID HON SING</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>ALLAM, RODNEY JOHN</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>DULLEY, SARAH JANE</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HUFTON, JEFFREY RAYMOND</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>NATARAJ, SHANKAR</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>XU, JIANGUO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>YING, DAVID HON SING</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>ALLAM, RODNEY JOHN</last-name><address><street>Westacre 33 Guildown Road</street><city>Guilford Surrey GU2 5EU</city><country>GB</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>DULLEY, SARAH JANE</last-name><address><street>185 Guilford Road</street><city>Normandy Surrey GU12 GDT</city><country>GB</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>HUFTON, JEFFREY RAYMOND</last-name><address><street>7931 Trails End</street><city>Fogelsville PA 18051</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NATARAJ, SHANKAR</last-name><address><street>1012 South Hillview Drive</street><city>Allentown PA 18103</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>XU, JIANGUO</last-name><address><street>131 Fox Hill Drive</street><city>Wrightstown PA 18940</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>YING, DAVID HON SING</last-name><address><street>7022 Lehigh Court</street><city>Allentown PA 18106</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Kador &amp;amp; Partner</last-name><address><street>Corneliusstrasse 15</street><city>80469 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>HU</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>RO</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A process for producing a high temperature CO<sub>x</sub>-lean product gas from a high 
+temperature CO<sub>x</sub>-containing feed gas, includes: providing a sorption enhanced reactor 
+containing a first adsorbent (20), a shift catalyst (18) and a second adsorbent (22); feeding into the 
+reactor a feed gas containing H<sub>2</sub>, H<sub>2</sub>O, CO and CO<sub>2</sub>; contacting the feed gas with the first 
+adsorbent (20) to provide a CO<sub>2</sub> depleted feed gas; contacting the CO<sub>2</sub> depleted feed gas 
+with the shift catalyst (18) to form a product mixture comprising CO<sub>2</sub> and H<sub>2</sub>; and contacting 
+the product mixture with a mixture of second adsorbent (22) and shift catalyst to produce the 
+product gas, which contains at least 50 vol.% H<sub>2</sub>, and less than 5 combined vol.% of CO<sub>2</sub> 
+and CO. The adsorbent is a high temperature adsorbent for a Sorption Enhanced 
+Reaction process, such as K<sub>2</sub>CO<sub>3</sub> promoted hydrotalcites, modified double-layered 
+hydroxides, spinels, modified spinels, and magnesium oxides. 
+<img id="img-00000001" orientation="unknown" wi="64" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="100"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading>BACKGROUND OF THE INVENTION</heading><p num="0001">This invention relates to a process and an apparatus for shifting the water gas 
+shift reaction (CO + H<sub>2</sub>O ↔ CO<sub>2</sub> + H<sub>2</sub>) towards the production of carbon dioxide and 
+hydrogen by adsorbing carbon dioxide produced by the reaction. </p><p num="0002">A conventional practice for producing hydrogen product containing low levels of 
+carbon oxides (carbon dioxide and carbon monoxide) is to purify raw syngas (from steam 
+methane reformer, partial oxidation reactor, autothermal reformer, etc.) by cooling the 
+gas to 600-950°F, reducing CO to ∼1-5% in a high temperature shift (HTS) reactor, 
+cooling the gas to 350-600°F, further reducing CO to ∼0.2-0.4% in a low temperature 
+shift (LTS) reactor, cooling the gas to 100°F, removing CO<sub>2</sub> in a liquid chemical or 
+physical absorption system, and methanating carbon oxides. A more recently developed 
+industrial practice comprises cooling the gas to 600-950°F, reducing CO to ∼1-5% in a 
+high temperature shift (HTS) reactor, cooling the gas to 100°F, and removing CO<sub>2</sub>, CO, 
+CH<sub>4</sub> and N<sub>2</sub> in a H<sub>2</sub>PSA unit. </p><p num="0003">The shift reaction is carried out in shift reactors. These reactors are used to 
+increase the amount of H<sub>2</sub> produced from the process and reduce the level of CO in the  
+ 
+feed gas to the separation unit. The reactors are designed to permit very close approach 
+to reaction equilibrium, so the CO conversion is limited by the shift reaction 
+thermodynamics. Both the reaction temperature and the presence of byproduct carbon 
+dioxide influence the reaction conversion. </p><p num="0004">Since the shift reaction (CO + H<sub>2</sub>O -&gt; CO<sub>2</sub> + H<sub>2</sub>) is exothermic, the CO 
+conversion is increased with lower temperature. High temperature systems, utilizing only 
+HTS reactors, are limited to ∼75% CO conversion, and the rest of the CO (and H<sub>2</sub> that in 
+principle could be produced via the shift reaction) is lost. The overall CO conversion can 
+be increased to &gt;95% by utilizing a series of HTS and LTS reactors at the expense of 
+additional process complexity (additional cooling and LTS equipment). </p><p num="0005">Since the shift reaction conversion in conventional reactors is not 100%, a 
+significant amount of CO will be present in the shift reactor exit gas. The effluent gas 
+from a typical LTS reactor contains roughly 0.3% CO (3,000 ppm), 19.5% CO<sub>2</sub>, 1.3% 
+CH<sub>4</sub>, and 78.9% H<sub>2</sub> (dry basis). Effluent gas from the HTS reactor will contain even more 
+CO (1-5%) and less CO<sub>2</sub>. The effluent gas must be further purified, typically in a 4- to 
+12-bed H<sub>2</sub>PSA unit, to reduce the CO and CO<sub>2</sub> levels to &lt;0.01%. In PEM fuel cell 
+applications, the CO level must be reduced even further (limits typically around 10 ppm). </p><p num="0006">The presence of CO<sub>2</sub> in the HTS and LTS reactors limits the CO conversion that 
+can be achieved. If CO<sub>2</sub> could be removed from the feed gas to the shift reactors, the 
+CO conversion would be increased. This is not practiced, though, since the gas would 
+require cooling for CO<sub>2</sub> removal, followed by reheating for shifting, and the added 
+complexity is not worthwhile. Ideally, one would prefer to remove CO<sub>2</sub> from the shift 
+reactor feed gas, and also remove CO<sub>2</sub> from the reaction gas as it progresses through 
+the shift reactor. If CO<sub>2</sub> can be removed completely as it is formed, then the CO 
+conversion in principle could reach 100%, and the CO would be reacted to extinction. </p><p num="0007">Accordingly, there have been a number of efforts to shift the water gas shift 
+reaction towards production of carbon dioxide and hydrogen (i.e., towards completion) by  
+ 
+adsorbing carbon dioxide produced by the reaction. A number of these efforts have 
+comprised adsorbing CO<sub>2</sub> on chemical adsorbents such as calcium oxide or dolomite. 
+Regeneration of these materials is possible only by heating the solid to 750°C or higher, 
+so generally these processes are classified as temperature swing adsorption systems. </p><p num="0008">For example, U.S. Patent No. 1,816,523 to Gluud et al. proposed the use of 
+lime or dolomite to remove CO<sub>2</sub> from the shift reaction, and regenerated the carbonate 
+by burning fuel in the vessel to increase the temperature to 900-1000°C. </p><p num="0009">Han et al., "Simultaneous Shift Reaction and Carbon Dioxide Separation for the 
+Direct Production of Hydrogen", Chem. Eng. Sci., 49, 5875 (1994), and "Multicycle 
+Performance of a Single-Step Process for H2 Production", Sep. Sci. Tech., 32, 681 
+(1997) have also worked with the same chemisorbent, and found that the CO<sub>2</sub> capacity 
+and carbonation rate of the dolomite decreased as it was cycled over a number of 
+reaction/regeneration steps. In their 1994 publication, Han et al. found that the major 
+economic obstacle for producing H<sub>2</sub> from coal using this approach was due to the 
+substantial regeneration energy requirement. </p><p num="0010">Others have tried to use dolomite or calcium oxide chemisorbents in a reformer 
+to enhance the steam methane reforming reaction. This approach is again based on the 
+fact that removal of CO<sub>2</sub> from the reactor shifts the water gas shift reaction, which in turn 
+will shift the reforming reaction to higher conversion. </p><p num="0011">For example, Brun-Tsekhovoi et al., "The Process of Catalystic Steam-Reforming 
+of Hydrocarbons in the Presence of Carbon Dioxide Acceptor", Proc. 7th 
+World Hydrogen Energy Conf., 2, 885 (1988) and Kurdyumov et al. "Steam Conversion 
+of Methane in the Presence of a Carbon Dioxide Acceptor, Pet. Chem., 36, 2, 139 (1996) 
+describe fluidized bed processes, wherein Ni reforming catalyst and dolomite are 
+fluidized with steam and natural gas. The authors observed increased methane 
+conversion, relatively high H<sub>2</sub> purity (94-98%), and low carbon oxide levels. They 
+mention that the process may be capable of eliminating the need for CO-shift, CO<sub>2</sub> 
+ 
+removal, and methanation steps, and could reduce the required operating temperature of 
+the reformer. The articles teach the use of catalyst and dolomite of different sizes to 
+allow separation of spent dolomite, which is subsequently regenerated at high 
+temperature in an external furnace. </p><p num="0012">WO 96/33794 (Lyon) discloses a somewhat similar approach, using a fixed bed, 
+CaO and Ni catalyst. The reaction of steam and hydrocarbon is carried out at 600-800°C, 
+and the CO<sub>2</sub> formed reacts to form CaCO<sub>3</sub>. Passing air through the bed 
+regenerates it. The O<sub>2</sub> in the air exothermically reacts with Ni to form NiO, and the 
+energy from this reaction is used to decompose CaCO<sub>3</sub> to CaO and regenerate the 
+chemisorbent. </p><p num="0013">Researchers at Air Products and Chemicals, Inc. have obtained patents on a 
+Sorption Enhanced Reaction process, wherein a high temperature CO<sub>2</sub> adsorbent is 
+used to remove CO<sub>2</sub> and shift the steam methane reforming reactions to higher 
+conversions. See, e.g., U.S. Patent No. 6,303,092 to Anand et al. and U.S. Patent No. 
+6,315,973 to Nataraj et al. and the related publications, Carvill et al., "Sorption Enhanced 
+Reaction Process", AlChE J., 42, 2765 (1996), Hufton et al., "Sorption Enhanced 
+Reaction Process for Hydrogen Production", AlChE J., 45, 248 (1999) and Waldron et 
+al., "Production of Hydrogen by Cyclic Sorption Enhanced Reaction ", AlChE J., 47, 1477 
+(2001). These researchers have described a process used to shift the reverse water gas 
+shift reaction to enhance CO production by adsorbing water on a high temperature water 
+adsorbent. A specific process cycle is described which utilizes pressure swing 
+adsorption concepts for regeneration of the adsorbent. The use of CO<sub>2</sub> adsorbents for 
+shifting the reforming reaction is also described. </p><p num="0014">Air Products and Chemicals, Inc. researchers have also patented high 
+temperature CO<sub>2</sub> adsorbents particularly suitable for use in the aforementioned 
+processes. See U.S. Patent No. 6,280,503 to Mayorga et al.  </p><p num="0015">EP444987 to Ogawa et al. discloses the application of high temperature CO<sub>2</sub> 
+adsorption processes for removing CO<sub>2</sub> from turbine feed gas. Ogawa et al. used a shift 
+reactor with heat removal to shift CO to CO<sub>2</sub>, cooled the gas, and then passed it through 
+a separate CO<sub>2</sub> PSA unit at 200-300C to remove CO<sub>2</sub>. The shift reactor effluent contains 
+all of the carbon present in the reformer feedstock. The goal was to remove carbon from 
+the fuel gas before it was fired in the gas turbine. Specific adsorbents or adsorption 
+process cycles are not disclosed. </p><p num="0016">Despite the foregoing developments, it is desired to provide a system of 
+enhanced efficiency for shifting the water gas shift reaction towards the production of 
+carbon dioxide and hydrogen by adsorbing carbon dioxide produced by the reaction. </p><p num="0017">All references cited herein are incorporated herein by reference in their 
+entireties. </p><heading>BRIEF SUMMARY OF THE INVENTION</heading><p num="0018">Accordingly, the invention provides a process for producing a high temperature 
+(i.e., a temperature of about 200-600°C for SER) CO<sub>x</sub>-lean product gas from a high 
+temperature CO<sub>x</sub>-containing feed gas (where CO<sub>x</sub> represents CO<sub>2</sub> and/or CO), said 
+process comprising: 
+<sl><li>providing a sorption enhanced reactor containing a first adsorbent, a shift catalyst 
+and a second adsorbent; </li><li>feeding the feed gas into the reactor during a reaction step, wherein the feed gas 
+comprises H<sub>2</sub>, H<sub>2</sub>O, CO and CO<sub>2</sub>; </li><li>contacting the feed gas with the first adsorbent to adsorb an amount of CO<sub>2</sub> from 
+the feed gas and provide a CO<sub>2</sub> depleted feed gas; </li><li>contacting the CO<sub>2</sub> depleted feed gas with the shift catalyst to catalyze a shift 
+reaction of CO and H<sub>2</sub>O to form a product mixture comprising CO<sub>2</sub> and H<sub>2</sub>;  </li><li>contacting the product mixture with a mixture of the second adsorbent and the 
+shift catalyst to produce the product gas, wherein the product gas comprises at least 50 
+vol.% H<sub>2</sub>, and less than 5 combined vol.% of CO<sub>2</sub> and CO; </li><li>regenerating the first and second adsorbents; and </li><li>repressurizing the reactor with a pressurization gas. </li></sl></p><p num="0019">Also provided is an apparatus for performing the inventive process, said 
+apparatus comprising: 
+<sl><li>a first bed comprising the first adsorbent; </li><li>a second bed comprising the mixture of the second adsorbent and the shift 
+catalyst; </li><li>an intermediate bed between, and in fluid communication with, the first bed and 
+the second bed, wherein the intermediate bed comprises the shift reaction catalyst; </li><li>a feed gas inlet at a feed end of the first bed; </li><li>a product gas outlet at a product end of the second bed, </li></sl> 
+   wherein the first adsorbent and the second adsorbent are at least one member 
+independently selected from the group consisting of: (a) K<sub>2</sub>CO<sub>3</sub> promoted hydrotalcites; 
+(b) modified double layered hydroxides represented by Formula I: 
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">(Mg<sub>(l-X)</sub>Al<sub>x</sub>(OH)<sub>2</sub>)(CO<sub>3</sub>)<sub>x/2</sub>yH<sub>2</sub>OzM<sup>I</sup><sub>2</sub>CO<sub>3</sub></st32:che> 
+where 0.09 ≤ x ≤ 0.40, 0 ≤ y ≤ 3.5, 0 ≤ z ≤ 3.5, and M' is Na or K; (c) spinels and modified 
+spinels represented by Formula II: 
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">Mg(Al<sub>2</sub>)O<sub>4</sub>yK<sub>2</sub>CO<sub>3</sub></st32:che> 
+where 0 ≤ y ≤ 3.5; and (d) magnesium oxide-containing adsorbents represented by 
+Formula III: 
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">{(M<sub>2</sub>CO<sub>3</sub>)<sub>m</sub>(2MHCO<sub>3</sub>)<sub>(1-m)</sub>}<sub>n</sub>(MgCO<sub>3</sub>)<sub>p</sub>(MgO)<sub>(1-p)</sub>xH<sub>2</sub>O</st32:che> 
+where M is an alkali metal, 0 ≤ m ≤ 1, 0 ≤ n ≤ 1.3, 0 ≤ p &lt; 1, and x represents an extent 
+of hydration of the adsorbent, with the proviso that when n equals 0 the MgO is made by  
+ 
+dehydration and CO<sub>2</sub> removal of {MgCO<sub>3</sub>}<sub>y</sub>{Mg(OH)<sub>2</sub>}<sub>(1-y)</sub>xH<sub>2</sub>O, in which 0.1 ≤ y ≤ 0.9, and 
+x indicates an extent of hydration. </p><p num="0020">Further provided is a single bed process for producing a high temperature CO<sub>x</sub>-lean 
+product gas from a high temperature CO<sub>x</sub>-containing feed gas, said process 
+comprising: 
+<sl><li>providing a sorption enhanced reactor containing a mixture of an adsorbent and a 
+shift catalyst in a single bed; </li><li>feeding the feed gas into the reactor during a reaction step, wherein the feed gas 
+comprises H<sub>2</sub>, H<sub>2</sub>O, CO and CO<sub>2</sub>; </li><li>contacting the feed gas with the mixture of the adsorbent and the shift catalyst to 
+produce the product gas, wherein the product gas comprises at least 50 vol.% H<sub>2</sub>, and 
+less than 5 combined vol.% of CO<sub>2</sub> and CO; </li><li>regenerating the adsorbent; and </li><li>repressurizing the reactor with a pressurization gas. </li></sl></p><p num="0021">Still further provided is a single-bed apparatus for performing the single-bed 
+process, said apparatus comprising: 
+<sl><li>a single bed comprising a mixture of the adsorbent and the shift catalyst; </li><li>a feed gas inlet at a feed end of the bed; </li><li>a product gas outlet at a product end of the bed, </li></sl> 
+   wherein the adsorbent is at least one member independently selected from the 
+group consisting of: (a) K<sub>2</sub>CO<sub>3</sub> promoted hydrotalcites; (b) modified double layered 
+hydroxides represented by Formula I: 
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">(Mg<sub>(I-X)</sub>Al<sub>x</sub>(OH)<sub>2</sub>)(CO<sub>3</sub>)<sub>x/2</sub>yH<sub>2</sub>OzM<sup>I</sup><sub>2</sub>CO<sub>3</sub></st32:che> 
+where 0.09 ≤ x ≤ 0.40, 0 ≤ y ≤ 3.5, 0 ≤ z ≤ 3.5, and M<sup>I</sup> is Na or K; (c) spinels and modified 
+spinels represented by Formula II: 
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">Mg(Al<sub>2</sub>)O<sub>4</sub>yK<sub>2</sub>CO<sub>3</sub></st32:che> 
+ 
+where 0 ≤ y ≤ 3.5; and (d) magnesium oxide-containing adsorbents represented by 
+Formula III: 
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">{(M<sub>2</sub>CO<sub>3</sub>)<sub>m</sub> (2MHCO<sub>3</sub>)<sub>(1-m)</sub>}<sub>n</sub>(MgCO<sub>3</sub>)<sub>p</sub>(MgO)<sub>(1-p)</sub>xH<sub>2</sub>O</st32:che> 
+where M is an alkali metal, 0 ≤ m ≤ 1, 0 ≤ n ≤ 1.3, 0 ≤ p &lt; 1, and x represents an extent 
+of hydration of the adsorbent, with the proviso that when n equals 0 the MgO is made by 
+dehydration and CO<sub>2</sub> removal of {MgCO<sub>3</sub>}<sub>y</sub>{Mg(OH)<sub>2</sub>}<sub>(1-y)</sub>xH<sub>2</sub>O, in which 0.1 ≤ y ≤ 0.9, and 
+x indicates an extent of hydration. </p><heading>BRIEF DESCRIPTION OF SEVERAL VIEWS OF THE DRAWINGS</heading><p num="0022">The invention will be described in conjunction with the following drawings in 
+which like reference numerals designate like elements and wherein: 
+<sl><li>Fig. 1 is a schematic cross-section of a Sorption Enhanced Reaction vessel of the 
+invention; </li><li>Fig. 2 is a flow diagram of an embodiment of the process of the invention for 
+producing H<sub>2</sub>; and </li><li>Fig. 3 is a flow diagram of another embodiment of the process of the invention for 
+producing H<sub>2</sub>. </li></sl></p><heading>DETAILED DESCRIPTION OF THE INVENTION</heading><p num="0023">The invention provides a simple, cost effective process for producing hydrogen 
+product containing low levels of carbon oxides (CO<sub>x</sub>). Preferred embodiments of the 
+invention improve upon the prior art by providing 1) enhanced CO conversion beyond 
+equilibrium limits, regardless of shift reactor temperature, 2) enhanced recovery of H<sub>2</sub> 
+from the H<sub>2</sub> and CO in the reformer effluent gas stream than conventional processes, 
+and 3) production of a relatively high purity H<sub>2</sub> product (e.g., 95+%) containing very little 
+CO and CO<sub>2</sub>. (All percentages given herein are in dry volume percent unless otherwise 
+indicated. Likewise, all concentrations given in ppm are in dry ppm unless otherwise  
+ 
+indicated.) In addition, certain embodiments of the inventive apparatus replace the 
+capital and energy intensive shift reactor/separation unit process train of conventional 
+systems with a single process unit, which combines the reaction and separation 
+functions. The invention is particularly useful for producing relatively pure H<sub>2</sub> for refinery 
+operations, low CO hydrogen fuel for PEM fuel cells, and/or decarbonized hydrogen gas 
+for low CO<sub>2</sub> emission power generation. </p><p num="0024">The process is conducted in conjunction with a Sorption Enhanced Reaction 
+unit (sometimes referred to hereinafter as a sorption enhanced reactor or simply 
+"reactor"), where the water gas shift reaction is carried out in the presence of a suitable 
+CO<sub>2</sub> adsorbent. It is preferred to conduct the inventive process in a series of cycles in 
+more than one reactor, wherein one reactor is being regenerated while another reactor is 
+being operated in parallel to produce the product gas. </p><p num="0025">Referring to Fig. 1, reactor 10 is a vessel having feed gas inlet 12 at the feed 
+end of the vessel, product gas outlet 14 at the product end of the bed, first bed 16 
+downstream of feed gas inlet 12, intermediate bed 18 downstream of first bed 16, second 
+bed 20 downstream of intermediate bed 18, and insulated walls 22 surrounding the beds. 
+While the contents of reactor 10 are described as three beds, the contents can also be 
+described as a single, three-layered, bed. </p><p num="0026">In preferred embodiments, the first and second beds independently comprise at 
+least one special high temperature CO<sub>2</sub> adsorbent, which does not require high 
+temperature regeneration (e.g., regeneration at temperatures of at least 700°C). Thus, 
+adsorbents such as CaO and dolomite are preferably excluded from the inventive 
+process. Instead, preferred adsorbents of the invention have high CO<sub>2</sub> adsorption 
+capacity at process temperatures greater than 200°C, even in the presence of steam. 
+Suitable adsorbents include but are not limited to: (a) solid adsorbents containing metal 
+oxides wherein the metal is at least one of sodium, magnesium, manganese and  
+ 
+lanthanum; (b) K<sub>2</sub>CO<sub>3</sub> promoted hydrotalcites; (c) solid adsorbents containing modified 
+double layered hydroxides represented by Formula I: 
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">(Mg<sub>(I-X)</sub>Al<sub>x</sub>(OH)<sub>2</sub>)(CO<sub>3</sub>)<sub>x/2</sub>yH<sub>2</sub>OzM<sup>I</sup><sub>2</sub>CO<sub>3</sub></st32:che> 
+where 0.09 ≤ x ≤ 0.40, 0 ≤ y ≤ 3.5, 0 ≤ z ≤ 3.5, and M' is Na or K; (d) spinels and modified 
+spinels represented by Formula II: 
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">Mg(Al<sub>2</sub>)O<sub>4</sub>yK<sub>2</sub>CO<sub>3</sub></st32:che> 
+where 0 ≤ y ≤ 3.5; and (e) magnesium oxide-containing adsorbents represented by 
+Formula III: 
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">{(M<sub>2</sub>CO<sub>3</sub>)<sub>m</sub>(2MHCO<sub>3</sub>)<sub>(1-m)</sub>}<sub>n</sub>(MgCO<sub>3</sub>)<sub>p</sub>(MgO)<sub>(1-p)</sub>xH<sub>2</sub>O</st32:che> 
+   where M is an alkali metal, 0 ≤ m ≤ 1, 0 ≤ n ≤ 1.3, 0 ≤ p &lt; 1, and x represents an 
+extent of hydration of the adsorbent, with the proviso that when n equals 0 the MgO is 
+made by dehydration and CO<sub>2</sub> removal of {MgCO<sub>3</sub>}<sub>y</sub>{Mg(OH)<sub>2</sub>}<sub>(1-y)</sub>xH<sub>2</sub>O, in which 0.1 ≤ y ≤ 
+0.9, and x indicates an extent of hydration. </p><p num="0027">Intermediate bed 18 comprises a shift catalyst for catalyzing the water shift 
+reaction. Suitable shift catalysts include but are not limited to: (a) high temperature shift 
+catalyst (HTS), composed of Fe<sub>2</sub>O<sub>3</sub>/Cr<sub>2</sub>O<sub>3</sub> (e.g., catalyst 71-5, available from Synetix, 
+Billingham, UK) and active in the temperature range 350-550°C; (b) low temperature shift 
+(LTS) catalysts and medium temperature shift (MTS) catalysts, based on CuO/ZnO (e.g., 
+catalysts 83-3, 83-6, available from Synetix, Billingham, UK), and active in the 
+temperature range 175-350°C; and (c) shift catalysts based on noble metals as 
+described in the literature. </p><p num="0028">In the preferred embodiment of Fig. 1, second bed 20 contains the shift catalyst 
+in addition to adsorbent (which can be identical to or different from the adsorbent in the 
+first bed). The shift catalyst and adsorbent can be provided in the second bed in equal or 
+unequal amounts. The mixture in the second bed can consist of a physical admixture of 
+adsorbent and catalyst particles. It can also consist of particles that individually comprise 
+both the adsorbent and the shift catalyst. For example, the adsorbent may be processed  
+ 
+to include active metals with sufficient catalytic activity for the water gas shift reaction. 
+For a physical admixture, the relative concentrations of the shift catalyst and adsorbent 
+can be a function of location in the second bed, such that a shift catalyst (or adsorbent) 
+concentration gradient is provided. The volume ratio of adsorbent to catalyst in the 
+second bed is preferably 0.25 to 10, more preferably 3 to 10. When a gradient is 
+provided in the second bed, the percentage (volume) of adsorbent preferably increases 
+from feed end to product end of the second bed, preferably from 0 to 100%, more 
+preferably from 30 to 100%. </p><p num="0029">It is also possible to utilize a single bed reactor packed with a mixture of 
+adsorbent and shift catalyst (as a mixture of separate adsorbent and catalyst particles or 
+as a collection of particles each comprising the adsorbent and the shift catalyst). This 
+approach simplifies reactor packing, but will yield lower volumetric productivity (moles of 
+H<sub>2</sub> produced per volume of reactor). </p><p num="0030">Reactor 10 is preferably an adiabatic vessel, as indicated by insulated walls 22 
+in Fig. 1. Suitable insulation includes but is not limited to glass fiber, calcium silicate, and 
+mineral wool. The temperature achieved in the reactor depends on the syngas feed 
+temperature and composition. For an example case of syngas generated by steam 
+methane reforming, complete reaction of CO contained in the syngas in a steady state, 
+adiabatic catalyst-only shift reactor would yield an increase in product temperature of 
+65.6°C compared to the syngas feed temperature. In the case of an SER reactor, the 
+temperature will swing from a maximum at the end of the reaction step to a minimum at 
+the end of the regeneration step. The maximum temperature increase would likely be 
+larger than 65.6°C, since the heat of adsorption of CO<sub>2</sub> would contribute to the heat 
+generation term. If the maximum temperature is higher than the acceptable operating 
+temperature for the shift catalyst or CO<sub>2</sub> adsorbent, then provisions (e.g., active thermal 
+control means in addition to or in lieu of passive insulation) must be included for 
+removing heat from the reactor. Such provisions can include a shell and tube reactor,  
+ 
+where the catalyst and adsorbent are placed in the tubes, and a heat transfer medium is 
+passed through the shell. For adsorption temperatures of up to 320°C, the shell side 
+fluid is preferably water, and steam is generated. The reactor can then replace all shift 
+reactors and the HTS boiler of a conventional H<sub>2</sub> plant. The shells would be in fluid 
+communication with the plant steam drum via down comers and risers. </p><p num="0031">For adsorption temperatures above 316°C, a separate heat transfer fluid (such 
+as Dowtherm A) can be used. See, e.g., U.S. Patent No. 6,315,973 at Fig. 7 and the 
+corresponding text therein. These fluids are generally limited to about 425°C, and at 
+higher temperatures, heat transfer to hot air or process gas would be appropriate. </p><p num="0032">Although the process is preferably conducted in sorption enhanced reactor 
+vessel(s), it is also within the scope of the invention to conduct the process in other 
+containers or on other substrates. For example, it is possible to separate the three beds 
+depicted in Fig. 1 into three interconnected vessels, rather than the single vessel shown 
+in the figure. This would facilitate removal of catalyst from the intermediate bed, without 
+disturbing the first and second beds. </p><p num="0033">The apparatus of Fig. 1 can be employed to produce H<sub>2</sub> substantially free of 
+carbon-oxides without a H<sub>2</sub>PSA. This is accomplished by treating effluent gas 
+(generically referred to as "syngas") from a syngas generator, such as a steam methane 
+reformer (SMR), a partial oxidation reactor (POX), or an autothermal reformer (e.g., an 
+air-blown or oxygen-blown ATR). This gas will generally comprise a mixture of H<sub>2</sub>, H<sub>2</sub>O, 
+CO, CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub>. Preferably, the gas fed to the SER reactor comprises 25-75 
+vol.% H<sub>2</sub>, 10-50 vol.% H<sub>2</sub>O, 1-20 vol.% CO, 1-20 vol.% CO<sub>2</sub>, 0-50% N2, and 
+0.1-5 vol.% CH<sub>4</sub>. High levels of N<sub>2</sub> would be present if the syngas was generated via an 
+air-blown ATR. The syngas from the syngas generator can be sent to the SER unit, or it 
+may be first processed in a conventional HTS reactor to reduce the CO level in the SER 
+feed gas. The final feed to the SER unit may need to be heat exchanged and/or have its 
+moisture content adjusted prior to treatment in reactor 10. The syngas feed typically  
+ 
+contains steam in excess of what is stoichiometrically required to convert all the CO in 
+the syngas. If not, steam can be added before the syngas enters reactor 10. </p><p num="0034">Any unconverted methane, nitrogen, argon or other inerts are not converted or 
+significantly reduced in the SER reactor. For non-air based syngas generators, the inert 
+component at highest concentration is methane. Since methane leakage from a POX 
+front-end is only about 0.4 mole% dry, the purity of the H<sub>2</sub> effluent from the shift-SER 
+reactor in this case will be in excess of 98%. Likewise, as illustrated in the Examples 
+below, methane leakage from SMR's can be reduced to &lt;2.5% dry with 900°C outlet 
+temperatures (S/C 3.5, 2.07MPa). These conditions are typical of SMR's for syngas 
+production. In both cases, CO and CO<sub>2</sub> levels will be very low (e.g., 0-1 vol.%) in the 
+product gas from the SER unit. </p><p num="0035">The syngas feed in the reactor of Fig. 1 passes from the bottom of the bed to 
+the top, but other orientations, such as top to bottom, are also possible. Reactor 10 is 
+illustrated as an adiabatic (insulated) vessel packed with three layers of solid material. 
+The desired reactor temperature will lie within the range of 175 to 550°C, depending on 
+the type of catalyst and adsorbent used. Generally, the feed syngas is available at 175 
+to 550°C and relatively high pressure dictated by the operation of the syngas generator 
+(e.g., up to 3.5 MPa). During the SER reaction step, this gas is preferably fed into the 
+SER reactor at a flow rate of 5 to 50 gmole/hr/cm<sup>2</sup>. The average reactor temperature 
+during the process will be similar to the feed syngas temperature. Localized reaction 
+temperatures will vary by 20-70°C during the process cycle since the reaction step is 
+exothermic (both the shift reaction and the CO<sub>2</sub> adsorption), and regeneration is 
+endothermic (CO<sub>2</sub> desorption). </p><p num="0036">During the reaction step, the syngas first passes through first bed 16, which 
+contains a layer of previously regenerated high temperature CO<sub>2</sub> adsorbent where CO<sub>2</sub> 
+present in the syngas is removed. The length of this adsorbent-only layer is sufficient to  
+ 
+remove all of the CO<sub>2</sub> entering reactor 10 during the reaction step. The process gas 
+leaving first bed 16 contains a reduced amount of (and preferably an absence of) CO<sub>2</sub>. </p><p num="0037">The CO<sub>2</sub> depleted gas from first bed 16 passes to intermediate bed 18, which 
+contains only shift catalyst. Some of the CO reacts with H<sub>2</sub>O to form CO<sub>2</sub> and H<sub>2</sub> in 
+intermediate bed 18. The length of this catalyst-only zone is sufficient to equilibrate the 
+process gas. </p><p num="0038">The resulting process gas from intermediate bed 18 is next passed to second 
+bed 20, which contains an intimate mixture of shift catalyst and high temperature CO<sub>2</sub> 
+adsorbent. This mixture could be uniform throughout the length of the bed, or could be 
+catalyst-rich or adsorbent-rich towards the product end of the reactor. As the process 
+gas from intermediate bed 18 (sometimes referred to herein as "the product mixture") 
+flows through the catalyst/adsorbent admixture, the gas progressively contacts fresh 
+catalyst/adsorbent, CO<sub>2</sub> is progressively adsorbed to near extinction, and additional CO 
+is forced to react with steam (CO + H<sub>2</sub>O ↔ CO<sub>2</sub> + H<sub>2</sub>). This forms additional CO<sub>2</sub>, which 
+is also progressively removed, thereby reducing the CO level to near extinction. A 
+concentration wave-front is established, which progresses along second bed 20 at a rate 
+determined by the capacity of the bed to hold CO<sub>2</sub>. Downstream of this wave-front, gas 
+essentially free of carbon-oxides flows to product gas outlet 14 where it is withdrawn as 
+product. The steam in this product can be easily removed by condensation and thermal 
+swing adsorption, if drier product is required. The length of second bed 20 is sufficient to 
+contain the concentration wave and prevent significant breakthrough of CO<sub>2</sub> or CO. </p><p num="0039">Once the concentration wave approaches the end of second bed 20, the 
+reaction step is terminated by stopping feed gas flow to reactor 10, and the reactor beds 
+are regenerated. </p><p num="0040">Prior to regenerating the reactor beds, reactor 10 can optionally be 
+countercurrently purged at feed gas pressure with purge gas. The effluent gas from this 
+step will contain unreacted CO and H<sub>2</sub>O which can be recycled and combined with feed  
+ 
+gas to another SER reactor. In this way, one can produce a CO<sub>2</sub> and CO depleted 
+product stream with enhanced hydrogen recovery. Alternatively, reactor 10 can 
+optionally be cocurrently rinsed at feed gas pressure with CO<sub>2</sub> product before 
+regenerating, to recover a CO<sub>2</sub> and CO depleted product stream with enhanced 
+hydrogen recovery and a CO<sub>2</sub>-rich byproduct stream (during the regeneration step). As 
+used herein the term "cocurrent" refers to passing a substance through the reactor in the 
+same direction as the feed gas, and the term "countercurrent" refers to passing a 
+substance in the opposite direction of the feed gas (with respect to the direction of the 
+feed gas during the reaction step). </p><p num="0041">To regenerate the reactor beds, reactor 10 is first depressurized countercurrent 
+to the feed gas, and then purge gas (e.g., steam, a steam/H<sub>2</sub> mixture, or any other 
+suitable gas free of CO<sub>2</sub>) is passed through the bed countercurrent to the feed. This 
+purge helps to strip CO<sub>2</sub> off the adsorbent. The desorption of CO<sub>2</sub> from a loaded bed is 
+endothermic. Ideally, the energy needed to desorb CO<sub>2</sub> can be obtained from the 
+thermal energy content of the reactor packing, which is high at the beginning of the 
+desorption step. Superheating the purge gas can provide additional heat. Alternatively, 
+for the shell and tube configuration discussed above, with steam heat transfer medium, 
+heat can provided by mixing steam into the saturated water flowing through the 
+downcomer from the steam drum into the reactor shells. This keeps the shell under a 
+constant flow and pressure. The shell has temporarily switched from being a boiler to 
+being a barometric condenser. </p><p num="0042">The purge effluent is cooled to knock out the steam, and the condensate is 
+reused. The non-condensate is a crude CO<sub>2</sub> stream that, optionally, can be fed to a 
+liquefaction plant for production of byproduct CO<sub>2</sub>. </p><p num="0043">Once the purge step is completed, the reactor is pressurized to the syngas feed 
+pressure with steam, a steam/H<sub>2</sub> mixture, syngas feed, or any combination of the three. 
+Thus, in embodiments, the pressurization gas comprises at least one of the purge gas  
+ 
+and the feed gas. Steam and steam/H<sub>2</sub> would be fed countercurrently, while syngas feed 
+would be fed cocurrently. Once pressurized, the reactor is ready to repeat the process 
+cycle and receive syngas feed. </p><p num="0044">The above process steps are preferably conducted with two or more reactors 
+operated in parallel so that a constant feed and product stream can be obtained. </p><p num="0045">In certain embodiments, any remaining carbon oxides in the product gas can be 
+converted to methane in a methanator to yield a product gas containing less than 
+50 ppm CO, and more preferably less than 1 ppm CO. A schematic of this approach is 
+illustrated in Fig 2. A hydrocarbon feedstock (e.g., natural gas, naphtha) and air, oxygen 
+and/or steam are fed to syngas generator 24 to produce syngas, which is then fed to 
+heat exchanger (e.g., waste heat boiler) 26, where steam is generated and the 
+temperature of the syngas is reduced. The syngas is then fed to SER reactor 10 to 
+produce the product gas, which is fed to methanator 28. The exit temperature of the 
+product gas from reactor 10 is in the appropriate range for methanator operation (e.g., 
+300 to 550°C). Water knock-out is not required. At these conditions, equilibrium 
+methanation calculations for a steam methane reforming example case indicate that the 
+shift-SER product gas containing 471 ppm CO and 0.33% CO<sub>2</sub> (dry basis) yields a CO 
+content of only 0.6 ppb in the methanator effluent. Normal methanator operation occurs 
+commercially in the absence of water. But prereformer catalyst can substitute in this 
+service, and has been demonstrated in the presence of steam. This approach can yield 
+H<sub>2</sub> product that can be used in refinery applications and in PEM fuel cells. The major 
+attractiveness of this approach is that expensive H<sub>2</sub> purification or CO removal 
+technology (H<sub>2</sub>-PSA or preferential oxidation reactor) is not required. </p><p num="0046">The CO<sub>2</sub> enriched purge gas from reactor 10 is preferably heat exchanged by 
+heat exchanger 30 to generate steam. Likewise, the H<sub>2</sub> enriched product gas from 
+methanator 28 is preferably heat exchanged by heat exchanger 32 to generate steam. 
+Blowdown gas from reactor 10 is recycled back to syngas generator 24 to be  
+ 
+compressed and added as feed or, for SMR applications, used as fuel in the reformer 
+burners. The shift-SER process combined with a methanator preferably produces 
+product containing 95-99% H<sub>2</sub>, 1-4% CH<sub>4</sub>, and less than 1 ppm of CO with no pressure 
+swing adsorption separation unit. This gas is attractive as feed for PEM fuel cell system 
+since the CO level is low and the gas is hydrated. </p><p num="0047">For H<sub>2</sub> purities greater than 99%, a PSA is preferred to remove unreacted CH<sub>4</sub> 
+from the syngas generator, as shown in the embodiment of Fig. 3, wherein product gas 
+from reactor 10 is treated by methanator 28 to remove carbon oxides from the product 
+gas and heat exchanged by heat exchanger 32 before entering PSA 34. A PSA used in 
+the invention can be predominantly carbon-based if desired, and therefore relatively 
+inexpensive. In a conventional H<sub>2</sub>-PSA, the carbon removes water, CO<sub>2</sub>, and most of the 
+CH<sub>4</sub>, and constitutes 40-60% of the bed. The remainder of the bed is molecular sieve, 
+which removes CO, N<sub>2</sub>, Ar and remaining methane. In the current embodiment, and 
+depending on the N<sub>2</sub> content of the natural gas, greater than 99% purity can be achieved 
+in a PSA filled predominantly with carbon; the molecular sieve layer is substantially 
+reduced since only ppm levels of CO have to be removed. This would result in 
+substantial savings in capital, and could increase the H<sub>2</sub>PSA recovery. </p><p num="0048">If a PSA is used, the PSA adsorber beds and SER reactors can be 
+synergistically coupled to minimize unrecovered product. The PSA waste gas obtained 
+as effluent during the purge step does not contain any component that would hurt the 
+SER reactor (i.e., no carbon oxides). Thus, PSA waste gas can augment the SER 
+reactor purge flow. More interestingly, the PSA beds can pressure equalize with an SER 
+reactor at lower pressure. These steps ensure that product lost from either process is 
+not additive in nature. The minimum number of PSA or SER reactors required is also 
+reduced. Normally, for an isolated pressure swing process, the minimum number of 
+vessels must exceed the number of pressure equalizations by two. Coupling of the SER 
+reactors with the H<sub>2</sub>-PSA vessels can ease this requirement.  </p><p num="0049">Unlike a conventional H<sub>2</sub>PSA, pure H<sub>2</sub> is preferably not used to purge or 
+repressurize the SER reactor - steam is the main candidate. Purge efficacy is 
+determined on an actual cubic feet (ACF) basis. For the same ACF at the same purge 
+pressure, steam has only 1/18 the heating value of methane. Since steam and methane 
+are substantially valued proportional to their heating value, and hydrogen is valued at a 
+much higher premium relative to its heating value than steam, steam is the cheapest 
+purge gas available (other than air, which cannot be used due to O<sub>2</sub> content). The use 
+of steam also simplifies CO<sub>2</sub> recovery from the shift-SER reactor purge effluent gas since 
+it can be simply condensed and separated as liquid water. </p><p num="0050">Most shift catalysts used in the SER reactor function only in a reduced state. 
+Steam can potentially oxidize the active metal phase of the catalyst. Thus (depending on 
+the catalyst oxidation kinetics and purge cycle time) it may be desirable to have some H<sub>2</sub> 
+present in the purge steam. Thermodynamic calculations indicate that very small 
+amounts of H<sub>2</sub> (e.g., 0.001% or less) are capable of maintaining reducing conditions for 
+both the Fe- and Cu-based catalysts. For embodiments of the invention with no H<sub>2</sub>-PSA, 
+this H<sub>2</sub> would come from the product stream. For embodiments that include a H<sub>2</sub>-PSA for 
+final cleanup, the H<sub>2</sub>PSA purge effluent (waste gas) can be used as the hydrogen 
+source. </p><p num="0051">Inert gases can also be considered for purging the shift-SER reactor. Nitrogen 
+might be attractive if the syngas generator is oxygen-based, since a significant amount of 
+coproduct N<sub>2</sub> may be available from the air separation plant. Natural gas can be used as 
+purge, and the effluent waste gas can be used for fuel. Other inert gases can be 
+considered, but would have to be passed in a recycle loop where CO<sub>2</sub> is removed and 
+discharged to minimize inert gas requirement. This would not be as attractive as the 
+above options. Finally, a portion of the shift-SER product could be used as purge fluid, 
+but this would substantially decrease the recovery of H<sub>2</sub> from the shift-SER reactor.  </p><p num="0052">In the case of fuel cell applications, the spent fuel gas exiting the fuel cell can be 
+used to purge the SER reactor since this gas is free of carbon oxides. </p><p num="0053">The process cycle can be tailored for achieving higher H<sub>2</sub> recovery, and for 
+production of byproduct CO<sub>2</sub> at high purity and recovery. </p><p num="0054">Higher feed gas recovery can be achieved by countercurrently rinsing the SER 
+reactor with purge fluid at reaction step pressure. This step would be carried out after 
+the reaction step has completed, but before the SER reactor is regenerated. The high 
+pressure purge step would proceed until the purge gas begins to break through the feed 
+end of the reactor. This will allow recovery of some of the void gas, which will contain 
+H<sub>2</sub>, H<sub>2</sub>O, CO, CH<sub>4</sub>, and CO<sub>2</sub>. If the purge gas is available at a substantially higher 
+pressure than the reaction step pressure, then the recovered gas can be removed at the 
+higher pressure, stored in a separate tank, and slowly added to the feed gas for another 
+SER reactor. If the purge gas pressure is not sufficient, the recovered gas will need 
+slight compression before it is added to the feed gas. The standard blowdown and purge 
+steps would take place once the above recovery step has completed. </p><p num="0055">The effective recovery of hydrogen with the SER system can exceed the 
+effective recovery in conventional shift/H<sub>2</sub>-PSA systems, and in fact can approach 100% 
+if high-pressure purge steps are included in the cycle. </p><p num="0056">Relatively pure CO<sub>2</sub> (e.g., 98+%) can be produced by including a CO<sub>2</sub> rinse step 
+between the reaction and regeneration steps. By passing CO<sub>2</sub> product (e.g., 98+% CO<sub>2</sub>) 
+cocurrently or countercurrently through the bed at reaction pressure, essentially all of the 
+void gas can be removed. Depressurization and purge with steam will recover the high 
+purity CO<sub>2</sub> present in the void gas and CO<sub>2</sub> desorbed from the adsorbent. Since CO<sub>2</sub> 
+adsorption on the high temperature adsorbents is highly selective to CO<sub>2</sub>, a high purity 
+CO<sub>2</sub> product will be recovered. Separation of the steam from CO<sub>2</sub> can be accomplished 
+by cooling and, if required, thermal swing adsorption. The CO<sub>2</sub> will be recovered at the 
+regeneration pressure when the regeneration step is carried out above 14.7 psia (101  
+ 
+kPa). For subatmospheric regeneration, the CO<sub>2</sub> will be recovered at the discharge 
+pressure of the vacuum system (typically around 101 kPa). </p><p num="0057">This process option is highly attractive for decarbonization of fuel gas to power 
+generation systems (e.g., gas turbine). The only carbon in the H<sub>2</sub> product is in the form 
+of CH<sub>4</sub>, which slips through the syngas generator. This is a relatively small amount of 
+carbon. Table 1, below, shows that up to 94% of the carbon in the methane feed to the 
+steam reformer can be removed as CO<sub>2</sub> in the shift-SER unit. Advantages of the 
+approach are that carbon removal is carried out at high temperature (so steam is 
+retained in the feed to the turbine, and cooling/liquid separation/heating equipment is not 
+needed) and high pressure (separation at turbine feed conditions rather than turbine 
+exhaust conditions). Retention of the steam and high temperature in the hydrogen fuel 
+gas yields higher overall energy efficiency. </p><p num="0058">Other process steps that are found in the conventional pressure swing 
+adsorption literature could also be carried out (e.g., pressure equalization steps between 
+SER reactors, low pressure product rinse step when non-steam purge gases are used, 
+etc.). </p><p num="0059">The invention will be illustrated in more detail with reference to the following 
+Examples, but it should be understood that the present invention is not deemed to be 
+limited thereto. </p><heading>EXAMPLES</heading><p num="0060">What follows are prospective examples of the process of the invention based on 
+mass balance calculations. </p><p num="0061">Heat effects were not considered in the examples - the reactor was assumed to 
+operate isothermally to simplify the calculations. A reactor temperature of 375°C and 
+pressure of 2.07 MPa were assumed. </p><p num="0062">An apparatus including two SER reactors of Fig. 1 is provided. The composition 
+of the syngas feed, considering equilibrium conversion of steam and methane in a  
+ 
+reformer at a 3.5 molar steam/methane ratio, 900°C exit temperature, and 2.07 MPa, is 
+49.53% H<sub>2</sub>, 34.80% H<sub>2</sub>O, 9.36% CO, 5.36% CO<sub>2</sub>, and 1.44% CH<sub>4</sub>. Nitrogen, a common 
+low level impurity in natural gas, was ignored in the example case. In practice the N<sub>2</sub> will 
+follow the CH<sub>4</sub> in the SER process. The syngas is cooled to 375°C and fed to the SER 
+unit. Each SER reactor 10 is operated at 375°C and is subjected to a series of cyclic 
+process steps consisting of reaction and regeneration steps. During the reaction step, 
+bulk CO<sub>2</sub> in the feed gas is removed by adsorption, the shift reaction is catalyzed to form 
+CO<sub>2</sub> and H<sub>2</sub> from CO and steam, and the CO<sub>2</sub> is continually removed from the reaction 
+product gas by adsorption onto the high temperature adsorbent. </p><p num="0063">The process gas leaving first bed 16 will contain 52.34% H<sub>2</sub>, 36.78% H<sub>2</sub>O, 
+9.89% CO, and 0.99% CH<sub>4</sub>, assuming only CO<sub>2</sub> is removed by the adsorbent. Assuming 
+that no components are removed by the catalyst, the product mixture from intermediate 
+bed 18, calculated assuming reaction equilibrium at 375°C, will contain 61.05% H<sub>2</sub>, 
+28.06% H<sub>2</sub>O, 1.18% CO, 8.71% CO<sub>2</sub>, and 0.99% CH<sub>4</sub>. </p><p num="0064">The removal of CO<sub>2</sub> in second bed 20 will drive the shift reaction to high 
+conversion, regardless of operating temperature, and will yield product containing very 
+low levels of carbon oxides. Assuming complete removal of CO<sub>2</sub> by second bed 20, the 
+product gas from reactor 10 will contain 69.06% H<sub>2</sub>, 29.83% H<sub>2</sub>O, and 1.10% CH<sub>4</sub>, or 
+98.4% H<sub>2</sub> and 1.57% CH<sub>4</sub> on a dry basis. In practice, the reaction step would generally 
+proceed until the CO<sub>2</sub> level reached a prescribed, but low, level. Assuming the gas to be 
+at reaction equilibrium, one can calculate the level of CO that coexists with the CO<sub>2</sub> as 
+CO<sub>2</sub> is removed from the system. These gas compositions for the example conditions 
+are listed in Table 1. The major point is that the CO level will be reduced to levels lower 
+than CO<sub>2</sub> at equilibrium. For example, at 93.02% removal of the carbon introduced with 
+the reformer feed gas, the dry gas composition is 471 ppm CO when the equilibrium CO<sub>2</sub> 
+mole fraction (dry) is 0.33%.  </p><p num="0065">Following the reaction step, the feed gas flow is switched to another reactor 10 
+so that a constant feed and product stream can be obtained. The first reactor is 
+regenerated by depressurization and countercurrent purging, preferably with steam, 
+which helps to strip CO<sub>2</sub> off the adsorbent. The purge effluent is cooled to remove water, 
+and the non-condensate is a crude CO<sub>2</sub> byproduct stream. </p><p num="0066">In order to compare the shift-SER reactor performance with conventional shift 
+reactor/H<sub>2</sub>-PSA approach, we have evaluated an effective recovery, R<sub>eff</sub>, defined as the 
+lb-moles (or kg-moles) of H<sub>2</sub> obtained in the product divided by the lb-moles (or kg-moles) 
+of CO and H<sub>2</sub> in the syngas feed gas. For a conventional HTS/H<sub>2</sub>-PSA system 
+(assuming equilibrium conversion in the shift reactor at 375°C and a PSA H<sub>2</sub> recovery of 
+85%), the R<sub>eff</sub> value is 0.825. For a conventional HTS/LTS/H<sub>2</sub>-PSA system (assuming 
+equilibrium conversion in the LTS reactor at 250°C and a PSA H<sub>2</sub> recovery of 85%), the 
+R<sub>eff</sub> value is 0.845. The value of R<sub>eff</sub> for the example shift-SER process conducted at 
+375°C is 0.930 (and in other embodiments is at least 0.9), or 10-13% greater than the 
+conventional approaches. (It was assumed that gas losses from the sorber/reactor were 
+due to complete void gas removal during regeneration. Purge gas was assumed to be 
+steam or N<sub>2</sub>; no product gas was used. Gas requirements for generating the purge gas 
+(e.g., methane to generate steam) were not considered.) The elimination of the need for 
+product purge and effective conversion of the CO in the shift-SER reactor yields 
+improved recovery of valuable hydrogen product. </p><p num="0067">While the invention has been described in detail and with reference to specific 
+examples thereof, it will be apparent to one skilled in the art that various changes and 
+modifications can be made therein without departing from the spirit and scope thereof.  <tables><table><tgroup cols="7"><tbody><row><entry align="center" namest="1"/><entry nameend="7" align="center" namest="2">Dry Gas Compositions </entry></row><row><entry align="center">% carbon (CO<sub>2</sub>) removed from reformer CH<sub>4</sub> feed </entry><entry align="center">yCO dry </entry><entry align="center"/><entry align="center">yCO<sub>2</sub> dry </entry><entry align="center"/><entry align="center">yH<sub>2</sub> dry </entry><entry align="center">yCH<sub>4</sub> dry </entry></row><row><entry align="center"/><entry align="center">% </entry><entry align="center">Ppm </entry><entry align="center">% </entry><entry align="center">ppm </entry><entry align="center">% </entry><entry align="center">% </entry></row><row><entry align="center">0.00</entry><entry align="center">14.36</entry><entry align="center">143644.4</entry><entry align="center">8.22</entry><entry align="center">82205.46</entry><entry align="center">75.98</entry><entry align="center">1.44 </entry></row><row><entry align="right"/><entry align="right"/><entry align="center">8 </entry></row><row><entry align="center">83.11</entry><entry align="center">2.34</entry><entry align="center">23426.46</entry><entry align="center">17.87</entry><entry align="center">178682.5</entry><entry align="center">78.50</entry><entry align="center">1.29 </entry></row><row><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">1 </entry></row><row><entry align="center">83.56</entry><entry align="center">0.35</entry><entry align="center">3468.07</entry><entry align="center">2.44</entry><entry align="center">24360.13</entry><entry align="center">95.69</entry><entry align="center">1.53 </entry></row><row><entry align="center">84.02</entry><entry align="center">0.33</entry><entry align="center">3329.48</entry><entry align="center">2.34</entry><entry align="center">23375.29</entry><entry align="center">95.80</entry><entry align="center">1.53 </entry></row><row><entry align="center">84.47</entry><entry align="center">0.32</entry><entry align="center">3190.50</entry><entry align="center">2.24</entry><entry align="center">22388.58</entry><entry align="center">95.91</entry><entry align="center">1.53 </entry></row><row><entry align="center">84.92</entry><entry align="center">0.31</entry><entry align="center">3051.11</entry><entry align="center">2.14</entry><entry align="center">21399.99</entry><entry align="center">96.02</entry><entry align="center">1.53 </entry></row><row><entry align="center">85.37</entry><entry align="center">0.29</entry><entry align="center">2911.32</entry><entry align="center">2.04</entry><entry align="center">20409.52</entry><entry align="center">96.13</entry><entry align="center">1.54 </entry></row><row><entry align="center">85.82</entry><entry align="center">0.28</entry><entry align="center">2771.12</entry><entry align="center">1.94</entry><entry align="center">19417.16</entry><entry align="center">96.24</entry><entry align="center">1.54 </entry></row><row><entry align="center">86.27</entry><entry align="center">0.26</entry><entry align="center">2630.51</entry><entry align="center">1.84</entry><entry align="center">18422.91</entry><entry align="center">96.36</entry><entry align="center">1.54 </entry></row><row><entry align="center">86.72</entry><entry align="center">0.25</entry><entry align="center">2489.50</entry><entry align="center">1.74</entry><entry align="center">17426.76</entry> <entry align="center">96.47</entry><entry align="center">1.54 </entry></row><row><entry align="center">87.17</entry><entry align="center">0.23</entry> <entry align="center">2348.08</entry> <entry align="center">1.64</entry> <entry align="center">16428.71</entry><entry align="center">96.58</entry><entry align="center">1.54 </entry></row><row><entry align="center">87.62</entry><entry align="center">0.22</entry><entry align="center">2206.24</entry><entry align="center">1.54</entry><entry align="center">15428.75</entry><entry align="center">96.69</entry><entry align="center">1.54 </entry></row><row><entry align="center">88.07</entry><entry align="center">0.21</entry><entry align="center">2063.99</entry><entry align="center">1.44</entry><entry align="center">14426.88</entry><entry align="center">96.81</entry><entry align="center">1.54 </entry></row><row><entry align="center">88.52</entry><entry align="center">0.19</entry><entry align="center">1921.33</entry><entry align="center">1.34</entry><entry align="center">13423.09</entry><entry align="center">96.92</entry><entry align="center">1.55 </entry></row><row><entry align="center">88.97</entry><entry align="center">0.18</entry><entry align="center">1778.26</entry><entry align="center">1.24</entry><entry align="center">12417.37</entry><entry align="center">97.03</entry><entry align="center">1.55 </entry></row><row><entry align="center">89.42</entry><entry align="center">0.16</entry><entry align="center">1634.76</entry><entry align="center">1.14</entry><entry align="center">11409.73</entry><entry align="center">97.15</entry><entry align="center">1.55 </entry></row><row><entry align="center">89.87</entry><entry align="center">0.15</entry><entry align="center">1490.85</entry><entry align="center">1.04</entry><entry align="center">10400.15</entry><entry align="center">97.26</entry><entry align="center">1.55 </entry></row><row><entry align="center">90.32</entry><entry align="center">0.13</entry><entry align="center">1346.51</entry><entry align="center">0.94</entry><entry align="center">9388.63</entry><entry align="center">97.37</entry><entry align="center">1.55 </entry></row><row><entry align="center">90.77</entry><entry align="center">0.12</entry><entry align="center">1201.76</entry><entry align="center">0.84</entry><entry align="center">8375.17</entry><entry align="center">97.49</entry><entry align="center">1.55 </entry></row><row><entry align="center">91.22</entry><entry align="center">0.11</entry><entry align="center">1056.58</entry><entry align="center">0.74</entry><entry align="center">7359.76</entry><entry align="center">97.60</entry><entry align="center">1.56 </entry></row><row><entry align="center">91.67</entry><entry align="center">0.09</entry><entry align="center">910.98</entry><entry align="center">0.63</entry><entry align="center">6342.39</entry><entry align="center">97.72</entry><entry align="center">1.56 </entry></row><row><entry align="center">92.12</entry><entry align="center">0.08</entry><entry align="center">764.95</entry><entry align="center">0.53</entry><entry align="center">5323.06</entry><entry align="center">97.83</entry><entry align="center">1.56 </entry></row><row><entry align="center">92.57</entry><entry align="center">0.06</entry><entry align="center">618.49</entry><entry align="center">0.43</entry><entry align="center">4301.76</entry><entry align="center">97.95</entry><entry align="center">1.56 </entry></row><row><entry align="center">93.02</entry><entry align="center">0.05</entry><entry align="center">471.60</entry><entry align="center">0.33</entry><entry align="center">3278.50</entry><entry align="center">98.06</entry><entry align="center">1.56 </entry></row><row><entry align="center">93.47</entry><entry align="center">0.03</entry><entry align="center">324.29</entry><entry align="center">0.23</entry><entry align="center">2253.25</entry><entry align="center">98.18</entry><entry align="center">1.56 </entry></row><row><entry align="center">93.52</entry><entry align="center">0.02</entry><entry align="center">176.54</entry><entry align="center">0.12</entry><entry align="center">1226.03</entry><entry align="center">98.29</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.56</entry><entry align="center">0.02</entry><entry align="center">161.74</entry><entry align="center">0.11</entry><entry align="center">1123.20</entry><entry align="center">98.31</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.61</entry><entry align="center">0.01</entry><entry align="center">146.94</entry><entry align="center">0.10</entry><entry align="center">1020.34</entry><entry align="center">98.32</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.65</entry><entry align="center">0.01</entry><entry align="center">132.13</entry><entry align="center">0.09</entry><entry align="center">917.47</entry><entry align="center">98.33</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.70</entry><entry align="center">0.01</entry><entry align="center">117.32</entry><entry align="center">0.08</entry><entry align="center">814.58</entry><entry align="center">98.34</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.75</entry><entry align="center">0.01</entry><entry align="center">102.50</entry><entry align="center">0.07</entry><entry align="center">711.67</entry><entry align="center">98.35</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.79</entry><entry align="center">0.01</entry><entry align="center">87.68</entry><entry align="center">0.06</entry><entry align="center">608.74</entry><entry align="center">98.36</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.84</entry><entry align="center">0.01</entry><entry align="center">72.85</entry><entry align="center">0.05</entry><entry align="center">505.79</entry><entry align="center">98.38</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.88</entry><entry align="center">0.01</entry><entry align="center">58.03</entry><entry align="center">0.04</entry><entry align="center">402.81</entry><entry align="center">98.39</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.93</entry><entry align="center">0.00</entry><entry align="center">43.19</entry><entry align="center">0.03</entry><entry align="center">299.82</entry><entry align="center">98.40</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.93</entry><entry align="center">0.00</entry><entry align="center">28.35</entry><entry align="center">0.02</entry><entry align="center">196.81</entry><entry align="center">98.41</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.93</entry><entry align="center">0.00</entry><entry align="center">26.87</entry><entry align="center">0.02</entry><entry align="center">186.51</entry><entry align="center">98.41</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.94</entry><entry align="center">0.00</entry><entry align="center">25.39</entry><entry align="center">0.02</entry><entry align="center">176.21</entry><entry align="center">98.41</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.94</entry><entry align="center">0.00</entry><entry align="center">23.90</entry><entry align="center">0.02</entry><entry align="center">165.91</entry><entry align="center">98.41</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.95</entry><entry align="center">0.00</entry><entry align="center">22.42</entry><entry align="center">0.02</entry><entry align="center">155.60</entry><entry align="center">98.42</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.95</entry><entry align="center">0.00</entry><entry align="center">20.93</entry><entry align="center">0.01</entry><entry align="center">145.30</entry><entry align="center">98.42</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.96</entry><entry align="center">0.00</entry><entry align="center">19.45</entry><entry align="center">0.01</entry><entry align="center">135.00</entry><entry align="center">98.42</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.96</entry><entry align="center">0.00</entry><entry align="center">17.96</entry><entry align="center">0.01</entry><entry align="center">124.69</entry><entry align="center">98.42</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.97</entry><entry align="center">0.00</entry><entry align="center">16.48</entry><entry align="center">0.01</entry><entry align="center">114.39</entry><entry align="center">98.42</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.97</entry><entry align="center">0.00</entry><entry align="center">15.00</entry><entry align="center">0.01</entry><entry align="center">104.09</entry><entry align="center">98.42</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.97</entry><entry align="center">0.00</entry><entry align="center">13.51</entry><entry align="center">0.01</entry><entry align="center">93.78</entry><entry align="center">98.42</entry><entry align="center">1.57  </entry></row><row><entry align="center">93.98</entry><entry align="center">0.00</entry><entry align="center">12.03</entry><entry align="center">0.01</entry><entry align="center">83.48</entry><entry align="center">98.42</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.98</entry><entry align="center">0.00</entry><entry align="center">10.54</entry><entry align="center">0.01</entry><entry align="center">73.17</entry><entry align="center">98.42</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.99</entry><entry align="center">0.00</entry><entry align="center">9.06</entry><entry align="center">0.01</entry><entry align="center">62.87</entry><entry align="center">98.43</entry><entry align="center">1.57 </entry></row><row><entry align="center">93.99</entry><entry align="center">0.00</entry><entry align="center">7.57</entry><entry align="center">0.01</entry><entry align="center">52.56</entry><entry align="center">98.43</entry><entry align="center">1.57 </entry></row><row><entry align="center">94.00</entry><entry align="center">0.00</entry><entry align="center">6.09</entry><entry align="center">0.00</entry><entry align="center">42.26</entry><entry align="center">98.43</entry><entry align="center">1.57 </entry></row><row><entry align="center">94.00</entry><entry align="center">0.00</entry><entry align="center">4.60</entry><entry align="center">0.00</entry><entry align="center">31.95</entry><entry align="center">98.43</entry><entry align="center">1.57 </entry></row><row><entry align="center">94.00</entry><entry align="center">0.00</entry><entry align="center">3.12</entry><entry align="center">0.00</entry><entry align="center">21.65</entry><entry align="center">98.43</entry><entry align="center">1.57 </entry></row><row><entry align="center">94.01</entry><entry align="center">0.00</entry><entry align="center">2.97</entry><entry align="center">0.00</entry><entry align="center">20.62</entry><entry align="center">98.43</entry><entry align="center">1.57 </entry></row><row><entry align="center">94.01</entry><entry align="center">0.00</entry><entry align="center">1.49</entry><entry align="center">0.00</entry><entry align="center">10.31</entry><entry align="center">98.43</entry><entry align="center">1.57 </entry></row></tbody></tgroup></table></tables></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A process for producing a high temperature COx-lean product gas from 
+a high temperature COx-containing feed gas, said process comprising: 
+<claim-text><claim-text>providing a sorption enhanced reactor containing a first adsorbent, a shift catalyst 
+and a second adsorbent; </claim-text><claim-text>feeding the feed gas into the reactor during a reaction step, wherein the feed gas 
+comprises H2, H2O, CO and CO2; </claim-text><claim-text>contacting the feed gas with the first adsorbent to adsorb an amount of CO2 from 
+the feed gas and provide a CO2 depleted feed gas; </claim-text><claim-text>contacting the CO2 depleted feed gas with the shift catalyst to catalyze a shift 
+reaction of CO and H2O to form a product mixture comprising CO2 and H2; </claim-text><claim-text>contacting the product mixture with a mixture of the second adsorbent and the 
+shift catalyst to produce the product gas, wherein the product gas comprises at least 50 
+vol.% H2, and less than 5 combined vol.% of CO2 and CO; </claim-text><claim-text>regenerating the first and second adsorbents; and </claim-text><claim-text>repressurizing the reactor with a pressurization gas. </claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The process of claim 1, wherein the reactor contains a first bed, an 
+intermediate bed downstream of the first bed and a second bed downstream of the 
+intermediate bed, and wherein the first bed contains the first adsorbent, the second bed 
+contains the mixture of the second adsorbent and the shift catalyst, and the intermediate 
+bed contains the shift catalyst. </claim-text></claim><claim num="3"><claim-text>The process of claim 2, wherein: (a) the second bed is packed with solid 
+particles; (b) each of the solid particles comprises both the second adsorbent and the 
+shift catalyst; and (c) the mixture of the second adsorbent and the shift catalyst in the 
+second bed is provided by packing the second bed with the solid particles without mixing. </claim-text></claim><claim num="4"><claim-text>The process of claim 1, wherein the first and second adsorbents are 
+regenerated by decreasing a gas pressure of the reactor and purging the reactor with a 
+purge gas free of CO2. </claim-text></claim><claim num="5"><claim-text>The process of claim 1, wherein the pressurization gas comprises at least one 
+of the purge gas and the feed gas. </claim-text></claim><claim num="6"><claim-text>The process of claim 1, wherein the first adsorbent is identical to the second 
+adsorbent. </claim-text></claim><claim num="7"><claim-text>The process of claim 1, wherein the first adsorbent and the second adsorbent 
+are at least one member selected from the group consisting of: (a) K2CO3 promoted 
+hydrotalcites; (b) modified double layered hydroxides represented by Formula I: 
+(Mg(I-X)Alx(OH)2)(CO3)x/2yH2OzMI2CO3 
+where 0.09 ≤ x ≤ 0.40, 0 ≤ y ≤ 3.5, 0 ≤ z ≤ 3.5, and Ml is Na or K; (c) spinels and modified 
+spinels represented by Formula II: 
+Mg(Al2)O4yK2CO3 
+where 0 ≤ y ≤ 3.5; and (d) magnesium oxide-containing adsorbents represented by 
+Formula III: 
+{(M2CO3)m(2MHCO3)(1-m)}n(MgCO3)p(MgO)(1-p)xH2O 
+where M is an alkali metal, 0 ≤ m ≤ 1, 0 ≤ n ≤ 1.3, 0 ≤ p &lt; 1, and x represents an extent 
+of hydration of the adsorbent, with the proviso that when n equals 0 the MgO is made by 
+dehydration and CO2 removal of {MgCO3}y{Mg(OH)2}(1-y)xH2O, in which 0.1 ≤ y ≤ 0.9, and 
+x indicates an extent of hydration. </claim-text></claim><claim num="8"><claim-text>The process of claim 1, wherein the first adsorbent and the second adsorbent 
+are independently at least one member selected from the group consisting of: (a) K2CO3 
+promoted hydrotalcites; (b) modified double layered hydroxides represented by Formula 
+I: 
+(Mg(I-X)Alx(OH)2)(CO3)x/2yH2OzMI2CO3
+ 
+where 0.09 ≤ x ≤ 0.40, 0 ≤ y ≤ 3.5, 0 ≤ z ≤ 3.5, and M' is Na or K; (c) spinels and modified 
+spinels represented by Formula II: 
+Mg(Al2)O4yK2CO3 
+where 0 ≤ y ≤ 3.5; and (d) magnesium oxide-containing adsorbents represented by 
+Formula III: 
+{(M2CO3)m(2MHCO3)(1-m)}n(MgCO3)p(MgO)(1-p)xH2O 
+where M is an alkali metal, 0 ≤ m ≤ 1, 0 ≤ n ≤ 1.3, 0 ≤ p &lt; 1, and x represents an extent 
+of hydration of the adsorbent, with the proviso that when n equals 0 the MgO is made by 
+dehydration and CO2 removal of {MgCO3}y{Mg(OH)2}(1-y)xH2O, in which 0.1 ≤ y ≤ 0.9, and 
+x indicates an extent of hydration. </claim-text></claim><claim num="9"><claim-text>The. process of claim 1, wherein the shift catalyst is at least one member 
+selected from the group consisting of CuO/ZnO based shift catalysts, Fe2O3 /Cr2O3 
+based shift catalysts and shift catalysts containing noble metals. </claim-text></claim><claim num="10"><claim-text>The process of claim 1, wherein the feed gas comprises 25-75 vol.% H2, 
+10-50 vol.% H2O, 1-20 vol.% CO, 1-20 vol.% CO2, 0-50 vol. % N2, and 0.1-5 vol.% CH4</claim-text></claim><claim num="11"><claim-text>The process of claim 1, wherein the feed gas is a syngas effluent from a 
+steam methane reformer, partial oxidation reactor, air-blown autothermal reformer or 
+oxygen-blown autothermal reformer upstream of the reactor. </claim-text></claim><claim num="12"><claim-text>The process of claim 1, wherein the feed gas is a syngas effluent from a high 
+temperature shift reactor, and raw syngas to the high temperature shift reactor is 
+obtained from a steam methane reformer, partial oxidation reactor, air-blown autothermal 
+reformer or oxygen-blown autothermal reformer upstream of the reactor. </claim-text></claim><claim num="13"><claim-text>The process of claim 1, wherein the feed gas is fed into the reactor at a flow 
+rate of 5-50 gmole/hr/cm2 and a reactor temperature during the process is maintained 
+between 175°C and 550°C. </claim-text></claim><claim num="14"><claim-text>The process of claim 1, further comprising conveying the product gas to a 
+methanator to reduce the CO concentration in the product gas to less than 50 ppm. </claim-text></claim><claim num="15"><claim-text>The process of claim 1, wherein the purge gas comprises at least one of 
+steam and a steam/H2 mixture. </claim-text></claim><claim num="16"><claim-text>The process of claim 1, wherein the process is conducted in a series of cycles 
+in more than one said reactor, and one said reactor is being regenerated while another 
+said reactor is being operated in parallel to produce the product gas. </claim-text></claim><claim num="17"><claim-text>The process of claim 1, further comprising conveying the product gas to a 
+pressure swing adsorption unit to increase a hydrogen concentration of the product gas 
+to at least 99 vol.%, wherein purge gas from the pressure swing adsorption unit is used 
+to purge the reactor. </claim-text></claim><claim num="18"><claim-text>The process of claim 1, further comprising countercurrently purging the 
+reactor at feed gas pressure with purge gas before regenerating the first and second 
+adsorbents to yield an effluent stream containing unreacted CO and H2O, and recycling 
+the effluent stream to the feed gas stream to produce a CO2 and CO depleted product 
+stream with enhanced hydrogen recovery. </claim-text></claim><claim num="19"><claim-text>The process of claim 1, further comprising cocurrently rinsing the reactor at 
+feed gas pressure with CO2 product before regenerating the first and second adsorbents 
+to produce a CO2 and CO depleted product stream with enhanced hydrogen recovery 
+and recover a CO2-rich byproduct stream during the regenerating. </claim-text></claim><claim num="20"><claim-text>The process of claim 19, where the CO2 and CO depleted product stream is 
+used to generate power in a gas fired turbine system. </claim-text></claim><claim num="21"><claim-text>An apparatus for performing the process of claim 1, said apparatus 
+comprising: 
+<claim-text><claim-text>a first bed comprising the first adsorbent; </claim-text><claim-text>a second bed comprising the mixture of the second adsorbent and the shift 
+catalyst; </claim-text><claim-text>an intermediate bed between, and in fluid communication with, the first bed and 
+the second bed, wherein the intermediate bed comprises the shift reaction catalyst; </claim-text><claim-text>a feed gas inlet at a feed end of the first bed; </claim-text><claim-text>a product gas outlet at a product end of the second bed, </claim-text></claim-text> 
+   wherein the first adsorbent and the second adsorbent are at least one member 
+independently selected from the group consisting of: (a) K2CO3 promoted hydrotalcites; 
+(b) modified double layered hydroxides represented by Formula I: 
+(Mg(I-X)Alx(OH)2)(CO3)x/2yH2OzMI2CO3 
+where 0.09 ≤ x ≤ 0.40, 0 ≤ y ≤ 3.5, 0 ≤ z ≤ 3.5, and MI is Na or K; (c) spinels and modified 
+spinels represented by Formula II: 
+Mg(Al2)O4yK2CO3 
+where 0 ≤ y ≤ 3.5; and (d) magnesium oxide-containing adsorbents represented by 
+Formula III: 
+{(M2CO3)m(2MHCO3)(1-m)}n(MgCO3)p(MgO)(1-p)xH2O 
+where M is an alkali metal, 0 ≤ m ≤ 1, 0 ≤ n ≤ 1.3, 0 ≤ p &lt; 1, and x represents an extent 
+of hydration of the adsorbent, with the proviso that when n equals 0 the MgO is made by 
+dehydration and CO2 removal of {MgCO3}y{Mg(OH)2}(1-y)xH2O, in which 0.1 ≤ y ≤ 0.9, and 
+x indicates an extent of hydration. </claim-text></claim><claim num="22"><claim-text>The apparatus of claim 21, wherein a volume fraction of the mixture in the 
+second bed varies as a function of location in the second bed such that a shift catalyst 
+concentration gradient is provided. </claim-text></claim><claim num="23"><claim-text>The apparatus of claim 21, wherein the first adsorbent is identical to the 
+second adsorbent. </claim-text></claim><claim num="24"><claim-text>The apparatus of claim 21, wherein: (a) the second bed is packed with solid 
+particles; (b) each of the solid particles comprises both the second adsorbent and the 
+shift catalyst; and (c) the mixture of the second adsorbent and the shift catalyst in the 
+second bed is provided by packing the second bed with the solid particles without mixing. </claim-text></claim><claim num="25"><claim-text>The apparatus of claim 21, wherein the shift catalyst is at least one member 
+selected from the group consisting of CuO/ZnO based shift catalysts, Fe2O3/Cr2O3 based 
+shift catalysts, and shift catalysts containing noble metals. </claim-text></claim><claim num="26"><claim-text>The apparatus of claim 21, further comprising an adiabatic vessel in which the 
+first bed, the intermediate bed and the second bed are packed as consecutive layers. </claim-text></claim><claim num="27"><claim-text>The apparatus of claim 26, wherein there is more than one said adiabatic 
+vessel adapted to operate in parallel with each other. </claim-text></claim><claim num="28"><claim-text>The apparatus of claim 26, further comprising a steam methane reformer, 
+partial oxidation reactor or autothermal reformer in fluid communication with the feed gas 
+inlet. </claim-text></claim><claim num="29"><claim-text>The apparatus of claim 26, further comprising a high temperature shift reactor 
+in fluid communication with the feed gas inlet and the steam methane reformer, partial 
+oxidation reactor or autothermal reformer. </claim-text></claim><claim num="30"><claim-text>The apparatus of claim 29, further comprising a methanator in fluid 
+communication with the product gas outlet to reduce a CO concentration in the product 
+gas to less than 50 ppm. </claim-text></claim><claim num="31"><claim-text>The apparatus of claim 30, further comprising a hydrogen fuel cell in fluid 
+communication with the methanator. </claim-text></claim><claim num="32"><claim-text>The apparatus of claim 30, further comprising a pressure swing adsorption 
+unit adapted to increase a hydrogen concentration of the product gas to at least 99 
+vol.%, and to provide purge gas to the reactor. </claim-text></claim><claim num="33"><claim-text>A process for producing a high temperature COx-lean product gas from a high 
+temperature COx-containing feed gas, said process comprising: 
+<claim-text><claim-text>providing a sorption enhanced reactor containing a mixture of an adsorbent and a 
+shift catalyst in a single bed; </claim-text><claim-text>feeding the feed gas into the reactor during a reaction step, wherein the feed gas 
+comprises H2, H2O CO and CO2; </claim-text><claim-text>contacting the feed gas with the mixture of the adsorbent and the shift catalyst to 
+produce the product gas, wherein the product gas comprises at least 50 vol.% H2, and 
+less than 5 combined vol.% of CO2 and CO; </claim-text><claim-text>regenerating the adsorbent; and </claim-text><claim-text>repressurizing the reactor with a pressurization gas. </claim-text></claim-text></claim-text></claim><claim num="34"><claim-text>The process of claim 33, wherein: (a) the single bed is packed with solid 
+particles; (b) each of the solid particles comprises both the adsorbent and the shift 
+catalyst; and (c) the mixture of the adsorbent and the shift catalyst in the single bed is 
+provided by packing the single bed with the solid particles without mixing. </claim-text></claim><claim num="35"><claim-text>An apparatus for performing the process of claim 33, said apparatus 
+comprising: 
+<claim-text><claim-text>a single bed comprising a mixture of the adsorbent and the shift catalyst; </claim-text><claim-text>a feed gas inlet at a feed end of the bed; </claim-text><claim-text>a product gas outlet at a product end of the bed, </claim-text></claim-text> 
+   wherein the adsorbent is at least one member independently selected from the 
+group consisting of: (a) K2CO3 promoted hydrotalcites; (b) modified double layered 
+hydroxides represented by Formula I: 
+(Mg(I-X)Alx(OH)2)(CO3)x/2yH2OzMI2CO3 
+where 0.09 ≤ x ≤ 0.40, 0 ≤ y ≤ 3.5, 0 ≤ z ≤ 3.5, and MI is Na or K; (c) spinels and modified 
+spinels represented by Formula II: 
+Mg(Al2)O4yK2CO3 
+where 0 ≤ y ≤ 3.5; and (d) magnesium oxide-containing adsorbents represented by 
+Formula III: 
+{(M2CO3)m(2MHCO3)(1-m)}n(MgCO3)p(MgO)(1-p)xH2O 
+   where M is an alkali metal, 0 ≤ m ≤ 1, 0 ≤ n ≤ 1.3, 0 ≤ p &lt; 1, abnd x represents an 
+extent of hydration of the adsorbent, with the proviso that when n equals 0 the MgO is 
+ 
+made by dehydration and CO2 removal of {MgCO3}y{Mg(OH)2}(1-y)xH2O, in which 0.1 ≤ y ≤ 
+0.9, and x indicates an extent of hydration. </claim-text></claim><claim num="36"><claim-text>The apparatus of claim 35, wherein: (a) the single bed is packed with solid 
+particles; (b) each of the solid particles comprises both the adsorbent and the shift 
+catalyst; and (c) the mixture of the adsorbent and the shift catalyst in the single bed is 
+provided by packing the single bed with the solid particles without mixing. </claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

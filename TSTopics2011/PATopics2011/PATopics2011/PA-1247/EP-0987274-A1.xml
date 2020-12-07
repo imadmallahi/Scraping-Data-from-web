@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-0987274-A1" country="EP" doc-number="0987274" kind="A1" lang="EN" family-id="8232644" status="new" date-produced="20090516" date="20000322"><bibliographic-data><publication-reference ucid="EP-0987274-A1" status="new" fvid="22805106"><document-id status="new" format="original"><country>EP</country><doc-number>0987274</doc-number><kind>A1</kind><date>20000322</date></document-id></publication-reference><application-reference ucid="EP-98117506-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>98117506</doc-number><kind>A</kind><date>19980915</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-98117506-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>98117506</doc-number><kind>A</kind><date>19980915</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A61K  38/00        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  38/00        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  38/06        20060101ALI20040220BMRU        </classification-ipcr><classification-ipcr status="new">A61K  38/06        20060101CLI20040220BMRU        </classification-ipcr><classification-ipcr status="new">A61K  38/07        20060101ALI20040220BMRU        </classification-ipcr><classification-ipcr status="new">A61K  38/07        20060101CLI20040220BMRU        </classification-ipcr><classification-ipcr status="new">A61P   7/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   7/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   7/02        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   9/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   9/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   9/10        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  29/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  29/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  43/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  43/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07K   1/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07K   1/04        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07K   1/06        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07K   5/00        20060101C I20051110RMEP        </classification-ipcr><classification-ipcr status="new">C07K   5/068       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07K   5/072       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07K   5/09        20060101A I20051110RMEP        </classification-ipcr><classification-ipcr status="new">C07K   5/11        20060101A I20051110RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C07K   5/08B</classification-symbol><classification-symbol scheme="EC">C07K   5/10B</classification-symbol><classification-symbol scheme="ICO">K61K38:00</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Faktor VIIa Inhibitore</invention-title><invention-title load-source="ep" status="new" lang="EN">Factor VIIa Inhibitors</invention-title><invention-title load-source="ep" status="new" lang="FR">Inhibiteurs du facteur VIIa</invention-title><citations><patent-citations><patcit ucid="US-5663297-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5663297</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1989009612-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1989009612</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1990003390-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1990003390</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1991007432-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1991007432</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1995000541-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1995000541</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1995029189-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1995029189</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1996040779-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1996040779</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>HOECHST MARION ROUSSEL DE GMBH</name><address><country>DE</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>AVENTIS PHARMA DEUTSCHLAND GMBH</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Hoechst Marion Roussel Deutschland GmbH</last-name><address><street>Brüningstrasse 50</street><city>65929 Frankfurt am Main</city><country>DE</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>SAFAR PAVEL</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SAFAROVA ALENA</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>WILDGOOSE PETER</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SAFAR, PAVEL</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SAFAROVA, ALENA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>WILDGOOSE, PETER</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SAFAR, PAVEL</last-name><address><street>12431 N. Forest Lake Way</street><city>Tucson AZ 85737</city><country>US</country></address></addressbook></inventor><inventor status="new"  format="original"><addressbook><last-name>SAFAROVA, ALENA</last-name><address><street>12431 N. Forest Lake Way</street><city>Tucson AZ 85737</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>WILDGOOSE, PETER</last-name><address><street>Hintergasse 18</street><city>61440 Oberursel</city><country>DE</country></address></addressbook></inventor></inventors></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The present invention relates to novel compounds, their preparation, their use and
+pharmaceutical compositions containing the compounds which have a strong
+antithrombotic effect through reversible inhibition of activated blood coagulation
+factor VIIa (FVIIa).</p></abstract><description load-source="ep" status="new"  lang="EN"><heading><u style="single">Field of the Invention</u></heading><p num="0001">The present invention relates to novel compounds, their preparation, their use and
+pharmaceutical compositions containing the compounds which have a strong
+antithrombotic effect through reversible inhibition of activated blood coagulation
+factor VIIa (FVIIa).</p><heading><u style="single">Background of the Invention</u></heading><p num="0002">Thrombus formation is normally the result of tissue injury which initiate the
+coagulation cascade and has the effect of slowing or preventing blood flow in wound
+healing. Other factors which are not directly related to tissue injury like
+atherosclerosis and inflammation may also initiate the coagulation cascade and may
+lead to pathological consequences.</p><p num="0003">Blood coagulation is a complex process involving a progressively amplified series of
+enzyme activation reactions in which plasma zymogens are sequentially activated by
+limited proteolysis. Mechanistically the blood coagulation cascade has been divided
+into intrinsic and extrinsic pathways, which converge at the activation of factor X;
+subsequent generation of the thrombin proceeds through a single common pathway
+(see Scheme 1). <img id="img-00020001"  orientation="unknown"  wi="139" img-format="tif" img-content="cf" file="00020001.tif" inline="no" he="112"/></p><p num="0004">Present evidence suggests that the intrinsic pathway plays an important role in the
+maintenance and growth of fibrin formation, while the extrinsic pathway is critical in
+the initiation phase of blood coagulation (H. Cole, Aust. J. Med. Chem. 16 (1995) 87;
+G.J. Broze, Blood Coagulation and Fibrinolysis &amp;, Suppl.1 (1995) S7-S13). It is
+generally accepted that blood coagulation is physically initiated upon formation of a
+tissue factor(TF)/factor VIIa complex. Once formed, this complex rapidly initiates
+coagulation by activating factors IX and X. The newly generated activated factor X, i.
+e. factor Xa, then forms a one-to-one complex with factor Va and phospholipids to
+form a prothrombinase complex, which is responsible for converting soluble
+fibrinogen to insoluble fibrin via the activation of thrombin from its precursor
+prothrombin. As time progresses, the activity of the factor VIIa/tissue factor complex
+(extrinsic pathway) is suppressed by a Kunitz-type protease inhibitor protein, TFPI,
+which, when complexed to factor Xa, can directly inhibit the proteolytic activity of
+factor VIIa/tissue factor. In order to maintain the coagulation process in the presence 
+of an inhibited extrinsic system, additional factor Xa is produced via the
+thrombin-mediated activity of the intrinsic pathway. Thus, thrombin plays a dual
+autocatalytic role, mediating its own production and the conversion of fibrinogen to
+fibrin.</p><p num="0005">The autocatalytic nature of thrombin generation is an important safeguard against
+uncontrolled bleeding and it ensures that, once a given threshold level of
+prothrombinase is present, blood coagulation will proceed to completion. The ability
+to form blood clots is vital to survival. In certain disease states, however, the
+formation of blood clots within the circulatory system is itself a source of morbidity. It
+is nevertheless not desirable in such disease states to completely inhibit the clotting
+system because life threatening hemorrhage would ensue. Thus, it is most desirable
+to develop agents that inhibit coagulation by inhibition of factor VIIa without directly
+inhibiting thrombin.</p><p num="0006">In many clinical applications there is a great need for the prevention of intravascular
+blood clots or for some anti-coagulant treatment. The currently available drugs are
+not satisfactory in many specific clinical applications. For example, nearly 50 % of
+patients who have undergone a total hip replacement develop deep vein thrombosis
+(DVT). The currently approved therapies are fixed dose low molecular weight
+heparin (LMWH) and variable dose heparin. Even with these drug regimes 10 % to
+20 % of patients develop DVT and 5 % to 10 % develop bleeding complications.</p><p num="0007">Another clinical situation for which better anticoagulants are needed concerns
+subjects undergoing transluminal coronary angioplasty and subjects at risk for
+myocardial infarction or suffering from crescendo angina. The present,
+conventionally accepted therapy, which consists of administering heparin and
+aspirin, is associated with a 6 % to 8 % abrupt vessel closure rate within 24 hours of
+the procedure. The rate of bleeding complications requiring transfusion therapy due
+to the use of heparin also is approximately 7 %. Moreover, even though delayed 
+closures are significant, administration of heparin after termination of the procedures
+is of little value and can be detrimental.</p><p num="0008">The most widely used blood-clotting inhibitors are heparin and the related sulfated
+polysaccharides, LMWH and heparin sulfate. These molecules exert their
+anti-clotting effects by promoting the binding of a natural regulator of the clotting
+process, anti-thrombin III, to thrombin and to factor Xa. The inhibitory activity of
+heparin primarily is directed toward thrombin, which is inactivated approximately 100
+times faster than factor Xa. Hirudin and hirulog are two additional thrombin-specific
+anticoagulants presently in clinical trials. However, these anticoagulants, which
+inhibit thrombin, also are associated with bleeding complications. Preclinical studies
+in baboons and dogs have shown that targeting enzymes involved at earlier stages
+of the coagulation cascade, such as factor Xa or factor VIIa, prevents clot formation
+without producing the bleeding side effects observed with direct thrombin inhibitors
+(T. Yokoyama, A.B Kelly, U.M Marzec, Hanson SR, S Kunitada, L.A Harker,
+Circulation 92 (1995),485-491; L.A Harker, S.R Hanson, A.B Kelly, Thromb
+Hemostas 74 (1995) 464-472; C.R Benedict, J Ryan, J Todd, K Kuwabara, P Tyburg,
+Jr. J Cartwright, D. Stern, Blood 81 (1993, 2059-2066).</p><p num="0009">Specific inhibition of the factor VIIa/TF catalytic complex using monoclonal antibody
+(International Application No. WO9206711) and a protein such as chloromethyl
+ketone inactivated FVIIa (International Appl. No. WO9612800 and WO9747651) is
+an extremely effective means of controlling thrombus formation caused by acute
+arterial injury or the thrombotic complications related to bacterial septicemia. There
+is also experimental evidence suggesting that inhibition of factor VIIa/TF activity
+inhibits restenosis following ballon angioplasty (L.A Harker, S.R Hanson, J.N Wilcox,
+A.B Kelly, Haemostasis 26 (1996) S1:76-82). Bleeding studies have been
+conducted in baboons and indicate that inhibition of the factor VIIa/TF complex has
+the widest safety window with respect to therapeutic effectiveness and bleeding risk
+of any anticoagulant approach tested including thrombin, platelet and factor Xa 
+inhibition (L.A Harker, S.R Hanson, A.B Kelly, Thromb Hemostas 74 (1995) 464-472).</p><p num="0010">A specific inhibitor of factor VIIa would have substantial practical value in the
+practice of medicine. In particular, a factor VIIa inhibitor would be effective under
+circumstances where the present drugs of choice, heparin and related sulfated
+polysaccharides, are ineffective or only marginally effective. Thus, there exists a
+need for a low molecular weight, factor VIIa-specific blood clotting inhibitor that is
+effective, but does not cause unwanted side effects. The present invention satisfies
+this need by providing factor VIIa activity inhibiting derivatives of formula I and by
+providing related advantages as well.</p><p num="0011">The compounds of formula I are inhibitors of the blood clotting enzyme factor VIIa.
+The invention also relates to processes for the preparation of the compounds of
+formula I, to methods of inhibiting factor VIIa activity and of inhibiting blood clotting,
+to the use of the compounds of formula I in the treatment and prophylaxis of
+diseases which can be cured or prevented by the inhibition of factor VIIa activity
+such as thromboembolic diseases, and restenosis and the use of the compounds of
+formula I in the preparation of medicaments to be applied in such diseases. The
+invention further relates to compositions containing a compound of formula I in a
+mixture or otherwise in association with an inert carrier, in particular pharmaceutical
+compositions containing a compound of formula I together with pharmaceutically
+acceptable carrier substances and auxiliary substances. </p><heading><u style="single">Summary of the invention</u></heading><p num="0012">The present invention provides compounds that specifically inhibit factor VIIa
+activity. The compounds of the invention have the formula I
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R1-A-B-D-E<sub>n</sub>-R2</st32:che>
+wherein
+<sl><li>R1 represents
+<sl><li>hydrogen,</li><li>1 to 3 amino acids, the N-terminus of which can be substituted with a
+substituent selected from the group consisting of R14CO, R15SO<sub>2</sub> and an
+amino protecting group,</li><li>R12C(O) or</li><li>R13,
+
+wherein
+<dl tsize="12"><dt>R12</dt><dd>is selected from the group consisting of alkyl, alkenyl, alkynyl, alkoxy,
+alkylamino, alkenylamino, alkynylamino, alkenyloxy, alkynyloxy, aryl,
+heteroaryl, heterocycloalkyl, heteroarylalkyl, heterocycloalkylalkyl,
+heteroalkyl, heteroalkenyl and heteroalkynyl, which radicals can be
+substituted,</dd><dt>R13</dt><dd>is selected from the group consisting of an amino protecting group,
+hydrogen, alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,</dd><dt>R14 and R15</dt><dd>are independently selected from the group consisting of alkyl,
+aryl, arylalkyl, heteroaryl, heteroarylalkyl, heterocycloalkyl and
+heterocycloalkylalkyl,</dd></dl></li></sl></li><li>A is the group A1-A2-A3, wherein
+<dl tsize="3"><dt>A1</dt><dd>is NR91, wherein R91 is selected from the group consisting of
+hydrogen, alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,</dd><dt>A2</dt><dd>is CR92R93, wherein R92 and R93 independently are selected
+from the group consisting of hydrogen and the radicals alkyl,
+aryl, arylalkyl, heteroaryl, heteroarylalkyl, heterocycloalkyl and
+heterocycloalkylalkyl, which may be substituted,</dd><dt>A3</dt><dd>is C(O),</dd></dl></li><li>B is the group B1-B2-B3, wherein
+<dl tsize="3"><dt>B1</dt><dd>is NR95, wherein R95 is selected from the group consisting of
+hydrogen, alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,</dd><dt>B2</dt><dd>is CR96R97, wherein R96 and R97 are independently selected
+from the group consisting of hydrogen and the unsubstituted or
+substituted radicals alkyl, aryl, arylalkyl, heteroaryl,
+heteroarylalkyl, heterocycloalkyl and heterocycloalkylalkyl,</dd><dt>B3</dt><dd>is C(O),</dd></dl></li><li>D is the group D1-D2-D3, wherein
+<dl tsize="3"><dt>D1</dt><dd>is NR80, wherein R80 is selected from the group consisting of
+hydrogen, alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl, </dd><dt>D2</dt><dd>is CR81R82, wherein R81 and R82 are independently selected
+from the group consisting of hydrogen and unsubstituted or
+substituted alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,</dd><dt>D3</dt><dd>is C(O),</dd></dl></li><li>E<sub>n</sub> is (E1-E2-E3)<sub>n</sub>, wherein
+<sl><li>n is an integer of from 0 to 3,</li></sl><dl tsize="3"><dt>E1</dt><dd>is NR70, wherein R70 is selected from the group consisting of
+hydrogen, alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,</dd><dt>E2</dt><dd>is CR71R72, wherein R71 and R72 are independently selected
+from the group consisting of hydrogen and unsubstituted or
+substituted alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,</dd><dt>E3</dt><dd>is C(O),</dd><dt>R2</dt><dd>is selected from the group consisting of NR21R22, OR23 and R24,
+wherein R21, R22, R23 and R24 are independently selected from the
+group consisting of hydrogen and unsubstituted or substituted alkyl,
+aryl, arylalkyl, heteroaryl, heteroarylalkyl, heterocycloalkyl and
+heterocycloalkylalkyl,</dd></dl>
+and pharmaceutically acceptable salts thereof.</li></sl></p><p num="0013">Preferred are compounds of the formula I
+
+wherein
+<sl><li>R1 is R12 CO, wherein R12 is as defined</li><li>A is A1-A2-A3, wherein
+<sl><li>A1 is -NH-,</li><li>A2 is -CR92R93-, wherein R92 is hydrogen and R93 is as defined</li><li>A3 is -CO-,</li></sl></li><li>B is B1-B2-B3, wherein
+<sl><li>B1 is -NH-,</li><li>B2 is -CR96R97-, wherein R96 is hydrogen and R97 is as defined,</li><li>B3 is -CO-,</li></sl></li><li>D is D1-D2-D3, wherein
+<sl><li>D1 is-NH-,</li><li>D2 is -CR81R82-, wherein R81 is hydrogen and R82 is as defined,</li><li>D3 is -CO-,</li></sl></li><li>E<sub>n</sub> is (E1-E2-E3)<sub>n</sub>, wherein
+<sl><li>n is 1 or 2,</li><li>E1 is -NH-,</li><li>E2 is -CR71R72-, wherein R71 is hydrogen and R72 is as defined,</li><li>E3 is -CO-, and</li></sl></li><li>R2 is as defined.</li></sl></p><p num="0014">Particularly preferred are the above indicated preferred compounds of the formula (I)
+wherein n is 1 and R2 is NHR22, wherein R22 is as defined.</p><p num="0015">Specific examples of the compounds of the invention include, for example, the
+compounds listed in Table 2 below. </p><p num="0016">The compounds of the formula I can be prepared by
+<sl><li>a1) attaching a compound of the formula Fmoc-E<sub>n</sub>-OH or Fmoc-D1-D2-COOH, where
+Fmoc is 9-fluorenylmethoxycarbonyl and E<sub>n</sub>, D1 and D2 are as hereinbefore defined,
+to a Rink-amide resin and then cleaving off the protecting group Fmoc,</li><li>a2) repeating the procedure as described in step a1) above with Fmoc-B1-B2-COOH,</li><li>a3) repeating the procedure as described in step a1) above with R1-A1-A2-COOH,
+and</li><li>a4) finally cleaving off the compound obtained according to steps a1) through a3)
+above by means of TFA from the resin, where TFA is trifluoroacetic acid,
+or</li><li>b1) coupling the side chain carboxylic acid of Fmoc-B1-CH(R97)-COOPG, where
+Fmoc is as defined in step a1) above, R97 is a radical as defined above except
+hydrogen, which is substituted with a hydroxycarbonyl group, and PG is a
+protecting group, to an acid sensitive benzylalcohol type of linker attached to an
+amino functionalized resin,</li><li>b2) cleaving off the protecting group PG,</li><li>b3) coupling HN(R80)-D2-D3-E<sub>n</sub>-R2, where D2, D3, E<sub>n</sub>, R2 and R80 are as defined
+above, to the free carboxylic acid of the compound obtained in step b2) above by
+means of a suitable coupling agent,</li><li>b4) cleaving off the Fmoc group,</li><li>b5) coupling of the compound R1-A1-A2-COOH in analogy to the above described
+procedure, and</li><li>b6) cleaving off the compound obtained in step b5) by means of TFA,
+or</li><li>c1) coupling of protected amino acids by traditional medicinal chemistry and
+deprotecting to the target molecules by standard procedures known in the art.</li></sl></p><heading><u style="single">Detailed Description of the invention</u></heading><p num="0017">The present invention provides peptides of the formula I
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R1-A-B-D-E<sub>n</sub>-R2</st32:che>
+which are compounds that inhibit factor VIIa activity but do not substantially inhibit
+the activity of other proteases involved in the blood coagulation pathway.</p><p num="0018">As used herein, the term, "amino acid" is used in its broadest sense to mean the
+twenty naturally occurring amino acids, which are translated from the genetic code
+and comprise the building blocks of proteins, including, unless specifically stated
+otherwise, L-amino acids and D-amino acids, as well as chemically modified amino
+acids such as amino acid analogs, naturally-occurring amino acids that are not
+usually incorporated into proteins such as norleucine, and chemically synthesized
+compounds having properties known in the art to be characteristic of an amino acid.
+For example, analogs or mimetics of phenylalanine or proline, which allow the same
+conformational restriction of the peptide compounds as natural Phe or Pro, are
+included within the definition of "amino acids" and are known to those skilled in the
+art. Such analogs and mimetics are referred to herein as "functional equivalents" of
+an amino acid. Other examples of amino acids and amino acids analogs are listed by
+Roberts and Vellaccio (The Peptides: Analysis, Synthesis, Biology, Eds. Gross and
+Meienhofer, Vol. 5, p. 341, Academic Press, Inc., N.Y. 1983, which is incorporated
+herein by reference). Abbreviations of amino acids, amino acid analogs and mimetic
+structures used in application are listed in Table 1. <img id="img-00120001" orientation="unknown" wi="147" img-format="tif" img-content="tb" file="00120001.tif" inline="no" he="217"/><img id="img-00130001" orientation="unknown" wi="157" img-format="tif" img-content="tb" file="00130001.tif" inline="no" he="208"/></p><p num="0019">Further, the terms TOTU and HATU used in the Examples, mean
+O-[cyan(ethoxycarbonyl)methylenamino]-1,1,3,3-tetramethyluronium
+tetrafluoroborate and O-(7-azabenzotriazol-1-yl)-1,1,3,3-tetramethyluronium
+hexafluorophosphate, respectively.</p><p num="0020">As used herein, the term "specific" when used in reference to the inhibition of factor
+VIIa activity means that a compound of the formula I can inhibit factor VIIa activity
+without substantially inhibiting the activity of other specified proteases, including
+plasmin and thrombin (using the same concentration of the inhibitor). Such
+proteases are involved in the blood coagulation and fibrinolysis cascade.</p><p num="0021">As used herein, the term "substituent" refers to any of various chemical groups that
+is substituted onto the peptide backbone or side chain of a peptide, peptide
+analogue, mimetic or organic compound disclosed herein. A substituent can include
+any of a variety of different moieties known to those skilled in the art (see, for
+example, Giannis and Kolter, Angew. Chem. Int. Ed. Engl. 32:1244-1267 (1993),
+which is incorporated herein by reference).</p><p num="0022">As used herein, the term "alkyl" is used in the broadest sense to mean saturated or
+unsaturated, linear, branched or cyclic chains of about 1 to 13 carbon atoms. Thus,
+the term "alkyl" includes, for example, methyl, ethyl, n-propyl, isopropyl, sec-butyl,
+1 -methylbutyl, 2,2-dimethylbutyl, 2-methylpentyl, 2,2-dimethylpropyl, n-pentyl and
+n-hexyl groups, alkylene groups, cyclic chains of carbon atoms such cyclohexyl and
+cyclopentyl groups, as well as combinations of linear or branched chains and cyclic
+chains of carbon atoms such as a methyl-cyclohexyl or cyclopropyl-methylene group.
+In addition, it should be recognized that an alkyl as defined herein can be
+substituted with a substituent. Similarly, the term "acyl" is used in its broadest sense
+to mean saturated or unsaturated, linear, branched or cyclic chains of about 1 to 13
+carbon atoms or aryl groups having 5 to 13 carbon atoms, which contain a carboxyl
+group. Thus, the term "acyl" encompasses, for example, groups such as formyl,
+acetyl, benzoyl and the like. </p><p num="0023">Preferably, the term 
+<img id="img-00150001" orientation="unknown" wi="1" img-format="tif" img-content="ff" file="00150001.tif" inline="no" he="1"/>alkyl" means saturated, linear or branched chains of from 1 to 6
+carbon atoms, unsaturated linear or branched chains of from 2 to 6 carbon atoms, or
+cyclic alkyl groups of from 3 to 6 carbon atoms, preferred of from 4 to 6 carbon
+atoms. From the unsaturated alkyl chains, C<sub>2</sub>-C<sub>6</sub>-alkenyl and C<sub>2</sub>-C<sub>6</sub>-alkynyl are
+preferred.</p><p num="0024">Preferably, the term <imgref idrefs="img-00150001"/>acyl" means the hereinbefore mentioned saturated or
+unsaturated, linear, branched or cyclic chains having the preferred range of carbon
+atoms, which contain a carboxyl group.</p><p num="0025">The term "aryl" refers to aromatic groups containing about 5 to 13 carbon atoms and
+at least one "ring" group having a conjugated pi electron system. Preferable, the
+term <imgref idrefs="img-00150001"/>aryl" refers to aromatic groups having 6 to 10 carbon atoms. Examples of aryls
+include, for example, phenyl, naphthyl, fluorenyl, biphenylyl groups, and analogues
+and derivatives thereof, all of which optionally can be substituted with one or more
+substituents. The term "arylalkyl" refers to an alkyl as defined above substituted with
+one or more, for example two, aryl groups. Suitable arylalkyl groups include benzyl,
+phenethyl, diphenylmethyl, diphenylethyl, diphenylpropyl, naphthylmethyl,
+naphtylethyl and the like, all of which optionally can be substituted.</p><p num="0026">The terms "heteroalkyl," "heteroarylalkyl" and "heteroaryl" also are used herein and
+refer to an alkyl, an arylalkyl and an aryl, respectively, wherein one or more carbon
+atoms are replaced with one or more heteroatoms such as a N, O or S atom. In
+addition, the term "heterocycloalkyl" is used in reference to a cyclic alkyl group that
+is substituted with one or more heteroatoms. Preferably, the term <imgref idrefs="img-00150001"/>heterocycloalkyl"
+means a cycloalkyl group having 3 to 8 carbon atoms, of which 1 to 3 are replaced
+with hetero atoms such a N, O or S atoms. Suitable heteroaryl groups,
+heteroarylalkyl groups and heteroalkyl groups include, for example, pyridyl, thienyl,
+indolyl, imidazolyl, furyl, piperonyl, picolyl, pyrrolidinyl, piperidyl, tetrahydrofuryl,
+morpholinyl, piperazinyl and the like, all of which can optionally be substituted. </p><p num="0027">The peptides of the invention can be modified at the N-terminus and/or the C-terminus
+by reaction with suitable reagents or by introduction (or by the presence of)
+an amino-protecting group or carboxy-protecting group, respectively. The N-terminus
+of a peptide or peptide analog can be chemically modified such that the N-terminus
+amino group is substituted, for example, by an acyl group (for example acetyl,
+cyclopentylcarboxy, isoquinolylcarboxy, furoyl, tosyl, benzoyl, pyrazinecarboxy or
+other such group), by reaction with an isocyanate, chloroformate, alkylating agent or
+by introducing other such group, all of which can be substituted by a substituent as
+described above. It should be recognized that the term "amino group" is used
+broadly herein to refer to any free amino group, including a primary, secondary or
+tertiary amino group, present in a peptide. In comparison, the term "N-terminus"
+refers to the α-amino group of the first amino acid present in a peptide written in the
+conventional manner.</p><p num="0028">The N-terminus of a peptide of the invention can be protected by linking thereto an
+amino-protecting group. The term "amino-protecting group" is used broadly herein to
+refer to a chemical group that can react with a free amino group, including, for
+example, the α-amino group present at the N-terminus of a peptide of the invention.
+By virtue of reacting therewith, an amino-protecting group protects the otherwise
+reactive amino group against undesirable reactions as can occur, for example,
+during a synthetic procedure or due to exopeptidase activity on a final compound.
+Modification of an amino group also can provide additional advantages, including,
+for example, increasing the solubility or the activity of the compound. Various amino-protecting
+groups are disclosed herein or otherwise known in the art and include, for
+example, acyl groups such as an acetyl, tert-butyloxycarbonyl, allyloxycarbonyl,
+benzyloxycarbonyl group, benzoyl groups, as well as an aminoacyl residue, which
+itself can be modified by an amino-protecting group. Other amino-protecting groups
+are described, for example, in The Peptides, eds. Gross and Meienhofer, Vol. 3
+(Academic Press, Inc., N.Y. 1981); and by Greene and Wuts, in Protective Groups in
+Organic Synthesis 2d ed., pages 309-405 (John Wiley &amp; Sons, New York (1991), 
+each of which is incorporated herein by reference. The product of any such
+modification of the N-terminus amino group of a peptide or peptide analog of the
+invention is referred to herein as an "N-terminal derivative."</p><p num="0029">Similarly, a carboxy group such as the carboxy group present at the C-terminus of a
+peptide can be chemically modified using a carboxy-protecting group. The terms
+"carboxy group" and "C-terminus" are used in a manner consistent with the terms
+"amino group" and "N-terminus" as defined above. A carboxy group such as that
+present at the C-terminus of a peptide can be modified by reduction of the C-terminus
+carboxy group to an alcohol or aldehyde or by formation of an oral ester or
+by substitution of the carboxy group with a substituent such as a thiazolyl, cyclohexyl
+or other group. Oral esters are well known in the art and include, for example,
+alkoxymethyl groups such as methoxymethyl, ethoxymethyl, iso-propoxymethyl and
+the like; the α-(C<sub>1</sub> to C<sub>4</sub>)alkoxyethyl groups such as methoxyethyl, ethoxyethyl,
+propoxyethyl, isopropoxyethyl and the like; the 2-oxo-1,3-dioxolen-4-ylmethyl groups
+such as 5-methyl-2-oxo-1,3-dioxolen-4-ylmethyl, 5-phenyl-2-oxo-1,3-dioxolen-4-ylmethyl
+and the like; the C<sub>1</sub> to C<sub>3</sub> alkylthiomethyl groups such as methylthiomethyl,
+ethylthiomethyl, isopropylthiomethyl and the like; the acyloxymethyl groups such as
+pivaloyloxymethyl, α-acetoxymethyl and the like; the ethoxycarbonyl-1-methyl group;
+the α-acyloxy-α-substituted methyl groups such as α-acetoxyethyl, the 3-phthalidyl or
+5,6-dimethylphthalidyl groups, the 1-(C<sub>1</sub> to C<sub>4</sub> alkyloxycarbonyloxy)eth-1-yl groups
+such as the 1-(ethoxycarbonyloxy)eth-1-yl group; and the 1-(C<sub>1</sub> to C<sub>4</sub>
+alkylaminocarbonyloxy)eth-1-yl group such as the 1-(methylaminocarbonyloxy)eth-1-yl
+group.</p><p num="0030">A peptide of the invention can be modified by linking thereto a carboxy-protecting
+group. Carboxy-protecting groups are well known in the art and, by virtue of being
+bound to a peptide, protect a carboxy group against undesirable reactions (see, for
+example, Greene and Wuts, supra, pages 224-276 (1991), which is incorporated
+herein by reference). The skilled artisan would recognize that such modifications as
+described above, which can be effected upon the N-terminus amino group or 
+C-terminus carboxy group of a peptide, similarly can be effected upon any reactive
+amino group or carboxy group present, for example, on a side chain of an amino
+acid or amino acid analog in a peptide of the invention. Methods for performing such
+modifications are disclosed herein or otherwise known in the art.</p><p num="0031">The choice of including an L- or a D-amino acid in a compound of the present
+invention can depend, in part, on the desired characteristics of the peptide. For
+example, the incorporation of one or more D-amino acids can confer increased
+stability on the compound in vitro or in vivo. The incorporation of one or more D-amino
+acids also can increase or decrease the pharmacological activity of the
+compound. In some cases it can be desirable to allow the compound to remain
+active for only a short period of time. In such cases, the incorporation of one or more
+L-amino acids in the compound can allow endogenous peptidases in an individual to
+digest the compound in vivo, thereby limiting the individual's exposure to the active
+compound. The skilled artisan can determine the desirable characteristics required
+of compound of the invention by taking into consideration, for example, the age and
+general health of an individual.</p><p num="0032">A compound of the invention can be chemically synthesized using, for example, an
+automated synthesizer (see Example I). Selective modification of a reactive group
+such as a group present on an amino acid side chain or an N-terminus or a
+C-terminus reactive group in a peptide can impart desirable characteristics such as
+increased solubility or enhanced inhibitory function to a compound of the invention.</p><p num="0033">Where solid phase synthesis methods are employed, the chemical composition of a
+compound can be manipulated while the nascent peptide is attached to the resin or
+after the peptide has been cleaved from the resin to obtain, for example, an N-terminal
+derivative such as an N-terminus acylated, e. g. acetylated, compound.
+Similar modifications also can be made to a carboxy group of a compound, including
+a C-terminus carboxy group, which, for example, can be amidated. One skilled in the
+art also can synthesize a compound of the invention using solution phase organic 
+chemistry. A synthesized compound can be purified using well known methods such
+as reverse phase-high performance liquid chromatography (RP-HPLC; see Example
+I) or other methods of separation based, for example, on the size, charge or
+hydrophobicity of the compound. Similarly, well known methods such as amino acid
+sequence analysis or mass spectrometry (MS) can be used for characterizing the
+structure of a compound of the invention (see Example I).</p><p num="0034">A composition of the present invention can be provided as a homogenous
+composition or as a mixture of compounds containing various combinations of
+substituents. The flexibility permitted by the choice of substituents permits a great
+deal of control over the physico-chemical properties of the peptide compound
+analogs. The choice of the substituent also influences the binding affinity of the
+compound (see Examples).</p><p num="0035">Various compounds containing different arrangements of the substituents exhibit
+different levels of inhibitory activity for factor VIIa. These compounds were
+synthesized according to the procedures described in the Examples. Testing the
+peptides for inhibitory activity was accomplished using the assay described in
+Example 22. Using such methods, one skilled in the art can synthesize a compound
+as disclosed herein, including a modification thereof, and determine the factor VIIa
+inhibitory activity of the compound.</p><p num="0036">The invention provides compounds that specifically inhibit factor VII activity. Such
+compounds preferably have a Ki ≤ 500 nM, more preferably ≤ 50 nM, for factor VIIa
+activity and do not substantially inhibit the activity of other proteases involved in
+coagulation and fibrinolysis cascade relative to the inhibition of factor VIIa (using the
+same concentration of the inhibitor). Such other proteases include, for example,
+factor Xa, thrombin and plasmin. </p><p num="0037">The following Table 2 shows the factor VIIa inhibitory activities of selected
+compounds of the formula I (see Example 22)
+<tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">Factor VIIa inhibitory activities of selected compounds of the formula I</entry></row><row><entry align="center"/><entry align="center">Ki (µM)</entry></row><row><entry align="left">Alloc-pAph-Glu-Arg-Cha-NH<sub>2</sub></entry><entry align="center">0.046</entry></row><row><entry align="left">Allylaminocarbonyl-pAph-Glu-Arg-Cha-NH<sub>2</sub></entry><entry align="center">0.042</entry></row><row><entry align="left">Alloc-pAph-Glu-Arg-Chg-NH<sub>2</sub></entry><entry align="center">0.238</entry></row><row><entry align="left">Alloc-pAph-Glu-Dap[-C(=NH)-NH<sub>2</sub>]-Cha-NH<sub>2</sub></entry><entry align="center">0.012</entry></row><row><entry align="left">Alloc-pAph-Glu-Ala[3-C(=NH)-NH<sub>2</sub>]-Cha-NH<sub>2</sub></entry><entry align="center">0.03</entry></row><row><entry align="left">Alloc-pAph-Glu-Asn-Cha-NH<sub>2</sub></entry><entry align="center">0.021</entry></row><row><entry align="left">Alloc-pAph-Glu-Dab-Cha-NH<sub>2</sub></entry><entry align="center">0.055</entry></row><row><entry align="left">Alloc-pAph-Glu-Dap[-C(=NH)-NH<sub>2</sub>]-NH<sub>2</sub></entry><entry align="center">0.26</entry></row><row><entry align="left">Alloc-pAph-Glu-Gly-Cha-NH<sub>2</sub></entry><entry align="center">0.12</entry></row><row><entry align="left">Alloc-pAph-Glu-Thr(Bzl)-NH-(CH<sub>2</sub>)<sub>2</sub>-CH(Ph)<sub>2</sub></entry><entry align="center">0.17</entry></row><row><entry align="left">Alloc-pAph-Glu-Dab-NH-CH<sub>2</sub>-CH<sub>2</sub>-phenyl</entry><entry align="center">0.38</entry></row><row><entry align="left">Alloc-pAph-Glu-Asn-NH-CH<sub>2</sub>-Chx</entry><entry align="center">0.15</entry></row><row><entry align="left">Alloc-pAph-Glu-2-Abu[4-C(=NH)-CH<sub>3</sub>]-Cha-NH<sub>2</sub></entry><entry align="center">0.19</entry></row><row><entry align="left">Alloc-pAph-Glu-Dap[-C(=NH)-CH<sub>3</sub>]-Cha-NH<sub>2</sub></entry><entry align="center">0.11</entry></row><row><entry align="left">Alloc-pAph-Glu-Dab[-C(=NH)-NH<sub>2</sub>]-Cha-NH<sub>2</sub></entry><entry align="center">0.012</entry></row><row><entry align="left">Alloc-pAph-Glu-2-Abu[4-CN]-Cha-NH<sub>2</sub></entry><entry align="center">0.063</entry></row><row><entry align="left">Alloc-pAph-Glu-Ala[3-CN]-Cha-NH<sub>2</sub></entry> <entry align="center">0.12</entry></row><row><entry align="left">Alloc-pAph-Glu-Asn-(1-naphthyl)-methylamide</entry><entry align="center">0.031</entry></row> <row><entry align="left">Alloc-pAph-Glu-Asn-(1-naphthyl)-1-ethylamide</entry> <entry align="center">0.021</entry> </row><row><entry align="left">Alloc-pAph-Glu-Asn-(2-naphthyl)-methylamide</entry><entry align="center">0.027</entry></row><row><entry align="left">Alloc-pAph-Glu-Asn-(3,4-dichlorobenzyl)-amide</entry><entry align="center">0.026</entry></row><row><entry align="left">Alloc-pAph-Glu-Asn-2-(3-chlorophenyl)-ethylamide</entry><entry align="center">0.023</entry></row><row><entry align="left">Alloc-pAph-Glu-Arg[NO<sub>2</sub>]-Cha-NH<sub>2</sub></entry><entry align="center">0.014 </entry></row><row><entry align="left">Alloc-pAph-Glu-Cys[Bzl]-Cha-NH<sub>2</sub></entry><entry align="center">0.026</entry></row><row><entry align="left">Alloc-pAph-Glu-Trp-Cha-NH<sub>2</sub></entry><entry align="center">0.017</entry></row><row><entry align="left">Alloc-pAph-Glu-Phg-Cha-NH<sub>2</sub></entry><entry align="center">0.017</entry></row><row><entry align="left">Alloc-pAph-Glu-Asn-(9-fluorenyl)-amide, or</entry><entry align="center">0.023</entry></row><row><entry align="left">Alloc-pAph-Glu-Asn-(3,5-ditrifluormethylbenzyl)-amide</entry><entry align="center">0.033</entry></row></tbody></tgroup></table></tables></p><p num="0038">The thrombin-inhibitory activities of the above compounds can be expressed in Ki-values
+which are between 500 and 1000 times as high as the above indicated factor
+VIIa inhibitory activities. Also, the factor Xa inhibitory activities of the above
+compounds as determined can be expressed in Ki-values which are at least 100
+times as high as the above indicated factor VIIa inhibitory activities.</p><p num="0039">These results demonstrate that the compounds of the formula I are useful as
+inhibitors of factor VIIa, but do not substantially inhibit the activity of factor Xa or
+serine proteases such as thrombine, which are involved in the process of blood
+coagulation and fibrinolysis.</p><p num="0040">A compound of the invention can be used advantageously as an anticoagulant,
+which can be contacted with a blood sample to prevent coagulation. For example, an
+effective amount of a compound of the invention can be contacted with a freshly
+drawn blood sample to prevent coagulation of the blood sample. As used herein, the
+term "effective amount" when used in reference to a compound of the invention
+means an amount of a compound that inhibits factor VIIa activity. The skilled artisan
+would recognize that an effective amount of a compound of the invention can be
+determined using the methods disclosed herein (see Example 22) or otherwise
+known in the art. In view of the disclosed utility of a compound of the invention, the
+skilled artisan also would recognize that an agent such as heparin can be replaced
+with a compound of the invention. Such a use of a compound of the invention can
+result, for example, in a cost saving as compared to other anticoagulants. </p><p num="0041">In addition, a compound of the invention can be administered to an individual for the
+treatment of a variety of clinical conditions, including, for example, the treatment of a
+cardiovascular disorder or a complication associated, for example, with infection or
+surgery. Examples of cardiovascular disorders include restenosis following
+angioplasty, adult respiratory disstress syndrome, multi-organ failure, stroke and
+disseminated intravascular coagulation clotting disorder. Examples of related
+complications associated with surgery include, for example, deep vein and proximal
+vein thrombosis, which can occur following surgery. Thus, a compound of the
+invention is useful as a medicament for reducing or inhibiting unwanted coagulation
+in an individual.</p><p num="0042">Since a compound of the invention can inhibit factor VIIa activity, such a compound
+can be useful for reducing or inhibiting blood clotting in an individual. As used
+herein, the term "individual" means a vertebrate, including a mammal such as a
+human, in which factor VIIa is involved in the clotting cascade.</p><p num="0043">Blood clotting in an individual can be reduced or inhibited by administering to the
+individual a therapeutically effective amount of a compound of the invention. As used
+herein, the term "therapeutically effective amount" means the dose of a compound
+that must be administered to an individual in order to inhibit factor VIIa activity in the
+individual. More specifically, a therapeutically effective amount of a compound of the
+invention inhibits factor VIIa catalytic activity either directly, within the
+prothrombinase complex or as a soluble subunit, or indirectly, by inhibiting the
+assembly of factor VIIa into the prothrombinase complex. In particular, such
+compounds can inhibit factor VIIa activity with a Ki ≤ 500 nM and, preferably,
+with a Ki ≤ 50 nM. A therapeutically effective amount can be determined using the
+methods described, for example, in Example 22 or otherwise known in the art.</p><p num="0044">In the practice of a therapeutic method of the invention, the particular dosage to
+obtain a therapeutically effective amount of a pharmaceutical composition to be
+administered to the individual will depend on a variety of considerations, including, 
+for example, the nature or severity of the disease, the schedule of administration and
+the age and physical characteristics of the individual. An appropriate dosage can be
+established using clinical approaches well known in the medical art. Thus, the
+invention provides a method of specifically inhibiting factor VIIa activity by contacting
+factor VIIa with a compound having the formula R1-A-B-D-E<sub>n</sub>-R2. The invention
+further provides a method of reducing or inhibiting the formation of a blood clot in an
+individual by administering a therapeutically effective amount of a compound of the
+invention.</p><p num="0045">A compound of the invention generally will be administered to an individual as a
+composition containing the compound and a pharmaceutically acceptable carrier.
+The term "pharmaceutically acceptable carrier" refers to a medium or composition
+that is non-toxic to an individual or has acceptable toxicity as determined by the
+appropriate regulatory agency. As used herein, the term pharmaceutically
+acceptable carrier encompasses any of the standard pharmaceutical carriers such
+as phosphate buffered saline, water, an emulsion such as an oil/water or water/oil
+emulsion, or any of various types of wetting agents. Suitable pharmaceutical carriers
+and their formulations are described by Martin (in Remington's Pharmaceutical
+Sciences, 15th Ed. (Mack Publishing Co., Easton 1975) which is incorporated herein
+by reference). Such compositions will, in general, contain a therapeutically effective
+amount of a compound of the invention together with a suitable amount of carrier so
+as to comprise the proper dosage for administration to an individual. Thus, the
+claimed compounds can be useful as medicaments for inhibiting factor VIIa activity
+and blood clotting in an individual.</p><p num="0046">Pharmaceutically acceptable carriers also can include, for example, other mediums,
+compounds or modifications to a factor VIIa inhibitor compound that enhances its
+pharmacological function. A pharmaceutically acceptable medium can include, for
+example, an acid addition salt such as a salt formed with an inorganic acid such as
+hydrochloric acid, hydrobromic acid, phosphoric acid, sulfuric acid or perchloric acid,
+or with an organic acid such as acetic acid, oxalic acid, maleic acid, malic acid, 
+tartaric acid, citric acid, succinic acid or malonic acid. Other pharmaceutically
+acceptable salts include, for example, inorganic nitrate, sulfate, acetate, malate,
+formate, lactate, tartrate, succinate, citrate, p-toluenesulfonate, and the like,
+including, but not limited to, cations based on the alkali and alkaline earth metals
+such as sodium, lithium, potassium, calcium or magnesium, as well as non-toxic
+ammonium, quaternary ammonium and amine cations such as ammonium,
+methylammonium, dimethylammonium, trimethylammonium, tetramethylammonium,
+ethylammonium, triethylammonium and tetraethylammonium.</p><p num="0047">Examples of modifications that enhance the pharmacological function of the
+compound include, for example, esterification such as the formation of C<sub>1</sub> to C<sub>6</sub> alkyl
+esters, preferably C<sub>1</sub> to C<sub>4</sub> alkyl esters, wherein the alkyl group is a straight or
+branched chain. Other acceptable esters include, for example, C<sub>5</sub> to C<sub>7</sub> cycloalkyl
+esters and arylalkyl esters such as benzyl esters. Such esters can be prepared from
+the compounds described herein using conventional methods well known in the art
+of peptide chemistry.</p><p num="0048">Pharmaceutically acceptable modifications also can include, for example, the
+formation of peptide amides. Such amide modifications, which can be effected upon
+the compounds of the invention, include, for example, those derived from ammonia,
+primary C<sub>1</sub> to C<sub>6</sub> dialkyl amines, where the alkyl groups are straight or branched
+chain, or arylamines having various substitutions. In the case of secondary amines,
+the amine also can be in the form of a 5 or 6 membered heterocycle containing, for
+example, a nitrogen atom. Methods for preparing such amides are well known in the
+art.</p><p num="0049">In another embodiment of the invention, a compound of the invention can be used in
+an assay to identify the presence of factor VIIa or to isolate factor VIIa in a
+substantially purified form. Preferably, the compound of the invention is labeled with,
+for example, a radioisotope, and the labeled compound is detected using a routine
+method useful for detecting the particular label. In addition, a compound of the 
+invention can be used advantageously as a probe to detect the location or amount of
+factor VIIa activity in vivo, in vitro or ex vivo.</p><p num="0050">It is understood that modifications that do not substantially affect the activity of the
+various embodiments of this invention are included within the invention disclosed
+herein. Accordingly, the following examples are intended to illustrate but not limit the
+present invention.</p><heading><u style="single">Example 1</u></heading><heading><u style="single">Peptide synthesis procedures and general synthesis procedures</u></heading><p num="0051">Starting materials used in the synthesis were obtained from chemical vendors such
+as Aldrich, Sigma, Fluka, Nova Biochem and Advanced Chemtech. During the
+synthesis, the functional groups of the amino acid derivatives used were protected
+by blocking groups to prevent side reaction during the coupling steps. Examples of
+suitable protecting groups and their use are described in The Peptides, supra, 1981,
+and in Vol. 9, Udenfriend and Meienhofer ed. 1987, which is incorporated herein by
+reference.</p><p num="0052">General solid-phase peptide synthesis was used to produce the compounds of the
+invention. Such methods are described, for example, by Steward and Young (Solid
+Phase Peptide Synthesis (Freeman &amp; Co., San Francisco, 1969), which is
+incorporated herein by reference).</p><p num="0053">Unless indicated otherwise, peptides were synthesized on TentaGel S NH<sub>2</sub> Resin
+(Rapp Polymere, Tübingen, Germany). An acid sensitive linker p-[(R,S)-α-[1-(9H-Fluoren-9-yl)-methoxyformamido]-2,4-dimethoxybenzyl]-phenoxyacetic
+acid (Knorr
+Linker) was coupled to the solid support (Bernartowicz, et. al, Tetr. Lett. 30:4645
+(1989); incorporated herein by reference). Alternatively, peptides were synthesized
+on polystyrene resin cross-linked with 1 % divinylbenzene modified with an acid 
+sensitive linker (Rink resin) (Rink, Tetr. Lett. 28, 3787 (1987); Sieber, Tetr. Lett. 28,
+2107 (1987), each of which is incoporated herein by reference). When peptides
+were synthesized by first coupling the sidechain carboxylic acid of a compound of
+the formula Fmoc-B1-CH(R97)-COOPG to the resin, TentaGel S NH<sub>2</sub> resin modified
+by attachment of the HMPA linker was employed. Coupling was performed using
+N,N'-diisopropylcarbodiimide (DIC) in the presence of an equivalent amount of
+HOBt, with the exception of Alloc-pAph-OH, where 2 equivalents of HOBt were used.
+All couplings were done in either N,N-dimethylformamide (DMF) or DMF:DMSO (1:1
+mixture) at room temperature (RT). Completion of coupling was monitored by
+ninhydrin test. A second (double) coupling was performed where coupling in the first
+instance was incomplete.</p><p num="0054">Deprotection of the Fmoc group was accomplished using 50% piperidine in DMF for
+2+10 min. The amount of Fmoc released was determined from the absorbance at
+300 nm of the solution after deprotection, volume of washes and weight of the resin
+used in the synthesis.</p><p num="0055">The cycle of each coupling was as follows:
+<tables><table><tgroup cols="3"><tbody><row><entry align="center">Step</entry><entry align="left">Action/Reagent</entry><entry align="left">Solvent</entry></row><row><entry align="right">1.</entry><entry align="left">0.5 g of functionalized Peptide Resin</entry></row><row><entry align="right">2.</entry><entry align="left">3 fold-excess amino acid derivative/HOBt/DIC</entry><entry align="left">4ml DMF</entry></row><row><entry align="right">3.</entry><entry align="left">Couple (min. 1h)</entry></row><row><entry align="right">4.</entry><entry align="left">Wash (3 x 5 ml)</entry><entry align="left">DMF</entry></row><row><entry align="right">5.</entry><entry align="left">Ninhydrin test</entry></row><row><entry align="right">6.</entry><entry align="left">Deprotection (2+10 min)</entry></row><row><entry align="left" namest="2">Piperidine/DMF</entry><entry align="left" namest="3">5ml 50%</entry></row><row><entry align="right">7.</entry><entry align="left">Wash (6 x 5 ml)</entry><entry align="left">DMF</entry></row><row><entry align="right">8.</entry><entry align="left">Repeat starting at step 2</entry></row></tbody></tgroup></table></tables></p><p num="0056">After completion of peptide assembly on the resin, the final Fmoc deprotection, if
+necessary, was performed. The peptide resin was then washed successively with
+DMF and DCM and the peptide was then cleaved and deprotected by a mixture
+TFA/thioanisole (95/5) for 1.5 hour, unless specified otherwise. The resin was
+washed with DCM and DCM wash combined with TFA releasate. The solution was
+evaporated, the product precipitated by anhydrous diethyl ether and the solid
+precipitate was isolated by filtration or centrifugation and dried in vacuum over solid
+pellets of KOH. The solid was redissolved in a mixture of water and acetonitrile and
+lyophylized.</p><p num="0057">The dried peptide was subjected to HPLC purification using an appropriate gradient
+of 0.1% TFA in water and acetonitrile (ACN). After collecting the peak containing the
+intended synthetic product, the peptide solution was lyophilized and the peptide was
+subjected to an identification process, which included electrospray MS, NMR and
+amino acid analysis to confirm that the correct compound was synthesized.</p><p num="0058">For HPLC analysis, a sample of the product was analyzed using Beckman HPLC
+system (consisting of 126 Solvent Deliver System, 166 Programmable Detector
+Module 507e Autosampler, controlled by Data Station with Gold Nouveau software)
+and YMC ODS-AM 4.6x250mm column at 230 nm and flow rate 1ml/min.</p><p num="0059">For product purification, a sample of crude lyophilized peptide was dissolved in a
+mixture of 0.1% aqueous TFA containing 10% to 50% ACN. The peptide solution
+usually was filtered through a syringe connected to a 0.45 µm "ACRODISC" 13 CR
+PTFE (Gelman Sciences; Ann Arbor MI) filter. A proper volume of filtered peptide
+solution was injected into a semi-preparative C18 column (Vydac Protein and
+Peptide C18, 218TP1022 (22x250mm); The Separation Group; Hesperia CA, or
+YMC ODS-A column (20x250mm), YMC, Inc., Wilmington, NC). The flow rate of a
+gradient or isocratic mixture of 0.1% TFA buffer and ACN (HPLC grade) as an eluent 
+was maintained using a Beckman "SYSTEM GOLD" HPLC (Beckman, System Gold,
+Programmable Solvent Module 126 and Programmable Detector Module 166
+controlled by "SYSTEM GOLD" software). Elution of the peptide was monitored by
+UV detection at 230 nm. After identifying the peak corresponding to the compound
+under synthesis using MS, the compound was collected, lyophilized and biologically
+tested. MS was performed using a VG Platform (Fisons Instruments) instrument in
+ES+ mode. In addition, NMR was performed using a Bruker Avance DPX 300
+instrument. For NMR, samples typically were measured in DMSO-d<sub>6</sub> (Aldrich).</p><heading><u style="single">Example 2</u></heading><heading><u style="single">Synthesis of Alloc-pAph-OH</u></heading><p num="0060">The same procedure is applicable to Alloc-(D)-pAph-OH</p><heading>Alloc-Phe(4-CN)-OH</heading><p num="0061">5.7 g (30 mmol) of H-Phe(4-CN)-OH were dissolved in 100 ml 1M NaOH with
+addition of 2M NaOH to pH=10 with ice cooling. With vigorous stirring,
+allylchloroformate (7.5ml) was slowly added (pH kept at 10 by 2M NaOH). Reaction
+was stirred at 0°C for 15 min and at RT for 30min, acidified with HCl to pH =2,
+extracted with EtOAc (3 times), dried MgSO<sub>4</sub> and evaporated. Recrystalized from
+EtOAc/hexanes.
+
+White solid, 7.0g (85%).</p><heading>Alloc-Phe(4-C(=S)-NH<sub>2</sub>)-OH</heading><p num="0062">2.74g of Alloc-Phe(4-CN)-OH was dissolved in mixture pyridine(50 ml)/Et<sub>3</sub>N(20 ml)
+and H<sub>2</sub>S was passed through for 30 min. Reaction mixture was kept overnight at RT
+and evaporated. Drying on high vacuum gave 3.21 g of solid foam of the crude
+thioamide, which is directly converted to the methylthioimidate. </p><heading>Alloc-Phe(4-C(=NH)-SCH<sub>3</sub>)-OH · HI</heading><p num="0063">1g of Alloc-Phe(4-C(=S)-NH<sub>2</sub>)-OH was dissolved in acetone (50 ml) and Mel (5 ml)
+was added. Reaction was kept overnight at RT, volatile solvents evaporated (fast,
+35°C max) and the residue treated with Et<sub>2</sub>O. After 1 hour at 0°C, ether was
+decanted, product washed with Et<sub>2</sub>O and dried in vacuum. Yellow solid foam, directly
+converted to amidine.</p><heading>Alloc-pAph-OH</heading><p num="0064">All of the Alloc-Phe(4-C(=NH)-SCH<sub>3</sub>)-OH · HI above was dissolved in 50 ml methanol
+with 300 µl of acetic acid and 0.5 g of ammonium acetate was added. Mixture was
+heated for 3 hours to 55°C, evaporated and 10 ml of acetone was added. After 2
+hours at 0°C, the solid product was filtered, washed with little cold acetone, little cold
+methanol and diethyl ether and dried in vacuum. Yellowish solid, yield 0.53g.</p><heading><u style="single">Example 3</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Arg-Cha-NH<sub>2</sub></u></heading><p num="0065">To 1g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), Knorr amide linker was
+attached. According to general procedures outlined in Example 1, following
+protected amino acids were coupled: Fmoc-Cha-OH, Fmoc-Arg(Pmc)-OH, Fmoc-Glu(OtBu)-OH
+and Alloc-pAph. The peptide was cleaved and deprotected by mixture
+TFA/thioanisole (95/5) for 3 hours and processed as described in Example 1. The
+crude compound was purified using HPLC as described in Example 1 and
+characterized by MS. (M+H)+: found 729.1, calc. 729.4.</p><heading><u style="single">Example 4</u></heading><heading><u style="single">Synthesis of Allyl-NH-CO-pAoh-Glu-Arg-Cha-NH<sub>2</sub></u></heading><p num="0066">To 0.5g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), Knorr amide linker was
+attached. According to general procedures in Example 1, following protected amino
+acids were coupled: Fmoc-Cha-OH, Fmoc-Arg(Pmc)-OH, Fmoc-Glu(OtBu)-OH and
+Fmoc-Phe(4-CN). After N-terminal Fmoc deprotection, the resin was treated with
+solution of 1 mmol of allylisocyanate in 3 ml of DMF for 2 hours. The resin was then
+washed with DMF and triethylamine/pyridine(1:2) and treated with saturated solution
+of H<sub>2</sub>S in pyridine/triethylamine overnight. The resin was washed with acetone and
+the thioamide resin was reacted with methyliodide (3 ml of 10% solution of
+methyliodide in acetone) for 6 hours. The methylthioimidate resin was washed with
+acetone, methanol and treated with solution of 0.2g ammonium acetate, 100 µl
+acetic acid in 3 ml of methanol at 55°C for 3 hours. The resin was washed with
+methanol, DMF and DCM and the peptide was cleaved and deprotected by mixture
+TFA/thioanisole (95/5) for 3 hours and processed as described in Example 1. The
+crude material was purified using HPLC as described in Example 1 and
+characterized by MS. (M+H)+: found 728.3, calc. 728.4.</p><heading><u style="single">Example 5</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Arg-Chg-NH<sub>2</sub></u></heading><p num="0067">To 1g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), Knorr amide linker was
+attached. According to general procedures in Example 1, following protected amino
+acids were coupled: Fmoc-Chg-OH, Fmoc-Arg(Pmc)-OH, Fmoc-Glu(OtBu)-OH and
+Alloc-pAph. The peptide was cleaved and deprotected by mixture TFA/thioanisole
+(95/5) for 3 hours and processed as described in Example 1. The crude compound
+was purified using HPLC as described in Example 1 and characterized by MS.
+(M+H)+: found 715.8, calc. 715.4.</p><heading><u style="single">Example 6</u></heading><heading><u style="single">Synthesis of Alloc-(D)pAph-Glu-Arg-Cha-NH<sub>2</sub></u></heading><p num="0068">To 1g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), Knorr amide linker was
+attached. According to general procedures in Example 1, following protected amino
+acids were coupled: Fmoc-Cha-OH, Fmoc-Arg(Pmc)-OH, Fmoc-Glu(OtBu)-OH and
+Alloc-(D)pAph-OH (synthesized according to the same procedure as Alloc-pAph-OH
+in Example 2). The peptide was cleaved and deprotected by mixture TFA/thioanisole
+(95/5) for 3 hours and processed as described in Example 1. The crude compound
+was purified using HPLC as described in Example 1 and characterized by MS.
+(M+H)+: found 729.2, calc. 729.4.</p><heading><u style="single">Example 7</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Phe(4-guanido)-Cha-NH<sub>2</sub></u></heading><p num="0069">To 0.25g of TentaGel S NH<sub>2</sub> resin (substitution 0.23mmol/g), Knorr amide linker was
+attached. According to general procedures in Example 1, following protected amino
+acids were coupled: Fmoc-Cha-OH, Fmoc-Phe(4-NH-C(=NBoc)-NH-Boc)-OH, Fmoc-Glu(OtBu)-OH
+and Alloc-pAph-OH. The peptide was cleaved and deprotected by
+mixture TFA/thioanisole (95/5) for 1 hour and processed as described in Example 1.
+The crude compound was purified using HPLC as described in Example 1 and
+characterized by MS. (M+H)+: found 777.1, calc. 777.4.</p><heading><u style="single">Example 8</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Dap(-C(=NH)-NH<sub>2</sub>)-Cha-NH<sub>2</sub></u></heading><p num="0070">To 0.25g of TentaGel S NH<sub>2</sub> resin (substitution 0.23mmol/g), Knorr amide linker was
+attached. According to general procedures in Example 1, following protected amino
+acids were coupled: Fmoc-Cha-OH, Fmoc-Dap(-C(=N-Boc)-NH-Boc)-OH, Fmoc-Glu(OtBu)-OH
+and Alloc-pAph. The peptide was cleaved and deprotected by mixture
+TFA/thioanisole (95/5) for 1 hour and processed as described in Example 1. The
+crude compound was purified using HPLC as described in Example 1 and
+characterized by MS. (M+H)+: found 729.1, calc. 729.4. </p><heading><u style="single">Example 9</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Dap(-C(=NH)-CH<sub>3</sub>)-Cha-NH<sub>2</sub></u></heading><p num="0071">To 0.25g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), Knorr amide linker was
+attached. According to general procedures in Example 1, following protected amino
+acids were coupled: Fmoc-Cha-OH, Fmoc-Dap(Alloc)-OH and Fmoc-Glu(OtBu)-OH.
+With the N-terminal Fmoc-protecting group attached, the resin was washed with
+mixture DMF/NMM/HOAc (5/0.5/1), and under constant mixing with stream of argon,
+Alloc group was deprotected by addition of 100mg of Pd(P(Ph)<sub>3</sub>)<sub>4</sub> over a period of 3
+hours. The resin was washed with DMF and treated with solution of 150mg of 2-methylnaphthyl
+acetthioimidate in 4ml of EtOH/DMSO (3:1) for 1 hour. After washing
+with DMF, the Fmoc group was deprotected (1+5 mm) and the N-terminal Alloc-pAph-OH
+was coupled. The peptide was cleaved and deprotected by mixture
+TFA/thioanisole (95/5) for 1 hour and processed as described in Example 1. The
+crude compound was purified using HPLC as described in Example 1 and
+characterized by MS. (M+H)+: found 700.1, calc. 700.4.</p><heading><u style="single">Example 10</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Ala(3-C(=NH)-NH2)-Cha-NH<sub>2</sub></u></heading><p num="0072">To 0.25g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), Knorr amide linker was
+attached. According to general procedures in Example 1, following protected amino
+acids were coupled: Fmoc-Cha-OH, Fmoc-Ala(3-CN)-OH, Fmoc-Glu(OtBu)-OH and
+Alloc-Phe(4-CN)-OH. Mixture of pyridine/triethylamine (2:1) was saturated with H<sub>2</sub>S
+(RT, 15-30min) and this solution added to the resin prewashed with
+pyridine/triethylamine (2:1). After overnight standing, the resin was washed with
+acetone and treated with solution of 20% methyliodide in acetone overnight. Resin
+was then washed with acetone and methanol. The resin bound methylthioimidate is
+then converted to amidine by 3 hour heating (waterbath, 55°C) of the resin with
+solution of 10 eq of ammonium acetate in methanol containing 5% acetic acid. After
+this final conversion, the resin was washed with methanol, DMF, DCM. The peptide 
+was cleaved and deprotected by mixture TFA/thioanisole (95/5) for 1 hour and
+processed as described in Example 1. The crude compound was purified using
+HPLC as described in Example 1 and characterized by MS. (M+H)+: found 685.9,
+calc. 686.4.</p><heading><u style="single">Example 11</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Asn-Cha-NH<sub>2</sub></u></heading><p num="0073">To 0.125g of Rink resin (substitution 0.78mmol/g), after Fmoc-deprotection the
+following protected amino acids were coupled according to general procedures
+described in Example 1: Fmoc-Cha-OH, Fmoc-Asn-OH, Fmoc-Glu(OtBu)-OH and
+Alloc-pAph-OH. The peptide was cleaved and deprotected by mixture
+TFA/thioanisole (95/5) for 1 hour and processed as described in Example 1. The
+crude compound was purified using HPLC as described in Example 1 and
+characterized by MS. (M+H)+: found 686.9, calc. 687.3</p><heading><u style="single">Example 12</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Dab-Cha-NH<sub>2</sub></u></heading><p num="0074">To 0.25g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), Knorr amide linker was
+attached. According to general procedures in Example 1, following protected amino
+acids were coupled: Fmoc-Cha-OH, Fmoc-Dab(Boc)-OH, Fmoc-Glu(OtBu)-OH and
+Alloc-pAph. The peptide was cleaved and deprotected by mixture TFA/thioanisole
+(95/5) for 1 hour and processed as described in Example 1. The crude compound
+was purified using HPLC as described in Example 1 and characterized by MS.
+(M+H)+: found 673.2, calc. 673.4.</p><heading><u style="single">Example 13</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Ala(3-C(=NH)-NH<sub>2</sub>)-NH<sub>2</sub></u></heading><p num="0075">To 0.25g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), Knorr amide linker was
+attached. According to general procedures in Example 1, following protected amino
+acids were coupled: Fmoc-Ala(3-CN)-OH, Fmoc-Glu(OtBu)-OH and Alloc-Phe(4-CN)-OH.
+Mixture of pyridine/triethylamine (2:1) was saturated with H<sub>2</sub>S (RT, 15-30min)
+and this solution added to the resin prewashed with pyridine/triethylamine
+(2:1). After overnight standing, resin is washed with acetone and treated with
+solution of 20%methyliodide in acetone overnight. Resin was then washed with
+acetone and methanol. The resin bound methylthioimidate is then converted to
+amidine by 3 hour heating (waterbath, 55°C) of the resin with solution of 10 eq of
+ammonium acetate in methanol containing 5% acetic acid. After this final conversion,
+the resin was washed with methanol, DMF, DCM. The peptide was cleaved and
+deprotected by mixture TFA/thioanisole (95/5) for 1 hour and processed as
+described in Example 1. The crude compound was purified using HPLC as described
+in Example 1 and characterized by MS. (M+H)+: found 533.3, calc. 533.2.</p><heading><u style="single">Example 14</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Gly-Cha-NH<sub>2</sub></u></heading><p num="0076">To 0.150g of Rink resin (substitution 0.78mmol/g), after Fmoc-deprotection, the
+following protected amino acids were coupled according to general procedure,
+described in Example 1: Fmoc-Cha-OH, Fmoc-Gly-OH, Fmoc-Glu(OtBu)-OH and
+Alloc-pAph-OH. The peptide was cleaved and deprotected by mixture
+TFA/thioanisole (95/5) for 1 hour and processed as described in Example 1. The
+crude compound was purified using HPLC as described in Example 1 and
+characterized by MS. (M+H)+: found 630.1, calc. 630.3.</p><heading><u style="single">Example 15</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Asn-(-CH<sub>2</sub>-CH<sub>2</sub>-Ph)Gly-NH<sub>2</sub></u></heading><p num="0077">For N-substituted glycines, the procedure of Zuckermann et al. (J. Am. Chem. Soc.
+114:10646(1992), which is incorporated herein by reference) was used. </p><p num="0078">To 0.1g of Rink resin (substitution 0.78mmol/g), after Fmoc-deprotection,
+bromoacetic acid was coupled via symmetrical anhydride in DCM/DMF. After 10
+minutes, the resin was washed with DCM and the coupling repeated once more.
+After washing with DCM and DMF, the resin was treated with 1M solution of
+phenethyl amine in DMSO overnight. After DMF washing, the resin was reacted with
+symmetrical anhydride of Fmoc-Asn(Trt)-OH in DCM/DMF.
+
+After Fmoc-deprotection, according to general procedures in Example 1, following
+protected amino acids were coupled: Fmoc-Glu(OtBu)-OH and Alloc-pAph-OH. The
+peptide was cleaved and deprotected by mixture TFA/thioanisole (95/5) for 1 hour
+and processed as described in Example 1. The crude compound was purified using
+HPLC as described in Example 1 and characterized by MS. (M+H)+: found 694.9,
+calc. 695.3</p><heading><u style="single">Example 16</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Thr(Bzl)-NH-CH<sub>2</sub>-CH<sub>2</sub>-CH(Ph)<sub>2</sub></u></heading><heading>H-Thr(Bzl)-NH-CH<sub>2</sub>-CH<sub>2</sub>-CH(Ph)<sub>2</sub> · HCl</heading><p num="0079">0.62g (2 mmol) of Boc-Thr(Bzl)-OH were dissolved in 10 ml DCM, 2 mmol of
+triethylamine were added and the solution was cooled to 0°C. With stirring, 2 mmol
+of isobutylchloroformate were slowly added. With cooling bath removed, the solution
+was stirred for 15 minutes and 2.5 mmol of 3,3-diphenylpropyl amine in 2 ml of DMF
+were added and stirred at room temperature for 1 hour. The solution was
+evaporated, dissolved in ethylacetate and extracted with 0.5M KHSO<sub>4</sub>, sat. NaHCO<sub>3</sub>,
+brine, dried with MgSO<sub>4</sub> and evaporated. The oily product was dissolved in 10 ml
+DCM and 10 ml of 4M solution of hydrochloric acid in dioxane were added. After 10
+minutes, solvents were evaporated, the product hydrochloride precipitated with
+diethyl ether, filtered off, washed with diethyl ether and dried in vacuum. White solid,
+MS analysis: (M+H)+: found 403.1, calc. 403.2.</p><heading>Alloc-pAph-Glu-Thr(Bzl)-NH-CH<sub>2</sub>-CH<sub>2</sub>-CH(Ph)<sub>2</sub></heading><p num="0080">To 0.5g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), 4-hydroxymethylphenoxyacetic
+acid was attached (3eq activated with DIC/HOBt for
+1.5h). Fmoc-Glu(OH)-OAllyl was attached to the resin via side chain using
+DIC/HOBt/NMI in DMF overnight. Allyl protecting group was removed by shaking the
+resin Pd(PPh<sub>3</sub>)<sub>4</sub> (in DMF/AcOH/NMM (10/2/1) for 4h under argon. The deprotected
+carboxy group was activated with a solution of 0.5mmol BOP, 0.5mmol HOBt,
+1.5mmol DIEA and 0.5mmol of of H-Thr(Bzl)-NH-CH<sub>2</sub>-CH<sub>2</sub>-CH(Ph)<sub>2</sub> · HCl in 1.5ml
+DMF for 2 hours. After Fmoc deprotection, Alloc-pAph-OH was coupled according to
+general procedure in Example 1. The peptide was cleaved and deprotected by
+mixture TFA/thioanisole (95/5) for 1.5 hour and processed as described in Example
+1. The crude compound was purified using HPLC as described in Example 1 and
+characterized by MS. (M+H)+: found 805.0, calc. 805.4.</p><heading><u style="single">Example 17</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Dab-NH-CH<sub>2</sub>-CH<sub>2</sub>-Ph</u></heading><p num="0081">To 0.2g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), 4-hydroxymethylphenoxyacetic
+acid was attached (2.5eq activated with DIC/HOBt for
+4h). The hydroxy group was substituted with bromine by treatment of the resin with
+CBr<sub>4</sub> (5eq)/PPh<sub>3</sub> (5eq) in DCM for 4h. The bromine derivatized resin was treated with
+2M solution of phenethylamine in DCM overnight.
+
+Fmoc Dab(Boc)-OH was coupled to the resin using TFFH/DIEA (acyl fluoride
+generated in situ). According to general procedure in Example 1, following protected
+amino acids were coupled: Fmoc-Glu(OtBu) and Alloc-pAph-OH. The peptide was
+cleaved and deprotected with TFA/triisopropylsilane (99/1) for 2h. TFA was
+evaporated, the peptide was dissolved in H<sub>2</sub>O/ACN and lyophilized. The crude
+material was purified using HPLC as described in Example 1 and characterized by
+MS. (M+H)+ : found 624.2, calc. 624.3.</p><heading><u style="single">Example 18</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-NH-CH<sub>2</sub>-CH<sub>2</sub>-CN</u></heading><p num="0082">To 0.2g of TentaGel S NH<sub>2</sub> resin (substitution 0.26mmol/g), 4-hydroxymethylphenoxyacetic
+acid was attached (3eq activated with DIC/HOBt for
+1.5h). Fmoc-Glu(OH)-OAllyl was attached to the resin via side chain using
+DIC/HOBt/NMI in DMF overnight. Allyl protecting group was removed by shaking the
+resin with Pd(PPh<sub>3</sub>)<sub>4</sub> in DMF/AcOH/NMM (10/2/1) for 4h under argon. The
+deprotected carboxy group was activated with DIC (3eq)/HOBt (3eq) for 10min and
+2-cyanoethylamine (3eq) in DMF was added to the resin for 3h. After Fmoc
+deprotection, Alloc-pAph-OH was coupled according to general procedure in
+Example 1. The peptide was cleaved and deprotected with TFA/triisopropylsilane
+(99/1) for 2h. TFA was evaporated, the peptide was dissolved in H<sub>2</sub>O/ACN and
+lyophilized. The crude material was purified using HPLC as described in Example 1
+and characterized by MS. (M+H)+: found 473.1, calc. 473.2.</p><heading><u style="single">Example 19</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Asn-NH-CH<sub>2</sub>-Chx</u></heading><p num="0083">To 0.1g of TentaGel S NH<sub>2</sub> (substitution 0.26mmol/g) Knorr amide linker was
+attached. Fmoc-Asp(OH)-OAllyl was coupled to the linker via side chain and allyl
+protecting group was removed as in Example 18. The deprotected carboxy group
+was activated with DIC(5eq)/HOBt(5eq) and cyclohexylmethylamine (5eq) in DMF
+was added for 2.5h. After Fmoc deprotection, Alloc-pAph-OH was coupled according
+to general procedure in Example 1. The peptide was cleaved and deprotected with
+TFA/triisopropylsilane (99/1) for 2h. TFA was evaporated, the peptide was dissolved
+in H<sub>2</sub>O/ACN and lyophilized. The crude material was purified using HPLC as
+described in Example 1 and characterized by MS. (M+H)+ : found 629.9, calc. 630.3.</p><heading><u style="single">Example 20</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Asn-NH-CH<sub>2</sub>-CH<sub>2</sub>-Ph</u></heading><heading>2-(S)-[2-(S)-Allyloxycarbonylamino-3-(4-carbamimidoyl-phenyl)-propionylamino]-pentanedioic
+acid 5-tert-butyl ester 1-methyl ester; hydrochloride</heading><p num="0084">To 2-(S)-allyloxycarbonylamino-3-(4-carbamimidoyl-phenyl)-propionic acid;
+hydrochloride (3.48 g, 10.6 mmol) and 2-(S)-amino-pentanedioic acid 5-tert-butyl
+ester 1-methyl ester; hydrochloride (2.7 g, 10.6 mmol) in 20 ml of DMF were added
+at -15°C TOTU (3.83 g, 11.67 mmol) and N-ethylmorpholine (2.7 ml, 21.2 mmol).
+The mixture was stirred for 1 hour and then allowed to warm to room temperature.
+After evaporation ethyl acetate was added to the residue and the organic layer was
+extracted with aqueous sodium hydrogen carbonate solution, potassium hydrogen
+sulfate solution and water. The organic layer was evaporated. Yield: 2.8 g; (50%),
+MS 491.3 (M + H)+.</p><heading>2-(S)-[2-(S)-Allyloxycarbonylamino-3-(4-carbamimidoyl-phenyl)-propionylamino]-pentanedioic
+acid 5-tert-butyl ester</heading><p num="0085">To 2-(S)-[2-(S)-Allyloxycarbonylamino-3-(4-carbamimidoyl-phenyl)-propionylamino]-pentanedioic
+acid 5-tert-butyl ester 1-methyl ester; hydrochloride (3.06 g, 5.8 mmol)
+in 100 ml of water and 30 ml of THF was added lithium hydroxide hydrate (0.49 g,
+11.6 mmol). The solution was stirred at room temperature for 12 hours, evaporated
+and freeze-dried. The residue was purified by chromatography on Sephadex LH20
+employing n-butanol (17): glacial acetic acid (1): water (2) as eluent. Pure fractions
+were combined. The solvent was evaporated, the residue was taken up in water and
+the aqueous solution was freeze-dried. Yield: 2.7 g; (97%), MS 477.4 (M + H)+.</p><heading>4-(S)-[2-(S)-Allyloxycarbonylamino-3-(4-carbamimidoyl-phenyl)-propionylamino]-4-(2-carbamoyl-1-(S)-(2-phenylethylcarbamoyl)-ethylcarbamoyl)-butyric
+acid;
+hydrochloride
+
+(Alloc-pAph-Glu-Asn-NH-CH<sub>2</sub>-CH<sub>2</sub>-Ph)</heading><p num="0086">To 2-(S)-[2-(S)-Allyloxycarbonylamino-3-(4-carbamimidoyl-phenyl)-propionylamino]-pentanedioic
+acid 5-tert-butyl ester (48 mg, 0.1 mmol) and 2-(S)-Amino-N1-phenethyl-succinamide;
+hydrochloride (27 mg, 0.1 mmol) in 5 ml of DMF were added
+at 0°C HATU (39 mg, 0.1 mmol) and collidine (24.2 mg, 0.2 mmol). The mixture was
+stirred for 1 hour and then allowed to warm to room temperature. After evaporation
+the residue was purified by chromatography on Sephadex LH20 employing n-butanol
+(17): glacial acetic acid (1): water (2) as eluent. Pure fractions were combined. The
+solvent was evaporated, the residue was taken up in water and the aequous solution
+was freeze-dried. Yield: 45 mg; (66%), MS 638.4 (M + H)+.</p><heading><u style="single">Example 21</u></heading><heading><u style="single">Synthesis of Alloc-pAph-Glu-Asn-NH-(3-chlorobenzyl)</u></heading><p num="0087">To 2-(S)-[2-(S)-Allyloxycarbonylamino-3-(4-carbamimidoyl-phenyl)-propionylamino]-pentanedicic
+acid 5- tert-butyl ester (50 mg, 0.105 mmol) and 2-(S)-Amino-N1-(3-chlorobenzyl)-succinamide;
+trifluoroacetate (61mg, 0.16 mmol) in 5 ml of DMF were
+added at 0°C TOTU (36 mg, 0.11 mmol) and N-ethylmorpholine (57 µl, 0.4 mmol).
+The mixture was stirred for 1 hour and then allowed to warm to room temperature.
+After evaporation the residue was purified by chromatography on Sephadex LH20
+employing n-butanol (17): glacial acetic acid (1): water (2) as eluent. Pure fractions
+were combined. The solvent was evaporated, the residue was taken up in water and
+the aequous solution was freeze-dried. Yield of 4-(S)-[2-(S)-allyloxycarbonylamino-3-(4-carbamimidoyl-phenyl)-propionylamino]-4-(2-carbamoyl-1-(S)-(3-chlorobenzylcarbamoyl)-ethylcarbamoyl)-butyric acid (Alloc-pAph-Glu-Asn-NH-(3-chlorobenzyl):
+28 mg; (41%), MS m/z 658.3 (M + H)<sup>+</sup>.</p><heading><u style="single">Example 22</u></heading><heading><u style="single">Determination of Ki for FVIIa inhibitor</u></heading><p num="0088">The inhibitory activity (Ki) of each compound towards factor VIIa/tissue factor activity
+was determined using a chromogenic assay esentially as described previously 
+(Ostrem J A, Al-Obeidi F, Safar P, Safarova A, Stringer S K, Patek M, Cross M T,
+Spoonamore J, LoCascio J C, Kasireddy P, Thorpe D S, Sepetov N, Lebi M,
+Wildgoose P, Strop P, Discovery of a novel, potent, and specific family of factor Xa
+inhibitors via combinatorial chemistry. Biochemistry 1998,37,1053-1059). Kinetic
+assays were conducted at 25 °C in half-area microtiter plates (Costar Corp.,
+Cambridge, MA) using a kinetic plate reader (Molecular devices Spectramax 250). A
+typical assay consisted of 25 µl human factor VIIa and TF (5 nM and 10 nM,
+respective final concentration) combined with 40 µl of inhibitor dilutions in 10%
+DMSO/TBS-PEG buffer ( 50 mM Tris, 15mM NaCl, 5 mM CaCl<sub>2</sub>; 0.05% PEG 8k pH
+8.15). Following a 15 minute preincubation period, the assay was initiated by the
+addition of 35 µl of the chromogenic substrate S-2288 (D-Ile-Pro-Arg-pNA,
+Pharmacia Hepar Inc, 500 µM final concentration.). The apparent inhibition
+constants were calculated from the slope of the progress curves during the linear
+part of the time course, typically between 1 and 5 min following addition of substrate
+to the assay. The true Ki was subsequently determined for each compound by
+correcting for subtrate concentration (S) and the Km using the formula <st32:f xmlns:st32="http://www.matrixware.com/ns/st32/">Ki= Ki app/ (1
++ (Ss)/Km)</st32:f> (Segal IH (1975) Enzyme Kinetics, John Wiley &amp; Sons, New York, New
+York, pp 100-125)</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A compound of the formula I
+R1-A-B-D-En-R2
+wherein
+<claim-text><claim-text>R1 represents
+<claim-text><claim-text>hydrogen,</claim-text><claim-text>1 to 3 amino acids, the N-terminus of which can be substituted with a
+substituent selected from the group consisting of R14CO, R15SO2 and
+an amino protecting group,</claim-text><claim-text>R12C(O) or</claim-text><claim-text>R13,
+wherein
+R12is selected from the group consisting of alkyl, alkenyl, alkynyl,
+alkoxy, alkylamino, alkenylamino, alkynylamino, alkenyloxy,
+alkynyloxy, aryl, heteroaryl, heterocycloalkyl, heteroarylalkyl,
+heterocycloalkylalkyl, heteroalkyl, heteroalkenyl and
+heteroalkynyl, which radicals can be substituted,R13is selected from the group consisting of an amino protecting
+group, hydrogen, alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,R14 and R15are independently selected from the group consisting of
+alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl, heterocycloalkyl
+and heterocycloalkylalkyl,</claim-text></claim-text></claim-text><claim-text>A is the group A1-A2-A3, whereinA1is NR91, wherein R91 is selected from the group consisting of
+hydrogen, alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,A2is CR92R93, wherein R92 and R93 independently are selected
+from the group consisting of hydrogen and the radicals alkyl,
+aryl, arylalkyl, heteroaryl, heteroarylalkyl, heterocycloalkyl and
+heterocycloalkylalkyl, which may be substituted,A3is C(O),</claim-text><claim-text>B is the group B1-B2-B3, wherein
+B1is NR95, wherein R95 is selected from the group consisting of
+hydrogen, alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,B2is CR96R97, wherein R96 and R97 are independently selected
+from the group consisting of hydrogen and the unsubstituted or
+substituted radicals alkyl, aryl, arylalkyl, heteroaryl,
+heteroarylalkyl, heterocycloalkyl and heterocycloalkylalkyl,B3is C(O),</claim-text><claim-text>D is the group D1-D2-D3, wherein
+D1is NR80, wherein R80 is selected from the group consisting of
+hydrogen, alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,D2is CR81R82, wherein R81 and R82 are independently selected
+from the group consisting of hydrogen and unsubstituted or
+substituted alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,D3is C(O),</claim-text><claim-text>En is (E1-E2-E3)n, wherein
+<claim-text><claim-text>n is an integer of from 0 to 3,</claim-text></claim-text>E1is NR70, wherein R70 is selected from the group consisting of
+hydrogen, alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,E2is CR71R72, wherein R71 and R72 are independently selected
+from the group consisting of hydrogen and unsubstituted or
+substituted alkyl, aryl, arylalkyl, heteroaryl, heteroarylalkyl,
+heterocycloalkyl and heterocycloalkylalkyl,E3is C(O),R2is selected from the group consisting of NR21R22, OR23 and R24,
+wherein R21, R22, R23 and R24 are independently selected from the
+group consisting of hydrogen and unsubstituted or substituted alkyl,
+aryl, arylalkyl, heteroaryl, heteroarylalkyl, heterocycloalkyl and
+heterocycloalkylalkyl,
+and pharmaceutically acceptable salts thereof.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The compound of claim 1, wherein the radicals of R12 can be substituted with
+a substituent selected from the group consisting of halogen, CF3, hydroxy,
+nitro, amino, cyano, carboxy, aminocarbonyl, alkylsulfonyl, aminosulfonyl,
+alkoxy, alkylcarbonylamino and mono- or di-alkylamino.</claim-text></claim><claim num="3"><claim-text>The compound of claim 1, wherein R92 and R93 independently are selected
+from the group consisting of alkyl, phenyl, phenylalkyl and pyridylalkyl, which
+can be substituted with a substituent selected from the group consisting of
+alkyl, alkoxy, alkylamino, dialkylamino, tetraalkylammonium, aminoalkylaryl,
+aminoarylalkyl, hydroxycarbonyl, halogen, hydroxy, amino, aminocarbonyl,
+amidoxime, acylimido, amidino, guanidino, alkoxycarbonylamino,
+alkoxycarbonylamidino, alkoxycarbonylguanidino, triazolyl and alkylsulfonyl.</claim-text></claim><claim num="4"><claim-text>The compound of claim 1, wherein the radicals of R96 and R97 can be
+substituted with a substituent selected from the group consisting of
+hydroxycarbonyl, aminocarbonyl, alkylated aminocarbonyl, alkoxycarbonyl,
+tetrazol, hydroxysulfonyl, aminosulfonyl and phosphonic acid.</claim-text></claim><claim num="5"><claim-text>The compound of claim 1, wherein the radicals of R81 and R82 can
+independently be substituted with a substituent selected from the group
+consisting of amino, aminocarbonyl, amidino, guanido, aminoalkyl, hydroxy,
+mercapto, which can be substituted with a protecting group, and acetimido,
+nitro and cyano.</claim-text></claim><claim num="6"><claim-text>The compound of claim 1, wherein the radicals of R71 and R72 can
+independently be substituted with a substituent selected from the group
+consisting of alkyl, alkoxy, halogen, CF3, nitro, cyano, alkylsulfonyl and
+alkylcarbonyl.</claim-text></claim><claim num="7"><claim-text>The compound of claim 1, wherein the radicals of R21, R22, R23 and R24 can
+independently be substituted with halogen, CF3, hydrogen, nitro, cyano,
+alkoxy, alkylsulfonyl, aminosulfonyl and =O.</claim-text></claim><claim num="8"><claim-text>The compound of claim 1, wherein the mentioned linear or branched alkyl
+chains have 1 to 6 carbon atoms, the unsaturated linear or branched alkenyl
+and alkynyl chains have 2 to 6 carbon atoms, the cyclic alkyl groups have 3 to
+8 carbon atoms, the heterocycloalkyl groups have 3 to 8 carbon atoms of
+which 1 to 3 are replaced with N, O or S atoms, and the aryl groups have 5 to
+13 carbon atoms.</claim-text></claim><claim num="9"><claim-text>The compound of claim 1, wherein
+<claim-text><claim-text>R1 is R12CO, wherein R12 is as defined,</claim-text><claim-text>A is A1-A2-A3, wherein
+<claim-text><claim-text>A1 is -NH-,</claim-text><claim-text>A2 is -CR92R93-, wherein R92 is hydrogen and R93 is as defined,</claim-text><claim-text>A3 is -CO-,</claim-text></claim-text></claim-text><claim-text>B is B1-B2-B3, wherein
+<claim-text><claim-text>B1 is -NH-,</claim-text><claim-text>B2 is -CR96R97-, wherein R96 is hydrogen and R97 is as defined,</claim-text><claim-text>B3 is -CO-,</claim-text></claim-text></claim-text><claim-text>D is D1-D2-D3, wherein
+<claim-text><claim-text>D1 is-NH-,</claim-text><claim-text>D2 is -CR81R82-, wherein R81 is hydrogen and R82 is as defined,</claim-text><claim-text>D3 is -CO-,</claim-text></claim-text></claim-text><claim-text>En is (E1-E2-E3)n, wherein
+<claim-text><claim-text>n is 1 or 2,</claim-text><claim-text>E1 is -NH-,</claim-text><claim-text>E2 is -CR71R72-, wherein R71 is hydrogen and R72 is as defined,</claim-text><claim-text>E3 is -CO-, and</claim-text></claim-text></claim-text><claim-text>R2 is as defined.</claim-text></claim-text></claim-text></claim><claim num="10"><claim-text>The compound of claim 9, wherein n is 1 and R2 is NHR22, wherein R22 is as
+defined.</claim-text></claim><claim num="11"><claim-text>The compound of claim 10, wherein R1 is allyloxycarbonyl or
+allylaminocarbonyl.</claim-text></claim><claim num="12"><claim-text>The compound of claim 10, wherein A represents (L)-4-amidinophenylalanine.</claim-text></claim><claim num="13"><claim-text>The compound of claim 10, wherein B represents (L)-glutamic acid, an (L)-glutamic
+acid ester, or a pharmaceutically acceptable salt of (L)-glutamic acid.</claim-text></claim><claim num="14"><claim-text>The compound of claim 10, wherein D represents a residue selected from the
+group consisting of Arg, Dap, Dab, Orn, Lys, Dap[-C(=NH)-NH2],
+Dab[-C(=NH)-NH2], Lys[-C(=NH)-NH2], Asn, Ser, Thr, Ser(Bzl), Arg(NO2), Trp,
+Phg, Ala, Val, Ile, Leu, Phe, 2-Abu, Ala(3-CN), Ala(3-amidino), 2-Abu(4-CN),
+2-Abu(4-amidino).</claim-text></claim><claim num="15"><claim-text>The compound of claim 10, wherein E represents a residue selected from the
+group consisting of Cha, Chg, Phe[4-C(-S-CH2-CH2-S-)-Ph].</claim-text></claim><claim num="16"><claim-text>The compound of claim 10, wherein R22 represents a radical selected from
+the group consisting of hydrogen, benzyl, phenethyl, 3-phenylpropyl,
+fluorenyl, diphenylmethyl, diphenylethyl, diphenylpropyl, which radicals may
+be substituted with a substituent selected from the group consisting of F, Cl,
+Br, hydroxy, methoxy, nitro, cyano, alkylsulfonyl, aminosulfonyl, and
+trifluoromethyl, which can be further substituted.</claim-text></claim><claim num="17"><claim-text>The compound of claim 10, wherein
+R1is allyloxycarbonyl or allylaminocarbonyl,A is(L)-4-amidinophenylalanine,B isselected from the group consisting of glutamic acid, glutamic acid ester
+and a pharmaceutically acceptable salt of glutamic acid,D isa residue selected from the group consisting of Arg, Dap, Dab, Orn,
+Lys, Dap[-C(=NH)-NH2], Dab[-C(=NH)-NH2], Lys[-C(=NH)-NH2], Asn,
+Ser, Thr, Ser(Bzl), Arg(NO2), Trp, Phg, Ala, Val, Ile, Leu, Phe, 2-Abu,
+Ala(3-CN), Ala(3-amidino), 2-Abu(4-CN), 2-Abu(4-amidino),E isa residue selected from the group consisting of Cha, Chg and Phe[4-C(-S-CH2-CH2-S-)-Ph],R22is hydrogen or a radical selected from the group consisting of benzyl,
+phenethyl, 3-phenylpropyl, fluorenyl, diphenylmethyl, diphenylethyl and
+diphenylpropyl, which radicals may be substituted with a substituent
+selected from the group consisting of F, Cl, Br, hydroxy, methoxy, nitro,
+cyano, alkylsulfonyl, aminosulfonyl and trifluoromethyl.</claim-text></claim><claim num="18"><claim-text>The compound of claim 10, which is
+<claim-text><claim-text>Alloc-pAph-Glu-Arg-Cha-NH2,</claim-text><claim-text>Allylaminocarbonyl-pAph-Glu-Arg-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Arg-Chg-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Dap[-C(=NH)-NH2]-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Ala[3-C(=NH)-NH2]-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Asn-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Dab-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Dap[-C(=NH)-NH2]-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Gly-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Thr(Bzl)-NH-(CH2)2-CH(Ph)2,</claim-text><claim-text>Alloc-pAph-Glu-Dab-NH-CH2-CH2-phenyl,</claim-text><claim-text>Alloc-pAph-Glu-Asn-NH-CH2-Chx,</claim-text><claim-text>Alloc-pAph-Glu-2-Abu[4-C(=NH)-CH3]-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Dap[-C(=NH)-CH3]-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Dab[-C(=NH)-NH2]-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-2-Abu[4-CN]-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Ala[3-CN]-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Asn-(1-naphthyl)-methylamide,</claim-text><claim-text>Alloc-pAph-Glu-Asn-(1-naphthyl)-1-ethylamide,</claim-text><claim-text>Alloc-pAph-Glu-Asn-(2-naphthyl)-methylamide,</claim-text><claim-text>Alloc-pAph-Glu-Asn-(3,4-dichlorobenzyl)-amide,</claim-text><claim-text>Alloc-pAph-Glu-Asn-2-(3-chlorophenyl)-ethylamide,</claim-text><claim-text>Alloc-pAph-Glu-Arg[NO2]-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Cys[Bzl]-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Trp-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Phg-Cha-NH2,</claim-text><claim-text>Alloc-pAph-Glu-Asn-(9-fluorenyl)-amide, or</claim-text><claim-text>Alloc-pAph-Glu-Asn-(3,5-ditrifluormethylbenzyl)-amide,</claim-text></claim-text>
+and pharmaceutically acceptable salts, amides, esters thereof.</claim-text></claim><claim num="19"><claim-text>A process for the preparation of a compound as defined in claim 1, which
+comprises
+<claim-text><claim-text>a1) attaching a compound of the formula Fmoc-En-OH or Fmoc-D1-D2-COOH,
+where Fmoc is 9-fluorenylmethoxycarbonyl and En, D1 and D2 are defined
+as in claim 1, to an acid sensitive linker coupled to a solid support, and
+cleaving off the protecting group Fmoc,</claim-text><claim-text>a2) repeating the procedure as described in step a1) above with Fmoc-B1-B2-COOH,</claim-text><claim-text>a3) repeating the procedure as described in step a1) above with R1-A1-A2-COOH,
+and</claim-text><claim-text>a4) finally cleaving off the compound obtained according to steps a1) through
+a3) above by means of TFA from the resin, where TFA is trifluoroacetic
+acid,
+or</claim-text><claim-text>b1) coupling the side chain carboxylic acid of Fmoc-B1-CH(R97)-COOPG,
+where Fmoc is as defined in step a1) above, R97 is a radical as defined in
+claim 1 except hydrogen, which is substituted with a hydroxycarbonyl
+group, and PG is a protecting group, to an acid sensitive benzylalcohol
+type of linker attached to an amino functionalized resin,</claim-text><claim-text>b2) cleaving off the protecting group PG,</claim-text><claim-text>b3) coupling HN(R80)-D2-D3-En-R2, where D2, D3, En, R2 and R80 are as
+defined in claim 1, to the free carboxylic acid of the compound obtained in
+step b2) above by means of a suitable coupling agent,</claim-text><claim-text>b4) cleaving off the Fmoc group,</claim-text><claim-text>b5) coupling of the compound R1-A1-A2-COOH in analogy to the above
+described procedure, and</claim-text><claim-text>b6) cleaving off the compound obtained in step b5) by means of TFA,
+or</claim-text><claim-text>c1) coupling of protected amino acids by traditional medicinal chemistry and
+deprotecting to the target molecules by standard procedures known in the
+art.</claim-text></claim-text></claim-text></claim><claim num="20"><claim-text>A pharmaceutical composition having factor VIIa inhibiting activity, which
+comprises an effective amount of a compound as defined in claim 1 or a
+pharmaceutically acceptable salt thereof, and a suitable carrier therefor.</claim-text></claim><claim num="21"><claim-text>A method of reducing or inhibiting blood clotting, inflammatory response or
+vascular restenosis in a patient in need thereof which comprises
+administering to a patient an effective amount of a compound as defined in
+claim 1, or a pharmaceutically acceptable salt thereof</claim-text></claim><claim num="22"><claim-text>Use of a compound as defined in claim 1 or a pharmaceutically acceptable
+salt thereof, for the preparation of a medicament having blood clotting,
+inflammatory response or vascular restenosis reducing or inhibiting activity.</claim-text></claim></claims><search-report-data status="new"><doc-page id="img--90000001" orientation="portrait" wi="155" status="new" file="90000001.tif" he="243" type="tif"/><doc-page id="img--90010001" orientation="portrait" wi="155" status="new" file="90010001.tif" he="242" type="tif"/><doc-page id="img--90020001" orientation="portrait" wi="155" status="new" file="90020001.tif" he="238" type="tif"/><doc-page id="img--90030001" orientation="portrait" wi="157" status="new" file="90030001.tif" he="238" type="tif"/><doc-page id="img--90040001" orientation="portrait" wi="157" status="new" file="90040001.tif" he="238" type="tif"/></search-report-data><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

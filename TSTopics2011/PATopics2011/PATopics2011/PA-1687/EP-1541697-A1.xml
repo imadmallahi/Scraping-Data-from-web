@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1541697-A1" country="EP" doc-number="1541697" kind="A1" lang="EN" family-id="34522978" status="new" date-produced="20090516" date="20050615"><bibliographic-data><publication-reference ucid="EP-1541697-A1" status="new" fvid="24358545"><document-id status="new" format="original"><country>EP</country><doc-number>1541697</doc-number><kind>A1</kind><date>20050615</date></document-id></publication-reference><application-reference ucid="EP-04027285-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>04027285</doc-number><kind>A</kind><date>20041117</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-71600503-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>71600503</doc-number><kind>A</kind><date>20031118</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C12Q   1/68        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12Q   1/68        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C12Q   1/68M10B</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Nachweis von Streptococcus aus der B-Gruppe</invention-title><invention-title load-source="ep" status="new" lang="EN">Detection of group B streptococcus</invention-title><invention-title load-source="ep" status="new" lang="FR">Détection de streptocoques du groupe B</invention-title><citations><patent-citations><patcit ucid="US-6593093-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6593093</doc-number><kind>B1</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2000037646-A2" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2000037646</doc-number><kind>A2</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2002034771-A2" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2002034771</doc-number><kind>A2</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2002092818-A2" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2002092818</doc-number><kind>A2</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2003025216-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2003025216</doc-number><kind>A1</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2003093306-A2" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2003093306</doc-number><kind>A2</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>[Online] UNIVERSITY OF CHICAGO CANCER RESEARCH CENTER DNA SEQUENCING FACILITY: "Choosing primers for sequencing" retrieved from HTTP://CANCER-SEQBASE.UCHICAGO.EDU/PRIMERS.HTML</text><sources><source name="EXA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>ABD-ELSALAM: AFRICAN J. BIOTECH., vol. 2, 2003, pages 91-95,</text><sources><source name="EXA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>BALLARD ET AL: ANTIMICROB. AGENTS CHEMOTHERAPY, vol. 49, 2005, pages 77-81,</text><sources><source name="EXA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>BERGERON M G ET AL:  "RAPID DETECTION OF GROUP B STREPTOCOCCI IN PREGNANT WOMEN AT DELIVERY" NEW ENGLAND JOURNAL OF MEDICINE, THE, MASSACHUSETTS MEDICAL SOCIETY, WALTHAM, MA, US, vol. 343, no. 3, 20 July 2000 (2000-07-20), pages 175-179, XP009011054 ISSN: 0028-4793</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>CSORDAS ET AL: LETT. APP. MICROBIOL., vol. 39, 2004, pages 187-193,</text><sources><source name="EXA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>ELNIFRO ET AL: CLIN. MICROBIO. REV., vol. 13, 2000, pages 559-570,</text><sources><source name="EXA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>KE D ET AL:  "Development of conventional and real-time PCR assays for the rapid detection of group B streptococci" CLINICAL CHEMISTRY, AMERICAN ASSOCIATION FOR CLINICAL CHEMISTRY. WINSTON, US, vol. 46, no. 3, March 2000 (2000-03), pages 324-331, XP002973626 ISSN: 0009-9147</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>TICHOPAD ET AL: MOL. CELL. PROBES, vol. 18, 2004, pages 45-50,</text><sources><source name="EXA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>MAYO FOUNDATION FOR MEDICALEDU</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>MAYO FOUNDATION FOR MEDICAL EDUCATION AND RESEARCH</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>MAYO FOUNDATION FOR MEDICAL EDUCATION AND RESEARCH</last-name><address><street>200 First Street S.W.</street><city>Rochester, MN 55905</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>AICHINGER CHRISTIAN</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>COCKERILL FRANKLIN R</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>REISER ASTRID</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>UHL JAMES R</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>AICHINGER, CHRISTIAN</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>COCKERILL, FRANKLIN R.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>REISER, ASTRID</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>UHL, JAMES R.</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>AICHINGER, CHRISTIAN</last-name><address><street>Gysis Strasse 7</street><city>81379 München</city><country>DE</country></address></addressbook></inventor><inventor status="new"  format="original"><addressbook><last-name>COCKERILL, FRANKLIN R.</last-name><address><street>709 9th Avenue SW</street><city>Rochester, MN 55905</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>REISER, ASTRID</last-name><address><street>Schleierweg 20</street><city>82387 Antdorf</city><country>DE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>UHL, JAMES R.</last-name><address><street>711 9th Street SW</street><city>Rochester, MN 55902</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Gassner, Wolfgang</last-name><address><street>Nägelsbachstrasse 49a</street><city>91052 Erlangen</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>HU</country><country>IE</country><country>IS</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PL</country><country>PT</country><country>RO</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new"  lang="EN"><p>The invention provides methods to detect group B streptococcus (GBS) in
+biological samples using real-time PCR. Primers and probes for the detection of GBS are
+provided by the invention. Articles of manufacture containing such primers and probes
+for detecting GBS are further provided by the invention.</p></abstract><description load-source="ep"  status="new"  lang="EN"><heading><b>TECHNICAL FIELD</b></heading><p num="0001">This invention relates to bacterial diagnostics, and more particularly to detection
+of group B streptococcus (GBS).</p><heading><b>BACKGROUND</b></heading><p num="0002">Group B Streptococcus (GBS) is a Gram positive bacteria commonly found in the
+throat and lower intestine of adults, and in the vagina of women. Normally, this
+organism does not cause disease in the host. During childbirth, however, an infant can
+become infected with GBS. GBS infections are the leading cause of neonatal morbidity
+and mortality in the United States, with fatality ratios as high as 50% in untreated cases.
+In recent years, antibiotics administered during labor have greatly reduced the incidence
+of neonatal GBS.</p><p num="0003">Current CDC recommendations call for screening of women for GBS during
+week 35 to 37 weeks' gestation by culture. Women found to be colonized with GBS are
+treated with intravenous antibiotics during labor. This approach has reduced the
+incidence of neonatal infection and fewer patients are provided unnecessary antibiotic
+treatment. However, the problem of GBS neonatal sepis has not been eliminated.
+Colonization with GBS is often transient, so lack of colonization at 35 weeks gestation
+does not guarantee that there will be no GBS present at week 40. Also, many patients
+present to healthcare providers first at the time of labor and have not been screened for
+GBS. The decision to treat with antibiotics in these cases must be made on the basis of
+risk factors such as gestation &lt;37 weeks, membrane rupture &gt;12 hours, young maternal
+age, and/or black or Hispanic ethnicity.</p><p num="0004">Ideally, the determination of GBS colonization would be made during early labor
+and the laboratory results available within a few hours. Conventional identification of
+GBS requires culture. As culture may require up to 72 hours for a definitive answer,
+physicians may provide unnecessary antimicrobics at the time of delivery on an empiric
+basis. Overuse of antimicrobics may predispose to the development of antimicrobial
+resistance and add to the risk of adverse reactions including life-threatening anaphylaxis. 
+Rapid antigen tests (e.g., latex agglutination) also have been used to diagnose GBS, but
+these tests lack sensitivity when compared to culture. In fact, the sensitivities of antigen
+tests for detecting GBS are so low that the FDA has issued an alert that these types of
+assays cannot be used to diagnose GBS without culture backup.</p><heading><b>SUMMARY</b></heading><p num="0005">The invention provides for methods of identifying group B streptococcus (GBS)
+in a biological sample or in a non-biological sample. Primers and probes for detecting
+GBS are provided by the invention, as are kits containing such primers and probes.
+Methods of the invention can be used to rapidly identify GBS DNA from specimens for
+diagnosis of GBS infection. Using specific primers and probes, the methods include
+amplifying and monitoring the development of specific amplification products using
+fluorescence resonance energy transfer (FRET).</p><p num="0006">In one aspect of the invention, there is provided a method for detecting the
+presence or absence of GBS in a biological sample from an individual or in a non-biological
+sample. The method to detect GBS includes performing at least one cycling
+step, which includes an amplifying step and a hybridizing step. The amplifying step
+includes contacting the sample with a pair of <i>pts</i> primers to produce a pts amplification
+product if a GBS <i>pts</i> nucleic acid molecule is present in the sample. The hybridizing step
+includes contacting the sample with a pair of <i>pts</i> probes. Generally, the members of the
+pair of <i>pts</i> probes hybridize within no more than five nucleotides of each other. A first <i>pts</i>
+probe of the pair of <i>pts</i> probes is typically labeled with a donor fluorescent moiety and a
+second <i>pts</i> probe of the pair of <i>pts</i> probes is labeled with a corresponding acceptor
+fluorescent moiety. The method further includes detecting the presence or absence of
+FRET between the donor fluorescent moiety of the first <i>pts</i> probe and the acceptor
+fluorescent moiety of the second <i>pts</i> probe. The presence of FRET is usually indicative
+of the presence of GBS in the sample, while the absence of FRET is usually indicative of
+the absence of GBS in the sample.</p><p num="0007">A pair of <i>pts</i> primers generally includes a first <i>pts</i> primer and a second <i>pts</i> primer.
+The first <i>pts</i> primer can include the sequence 5'-TGA GAA GGC AGT AGA AAG CTT
+AG-3' (SEQ ID NO:1), and the second <i>pts</i> primer can include the sequence 5'-TGC ATG 
+TAT GGG TTA TCT TCC-3' (SEQ ID NO:2). A first <i>pts</i> probe can include the
+sequence 5'-CAA ATT AAA GAG ACT ATT CGT GCA A-3' (SEQ ID NO: 3), and the
+second <i>pts</i> probe can include the sequence 5'-CAA GTA AAT GCA GAA ACA GG-3'
+(SEQ ID NO:4).</p><p num="0008">In some aspects, one of the <i>pts</i> primers can be labeled with a fluorescent moiety
+(either a donor or acceptor, as appropriate) and can take the place of one of the <i>pts</i>
+probes.</p><p num="0009">The members of the pair of <i>pts</i> probes can hybridize within no more than two
+nucleotides of each other, or can hybridize within no more than one nucleotide of each
+other. A representative donor fluorescent moiety is fluorescein, and corresponding
+acceptor fluorescent moieties include LC-Red 640, LC-Red 705, Cy5, and Cy5.5.
+Additional corresponding donor and acceptor fluorescent moieties are known in the art.</p><p num="0010">In one aspect, the detecting step includes exciting the sample at a wavelength
+absorbed by the donor fluorescent moiety and visualizing and/or measuring the
+wavelength emitted by the acceptor fluorescent moiety (<i>i.e.</i>, visualizing and'/or
+measuring FRET). In another aspect, the detecting step includes quantitating the FRET.
+In yet another aspect, the detecting step can be performed after each cycling step (<i>e.g.</i>, in
+real-time).</p><p num="0011">Generally, the presence of FRET within 45 cycles (<i>e.g.</i>, 20, 25, 30, 35, or 40
+cycles) indicates the presence of a GBS infection in the individual. In addition,
+determining the melting temperature between one or both of the <i>pts</i> probe(s) and the <i>pts</i>
+amplification product can confirm the presence or absence of the GBS.</p><p num="0012">Representative biological sample include anal and/or vaginal swabs. The above-described
+methods can further include preventing amplification of a contaminant nucleic
+acid. Preventing amplification can include performing the amplifying step in the
+presence of uracil and treating the sample with uracil-DNA glycosylase prior to
+amplifying.</p><p num="0013">In addition, the cycling step can be performed on a control sample. A control
+sample can include the same portion of the GBS <i>pts</i> nucleic acid molecule. Alternatively,
+a control sample can include a nucleic acid molecule other than a GBS <i>pts</i> nucleic acid
+molecule. Cycling steps can be performed on such a control sample using a pair of 
+control primers and a pair of control probes. The control primers and probes are other
+than <i>pts</i> primers and probes. One or more amplifying steps produces a control
+amplification product. Each of the control probes hybridizes to the control amplification
+product.</p><p num="0014">In another aspect of the invention, there are provided articles of manufacture, or
+kits. Kits of the invention can include a pair of <i>pts</i> primers, and a pair of <i>pts</i> probes, and
+a donor and corresponding acceptor fluorescent moieties. For example, the first <i>pts</i>
+primer provided in a kit of the invention can have the sequence 5'-TGA GAA GGC AGT
+AGA AAG CTT AG-3' (SEQ ID NO: 1) and the second <i>pts</i> primer can have the sequence
+5'-TGC ATG TAT GGG TTA TCT TCC-3' (SEQ ID NO:2). The first pts probe
+provided in a kit of the invention can have the sequence 5'-CAA ATT AAA GAG ACT
+ATT CGT GCA A-3' (SEQ ID NO: 3) and the second <i>pts</i> probe can have the sequence 5'-CAA
+GTA AAT GCA GAA ACA GG-3' (SEQ ID NO:4).</p><p num="0015">Articles of manufacture can include fluorophoric moieties for labeling the probes
+or probes already labeled with donor and corresponding acceptor fluorescent moieties.
+The article of manufacture can also include a package insert having instructions thereon
+for using the primers, probes, and fluorophoric moieties to detect the presence or absence
+of GBS in a sample.</p><p num="0016">In yet another aspect of the invention, there is provided a method for detecting the
+presence or absence of GBS in a biological sample from an individual or in a non-biological
+sample. Such a method includes performing at least one cycling step. A
+cycling step can include an amplifying step and a hybridizing step. Generally, an
+amplifying step includes contacting the sample with a pair of <i>pts</i> primers to produce a <i>pts</i>
+amplification product if a GBS <i>pts</i> nucleic acid molecule is present in the sample.
+Generally, a hybridizing step includes contacting the sample with <i>a pts</i> probe. Such <i>a pts</i>
+probe is usually labeled with a donor fluorescent moiety and a corresponding acceptor
+fluorescent moiety. The method further includes detecting the presence or absence of
+fluorescence resonance energy transfer (FRET) between the donor fluorescent moiety and
+the acceptor fluorescent moiety of the <i>pts</i> probe. The presence or absence of
+fluorescence is indicative of the presence or absence of GBS in said sample. </p><p num="0017">In one aspect, amplification can employ a polymerase enzyme having 5' to 3'
+exonuclease activity. Thus, the first and second fluorescent moieties would be within no
+more than 5 nucleotides of each other along the length of the probe. In another aspect,
+the <i>pts</i> probe includes a nucleic acid sequence that permits secondary structure formation.
+Such secondary structure formation generally results in spatial proximity between the
+first and second fluorescent moiety. According to this method, the second fluorescent
+moiety on a probe can be a quencher.</p><p num="0018">In another aspect of the invention, there is provided a method for detecting the
+presence or absence of GBS in a biological sample from an individual or in a non-biological
+sample. Such a method includes performing at least one cycling step. A
+cycling step can include an amplifying step and a dye-binding step. An amplifying step
+generally includes contacting the sample with a pair of <i>pts</i> primers to produce a <i>pts</i>
+amplification product if a GBS <i>pts</i> nucleic acid molecule is present in the sample. A dye-binding
+step generally includes contacting the <i>pts</i> amplification product with a double-stranded
+DNA binding dye. The method further includes detecting the presence or
+absence of binding of the double-stranded DNA binding dye into the amplification
+product. According to the invention, the presence of binding is typically indicative of the
+presence of GBS in the sample, and the absence of binding is typically indicative of the
+absence of GBS in the sample. Such a method can further include the steps of
+determining the melting temperature between the <i>pts</i> amplification product and the
+double-stranded DNA binding dye. Generally, the melting temperature confirms the
+presence or absence of GBS. Representative double-stranded DNA binding dyes include
+SYBRGreenI®, SYBRGoId®, and ethidium bromide.</p><p num="0019">Unless otherwise defined, all technical and scientific terms used herein have the
+same meaning as commonly understood by one of ordinary skill in the art to which this
+invention belongs. Although methods and materials similar or equivalent to those
+described herein can be used in the practice or testing of the present invention, suitable
+methods and materials are described below. In addition, the materials, methods, and
+examples are illustrative only and not intended to be limiting. All publications, patent
+applications, patents, and other references mentioned herein are incorporated by reference 
+in their entirety. In case of conflict, the present specification, including definitions, will
+control.</p><p num="0020">The details of one or more embodiments of the invention are set forth in the
+accompanying drawings and the description below. Other features, objects, and
+advantages of the invention will be apparent from the drawings and detailed description,
+and from the claims.</p><heading><b>DETAILED DESCRIPTION</b></heading><p num="0021">A real-time assay for detecting GBS in a biological sample or in a non-biological
+sample that is more sensitive and specific than existing assays is described herein.
+Primers and probes for detecting GBS infections and articles of manufacture containing
+such primers and probes are provided by the invention. The increased sensitivity of real-time
+PCR for detection of GBS compared to other methods, as well as the improved
+features of real-time PCR including sample containment and real-time detection of the
+amplified product, make feasible the implementation of this technology for routine
+diagnosis of GBS infections in the clinical laboratory.</p><heading><u style="single">GBS nucleic acids and oligonucleotides</u></heading><p num="0022">The invention provides methods to detect GBS by amplifying, for example, a
+portion of the GBS <i>pts</i> nucleic acid. GBS nucleic acids other than those exemplified
+herein (<i>e.g.</i>, other than <i>pts)</i> also can be used to detect GBS in a sample and are known to
+those of skill in the art. Nucleic acid sequences from GBS are available (see, for
+example, GenBank Accession Nos. NC_004368 and NC_004116). Specifically, primers
+and probes to amplify and detect GBS <i>pts</i> nucleic acid molecules are provided by the
+invention.</p><p num="0023">Primers that amplify a GBS nucleic acid molecule, <i>e.g.</i>, GBS <i>pts</i> can be designed
+using, for example, a computer program such as OLIGO (Molecular Biology Insights,
+Inc., Cascade, CO). Important features when designing oligonucleotides to be used as
+amplification primers include, but are not limited to, an appropriate size amplification
+product to facilitate detection (<i>e.g.</i>, by electrophoresis), similar melting temperatures for 
+the members of a pair of primers, and the length of each primer (<i>i.e.</i>, the primers need to
+be long enough to anneal with sequence-specificity and to initiate synthesis but not so
+long that fidelity is reduced during oligonucleotide synthesis). Typically, oligonucleotide
+primers are 15 to 30 nucleotides in length.</p><p num="0024">Designing oligonucleotides to be used as hybridization probes can be performed
+in a manner similar to the design of primers, although the members of a pair of probes
+preferably anneal to an amplification product within no more than 5 nucleotides of each
+other on the same strand such that FRET can occur (<i>e.g.</i>, within no more than 1, 2, 3, or 4
+nucleotides of each other). This minimal degree of separation typically brings the
+respective fluorescent moieties into sufficient proximity such that FRET occurs. It is to
+be understood, however, that other separation distances (<i>e.g.</i>, 6 or more nucleotides) are
+possible provided the fluorescent moieties are appropriately positioned relative to each
+other (for example, with a linker arm) such that FRET can occur. In addition, probes can
+be designed to hybridize to targets that contain a polymorphism or mutation, thereby
+allowing differential detection of GBS strains based on either absolute hybridization of
+different pairs of probes corresponding to the particular GBS strain to be distinguished or
+differential melting temperatures between, for example, members of a pair of probes and
+each amplification product corresponding to a GBS strain to be distinguished. As with
+oligonucleotide primers, oligonucleotide probes usually have similar melting
+temperatures, and the length of each probe must be sufficient for sequence-specific
+hybridization to occur but not so long that fidelity is reduced during synthesis.
+Oligonucleotide probes are generally 15 to 30 nucleotides in length.</p><p num="0025">Constructs of the invention include vectors containing a GBS nucleic acid
+molecule, <i>e.g.</i>, GBS <i>pts</i> or a fragment thereof. Constructs of the invention can be used,
+for example, as control template nucleic acid molecules. Vectors suitable for use in the
+present invention are commercially available and/or produced by recombinant DNA
+technology methods routine in the art. GBS <i>pts</i> nucleic acid molecules can be obtained,
+for example, by chemical synthesis, direct cloning from GBS, or by PCR amplification.
+A GBS nucleic acid molecule or fragment thereof can be operably linked to a promoter or
+other regulatory element such as an enhancer sequence, a response element, or an inducible
+element that modulates expression of the GBS nucleic acid molecule. As used herein, 
+operably linking refers to connecting a promoter and/or other regulatory elements to a GBS
+nucleic acid molecule in such a way as to permit and/or regulate expression of the GBS
+nucleic acid molecule. A promoter that does not normally direct expression of GBS <i>pts</i> can
+be used to direct transcription of a <i>pts</i> nucleic acid using, for example, a viral polymerase, a
+bacterial polymerase, or a eukaryotic RNA polymerase II. Alternatively, the <i>pts</i> native
+promoter can be used to direct transcription of <i>a pts</i> nucleic acid. In addition, operably
+linked can refer to an appropriate connection between a GBS <i>pts</i> promoter or regulatory
+element and a heterologous coding sequence <i>(i.e.,</i> a <i>non-pts</i> coding sequence, for example, a
+reporter gene) in such a way as to permit expression of the heterologous coding sequence.</p><p num="0026">Constructs suitable for use in the methods of the invention typically include, in
+addition to GBS <i>pts</i> nucleic acid molecules, sequences encoding a selectable marker <i>(e.g.,</i>
+an antibiotic resistance gene) for selecting desired constructs and/or transformants, and an
+origin of replication. The choice of vector systems usually depends upon several factors,
+including, but not limited to, the choice of host cells, replication efficiency, selectability,
+inducibility, and the ease of recovery.</p><p num="0027">Constructs of the invention containing GBS <i>pts</i> nucleic acid molecules can be
+propagated in a host cell. As used herein, the term host cell is meant to include
+prokaryotes and eukaryotes such as yeast, plant and animal cells. Prokaryotic hosts may
+include <i>E. coli, Salmonella typhimurium, Serratia marcescens</i> and <i>Bacillus subtilis.</i>
+Eukaryotic hosts include yeasts such as <i>S. cerevisiae, S. pombe, Pichia pastoris,</i>
+mammalian cells such as COS cells or Chinese hamster ovary (CHO) cells, insect cells,
+and plant cells such as <i>Arabidopsis thaliana</i> and <i>Nicotiana tabacum.</i> A construct of the
+invention can be introduced into a host cell using any of the techniques commonly known
+to those of ordinary skill in the art. For example, calcium phosphate precipitation,
+electroporation, heat shock, lipofection, microinjection, and viral-mediated nucleic acid
+transfer are common methods for introducing nucleic acids into host cells. In addition,
+naked DNA can be delivered directly to cells (see, <i>e.g.</i>, U.S. Patent Nos. 5,580,859 and
+5,589,466). </p><heading><u style="single">Polymerase chain reaction (PCR)</u></heading><p num="0028">U.S. Patent Nos. 4,683,202, 4,683,195, 4,800,159, and 4,965,188 disclose
+conventional PCR techniques. PCR typically employs two oligonucleotide primers that
+bind to a selected nucleic acid template (<i>e.g.</i>, DNA or RNA). Primers useful in the
+present invention include oligonucleotides capable of acting as a point of initiation of
+nucleic acid synthesis within GBS <i>pts</i> nucleic acid sequences. A primer can be purified
+from a restriction digest by conventional methods, or it can be produced synthetically.
+The primer is preferably single-stranded for maximum efficiency in amplification, but the
+primer can be double-stranded. Double-stranded primers are first denatured, <i>i.e.</i>, treated
+to separate the strands. One method of denaturing double stranded nucleic acids is by
+heating.</p><p num="0029">The term "thermostable polymerase" refers to a polymerase enzyme that is heat
+stable, <i>i.e.</i>, the enzyme catalyzes the formation of primer extension products
+complementary to a template and does not irreversibly denature when subjected to the
+elevated temperatures for the time necessary to effect denaturation of double-stranded
+template nucleic acids. Generally, the synthesis is initiated at the 3' end of each primer
+and proceeds in the 5' to 3' direction along the template strand. Thermostable
+polymerases have been isolated from <i>Thermus flavus, T. ruber, T. thermophilus, T.
+aquaticus, T. lacteus, T. rubens, Bacillus stearothermophilus,</i> and <i>Methanothermus
+fervidus.</i> Nonetheless, polymerases that are not thermostable also can be employed in
+PCR assays provided the enzyme is replenished.</p><p num="0030">If the GBS template nucleic acid is double-stranded, it is necessary to separate the
+two strands before it can be used as a template in PCR. Strand separation can be
+accomplished by any suitable denaturing method including physical, chemical or
+enzymatic means. One method of separating the nucleic acid strands involves heating the
+nucleic acid until it is predominately denatured (<i>e.g.</i>, greater than 50%, 60%, 70%, 80%,
+90% or 95% denatured). The heating conditions necessary for denaturing template
+nucleic acid will depend, <i>e.g.</i>, on the buffer salt concentration and the length and
+nucleotide composition of the nucleic acids being denatured, but typically range from
+about 90°C to about 105°C for a time depending on features of the reaction such as 
+temperature and the nucleic acid length. Denaturation is typically performed for about 30
+sec to 4 min.</p><p num="0031">If the double-stranded nucleic acid is denatured by heat, the reaction mixture is
+allowed to cool to a temperature that promotes annealing of each primer to its target
+sequence on the GBS nucleic acid. The temperature for annealing is usually from about
+35°C to about 65°C. Annealing times can be from about 10 secs to about 1 min. The
+reaction mixture is then adjusted to a temperature at which the activity of the polymerase
+is promoted or optimized, <i>i.e.</i>, a temperature sufficient for extension to occur from the
+annealed primer to generate products complementary to the template nucleic acid. The
+temperature should be sufficient to synthesize an extension product from each primer that
+is annealed to a nucleic acid template, but should not be so high as to denature an
+extension product from its complementary template (<i>e.g.</i>, the temperature for extension
+generally ranges from about 40° to 80°C). Extension times can be from about 10 secs to
+about 5 mins.</p><p num="0032">PCR assays can employ GBS nucleic acid such as DNA or RNA, including
+messenger RNA (mRNA). The template nucleic acid need not be purified; it may be a
+minor fraction of a complex mixture, such as GBS nucleic acid contained in human cells.
+DNA or RNA may be extracted from a biological sample such as an anal and/or vaginal
+swab by routine techniques such as those described in <i>Diagnostic Molecular
+Microbiology: Principles and Applications</i> (Persing et al. (eds), 1993, American Society
+for Microbiology, Washington D.C). Nucleic acids can be obtained from any number of
+sources, such as plasmids, or natural sources including bacteria, yeast, viruses,
+organelles, or higher organisms such as plants or animals.</p><p num="0033">The oligonucleotide primers are combined with PCR reagents under reaction
+conditions that induce primer extension. For example, chain extension reactions
+generally include 50 mM KCl, 10 mM Tris-HCl (pH 8.3), 15 mM MgCl<sub>2</sub>, 0.001% (w/v)
+gelatin, 0.5-1.0 µg denatured template DNA, 50 pmoles of each oligonucleotide primer,
+2.5 U of Taq polymerase, and 10% DMSO). The reactions usually contain 150 to 320
+µM each of dATP, dCTP, dTTP, dGTP, or one or more analogs thereof.</p><p num="0034">The newly synthesized strands form a double-stranded molecule that can be used
+in the succeeding steps of the reaction. The steps of strand separation, annealing, and 
+elongation can be repeated as often as needed to produce the desired quantity of
+amplification products corresponding to the target GBS nucleic acid molecule. The
+limiting factors in the reaction are the amounts of primers, thermostable enzyme, and
+nucleoside triphosphates present in the reaction. The cycling steps (<i>i.e.</i>, denaturation,
+annealing, and extension) are preferably repeated at least once. For use in detection, the
+number of cycling steps will depend, <i>e.g.</i>, on the nature of the sample. If the sample is a
+complex mixture of nucleic acids, more cycling steps will be required to amplify the
+target sequence sufficient for detection. Generally, the cycling steps are repeated at least
+about 20 times, but may be repeated as many as 40, 60, or even 100 times.</p><heading><u style="single">Fluorescence resonance energy transfer (FRET)</u></heading><p num="0035">FRET technology (see, for example, U.S. Patent Nos. 4,996,143, 5,565,322,
+5,849,489, and 6,162,603) is based on a concept that when a donor and a corresponding
+acceptor fluorescent moiety are positioned within a certain distance of each other, energy
+transfer takes place between the two fluorescent moieties that can be visualized or
+otherwise detected and/or quantitated. Two oligonucleotide probes, each containing a
+fluorescent moiety, can hybridize to an amplification product at particular positions
+determined by the complementarity of the oligonucleotide probes to the GBS target
+nucleic acid sequence. Upon hybridization of the oligonucleotide probes to the
+amplification product nucleic acid at the appropriate positions, a FRET signal is
+generated. Hybridization temperatures can range from about 35 to about 65°C for about
+10 secs to about 1 min.</p><p num="0036">Fluorescent analysis can be carried out using, for example, a photon counting
+epifluorescent microscope system (containing the appropriate dichroic mirror and filters
+for monitoring fluorescent emission at the particular range), a photon counting
+photomultiplier system or a fluorometer. Excitation to initiate energy transfer can be
+carried out with an argon ion laser, a high intensity mercury (Hg) arc lamp, a fiber optic
+light source, or other high intensity light source appropriately filtered for excitation in the
+desired range.</p><p num="0037">As used herein with respect to donor and corresponding acceptor fluorescent
+moieties "corresponding" refers to an acceptor fluorescent moiety having an emission 
+spectrum that overlaps the excitation spectrum of the donor fluorescent moiety. The
+wavelength maximum of the emission spectrum of the acceptor fluorescent moiety
+should be at least 100 nm greater than the wavelength maximum of the excitation
+spectrum of the donor fluorescent moiety. Accordingly, efficient non-radiative energy
+transfer can be produced therebetween.</p><p num="0038">Fluorescent donor and corresponding acceptor moieties are generally chosen for
+(a) high efficiency Förster energy transfer; (b) a large final Stokes shift (&gt;100 nm); (c)
+shift of the emission as far as possible into the red portion of the visible spectrum (&gt;600
+nm); and (d) shift of the emission to a higher wavelength than the Raman water
+fluorescent emission produced by excitation at the donor excitation wavelength. For
+example, a donor fluorescent moiety can be chosen that has its excitation maximum near
+a laser line (for example, Helium-Cadmium 442 nm or Argon 488 nm), a high extinction
+coefficient, a high quantum yield, and a good overlap of its fluorescent emission with the
+excitation spectrum of the corresponding acceptor fluorescent moiety. A corresponding
+acceptor fluorescent moiety can be chosen that has a high extinction coefficient, a high
+quantum yield, a good overlap of its excitation with the emission of the donor fluorescent
+moiety, and emission in the red part of the visible spectrum (&gt;600 nm).</p><p num="0039">Representative donor fluorescent moieties that can be used with various acceptor
+fluorescent moieties in FRET technology include fluorescein, Lucifer Yellow, B-phycoerythrin,
+9-acridineisothiocyanate, Lucifer Yellow VS, 4-acetamido-4'-isothiocyanatostilbene-2,2'-disulfonic
+acid, 7-diethylamino-3-(4'-isothiocyanatophenyl)-4-methylcoumarin,
+succinimdyl 1-pyrenebutyrate, and 4-acetamido-4'-isothiocyanatostilbene-2,2'-disulfonic
+acid derivatives. Representative acceptor
+fluorescent moieties, depending upon the donor fluorescent moiety used, include LC™-Red
+640, LC™-Red 705, Cy5, Cy5.5, Lissamine rhodamine B sulfonyl chloride,
+tetramethyl rhodamine isothiocyanate, rhodamine x isothiocyanate, erythrosine
+isothiocyanate, fluorescein, diethylenetriamine pentaacetate or other chelates of
+Lanthanide ions (<i>e.g.</i>, Europium, or Terbium). Donor and acceptor fluorescent moieties
+can be obtained, for example, from Molecular Probes (Junction City, OR) or Sigma
+Chemical Co. (St. Louis, MO). </p><p num="0040">The donor and acceptor fluorescent moieties can be attached to the appropriate
+probe oligonucleotide via a linker arm. The length of each linker arm is important, as the
+linker arms will affect the distance between the donor and acceptor fluorescent moieties.
+The length of a linker arm for the purpose of the present invention is the distance in
+Angstroms (Å) from the nucleotide base to the fluorescent moiety. In general, a linker
+arm is from about 10 to about 25 Å. The linker arm may be of the kind described in WO
+84/03285. WO 84/03285 also discloses methods for attaching linker arms to a particular
+nucleotide base, and also for attaching fluorescent moieties to a linker arm.</p><p num="0041">An acceptor fluorescent moiety such as an LC™-Red 640-NHS-ester can be
+combined with C6-Phosphoramidites (available from ABI (Foster City, CA) or Glen
+Research (Sterling, VA)) to produce, for example, LC™-Red 640-Phosphoramidite.
+Frequently used linkers to couple a donor fluorescent moiety such as fluorescein to an
+oligonucleotide include thiourea linkers (FITC-derived, for example, fluorescein-CPG's
+from Glen Research or ChemGene (Ashland, MA)), amide-linkers (fluorescein-NHS-ester-derived,
+such as fluorescein-CPG from BioGenex (San Ramon, CA)), or 3'-amino-CPG's
+that require coupling of a fluorescein-NHS-ester after oligonucleotide synthesis.</p><heading><u style="single">Detection of Group B Streptococcus</u></heading><p num="0042">The presence of GBS has been detected by culturing the organism as well as rapid
+antigen tests. Conventional PCR methods also have been used to detect GBS.
+Conventional PCR-based amplification is generally followed by transfer of the
+amplification products to a solid support and detection using a labeled probe (<i>e.g.</i>, a
+Southern or Northern blot). These methods are labor intensive and frequently require
+more than one day to complete. Additionally, the manipulation of amplification products
+for the purpose of detection (<i>e.g.</i>, by blotting) increases the risk of carry-over
+contamination and false positives.</p><p num="0043">By using commercially available real-time PCR instrumentation (<i>e.g.</i>,
+LightCycler™, Roche Molecular Biochemicals, Indianapolis, IN), PCR amplification and
+detection of the amplification product can be combined in a single closed cuvette with
+dramatically reduced cycling time. Since detection occurs concurrently with
+amplification, the real-time PCR methods obviate the need for manipulation of the 
+amplification product, and diminish the risk of cross-contamination between
+amplification products. Real-time PCR greatly reduces turn-around time and is an
+attractive alternative to conventional PCR techniques in the clinical laboratory.</p><p num="0044">The present invention provides methods for detecting the presence or absence of
+GBS in a biological sample from an individual or in a non-biological sample. Methods
+provided by the invention avoid problems of sample contamination, false negatives, and
+false positives. The methods include performing at least one cycling step that includes
+amplifying a GBS portion of a <i>pts</i> nucleic acid molecule from a sample using a pair of <i>pts</i>
+primers. Each of the <i>pts</i> primers anneals to a target within or adjacent to a GBS <i>pts</i>
+nucleic acid molecule such that at least a portion of each amplification product contains
+nucleic acid sequence corresponding to <i>pts.</i> More importantly, the amplification product
+should contain the nucleic acid sequences that are complementary to the <i>pts</i> probes. The
+<i>pts</i> amplification product is produced provided that GBS nucleic acid is present. Each
+cycling step further includes contacting the sample with a pair of <i>pts</i> probes. According
+to the invention, one member of each pair of the <i>pts</i> probes is labeled with a donor
+fluorescent moiety and the other is labeled with a corresponding acceptor fluorescent
+moiety. The presence or absence of FRET between the donor fluorescent moiety of the
+first <i>pts</i> probe and the corresponding acceptor fluorescent moiety of the second <i>pts</i> probe
+is detected upon hybridization of the <i>pts</i> probes to the <i>pts</i> amplification product.</p><p num="0045">Each cycling step includes an amplification step and a hybridization step, and
+each cycling step is usually followed by a FRET detecting step. Multiple cycling steps
+are performed, preferably in a thermocycler. Methods of the invention can be performed
+using the <i>pts</i> primer and probe set to detect the presence of GBS. Detection of FRET in
+the <i>pts</i> reaction indicates the presence of a GBS.</p><p num="0046">As used herein, "amplifying" refers to the process of synthesizing nucleic acid
+molecules that are complementary to one or both strands of a template nucleic acid
+molecule (e.g., GBS <i>pts</i> nucleic acid molecules). Amplifying a nucleic acid molecule
+typically includes denaturing the template nucleic acid, annealing primers to the template
+nucleic acid at a temperature that is below the melting temperatures of the primers, and
+enzymatically elongating from the primers to generate an amplification product.
+Amplification typically requires the presence of deoxyribonucleoside triphosphates, a 
+DNA polymerase enzyme (<i>e.g.</i>, Platinum® Taq) and an appropriate buffer and/or co-factors
+for optimal activity of the polymerase enzyme (<i>e.g.</i>, MgCl<sub>2</sub> and/or KCl).</p><p num="0047">If amplification of GBS nucleic acid occurs and an amplification product is
+produced, the step of hybridizing results in a detectable signal based upon FRET between
+the members of the pair of probes. As used herein, "hybridizing" refers to the annealing
+of probes to an amplification product. Hybridization conditions typically include a
+temperature that is below the melting temperature of the probes but that avoids nonspecific
+hybridization of the probes.</p><p num="0048">Generally, the presence of FRET indicates the presence of GBS in the sample,
+and the absence of FRET indicates the absence of GBS in the sample. Inadequate
+specimen collection, transportation delays, inappropriate transportation conditions, or use
+of certain collection swabs (calcium alginate or aluminum shaft) are all conditions that
+can affect the success and/or accuracy of a test result, however. Using the methods
+disclosed herein, detection of FRET within 45 cycling steps is indicative of a GBS
+infection.</p><p num="0049">Methods of the invention also can be used for GBS vaccine efficacy studies or
+epidemiology studies. For example, an attenuated GBS in an anthrax vaccine can be
+detected using the methods of the invention during the time when bacteria is still present
+in an individual. For such vaccine efficacy studies, the methods of the invention can be
+used to determine, for example, the persistence of an attenuated strain of GBS used in a
+vaccine, or can be performed in conjunction with an additional assay such as a serologic
+assay to monitor an individual's immune response to such a vaccine. In addition,
+methods of the invention can be used to distinguish one GBS strain from another for
+epidemiology studies of, for example, the origin or severity of an outbreak of GBS.</p><p num="0050">Representative biological samples that can be used in practicing the methods of
+the invention include dermal swabs, cerebrospinal fluid, blood, sputum, bronchio-alveolar
+lavage, bronchial aspirates, lung tissue, and feces. Collection and storage
+methods of biological samples are known to those of skill in the art. Biological samples
+can be processed (<i>e.g.</i>, by nucleic acid extraction methods and/or kits known in the art) to
+release GBS nucleic acid or in some cases, the biological sample can be contacted
+directly with the PCR reaction components and the appropriate oligonucleotides. </p><p num="0051">Biological samples can be cultured in a medium suitable for growth of GBS. The
+culture media then can be assayed for the presence or absence of GBS using the methods
+of the invention as described herein. For example, samples arriving at a clinical
+laboratory for detection of GBS using the methods of the invention can be in the form of
+a liquid culture that had been inoculated with a biological sample from an individual.</p><p num="0052">Melting curve analysis is an additional step that can be included in a cycling
+profile. Melting curve analysis is based on the fact that DNA melts at a characteristic
+temperature called the melting temperature (Tm), which is defined as the temperature at
+which half of the DNA duplexes have separated into single strands. The melting
+temperature of a DNA depends primarily upon its nucleotide composition. Thus, DNA
+molecules rich in G and C nucleotides have a higher Tm than those having an abundance
+of A and T nucleotides. By detecting the temperature at which signal is lost, the melting
+temperature of probes can be determined. Similarly, by detecting the temperature at
+which signal is generated, the annealing temperature of probes can be determined. The
+melting temperature(s) of the <i>pts</i> probes from the <i>pts</i> amplification product can confirm
+the presence or absence of GBS in the sample.</p><p num="0053">Within each thermocycler run, control samples are cycled as well. Positive
+control samples can amplify GBS nucleic acid control template (other than <i>pts</i>) using, for
+example, control primers and control probes. Positive control samples can also amplify,
+for example, a plasmid construct containing GBS <i>pts</i> nucleic acid molecules. Such a
+plasmid control can be amplified internally (<i>e.g.</i>, within the sample) or in a separate
+sample run side-by-side with the patients' samples. Each thermocycler run should also
+include a negative control that, for example, lacks GBS template DNA. Such controls are
+indicators of the success or failure of the amplification, hybridization and/or FRET
+reaction. Therefore, control reactions can readily determine, for example, the ability of
+primers to anneal with sequence-specificity and to initiate elongation, as well as the
+ability of probes to hybridize with sequence-specificity and for FRET to occur.</p><p num="0054">In an embodiment, the methods of the invention include steps to avoid
+contamination. For example, an enzymatic method utilizing uracil-DNA glycosylase is
+described in U.S. Patent Nos. 5,035,996, 5,683,896 and 5,945,313 to reduce or eliminate
+contamination between one thermocycler run and the next. In addition, standard 
+laboratory containment practices and procedures are desirable when performing methods
+of the invention. Containment practices and procedures include, but are not limited to,
+separate work areas for different steps of a method, containment hoods, barrier filter
+pipette tips and dedicated air displacement pipettes. Consistent containment practices
+and procedures by personnel are necessary for accuracy in a diagnostic laboratory
+handling clinical samples.</p><p num="0055">Conventional PCR methods in conjunction with FRET technology can be used to
+practice the methods of the invention. In one embodiment, a LightCycler™ instrument is
+used. A detailed description of the LightCycler™ System and real-time and on-line
+monitoring of PCR can be found at <u style="single">http:/Ibiochem.roche.com/lightcycler.</u> The following
+patent applications describe real-time PCR as used in the LightCycler™ technology: WO
+97/46707, WO 97/46714 and WO 97/46712. The LightCycler™ instrument is a rapid
+thermal cycler combined with a microvolume fluorometer utilizing high quality optics.
+This rapid thermocycling technique uses thin glass cuvettes as reaction vessels. Heating
+and cooling of the reaction chamber are controlled by alternating heated and ambient air.
+Due to the low mass of air and the high ratio of surface area to volume of the cuvettes,
+very rapid temperature exchange rates can be achieved within the LightCycler™ thermal
+chamber. Addition of selected fluorescent dyes to the reaction components allows the
+PCR to be monitored in real time and on-line. Furthermore, the cuvettes serve as an
+optical element for signal collection (similar to glass fiber optics), concentrating the
+signal at the tip of the cuvette. The effect is efficient illumination and fluorescent
+monitoring of microvolume samples.</p><p num="0056">The LightCycler™ carousel that houses the cuvettes can be removed from the
+instrument. Therefore, samples can be loaded outside of the instrument (in a PCR Clean
+Room, for example). In addition, this feature allows for the sample carousel to be easily
+cleaned and sterilized. The fluorometer, as part of the LightCycler™ apparatus, houses
+the light source. The emitted light is filtered and focused by an epi-illumination lens onto
+the top of the cuvette. Fluorescent light emitted from the sample is then focused by the
+same lens, passed through a dichroic mirror, filtered appropriately, and focused onto
+data-collecting photohybrids. The optical unit currently available in the LightCycler™
+instrument (Roche Molecular Biochemicals, Catalog No. 2011 468) includes three bandpass 
+filters (530 nm, 640 nm, and 710 nm), providing three-color detection and several
+fluorescence acquisition options. Data collection options include once per cycling step
+monitoring, fully continuous single-sample acquisition for melting curve analysis,
+continuous sampling (in which sampling frequency is dependent on sample number)
+and/or stepwise measurement of all samples after defined temperature interval.</p><p num="0057">The LightCycler™ can be operated using a PC workstation and can utilize a
+Windows NT operating system. Signals from the samples are obtained as the machine
+positions the capillaries sequentially over the optical unit. The software can display the
+fluorescence signals in real-time immediately after each measurement. Fluorescent
+acquisition time is 10-100 milliseconds (msec). After each cycling step, a quantitative
+display of fluorescence vs. cycle number can be continually updated for all samples. The
+data generated can be stored for further analysis.</p><p num="0058">As an alternative to FRET, an amplification product can be detected using a
+double-stranded DNA binding dye such as a fluorescent DNA binding dye (e.g.,
+SYBRGreenI® or SYBRGoId® (Molecular Probes)). Upon interaction with the double-stranded
+nucleic acid, such fluorescent DNA binding dyes emit a fluorescence signal
+after excitation with light at a suitable wavelength. A double-stranded DNA binding dye
+such as a nucleic acid intercalating dye also can be used. When double-stranded DNA
+binding dyes are used, a melting curve analysis is usually performed for confirmation of
+the presence of the amplification product.</p><p num="0059">As described herein, amplification products also can be detected using labeled
+hybridization probes that take advantage of FRET technology. A common format of
+FRET technology utilizes two hybridization probes. Each probe can be labeled with a
+different fluorescent moiety and are generally designed to hybridize in close proximity to
+each other in a target DNA molecule (e.g., an amplification product). A donor
+fluorescent moiety, for example, fluorescein, is excited at 470 nm by the light source of
+the LightCycler™ Instrument. During FRET, the fluorescein transfers its energy to an
+acceptor fluorescent moiety such as LightCycler™-Red 640 (LC™-Red 640) or
+LightCycler™-Red 705 (LC™-Red 705). The acceptor fluorescent moiety then emits
+light of a longer wavelength, which is detected by the optical detection system of the
+LightCycler™ instrument. Efficient FRET can only take place when the fluorescent 
+moieties are in direct local proximity and when the emission spectrum of the donor
+fluorescent moiety overlaps with the absorption spectrum of the acceptor fluorescent
+moiety. The intensity of the emitted signal can be correlated with the number of original
+target DNA molecules (e.g., the number of GBS genomes).</p><p num="0060">Another FRET format utilizes TaqMan® technology to detect the presence or
+absence of an amplification product, and hence, the presence or absence of GBS.
+TaqMan® technology utilizes one single-stranded hybridization probe labeled with two
+fluorescent moieties. When a first fluorescent moiety is excited with light of a suitable
+wavelength, the absorbed energy is transferred to a second fluorescent moiety according
+to the principles of FRET. The second fluorescent moiety is generally a quencher
+molecule. During the annealing step of the PCR reaction, the labeled hybridization probe
+binds to the target DNA <i>(i.e.,</i> the amplification product) and is degraded by the 5' to 3'
+exonuclease activity of the Taq Polymerase during the subsequent elongation phase. As a
+result, the excited fluorescent moiety and the quencher moiety become spatially separated
+from one another. As a consequence, upon excitation of the first fluorescent moiety in
+the absence of the quencher, the fluorescence emission from the first fluorescent moiety
+can be detected. By way of example, an ABI PRISM® 7700 Sequence Detection System
+(Applied Biosystems, Foster City, CA) uses TaqMan® technology, and is suitable for
+performing the methods described herein for detecting GBS. Information on PCR
+amplification and detection using an ABI PRISM® 770 system can be found at
+<u style="single">http://www.appliedbiosystems.com/products.</u></p><p num="0061">Molecular beacons in conjunction with FRET also can be used to detect the
+presence of an amplification product using the real-time PCR methods of the invention.
+Molecular beacon technology uses a hybridization probe labeled with a first fluorescent
+moiety and a second fluorescent moiety. The second fluorescent moiety is generally a
+quencher, and the fluorescent labels are typically located at each end of the probe.
+Molecular beacon technology uses a probe oligonucleotide having sequences that permit
+secondary structure formation (e.g., a hairpin). As a result of secondary structure
+formation within the probe, both fluorescent moieties are in spatial proximity when the
+probe is in solution. After hybridization to the target nucleic acids (i.e., amplification
+products), the secondary structure of the probe is disrupted and the fluorescent moieties 
+become separated from one another such that after excitation with light of a suitable
+wavelength, the emission of the first fluorescent moiety can be detected.</p><p num="0062">It is understood that the present invention is not limited by the configuration of
+one or more commercially available instruments.</p><heading><u style="single">Articles of manufacture</u></heading><p num="0063">The invention further provides for articles of manufacture to detect GBS. An
+article of manufacture according to the present invention can include primers and probes
+used to detect GBS, together with suitable packaging materials. Representative primers
+and probes for detection of GBS are capable of hybridizing to GBS <i>pts</i> nucleic acid
+molecules. Methods of designing primers and probes are disclosed herein, and
+representative examples of primers and probes that amplify and hybridize to GBS <i>pts</i>
+nucleic acid molecules are provided.</p><p num="0064">Articles of manufacture of the invention also can include one or more fluorescent
+moieties for labeling the probes or, alternatively, the probes supplied with the kit can be
+labeled. For example, an article of manufacture may include a donor fluorescent moiety
+for labeling one of the <i>pts</i> probes and an acceptor fluorescent moiety for labeling the
+other <i>pts</i> probe, respectively. Examples of suitable FRET donor fluorescent moieties and
+corresponding acceptor fluorescent moieties are provided above.</p><p num="0065">Articles of manufacture of the invention also can contain a package insert or
+package label having instructions thereon for using the <i>pts</i> primers and probes to detect
+GBS in a sample. Articles of manufacture may additionally include reagents for carrying
+out the methods disclosed herein (e.g., buffers, polymerase enzymes, co-factors, or agents
+to prevent contamination). Such reagents may be specific for one of the commercially
+available instruments described herein.</p><p num="0066">The invention will be further described in the following examples, which do not
+limit the scope of the invention described in the claims. </p><heading><b>EXAMPLES</b></heading><heading><u style="single">Example 1-LightCycler Detection of Group B Streptococcus</u></heading><p num="0067">A LightCycler assay was used to detect group B streptococcus (GBS) bacterial
+pathogens from vaginal/anal swabs. A conserved region of the phosphotransferase gene
+(pts) of GBS was used as a target for the PCR assay detection.</p><p num="0068">The primer sequences were as follows: primer 1: 5'-TGA GAA GGC AGT AGA
+AAG CTT AG-3' (SEQ ID NO:1); and primer 2: 5'-TGC ATG TAT GGG TTA TCT
+TCC-3' (SEQ ID NO:2). The probe sequences and labels were as follows: probe 1: 5'-CAA
+ATT AAA GAG ACT ATT CGT GCA A- fluorescein-3' (SEQ ID NO:3); and
+probe 2: 5'-LC-Red640 - CAA GTA AAT GCA GAA ACA GG- phosphate-3' (SEQ ID
+NO:4).</p><p num="0069">Primers were adjusted to 50 µM by measuring the A<sub>260</sub> of a 1/50 dilution (196 µl
+water + 4 µl, Dilution Factor (DF) = 50). The concentration was estimated by the
+following formula:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">(µM found/50) x µl remaining) - µl remaining = water to add</st32:df></p><p num="0070">Probes were dissolved in TE' to a concentration of 20 µM (supplied with the
+probes and resuspended according to manufacturer's instructions). The concentration of
+oligonucleotides and dye was double checked by UV absorption using the following
+equations from <i>Biochemica,</i> 1999,1:5-8:
+<img id="img-00210001" orientation="unknown" wi="95" img-format="tif" img-content="mf" file="00210001.tif" inline="no" he="28"/><tables><table><tgroup cols="5"><tbody><row><entry align="center" namest="1"/><entry nameend="4" align="center" namest="2">Absorbance</entry><entry align="center" namest="5">Emission</entry></row><row><entry align="left">Dye</entry><entry align="center">Abs max <u style="single">(nm)</u></entry><entry align="center">E<sub>dye</sub> (M<sup>-1</sup>cm<sup>-1</sup>)</entry><entry align="center">E<sub>260(dye)</sub> (M<sup>-1</sup>cm<sup>-1</sup>)</entry><entry align="center">Max (nm)</entry></row><row><entry align="left">Fluorescein</entry><entry align="center">494</entry><entry align="center">68,000</entry><entry align="center">2,000</entry><entry align="center">524</entry></row><row><entry align="left">LC Red 640</entry><entry align="center">622</entry><entry align="center">110,000</entry><entry align="center">31,000</entry><entry align="center">638</entry></row></tbody></tgroup></table></tables></p><p num="0071">Table 1 shows the PCR Reaction Mix.
+<tables><table><tgroup cols="3"><tbody><row><entry align="left">Ingredient</entry><entry align="left">Stock Concentration</entry><entry align="center">µl</entry></row><row><entry align="left">Water</entry><entry align="right"/><entry align="center">11</entry></row><row><entry align="left">MgCl<sub>2</sub></entry><entry align="center">50 mM</entry><entry align="center">1.2</entry></row><row><entry align="left">LC-FS-DNA MHP<!--footnotes removed--></entry><entry align="center">10X</entry><entry align="center">2</entry></row><row><entry align="left">Primer 1</entry><entry align="center">25 mM</entry><entry align="center">0.24</entry></row><row><entry align="left">Primer 2</entry><entry align="center">25 mM</entry><entry align="center">0.24</entry></row><row><entry align="left">Fluorescein Probe</entry><entry align="center">20 µM</entry><entry align="center">0.2</entry></row><row><entry align="left">Red640 Probe</entry><entry align="center">20 µM</entry><entry align="center">0.2</entry></row><row><entry align="left">Total Volume</entry><entry align="right"/><entry align="center">15<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0072">5 µl of the swab sample was mixed with 15 µl of the PCR Reaction Mix and
+added to the LightCycler cuvette for thermocycling. The samples were PCR amplified
+and the products were detected in a LightCycler instrument (Roche Applied Science,
+catalog 2011468). The PCR cycling procedure used is shown in Table 2.
+<tables><table><tgroup cols="6"><tbody><row><entry align="center">PCR program</entry><entry align="center">Cycles</entry><entry align="center">Hold Time (seconds)</entry><entry align="center">Temperature (°C)</entry><entry align="center">Slope (°C/sec)</entry><entry align="center">Signal acquisition</entry></row><row><entry align="left">Initial</entry><entry align="center">1</entry><entry align="center">600</entry><entry align="center">95</entry><entry align="center">20</entry><entry align="center">None</entry></row><row><entry align="left" morerows="2">PCR</entry><entry align="center">45</entry><entry align="center">10</entry><entry align="center">95</entry><entry align="center">20</entry><entry align="center">None</entry></row><row><entry align="center" namest="3">15</entry><entry align="center" namest="4">55</entry><entry align="center" namest="5">20</entry><entry align="center" namest="6">Single</entry></row><row><entry align="center" namest="3">15</entry><entry align="center" namest="4">72</entry><entry align="center" namest="5">20</entry><entry align="center" namest="6">None</entry></row><row><entry align="left" morerows="3">Melting curve analysis</entry><entry align="center">1</entry><entry align="center">0</entry><entry align="center">95</entry><entry align="center">20</entry><entry align="center">None</entry></row><row><entry align="center" namest="3">20</entry><entry align="center" namest="4">59</entry><entry align="center" namest="5">20</entry><entry align="center" namest="6">None</entry></row><row><entry align="center" namest="3">20</entry><entry align="center" namest="4">45</entry><entry align="center" namest="5">0.2</entry><entry align="center" namest="6">None</entry></row><row><entry align="center" namest="3">0</entry><entry align="center" namest="4">85</entry><entry align="center" namest="5">0.2</entry><entry align="center" namest="6">Continuous</entry></row><row><entry align="left">Cool</entry><entry align="center">1</entry><entry align="center">10</entry><entry align="center">40</entry><entry align="center">20</entry><entry align="center">None</entry></row></tbody></tgroup></table></tables></p><p num="0073">The signal detected in the 640 nm channel of the LightCycler instrument was
+analyzed. A melting curve analysis, performed after the PCR amplification, was used to
+confirm detection of GBS. GBS positive samples demonstrate a Tm of 58°C plus or
+minus 2°C, and were compared directly to the positive control. Negative samples had no
+melting curve.</p><p num="0074">Plasmid controls were produced by cloning the <i>pts</i> product amplified by the <i>pts</i>
+primers into a plasmid (TA Cloning® Kit, Invitrogen, Carlsbad, CA). The plasmid
+containing the target insert was used to determine the analytical sensitivity of the assays.
+Plasmid concentration or the copy number of the gene target insert was determined with
+the following formula:
+<sl><li>DS DNA, A<sub>260</sub> to molecules/ul
+
+   Given:
+<sl><li>1.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">(A<st32:sub pos="post">260</st32:sub> x Dilution Factor)/20 = mg/ml = µg/µl DS DNA</st32:df>
+   1 A<sub>260</sub> = 50 µg/ml
+
+   1 A<sub>260</sub> (50) = µg/ml
+
+   1 A<sub>260</sub> (50)/1000 = µg/µl</li><li>2.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">(6.02 x 10<st32:sup pos="post">23</st32:sup> molecules/mole) / (10<st32:sup pos="post">12</st32:sup> pmole/mole) = 6.02 x 10<st32:sup pos="post">11</st32:sup><st32:break type="required"/>molecules/pmole</st32:df></li><li>3. Base pairs of DNA in molecule = N</li></sl>
+   Then:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">(A<st32:sub pos="post">260</st32:sub> x DF)/20 µg/µl x 10<st32:sup pos="post">6</st32:sup> pg/µg x 1 pmol/660 pg x 1/N x 6.02 x 10<st32:sup pos="post">11</st32:sup><st32:break type="required"/>
+molecules/pmole = molecules/µl</st32:df>
+   Shortcut calculation:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">((A<st32:sub pos="post">260</st32:sub> x DF)/20) x (9.12 x 10<st32:sup pos="post">14</st32:sup>/N) = molecules/µl</st32:df></li></sl></p><heading><u style="single">Example 2-Specificity of LightCycler Assay of GBS</u></heading><p num="0075">DNA extracted from cultures of a variety of different organisms were used to
+determine if the GBS assay would cross-react with non-GBS organsims. Organisms
+similar to GBS were tested as well as organisms commonly found in a vaginal or anal 
+swab sample were tested. Table 3 shows the similar organisms tested and the results.
+Table 4 shows the other specimens tested and those results.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center" namest="1">Organism</entry><entry align="left" namest="2">Lancefield Group</entry><entry nameend="4" align="center" namest="3">Source</entry><entry align="center" namest="5">LC assay</entry></row><row><entry align="center"/><entry align="center"/><entry align="center">ATCC</entry><entry align="center">Other</entry></row><row><entry align="center"><i>S. pyogenes</i></entry><entry align="center">A</entry><entry align="center">19615</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. agalactiae</i></entry><entry align="center">B</entry><entry align="right"/><entry align="center">CAPXL36</entry><entry align="center">Pos</entry></row><row><entry align="center"><i>S. suis</i></entry><entry align="right"/><entry align="center">43765</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>L. lactis</i></entry><entry align="right"/><entry align="center">19435</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. equi</i> ss equi</entry><entry align="center">C</entry><entry align="center">33398</entry><entry align="right"/><entry align="center">Neg 51°C melt</entry></row><row><entry align="center"><i>S. uberis</i></entry><entry align="right"/><entry align="center">19436</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. canis</i></entry><entry align="center">G</entry><entry align="center">43496</entry><entry align="right"/><entry align="center">Neg 51°C melt</entry></row><row><entry align="center"><i>E. faecium</i></entry><entry align="right"/><entry align="right"/><entry align="center">CAP-D-18-83</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>S. bovis</i></entry><entry align="right"/><entry align="right"/><entry align="center">CAP-D-16-83</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>E. faecalis</i></entry><entry align="right"/><entry align="center">29212</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. dysgalactiae</i></entry><entry align="center">C</entry><entry align="center">43078</entry><entry align="right"/><entry align="center">Neg 51°C melt</entry></row><row><entry align="center"><i>S. salivarius</i></entry><entry align="right"/><entry align="center">7073</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. equinus</i></entry><entry align="right"/><entry align="center">9812</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. pneumoniae</i></entry><entry align="right"/><entry align="center">49619</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. porciuns</i></entry><entry align="right"/><entry align="center">43138</entry> <entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. iniae</i></entry><entry align="right"/><entry align="center">29178</entry> <entry align="right"/><entry align="center">Neg</entry> </row> <row><entry align="center"><i>S. anginosus</i></entry><entry align="right"/><entry align="center">33397</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center">S. MG-intermedius</entry><entry align="right"/><entry align="right"/><entry align="center">CAP-D-17-87</entry><entry align="center">Neg</entry></row><row><entry align="center">Group F strep</entry><entry align="center">F</entry><entry align="right"/><entry align="center">SCB-21-89</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>S. sanguis</i></entry><entry align="right"/><entry align="right"/><entry align="center">SCB-33-83</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>S. mitis</i></entry><entry align="right"/><entry align="center">49456</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. oralis</i></entry><entry align="right"/><entry align="center">35037</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. gordonii</i></entry><entry align="right"/><entry align="center">10558</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. mutans</i></entry><entry align="right"/><entry align="right"/><entry align="center">QC strain - Mayo</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>S. intermdius</i></entry><entry align="right"/><entry align="center">27335</entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>S. anginosus</i></entry><entry align="right"/><entry align="center">33397</entry><entry align="right"/><entry align="center">Neg</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="3"><tbody><row><entry nameend="3" align="center" namest="1">Respiratory</entry></row><row><entry align="center">Organism</entry><entry align="center">Source</entry><entry align="center">LC result</entry></row><row><entry align="center"><i>Acinetobacter bauminii</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Acinetobacter lwoffii</i></entry><entry align="center">QC Strain</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Aeromonas hydrophilia</i></entry><entry align="center">CAP-D-1-82</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Bordetella bronchioseptica</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg </entry></row><row><entry align="center"><i>Bordetella parapertussis</i></entry><entry align="center">ATCC 15311</entry><entry align="center">Neg</entry></row><row><entry align="right"/><entry align="center">CDC-AB2-C15-</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Campylobacter jejuni</i></entry><entry align="center">82</entry></row><row><entry align="center"><i>Corynebacterium (Archanobacterium)</i></entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>haemolyticum</i></entry><entry align="center">patient isolate</entry></row><row><entry align="center"><i>Corynebacterium diptheriae</i></entry><entry align="center">SCB-25-86</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Corynebacterium</i></entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>pseudodiptheriae</i></entry><entry align="center">NY-4-88</entry></row><row><entry align="center"><i>Escherichia coli</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Haemophilus influenza</i></entry><entry align="center">ATCC 49766</entry><entry align="center">Neg</entry></row><row><entry align="center">Human DNA</entry><entry align="center">MRC-5 cells</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Klebsiella oxytoca</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Klebsiella pneumoniae</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Legionella jordanis</i></entry><entry align="center">ATCC 33623</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Legionella pneumophila</i></entry><entry align="center">ATCC 33152</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Listeria monocytogenes</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Moraxella catarrhalis</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Morganella morganii</i></entry><entry align="center">CAP-D-5-79</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Mycoplasma pneumoniae</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Neiserria gonorrheae</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Neiserria meningitides</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Proteus vulgaris</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Pseudomonas cepacia</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Pseudomonas fluorescens</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Staphylococcus aureus</i></entry><entry align="center">ATCC 25923</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Staphylococcus epidermidis</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Stenotrophomonas maltophilia</i></entry><entry align="center">SOB-33-77</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Citrobacter freundii</i></entry><entry align="center">patient isolate</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Bordetella bronchioseptica</i></entry><entry align="center">ATCC 19395</entry><entry align="center">Neg</entry></row><row><entry align="center">Stool Organism</entry><entry align="center">panel source</entry><entry align="center">LC assay</entry></row><row><entry align="center"><i>Actinomyces pyogenes</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Aeromonas hydrophila</i></entry><entry align="center">CAP-D-1-82</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Bacteroides distasonis</i></entry><entry align="center">ATCC 8503</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Bacteroides fragilis</i></entry><entry align="center">ATCC 25285</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Bacteroides thetaiotaomicron</i></entry><entry align="center">ATCC 29741</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Bacteroides vulgatus</i></entry><entry align="center">ATCC 29327</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Citrobacter freundii</i></entry><entry align="center">clinical ATCC 13124,</entry><entry align="center">Neg Neg</entry></row><row><entry align="center"><i>Clostridium perfingens</i></entry><entry align="center">C1417</entry></row><row><entry align="center"><i>E. coli</i> 070:K:H42</entry><entry align="center">ATCC 23533</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Enterobacter cloacae</i></entry><entry align="center">clinical - 1004</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Enterococcus faecalis</i></entry><entry align="center">clinical V583</entry><entry align="center">Neg </entry></row><row><entry align="center"><i>Enterococcus faecium</i></entry><entry align="center">clinical B7641</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Escherichia hermanii</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Escherichia vulneris</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Eubacterium lentum</i></entry><entry align="center">ATCC 43055</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Fusobacterium nucleatum</i></entry><entry align="center">ATCC 25559</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Klebsiella pneumoniae</i></entry><entry align="center">ATCC 700603</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Proteus mirabilis</i></entry><entry align="center">QC strain</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Pseudomonas aeruginosa</i></entry><entry align="center">ATCC 27853</entry><entry align="center">Neg</entry></row><row><entry nameend="3" align="center" namest="1">Genital-Urinary panel</entry></row><row><entry align="center"/><entry align="center">Source</entry><entry align="center">LC</entry></row><row><entry align="center">Organism</entry><entry align="right"/><entry align="center">Result</entry></row><row><entry align="center"><i>Acinetobacter lwoffi</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Candida albicans</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Neisseria gonorrheae</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Corynebacterium</i></entry><entry align="right"/><entry align="center">Neg</entry></row><row><entry align="center"><i>pseudotubercuolsis</i></entry><entry align="center">ATCC 10700</entry></row><row><entry align="center"><i>Gardnerella vaginalis</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Mobiluncus curtissi</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Mycoplasma</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Neisseria lactamica</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Peptostreptococcus magnus</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Porphyromonas gingivalis</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Prevotella bivia</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row><row><entry align="center"><i>Ureoplasma</i></entry><entry align="center">clinical</entry><entry align="center">Neg</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 3―Analytical Sensitivity of the LightCycler Assay</u></heading><p num="0076">As few as 5 copies of GBS target DNA per reaction were detected by the GBS
+LightCycler assay.</p><heading><u style="single">Example 4-Clinical Sensitivity of the LightCycler Assay</u></heading><p num="0077">Prior to the LightCycler technology, the gold standard for detection of GBS was
+culture. Culture results from vaginal/anal swab specimens from women collected during
+the 35 to 37 week of pregnancy were compared to the LightCycler GBS assay. <tables><table><tgroup cols="4"><tbody><row><entry nameend="4" align="center" namest="1">Culture</entry></row><row><entry align="left"><u style="single">LC</u></entry><entry align="left">Present</entry><entry align="left">Absent</entry><entry align="left">Totals</entry></row><row><entry align="left">Positive</entry><entry align="left">37</entry><entry align="left">4</entry><entry align="left">41</entry></row><row><entry align="left">Negative</entry><entry align="left">0</entry><entry align="left">134</entry><entry align="left">134</entry></row><row><entry align="left">Totals</entry><entry align="left">37</entry><entry align="left">138</entry><entry align="left">175</entry></row></tbody></tgroup></table></tables></p><p num="0078">The results below were calculated using StatsDirect version 1.9.15 software
+(StatsDirect Ltd, Cheshire, UK) and include 95% confidence intervals (shown in
+parentheses). An explanation of the values shown below and how those values are
+calculated can be found at <u style="single">http://www.musc.edu/dc/icrebm/sensitivity.html.</u><tables><table><tgroup cols="4"><tbody><row><entry align="center" namest="1"/><entry align="center" namest="2"/><entry nameend="4" align="center" namest="3">Disease</entry></row><row><entry align="center"/><entry align="center"/><entry align="center">Present</entry><entry align="center">Absent</entry></row><row><entry align="center"><u style="single">Test</u></entry><entry align="center">+</entry><entry align="center">a (true)</entry><entry align="center">b (false)</entry></row><row><entry align="right"/><entry align="center">-</entry><entry align="center">c (false)</entry><entry align="center">d (true)</entry></row></tbody></tgroup></table></tables>
+Prevalence (percent of affected patients tested; [a+c/d]):
+
+   21.14% (15.34% to 27.95%)
+Positive predictive value (percent of patients with a positive test having the disease;
+[a/a+b]):
+
+   90.24% (76.87% to 97.28%)
+Negative predictive value (percent of patients with a negative test without the disease;
+[d/d+c]):
+
+   100% (97.28% to *%)
+Sensitivity (true positives detected per total affected patients tested; [a/a+c]):
+
+   100% (90.51% to *%)
+Specificity (true negatives per unaffected patients tested; [d/b+d]):
+
+   97.1% (92.74% to 99.2%)</p><heading><b>OTHER EMBODIMENTS</b></heading><p num="0079">It is to be understood that while the invention has been described in conjunction
+with the detailed description thereof, the foregoing description is intended to illustrate 
+and not limit the scope of the invention, which is defined by the scope of the appended
+claims. Other aspects, advantages, and modifications are within the scope of the
+following claims. <img id="img-00290001" orientation="unknown" wi="163" img-format="tif" img-content="tx" file="00290001.tif" inline="no" he="209"/><img id="img-00300001" orientation="unknown" wi="161" img-format="tif" img-content="tx" file="00300001.tif" inline="no" he="19"/></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A method for detecting the presence or absence of GBS in a biological
+sample from an individual, said method comprising:
+<claim-text><claim-text>performing at least one cycling step, wherein a cycling step comprises an
+amplifying step and a hybridizing step, wherein said amplifying step comprises
+contacting said sample with a pair of pts primers to produce a pts amplification product if
+a GBS pts nucleic acid molecule is present in said sample, wherein said hybridizing step
+comprises contacting said sample with a pair of pts probes, wherein the members of said
+pair of pts probes hybridize within no more than five nucleotides of each other, wherein a
+first pts probe of said pair of pts probes is labeled with a donor fluorescent moiety and
+said second pts probe of said pair of pts probes is labeled with a corresponding acceptor
+fluorescent moiety; and</claim-text><claim-text>detecting the presence or absence of fluorescence resonance energy
+transfer (FRET) between said donor fluorescent moiety of said first pts probe and said
+acceptor fluorescent moiety of said second pts probe,</claim-text></claim-text>
+   wherein the presence of FRET is indicative of the presence of GBS in said
+sample, and wherein the absence of FRET is indicative of the absence of GBS in said
+sample.</claim-text></claim><claim num="2"><claim-text>The method of claim 1, wherein said pair of pts primers comprises a first
+pts primer and a second pts primer, wherein said first pts primer comprises the sequence
+
+, and wherein
+said second pts primer comprises the sequence
+</claim-text></claim><claim num="3"><claim-text>The method of claim 1, wherein said first pts probe comprises the
+sequence
+
+and
+wherein said second pts probe comprises the sequence</claim-text></claim><claim num="4"><claim-text>The method of claim 1, wherein the members of said pair of pts probes
+hybridize within no more than two nucleotides of each other.</claim-text></claim><claim num="5"><claim-text>The method of claim 1, wherein the members of said pair of pts probes
+hybridize within no more than one nucleotide of each other.</claim-text></claim><claim num="6"><claim-text>The method of claim 1, wherein said donor fluorescent moiety is
+fluorescein.</claim-text></claim><claim num="7"><claim-text>The method of claim 1, wherein said corresponding acceptor fluorescent
+moiety is selected from the group consisting of LC-Red 640, LC-Red 705, Cy5, and
+Cy5.5.</claim-text></claim><claim num="8"><claim-text>The method of claim 1, wherein said detecting step comprises exciting
+said sample at a wavelength absorbed by said donor fluorescent moiety and visualizing
+and/or measuring the wavelength emitted by said acceptor fluorescent moiety.</claim-text></claim><claim num="9"><claim-text>The method of claim 1, wherein said detecting comprises quantitating said
+FRET.</claim-text></claim><claim num="10"><claim-text>The method of claim 1, wherein said detecting step is performed after each
+cycling step.</claim-text></claim><claim num="11"><claim-text>The method of claim 1, wherein said detecting step is performed in real
+time.</claim-text></claim><claim num="12"><claim-text>The method of claim 1, further comprising determining the melting
+temperature between one or both of said pts probe(s) and said pts amplification product,
+wherein said melting temperature confirms said presence or said absence of said GBS.</claim-text></claim><claim num="13"><claim-text>The method of claim 1, wherein the presence of said FRET within 45
+cycling steps is indicative of the presence of a GBS infection in said individual.</claim-text></claim><claim num="14"><claim-text>The method of claim 1, wherein the presence of said FRET within 40
+cycling steps is indicative of the presence of a GBS infection in said individual.</claim-text></claim><claim num="15"><claim-text>The method of claim 1, wherein the presence of said FRET within 30
+cycling steps is indicative of the presence of a GBS infection in said individual.</claim-text></claim><claim num="16"><claim-text>The method of claim 1, further comprising: preventing amplification of a
+contaminant nucleic acid.</claim-text></claim><claim num="17"><claim-text>The method of claim 16, wherein said preventing comprises performing
+said amplifying step in the presence of uracil.</claim-text></claim><claim num="18"><claim-text>The method of claim 17, wherein said preventing further comprises
+treating said sample with uracil-DNA glycosylase prior to a first amplifying step.</claim-text></claim><claim num="19"><claim-text>The method of claim 1, wherein said biological sample is selected from
+the group consisting of anal and/or vaginal swabs.</claim-text></claim><claim num="20"><claim-text>The method of claim 1, wherein said cycling step is performed on a
+control sample.</claim-text></claim><claim num="21"><claim-text>The method of claim 20, wherein said control sample comprises said
+portion of said GBS pts nucleic acid molecule.</claim-text></claim><claim num="22"><claim-text>The method of claim 1, wherein said cycling step uses a pair of control
+primers and a pair of control probes, wherein said control primers and said control probes
+are other than said pts primers and pts probes, wherein said amplifying step produces a
+control amplification product, wherein said control probes hybridize to said control
+amplification product.</claim-text></claim><claim num="23"><claim-text>An article of manufacture, comprising:
+<claim-text><claim-text>a pair of pts primers;</claim-text><claim-text>a pair of pts probes; and</claim-text><claim-text>a donor fluorescent moiety and a corresponding acceptor fluorescent
+moiety.</claim-text></claim-text></claim-text></claim><claim num="24"><claim-text>The article of manufacture of claim 23, wherein said pair of pts primers
+comprise a first pts primer and a second pts primer, wherein said first pts primer
+comprises the sequence
+
+and wherein
+said second pts primer comprises the sequence
+</claim-text></claim><claim num="25"><claim-text>The article of manufacture of claim 23, wherein said pair of pts probes
+comprises a first pts probe and a second pts probe, wherein said first pts probe comprises
+the sequence
+
+and
+wherein said second pts probe comprises the sequence
+</claim-text></claim><claim num="26"><claim-text>The article of manufacture of claim 25, wherein said first pts probe is
+labeled with said donor fluorescent moiety and wherein said second pts probe is labeled
+with said corresponding acceptor fluorescent moiety.</claim-text></claim><claim num="27"><claim-text>The article of manufacture of claim 23, further comprising a package
+insert having instructions thereon for using said pair of pts primers and said pair of pts
+probes to detect the presence or absence of GBS in a sample.</claim-text></claim><claim num="28"><claim-text>A method for detecting the presence or absence of GBS in a biological
+sample from an individual, said method comprising:
+<claim-text><claim-text>performing at least one cycling step, wherein a cycling step comprises an
+amplifying step and a hybridizing step, wherein said amplifying step comprises
+contacting said sample with a pair of pts primers to produce a pts amplification product if
+a GBS pts nucleic acid molecule is present in said sample, wherein said hybridizing step
+comprises contacting said sample with a pts probe, wherein the pts probe is labeled with a
+donor fluorescent moiety and a corresponding acceptor fluorescent moiety; and</claim-text><claim-text>detecting the presence or absence of fluorescence resonance energy
+transfer (FRET) between said donor fluorescent moiety and said acceptor fluorescent
+moiety of said pts probe,</claim-text></claim-text>
+   wherein the presence or absence of fluorescence is indicative of the presence or
+absence of GBS in said sample.</claim-text></claim><claim num="29"><claim-text>The method of claim 28, wherein said amplification employs a polymerase
+enzyme having 5' to 3' exonuclease activity.</claim-text></claim><claim num="30"><claim-text>The method of claim 29, wherein said first and second fluorescent
+moieties are within no more than 5 nucleotides of each other on said probe.</claim-text></claim><claim num="31"><claim-text>The method of claim 30, wherein said second fluorescent moiety is a
+quencher.</claim-text></claim><claim num="32"><claim-text>The method of claim 28, wherein said pts probe comprises a nucleic acid
+sequence that permits secondary structure formation, wherein said secondary structure
+formation results in spatial proximity between said first and second fluorescent moiety.</claim-text></claim><claim num="33"><claim-text>The method of claim 32, wherein said second fluorescent moiety is a
+quencher.</claim-text></claim><claim num="34"><claim-text>A method for detecting the presence or absence of GBS in a biological
+sample from an individual, said method comprising:
+<claim-text><claim-text>performing at least one cycling step, wherein a cycling step comprises an
+amplifying step and a dye-binding step, wherein said amplifying step comprises
+contacting said sample with a pair of pts primers to produce a pts amplification product if
+a GBS pts nucleic acid molecule is present in said sample, wherein said dye-binding step
+comprises contacting said pts amplification product with a double-stranded DNA binding
+dye; and</claim-text><claim-text>detecting the presence or absence of binding of said double-stranded DNA
+binding dye into said amplification product,</claim-text></claim-text>
+   wherein the presence of binding is indicative of the presence of GBS in said
+sample, and wherein the absence of binding is indicative of the absence of GBS in said
+sample.</claim-text></claim><claim num="35"><claim-text>The method of claim 34, wherein said double-stranded DNA binding dye
+is selected from the group consisting of SYBRGreenI®, SYBRGold® , and ethidium
+bromide.</claim-text></claim><claim num="36"><claim-text>The method of claim 34, further comprising determining the melting
+temperature between said pts amplification product and said double-stranded DNA
+binding dye, wherein said melting temperature confirms said presence or absence of said
+GBS.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

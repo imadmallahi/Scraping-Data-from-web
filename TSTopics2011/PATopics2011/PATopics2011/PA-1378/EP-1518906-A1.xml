@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1518906-A1" country="EP" doc-number="1518906" kind="A1" lang="EN" family-id="34194805" status="new" date-produced="20090516" date="20050330"><bibliographic-data><publication-reference ucid="EP-1518906-A1" status="new" fvid="24312947"><document-id status="new" format="original"><country>EP</country><doc-number>1518906</doc-number><kind>A1</kind><date>20050330</date></document-id></publication-reference><application-reference ucid="EP-04020732-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>04020732</doc-number><kind>A</kind><date>20040901</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-66895603-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>66895603</doc-number><kind>A</kind><date>20030923</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C09D   5/44        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D   5/44        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09D   5/44K2</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Verfahren zur Herstellung von Beschichtungen auf elektrisch leitfähigen Substraten mit Kathodischen Elektrotauchlacken</invention-title><invention-title load-source="ep" status="new" lang="EN">Process for producing coating on electrically conductive substrates by cathodic electrodeposition coating</invention-title><invention-title load-source="ep" status="new" lang="FR">Méthode de production de revêtements sur des substrats électroconducteurs par électrodéposition cathodique</invention-title><citations><patent-citations><patcit ucid="EP-1384760-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1384760</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit><patcit ucid="GB-2368302-A" status="new"><document-id status="new" format="epo"><country>GB</country><doc-number>2368302</doc-number><kind>A</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-20030082368-A1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>20030082368</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="US-5670441-A"  status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>5670441</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6436201-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6436201</doc-number><kind>B1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2004000955-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2004000955</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>DU PONT</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>E.I. DU PONT DE NEMOURS AND COMPANY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>E.I. DU PONT DE NEMOURS AND COMPANY</last-name><address><street>1007 Market Street</street><city>Wilmington, Delaware 19898</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>KLEIN KLAUSJOERG</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>LEHMANN HORST</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SCHIPFER RUDOLF</name><address><country>AT</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KLEIN, KLAUSJOERG</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>LEHMANN, HORST</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SCHIPFER, RUDOLF</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KLEIN, KLAUSJOERG</last-name><address><street>Richard-Strauss-Allee 33</street><city>42289 Wuppertal</city><country>DE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>LEHMANN, HORST</last-name><address><street>Graefratherstrasse 13</street><city>42329 Wuppertal</city><country>DE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SCHIPFER, RUDOLF</last-name><address><street>Ernst-Haeckelstrasse 53</street><city>8010 Graz</city><country>AT</country> </address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>DuPont Performance Coatings Biering/Blum/Kimpel</last-name> <address><street>DuPont Performance Coatings GmbH &amp;amp; Co. KG, Patent &amp;amp; licence Dep., Christbusch 25</street> <city>42285 Wuppertal</city> <country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>ES</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A process for the production of a CED (cathodic electrodeposition)
+coating with improved adhesion towards subsequent layers by cathodic
+electrodeposition of a coating layer of a CED coating composition onto an
+electrically conductive substrate and thermal curing by baking in an
+indirectly heated circulating air oven operated with a proportion of fresh air
+in the circulating air of the oven of 0 to 20 vol.%, wherein the CED coating
+composition used contains at least one water-soluble metal nitrate
+corresponding to a quantity of 1 to 10 mmol of nitrate per 100 g of resin
+solids content, wherein the metal is selected from the group consisting of
+metals of atomic numbers 20 to 83, with the exception of chromium,
+arsenic, rubidium, ruthenium, rhodium, palladium, cadmium, antimony,
+caesium, osmium, iridium, platinum, mercury, thallium and lead, and
+wherein at most 50 area-% of the CED-coated substrate surface are
+rinsed with water prior to thermal curing.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><b><u style="single">Field of the Invention</u></b></heading><p num="0001">The invention relates to a process for the production of coating
+layers on electrically conductive substrates by cathodic electrodeposition
+(CED) coating.</p><heading><b><u style="single">Background of the Invention</u></b></heading><p num="0002">CED coating is a well-known process for coating electrically
+conductive, in particular, metallic substrates, in particular, for the
+production of corrosion-protective primer layers on metallic substrates,
+such as, for example, automotive bodies.</p><p num="0003">In CED coating, the substrates are coated in a conventional CED
+coating bath (CED coating composition, CED coating agent, CED coating
+paint), and excess, inadequately adhering CED coating composition is
+then rinsed from the substrates back into the CED coating tank. To avoid
+an increase in the volume of the CED coating bath, the substrates are
+conventionally rinsed with ultrafiltrate obtained from the CED coating bath.</p><p num="0004">The ultrafiltrate is obtained by known methods and, in addition to
+water, contains, for example, low molecular constituents, neutralizing
+agents, solvents and dissolved salts from the CED coating bath.</p><p num="0005">Finally, the substrates can be rinsed with water.</p><p num="0006">After rinsing, the CED coating layers are thermally cured (cross-linked)
+by baking in large, directly or indirectly heated circulating air ovens.
+Directly heated circulating air ovens are heated by combustion of, for
+example, natural gas, the combustion waste gases entering the circulating
+air of the oven. In circulating air ovens indirectly heated by means of heat
+exchangers, no combustion waste gases enter the circulating air of the
+oven.</p><p num="0007">It has been observed in industrial practice that the adhesion of
+subsequent coating layers, in particular underbody sealant layers, applied 
+onto baked CED coating layers is often inadequate if the CED precoating
+has been baked in indirectly heated circulating air ovens.</p><p num="0008">WO 01/40550 solves the problem of inadequate adhesion of
+subsequent coating layers by a process for the production of an
+electrodeposition coating layer with improved adhesion towards
+subsequent coating layers by electrodeposition of a coating layer of an
+electrodeposition coating composition onto an electrically conductive
+substrate and baking, wherein the electrodeposition coating composition
+used contains one or more water-insoluble organic nitrites and/or nitrates
+and baking proceeds in an indirectly heated circulating air oven.</p><p num="0009">Metal compounds, for example, specific metal salts, are used in
+CED coating compositions, in particular, as cross-linking catalysts and/or
+anti-corrosion additives. In particular, lead compounds, such as lead
+silicate, often also in combination with tin compounds, such as dibutyl tin
+oxide, have been used. More recently, lead-free CED coating
+compositions have become known. CED coating compositions containing
+bismuth compounds have acquired particular significance, as described,
+for example, in US 5,936,013, US 5,554,700, US 5,908,912, US
+6,174,422, US 5,670,441, WO 96/10057, US 5,972,189, WO 00/50522,
+US 6,265,079, EP 1 041 125, WO 00/47642, WO 01/51570, US 5,702,581
+and US 5,330,839.</p><p num="0010">Surprisingly, the solution to the problem disclosed in WO 01/40550
+can equally well be achieved if, instead of the water-insoluble organic
+nitrites and/or nitrates disclosed therein, certain water-soluble metal
+nitrates are used as an additive in CED coating compositions and if a
+minimum proportion of the area of the substrate surface coated with a
+CED coating layer from the CED coating compositions is not rinsed with
+water prior to thermal curing.</p><p num="0011">Nitrate in anionic form cannot be deposited on the cathode; it is in
+particular also consequently surprising that the same effect as described
+in WO 01/40550 can be achieved.</p><p num="0012">Advantages are achieved not only in terms of the simpler handling
+of water-soluble metal nitrates in comparison with the handling of the
+water-insoluble organic nitrites and/or nitrates, but also in that a metal
+required as a formulation constituent can also be introduced into the CED 
+coating composition by means of a single chemical compound, namely, a
+metal nitrate.</p><heading><b><u style="single">Summary of the Invention</u></b></heading><p num="0013">The present invention provides a process for the production of a
+CED coating with improved adhesion towards subsequent layers by
+cathodic electrodeposition of a coating layer of a CED coating composition
+onto an electrically conductive substrate and thermal curing by baking in
+an indirectly heated circulating air oven operated with a proportion of fresh
+air in the circulating air of the oven of 0 to 20 vol.%, wherein the CED
+coating composition used contains at least one water-soluble metal nitrate
+corresponding to a quantity of 1 to 10 mmol of nitrate per 100 g of resin
+solids content, wherein the metal is selected from metals having atomic
+numbers 20 to 83, with the exception of chromium, arsenic, rubidium,
+ruthenium, rhodium, palladium, cadmium, antimony, caesium, osmium,
+iridium, platinum, mercury, thallium and lead, and wherein at most 50
+area-% of the CED-coated substrate surface is rinsed with water prior to
+thermal curing.</p><p num="0014">The present invention also provides a process in which a
+subsequent layer, in particular a conventional underbody sealant layer, is
+applied onto the thermally cured CED coating layer produced according to
+the invention.</p><heading><b><u style="single">Detailed Description of the Embodiments</u></b></heading><p num="0015">The CED coating compositions according to the invention comprise
+known aqueous cathodically depositable electrodeposition coating agents.
+The CED coating compositions are aqueous coating compositions with a
+solids content of, for example, 10 to 30 wt.%. The solids content, in
+addition to the metal nitrate(s), consists of the resin solids content,
+optionally present pigments and/or fillers and further non-volatile additives.
+The resin solids are composed of conventional self- or externally cross-linking
+CED binder(s) having cationic substituents or substituents which
+can be converted to cationic groups; optionally, present are cross-linking
+agent(s) and optionally, present are other resin(s) contained in the CED
+coating agent, such as, paste resin(s). The cationic groups may be
+cationic groups or basic groups which can be converted to cationic groups, 
+e.g., amino, ammonium, quaternary ammonium, phosphonium and/or
+sulfonium groups. Binders having basic groups are preferred. Nitrogen-containing
+basic groups, such as, amino groups are particularly preferred.
+These groups may be present in the quaternized form or they are
+converted to cationic groups with a conventional neutralizing agent, such
+as, amidosulfuric acid or methanesulfonic acid, lactic acid, formic acid,
+acetic acid.</p><p num="0016">The cationic or basic binders may be resins containing, for
+example, primary, secondary and/or tertiary amino groups, the amine
+values of which are, e.g., 20 to 250 mg KOH/g. The weight-average
+molecular mass (Mw) of the CED binders is preferably 300 to 10,000.
+There are no restrictions on the CED binders that can be used. The
+various CED binders or CED binder/cross-linking agent combinations
+known, for example, from the extensive patent literature may be used.
+Examples of such CED binders include amino(meth)acrylate resins, amino
+epoxy resins, amino epoxy resins with terminal double bonds, amino
+epoxy resins with primary OH groups, amino polyurethane resins, amino
+group-containing polybutadiene resins or modified epoxy resin/carbon
+dioxide/amine reaction products. As self-crosslinking or externally cross-linking
+binders, these CED binders have functional groups capable of
+crosslinking, in particular hydroxyl groups, for example, corresponding to a
+hydroxyl number of 30 to 300 mg KOH/g, preferably 50 to 250 mg KOH/g.</p><p num="0017">These binders may be self-crosslinking or they may be used in
+combination with cross-linking agents known to the skilled person.
+Examples of such cross-linking agents include aminoplast resins, blocked
+polyisocyanates, cross-linking agents with terminal double bonds,
+polyepoxide compounds, cross-linking agents with cyclic carbonate groups
+or cross-linking agents that contain groups capable of transesterification
+and/or transamidization. Preferred systems are those which self-crosslink
+or externally crosslink by reaction of groups comprising active hydrogen
+with blocked isocyanate groups, in particular those which crosslink by
+reaction of hydroxyl and/or primary and/or secondary amino groups with
+blocked isocyanate groups to form urethane and/or urea groups.</p><p num="0018">The CED binders may be converted to CED binder dispersions and
+used as such for the preparation of CED coating agents. The preparation
+of CED binder dispersions is known to the skilled person. For example,
+CED binder dispersions may be prepared by converting CED binders to an 
+aqueous dispersion by neutralization with acid and dilution with water.
+The CED binders may also be present in mixture with cross-linking agents
+and converted together with these to an aqueous CED binder dispersion.
+If present, organic solvent(s) may be removed to the desired content
+before or after conversion to the aqueous dispersion, for example, by
+vacuum distillation.</p><p num="0019">The CED coating compositions used according to the invention
+contain at least one metal nitrate amounting to a proportion of 1 to 10
+mmol, preferably 2 to 6 mmol, of nitrate per 100 g of resin solids content of
+the CED coating composition.</p><p num="0020">The metal nitrates are selected from among the water-soluble
+nitrates of metals from the group consisting of metals of atomic numbers
+20 to 83, wherein chromium, arsenic, rubidium, ruthenium, rhodium,
+palladium, cadmium, antimony, caesium, osmium, iridium, platinum,
+mercury, thallium and lead are excepted. The term "metal nitrate" used in
+the present description and in the claims should not be understood
+exclusively to denote a simple metal nitrate salt comprising metal cations
+and nitrate anions, but also includes compounds such as, for example,
+metal oxynitrates or nitrate compounds with counter-cations containing the
+relevant metal. Preferred nitrates are those of titanium, vanadium, iron,
+zinc, yttrium, zirconium, tin, cerium, neodymium or bismuth, in particular of
+yttrium, neodymium or bismuth, especially of bismuth. Examples of
+bismuth nitrates are Bi(NO<sub>3</sub>)<sub>3</sub> and Bi<sub>5</sub>O(OH)<sub>9</sub>(NO<sub>3</sub>)<sub>4</sub>.</p><p num="0021">As described in greater detail below, the metal nitrates may be
+added to the CED coating compositions in various manners, for example,
+from the outset during production of the CED coating compositions or
+subsequently, for example, immediately before or during use for cathodic
+electrodeposition coating.</p><p num="0022">It may be expedient if, in addition to the metal nitrate(s), the CED
+coating compositions also contain one or more further metal compounds
+other than the metal nitrate(s), for example, as additives serving to
+catalyse cross-linking and/or to provide corrosion protection. In such
+metal compounds, the metals are present in an oxidation number of +2 or
+above and not as a constituent of anions. The further metal compounds
+other than the metal nitrates are preferably not lead compounds or
+compounds of other toxic metals such as, for example, chromium,
+arsenic, cadmium, antimony, mercury or thallium. </p><p num="0023">In the event that the CED coating compositions contain one or more
+further metal compounds other than the metal nitrate(s), they may
+comprise compounds of the same metal(s) present in the metal nitrate(s)
+or compounds of metals differing there-from. Preferred examples are
+compounds of vanadium, iron, zinc, yttrium, zirconium, tin, cerium,
+neodymium or bismuth, in particular of yttrium, neodymium or bismuth,
+especially of bismuth.</p><p num="0024">In particular, the further metal compounds other than the metal
+nitrate(s) may, for example, comprise corresponding metal complex
+compounds, for example, metal chelate complexes or preferably
+corresponding metal salts of an inorganic or organic acid, wherein the
+term "metal salt" includes not only salts consisting of appropriate doubly or
+multiply positively charged metal cations and acid anions, but also, for
+example, salts consisting of cations containing the metal and acid anions,
+and metalloxy salts. Examples of inorganic or organic acids from which
+the metal salts can be derived are inorganic or organic sulphonic acids,
+carboxylic acids, for example, formic acid or acetic acid, amino carboxylic
+acids and hydroxy carboxylic acids, such as lactic acid or
+dimethylolpropionic acid.</p><p num="0025">Preferred metal compounds are acetic acid salts, formic acid salts
+and hydrocarbyl sulphonic acid salts, such as alkylsulphonic acid salts of
+yttrium or neodymium and, in particular, acetic acid salts, methoxy acetic
+acid salts, aminocarboxylic acid salts or especially hydroxycarboxylic acid
+salts and sulphonic acid salts of bismuth. Preferred examples of the last
+bismuth salts are aliphatic hydroxycarboxylic acid salts of bismuth, such
+as lactic acid salts or dimethylolpropionic acid salts of bismuth, for
+example, bismuth lactate or bismuth dimethylolpropionate; amidosulphonic
+acid salts of bismuth; hydrocarbylsulphonic acid salts of bismuth, in
+particular alkyl sulphonic acid salts, especially methane sulphonic acid
+salts of bismuth, for example, bismuth methane sulphonate.</p><p num="0026">The total metal content arising from the contributions from metal
+nitrate and further metal compounds other than metal nitrate amounts, for
+example, to 0.1 to 2 wt.%, wherein the sum of the contributions calculated
+as metal is in each case relative to the resin solids content of the CED
+coating composition.</p><p num="0027">In addition to the binder(s), optionally present cross-linking
+agent(s), the metal nitrate(s) and water, the CED coating agents may also 
+contain pigments, fillers, organic solvents and/or conventional coating
+additives.</p><p num="0028">Examples of pigments and fillers include the conventional inorganic
+and/or organic colored pigments and/or special-effect pigments and/or
+fillers such as, e.g., titanium dioxide, iron oxide pigments, carbon black,
+phthalocyanine pigments, quinacridone pigments, metallic pigments,
+interference pigments, kaolin, talc, silica. The pigment plus filler/resin
+solids weight ratio of the CED coating agents is, for example, from 0 : 1 to
+0.8 : 1, and for pigmented coating agents it is preferably from 0.05 : 1 to
+0.4 : 1.</p><p num="0029">Examples of organic solvents which may be used in the ready-to-apply
+CED coating bath in amounts of, for example, up to 5 wt.% include
+polar aprotic water-miscible solvents such as, N-methylpyrrolidone,
+dimethyl sulfoxide, dimethyl formamide, sulfolane; alcohols, such as,
+cyclohexanol, 2-ethylhexanol, butanol; glycol ethers, such as,
+methoxypropanol, ethoxypropanol, butoxyethanol, diethylene glycol diethyl
+ether; ketones, such as, methyl isobutyl ketone, methyl ethyl ketone,
+cyclohexanone; hydrocarbons.</p><p num="0030">Examples of conventional coating additives which may be used in
+the CED coating agents in amounts of, for example, up to 5 wt.%, based
+on the resin solids, include wetting agents, neutralizing agents, anti-crater
+agents, leveling agents, antifoaming agents, light stabilizers and
+antioxidants.</p><p num="0031">The CED coating compositions may be prepared in accordance
+with known processes for the production of CED coating baths, i.e. in
+principle both by means of the single-component method and by means of
+the two-component method.</p><p num="0032">The CED coating compositions may, for example, be produced in
+such a manner that the metal nitrate(s) is (are) mixed as such or as an
+aqueous solution with the other constituents of the CED coating
+compositions. The metal nitrate(s) may here be added to the CED coating
+compositions in various manners, for example, from the outset during
+production of the CED coating compositions or subsequently.</p><p num="0033">When producing the CED coating compositions by the single-component
+method it is, for example, possible to proceed by dispersing
+pigments and/or extenders in a proportion of the binder and/or cross-linking 
+agent and then performing grinding in a suitable unit, for example,
+a bead mill, whereupon final formulation proceeds by mixing with the
+outstanding proportion of binder and/or cross-linking agent. The material
+obtained in this manner may then (unless already performed, after addition
+of neutralizing agent) be converted into the virtually ready CED coating
+composition by dilution with water, to which metal nitrate is yet to be
+added, in particular in the form of an aqueous solution.</p><p num="0034">When producing the CED coating compositions by the two-component
+method it is, for example, also possible to proceed by
+converting the cationic binders present in non-aqueous phase into the
+aqueous phase by dilution with water. Metal nitrate, in particular in the
+form of an aqueous solution, may then be added to the aqueous phase.
+The CED binder dispersion obtained in this manner may then be
+converted into a pigmented CED coating composition by mixing with a
+separate pigment paste. Alternatively, when using the two-component
+method, it is also possible to proceed by adding an aqueous pigment
+paste containing metal nitrate to a CED binder dispersion.</p><p num="0035">The metal nitrate(s) may also be added to the CED coating
+compositions separately, in particular in the form of an aqueous solution.
+It is, for example, also possible to carry out the separate addition
+subsequently to ready-to-apply CED coating baths.</p><p num="0036">According to the invention, CED coating layers are produced, for
+example to a dry film thickness of 10 to 30 µm, on electrically conductive,
+in particular, metallic substrates such as, for example, automotive bodies,
+from the CED coating compositions containing the metal nitrate(s).</p><p num="0037">After cathodic electrodeposition, the CED-coated substrate surface
+is rinsed generally at least in the area visible to the observer with
+ultrafiltrate obtained from the CED coating bath in a conventional manner
+known to the person skilled in the art in order to remove excess, not firmly
+adhering CED coating composition. This may proceed in the conventional
+manner by the dip and/or spray rinsing process, wherein the removed
+CED coating composition is returned to the CED coating tank in the
+conventional manner. Rinsing may then be performed with water,
+wherein, however, only at most 50 area-% of the CED-coated surface may
+be rinsed with water. Rinsing with water may here proceed on the CED-coated
+surface which has already been rinsed with ultrafiltrate and/or has
+not been rinsed. Complying with the limitation of rinsing with water to at 
+most 50 area-% of the CED-coated surface is no problem in particular with
+three-dimensional substrates of a complicated geometry, such as, for
+example, automotive bodies, since internal surfaces, such as, for example,
+of cavities or surfaces located on the underside of the substrate, for
+example, of the automotive underbody, are not reached by the water used
+to spray down (shower down) the surfaces visible to the observer. In the
+case of automotive bodies, a sufficiently large proportion of the area can
+be excluded from rinsing with water simply on this basis.</p><p num="0038">After rinsing, the CED coating layer is thermally cross-linked by
+baking in indirectly heated circulating air ovens at object temperatures of,
+for example, 150 to 190°C. The phrase "indirectly heated circulating air
+ovens" means those circulating air ovens in which no combustion waste
+gases enter the circulating air of the oven and which are operated with no
+or only a small proportion of fresh air, as is the case for indirectly heated
+circulating air ovens operated in industrial practice. The proportion by
+volume of fresh air, relative to the circulated volume of air per unit time, is
+0 to 20%, preferably no more than 10%. In the process according to the
+invention, there preferably prevails during baking, a ratio of oven volume
+to CED coating area to be baked of up to 2, for example of 0.2 to 2 cubic
+meters per square meter. The dimensions can be clarified by an example
+from automotive OEM coating: for example in an industrially operated
+circulating air oven with a volume of 1000 cubic meters, there are
+simultaneously present 25 vehicle bodies each comprising 80 square
+meters of CED coating layer to be baked, the circulating air throughput is
+150,000 cubic meters per hour at a throughput of exhaust and fresh air of
+12,000 cubic meters per hour in each case. In order to simulate the
+baking process in an industrially operated, indirectly heated circulating air
+oven, it is possible to use a laboratory circulating air oven, the fresh air
+proportion of which can be limited to up to 20%, preferably to below 10%
+and in which a ratio of 0.2 to 2 cubic meters of oven volume per square
+meter of CED coating layer to be baked is preferably maintained.</p><p num="0039">The process according to the invention is in particular suitable for
+the automotive sector, for example, for the production of a corrosion-protective
+CED primer layer on automotive bodies or body parts, which are
+then provided with further coating layers, in particular for example
+underbody sealant layers. </p><p num="0040">The underbody sealant layers conventional in automotive coating
+can be applied. These are, for example, coating compositions based on
+polyvinyl chloride (PVC) plastisols. These are in particular applied onto
+the areas of automotive underbodies which are at risk of stone impact.
+Thick layers, for example of 0.5 to 3 mm, are generally applied.</p><p num="0041">Without providing a binding explanation, the theoretical assumption
+is that, at the air temperatures prevailing during baking of, for example,
+180 to 220°C, any nitrate remaining on areas of the surface which have
+not been rinsed or have been rinsed only with ultrafiltrate but not with
+water decomposes to eliminate nitrogen oxides, hereinafter designated
+NO<sub>x</sub>, and the NO<sub>x</sub> released into the circulating air of the oven brings about
+improved or adequate adhesion of subsequently applied coating layers.</p><p num="0042">The process according to the invention ensures good adhesion of
+subsequent coating layers, such as in particular underbody sealant layers,
+applied onto CED coating layers baked in indirectly heated circulating air
+ovens.</p><p num="0043">The following examples illustrate the invention. All parts and
+percentages are on a weight basis unless otherwise indicated.</p><heading><b><u style="single">EXAMPLES</u></b></heading><heading><u style="single">Example 1</u> (Production of bismuth lactate):</heading><p num="0044">901 parts by weight of 70 % by weight aqueous lactic acid were
+introduced and heated to 70°C. 466 parts bismuth oxide (Bi<sub>2</sub>O<sub>3</sub>) were
+added batchwise while stirring. After stirring for an additional 6 hours at
+70°C the mixture was cooled to about 20°C and left for 12 hours without
+stirring. Finally, the precipitate was filtered off, washed with a little water
+and ethanol and dried at a temperature of 40 to 60°C.</p><heading><u style="single">Example 2</u> (Preparation of a CED dispersion)</heading><p num="0045"><sl><li>a) 832 parts of the monocarbonate of an epoxy resin based on
+bisphenol A (commercial product Epikote® 828) were mixed with 830
+parts of a commercial polycaprolactone polyol (commercial product CAPA
+205) and 712 parts of diglycol dimethylether and reacted at 70°C to 140°C
+with 0.3% BF<sub>3</sub>-etherate as catalyst until an epoxy value of 0 was obtained.
+In the presence of 0.3% Zn acetyl acetonate as catalyst, 307 parts of a 
+reaction product of 174 parts of toluene diisocyanate and 137 parts of
+2-ethyl hexanol were added to this product at 40°C to 80°C with the
+addition of 0.3% benzyl trimethylammonium hydroxide. The reaction was
+continued until an NCO (isocyanate) value of about 0 was obtained and
+the mixture then adjusted to a solids content of 70 wt.% with diglycol
+dimethyl ether.</li><li>b) 618 parts of a reaction product of 348 parts of toluene
+diisocyanate and 274 parts of 2-ethyl hexanol were added slowly to 1759
+parts of a biscarbonate of an epoxy resin based on bisphenol A
+(commercial product Epikote® 1001) at 60°C to 80°C with the addition of
+0.3% benzyl trimethylammonium hydroxide. The reaction was continued
+to an NCO value of about 0.</li><li>c) At a temperature of 20°C to 40°C, 622 parts of the reaction
+product of 137 parts of 2-ethylhexanol with 174 parts of toluene
+diisocyanate with benzyltrimethylammonium hydroxide catalysis (0.3%)
+were added to 860 parts of bishexamethylene triamine dissolved in 2315
+parts of methoxy propanol and the reaction was continued until an NCO
+content of about 0 was obtained. Then 4737 parts of the reaction product
+b) and 3246 parts of the reaction product a) (in each case 70% in diglycol
+dimethyl ether) were added and reacted at 60°C to 90°C. The reaction
+was ended at an amine value of about 32 mg KOH/g. The product
+obtained was distilled under vacuum to a solids content of about 85%.</li><li>d1) Neutralization was carried out with 30 mmole of formic acid/100
+g of resin. The mixture was then heated to 70°C and bismuth lactate (from
+Example 1) was added in portions, with stirring, over a period of two
+hours, in an amount such that 0.7 wt.% of bismuth, based on resin solids
+content, were present in the mix. Stirring was then continued for another 6
+hours at 60°C. After cooling, the mixture was converted with deionized
+water to a dispersion with a solids content of 40 wt.%.</li></sl></p><heading><u style="single">Example 3</u> (production of a pigment paste)</heading><p num="0046">15 parts of acetic acid (50%), 30 parts of a conventional
+commercial wetting agent (50%), 100 parts of a 5 wt.% aqueous solution
+of Bi(NO<sub>3</sub>)<sub>3</sub> and 250 parts of deionized water were added in a stirrer
+running at high speed to 223 parts of the paste resin according to EP-A-0
+469 497 A1, Example 1 (55 wt.%). 12.3 parts of carbon black and 430 
+parts of titanium dioxide were added thereto. A solids content of 53 wt.%
+was established with deionized water and the mixture was ground in a
+bead mill. A stable pigment paste was obtained.</p><heading><u style="single">Example 4</u> (production of a pigment paste)</heading><p num="0047">Example 3 was repeated, but, instead of the 100 parts of the
+aqueous solution of Bi(NO<sub>3</sub>)<sub>3</sub>, 100 parts of an aqueous solution of bismuth
+lactate with the same bismuth content were used.</p><heading><u style="single">Example 5a</u> (production of a CED coating, according to the invention)</heading><p num="0048">A CED coating bath with a solids content of 20 wt.% and a
+pigment/binder ratio by weight of 0.5:1 was produced in the conventional
+manner by mixing the CED dispersion from Example 2, deionized water
+and adding the pigment paste from Example 3 with thorough stirring. The
+CED coating bath contained 1 wt.% of bismuth, relative to resin solids
+content, and 4.3 mmol of nitrate per 100 g of resin solids content.</p><p num="0049">Once the CED coating bath had been adjusted with formic acid to
+an acid content of 35 milliequivalents/100 g of solids content, 10 panels
+(10 cm x 20 cm in size) of conventional, phosphated bodywork steel were
+each coated therewith to a dry film thickness of 20 µm by cathodic
+electrodeposition, the panels were rinsed on both sides with ultrafiltrate
+obtained from the CED coating bath in order to remove excess, not firmly
+adhering CED coating bath material and were baked for 30 minutes at
+160°C (object temperature) in an electrically heated laboratory circulating
+air oven with a volume of 0.5 cubic meters (air temperature 220°C, fresh
+air proportion limited to less than 8%).</p><heading><u style="single">Example 5b</u> (production of a CED coating, according to the invention)</heading><p num="0050">Example 5a was repeated, with the exception that one side of the
+sheet was additionally rinsed with water before baking.</p><heading><u style="single">Example 5c</u> (production of a CED coating, comparison)</heading><p num="0051">Example 5a was repeated, with the exception that both sides were
+additionally rinsed with water before baking. </p><heading><u style="single">Example 6</u> (production of a CED coating, comparison)</heading><p num="0052">Example 5a was repeated, with the exception that the pigment
+paste from Example 4 was used instead of the pigment paste from
+Example 3. The CED coating bath contained 1 wt.% bismuth, relative to
+resin solids content.</p><heading><u style="single">Example 7</u> (production of a CED coating, comparison)</heading><p num="0053">Example 5a was repeated, with the exception that the laboratory
+circulating air oven was operated with the fresh air supply at maximum.</p><p num="0054">The CED-coated sheets obtained in Examples 5-7 were knife
+coated with a conventional commercial, PVC plastisol-based underbody
+sealant to a film thickness of 2 mm and baked for 20 minutes at 140°C
+(object temperature) in order to gel the plastisol. Parallel scores at a
+spacing of 1.5 cm were made in the gelled plastisol layer. Using a knife,
+the gelled plastisol was carefully detached from the CED coating layer at
+the edge between two scores in order to create a tab to grip. The attempt
+was then made to pull the plastisol layer off manually. Adhesion was
+adequate only in Examples 5a and 5b, both according to the invention. In
+Comparative Examples 5c (100 area-% of the CED-coating layer rinsed
+with water prior to thermal curing), 6 (CED coating bath containing no
+nitrate) and 7 (huge proportion of fresh air in the circulating air of the
+oven), the gelled plastisol layer could be pulled off the CED-coated
+substrate.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A process for the production of a CED (cathodic electrodeposition)
+coating with improved adhesion towards subsequent layers comprising the
+steps of
+<claim-text><claim-text>a) cathodic electrodepositing a coating layer of a CED coating
+composition onto an electrically conductive substrate and</claim-text><claim-text>b) thermal curing by baking in an indirectly heated circulating
+air oven operated with a proportion of fresh air in the circulating air of
+the oven of 0 to 20 vol.%,</claim-text></claim-text>
+wherein the CED coating composition used contains at least one water-soluble
+metal nitrate corresponding to a quantity of 1 to 10 mmol of nitrate
+per 100 g of resin solids content, wherein the metal is selected from the
+group consisting of metals of atomic numbers 20 to 83, with the exception
+of chromium, arsenic, rubidium, ruthenium, rhodium, palladium, cadmium,
+antimony, caesium, osmium, iridium, platinum, mercury, thallium and lead,
+and wherein at most 50 area-% of the CED-coated substrate surface are
+rinsed with water prior to thermal curing.</claim-text></claim><claim num="2"><claim-text>The process of claim 1, wherein the metal nitrate is present in a
+proportion of 2 to 6 mmol of nitrate per 100 g of resin solids content of the
+CED coating composition.</claim-text></claim><claim num="3"><claim-text>The process of claim 1 or 2, wherein the at least one metal nitrate is
+selected from the group consisting of the nitrates of titanium, vanadium,
+iron, zinc, yttrium, zirconium, tin, cerium, neodymium and bismuth.</claim-text></claim><claim num="4"><claim-text>The process of any one of the preceding claims, wherein, in
+addition to the at least one metal nitrate, the CED coating compositions
+contain at least one further metal compound other than the at least one
+metal nitrate, wherein the metals are present in these metal compounds
+with an oxidation number of +2 or above and not as a constituent of
+anions.</claim-text></claim><claim num="5"><claim-text>The process of claim 4, wherein the at least one further metal
+compound comprises a compound selected from the group consisting of
+compounds of vanadium, iron, zinc, yttrium, zirconium, tin, cerium,
+neodymium or bismuth.</claim-text></claim><claim num="6"><claim-text>The process of claim 4 or 5, wherein the total metal content arising
+from the contributions from metal nitrate and the at least one further metal
+compound amounts to 0.1 to 2 wt.% and wherein the sum of the
+contributions calculated as metal is in each case relative to the resin solids
+content of the CED coating composition.</claim-text></claim><claim num="7"><claim-text>The process of any one of the preceding claims, wherein the
+substrates comprise automotive bodies or automotive body parts.</claim-text></claim><claim num="8"><claim-text>The process of any one of the preceding claims, wherein the CED-coated
+substrate surface is rinsed at least in the area visible to the
+observer with ultrafiltrate obtained from the CED coating bath.</claim-text></claim><claim num="9"><claim-text>The process of claim 8, wherein, after rinsing with ultrafiltrate,
+rinsing is performed with water.</claim-text></claim><claim num="10"><claim-text>The process of any one of the preceding claims, wherein at least
+one further coating layer is applied onto the baked CED coating layer.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

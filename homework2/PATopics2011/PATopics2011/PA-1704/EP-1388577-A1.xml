@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1388577-A1" country="EP" doc-number="1388577" kind="A1" lang="EN" family-id="30443679" status="new" date-produced="20090516" date="20040211"><bibliographic-data><publication-reference ucid="EP-1388577-A1" status="new" fvid="23955917"><document-id status="new" format="original"><country>EP</country><doc-number>1388577</doc-number><kind>A1</kind><date>20040211</date></document-id></publication-reference><application-reference ucid="EP-03254523-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03254523</doc-number><kind>A</kind><date>20030718</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-20899602-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>20899602</doc-number><kind>A</kind><date>20020730</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/01        20060101AFI20060310RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/01        20060101CFI20060310RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101CLI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09D  11/00C</classification-symbol><classification-symbol scheme="EC">C09D  11/00C8</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Tintenstrahltinte auf Farbstoffbasis</invention-title><invention-title load-source="ep" status="new" lang="EN">Dyebased inkjet ink</invention-title><invention-title load-source="ep" status="new" lang="FR">Encre pour impression par jet d'encre à base de colorant</invention-title><citations><patent-citations><patcit ucid="EP-0745651-A1" status="new"><document-id status="new"  format="epo"><country>EP</country><doc-number>0745651</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0801118-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0801118</doc-number><kind>A2</kind></document-id><sources><source category="A"  name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="EP-0953616-A2"  status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0953616</doc-number><kind>A2</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5976231-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5976231</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><last-name>HEWLETT PACKARD CO</last-name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><last-name>HEWLETT-PACKARD COMPANY</last-name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Hewlett-Packard Company</last-name><address><street>3000 Hanover Street</street><city>Palo Alto, CA 94303</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><last-name>LAUW HIANG P</last-name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><last-name>MOFFATT JOHN R</last-name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><last-name>LAUW, HIANG P.</last-name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><last-name>MOFFATT, JOHN R.</last-name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>LAUW, HIANG P.</last-name><address><street>5986 NW Burgundy Drive</street><city>Corvallis, OR 97330</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MOFFATT, JOHN R.</last-name><address><street>2675 NE Lancaster 123</street><city>Corvallis, OR 97330</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Tollett, Ian</last-name><address><street>WILLIAMS POWELL Morley House 26-30 Holborn Viaduct</street><city>London EC1A 2BP</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country><country>IT</country><country>NL</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The inks provide excellent ink-jet prints having excellent imaging onto the
+media with sharp, smooth edge text print and overall print quality improvements. The
+aqueous inks each comprise an anionic colorant (CMYK), a short chain alcohol or diol
+and a cationic surfactant.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention generally relates to an ink-jet ink, and in particular to a specific
+ink formulation for improved print quality on plain paper of a dye based ink, specifically
+with regard to edge raggedness/edge acuity.</p><p num="0002">Ink-jet printing is a non-impact printing process in which droplets of ink are deposited
+on a print medium in a particular order to form alphanumeric characters, area-fills, and
+other patterns thereon. Low cost and high quality of the hardcopy output, combined with
+relatively noise-free operation, have made ink-jet printers a popular alternative to other
+types of printers used with computers. Notwithstanding their recent success, intensive
+research and development efforts continue toward improving ink-jet print quality. A
+surge in interest in ink-jet printing especially in the area of photographic printing has
+resulted in the need to produce high quality prints at a reasonable cost. The challenge
+remains to further improve the print quality of ink-jet prints. The emerging use of ink-jet
+prints for digital photos, requires high-resolution images that have accurate color, are
+durable, and do not show banding of colors. By this invention, it has been found that the
+addition of black increases the detail in the dark areas of images; therefore, for best
+results a black ink is needed.</p><p num="0003">For text quality on plain paper, pigmented blacks are preferred because dye
+based inks have a tendency to wick along the paper fibers which reduces the sharpness
+of the edges However, pigmented blacks and dye-based colors do not combine for good
+image quality on photo media. Improving edge sharpness/text quality of dye based black
+inks would enable one black for both plain paper text and imaging on photo media.</p><p num="0004">This invention also concerns a method to improve the edge sharpness of dye
+based black inks on plain paper using cationic surfactants. </p> <p num="0005">Color ink-jet printers, such as a DesignJet®printer available from Hewlett-Packard
+Company, typically use three inks of differing hues: magenta, yellow, and
+cyan, and optionally black. The particular set of colorants, e.g., dyes, used to make
+the inks is called a "primary dye set." A spectrum of colors, e.g., secondary colors,
+can be generated using different combinations of the primary dye set.</p><p num="0006">In general, a successful ink set for color ink-jet printing must be compatible
+with the ink-jet pen and the printing system. Some of the required properties for the
+ink-jet ink include: good stability of the ink solution, the proper viscosity, the proper
+surface tension, no deleterious reaction with the printhead components, high solubility
+of the dyes in the vehicle, consumer safety and high color saturation. Another highly
+desirable performance of the inks is text with sharply defined characters, with minimal
+wicking, on photo as well as plain paper.</p><p num="0007">Inks are known which possess one or more of the foregoing properties.
+However, few inks are known that possess all the foregoing properties, since an
+improvement in one property often results in the degradation of another property. Thus,
+many inks used commercially represent a compromise in an attempt to achieve an ink
+evidencing at least an adequate response in each of the foregoing considerations. For
+example, inks are known which can obtain the color gamut comparable to silver halide
+prints, but, without software manipulation, cannot obtain the sharp, smooth edge
+appearance needed for crisp, un-blurred text printing. Accordingly, investigations
+continue into developing ink formulations which have improved properties and which
+do not improve one property at the expense of the others. Thus, there remains a need in
+the art to further improve the print quality and stability properties of the ink-jet prints
+without sacrificing pen performance and reliability and wherein the complexity of
+printer and software design is reduced.</p><p num="0008">In accordance with the invention, inks suitable for use in ink-jet inks and
+method for formulating the same are provided. It has been found that a synergy can be
+produced by the combination of certain anionic dyes, through the use of straight-chain
+cationic surfactants, and a short-chained alcohol or diol. This combination provides a 
+basis for an ink formulation that provides for good print attributes, especially smooth,
+sharp edges for text quality on plain paper (bond, 100% cotton fiber, and copier paper),
+and good stability of the ink. The inks of the invention have better plain paper text
+quality because of improved edge sharpness.</p><p num="0009">The inks of this invention also have substantially higher viscosity (about 5 to
+about 8 cps) caused by the addition of the cationic surfactant.</p> <p num="0010">Alcohols and straight-chain alkane diols have often been added to ink vehicles
+as humectants to reduce crusting in inks. However, humectants alone often increase line
+width and promote wicking of the resultant ink. Surprisingly, the synergy present
+between the selected alcohols or alkane diols and the cationic surfactant results in a
+very stable formulation that allows the formulator to combine anionic colorants with the
+cationic surfactant without precipitation or "crashing" of the colorant out of solution. In
+the past, it has been common to use an anionic ink and a cationic ink or other solution to
+control bleed. In those situations, when the two fluids come into contact on the print
+substrate, the anionic colorant would precipitate, thereby immobilizing the colorant onto
+the print surface. It has now been found that a stable, solution can be formulated
+containing both the anion and cation without triggering precipitation of the colorant.
+Moreover, without limitation to theory, it is believed the addition of the cationic
+surfactant to the anionic colorant increases the viscosity of the ink, which delays dot
+spread resulting in a sharper edge.. This formulation works well on any typical paper
+media.</p> <p num="0011">In the practice of this invention, dye based aqueous inks each comprise from
+about 0.1 to about 20 wt % of at least one anionic dye in the color ink formulations,
+from about 1 to about 30wt % of at least one short chain alcohol or diol, and from about
+0.5 to about 6 wt % of at least one cationic surfactant. Additionally other independently
+selected ingredients can be added including those from the group consisting of buffers,
+biocides, and metal chelators; and the balance water.</p> <p num="0012">The invention applies particularly to edge sharpness in text and as such is of 
+particular interest for dye based BLACK inks. Edge sharpness in colored text is
+currently not considered as critical although this method works with cyan, magenta
+and yellow dyes, and any other dyes as well.</p><p num="0013">While the specification concludes with claims particularly pointing out and
+distinctly claiming that which is regarded as the present invention, a number of preferred
+embodiments of this invention can be more readily ascertained from the following
+description of the invention.</p><p num="0014">All concentrations herein are in weight percent of total ink composition unless
+otherwise indicated. The purity of all components is that employed in normal
+commercial practice for ink-jet inks.</p><p num="0015">A person skilled in the art will recognize that additional embodiments not
+particularly disclosed herein are also within the scope of this invention as claimed.</p><heading>Colorants</heading><p num="0016">In the practice of this invention, dye based aqueous inks each comprise from
+about 0.1 to about 20 wt % of at least one anionic dye in the color ink formulations.</p><p num="0017"><u style="single">Dyes -</u> Dyes, whether water-soluble or water-insoluble, may be employed in the
+practice of the present invention. Examples of water-soluble dyes include the sulfonate
+and carboxylate dyes, specifically, those that are commonly employed in ink-jet
+printing. Specific examples include: Direct Black 168, K1334, Sulforhodamine B
+(sulfonate), Acid Blue 113 (sulfonate), Acid Blue 29 (sulfonate), Acid Red 4 (sulfonate),
+Rose Bengal (carboxylate), Acid Yellow 17 (sulfonate), Acid Yellow 29 (sulfonate),
+Acid Yellow 42 (sulfonate), Acridine Yellow G (sulfonate, all available from Aldrich
+Chemical Company. Examples of water-insoluble dyes include azo, xanthene, methine,
+polymethine, and anthroquinone dyes. Specific examples of waterinsoluble dyes include
+Ciba-Geigy Orasol Blue GN, Ciba-Geigy Orasol Pink, and Ciba-Geigy Orasol Yellow.
+Any dye available and compatible with the other formulated ingredients of this invention
+may be used as colorants. </p><heading>Vehicle</heading><p num="0018">The inks of the present invention comprise an aqueous vehicle comprising the
+following components (in wt % of total ink composition): from about 1 to about 30,
+preferably from about 5 to about 20, wt % of at least one short chain alcohol or diol.
+Preferably the alcohol or diol has a carbon chain of about 7 or less. A preferred alcohol
+useful herein includes 3-pyridylcarbinol. Additionally, a preferred solvent useful herein
+includes 2-pyrrolidinone. The cationic surfactant of the invention is present in an
+amount of from about 0.5 to about 6, preferably from about 1 to about 5 wt % of the ink
+formula. Because of solubility limitations, the more preferred cationic surfactants has a
+head group of from about 8 to 18 carbons. Additionally other independently selected
+ingredients can be added, each in an amount ranging of up to 3% (from 0 to about 3%)
+by wt, including those from the group consisting of buffers, biocides, and metal
+chelators; and the balance water.</p><p num="0019">Alcohol: Any straight or branched chain mono- or diol of less than 7 carbon
+chain, preferably from about 3 to about 7 carbons, can be used. Two preferred
+alcohol/diol solvents for use herein are isopropyl alcohol and non-branched glycol ether.</p><p num="0020">Cationic Surfactants - Although any cationic surfactant with a headgroup of
+from about 8 to 18 carbons can be used herein, the preferable surfactant has the
+structure:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R-N(R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>)</st32:che>
+Wherein R can be from about 8 to 18 carbons, R1, R2, R3 can be from 1 to 4 carbon
+atoms, in any combination thereof.</p><p num="0021">Buffer: The inks of the present invention optionally comprise 0 to about 3 wt
+% buffer. More preferably, the inks comprise from about 0.1 to about 0.5 wt % buffer,
+with a concentration from about 0.1 to about 0.3 wt % being the most preferred.</p><p num="0022">Buffers employed in the practice of the invention to modulate pH can be
+organic-based biological buffers or inorganic buffers, preferably, organic-based. 
+Further, the buffers employed should maintain a pH ranging from about 3 to about 9
+in the practice of the invention, preferably about 6.5 to about 8 and most preferably
+from about 7.2 to 7.8. Examples of preferably-employed buffers include Trizma Base,
+available from companies such as Aldrich Chemical (Milwaukee, Wis.), 4-morpholineethanesulfonic
+acid (MES), b-hydroxy-4-morpholinepropanesulfonic acid
+(MOPSO), and 4-morpholinepropanesulfonic acid (MOPS). Most preferably, Trizma
+base is employed in the practice of the invention.</p><p num="0023">Metal Chelator: The inks of the present invention optionally comprise 0 to
+about 3 wt % metal chelator. More preferably, the inks comprise from about 0.1 to
+about 0.5 wt % metal chelator, with a concentration from about 0.1 to about 0.3 wt %
+being the most preferred.</p><p num="0024">Metal chelators employed are used to bind metal ions that may be present in
+the ink. Examples of preferably-employed metal chelators include:
+Ethylenediaminetetraacetic acid (EDTA), Diethylenetriaminepentaacetic acid (DTPA),
+trans-1,2-diaminocyclohexanetetraacetic acid (CDTA), (ethylenedioxy)
+diethylenedinitrilotetraacetic acid (EGTA), or other chelators that can bind metal
+cations. More preferably, EDTA, and DTPA; and most preferably EDTA in its disodium
+salt form is employed in the practice of the invention.</p><p num="0025">Biocide: The inks of the present invention optionally comprise 0 to about 3 wt
+% biocide. More preferably, the inks comprise from about 0.1 to about 0.5 wt % biocide,
+with a concentration from about 0.1 to about 0.3 wt % being the most preferred.</p><p num="0026">Any of the biocides commonly employed in ink-jet inks may be employed in
+the practice of the invention, such as Nuosept 95, available from Huls America
+(Piscataway, N.J.); Proxel GXL, available from Zeneca (Wilmington, Del.); and
+glutaraldehyde, available from Union Carbide Company (Bound Brook, N.J.) under
+the trade designation Ucarcide 250. Proxel GXL is the preferred biocide. The specific
+ink set disclosed herein is expected to find commercial use in ink-jet color printing. </p><heading><b>EXAMPLES</b></heading><p num="0027">Inks are formulated and different properties of the formulated inks are
+measured in an effort to assess the benefits attained in the practice of the invention,
+namely, effect of viscosity and edge sharpness.
+<tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1">Ink Formulation.</entry></row><row><entry align="center">Component</entry><entry align="center">1</entry><entry align="center">2</entry><entry align="center">3</entry><entry align="center">4</entry><entry align="center">5</entry><entry align="center">6</entry></row><row><entry align="left">EDTA, Na salt</entry><entry align="center">0.1 wt%</entry><entry align="center">0.1 wt%</entry><entry align="center">0.1 wt%</entry><entry align="center">0.1 wt%</entry><entry align="center">0.1 wt%</entry><entry align="center">0.1 wt%</entry></row><row><entry align="left">Biocide</entry><entry align="center">0.15 wt%</entry><entry align="center">0.15 wt%</entry><entry align="center">0.15 wt%</entry><entry align="center">0.15 wt%</entry><entry align="center">0.15 wt%</entry><entry align="center">0.15 wt%</entry></row><row><entry align="left">Surfactant Cationic</entry><entry align="center">0.48 wt%</entry><entry align="center">0.5 wt%</entry><entry align="center">1.0 wt%</entry><entry align="center">0.56 wt%</entry><entry align="center">2.0 wt%</entry><entry align="center">5.00 wt%</entry></row><row><entry align="left">1,6 hexanediol</entry><entry align="center">4 wt%</entry><entry align="center">15 wt%</entry><entry align="center">24 wt%</entry></row><row><entry align="left">Isopropyl alcohol</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">1 wt%</entry><entry align="center">20 wt%</entry><entry align="center">28 wt%</entry></row><row><entry align="left">2-pyrrolidone</entry><entry align="center">4 wt%</entry><entry align="center">4 wt%</entry><entry align="center">4 wt%</entry><entry align="center">4 wt%</entry><entry align="center">4 wt%</entry><entry align="center">4 wt%</entry></row><row><entry align="left">MOPS</entry><entry align="center">0.05 wt%</entry><entry align="center">0.05 wt%</entry><entry align="center">0.05 wt%</entry><entry align="center">0.05 wt%</entry><entry align="center">0.05 wt%</entry><entry align="center">0.05 wt%</entry></row><row><entry align="left">3 pyridylcarbinol</entry><entry align="right"/><entry align="center">8 wt%</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">8 wt%</entry></row><row><entry align="left">DDI Water</entry><entry align="center">Balance</entry><entry align="center">Balance</entry><entry align="center">Balance</entry><entry align="center">Balance</entry><entry align="center">Balance</entry><entry align="center">Balance</entry></row><row><entry align="left">Total</entry><entry align="center">100 wt%</entry><entry align="center">100 wt%</entry><entry align="center">100 wt%</entry><entry align="center">100 wt%</entry><entry align="center">100 wt%</entry><entry align="center">100 wt%</entry></row><row><entry>Notes:
+
+EDTA is ethylene diamine tetraacetate.
+
+DDI water is distilled deionized water.
+
+pH adjusted with KOH for the vehicle to 7.2 to 7.3.
+
+MOPS is 4-morpholinepropanesulfonic acid.
+
+A variety of cationic surfactants with head groups of from 8 to 18 are used.</entry></row></tbody></tgroup></table></tables></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An inkjet ink comprising an anionic colorant, a straight-chain surfactant, and a
+component which is a short-chain alcohol, a diol, or a combination thereof.</claim-text></claim><claim num="2"><claim-text>An inkjet ink as claimed in Claim 1 wherein the ink has a viscosity from 5 to 8
+cps.</claim-text></claim><claim num="3"><claim-text>An inkjet ink as claimed in Claim 1 or 2 wherein said anionic colorant is
+present in an amount from about 0.1% to about 20% by wt of composition, and is
+optionally a black dye.</claim-text></claim><claim num="4"><claim-text>An inkjet ink as claimed in any preceding claim wherein said cationic surfactant
+is optionally present in an amount from 0.5% to 6% by wt of composition, said short
+chain alcohol or diol is optionally present in an amount from 1% to 30% by wt of
+composition, and wherein said ink optionally additionally comprises a buffer, a biocide,
+a metal chelator, water or any mixture thereof.</claim-text></claim><claim num="5"><claim-text>An inkjet ink as claimed in any preceding claim additionally comprising 2-pyrrolidinone,
+3-pyridylcarbinol, or a mixture thereof.</claim-text></claim><claim num="6"><claim-text>An inkjet ink as claimed in any preceding claim wherein said short chain
+alcohol contains 7 or less carbons.</claim-text></claim><claim num="7"><claim-text>An inkjet ink as claimed in any preceding claim wherein said short chain
+alcohol is an isopropyl alcohol, a non-branched glycol ether, or any mixture thereof.</claim-text></claim><claim num="8"><claim-text>An inkjet ink as claimed in any preceding claim wherein said cationic surfactant
+contains a head group having from 8 to 18 carbons.</claim-text></claim><claim num="9"><claim-text>An inkjet ink as claimed in Claim 8 wherein said cationic surfactant is of the
+structure:
+R-N(R1,R2,R3)
+wherein R can be 8 to 18 carbons and R1,R2,R3 can be independently 1 to 4 carbon
+atoms.</claim-text></claim><claim num="10"><claim-text>A method of providing text prints with sharp, smooth edges comprises printing
+with an ink as claimed in any preceding claim.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

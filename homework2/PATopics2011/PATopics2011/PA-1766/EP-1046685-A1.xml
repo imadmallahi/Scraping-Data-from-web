@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1046685-A1" country="EP" doc-number="1046685" kind="A1" lang="EN" family-id="23138705" status="new" date-produced="20090516" date="20001025"><bibliographic-data><publication-reference ucid="EP-1046685-A1" status="new" fvid="22984562"><document-id status="new" format="original"><country>EP</country><doc-number>1046685</doc-number><kind>A1</kind><date>20001025</date></document-id></publication-reference><application-reference ucid="EP-00303234-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00303234</doc-number><kind>A</kind><date>20000417</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-29566599-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>29566599</doc-number><kind>A</kind><date>19990421</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/01        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/01        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09D  11/00C20</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Herstellung von verbesserten Tinten für Tintenstrahldrucker durch Verwendung spezieller Polymere</invention-title><invention-title load-source="ep" status="new" lang="EN">Preparation of improved inks for ink-jet printers using specific polymers</invention-title><invention-title load-source="ep" status="new" lang="FR">Production des encres améliorés pour imprimantes à jet d'encre utilisant des polymeres spécifiques</invention-title><citations><patent-citations><patcit ucid="EP-0591916-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0591916</doc-number><kind>A2</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5698017-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5698017</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>HEWLETT PACKARD CO</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>HEWLETT-PACKARD COMPANY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Hewlett-Packard Company</last-name><address><street>3000 Hanover Street</street><city>Palo Alto, California 94304</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>GORE MAKARAND P</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GORE, MAKARAND P.</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GORE, MAKARAND P.</last-name><address><street>1210 NE Conroy Pl.</street><city>Corvallis, OR 97330</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Colgan, Stephen James</last-name><address><street>CARPMAELS &amp;amp; RANSFORD 43 Bloomsbury Square</street><city>London WC1A 2RA</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The invention relates to an improved system for inkjet printing which results
+in images with increased permanence as measured by transfer of color from the image
+when the image is subjected to mechanical and/or chemical abrasion. The invention
+provides a fusible material that may be combined with any or all of the color inks
+used to create the image, or it may be used as a colorless fluid applied pre- or post-printing.
+The permanence of images produced by the system are comparable to those
+produced by Electrophotography.</p><p>The invention also relates to a printing apparatus that contains a means for fusing
+the image using heat applied after the printed substrate is ejected from the printer.
+Methods for utilizing these improvements and examples of them are described.</p></abstract><description load-source="ep" status="new" lang="EN"><heading>TECHNICAL FIELD</heading><p num="0001">The present invention relates to printing technology. More specifically, it relates
+to an improved ink composition for use in inkjet printers. Even more specifically, it
+relates to the use of an improved ink composition, equipment, and methods to produce
+permanent printed images on a variety of substrates by an inkjet printer using
+hereinbefore water soluble polymers.</p><heading>BACKGROUND ART</heading><p num="0002">Along with the computerization of offices in the 1980's came electronically
+controlled non-impact printers such as the ink jet and laser printers. Drop-on-demand
+inkjet printers can be piezo or thermal (bubble jet). In piezo ink jet systems, ink
+droplets are ejected by an oscillating piezo crystal. However, the thermal ink jet
+dominates the drop-on-demand office ink jet market. In this system, rapid heating
+behind the ink nozzles cause a bubble of vapor to form in the ink. The resulting
+bubble expansion and ink ejection from the inkjet printer cartridge causes printing to
+appear on the substrate.</p><p num="0003">Full-color inkjet printers are more common than color lasers and are much more
+economical. The main advantage of inkjet printers over lasers and other non-impact
+printing techniques include their low cost and simplicity. Thermal inkjet systems are
+capable of dispensing ink rapidly and accurately. The technology of this and other
+inkjet systems are discussed in the <i>Chemistry and Technology of Printing and
+Imaging Systems,</i> edited by P. Gregory, published by Chapman &amp; Hall, 1996.
+Representative thermal inkjet systems and cartridges are discussed in U.S. patents
+4,500,895 to Bucket al., 4,513,298 to Scheu, and 4,794,409 to Cowger et al., which
+are all hereby incorporated by reference. </p><p num="0004">The technology of inkjet printers has undergone many changes and
+improvements since they first appeared. Research has been conducted to ensure that
+the images produced are of consistent high quality. Thus, it is important that the
+images be waterfast and do not smear, smudge, run, or the like when exposed to
+chemical or mechanical abrasion. Non-smearing of the image when portions of the
+printed page are highlighted with colored markers is of particular interest.
+Oftentimes, the image produced by the inkjet printer on paper is not satisfactorily
+fixed and smears, bluffing the printed image when subjected to highlighting. This
+type of image is not regarded as permanent.</p><p num="0005">Image permanence is defined as transference of color from the substrate when the
+image printed thereon is subjected to chemical and mechanical abrasion. Highlighting
+is oftentimes the form of chemical and mechanical abrasion experienced. This
+transference of color is measured by optical density (mOD). More permanent images
+have lower milli-Optical Density (mOD) values.</p><p num="0006">Another desired feature of printed images is light fastness. As used herein, light
+fastness will mean that the images do not fade when exposed to light. Light fastness
+is another measure of permanence as used herein. Light fastness is measured by
+exposing printed images to intense light in light chambers (fadomers) and comparing
+print density before and after the exposure.</p><p num="0007">There have been many past attempts at improving the permanence of water-based
+inkjet printing systems. Included among these attempts are US patent 5,549,740 to
+Takahashi et al., US patent 5,640,187 to Kashiwakazi et al., and US patent 5,792,249
+to Shirota et al. which utilizes an additional or "fifth" pen to apply a colorless fluid on
+to the substrate. As will be seen in the comparative testing, the mOD values for the
+images printed thereon are quite high.</p><p num="0008">Another highly efficient printing system in common use currently is laser printers.
+In a laser printer or copier, light from a laser beam is used to discharge areas of a
+photoreceptor to create an electrostatic image of the page to be printed. The image is
+created by the printer controller, a dedicated computer in the printer, and is passed to
+the print engine. The print engine transcribes an array of dots created by the printer
+controller into a printed image. The print engine includes a laser scanning assembly, 
+photoreceptor, toner hopper, developer unit, Corotrons, discharge lamp, fuser, paper
+transport, paper input feeders, and paper output trays.</p><p num="0009">The final stage of laser printing or copying is to fix toner onto the paper. Toner is
+very fine plastic powder which is transferred from the photoreceptor. Once
+transferred from the photoreceptor, it lies on the paper in a very thin coating with
+nothing to hold it in place. In order to fix the toner to the paper, it is heated by
+passing between a pair of very hot rollers, so that the plastic melts around the fibers of
+the paper and is "fused" into place. The image is now fixed permanently onto the
+paper.</p><p num="0010">The fuser of a typical laser printer is of particular interest to the printing system of
+this invention. In these systems, fusing or melting the polymeric resin in which the
+colorant is embedded converts the discrete toner particles into an amorphous film.
+This film becomes the permanent image that results in electrophotographic copy or
+laser printed copy. However, the laser printer toners are incompatible with water.
+Since most inkjet materials are water-based, it is not possible to use laser toners in
+inkjet printers, and, therefore, Inkjet technology has not yet found a way to make the
+printed image permanent.</p><p num="0011">Another printing technology that is inherently more permanent than water-based
+inkjet are hot-melt inks. These materials are solid at room temperature and are similar
+to wax crayons. The colorants used in these materials are solvent dyes that are
+soluble in the ink vehicle or pigment dispersions. Like laser toners, these materials
+are incompatible with the inks used in inkjet printing.</p><p num="0012">U.S. patents 5,817,169 and 5,698,017, both to Sacripante et al., disclose hot melt
+ink compositions which use oxazoline as a vehicle used for the colorant in a
+nonaqueous, hot melt inkjet ink. One of the advantages of this technology is the waxy
+nature of the hot melt ink creates images that are more waterfast and may be
+successfully utilized on plain papers. This technology is in contrast with the instant
+invention, which utilizes an ordinary aqueous four-color ink pen set.</p><p num="0013">Accordingly, a need remains for a printing system using water-based inkjet
+technology, which produces permanent images. These permanent images will be
+consistent and stable with respect to a variety of printed substrates. An ideal situation
+would be combining the convenience and safety of aqueous inkjet inks with the 
+permanence of electrophotographic copies. The present invention satisfies this in a
+unique manner, which is described herein.</p><heading>SUMMARY OF THE INVENTION</heading><p num="0014">The invention relates to a fusible material, which is added to aqueous ink
+formulations and provides an improved printed image, which is especially suitable for
+use with inkjet technology.</p><p num="0015">Another feature of the invention to demonstrate a method for printing
+permanent images using inkjet technology which comprises a fusible material
+formulated with the four-pen ink-set commonly found in water-based color inks used
+in inkjet printing. The fusible material of the present invention can be formulated as a
+colorless fluid applied either before or after the color inks are applied to the substrate.
+The images and print quality achieved by the use of such a fusible material in
+waterborne ink formulations are comparable in permanence and print quality to those
+of laser printers and copiers. These images, in black or color, are permanent and will
+not smear, smudge, run, or the like when exposed to mechanical or chemical abrasion.</p><p num="0016">The invention also relates to a printing device incorporating the ejection of
+droplets of fluid on to a substrate and producing a printed page with a permanent
+image. In this embodiment, the inkjet printer is equipped with a fuser. The fuser of a
+typical laser printer is commercially available and has been modified for use in an
+inkjet printer to provide superior image quality and permanence to the printed
+substrate. In a similar fashion, incandescent lamps or other suitable heating means
+may be employed.</p><p num="0017">This invention also provides an improved printing system which produces
+consistent high quality printed images regardless of the type or quality of printing
+substrate, such as different types or qualities of paper or transparent sheets used to
+make overhead projections (transparencies), being used.</p><p num="0018">In accordance with the foregoing, the present invention relates to an improved
+printing system for producing stable, water-fast, permanent printed images. The
+system combines the ease and versatility of traditional water-based inkjet technology
+with the permanence of laser printing or copying technology (Electrophotography). </p><p num="0019">These and features and advantages of the current invention will be described
+below in the Detailed Description and succinctly outlined in the claims that follow.</p><heading>DETAILED DISCLOSURE</heading><p num="0020">The present invention relates to an improved printing system that is capable of
+producing permanent images on a variety of substrates using waterborne inkjet
+printing. The invention allows for the inclusion of fusible materials into water-based
+inks and demonstrates the increased permanence of the images produced.</p><p num="0021">The standard ink set components known and used in inkjet printers comprise
+four colors of ink, namely yellow, magenta, cyan, and black. This set is often referred
+to as a "four pen" system. These four pens are made of various materials and are
+formulated into aqueous inks.</p><p num="0022">Each of the standard four pens contains a water-soluble or insoluble dye
+having an anionic group, or when a pigment is used as a colorant, the pigment is
+either self-dispersing or is aided in solubility by a dispersant. In many applications,
+both pigments and dyes are used for coloring the ink. The ink formulation also
+typically contains water, a water-miscible solvent, and other components such as a
+biocide, viscosity modifiers, a pH adjuster, preservatives, surfactants, and the like.</p><heading><u style="single">Fusible Polymers</u></heading><p num="0023">The fusible materials used in the instant ink formulations for permanence must
+be made soluble or miscible with the other water soluble ingredients in the ink. It has
+been found that certain polymers, which behave similar to hydrophobic toners in
+thermoplastic properties, can be prepared and dissolved in an aqueous medium. The
+fusible polymers have successfully been synthesized and shown to perform in
+aqueous ink systems to produce images with the quality and permanence here to
+before only achieved in Electrophotography.</p><p num="0024">Among the properties of interest for application of some of these polymers
+include glass transition temperature (Tg) and Melt Index (MI). As used herein, glass
+transition temperature (Tg) will mean the transition that occurs when a liquid is
+cooled to an amorphous or glassy solid. It also may be the change in an amorphous
+region of a partially crystalline polymer from a viscous, rubbery state to a hard or
+brittle one brought about by change in temperature. In this invention, the materials 
+which are used to improve permanence of the images produced by inkjet printing
+fluid have a Tg that may range from about 40 to about 140 degrees C. A more
+preferred range of glass transition temperatures will range from about 50 to about 90
+degrees C. Melt index (MI) values for the instant materials may range from about 400
+to about 3000 grams/10 minutes. A more preferred range may be from about 1800 to
+about 2500 grams/10 minutes. A still more preferred range is from about 2000 and
+2250 g/10 min.</p><p num="0025">Presented herein are representative examples of syntheses of fusible polymers
+that provide permanence to the images formed by the materials and processes of the
+instant invention.</p><p num="0026">The first groups of polymers are synthesized by condensation reactions to
+"graft" substitutes on a "backbone" polymer chain. For example, a polymer of
+styrene/maleic anhydride of molecular weight 1600 (average) is treated with
+ammonium hydroxide in refluxing tetrahydrofuran, THF, to produce an amide-acid
+derivative; the derivative is then treated with additional ammonium hydroxide or
+ammonium bicarbonate and water. Evaporation of THF will give the aqueous
+polymer. The average molecular weight of the polymers herein can range from about
+900 to about 500,000, preferably from about 1,000 to about 100,000, even more
+preferably from about 1,000 to about 50,000.</p><p num="0027">In another example, a polymer of styrene/maleic anhydride of molecular
+weight 1900 (wt average) is treated with PEG amine in anhydrous refluxing THF to
+produce a amide-acid derivative; as before, the derivative is treated with butyl amine
+to give the desired polymer. In yet another example, (olefin) styrene/maleic
+anhydride polymer of MW 1900 is treated with PEG 350 methylether (0.5 equivalent
+to PEG to anhydride ratio) in refluxing THF, followed by butyl amine to produce the
+aqueous solution of the polymer. In all instances the resulting polymers have suitable
+Tg to form films.</p><p num="0028">Thus, the fusible materials above can be selected from amide-acid derivatives
+of alkene/maleic anhydride and ammonium hydroxide polymers; amide-acid
+derivatives of alkene/maleic anhydride and polyethylene glycol (PEG) amine
+polymers; polymers of alkene/maleic anhydride and adducts with PEG (having a
+molecular weight of about 100 to about 5,000) monomethyl ethers; and mixtures or 
+precursors thereof. The structures and chemistry useful in the practice of invention
+is as shown in Figure 1:
+<img id="img-00070001" orientation="unknown" wi="149" img-format="tif" img-content="cf" file="00070001.tif" inline="no" he="74"/>
+wherein m, n, and p represent repeating units, wherein m is from 0 to about 18, n is
+from about 3 to about 1,000, and p is from about 2 to about 1,000. R1 can be a
+branched alkyl chain with aromatic or aliphatic groups or a straight chain alkyl group
+along the main polymer chain with from about C2 to C50, preferably from about C2
+(ethylene) to about C8 (Octyl) carbons; R can be an alkyl chain, a branched alkyl
+chain, or ring of from about C2 to about C50, of which some carbons may be
+hydroxylated. The counter ion for carboxylate groups in water solution may be an
+ammonium species or a metal cation.</p><p num="0029">The second special group of compounds useful for the practice of the
+invention are polyoxazolines, polyoxazolins, and intermediates and precursors
+thereof.. As shown in Figure 2, below, and described in literature (See for example,
+U.S. patents 5,817,169; 5,629,396; 5,644,006; 5,670,590; 5,240,744; and 4,658,011
+herein, incorporated by reference), compounds of this series are converted by effect of
+heat, dehydration and catalytic polymerization. One example useful herein is Poly-2-ethyl-2-oxazoline
+available from Polymer Chemistry Innovations, Tucson, Arizona,
+but it will be apparent to any one familiar with the art that other amides, oxazolines,
+(Note these may be present in the inks as mixtures due to the nature of the chemistry
+they undergo), and polymers can be used in the practice of this invention to impart
+thermosetting properties to printed inks. </p><p num="0030">Figure 2:
+<img id="img-00080001" orientation="unknown" wi="141"  img-format="tif" img-content="cf" file="00080001.tif" inline="no" he="88"/>
+   wherein R1, R2 and R3, independently, can be H, alkyl chains, branched alkyl
+chains or rings of between C2 and C50; some carbons may be in hydroxylated form.</p><p num="0031">As will be seen in the Examples, the images made permanent by the ink
+formulation of this invention are very resistant to smear. This allows enhanced image
+quality, demonstrated by the transfer of less than 100 mOD. In this invention, mOD
+is measured by running a water-based yellow highlighter (Sanford "Major Accent"
+Highlighting Marker high pH labeled "Fluorescent") across black lines printed on
+white bond paper. The amount of ink that smears from the lines relates directly to the
+permanence of the inkjet ink.</p><p num="0032">One of the ways to include the fusible material of this invention is to include it
+in a clear fluid that is not part of the four-color ink set. This technology is sometimes
+called a "fifth" pen. Fifth pen technology has been used to optimize image quality
+and water-fastness, but has not been successfully used to improve permanence.
+However, when using the 5<sup>th</sup> pen to eject the fusible material composition of this
+invention, the colorless, waterborne liquid coats the substrate and imparts permanence
+to the printed image</p><p num="0033">When the fusible material of this invention is used in a colorless fluid 5<sup>th</sup> pen
+device, the amount of fluid used to impart permanence to the image may range from
+about 0.1 to about 4 times the amount of color ink(s) used in forming the image. In 
+other words, there would be a minimum of one drop of colorless fluid applied to the
+substrate for every ten drops of ink applied. The colorless layer may be applied either
+over or under the color ink layer.</p><p num="0034">These clear fluids increase permanence of the color ink images by forming a
+pigment/polymer dispersant on the surface of the substrate. This reduces penetration
+of colorant in the media and helps improve the image color, optical density, and
+brightness of the printed image. The fusible material may also be added to any or all
+of the colored inks of the standard four-color pen set.</p><p num="0035"><u style="single">Pigments</u> - When a pigment is used as a coloring material in the ink
+composition of the present invention, the amount of pigment used is within the range
+from about 0.5 to about 20 weight percent. A more preferable range of pigment
+ranges from about 1 to about 15 % by weight, still more preferably is a range of from
+about 2% to about 12% by wt.</p><p num="0036">An example of a pigment used forblack ink is carbon black. The carbon black
+may be produced by either a furnace or channel method. The primary particle size of
+this material ranges from 15 to 40 µm, specific surface area is 50 to 300 m2/g, and has
+oil absorption from 40 to 150 ml/100 g, the volatile component is 0.5 to 10%, and the
+pH value may range from 2 to 9. Examples of suitable commercially available carbon
+blacks include No. 2300, No. 900, MCF88, No. 33, No. 40, No. 45, No. 52, MA&amp;,
+MA8, No. 2200B, Raven 1255, Regal 400R, Regal 330R, Regal 660 R, Mogul L,
+Color Black FW1, Color Black FW18, Color Black S170, Color Black S150, Printex
+35, and Printex U.</p><p num="0037">In this invention, the black colorants that are employed include Novofil Black
+BB-03, and Hostafine Black TS. The Novafil material is a pigment that is
+approximately 27% pigment dispersion based on anionic dispersing agents. It
+contains C.I. Pigment Black 7, carbon black and is an ultrafine pigment dispersion
+suitable for all water based inkjet application. These pigments are available from
+Clairiant Corp., Coventry, R.I.</p><p num="0038">Hostafine Black TS contains hydrophilic ultrafine pigment dispersions based
+on non-ionic dispersing and wetting agents. It contains carbon black and has a
+pigment concentration of 33%. </p><p num="0039">Other black colorants, which may be used, include those listed in the Color
+Index and in Textile Chemist and Colorist reference publications. Water-soluble
+black colorants are commercially available from colorant vendors such as Cabot
+Corporation, Orient Chemical, and other manufacturers. Surface modified colorants
+from these manufacturers are initially water insoluble colorants which, by certain
+modifications, are solubilized or stabilized as fine dispersions in water to prevent
+agglomeration. See U.S. Pat. Nos. 5,707,432; 5,630,868; 5,571,311; and 5,554,739
+for a discussion of modified carbon black pigments and methods of attaching
+functionalized groups to aid in their solubility.</p><p num="0040">Examples of pigments used for a yellow ink include C.I. Pigment Yellow 1,
+C.I. Pigment Yellow 2, C.I. Pigment Yellow 3, C.I. Pigment Yellow 13, C.I. Pigment
+Yellow 16, C.I. Pigment Yellow 83, and the like. Examples of pigments used for
+magenta ink include C.I. Pigment Red 5, C.I. Pigment Red 7, C.I. Pigment Red 12,
+C.I. Pigment Red 48 (ca), C.I. Pigment Red 48 (mn), C.I. Pigment Red 57 (Ca), C.I.
+Pigment Red 112, C.I. Pigment Red 122, and the like. Examples of pigments used for
+a cyan include C.I. Pigment Blue 1, C.I. Pigment Blue 2, C.I. Pigment Blue 3, C.I.
+Pigment Blue 15:3, C.I. Pigment Blue 16, C.I. Pigment Blue 22, C.I. Vat Blue 4, C.I.
+Vat Blue 6, and the like. Pigments whose performance properties are satisfactory
+when formulated for the present invention are considered to be within its scope.</p><p num="0041">In the instant invention, colorants used include Hostafine Rubine F6B and
+Hostafine Blue B2G available from Clamant, Coventry, RI. Hostafines are
+hydrophilic ultrafine pigment dispersions based on nonionic dispersing and wetting
+agents, available in all colors. In this disclosure, Hostafine Rubine F6B is magenta
+with a 40% pigment content. Hostafine Blue B2G is blue with 40% pigment as well.
+These colorants are manufactured for suitability with water-based inkjet inks.</p><p num="0042">Any pigment, dye, or pigment-resin system available and compatible with the
+other formulated ingredients of the fusible material of this invention may be used as
+colorants. An important factor that the formulator must keep in mind is thermal
+instability exhibited by certain tri- and tetrakis-azo dyes. Such thermal instability
+may lead to charring of insoluble deposits (kogation), which is to be avoided.</p><p num="0043"><u style="single">Dyes</u> - Dyes, whether water-soluble or water-insoluble, may be employed in the
+practice of the present invention. Examples of water-soluble dyes include the sulfonate 
+and carboxylate dyes, specifically, those tat are commonly employed in ink-jet
+printing. Specific examples include: Sulforhodamine B (sulfonate), Acid Blue 113
+(sulfonate), Acid Blue 29 (sulfonate), Acid Red 4 (sulfonate), Rose Bengal
+(carboxylate), Acid Yellow 17 (sulfonate), Acid Yellow 29 (sulfonate), Acid Yellow 42
+(sulfonate), Acridine Yellow G (sulfonate), Nitro Blue Tetrazolium Chloride
+Monohydrate or Nitro BT, Rhodamine 6G, Rhodamine 123, Rhodamine B, Rhodamine
+B Isocyanate, Safranine O, Azure B, Azure B Eosinate, Basic Blue 47, Basic Blue 66,
+Thioflacin T (Basic Yellow 1), and Auramine O (Basic Yellow 2), all available from
+Aldrich Chemical Company. Examples of water-insoluble dyes include azo, xanthene,
+methine, polymethine, and anthroquinone dyes. Specific examples of water-insoluble
+dyes include Ciba-Geigy Orasol Blue GN, Ciba-Geigy Orasol Pink, and Ciba-Geigy
+Orasol Yellow.</p><p num="0044">The ink formulation comprises a colorant plus a vehicle. A typical
+formulation for an ink useful in the practice of this invention includes the colorant,
+present in about 0.5 to about 20 weight percent, one or more co-solvents, present from
+0 to 50 weight percent, one or more water-soluble surfactants, present in about 0.1 to
+40 weight percent, one or more high molecular weight colloids present in from 0 to
+about 3 weight percent. The balance of the formulation is purified water. The
+colorless fluid is similar except for the absence of a colorant.</p><p num="0045">One or more co-solvents may be added to the formulation of the ink of this
+invention. Classes of co-solvents include, but are not limited to, aliphatic alcohols,
+aromatic alcohols, diols, glycol ethers, polyglycol ethers, caprolactams, formamides,
+acetamides, and long chain alcohols. Examples of such compounds include primary
+aliphatic alcohols, secondary aliphatic alcohols, 1,2-alcohols, 1,3-alcohols, 1,5-alcohols,
+ethylene glycol alkyl ethers, propylene glycol alkyl ethers, higher homologs
+of polyethylene glycol alkyl ethers, N-alkyl caprolactams, unsubstituted caprolactams,
+both substituted and unsubstituted formamides, both substituted and unsubstituted
+acetamides, and the like.</p><p num="0046">One class of preferred co-solvents that provides water miscibility to polymers
+is glycols. A particularly preferred glycol is polyethylene glycol, commonly
+abbreviated as PEG. Polyethylene glycol is hydrophilic. </p><p num="0047">A preferred surfactant employed in the present invention includes
+Noigen10™. Noigen10™ is a commercially available polymerizable surfactant
+available from the Montello Company of Tulsa, Oklahoma. Noigen10™ contains
+polyethylene glycol as a hydrophilic group and an octyl or nonyl phenol as a
+hydrophobic group. This type of surfactant, which can accommodate both
+hydrophobic and hydrophilic moieties, is a preferred ingredient in the formation of the
+fusible material of this invention.</p><p num="0048">However, other water-soluble surfactants may be employed in the formulation
+of the vehicle of the ink of this invention. The purpose of surfactants as described
+herein is to facilitate the miscibility of the ingredients of the ink composition. This is
+especially important if the fusible material of the ink composition contains both
+hydrophilic and hydrophobic groups. The surfactant(s) used are known by those
+skilled in the art of ink formulation and may be alkyl polyethylene oxides, alkyl
+phenyl polyethylene oxides, polyethylene oxide block copolymers, acetylenic
+polyethylene oxides, polyethylene oxide (di)esters, polyethylene oxide amines,
+protonated polyethylene oxide amines, protonated polyethylene oxide amides,
+dimethicone copolyols, substitued amine oxides, and the like. The amount of
+surfactant added to the formulation of this invention may range from less than one to
+about 10 weight percent. A more preferred amount is from 1 to about 3 weight
+percent.</p><p num="0049">Consistent with the formulation of this invention, various other additives may
+be employed to optimize the properties of the ink composition for specific
+applications. Examples of these additives are those added to inhibit the growth of
+harmful microorganisms. These additives may be biocides, fungicides, and other
+microbial agents, which are routinely used in ink formulations. Examples of suitable
+microbial agents include, but are not limited to, Nuosept (Nudex, Inc.), Ucarcide
+(Union carbide Corp.), Vancide (R.T. Vanderbilt Co.), and Proxel (ICI America).</p><p num="0050">Sequestering agents such as EDTA (ethylene diamine tetra acetic acid) may be
+included to eliminate the deleterious effects of heavy metal impurities, and buffer
+solutions may be used to control the pH of the ink. Viscosity modifiers may also be
+present, as well as other additives known to those skilled in the art to modify
+properties of the ink as desired. </p><p num="0051">Each of the ingredients in the fusible material are present for a specific
+reason. For example, particle size and distribution, stability, surface tension, and
+various rheological properties are primarily controlled by the type and amount of
+surfactant employed.</p><p num="0052">Kogation refers to the charring of insoluble deposits on the printer's heating
+elements. This clogs the inkjet print heads and is a problem common to thermal inkjet
+printers. For the fusible materials to be resistant to kogation, they must be soluble or
+miscible in the ink solvents at higher temperatures or in super heated solvent/water
+vapor. The invention allows inclusion of fusible materials in water based inks used in
+inkjet printing. These materials are soluble in the ink composition at higher
+temperatures or in super-heated solvent/water vapor. As used herein, superheating
+means the heating of a substance above the temperature at which a change of state
+would ordinarily happen without the change of state occurring.</p><p num="0053">Fuser Device - The printing system of this invention includes a printing
+apparatus that is equipped with suitable heating means. Heat fusion is most often the
+way that the image formed by toner particles used in electrophotography are fixed to
+the printed substrate. Most systems employ a heated roller to fix the image although
+any other means of supplying heat is included within the scope of this invention.</p><p num="0054">The heated roller is often a rubber roller impregnated with silicone oil which is
+preheated to about 90 degrees C. It may also be a metal roller heated with
+incandescent light or a lamp equipped with a reflector. Certain laser printers employ
+a ceramic heating element in the fusion stage. When the copier or printer is switched
+on, waiting time until the machine is ready to use is associated with heating the roller.</p><p num="0055">The heating means is designed to melt (or fuse) the toner on to the substrate.
+In high speed systems, flash fusion may be used. Flash fusion involves the use of
+heated lamps with a specific heat output are used to rapidly heat the toner which then
+adheres to the substrate. Fusers are commercially available from such companies that
+manufacture laser printers such as Hewlett-Packard, Canon, Ricoh, and Panasonic. In
+all cases, the toner particles used in Electrophotography are hydrophobic.</p><p num="0056">A typical laser printer commonly available is the Hewlett-Packard Laser Jet
+4L Printer. In the fusing stage, toner is fused into the substrate by heat and pressure
+to produce a permanent image. The substrate (usually paper) passes between a 
+ceramic heating element protected by a thin Teflon sleeve and a soft pressure roller.
+This melts the toner and presses it into the substrate. Other laser printers use a
+halogen heating lamp and require frequent warm-up periods to maintain a minimum
+standby temperature.</p><p num="0057">Polymer Synthesis - Syntheses of substituted polymers are performed using
+Styrene/Maleic anhydride polymers of MW ∼1900 available form Polysciences,
+Warrington, PA. The type and amount of amine/alcohol for the condensation reaction
+can be chosen to achieve desired properties such as Tg (glass transition temperature,
+Melt Index, Hardness etc. Specific examples of polymer syntheses are described
+below:</p><p num="0058">The following examples and comparative examples are intended to illustrate
+the invention in further detail and not to limit the invention in any way whatsoever.</p><heading>EXAMPLE 1</heading><p num="0059">Polymer A: Polystyrene/Maleic anhydride polymer, M.W.1900, available
+from Polysciences, Warrington, PA (18.0 g), is added to a solution of Jeffamine
+M1000 (22.2 g) (EO/PO Amine, M.W.100, EO/PO 19/3, available from Huntsman
+Chemical), Hexyl amine (6.75 g) and triethyl amine (9.0 g) in dry THF. The mixture
+is refluxed for 2h and stirred at room temperature overnight. The resulting solution is
+poured in water (400 g) and the organic solvents are removed under reduced pressure
+(10 mm) and at 40°C until the weight is 200 g. Additional water is added to bring the
+weight to 470.0 g, which results in a 10% nominal concentration of polymer A.</p><heading>EXAMPLE 2</heading><p num="0060">Polymer B: Polystyrene/Maleic anhydride polymer, M.W.1900, available
+from Polysciences, Warrington, PA (19.0 g), is suspended in water (75 g) and a
+solution of 30% Ammonium Hydroxide ( 6.6 g) is added and after 0.5h of stirring the
+mixture is heated to 85°C for 0.5h. The mixture is then cooled and the pH is adjusted
+to 8.5 using Ammonium Bicarbonate. Water is added to bring the weight to 200 g to
+produce a 10% nominal concentration of polymer B.</p><heading>EXAMPLE 3</heading><p num="0061">Polymer C: Polystyrene/Maleic anhydride polymer, M.W.1900, available from
+Polysciences, Warrington, PA (18.0 g), is added to a solution of PEG350 Methyl 
+ether(8.04 g) (available from Aldrich chemical Co., Milwaukee), and the mixture is
+refluxed for 1 h. Butyl amine (6.75 g) is added and after 15 min reflux, the mixture is
+stirred overnight. Water (170 g) is added followed by ammonium bicarbonate (3.65
+g) and the organic components are evaporated under reduced pressure at 50°C.
+Additional water is added to bring the weight to 270.0 g, which results in a 10%
+nominal concentration of polymer C.</p><heading>EXAMPLE 4</heading><p num="0062">Synthesis of a 'primer polymer', which is not smear resistant, but boosts the
+performance of fusible materials. See US patent applications, Serial Nos. 09/120,046
+and 09/120,270, both filed July 21, 1998.</p><p num="0063">A primer polymer used to improve the performance of fusible materials is
+synthesized as follows: 5684.9 g water and 24.0 g potassium persulfate is charged in
+a reactor. The organic part of the monomer feed (747.0 g methyl methacrylate
+(MMA), 1073.7 g hexyl acrylate (HA), 280.1 g methoxy polyethylene glycol (350)
+methacrylate (from Polysciences, Inc.) 233.4 g (acrylic acid) AA, and 23.3 g iso-octyl
+thioglycolate
+
+(from Zeneca, Inc.) is added to the feed tank, followed by the water phase of the
+monomer feed (1082.2 g water and 65.4 g Rhodcal). The monomer feed is emulsified
+until a stable monomer feed is obtained. After the reactor phase reaches 90°C the
+addition of the monomer feed (150 min) is started. Directly after finishing monomer
+feed 1 the feed tank is rinsed with 75.0 g water. After this addition the reactor is kept
+at 90°C for another 30 min, after which the burn up reaction is performed. After the
+burn up the reaction is cooled down to 30°C and 28.7 g Proxel GXL in 30.0 g water is
+added. Extra water should be added if necessary for solids correction. Additionally, a
+pH correction is performed by the addition of 26.1 g of an aqueous 10% KOH
+solution to obtain a pH of 8.24. After filtration over 50 µm filter almost no sediment
+is obtained.
+
+Synthesis data and smear performance results from the synthesis of the primer
+polymer are as follows: </p><heading><u style="single">Monomer ratio MMA/HA/MPEG(350)MA/AA 32/46/12/10</u></heading><p num="0064"><tables><table><tgroup cols="2"><tbody><row><entry nameend="2"  namest="1">Polymer prepared at 25% solids</entry></row><row><entry align="left">Potassium Persulfate</entry><entry align="center">1.03% on monomers</entry></row><row><entry align="left">Rhodacal RS710</entry><entry align="center">2.80% on monomers</entry></row><row><entry align="left">BRIJ 92</entry><entry align="center">1.55% on monomers</entry></row><row><entry align="left">iso-octyl thioglycolate</entry><entry align="center">1.00% on monomers</entry></row></tbody></tgroup></table></tables></p><heading>EXAMPLE 5</heading><heading><u style="single">Ink formulation Procedure</u></heading><p num="0065">The table below indicates the amount and type of ingredients used to prepare
+samples of ink formulated with the polymers synthesized by the above procedures.
+All the inks are filtered through 5 micron nylon filters available from Micron
+Separations, Inc. The inks are filled in HP 850C pens and warmed to 60° C before
+printing.</p><heading>Ink formulation A:</heading><p num="0066"><tables><table><tgroup cols="4"><tbody><row><entry align="center"/><entry align="center">Novofil black BB-03</entry><entry align="center">Hostafine Black TS</entry><entry align="center">Hostfine Black TS</entry></row><row><entry align="left">Pigment Concentrate</entry><entry align="center">14.8 g</entry><entry align="center">13.3 g</entry><entry align="center">15 g</entry></row><row><entry align="left">2-Pyrrolidine</entry><entry align="center">10.0 g</entry><entry align="center">10.0 g</entry><entry align="center">10.0 g</entry></row><row><entry align="left">1,5 Pentanediol</entry><entry align="center">10.0 g</entry><entry align="center">10.0 g</entry><entry align="center">10.0 g</entry></row><row><entry align="left">Polymer A solution</entry><entry align="center">21.4 g</entry></row><row><entry align="left">Polymer B solution</entry><entry align="right"/><entry align="center">21.4 g</entry></row><row><entry align="left">Poly(2-ethyl-2oxazoline)</entry><entry align="right"/><entry align="right"/><entry align="left">5.0 g</entry></row><row><entry align="left">Water</entry><entry align="center">33.8 g</entry><entry align="center">35.3 g</entry><entry align="left">50.0 g</entry></row><row><entry align="left">Multranol 4012</entry><entry align="center">10.0 g</entry><entry align="center">10.0 g</entry></row><row><entry align="left">TetraEthylene Glycol</entry><entry align="right"/><entry align="right"/><entry align="center">10.0 g</entry></row></tbody></tgroup></table></tables> 
+Ink formulation B:
+<tables><table><tgroup cols="2"><tbody><row><entry align="center">Ingredient</entry><entry align="center">Quantity (wt%)</entry></row><row><entry align="center">Cabojet 300 (10% conc.) Black</entry><entry align="center">27.01</entry></row><row><entry align="center">Polymer C solution (10%)</entry><entry align="center">30.14</entry></row><row><entry align="center">Primer Polymer</entry><entry align="center">6.39</entry></row><row><entry align="center">Leg-1</entry><entry align="center">8</entry></row><row><entry align="center">Surfanol-465</entry><entry align="center">0.07</entry></row><row><entry align="center">Coco betaine</entry><entry align="center">0.2</entry></row><row><entry align="center">Dodecanol</entry><entry align="center">0.14</entry></row><row><entry align="center">Leg-7</entry><entry align="center">1</entry></row><row><entry align="center">2Pyrrolidone</entry><entry align="center">7.02</entry></row><row><entry align="center">Neopentyl Alcohol</entry><entry align="center">0.41</entry></row><row><entry align="center">Water</entry><entry align="center">19.87</entry></row></tbody></tgroup></table></tables></p><p num="0067">Notes on the ink formulation ingredients:
+<sl><li>Poly(2-ethyl-2oxazoline) is obtained from Polymer chemistry innovations of Tucson,
+Arizona. 2-Pyrrolidine is used as a penetrant, used to facilitate interaction between
+the ink and the substrate</li><li>1,5-Pentanediol and tetraethylene glycol are used as humectants, to maintain moisture
+and keep the pen from drying</li><li>Multranol 4012, LEG 1, LEG 7, Coco betaine, Surfanol 465 are commercially
+available surfactants.</li></sl></p><heading><u style="single">Permanence Testing: Procedures</u></heading><p num="0068">The smear resistance which serves as a measure of mechanical and chemical
+(solvent) abrasion is measured by transfer of amount of color in milli optical density
+(mOD) units measured using MacBeth RD918 optical density meter (available form
+MacBeth, a division of Kollmorgen Instruments Corporation, New Windsor, NY).
+After running basic (fluorescent) highlighters twice over a set of bars printed using an
+ink jet printer containing the respective inks.</p><p num="0069">The permanence of images demonstrated by electrophotography (laser printing
+or copying), show the least transfer and lowest mOD numbers. Since the MacBeth 
+instrument reports mOD units of transferred color in this experiment, the lower
+number indicates less transfer. Therefore, the lower numbers indicate better
+performance. The markers used for this purpose are available from Sanford
+corporation or any office supply center under the name 'Major Accent' read through
+highlighting marker and 'fluorescent' (alkaline highlighting marker).</p><p num="0070">The tables below show comparative values of some of the commercially
+available transfer obtained from such smear tests. The process of 'fusion' is
+important for imparting permanence to the inks of the invention. Therefore, the
+comparison of 'before fusion' and 'after fission' data indicates the efficiency of the
+particular fusible material. Fusion indicates a treatment through heat press HIX N800
+3 seconds at 190°C or running the paper through a fuser attached to an ink jet printer
+so the paper path directly coincides with the fuser uptake. The fuser is set at 200°C
+with a residence time of 3 sec. Experiments are performed across a set of five papers
+to prove effectiveness of this approach on a variety of paper substrates.</p><p num="0071">As can be seen in Tables 1 -- 3, polymers A, B and C of the instant invention
+produced comparable results. The five papers used are champion data copy (CDCY),
+Gilbert bond (GBND), Stora Papyrus MultiCopy (PMCY), Stora Papyrus Natura
+(PNAT) and union Camp Jamestown (UCJT) available commercially.</p><p num="0072">Paper's propensity to absorb moisture because of the hydrophilic nature of he
+cellulose from which it is made has considerable implications for its behavior with
+various ink formulations. Paper in an ambient relative humidity of 50% can contain
+up to eight weight percent water. This moisture can become the controlling factor in
+the performance of the paper as a substrate in both electophotography and inkjet
+printing.</p><heading>Permanence Testing Results:</heading><p num="0073"><tables><table><tgroup cols="12"><tbody><row><entry nameend="12"  namest="1">Two pass highlighter smear 5 min after printing
+
+Novofil black BB-03 and Polymer A in ink formulation
+
+Values in mOD</entry></row><row><entry nameend="6"  align="center" namest="1">Alkaline</entry><entry align="center" namest="7"/><entry nameend="12" align="center" namest="8">Acid</entry></row><row><entry align="center">FUSER</entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry><entry align="center"> </entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry></row><row><entry align="center">Before</entry><entry align="center">243.3</entry><entry align="center">330.0</entry><entry align="center">117.6</entry><entry align="center">220.0</entry><entry align="center">280.0</entry><entry align="right"/><entry align="center">220.0</entry><entry align="center">280.0</entry><entry align="center">96.7</entry><entry align="center">197.0</entry><entry align="center">266.7</entry></row><row><entry align="center">After</entry><entry align="center">68.0</entry><entry align="center">75.0</entry><entry align="center">86.7</entry><entry align="center">70.0</entry><entry align="center">40.0</entry><entry align="right"/><entry align="center">53.3</entry><entry align="center">63.3</entry><entry align="center">30.0</entry><entry align="center">50.0</entry><entry align="center">23.3</entry></row></tbody></tgroup></table> </tables><tables><table><tgroup cols="12"><tbody><row><entry nameend="12" namest="1">Two pass highlighter 5 min after printing
+
+Hostafine Balck TS and Polymer B in Ink Formulation
+
+Values in mOD</entry></row><row><entry nameend="6" align="center" namest="1">Alkaline</entry><entry align="center" namest="7"/><entry nameend="12" align="center" namest="8">Acid</entry> </row> <row><entry align="center">FUSER</entry> <entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry><entry align="center"> </entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry></row><row><entry align="center">Before</entry><entry align="center">216.7</entry><entry align="center">320.0</entry><entry align="center">186.7</entry><entry align="center">463.3</entry><entry align="center">196.7</entry><entry align="right"/><entry align="center">196.0</entry><entry align="center">286.0</entry><entry align="center">140.0</entry><entry align="center">286.7</entry><entry align="center">40.0</entry></row><row><entry align="center">After</entry><entry align="center">97.0</entry><entry align="center">113.3</entry><entry align="center">90.7</entry><entry align="center">96.7</entry><entry align="center">20.0</entry><entry align="right"/><entry align="center">85.0</entry><entry align="center">95.7</entry><entry align="center">71.0</entry><entry align="center">86.7</entry><entry align="center">12.0</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Smear resistance of Poly(2-ethyl-2-Oxazoline)
+with <u style="single">Hostfine Black TS</u> colorant (values in mOD)</entry></row><row><entry align="center">Fuser</entry><entry align="center">GBND</entry><entry align="center">CDCY</entry><entry align="center">UJCT</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry></row><row><entry align="center">Before</entry><entry align="right">400</entry><entry align="right">384</entry><entry align="center">353</entry><entry align="right">544</entry><entry align="right">516</entry></row><row><entry align="center">After</entry><entry align="right">147</entry><entry align="right">118</entry><entry align="center">98</entry><entry align="right">138</entry><entry align="right">128</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Smear resistance of Polymer C
+with surface modified colorant (values in mOD)</entry></row><row><entry align="center">Fuser</entry><entry align="center">GBND</entry><entry align="center">CDCY</entry><entry align="center">UJCT</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry></row><row><entry align="center">Before</entry><entry align="center">400</entry><entry align="center">384</entry><entry align="center">353</entry><entry align="right">544</entry><entry align="right">516</entry></row><row><entry align="center">After</entry><entry align="center">98</entry><entry align="center">85</entry><entry align="center">77</entry><entry align="right">114</entry><entry align="right">103</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="12"><tbody><row><entry nameend="12" namest="1">Comparative Example A: HP 2000C printer black ink:
+
+Two pass highlighter 5 min after printing
+
+HP 2000C Black
+
+Values in mOD</entry></row><row><entry nameend="6" align="center" namest="1">Alkaline</entry><entry align="center" namest="7"/><entry nameend="12" align="center" namest="8">Acid</entry></row><row><entry align="center">FUSER</entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry><entry align="center"> </entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry></row><row><entry align="center">Before</entry><entry align="center">272.50</entry><entry align="center">249.67</entry><entry align="center">230.67</entry><entry align="center">389.00</entry><entry align="center">393.50</entry><entry align="right"/><entry align="center">237.33</entry><entry align="center">219.00</entry><entry align="center">207.33</entry><entry align="center">472.00</entry><entry align="center">277.67</entry></row><row><entry align="center">After</entry><entry align="center">318.50</entry><entry align="center">275.50</entry><entry align="center">309.50</entry><entry align="center">479.17</entry><entry align="center">473.67</entry><entry align="right"/><entry align="center">157.17</entry><entry align="center">154.00</entry><entry align="center">212.33</entry><entry align="center">361.17</entry><entry align="center">317.50</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="12"><tbody><row><entry nameend="12" namest="1">Comparative Example B: Canon BJC 800 J printer Black ink with clear under
+printing fluid (5<sup>th</sup> Pen):
+
+Two pass highlighter 5 min after printing
+
+Canon BJ F 800 Black, Values in mOD</entry></row><row><entry nameend="6" align="center" namest="1">Alkaline</entry><entry align="center" namest="7"/><entry nameend="12" align="center" namest="8">Acid</entry></row><row><entry align="center">FUSER</entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry><entry align="center"> </entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry></row><row><entry align="center">Before</entry><entry align="right">435</entry><entry align="right">560</entry><entry align="right">557</entry><entry align="right">433</entry><entry align="right">384</entry><entry align="right"/><entry align="right">453</entry><entry align="right">367</entry><entry align="right">467</entry><entry align="right">360</entry><entry align="right">327</entry></row><row><entry align="center">After</entry><entry align="right">454</entry><entry align="right">527</entry><entry align="right">535</entry><entry align="right">503</entry><entry align="right">407</entry><entry align="right"/><entry align="right">333</entry><entry align="right">325</entry><entry align="right">327</entry><entry align="right">253</entry><entry align="right">358</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="12"><tbody><row><entry nameend="12" namest="1">Comparative Example C: mOD results from electrophotographic (laser printer HP
+Laser Jet 4L Printer C2003A)
+
+Two pass highlighter 5 min after printing
+
+Laser Printer, Values in mOD</entry></row><row><entry nameend="6" align="center" namest="1">Alkaline</entry><entry align="center" namest="7"/><entry nameend="12" align="center" namest="8">Acid</entry></row><row><entry align="center">FUSER</entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry><entry align="center"> </entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry></row><row><entry align="center">Before</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="right"/><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry></row><row><entry align="center">After</entry><entry align="center">1</entry><entry align="center">4</entry><entry align="center">0</entry><entry align="center">2</entry><entry align="center">0</entry><entry align="right"/><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="12"><tbody><row><entry nameend="12" namest="1">Comparative Example D: mOD results from electrophotographic copy Lanier 6765
+Office Copier.
+
+Two pass highlighter 5 min after printing
+
+Laser Copier, Values in MOD</entry></row><row><entry nameend="6" align="center" namest="1">Alkaline</entry><entry align="center" namest="7"/><entry nameend="12" align="center" namest="8">Acid</entry></row><row><entry align="center">FUSING</entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry><entry align="center"> </entry><entry align="center">CDCY</entry><entry align="center">GBND</entry><entry align="center">PMCY</entry><entry align="center">PNAT</entry><entry align="center">UCJT</entry></row><row><entry align="center">Before</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="right"/><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry><entry align="center">NA</entry></row><row><entry align="center">After</entry><entry align="center">0</entry><entry align="center">1</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="right"/><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry></row></tbody></tgroup></table></tables></p><p num="0074">It can be seen that the permanence testing results of the instant invention,
+using a variety of pigments and more than one fusible material (Tables 1-4) exhibit
+much better permanence as compared to images produced by other inkjet printers.
+The mOD values before fusing, as seen in the above tables, are as low as 40, and are
+much lower than those in Tables 5 and 6. The mOD values in Table 5 (Hewlett-Packard)
+and Table 6 (Canon) are for current state of the art inkjet printers. They are
+consistently greater than 200.</p><p num="0075">The mOD values for the same Examples and Comparative Examples in the
+above Tables after fusion are striking. The mOD values for the examples of the
+invention drop as low as 100 or less. In the comparative examples, the mOD values
+range from 154 to 535. In many cases, the mOD values are even higher after than
+before fusing. This shows that the inks in currently used and commercially available
+inkjet printers do not produce images that are made permanent by fusion.</p><p num="0076">In contrast, the values for mOD shown in Table 7 (HP Laser Jet 4L Printer
+C2003A) and Table 8 (Lanier 6765 Office Copier) are less than 10.</p><p num="0077">It is clear that this invention closely matches the permanence of
+electrophotography with the desirable features of inkjet technology.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An inkjet ink composition suitable for producing a permanent image on a
+substrate; said inkjet ink comprises one or more fusible materials; wherein said
+fusible materials are selected from the groups consisting of:
+<claim-text><claim-text>a) amide-acid derivatives of alkene/maleic anhydride and ammonium
+hydroxide polymers;</claim-text><claim-text>b) amide-acid derivatives of of alkene/maleic anhydride and polyethylene
+glycol (PEG) amine polymers;</claim-text><claim-text>c) polymers of alkene/maleic anhydride and adducts with PEG
+monomethyl ethers;</claim-text><claim-text>d) polyoxazolines;</claim-text><claim-text>e) polyoxazolins; and</claim-text><claim-text>f) mixtures of precursors thereof.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The ink composition of Claim 1 wherein said fusible has a glass transition
+temperature ranging from between 40 to 140C, preferably between 50 to 90°C.</claim-text></claim><claim num="3"><claim-text>The ink composition of Claim 1 wherein said ink further comprises water,
+colorant, and a co-solvent and additives selected from the group consisting of
+biocides, viscosity modifiers, materials for pH adjustment, sequestering agents,
+preservatives, surfactants, and mixtures thereof.</claim-text></claim><claim num="4"><claim-text>The ink composition according to Claim 1 wherein said fusible material is a
+soluble polymer having the following repeating structure:
+
+wherein R1 is selected from the group consisting of: alkyl chains; branched alkyl
+chains with aromatic or aliphatic groups of from C2 to C50 carbons; and mixtures
+thereof.</claim-text></claim><claim num="5"><claim-text>The ink composition according to Claim 1 wherein said fusible material is a
+soluble polymer having the following structure:
+
+wherein R1, R2, and R3 are, independently, H, alkyl chains, branched alkyl
+chains, rings of from C2 and C50, and mixtures thereof.</claim-text></claim><claim num="6"><claim-text>The ink composition according to Claim 1 wherein said fusible material is a
+soluble polymer having the following structure:
+
+wherein R1, R2, and R3 are, independently, H, alkyl chains, branched alkyl
+chains, rings of from C2 and C50, and mixtures thereof.</claim-text></claim><claim num="7"><claim-text>A 5th pen composition for use with inkjet ink compositions comprising one or
+more fusible materials wherein said 5th pen composition is deposited onto a
+substrate either before or after a color-containing ink and wherein said 5th pen
+composition produces a permanent image on said substrate; said fusible
+materials are selected from the groups consisting of:<claim-text><claim-text>a) amide-acid derivatives of alkene/maleic anhydride and ammonium
+hydroxide polymers;</claim-text><claim-text>b) amide-acid derivatives of of alkene/maleic anhydride and polyethylene
+glycol (PEG) amine polymers;</claim-text><claim-text>c) polymers of alkene/maleic anhydride and adducts with PEG
+monomethyl ethers;</claim-text><claim-text>d) polyoxazolines;</claim-text><claim-text>e) polyoxazolins; and</claim-text><claim-text>f) mixtures of precursors thereof.</claim-text></claim-text></claim-text></claim><claim num="8"><claim-text>A 5th pen composition according to Claim 7 which is deposited onto a
+substrate in an amount ranging from 0.1 to 4 times the amount of color-containing
+ink, and wherein said fusible material has a glass transition
+temperature ranging from between 40 to 140C, preferably between 50 and
+90°C.</claim-text></claim><claim num="9"><claim-text>The 5th pen composition according to Claim 7 wherein said fusible material is
+a soluble polymer having the following repeating structure:
+
+wherein R1 is selected from the group consisting of: alkyl chains; branched
+alkyl chains with aromatic or aliphatic groups of from C2 to C50 carbons; and
+mixtures thereof.</claim-text></claim><claim num="10"><claim-text>The 5th pen composition according to Claim 7 wherein said fusible material is
+a soluble polymer having the following structure:
+wherein R1, R2, and R3 are, independently, H, alkyl chains, branched alkyl
+chains, rings of from C2 and C50, and mixtures thereof.</claim-text></claim><claim num="11"><claim-text>The 5th pen composition according to Claim 7 wherein said fusible material is
+a soluble polymer having the following structure:
+
+wherein R1, R2, and R3 are, independently, H, alkyl chains, branched alkyl
+chains, rings of from C2 and C50, and mixtures thereof.</claim-text></claim><claim num="12"><claim-text>A method for creating permanent images on a variety of substrates with inkjet
+printers wherein said inkjet printer contains a color-containing ink
+composition and a fusible material composition and wherein said image
+undergoes minimal transference of color upon chemical or mechanical
+abrasion as measured by mOD values ranging between 0 and 50; and wherein
+said fusible materials are selected from the groups consisting of:
+<claim-text><claim-text>a) amide-acid derivatives of alkene/maleic anhydride and ammonium
+hydroxide polymers;</claim-text><claim-text>b) amide-acid derivatives of of alkene/maleic anhydride and polyethylene
+glycol (PEG) amine polymers;</claim-text><claim-text>c) polymers of alkene/maleic anhydride and adducts with PEG
+monomethyl ethers;</claim-text><claim-text>d) polyoxazolines;</claim-text><claim-text>e) polyoxazolins; and</claim-text><claim-text>f) mixtures of precursors thereof.</claim-text></claim-text></claim-text></claim><claim num="13"><claim-text>The method of Claim 12 wherein said permanent image is created on said
+substrate by applying a color-containing ink composition and a fusible
+material; wherein said fusible material is applied before or after said color-containing
+ink or is contained in said color-containing ink composition and
+wherein a heat source is applied to said substrate which fuses the image onto
+the substrate.</claim-text></claim><claim num="14"><claim-text>The method for creating permanent images on a substrate according to Claim
+12 wherein said fusible material is contained in at least one color-containing
+ink.</claim-text></claim><claim num="15"><claim-text>The method of Claim 12 wherein said fusible material is contained in a 5th
+pen composition which is in addition to said color-containing ink composition.</claim-text></claim></claims><search-report-data status="new"><doc-page id="img--90000001" orientation="portrait" wi="156" status="new" file="90000001.tif" he="241" type="tif"/><doc-page id="img--90010001" orientation="portrait" wi="156" status="new" file="90010001.tif" he="234" type="tif"/></search-report-data><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

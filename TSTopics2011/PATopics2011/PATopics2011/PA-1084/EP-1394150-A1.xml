@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1394150-A1" country="EP" doc-number="1394150" kind="A1" lang="EN" family-id="26152908" status="new" date-produced="20090516" date="20040303"><bibliographic-data><publication-reference ucid="EP-1394150-A1" status="new" fvid="23984543"><document-id status="new" format="original"><country>EP</country><doc-number>1394150</doc-number><kind>A1</kind><date>20040303</date></document-id></publication-reference><application-reference ucid="EP-03026298-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03026298</doc-number><kind>A</kind><date>20000215</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-00102260-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>00102260</doc-number><kind>A</kind><date>20000215</date></document-id></priority-claim><priority-claim ucid="EP-03026298-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>03026298</doc-number><kind>A</kind><date>20000215</date></document-id></priority-claim><priority-claim ucid="EP-99103504-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>99103504</doc-number><kind>A</kind><date>19990224</date></document-id></priority-claim><priority-claim ucid="EP-99123689-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>99123689</doc-number><kind>A</kind><date>19991129</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A61K               20060101S I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/44        20060101A I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/44        20060101CLI20060101BMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/4409      20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/4409      20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/4418      20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/4418      20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/4427      20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/4427      20060101CLI20060101BMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/444       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/455       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/455       20060101CLI20060101BMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/496       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/496       20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   1/00        20060101A I20060521RMFR        </classification-ipcr><classification-ipcr status="new">A61P   1/00        20060101C I20060521RMFR        </classification-ipcr><classification-ipcr status="new">A61P   9/00        20060101A I20060521RMFR        </classification-ipcr><classification-ipcr status="new">A61P   9/00        20060101C I20060521RMFR        </classification-ipcr><classification-ipcr status="new">A61P  11/00        20060101A I20060521RMFR        </classification-ipcr><classification-ipcr status="new">A61P  11/00        20060101C I20060521RMFR        </classification-ipcr><classification-ipcr status="new">A61P  25/00        20060101A I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61P  25/00        20060101C I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61P  25/04        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/28        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/30        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  27/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  27/02        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  29/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  29/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  43/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  43/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07D               20060101S I20051110RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/00        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/30        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/38        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/40        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/65        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07D 213/74        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/75        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 213/82        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 401/00        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 401/04        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 401/12        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 413/00        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 413/12        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">C07D 413/14        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C07D 213/30</classification-symbol><classification-symbol scheme="EC">C07D 213/30C</classification-symbol><classification-symbol scheme="EC">C07D 213/38</classification-symbol><classification-symbol scheme="EC">C07D 213/40</classification-symbol><classification-symbol scheme="EC">C07D 213/40B</classification-symbol><classification-symbol scheme="EC">C07D 213/74</classification-symbol><classification-symbol scheme="EC">C07D 213/74C</classification-symbol><classification-symbol scheme="EC">C07D 213/75</classification-symbol><classification-symbol scheme="EC">C07D 213/75B4</classification-symbol><classification-symbol scheme="EC">C07D 213/75B6</classification-symbol><classification-symbol scheme="EC">C07D 213/75B8</classification-symbol><classification-symbol scheme="EC">C07D 213/82</classification-symbol><classification-symbol scheme="EC">C07D 213/82D</classification-symbol><classification-symbol scheme="EC">C07D 213/82H</classification-symbol><classification-symbol scheme="EC">C07D 401/04+213+207</classification-symbol><classification-symbol scheme="EC">C07D 401/04+213+211</classification-symbol><classification-symbol scheme="EC">C07D 401/12+239B+213</classification-symbol><classification-symbol scheme="EC">C07D 401/12+249B+213</classification-symbol><classification-symbol scheme="EC">C07D 401/12+257+213</classification-symbol><classification-symbol scheme="EC">C07D 413/12+271+213</classification-symbol><classification-symbol scheme="EC">C07D 413/14+271+213+213+211</classification-symbol><classification-symbol scheme="ICO">M07D213:30C</classification-symbol><classification-symbol scheme="ICO">M07D213:38</classification-symbol><classification-symbol scheme="ICO">M07D213:40B</classification-symbol><classification-symbol scheme="ICO">M07D213:74</classification-symbol><classification-symbol scheme="ICO">M07D213:74C</classification-symbol><classification-symbol scheme="ICO">M07D213:75B4</classification-symbol><classification-symbol scheme="ICO">M07D213:75B6</classification-symbol><classification-symbol scheme="ICO">M07D213:75B8</classification-symbol><classification-symbol scheme="ICO">M07D213:82D</classification-symbol><classification-symbol scheme="ICO">M07D213:82H</classification-symbol><classification-symbol scheme="ICO">M07D401:04</classification-symbol><classification-symbol scheme="ICO">M07D401:04+21+207</classification-symbol><classification-symbol scheme="ICO">M07D401:12</classification-symbol><classification-symbol scheme="ICO">M07D413:12</classification-symbol><classification-symbol scheme="ICO">M07D413:14</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">4-Phenylpyridinderivate und deren Verwendung als NK-1 Rezeptorantagonisten</invention-title><invention-title load-source="ep" status="new" lang="EN">4-Phenylpyridine derivatives and their use as NK-1 receptor antagonists</invention-title><invention-title load-source="ep" status="new" lang="FR">Dérivés de 4-phenylpyridine et leur utilisation comme antagonistes du recepteur NK-1</invention-title><citations><patent-citations><patcit ucid="EP-0235663-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0235663</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0733632-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0733632</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1103545-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1103545</doc-number><kind>A1</kind></document-id><sources><source category="E" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1103546-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1103546</doc-number><kind>A1</kind></document-id><sources><source category="E" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2000050398-A2" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2000050398</doc-number><kind>A2</kind></document-id><sources><source category="E" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>IKEURA, YOSHINORI ET AL:  "Potent NK1 receptor antagonists: synthesis and antagonistic activity of various heterocycles with an N-[3,5-bis(trifluoromethyl)benzylÜ-N- methylcarbamoyl substituent" CHEM. PHARM. BULL. (1997), 45(10), 1642-1652,   XP000910111</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>NATSUGARI, HIDEAKI ET AL:  "Novel, Potent, and Orally Active Substance P Antagonists: Synthesis and Antagonist Activity of N-Benzylcarboxamide Derivatives of Pyrido[3,4-bÜpyridine" JOURNAL OF MEDICINAL CHEMISTRY., vol. 38, no. 16, 1995, pages 3106-3120, XP000910106 AMERICAN CHEMICAL SOCIETY. WASHINGTON., US ISSN: 0022-2623</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><related-documents status="new"><relation type="division"><child-doc ucid="EP-03026298-A"><document-id status="new" format="original"><country>EP</country><doc-number>03026298</doc-number><kind>A</kind><date>20000215</date></document-id></child-doc><parent-doc ucid="EP-00102260-A" psta="unknown"><document-id status="new" format="original"><country>EP</country><doc-number>00102260</doc-number><kind>A</kind><date>20000215</date></document-id></parent-doc></relation></related-documents><parties><applicants><applicant status="new" format="epo"><addressbook><name>HOFFMANN LA ROCHE</name><address><country>CH</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>F. HOFFMANN-LA ROCHE AG</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>F. HOFFMANN-LA ROCHE AG</last-name><address><street>124 Grenzacherstrasse</street><city>4070 Basel</city><country>CH</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>BOES MICHAEL</name><address><country>CA</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>BRANCA QUIRICO</name><address><country>CH</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>GALLEY GUIDO</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>GODEL THIERRY</name><address><country>CH</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>HOFFMANN TORSTEN</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>HUNKELER WALTER</name><address><country>CH</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SCHNIDER PATRICK</name><address><country>CH</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>STADLER HEINZ</name><address><country>CH</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>BOES, MICHAEL</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>BRANCA, QUIRICO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GALLEY, GUIDO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GODEL ,THIERRY</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HOFFMANN, TORSTEN</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HUNKELER, WALTER</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SCHNIDER, PATRICK</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>STADLER, HEINZ</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>BOES, MICHAEL</last-name><address><street>3550 Jeanne Mance App. E 1906</street><city>Montreal Quebec H2X 3P7</city><country>CA</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>BRANCA, QUIRICO</last-name><address><street>3 Ob dem Hügliacker</street><city>4102 Binningen</city><country>CH</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GALLEY, GUIDO</last-name><address><street>14 Kaztenbuckeweg</street><city>79618 Rheinfelden</city><country>DE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GODEL ,THIERRY</last-name><address><street>7 Mittlere Strasse</street><city>4056 Basle</city><country>CH</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>HOFFMANN, TORSTEN</last-name><address><street>71 Muttenzerstrasse</street><city>4127 Birsfelden</city><country>CH</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>HUNKELER, WALTER</last-name><address><street>32 Im Stigler</street><city>4312 Magden</city><country>CH</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SCHNIDER, PATRICK</last-name><address><street>7 Stallenrain</street><city>4104 Oberwil</city><country>CH</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>STADLER, HEINZ</last-name><address><street>37 Waldhofstrasse</street><city>4310 Rheinfelden</city><country>CH</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Poppe, Regina</last-name><address><street>124 Grenzacherstrasse</street><city>4070 Basle</city><country>CH</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country></ep-contracting-states><ep-extended-states><ep-extended-state-data><country>AT</country></ep-extended-state-data><ep-extended-state-data><country>BE</country></ep-extended-state-data><ep-extended-state-data><country>CH</country></ep-extended-state-data><ep-extended-state-data><country>CY</country></ep-extended-state-data><ep-extended-state-data><country>DE</country></ep-extended-state-data><ep-extended-state-data><country>DK</country></ep-extended-state-data><ep-extended-state-data><country>ES</country></ep-extended-state-data><ep-extended-state-data><country>FI</country></ep-extended-state-data><ep-extended-state-data><country>FR</country></ep-extended-state-data><ep-extended-state-data><country>GB</country></ep-extended-state-data><ep-extended-state-data><country>GR</country></ep-extended-state-data><ep-extended-state-data><country>IE</country></ep-extended-state-data><ep-extended-state-data><country>IT</country></ep-extended-state-data><ep-extended-state-data><country>LI</country></ep-extended-state-data><ep-extended-state-data><country>LT</country></ep-extended-state-data><ep-extended-state-data><country>LU</country></ep-extended-state-data><ep-extended-state-data><country>LV</country></ep-extended-state-data><ep-extended-state-data><country>MC</country></ep-extended-state-data><ep-extended-state-data><country>NL</country></ep-extended-state-data><ep-extended-state-data><country>PT</country></ep-extended-state-data><ep-extended-state-data><country>SE</country></ep-extended-state-data></ep-extended-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The present invention relates to compounds of the general formula
+<img id="img-80000001" orientation="unknown" wi="56" img-format="tif" img-content="cf" file="80000001.tif" inline="no" he="38"/>
+wherein
+<dl tsize="10"><dt>R</dt><dd>is hydrogen, lower alkyl, lower alkoxy, halogen or trifluoromethyl;</dd><dt>R<sup>1</sup></dt><dd>is hydrogen or halogen; or</dd><dt>R and R<sup>1</sup></dt><dd>may be together -CH=CH-CH=CH-;</dd><dt>R<sup>2</sup> and R<sup>2'</sup></dt><dd>are independently from each other hydrogen, halogen, trifluoromethyl, lower
+alkoxy or cyano; or</dd><dt>R<sup>2</sup> and R<sup>2'</sup></dt><dd>may be together -CH=CH-CH=CH-, optionally substituted by one or two
+substituents selected from lower alkyl or lower alkoxy;</dd><dt>R<sup>3</sup></dt><dd>is hydrogen, lower alkyl or form a cycloalkyl group;</dd><dt>R<sup>4</sup></dt><dd>is hydrogen, -N(R<sup>5</sup>)<sub>2</sub>, -N(R<sup>5</sup>)(CH<sub>2</sub>)<sub>n</sub>OH, -N(R<sup>5</sup>)S(O)<sub>2</sub>-lower alkyl, -N(R<sup>5</sup>)S(O)<sub>2</sub>-phenyl,
+-N=CH-N(R<sup>5</sup>)<sub>2</sub>, -N(R<sup>5</sup>)C(O)R<sup>5</sup> or a cyclic tertiary amine of the group
+<img id="img-80000002" orientation="unknown" wi="52" img-format="tif" img-content="cf" file="80000002.tif" inline="no" he="15"/><img id="img-80000003" orientation="unknown" wi="52" img-format="tif" img-content="cf" file="80000003.tif" inline="no" he="15"/></dd><dt>R<sup>5</sup></dt><dd>is, independently from each other, hydrogen, C<sub>3</sub>-<sub>6</sub>-cycloalkyl, benzyl or lower
+alkyl;</dd><dt>R<sup>6</sup></dt><dd>is hydrogen, hydroxy, lower alkyl, -(CH<sub>2</sub>)<sub>n</sub>COO-lower alkyl, -N(R<sup>5</sup>)CO-lower
+alkyl, hydroxy-lower alkyl, cyano, -(CH<sub>2</sub>)<sub>n</sub>O(CH<sub>2</sub>)<sub>n</sub>OH, -CHO or a 5-or 6
+membered heterocyclic group, optionally bonded via an alkylene group, </dd><dt>X</dt><dd>is -C(O)N(R<sup>5</sup>)-, -(CH<sub>2</sub>)<sub>m</sub>O-, -(CH<sub>2</sub>)<sub>m</sub>N(R<sup>5</sup>)-, -N(R<sup>5</sup>)C(O)-, or -N(R<sup>5</sup>)(CH<sub>2</sub>)<sub>m</sub>-;</dd><dt>n</dt><dd>is 0 - 4; and</dd><dt>m</dt><dd>is 1 or 2;</dd></dl>
+and to pharmaceutically acceptable acid addition salts thereof. The compounds of formula
+I show a high affinity to the NK-1 receptor. They may be used for the treatment of
+diseases, which relate to NK-1 receptor antagonists.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to compounds of the general formula
+<img id="img-00010001" orientation="unknown" wi="61" img-format="tif" img-content="cf" file="00010001.tif" inline="no" he="38"/>
+wherein
+<dl tsize="10"><dt>R</dt><dd>is hydrogen, lower alkyl, lower alkoxy, halogen or trifluoromethyl;</dd><dt>R<sup>1</sup></dt><dd>is hydrogen or halogen; or</dd><dt>R and R<sup>1</sup></dt><dd>may be together -CH=CH-CH=CH-;</dd><dt>R<sup>2</sup> and R<sup>2'</sup></dt><dd>are independently from each other hydrogen, halogen, trifluoromethyl, lower
+alkoxy or cyano; or</dd><dt>R<sup>2</sup> and R<sup>2'</sup></dt><dd>may be together -CH=CH-CH=CH-, optionally substituted by one or two
+substituents selected from lower alkyl or lower alkoxy;</dd><dt>R<sup>3</sup></dt><dd>is hydrogen, lower alkyl or form a cycloalkyl group;</dd><dt>R<sup>4</sup></dt><dd>is hydrogen, -N(R<sup>5</sup>)<sub>2</sub>, -N(R<sup>5</sup>)(CH<sub>2</sub>)<sub>n</sub>OH, -N(R<sup>5</sup>)S(O)<sub>2</sub>-lower alkyl, -N(R<sup>5</sup>)S(O)<sub>2</sub>-phenyl,
+-N=CH-N(R<sup>5</sup>)<sub>2</sub>, -N(R<sup>5</sup>)C(O)R<sup>5</sup> or a cyclic tertiary amine of the group
+<img id="img-00010002" orientation="unknown" wi="26" img-format="tif" img-content="cf" file="00010002.tif" inline="no" he="16"/>
+or the group <img id="img-00020001" orientation="unknown" wi="67" img-format="tif" img-content="cf" file="00020001.tif" inline="no" he="17"/></dd><dt>R<sup>5</sup></dt><dd>is, independently from each other, hydrogen, C<sub>3</sub>-<sub>6</sub>-cycloalkyl, benzyl or lower
+alkyl;</dd><dt>R<sup>6</sup></dt><dd>is hydrogen, hydroxy, lower alkyl, -(CH<sub>2</sub>)<sub>n</sub>COO-lower alkyl, -N(R<sup>5</sup>)CO-lower
+alkyl, hydroxy-lower alkyl, cyano, -(CH<sub>2</sub>)<sub>n</sub>O(CH<sub>2</sub>)<sub>n</sub>OH, -CHO or a 5-or 6
+membered heterocyclic group, optionally bonded via an alkylene group,</dd><dt>X</dt><dd>is -C(O)N(R<sup>5</sup>)-, -(CH<sub>2</sub>)<sub>m</sub>O-, -(CH<sub>2</sub>)<sub>m</sub>N(R<sup>5</sup>)-, -N(R<sup>5</sup>)C(O)-, or -N(R<sup>5</sup>)(CH<sub>2</sub>)<sub>m</sub>-;</dd><dt>n</dt><dd>is 0 - 4; and</dd><dt>m</dt><dd>is 1 or 2;</dd></dl>
+and to pharmaceutically acceptable acid addition salts thereof.</p><p num="0002">The compounds of formula I and their salts are characterized by valuable therapeutic
+properties. It has been surprisingly found that the compounds of the present invention are
+antagonists of the Neurokinin 1 (NK-1, substance P) receptor. Substance P is a naturally
+occurring undecapeptide belonging to the tachykinin family of peptides, the latter being
+so-named because of their prompt contractile action on extravascular smooth muscle
+tissue. The receptor for substance P is a member of the superfamily of G protein-coupled
+receptors.</p><p num="0003">The neuropeptide receptor for substance P (NK-1) is widely distributed throughout
+the mammalian nervous system (especially brain and spinal ganglia), the circulatory
+system and peripheral tissues (especially the duodenum and jejunum) and are involved in
+regulating a number of diverse biological processes.
+
+The central and peripheral actions of the mammalian tachykinin substance P have been
+associated with numerous inflammatory conditions including migraine, rheumatoid
+arthritis, asthma, and inflammatory bowel disease as well as mediation of the emetic reflex
+and the modulation of central nervous system (CNS) disorders such as Parkinson's disease
+(Neurosci. Res., 1996, 7, 187-214), anxiety (Can. J. Phys., 1997, 75, 612-621) and
+depression (Science, 1998, 281, 1640-1645).
+
+Evidence for the usefulness of tachykinin receptor antagonists in pain, headache, especially
+migraine, Alzheimer's disease, multiple sclerosis, attenuation of morphine withdrawal,
+cardiovascular changes, oedema, such as oedema caused by thermal injury, chronic
+inflammatory diseases such as rheumatoid arthritis, asthma/bronchial hyperreactivity and
+other respiratory diseases including allergic rhinitis, inflammatory diseases of the gut 
+including ulcerative colitis and Crohn's disease, ocular injury and ocular inflammatory
+diseases reviewed in "Tachykinin Receptor and Tachykinin Receptor Antagonists", J.
+Auton. Pharmacol., 13, 23-93, 1993.</p><p num="0004">Furthermore, Neurokinin 1 receptor antagonists are being developed for the
+treatment of a number of physiological disorders associated with an excess or imbalance of
+tachykinin, in particular substance P. Examples of conditions in which substance P has
+been implicated include disorders of the central nervous system such as anxiety,
+depression and psychosis (WO 95/16679, WO 95/18124 and WO 95/23798).</p><p num="0005">The neurokinin-1 receptor antagonists are further useful for the treatment of motion
+sickness and for treatment induced vomiting.</p><p num="0006">In addition, in The New England Journal of Medicine, Vol. 340, No. 3 190-195, 1999 has
+been described the reduction of cisplatin-induced emesis by a selective neurokinin-1-receptor
+antagonist.</p><p num="0007">Furthermore, US 5,972,938 describes a method for treating a psychoimmunologic or a
+psychosomatic disorder by administration of a tachykinin receptor, such as NK-1 receptor
+antagonist.</p><p num="0008">Objects of the present invention are the compounds of formula I and pharmaceutically
+acceptable salts thereof, the preparation of the above-mentioned compounds,
+medicaments containing them and their manufacture as well as the use of the above-mentioned
+compounds in the control or prevention of illnesses, especially of illnesses and
+disorders of the kind referred to earlier or in the manufacture of corresponding
+medicaments.</p><p num="0009">The most preferred indications in accordance with the present invention are those,
+which include disorders of the central nervous system, for example the treatment or
+prevention of certain depressive disorders or emesis by the administration of NK-1
+receptor antagonists. A major depressive episode has been defined as being a period of at
+least two weeks during which, for most of the day and nearly every day, there is either
+depressed mood or the loss of interest or pleasure in all, or nearly all activities.</p><p num="0010">The following definitions of the general terms used in the present description apply
+irrespective of whether the terms in question appear alone or in combination. As used
+herein, the term "lower alkyl" denotes a straight- or branched-chain alkyl group
+containing from 1-7 carbon atoms, for example, methyl, ethyl, propyl, isopropyl, n-butyl,
+i-butyl, t-butyl and the like.
+
+Preferred lower alkyl groups are groups with 1-4 carbon atoms. </p><p num="0011">The term "lower alkoxy" denotes a group wherein the alkyl residues are as defined
+above, and which is attached via an oxygen atom.</p><p num="0012">The term "halogen" denotes chlorine, iodine, fluorine and bromine.</p><p num="0013">The term "cycloalkyl" denotes a saturated carbocyclic group, containing 3-6 carbon
+atoms.</p><p num="0014">The term "cyclic tertiary amine" denotes, for example, pyrrol-1-yl, imidazol-1-yl,
+piperidin-1-yl, piperazin-1-yl, morpholin-4-yl, thiomorpholin-4-yl, 1-oxo-thiomorpholin-4-yl
+or 1,1-dioxo-thiomorpholin-4-yl.</p><p num="0015">The term "5 or 6 membered heterocyclic group" denotes, for example pyridinyl,
+pyrimidinyl, oxadiazolyl, triazolyl, tetrazolyl, thiazolyl, thienyl, furyl, pyranyl, pyrrolyl,
+imidazolyl, pyrazolyl, isothiazolyl, piperazinyl or piperidyl.</p><p num="0016">The term "pharmaceutically acceptable acid addition salts" embraces salts with
+inorganic and organic acids, such as hydrochloric acid, nitric acid, sulfuric acid,
+phosphoric acid, citric acid, formic acid, fumaric acid, maleic acid, acetic acid, succinic
+acid, tartaric acid, methanesulfonic acid, p-toluenesulfonic acid and the like.</p><p num="0017">Exemplary preferred are compounds, in which X is -C(O)N(R<sup>5</sup>)-, wherein R<sup>5</sup> is
+methyl, ethyl or cyclopropyl, for example the following compounds:
+<sl><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-chloro-phenyl)-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-trifluoromethyl-phenyl)-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-fluoro-phenyl)-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-methoxy-phenyl)-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-phenyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-ethyl-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-cyclopropyl-4-o-tolyl-nicotinamide,</li><li>N-[1-(3,5-Bis-trifluoromethyl-phenyl)-ethyl]-N-methyl-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Di-fluorobenzyl)-N-methyl-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Di-chlorobenzyl)-N-methyl-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolyl-nicotinamide,</li><li>2'-Methyl-5-(4-methyl-piperazin-1-yl)-biphenyl-2-carboxylic acid-(3,5-bis-trifluoromethyl-benzyl)-methyl-amide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-4-naphthalen-1-yl-nicotinamide, </li><li>(4-{5-[(3,5-Bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazin-1-yl)-acetic
+acid ethyl ester,</li><li>5'- [(3,5-Bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4'-o-tolyl-3,4,5,6-tetrahydro-2H-[1,2']bipyridinyl-4-carboxylic
+acid ethyl ester,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-propyl-piperazin-1-yl)-4-o-tolyl-nicotinamide,</li><li>(RS)-6-[3-(Acetyl-methyl-amino)-pyrrolidin-1-yl]-N-(3,5-bis-trifluoromethylbenzyl)-N-methyl-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-[methyl-(2-morpholin-4-yl-ethyl)-amino]
+-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-morpholin-4-yl-4-o-tolylnicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-thiomorpholin-4-yl-4-o-tolylnicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(1-oxo-1l 4-thiomorpholin-4-yl)-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-6-(1,1-dioxo-1l 6-thiomorpholin-4-yl)-N-methyl-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-piperazin-1-yl-4-o-tolylnicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-6-[4-(2-hydroxy-ethyl)-piperazin-1-yl]-N-methyl-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-6-(4-cyanomethyl-piperazin-1-yl)-N-methyl-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-6-{4-[2-(2-hydroxy-ethoxy)-ethyl]-piperazin-1-yl}-N-methyl-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-[1,2,4]oxadiazol-3- ylmethylpiperazin-1-yl)-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-[4-(5-oxo-4,5-dihydro-1H-[1,2,4]triazol-3-ylmethyl)-piperazin-1-yl]-4-o-tolyl-nicotinamide,</li><li>N-(3,5-Bis-trifluoromethyl-benzyl)-6-(4-formyl-piperazin-1-yl)-N-methyl-4-o-tolyl-nicotinamide
+and</li><li>N-Methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolylnicotinamide.</li></sl></p><p num="0018">Further preferred are compounds, in which X is -N(R<sup>5</sup>)-CO-, wherein R<sup>5</sup> is
+hydrogen or methyl. </p><p num="0019">Examples of such compounds are:
+<sl><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-N-methyl-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(4-fluoro-2-methyl-phenyl)-6-(4-methylpiperazin-1-yl)-pyridin-3-yl]-N-methyl-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-pyridin-3-yl]-N-methyl-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl-N-methyl-N-(4-o-tolyl-pyridin-3-yl)-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(4-o-tolyl-pyridin-3-yl)-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(4-o-tolyl-pyridin-3-yl)-acetamide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(4-o-tolyl-pyridin-3-yl)-propionamide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolylpyridin-3-yl)-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-6-morpholin-4-yl-pyridin-3-yl]-N-methyl-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-{6-[ methyl-(2-morpholin-4-yl-ethyl)-amino]-4-o-tolyl-pyridin-3-yl}-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N- [6-(4-pyrimidin-2-yl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N- [4-(2-chloro-phenyl)-6-dimethylaminopyridin-3-yl]
+-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-piperazin-1-yl-4-o-tolylpyridin-3-yl)-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(4-hydroxy-4'-o-tolyl-3,4,5,6-tetrahydro-2H-[1,2']bipyridinyl-5'-yl)-N-methyl-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-{6-[(2-hydroxy-ethyl)-methyl-amino]-4-o-tolyl-pyridin-3-yl}-N-methyl-isobutyramide,</li><li>(R)-2-(3,5-Bis-trifluoromethyl-phenyl)-N-[6-(3-hydroxy-pyrrolidin-1-yl)-4-o-tolylpyridin-3-yl]-N-methyl-isobutyramide,</li><li>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolylpyridin-3-yl)-acetamide
+and </li><li>[2-(3,5-Bis-trifluoromethyl-phenyl)-2-methyl-propyl]-[4-(4-fluoro-2-methylphenyl)-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-methyl-amine.</li></sl></p><p num="0020">The present compounds of formula I and their pharmaceutically acceptable salts can
+be prepared by methods known in the art, for example, by processes described below,
+which process comprises
+<sl><li>a) reacting a compound of formula
+<img id="img-00070001" orientation="unknown" wi="48" img-format="tif" img-content="cf" file="00070001.tif" inline="no" he="40"/>
+with a compound of formula
+<img id="img-00070002" orientation="unknown" wi="44" img-format="tif" img-content="cf" file="00070002.tif" inline="no" he="28"/>
+to a compound of formula
+<img id="img-00070003" orientation="unknown" wi="64" img-format="tif"  img-content="cf" file="00070003.tif" inline="no" he="41"/>
+   wherein R<sup>1</sup>- R<sup>5</sup>, R and n have the significances given above,
+or</li><li>b) reacting a compound of formula <img id="img-00080001" orientation="unknown"  wi="48"  img-format="tif"  img-content="cf" file="00080001.tif" inline="no" he="37"/>
+with a compound of formula
+<img id="img-00080002" orientation="unknown" wi="46" img-format="tif" img-content="cf" file="00080002.tif" inline="no" he="34"/>
+to give a compound of formula
+<img id="img-00080003" orientation="unknown" wi="71" img-format="tif" img-content="cf" file="00080003.tif" inline="no" he="41"/>
+   wherein R<sup>1</sup>-R<sup>5</sup>, R and n have the significances given above, or</li><li>c) reducing a compound of formula
+<img id="img-00080004" orientation="unknown" wi="73" img-format="tif" img-content="cf" file="00080004.tif" inline="no" he="41"/>
+to a compound of formula <img id="img-00090001" orientation="unknown" wi="77" img-format="tif" img-content="cf" file="00090001.tif" inline="no" he="38"/>
+   wherein the definition of substituents is given above, or</li><li>d) reacting a compound of formula
+<img id="img-00090002" orientation="unknown" wi="49" img-format="tif" img-content="cf" file="00090002.tif" inline="no" he="42"/>
+with a compound of formula
+<img id="img-00090003" orientation="unknown" wi="41" img-format="tif" img-content="cf" file="00090003.tif" inline="no" he="38"/>
+to a compound of formula
+<img id="img-00090004" orientation="unknown" wi="66" img-format="tif" img-content="cf" file="00090004.tif" inline="no" he="46"/>
+   wherein Z is Cl, Br, I or -OS(O)<sub>2</sub>C<sub>6</sub>H<sub>4</sub>CH<sub>3</sub> and the other definitions of substituents
+are given above, or</li><li>e) reacting a compound of formula <img id="img-00100001" orientation="unknown" wi="58" img-format="tif" img-content="cf" file="00100001.tif" inline="no" he="37"/>
+with a compound of formula
+<img id="img-00100002" orientation="unknown" wi="48" img-format="tif" img-content="cf" file="00100002.tif" inline="no" he="38"/>
+to a compound of formula
+<img id="img-00100003" orientation="unknown" wi="65" img-format="tif" img-content="cf" file="00100003.tif" inline="no" he="45"/>
+   wherein Z is Cl, Br, I or OS(O)<sub>2</sub>C<sub>6</sub>H<sub>4</sub>CH<sub>3</sub> and the definition of the other substituents
+is given above, or</li><li>f) reducing a compound of formula
+<img id="img-00100004" orientation="unknown" wi="64" img-format="tif" img-content="cf" file="00100004.tif" inline="no" he="39"/>
+to a compound of formula <img id="img-00110001" orientation="unknown" wi="90" img-format="tif" img-content="cf" file="00110001.tif" inline="no" he="40"/>
+   wherein the definition of substituents is given above,
+
+or</li><li>h) modifying one or more substituents R<sup>1</sup>-R<sup>6</sup> or R within the definitions given above,
+and
+
+if desired, converting the compound obtained into a pharmaceutically acceptable acid
+addition salt.</li></sl></p><p num="0021">In accordance with process variant a) DIPEA (N-ethyldiisopropyl-amine) is added
+to a mixture of a compound of formula II, for example methyl-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]amine,
+and a compound of formula III, for example 2-(3,5-bis-trifluoromethyl-phenyl)-2-methyl-propionyl
+chloride in dichloromethane and the mixture
+is stirred at temperatures between 35-40°C. The desired compound of formula I-1 is
+isolated after purification in good yields.</p><p num="0022">Process variant b) describes the reaction of a compound of formula IV with a
+compound of formula V to a compound of formula I-2. The reaction is carried out in
+conventional manner, for example in a solvent, such as a mixture of toluene and triethylamine.
+The mixture is refluxed for about 1 hour.</p><p num="0023">In accordance with process variant c) a compound of formula I-2 is reduced to a
+compound of formula I-4. This reaction is carried out with a reducing agent, such as
+LiAlH<sub>4</sub> or BH<sub>3</sub>•THF, in conventional manner.</p><p num="0024">Process variant d) describes the reaction of a compound of formula VI with a
+compound of formula VII to a compound of formula I-2. This reaction is carried out by
+deprotonation of a compound of formula VI with KHMDS (potassium
+hexamethyldisilazide) and subsequent addition of a compound of formula VII. A suitable
+solvent is tetrahydrofuran. The reaction is carried out at room temperature.</p><p num="0025">In accordance with process variant e) a compound of formula I-5 is prepared. This
+reaction is carried out by deprotonation of a compound of formula VIII with NaH and 
+susequent addition of a compound of formula VII. This reaction is carried out in
+conventional manner.</p><p num="0026">A further method for the preparation of a compound of formula I is described in
+process variant f). A compound of formula I-1 is reduced to a compound of formula I-3 in
+conventional manner, for example with LiAlH<sub>4</sub> or BH<sub>3</sub>•THF.</p><p num="0027">The salt formation is effected at room temperature in accordance with methods
+which are known per se and which are familiar to any person skilled in the art. Not only
+salts with inorganic acids, but also salts with organic acids come into consideration.
+Hydrochlorides, hydrobromides, sulphates, nitrates, citrates, acetates, maleates, succinates,
+methan-sulphonates, p-toluenesulphonates and the like are examples of such salts.</p><p num="0028">The following schemes 1-8 describe the processes for preparation of compounds of
+formula I in more detail. The starting materials of formulae V, IX, XII, XV, XVI, XXII,
+XXV, XXVIII, IXXX and XXX are known compounds and may be prepared according to
+methods known in the art.</p><p num="0029">In the schemes the following abbreviations have been used:
+<dl compact="compact" tsize="5"><dt>PivCl</dt><dd>pivaloyl chloride</dd><dt>THF</dt><dd>tetrahydrofuran</dd><dt>TMEDA</dt><dd>N,N,N',N'-tetramethylethylene diamine</dd><dt>DIPEA</dt><dd>N-ethyldiisopropyl-amine</dd><dt>KHMDS</dt><dd>potassium hexamethyldisilazide</dd></dl><img id="img-00130001" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00130001.tif" inline="no" he="210"/></p><p num="0030">The definition of substituents is given above. <img id="img-00140001" orientation="unknown" wi="155" img-format="tif" img-content="cf" file="00140001.tif" inline="no" he="224"/></p><p num="0031">The definition of substituents is given above. <img id="img-00150001" orientation="unknown" wi="164" img-format="tif" img-content="cf" file="00150001.tif" inline="no" he="144"/>
+and the definition of the other substituents is given above. <img id="img-00160001" orientation="unknown" wi="164" img-format="tif" img-content="cf" file="00160001.tif" inline="no" he="128"/></p><p num="0032">The definition of substituents is given above. <img id="img-00170001" orientation="unknown" wi="157" img-format="tif" img-content="cf" file="00170001.tif" inline="no" he="101"/>
+Z is Cl, Br, I or -OS(O)<sub>2</sub>C<sub>6</sub>H<sub>4</sub>CH<sub>3</sub> and the definition of the other substituents is described
+above. <img id="img-00180001" orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00180001.tif" inline="no" he="108"/>
+Z is Cl, Br, I or -OS(O)<sub>2</sub>C<sub>6</sub>H<sub>4</sub>CH<sub>3</sub> and the definition of the other substituents is given
+above.
+<img id="img-00180002" orientation="unknown" wi="154" img-format="tif" img-content="cf" file="00180002.tif" inline="no" he="61"/></p><p num="0033">The definition of substituents is given above. <img id="img-00190001" orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00190001.tif" inline="no" he="109"/></p><p num="0034">The definition of substituents is given above.</p><p num="0035">As mentioned earlier, the compounds of formula I and their pharmaceutically usable
+addition salts possess valuable pharmacological properties. It has been found that the
+compounds of the present invention are antagonists of the Neurokinin 1 (NK-1, substance
+P) receptor.</p><p num="0036">The compounds were investigated in accordance with the tests given hereinafter.</p><p num="0037">The affinity of test compounds for the NK<sub>1</sub> receptor was evaluated at human NK<sub>1</sub>
+receptors in CHO cells infected with the human NK<sub>1</sub> receptor (using the Semliki virus
+expression system) and radiolabelled with [<sup>3</sup>H]substance P (final concentration 0.6 nM).
+Binding assays were performed in HEPES buffer (50 mM, pH 7.4) containing BSA (0.04
+%) leupeptin (8 µg / ml), MnCl<sub>2</sub> (3mM) and phosphoramidon (2 µM). Binding assays
+consisted of 250 µl of membrane suspension (1.25x10<sup>5</sup> cells / assay tube), 0.125 µl of buffer
+of displacing agent and 125 µl of [<sup>3</sup>H] substance P. Displacement curves were determined
+with at least seven concentrations of the compound. The assay tubes were incubated for 60
+min at room temperature after which time the tube contents were rapidly filtered under
+vacuum through GF/C filters presoaked for 60 min with PEI (0.3%) with 2 x 2 ml washes
+of HEPES buffer (50 mM, pH 7.4). The radioactivity retained on the filters was measured 
+by scintillation counting. All assays were performed in triplicate in at least 2 separate
+experiments.</p><p num="0038">The affinity to the NK-1 receptor, given as pKi, is in the scope of 8.00-9.80 for the
+preferred compounds. Examples of such compounds are
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-4-(2-chloro-phenyl)-nicotinamide</entry><entry align="center">8.20</entry></row><row><entry align="left">2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-N-(4-o-tolyl-pyridin-3-yl)-isobutyramide</entry><entry align="center">8.47</entry></row><row><entry align="left">2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-N-{6-[methyl-(2-morpholin-4-yl-ethyl)-amino]-4-o-tolyl-pyridin-3-yl}-isobutyramide</entry><entry align="center">8.70</entry></row><row><entry align="left">2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-N-(6-piperazin-1-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide</entry><entry align="center">9.0</entry></row><row><entry align="left">N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-[4-(5-oxo-4,5-dihydro-1H-[1,2,4]triazol-3-ylmethyl)-piperazin-1-yl]-4-o-tolyl-nicotinamide</entry><entry align="center">9.54</entry></row></tbody></tgroup></table></tables></p><p num="0039">The compounds of formula I as well as their pharmaceutically usable acid addition
+salts can be used as medicaments, e.g. in the form of pharmaceutical preparations. The
+pharmaceutical preparations can be administered orally, e.g. in the form of tablets, coated
+tablets, dragées, hard and soft gelatine capsules, solutions, emulsions or suspensions. The
+administration can, however, also be effected rectally, e.g. in the form of suppositories, or
+parenterally, e.g. in the form of injection solutions.</p><p num="0040">The compounds of formula I and their pharmaceutically usable acid addition salts
+can be processed with pharmaceutically inert, inorganic or organic excipients for the
+production of tablets, coated tablets, dragees and hard gelatine capsules. Lactose, corn
+starch or derivatives thereof, talc, stearic acid or its salts etc can be used as such excipients
+e.g. for tablets, dragées and hard gelatine capsules.</p><p num="0041">Suitable excipients for soft gelatine capsules are e.g. vegetable oils, waxes, fats, semisolid
+and liquid polyols etc.</p><p num="0042">Suitable excipients for the manufacture of solutions and syrups are e.g. water,
+polyols, saccharose, invert sugar, glucose etc. </p><p num="0043">Suitable excipients for injection solutions are e.g. water, alcohols, polyols, glycerol,
+vegetable oils etc.</p><p num="0044">Suitable excipients for suppositories are e.g. natural or hardened oils, waxes, fats,
+semi-liquid or liquid polyols etc.</p><p num="0045">Moreover, the pharmaceutical preparations can contain preservatives, solubilizers,
+stabilizers, wetting agents, emulsifiers, sweeteners, colorants, flavorants, salts for varying
+the osmotic pressure, buffers, masking agents or antioxidants. They can also contain still
+other therapeutically valuable substances.</p><p num="0046">The dosage can vary within wide limits and will, of course, be fitted to the individual
+requirements in each particular case. In general, in the case of oral administration a daily
+dosage of about 10 to 1000 mg per person of a compound of general formula I should be
+appropriate, although the above upper limit can also be exceeded when necessary.</p><p num="0047">The following Examples illustrate the present invention without limiting it. All
+temperatures are given in degrees Celsius.</p><heading><b>Example 1</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-o-tolyl-nicotinamide</b></heading><heading><u style="single">a) Methyl 4-o-tolyl-nicotinoate</u></heading><p num="0048">A mixture of 1.2 g (6.9 mmol) methyl 4-chloronicotinoate, 20 ml dimethoxyethane, 6.4 ml
+2 N sodium carbonate solution, 0.4 g (0.34 mmol)
+tetrakis(triphenylphosphine)palladium(0) and 1.4 g (10.3 mmol) o-tolylboronic acid was
+heated under argon at 80°C for 18h. After cooling to room temperature, the aqueous phase
+was separated and washed twice with ethyl acetate. The combined organic layers were
+washed with 50 ml brine, dried (sodium sulfate), evaporated and dried <i>in vacuo</i>. The crude
+oil was subjected to column chromatography to yield 1.5 g (97%) of the title compound as
+an oil that crystallized upon storage at 0°C.</p><p num="0049">MS m/e (%): 227 (M<sup>+</sup>, 15).</p><heading><u style="single">b) 4-o-tolyl-nicotinic acid</u></heading><p num="0050">A solution of 1.13 g (5.0 mmol) methyl 4-o-tolyl-nicotinoate in 15 ml ethanol and 12 ml 2
+N sodium hydroxide solution was heated to reflux for 1 h. The pH was adjusted to 5 and
+the mixture was extracted twice with ethyl acetate. The combined organic layers were dried 
+(sodium sulfate) and evaporated to give 1 g (94%) of the title compound as off white
+crystals.</p><p num="0051">M.p. 201-202°C.</p><heading><u style="single">c) N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-o-tolyl-nicotinamide</u></heading><p num="0052">A solution of 1 g (4.6 mmol) 4-o-tolyl-nicotinic acid in 10 ml dichloromethane and 2
+drops of N,N-dimethylformamide was stirred with 1 ml (14 mmol) thionyl chloride for 2 h
+at room temperature. The solvent was removed and the residue was taken up in 10 ml
+toluene and 2 ml triethylamine. After the addition of 1.3 g (5.1 mmol) 3.5-bis-trifluorobenzyl-methyl
+amine the mixture was refluxed for 1 h and extracted twice with
+ethyl acetate and washed with sodium bicarbonate. The combined organic layers were
+dried (sodium sulfate) and evaporated. The crude oil was subjected to column
+chromatography to give 1.4 g (67%) of the title compound as an oil.</p><p num="0053">MS m/e (%): 452 (M<sup>+</sup>, 5).</p><heading><b>Example 2</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-chloro-phenyl)-nicotinamide</b></heading><p num="0054">The title compound was obtained as an oil in comparable yields according to the
+procedures described above for the preparation of Example 1 using o-chlorophenylboronic
+acid instead of o-tolylboronic acid in step a).</p><p num="0055">MS m/e (%): 471 (M<sup>+</sup>, 3).</p><heading><b>Example 3</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-trifluoromethyl-phenyl)-nicotinamide</b></heading><p num="0056">The title compound was obtained as an oil in comparable yields according to the
+procedures described above for the preparation of Example 1 using o-trifluoromethylphenylboronic
+acid instead of o-tolylboronic acid in step a).</p><p num="0057">MS m/e (%): 506 (M<sup>+</sup>, 15).</p><heading><b>Example 4</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-fluoro-phenyl)-nicotinamide</b></heading><p num="0058">The title compound was obtained as an oil in comparable yields according to the
+procedures described above for the preparation of Example 1 using o-fluorophenylboronic
+acid instead of o-tolylboronic acid in step a). </p><p num="0059">MS m/e (%): 456 (M<sup>+</sup>, 30).</p><heading><b>Example 5</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-methoxy-phenyl)-nicotinamide</b></heading><p num="0060">The title compound was obtained as an oil in comparable yields according to the
+procedures described above for the preparation of Example 1 using o-methoxyphenylboronic
+acid instead of o-tolylboronic acid in step a).</p><p num="0061">MS m/e (%): 469 (M+H<sup>+</sup>, 100).</p><heading><b>Example 6</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-phenyl-nicotinamide</b></heading><p num="0062">The title compound was obtained as an oil in comparable yields according to the
+procedures described above for the preparation of Example 1 using phenylboronic acid
+instead of o-tolylboronic acid in step a).</p><p num="0063">MS m/e (%): 438 (M<sup>+</sup>, 60).</p><heading><b>Example 7</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-ethyl-4-o-tolyl-nicotinamide</b></heading><p num="0064">The title compound was obtained as an oil in comparable yields according to the
+procedures described above for the preparation of Example 1 using 3,5-bis-trifluorobenzyl-ethyl
+amine instead of 3,5-bis-trifluorobenzyl-methyl amine in step c).
+
+MS m/e (%): 465 (M-H-, 3).</p><heading><b>Example 8</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-cyclopropyl-4-o-tolyl-nicotinamide hydrochloride
+(1:0.8)</b></heading><heading><u style="single">a) N-(3,5-Bis trifluoromethyl-benzyl)-N-cyclopropyl-4-o-tolyl-nicotinamide</u></heading><p num="0065">A solution of 106 mg (0.5 mmol) 4-o-tolyl-nicotinic acid in 5 ml dichloromethane and 2
+drops N,N-dimethylformamide was stirred with 0.1 ml (1.4 mmol) thionyl chloride for 1.5
+h at room temperature. The solvent was removed and the residue was taken up in 5 ml
+dichloromethane and 0.3 ml triethylamine. After the addition of 155 mg (0.55 mmol) (3,5-bis-trifluoromethyl-benzyl)-cyclopropyl-amine
+the mixture was stirred at room
+temperature for 1 h and washed twice with water. The organic layer was dried (magnesium
+sulfate) and evaporated. The crude oil was subjected to column chromatography to give
+140 mg (58%) of the title compound as an oil.</p><p num="0066">MS m/e (%): 479 (M<sup>+</sup>, 100). </p><heading><u style="single">b) N-(3,5-Bis trifluoromethyl-benzyl)-N-cyclopropyl-4-o-tolyl-nicotinamide
+hydrochloride (1:0.8)</u></heading><p num="0067">To a solution of 140 mg N-(3,5-bis trifluoromethyl-benzyl)-N-cyclopropyl-4-o-tolylnicotinamide
+in 1 ml diethyl ether were added 3 drops of 3 N hydrochloric acid solution in
+methanol. After stirring for 15 min at 0°C, the mixture was evaporated to dryness to give
+100 mg (41%) of the title compound as white crystals. M.p. 174-178°C.</p><p num="0068">MS m/e (%): 479 (M<sup>+</sup>, 100).</p><heading><b>Example 9</b></heading><heading><b>N-[1-(3,5-Bis-trifluoromethyl-phenyl)-ethyl]-N-methyl-4-o-tolyl-nicotinamide</b></heading><p num="0069">The title compound was obtained as an oil in comparable yields according to the
+procedures described above for the preparation of Example 1 using 2-(3,5-bis-trifluorophenyl)ethyl-methyl
+amine instead of 3,5-bis-trifluorobenzyl-methyl amine in
+step c).</p><p num="0070">MS m/e (%): 467 (M+H<sup>+</sup>, 100).</p><heading><b>Example 10</b></heading><heading><b>N-(3,5-di-fluorobenzyl)-N-methyl-4-o-tolyl-nicotinamide</b></heading><p num="0071">The title compound was obtained as a solid in comparable yields according to the
+procedures described above for the preparation of Example 1 using 3,5-difluorobenzylmethyl
+amine instead of 3,5-bis-trifluorobenzyl-methyl amine in step c).
+
+MS m/e (%): 353 (M+H<sup>+</sup>, 100).</p><heading><b>Example 11</b></heading><heading><b>N-(3,5-di-chlorobenzyl)-N-methyl-4-o-tolyl-nicotinamide</b></heading><p num="0072">The title compound was obtained as an oil in comparable yields according to the
+procedures described above for the preparation of Example 1 using 3,5-dichlorobenzylmethyl
+amine instead of 3,5-bis-trifluorobenzyl-methyl amine in step c).</p><p num="0073">MS m/e (%): 385 (M+H<sup>+</sup>, 100), 387 (M+H<sup>+</sup>, 70).</p><heading><b>Example 12</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolylnicotinamide
+hydrochloride (1:2)</b></heading><heading><u style="single">a) 6-Chloro-N-methyl-nicotinamide</u></heading><p num="0074">To 50 g (317 mmol) of 2-chloronicotinic acid was added 230 ml (3.16 mol) thionyl
+chloride at 0°C. After heating the mixture at reflux for 2h excess thionyl chloride was
+removed by distillation. The oily brown residue was dissolved in 250 ml dichloromethane.
+The solution was treated with methylamine gas at 0°C until no exothermic reaction was
+observed any longer. The resulting suspension was diluted with 1000 ml
+dichloromethane/water. The layers were separated and the aqueous layer extracted with
+three 300 ml portions of dichloromethane. Drying of the organic layer with sodium sulfate
+and concentration gave 53.2 g (98%) of the title compound as a light yellow solid.</p><p num="0075">MS m/e (%): 171 (M+H<sup>+</sup>, 15).</p><heading><u style="single">b) N-Methyl-6-(4-methyl-piperazin-1-yl)-nicotinamide</u> </heading><p num="0076">A mixture of 52.0 g (30.5 mmol) 6-chloro-N-methyl-nicotinamide and 176 ml (1.58 mol)
+1-methylpiperazine was heated at 100°C for 1.5h in an autoclave. After cooling to room
+temperature excess 1-methylpiperazine was removed by distillation. The residue was
+partitioned in 1000 ml dichloromethane/1 N aqueous sodium hydroxide solution. The
+layers were separated and the aqueous layer was extracted with three 500 ml portions of
+dichloromethane. Concentration and short column chromatography yielded 72.3 g (97%)
+of the title compound as a light brown solid.</p><p num="0077">MS m/e (%): 235 (M+H<sup>+</sup>, 100).</p><heading><u style="single">c) 4-Iodo-N-methyl-6-(4-methyl-piperazin-1-yl)-nicotinamide</u></heading> <p num="0078">To a solution of 936 mg (3.99 mmol) N-methyl-6-(4-methyl-piperazin-1-yl)-nicotinamide
+and 2.46 ml (16.4 mmol) N,N,N',N'-tetramethylethylenediamine in 20 ml dry
+tetrahydrofuran 10 ml (16 mmol) of a 1.6 M solution of n-butyllithium in hexane were
+added dropwise at -78°C. After 0.5h the mixture was warmed to -35°C. Stirring was
+continued for 3h at that temperature. After cooling to -78°C a solution of 1.52 g (6.00
+mmol) iodine in 2.5 ml tetrahydrofuran was added. The reaction mixture was allowed to
+warm up to room temperature overnight. The reaction mixture was quenched with 30 ml
+of a 20 % aqueous sodium hydrogensulfite solution at 0°C. Extraction with three 30 ml
+portions of ethyl acetate, drying with sodium sulfate and concentration gave 1.2 g of a
+brown oil. Column chromatography afforded 618 mg (43%) of the title compound.</p> <p num="0079">MS m/e (%): 360 (M<sup>+</sup>, 15).</p> <heading><u style="single">d) N-Methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolyl-nicotinamide</u></heading><p num="0080">A suspension of 4.00 g (11.1 mmol) 4-iodo-N-methyl-6-(4-methyl-piperzin-1-yl)-nicotinamide
+and 642 mg (0.555 mmol) tetrakis(triphenylphosphine)palladium(0) in 60
+ml toluene was dioxygenated with a stream of argon for 30 min. After addition of 11 ml of
+a 2 N aqueous solution of sodium carbonate and 1.66 g (12.2 mmol) o-tolylboronic acid,
+the mixture was heated at reflux overnight. Cooling to room temperature was followed by
+dilution with water and extraction with three 50 ml portions of ethyl acetate. The aqueous
+layer was saturated with sodium chloride and extracted with three 50 ml portions of
+dichloromethane. The combined organic layers were dried with sodium sulfate and
+concentrated. Column chromatography afforded 2.26 g (63%) of the title compound.</p><p num="0081">MS m/e (%): 324 (M<sup>+</sup>, 5).</p><heading><u style="single">e) N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolyl-nicotinamide
+hydrochloride (1:2)</u></heading><p num="0082">To a solution of 750 mg (2.32 mmol) N-methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolyl-nicotinamide
+in 16 ml tetrahydrofuran, 3 ml of a 1 M solution (3 mmol) of potassium
+hexamethyldisilazide in tetrahydrofuran was added at room temperature. After 1h, 0.43 ml
+(2.3 mmol) 3,5-bis(trifluoromethyl)benzyl bromide was added dropwise to the resulting
+suspension. The reaction was quenched with water after 1h and the mixture was extracted
+with three 20 ml portions of ethyl acetate. The combined organic extracts were washed
+with saturated aqueous sodium chloride solution, dried with sodium sulfate and
+concentrated. Column chromatography gave 950 mg (74%) N-(3,5-bis-trifluoromethylbenzyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolyl-nicotinamide.
+The white foam
+was dissolved in a small amount of diethyl ether and treated with 2 ml 3 N hydrochloric
+acid solution in diethyl ether. Concentration afforded 1.02 g (74%) of the title compound
+as a white solid.</p><p num="0083">MS m/e (%): 551 (M+H<sup>+</sup>, 100).</p><heading><b>Example 13</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-4-(2-chloro-phenyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-nicotinamide
+hydrochloride (1:2)</b></heading><p num="0084">The title compound was prepared analogously to the preparation of Example 12 using 2-chlorophenylboronic
+acid instead of o-tolylboronic acid in step d).</p><p num="0085">MS m/e (%): 571 (M+H<sup>+</sup>, 100) </p><heading><b>Example 14</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-isobutyramide
+hydrochloride (1:2)</b></heading><heading><u style="single">a) 1-Methyl-4-(5-nitro-pyridin-2-yl)-piperazine</u></heading><p num="0086">To a solution of 20 g (126 mmol) of 2-chloro-5-nitropyridine in 200 ml tetrahydrofuran
+were added dropwise 35 ml (315 mmol) 1-methylpiperazine within 10 min. The reaction
+mixture was refluxed for additional 1.5h. After cooling to room temperature, the solvent
+was removed <i>in vacuo</i> and the residue was re-dissolved in 200 ml ethyl acetate. The organic
+phase was washed with 200 ml 1 N sodium bicarbonate solution, dried (magnesium
+sulfate) and evaporated to give 27.9 g (quantitative) of the title compound as a yellow
+solid.</p><p num="0087">MS m/e (%): 223 (M+H<sup>+</sup>, 100).</p><heading><u style="single">b) 2,2-Dimethyl-N-[6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-propionamide</u></heading><p num="0088">To a solution of 27.9 g (125.5 mmol) of 1-methyl-4-(5-nitro-pyridin-2-yl)-piperazine in
+400 ml methanol were added 2.6 g of 10 % of palladium on activated charcoal. The
+reaction mixture was hydrogenated (room temperature to <i>ca</i>. 45°C, 1 bar) until the
+theoretical amount of hydrogen was taken up (about 2h). The catalyst was filtered off and
+was washed twice with 100 ml portions of methanol. The filtrate was evaporated <i>in vacuo</i>
+to give 28 g of a purple oil which consisted to <i>ca</i>. 90 % of the desired aniline derivative
+according to analysis by thin layer chromatography.</p><p num="0089">This crude product was dissolved in a mixture of 400 ml tetrahydrofuran and 100 ml
+diethyl ether. After cooling to 0°C, 30 ml (215 mmol) of triethylamine were added in one
+portion. Stirring was continued while 26 g (215 mmol) of pivaloyl chloride were added
+dropwise within a period of 10 min. The ice bath was removed and the reaction mixture
+was stirred for 1h at room temperature. Then, the solvent was removed <i>in vacuo</i> and the
+residue was suspended in 200 ml 1 N sodium bicarbonate solution. The product was
+extracted three times with 200 ml portions of dichloromethane, dried (sodium sulfate) and
+purified by flash chromatography to give 30 g (86%) of the title compound as pink
+crystals.</p><p num="0090">MS m/e (%): 277 (M+H<sup>+</sup>, 100).</p><heading><u style="single">c) N-[4-Iodo-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-2,2-dimethyl-propionamide</u></heading><p num="0091">A solution of 30 g (108 mmol) 2,2-dimethyl-N-[6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-propionamide
+and 58 ml (380 mmol) N,N,N',N'-tetramethylethylenediamine under
+argon in 650 ml tetrahydrofuran was cooled in a dry ice bath to -78°C. Within 1h, 239 ml
+(380 mmol) of a 1.6 N n-butyllithium solution in hexane were added dropwise. The
+reaction mixture was allowed to warm up to -30°C overnight. After cooling again to -78°C,
+43.6 g (170 mmol) iodine dissolved in 60 ml tetrahydrofuran were added dropwise during
+15 min. The dry ice bath was replaced by an ice bath and a solution of 90 g (363 mmol)
+sodium thiosulfate pentahydrate in 250 ml water were added within 10 min when the
+temperature of the reaction mixture had reached 0°C. Then, 1000 ml diethyl ether were
+added and the organic layer was separated. The aqueous layer was extracted twice with 500
+ml dichloromethane and the combined organic layers were dried (magnesium sulfate) and
+evaporated. Flash chromatography gave 18.5 g (42%) of the title compound as a light
+brown oil which crystallized upon standing at room temperature.</p><p num="0092">MS m/e (%): 403 (M+H<sup>+</sup>, 100).</p><heading><u style="single">d) 2,2-Dimethyl-N-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-propionamide</u></heading><p num="0093">A mixture of 54 g (134 mmol) N-[4-iodo-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-2,2-dimethyl-propionamide,
+420 ml toluene, 150 ml 2 N sodium carbonate solution, 4.63 g
+(3.9 mmol) tetrakis(triphenylphosphine)palladium(0) and 20.16 g (147 mmol) o-tolylboronic
+acid was heated under argon at 80°C for 12h. After cooling to room
+temperature, the aqueous phase was separated and washed twice with toluene. The
+combined organic layers were washed with 50 ml brine, dried (sodium sulfate), evaporated
+and dried <i>in vacuo</i> to yield 49 g (quantitative) of the title compound as a brown oil.</p><p num="0094">MS m/e (%): 367 (M+H<sup>+</sup>, 100).</p><heading><u style="single">e) 6-(4-Methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-ylamine</u></heading><p num="0095">A suspension of 56 g (152 mmol) 2,2-dimethyl-N-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-propionamide
+in 1300 ml 3 N hydrochloric acid solution was heated to 90-95°C
+overnight. The reaction mixture was cooled to room temperature, washed with three
+500 ml portions diethyl ether and filtered over celite. The filtrate was diluted with 500 ml
+water and was adjusted to pH 7-8 by addition of 28 % sodium hydroxide solution under
+ice cooling. The product was extracted with four 1000 ml portions of dichloromethane.
+The combined organic layers were washed with 500 ml brine, dried (magnesium sulfate)
+and evaporated to give 35 g (82%) of the title compound as a light brown oil.</p><p num="0096">MS m/e (%): 283 (M+H<sup>+</sup>, 100). </p><heading><u style="single">f) Methyl-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-amine</u></heading><p num="0097">A solution of 35 g (124 mmol) 6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-ylamine in
+270 ml trimethyl orthoformate and 8 drops trifluoroacetic acid was heated for 3h at 130°C.
+The reaction mixture was evaporated and dried <i>in vacuo</i> for 30 min. The residual oil was
+dissolved in 100 ml tetrahydrofuran and was added dropwise under ice cooling to 9.4 g
+(248 mmol) lithium aluminum hydride in 300 ml tetrahydrofuran. The reaction mixture
+was stirred for 1h at room temperature, cooled to 0°C again and acidified (pH 1-2) by
+addition of 28 % hydrochloric acid solution. After stirring for 5 min, 28 % sodium
+hydroxide solution was added to reach pH 10. The solution was filtered over celite,
+evaporated and purified by flash chromatography to give 23.6 g (64%) of the title
+compound as a light brown oil.</p><p num="0098">MS m/e (%): 297 (M+H<sup>+</sup>, 100).</p><heading><u style="single">g) 2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-isobutyramide</u></heading><p num="0099">A solution of 20 g (67.5 mmol) methyl-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-amine
+and 17.5 ml (101 mmol) N-ethyldiisopropylamine in 200 ml dichloromethane
+was cooled in an ice bath and a solution of 24 g (75 mmol) 2-(3,5-bis-trifluoromethylphenyl)-2-methyl-propionyl
+chloride in 50 ml dichloromethane was added dropwise. The
+reaction mixture was warmed to 35-40°C for 3h, cooled to room temperature again and
+was stirred with 250 ml saturated sodium bicarbonate solution. The organic layer was
+separated and the aqueous phase was extracted with dichloromethane. The combined
+organic layers were dried (magnesium sulfate) and evaporated. The residue was purified by
+flash chromatography to give 31.6 g (81%) of the title compound as white crystals. M.p.
+155-157°C.</p><p num="0100">MS m/e (%): 579 (M+H<sup>+</sup>, 100).</p><heading><u style="single">h) 2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-isobutyramide
+hydrochloride (1:2)</u></heading><p num="0101">To a solution of 31.6 g (54.6 mmol) 2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-N-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-isobutyramide
+in 250 ml diethyl ether
+were added under ice cooling 60 ml 3 N hydrochloric acid solution in diethyl ether. After
+stirring for 15 min at 0°C, the suspension was evaporated to dryness, re-suspended in 100
+ml diethyl ether, filtered and dried <i>in vacuo</i> to give 34.8 g (98%) of the title compound as
+white crystals. M.p. 235-238°C. </p><p num="0102">MS m/e (%): 579 (M+H<sup>+</sup>, 100).</p><heading><b>Example 15</b></heading><heading><b>2-(3,5-bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-N-methyl-isobutyramide
+hydrochloride (1:2)</b></heading><p num="0103">The title compound was obtained as white crystals in comparable yields according to the
+procedures described above for the preparation of Example 14 using o-chlorophenylboronic
+acid instead of o-tolylboronic acid in step d).</p><p num="0104">MS m/e (%): 599 (M+H<sup>+</sup>, 100), 601 (M+H<sup>+</sup>, 43).</p><heading><b>Example 16</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(4-fluoro-2-methyl-phenyl)-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-N-methyl-isobutyramide
+hydrochloride (1:2)</b></heading><p num="0105">The title compound was obtained as white crystals in comparable yields according to the
+procedures described above for the preparation of Example 14 using 4-fluoro-2-methylphenylboronic
+acid instead of o-tolylboronic acid in step d).</p><p num="0106">MS m/e (%): 597 (M+H<sup>+</sup>, 100).</p><heading><b>Example 17</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-pyridin-3-yl]-N-methyl-isobutyramide
+hydrochloride (1:1)</b></heading><heading><u style="single">a) 2,2-Dimethyl-N-(4-iodo-pyridin-3-yl)-acetamide</u></heading><p num="0107">A solution of 91 g (510 mmol) N-3-pyridylpivalamide and 230 ml (1.53 mol) N,N,N',N'-tetramethylethylenediamine
+under argon in 2000 ml tetrahydrofuran was cooled in a dry
+ice bath to -78°C. Within 1h, 153 ml (1.53 mmol) of a 10 N n-butyllithium solution in
+hexane were added dropwise. The reaction mixture was stirred at 0°C for additional 2h.
+After cooling again to -78°C, 380 g (1.5 mol) iodine dissolved in 300 ml tetrahydrofuran
+were added dropwise during 1.5h. The dry ice bath was removed and the reaction mixture
+was allowed to warm up to room temperature overnight. Stirring was continued and 1000
+ml water and 1000 ml saturated sodium thiosulfate pentahydrate solution were added. The
+aqueous layer was separated and extracted twice with 800 ml ethyl acetate. The combined
+organic layers were dried (magnesium sulfate) and evaporated. Chromatographical
+filtration gave 75 g (48%) of the title compound as brown crystals.</p><p num="0108">MS m/e (%): 305 (M+H<sup>+</sup>, 100). </p><heading><u style="single">b) N-[4-(2-Chloro-phenyl)-pyridin-3-yl]-2,2-dimethyl-propionamide</u></heading><p num="0109">A mixture of 35 g (115 mmol) 2,2-dimethyl-N-(4-iodo-pyridin-3-yl)-acetamide, 400 ml
+toluene, 120 ml 2 N sodium carbonate solution, 4.0 g (3.5 mmol)
+tetrakis(triphenylphosphine)palladium(0) and 20.0 g (128 mmol) o-chlorophenylboronic
+acid was heated under argon at 80°C for 12h. After cooling to room temperature, the
+aqueous phase was separated and washed twice with toluene. The combined organic layers
+were washed with 50 ml brine, dried (magnesium sulfate) and evaporated. The residue was
+purified by flash chromatography to yield 21.6 g (65%) of the title compound as white
+crystals.</p><p num="0110">MS m/e (%): 289 (M+H<sup>+</sup>, 100), 291 (M+H<sup>+</sup>, 40).</p><heading><u style="single">c) 4-(2-Chloro-phenyl)-pyridin-3-ylamine</u></heading><p num="0111">A suspension of 22.2 g (77 mmol) N-[4-(2-chloro-phenyl)-pyridin-3-yl]-2,2-dimethylpropionamide
+in 730 ml 3 N hydrochloric acid solution was heated to 90-95°C overnight.
+The reaction mixture was cooled to room temperature, washed with three 130 ml portions
+diethyl ether and 500 ml ethyl acetate were added. The aqueous phase was adjusted to pH
+7-8 by addition of 28 % sodium hydroxide solution under ice cooling. The organic phase
+was separated and the product was extracted with three 200 ml portions of ethyl acetate.
+The combined organic layers were dried (magnesium sulfate) and evaporated to give 14.9
+g (95%) of the title compound as white crystals.</p><p num="0112">MS m/e (%): 205 (M+H<sup>+</sup>, 100), 207 (M+H<sup>+</sup>, 39).</p><heading><u style="single">d) [4-(2-Chloro-phenyl)-pyridin-3-yl]-methyl-amine</u></heading><p num="0113">A solution of 14.9 g (72.8 mmol) 4-(2-chloro-phenyl)-pyridin-3-ylamine in 80 ml
+trimethyl orthoformate and 5 drops trifluoroacetic acid was heated for 2.5h at 130°C. The
+reaction mixture was evaporated and dried <i>in vacuo</i> for 30 min. The residual oil was
+dissolved in 130 ml tetrahydrofuran and 220 ml (220 mmol) of 1 M boranetetrahydrofuran
+complex were added dropwise under ice cooling. After stirring overnight
+at room temperature, the reaction mixture was evaporated, cooled to 0°C and 130 ml 5 N
+hydrochloric acid solution in ethanol were added carefully. The solution was refluxed for
+1h, cooled to room temperature again and crushed ice was added. The aqueous phase was
+washed with three 100 ml portions diethyl ether and the organic layers were extracted with
+100 ml 1 N hydrochloric acid solution. The combined aqueous layers were adjusted to pH
+8-9 by addition of concentrated sodium hydroxide solution and were extracted with three 
+500 ml portions ethyl acetate. The combined organic extracts were dried (magnesium
+sulfate), evaporated and the solid residue was recrystallized from hexane/ethyl acetate to
+give 12.3 g (77%) of the title compound as white crystals.</p><p num="0114">MS m/e (%): 219 (M+H<sup>+</sup>, 100), 221 (M+H<sup>+</sup>, 42).</p><heading><u style="single">e) 2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-pyridin-3-yl]-N-methyl-isobutyramide</u></heading><p num="0115">A solution of 12.2 g (55.8 mmol) [4-(2-chloro-phenyl)-pyridin-3-yl]-methyl-amine and
+15.3 ml (89 mmol) N-ethyldiisopropylamine in 130 ml dichloromethane was cooled in an
+ice bath and a solution of 19 g (59.6 mmol) 2-(3,5-bis-trifluoromethyl-phenyl)-2-methyl-propionyl
+chloride in 30 ml dichloromethane was added dropwise. The reaction mixture
+was warmed to 35-40°C for 20h, cooled to room temperature again and was stirred with
+250 ml saturated sodium bicarbonate solution. The organic layer was separated and the
+aqueous phase was extracted with dichloromethane. The combined organic layers were
+dried (magnesium sulfate) and evaporated. The residue was purified by flash
+chromatography to give 24.7 g (88%) of the title compound as white crystals.</p><p num="0116">MS m/e (%): 501 (M+H<sup>+</sup>, 100), 503 (M+H<sup>+</sup>, 36).</p><heading><u style="single">f) 2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-pyridin-3-yl]-N-methyl-isobutyramide
+hydrochloride (1:1)</u></heading><p num="0117">To a solution of 24.7 g (54.6 mmol) 2-(3,5-bis-trifluoromethyl-phenyl)-N-[4-(2-chlorophenyl)-pyridin-3-yl]-N-methyl-isobutyramide
+in 100 ml diethyl ether were added under
+ice cooling 60 ml 3 N hydrochloric acid solution in diethyl ether. After stirring for 20 min
+at 0°C, the suspension was evaporated to dryness, re-suspended in 100 ml diethyl ether,
+filtered and dried <i>in vacuo</i> to give 26.3 g (99%) of the title compound as white crystals.
+M.p. 186-188°C.</p><p num="0118">MS m/e (%): 501 (M+H<sup>+</sup>, 100), 503 (M+H<sup>+</sup>, 36).</p><heading><b>Example 18</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(4-o-tolyl-pyridin-3-yl)-isobutyramide
+hydrochloride (1:1)</b></heading><p num="0119">The title compound was obtained as white crystals in comparable yields according to the
+procedures described above for the preparation of example 17 using o-tolylboronic acid
+instead of o-chlorophenylboronic acid in step b).</p><p num="0120">MS m/e (%): 480 (M<sup>+</sup>, 5), 255 (25), 225 (100). </p><heading><b>Example 19</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(4-o-tolyl-pyridin-3-yl)-isobutyramide</b></heading><p num="0121">The title compound was obtained as a brown oil in comparable yields according to the
+procedures described above for the preparation of Example 17 using o-tolylboronic acid
+instead of o-chlorophenylboronic acid in step b). Step d) was skipped and no
+hydrochloride salt was prepared.</p><p num="0122">MS m/e (%): 467 (M+H<sup>+</sup>, 100).</p><heading><b>Example 20</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(4-o-tolyl-pyridin-3-yl)-acetamide
+hydrochloride (1:1)</b></heading><p num="0123">The title compound was obtained in comparable yields according to the procedures
+described above for the preparation of Example 17 using o-tolylboronic acid instead of o-chlorophenylboronic
+acid in step b). Step e) was performed as follows:
+<sl><li>To a solution of 511 mg (1.88 mmol) 3,5-bis(trifluoromethyl)phenylacetic acid in 8 ml
+tetrahydrofuran at 0°C were added 305 mg (1.88 mmol) 1,1'-carbonyldiimidazole in one
+portion. The reaction mixture was stirred for 2h at room temperature and 310 mg (1.56
+mmol) methyl-(4-o-tolyl-pyridin-3-yl)-amine were added. Stirring was continued at 55°C
+overnight. The reaction mixture was evaporated and the residue was purified by flash
+chromatography. The hydrochloride salt formation was performed as described in f) and
+gave 290 mg (38%) of the title compound as yellow crystals.</li></sl></p><p num="0124">MS m/e (%): 453 (M+H<sup>+</sup>, 100).</p><heading><b>Example 21</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(4-o-tolyl-pyridin-3-yl)-propionamide
+hydrochloride (1:1)</b></heading><p num="0125">The title compound was obtained as white crystals in comparable yields according to the
+procedures described above for the preparation of Example 17 using o-tolylboronic acid
+instead of o-chlorophenylboronic acid in step b) and using 2-(3,5-bis-trifluoromethylphenyl)-propionyl
+chloride instead of 2-(3,5-bis-trifluoromethyl-phenyl)-2-methylpropionyl
+chloride in step e).</p><p num="0126">MS m/e (%): 466 (M<sup>+</sup>, 5), 241 (12), 225 (100). </p><heading><b>Example 22</b></heading><heading><b>1-(3,5-Bis-trifluoromethyl-phenyl)-cyclopropanecarboxylic acid [4-(2-chloro-phenyl)-pyridin-3-yl]
+-methyl-amide hydrochloride</b></heading><heading><u style="single">a) 1-(3,5-Bis-trifluoromethyl-phenyl)-cyclopropanecarboxylic acid [4-(2-chlorophenyl)-pyridin-3-yl]-methyl-amide</u></heading><p num="0127">To a solution of 88 mg (0.4 mmole) 4-(2-chloro-phenyl)-pyridin-3-yl]-methyl-amine and
+0.11 ml (0.6 mmole) N-ethyldiisopropylamine in 4 ml dichloromethane was added a
+solution of 174 mg (0.3 mmole) 1-(3,5-bis-trifluoromethyl-phenyl)-cyclopropanecarboxylic
+acid chloride in 1 ml dichloromethane. After refluxing for 72 h the
+reaction mixture was washed twice with water, dired (magnesium sulfate) and evaporated.
+Chromatography of the residue (silicagel, ethyl acetate:hexane 7:3) afforded 132 mg (66%)
+of the title compound as a yellow oil.</p><p num="0128">MS m/e (%): 499 (M+H,100).</p><heading>b) <u style="single">1-(3,5-Bis-trifluoromethyl-phenyl)-cyclopropanecarboxylic acid [4-(2-chlorophenyl)-pyridin-3-yl]-methyl-amide
+hydrochloride</u></heading><p num="0129">To 125 mg 1-(3,5-bis-trifluoromethyl-phenyl)-cyclopropanecarboxylic acid [4-(2-chlorophenyl)-pyridin-3-yl]-methyl-amide
+were added 1.5 ml 3 N hydrochloric acid in
+methanol.After evaporating the solution 3 ml ether were added and the suspension was
+stirred for 1 h at 0°C Filtration afforded 100 mg (75%) of the title compound as white
+crystals. Mp.: 194-196°C.</p><heading><b>Example 23</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide
+hydrochloride (1:1.45)</b></heading><heading><u style="single">a) 4-(5-Nitro-2-pyridyl)-morpholine</u></heading><p num="0130">To a solution of 20 g (126 mmol) of 2-chloro-5-nitropyridine in 150 ml tetrahydrofuran
+were added dropwise 27 ml (315 mmol) morpholine within 10 min. The reaction mixture
+was refluxed for additional 2h. After cooling to room temperature, the solvent was
+removed <i>in vacuo</i> and the residue was re-dissolved in 200 ml ethyl acetate. The organic
+phase was washed with 200 ml 1 N sodium bicarbonate solution, dried (magnesium
+sulfate) and evaporated to give 27.3 g (quantitative) of the title compound as a yellow
+solid. M.p. 142-143°C.</p><heading><u style="single">b) 2,2-Dimethyl-N-(6-morpholin-4-yl-pyridin-3-yl)-propionamide</u></heading><p num="0131">To a solution of 27.3 g (126 mmol) of 4-(5-nitro-2-pyridyl)-morpholine in 600 ml
+methanol were added 2.5 g of 10 % of palladium on activated charcoal. The reaction
+mixture was hydrogenated (room temperature to <i>ca</i>. 45°C, 1 bar) until the theoretical
+amount of hydrogen was taken up (about 3h). The catalyst was filtered off and was washed
+twice with 100 ml portions of methanol. The filtrate was evaporated <i>in vacuo</i> to give 22.6 g
+of a purple oil which consisted to <i>ca</i>. 95 % of the desired aniline derivative according to
+analysis by thin layer chromatography.</p><p num="0132">This crude product was dissolved in a mixture of 240 ml tetrahydrofuran and 60 ml diethyl
+ether. After cooling to 0°C, 26 ml (189 mmol) of triethylamine were added in one portion.
+Stirring was continued while 23 g (189 mmol) of pivaloyl chloride were added dropwise
+within a period of 10 min. The ice bath was removed and the reaction mixture was stirred
+for 1h at room temperature. Then, the solvent was removed <i>in vacuo</i> and the residue was
+suspended in 200 ml 1 N sodium bicarbonate solution. The product was extracted three
+times with 200 ml portions of dichloromethane, dried (sodium sulfate) and evaporated.
+Recrystallization of the solid residue from ethyl acetate/hexane 1:8 gave 28.6 g (86%) of the
+title compound as white crystals.</p><p num="0133">MS m/e (%): 264 (M+H<sup>+</sup>, 100).</p><heading><u style="single">c) N-(4-Iodo-6-morpholin-4-yl-pyridin-3-yl)-2,2-dimethyl-propionamide</u></heading><p num="0134">A solution of 28.4 g (108 mmol) 2,2-dimethyl-N-(6-morpholin-4-yl-pyridin-3-yl)-propionamide
+and 49 ml (324 mmol) N,N,N',N'-tetramethylethylenediamine under argon
+in 600 ml tetrahydrofuran was cooled in a dry ice bath to -78°C. Within 1h, 202 ml (324
+mmol) of a 1.6 N n-butyllithium solution in hexane were added dropwise. The reaction
+mixture was allowed to warm up to -35°C overnight. After cooling again to -78°C, 37 g
+(146 mmol) iodine dissolved in 60 ml tetrahydrofuran were added dropwise during 15
+min. The dry ice bath was replaced by an ice bath and a solution of 90 g (363 mmol)
+sodium thiosulfate pentahydrate in 250 ml water were added within 10 min when the
+temperature of the reaction mixture had reached 0°C. Then, 1000 ml diethyl ether were
+added and the organic layer was separated. The aqueous layer was extracted twice with 500
+ml dichloromethane and the combined organic layers were dried (magnesium sulfate) and
+evaporated. Flash chromatography gave 15.6 g (37%) of the title compound as a light
+brown oil which crystallized upon standing at room temperature.</p><p num="0135">MS m/e (%): 389 (M<sup>+</sup>, 71), 358 (25), 304 (43), 57 (100).</p><heading><u style="single">d) 2,2-Dimethyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-propionamide</u></heading><p num="0136">A mixture of 3.50 g (9.0 mmol) N-(4-iodo-6-morpholin-4-yl-pyridin-3-yl)-2,2-dimethyl-propionamide,
+35 ml toluene, 18 ml 2 N sodium carbonate solution, 312 mg (0.27 mmol)
+tetrakis(triphenylphosphine)palladium(0) and 1.34 g (9.9 mmol) o-tolylboronic acid was
+heated under argon at 80°C for 12h. After cooling to room temperature, the aqueous phase
+was separated and washed twice with ethyl acetate. The combined organic layers were
+washed with 50 ml brine, dried (sodium sulfate) and evaporated. Purification by flash-chromatography
+gave 3.23 g (quantitative) of the title compound as a white foam.</p><p num="0137">MS m/e (%): 354 (M+H<sup>+</sup>, 100).</p><heading><u style="single">e) 6-Morpholin-4-yl-4-o-tolyl-pyridin-3-ylamine</u></heading><p num="0138">A suspension of 2.93 g (8.28 mmol) 2,2-dimethyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-propionamide
+in 80 ml 3 N hydrochloric acid solution and 5 ml 1-propanol was
+heated to 90-95°C overnight. The reaction mixture was cooled to room temperature,
+washed with three 20 ml portions diethyl ether and filtered over celite. The filtrate was
+diluted with 20 ml water and was adjusted to pH 7-8 by addition of 28 % sodium
+hydroxide solution under ice cooling. The product was extracted with four 100 ml
+portions of dichloromethane. The combined organic layers were washed with 50 ml brine,
+dried (magnesium sulfate) and evaporated to give 2.31 g (quantitative) of the title
+compound as a white foam.</p><p num="0139">MS m/e (%): 269 (M<sup>+</sup>, 100).</p><heading><u style="single">f) Methyl-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-amine</u></heading><p num="0140">A solution of 2.24 g (8.3 mmol) 6-morpholin-4-yl-4-o-tolyl-pyridin-3-ylamine in 17 ml
+trimethyl orthoformate and 3 drops trifluoroacetic acid was heated for 2h at 130°C. The
+reaction mixture was evaporated and dried <i>in vacuo</i> for 30 min. The residual oil was
+dissolved in 5 ml tetrahydrofuran and was added dropwise under ice cooling to 630 mg
+(16.6 mmol) lithium aluminum hydride in 20 ml tetrahydrofuran. The reaction mixture
+was stirred for 1h at room temperature, cooled to 0°C again and acidified (pH 1-2) by
+addition of 28 % hydrochloric acid solution. After stirring for 5 min, 28 % sodium
+hydroxide solution was added to reach pH 10. The solution was filtered over celite,
+evaporated and purified by flash chromatography to give 1.56 g (66%) of the title
+compound as a white foam.</p><p num="0141">MS m/e (%): 283 (M<sup>+</sup>, 100). </p><heading><u style="single">g) 2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide</u></heading><p num="0142">A solution of 1.46 g (5.15 mmol) methyl-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-amine
+and 1.32 ml (7.73 mmol) N-ethyldiisopropylamine in 15 ml dichloromethane was cooled
+in an ice bath and 1.8 g (5.67 mmol) 2-(3,5-bis-trifluoromethyl-phenyl)-2-methyl-propionyl
+chloride were added dropwise. The reaction mixture was warmed to 35-40°C for
+3h, cooled to room temperature again and was stirred with 25 ml saturated sodium
+bicarbonate solution. The organic layer was separated and the aqueous phase was extracted
+with dichloromethane. The combined organic layers were dried (magnesium sulfate) and
+evaporated. The residue was purified by flash chromatography to give 2.9 g (quantitative)
+of the title compound as white crystals. M.p. 131-132°C.</p><heading><u style="single">h) 2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide
+hydrochloride (1:1.45)</u></heading><p num="0143">To a solution of 2.9 g (5.13 mmol) 2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide
+in 50 ml diethyl ether were added
+under ice cooling 2.8 ml 3 N hydrochloric acid solution in diethyl ether. After stirring for
+15 min at 0°C, the suspension was evaporated to dryness, re-suspended in 100 ml diethyl
+ether, filtered and dried <i>in vacuo</i> to give 2.82 g (89%) of the title compound as white
+crystals.</p><p num="0144">MS m/e (%): 566 (M+H<sup>+</sup>, 100), 588 (M+Na<sup>+</sup>, 11).</p><heading><b>Example 24</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-6-morpholin-4-yl-pyridin-3-yl]-N-methyl-isobutyramide
+hydrochloride (1:1)</b></heading><p num="0145">The title compound was obtained as white crystals in comparable yields according to the
+procedures described above for the preparation of Example 23 using 2-chlorophenylboronic
+acid instead of o-tolylboronic acid in step d).</p><p num="0146">MS m/e (%): 586 (M+H<sup>+</sup>, 100).</p><heading><b>Example 25</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-{6-[methyl-(2-morpholin-4-yl-ethyl)-amino]-4-o-tolyl-pyridin-3-yl}-isobutyramide</b></heading><p num="0147">The title compound was obtained as light brown oil in comparable yields according to the
+procedures described above for the preparation of Example 23 using 4-[2-(methylamino)ethyl]-morpholine 
+instead of morpholine in step a). No hydrochloride salt
+was prepared.</p><p num="0148">MS m/e (%): 623 (M+H<sup>+</sup>, 100).</p><heading><b>Example 26</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-[6-(4-pyrimidin-2-yl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-isobutyramide</b></heading><p num="0149">The title compound was obtained as colourless oil in comparable yields according to the
+procedures described above for the preparation of Example 23 using 2-(1-piperazinyl)pyrimidine
+instead of morpholine in step a). No hydrochloride salt was
+prepared.</p><p num="0150">MS m/e (%): 643 (M+H<sup>+</sup>, 100).</p><heading><b>Example 27</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide</b></heading><p num="0151">The title compound was obtained as white powder in comparable yields according to the
+procedures described above for the preparation of Example 23 but step f) was skipped and
+no hydrochloride salt was prepared.</p><p num="0152">MS m/e (%): 552 (M+H<sup>+</sup>, 100).</p><heading><b>Example 28</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4'-(2-chloro-phenyl)-3,4,5,6-tetrahydro-2H-[1,2']bipyridinyl-5'-yl]-N-methyl-isobutyramide
+hydrochloride (1:1)</b></heading><p num="0153">The title compound was obtained as a white powder in comparable yields according to the
+procedures described above for the preparation of Example 23 using piperidine instead of
+morpholine in step a) and using 2-chlorophenylboronic acid instead of o-tolylboronic acid
+in step d).</p><p num="0154">MS m/e (%): 583 (M<sup>+</sup>, 20), 296 (78), 255 (100).</p><heading><b>Example 29</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(6-dimethylamino-4-o-tolyl-pyridin-3-yl)-N-methyl-isobutyramide</b></heading><p num="0155">The title compound was obtained as white solid in comparable yields according to the
+procedures described above for the preparation of Example 23 using dimethylamine
+hydrochloride instead of morpholine in step a). No hydrochloride salt was prepared. M.p.
+174-175°C.</p><p num="0156">MS m/e (%): 524 (M+H<sup>+</sup>, 100).</p><heading><b>Example 30</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N- [4-(2-chloro-phenyl)-6-dimethylamino-pyridin-3-yl]-isobutyramide</b></heading><p num="0157">The title compound was obtained as white solid in comparable yields according to the
+procedures described above for the preparation of Example 23 using dimethylamine
+hydrochloride instead of morpholine in step a) and using 2-chlorophenylboronic acid
+instead of o-tolylboronic acid in step d). No hydrochloride salt was prepared. M.p. 162-163°C.</p><p num="0158">MS m/e (%): 544 (M+H<sup>+</sup>, 100).</p><heading><b>Example 31</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-piperazin-1-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide</b></heading><p num="0159">To a solution of 100 mg (0.173 mmol) 2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-N-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-isobutyramide
+(example 14 g) and 7
+mg (0.035 mmol) 1,8-bis(dimethylamino)naphthalene in 1 ml 1,2-dichloroethane at 0°C
+were added 26 mg (0.181 mmol) 1-chloroethyl chloroformate. After heating the reaction
+mixture for 1h at 80°C the solvent was removed <i>in vacuo</i> and the intermediate was purified
+by flash chromatography, re-dissolved in 1 ml methanol and refluxed for 3h. Flash
+chromatography gave 56 mg (57%) of the title compound as white foam.</p><p num="0160">MS m/e (%): 565 (M+H<sup>+</sup>, 100).</p><heading><b>Example 32</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(4-hydroxy-4'-o-tolyl-3,4,5,6-tetrahydro-2H-[1,2']bipyridinyl-5'-yl)-N-methyl-isobutyramide</b></heading><p num="0161">The title compound was obtained as white foam in comparable yields according to the
+procedures described above for the preparation of Example 23 using 4-hydroxypiperidine
+instead of morpholine in step a). No hydrochloride salt was prepared. </p><p num="0162">MS m/e (%): 580 (M+H<sup>+</sup>, 100).</p><heading><b>Example 33</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-{6-[(2-hydroxy-ethyl)-methyl-amino]-4-o-tolyl-pyridin-3-yl}-N-methyl-isobutyramide</b></heading><p num="0163">The title compound was obtained as white foam in comparable yields according to the
+procedures described above for the preparation of Example 23 using N-methylethanolamine
+instead of morpholine in step a). No hydrochloride salt was prepared.</p><p num="0164">MS m/e (%): 554 (M+H<sup>+</sup>, 100).</p><heading><b>Example 34</b></heading><heading><b>(R)-2-(3,5-Bis-trifluoromethyl-phenyl)-N-[6-(3-hydroxy-pyrrolidin-1-yl)-4-o-tolyl-pyridin-3-yl]-N-methyl-isobutyramide</b></heading><p num="0165">The title compound was obtained as white foam in comparable yields according to the
+procedures described above for the preparation of Example 23 using (R)-3-hydroxypyrrolidine
+instead of morpholine in step a). No hydrochloride salt was prepared.</p><p num="0166">MS m/e (%): 566 (M+H<sup>+</sup>, 100).</p><heading><b>Example 35</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-
+acetamide</b></heading><p num="0167">To a solution of 300 mg (1.1 mmol) 3,5-bis(trifluoromethyl)-phenylacetic acid in 7 ml
+N,N-dimethylformamide were added 185 mg (1.14 mmol) 1,1'-carbonyl-diimidazole and
+the solution was stirred for 30 min at room temperature. After addition of 283 mg (1
+mmol) of methyl-(6-morpholin-4-yl-4-tolyl-pyridin-3-yl)-amine (as described in step f)
+for the preparation of Example 23), the reaction mixture was heated over night at 90°C.
+After cooling to room temperature, the solvent was removed <i>in vacuo</i> and the residue was
+re-dissolved in 30 ml ethyl acetate. The organic phase was washed with water (2 x 30 ml),
+brine, dried (magnesium sulfate) and evaporated. Flash chromatography gave 506 mg
+(94%) of the title compound as a light brown foam.</p><p num="0168">MS m/e (%): 538 (M+H<sup>+</sup>, 100). </p><heading><b>Example 36</b></heading><heading><b>2-(3,5-Dimethoxy-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-acetamide</b></heading><p num="0169">To a solution of 226 mg (1.15 mmol) 3,5-dimethoxy-phenylacetic acid in 7 ml N,N-dimethylformamide
+were added 244 mg (1.5 mmol) 1,1'-carbonyl-diimidazole and the
+solution was stirred for 30 min at room temperature. After addition of 283 mg (1 mmol)
+of methyl-(6-morpholin-4-yl-4-tolyl-pyridin-3-yl)-amine (as described in step f) for the
+preparation of Example 23), the reaction mixture was heated at 70°C for 7h. After cooling
+to room temperature, the solvent was removed <i>in vacuo</i> and the residue was re-dissolved in
+30 ml ethyl acetate. The organic phase was washed with water (2 x 30 ml), brine, dried
+(magnesium sulfate) and evaporated. Flash chromatography gave 347 mg (75%) of the title
+compound as a white foam.</p><p num="0170">MS m/e (%): 462 (M+H<sup>+</sup>, 100).</p><heading><b>Example 37</b></heading><heading><b>2-(3-Fluoro-5-trifluoromethyl-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-
+acetamide</b></heading><p num="0171">To a solution of 266 mg (1.2 mmol) 3-fluoro-5-trifluoromethyl-phenylacetic acid in 7 ml
+N,N-dimethylformamide were added 195 mg (1.2 mmol) 1,1'-carbonyl-diimidazole and
+the solution was stirred for 30 min at room temperature. After addition of 283 mg (1
+mmol) of methyl-(6-morpholin-4-yl-4-tolyl-pyridin-3-yl)-amine (as described in step f)
+for the preparation of Example 23), the reaction mixture was heated at 90°C for 6h. After
+cooling to room temperature, the solvent was removed <i>in vacuo</i> and the residue was re-dissolved
+in 30 ml ethyl acetate. The organic phase was washed with water (2 x 30 ml),
+brine, dried (magnesium sulfate) and evaporated. Flash chromatography gave 432 mg
+(88%) of the title compound as a light yellow foam.</p><p num="0172">MS m/e (%): 488 (M+H<sup>+</sup>, 100).</p><heading><b>Example 38</b></heading><heading><b>[2-(3,5-Bis-trifluoromethyl-phenyl)-2-methyl-propyl]-[4-(4-fluoro-2-methyl-phenyl)-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-methyl-amine
+hydrochloride (1:3)</b></heading><p num="0173">To a mixture of 400 mg (0.60 mmol) 2-(3,5-bis-trifluoromethyl-phenyl)-N-[4-(4-fluoro-2-methyl-phenyl)-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-N-methyl-isobutyramide 
+hydrochloride (1:2) (example 16) and 50 ml dichloromethane were added 20 ml 1 N
+sodium hydroxide solution. After shaking for 1 min, the organic phase was separated and
+evaporated to dryness. The residue was re-dissolved in 5 ml tetrahydrofuran and 4 ml of a
+1 M borane tetrahydrofuran complex solution were added. After heating at 60°C for 3 days,
+10 ml 3 N hydrochloric acid solution in diethyl ether were added and the reaction mixture
+was refluxed for 4h. The reaction mixture was cooled to room temperature, washed with
+10 ml 1 N sodium hydroxide solution, dried (sodium sulfate) and purified by flash
+chromatography to yield 279 mg of a pale yellow oil which was transformed into the
+hydrochloride salt as described in step h) for the preparation of Example 23 to give 153 mg
+(37%) of the title compound as pale yellow crystals.</p><p num="0174">MS m/e (%): 583 (M+H<sup>+</sup>, 100).</p><heading><b>Example 39</b></heading><heading><b>(3,5-Bis-trifluoromethyl-benzyl)-methyl-(4-o-tolyl-pyridin-3-ylmethyl)-amine</b></heading><p num="0175">Lithium aluminum hydride (107 mg, 2.82 mmol, 3 eq) was suspended in 7 ml
+tetrahydrofuran at 0°C under argon. N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-o-tolyl-nicotinamide
+(example 1, 425 mg, 0.94 mmol), dissolved in 4 ml tetrahydrofuran,
+was slowly added at ∼5°C. The mixture was stirred 5 min at room temperature and 1 hr
+under reflux.</p><p num="0176">Ethyl acetate (1 ml) was added, then the mixture was cooled to room temperature and
+aqueous saturated sodium sulfate solution was added dropwise. The mixture was dried
+(sodium sulfate), filtered, concentrated and purified by flash chromatography to give 93
+mg (23%) of the title compound as a colourless oil.</p><p num="0177">MS m/e (%): 439 (M+H<sup>+</sup>, 100).</p><heading><b>Example 40</b></heading><heading><b>3-(3,5-Bis-trifluoromethyl-benzyloxymethyl)-4-o-tolyl-pyridine</b></heading><heading><u style="single">a) (4-o-Tolyl-pyridin-3-yl)-methanol</u></heading><p num="0178">Lithium aluminum hydride (439 mg, 11.6 mmol, 1 eq) was suspended in 23 ml
+tetrahydrofuran at 0°C under argon. 4-o-Tolyl-nicotinic acid methyl ester (2.63 g, 11.6
+mmol), dissolved in 12 ml tetrahydrofuran, was slowly added at ∼5°C. The mixture was
+stirred 5 min at room temperature and 1h under reflux. </p><p num="0179">Ethyl acetate (1 ml) was added, then the mixture was cooled to room temperature and
+aqueous saturated sodium sulfate solution was added dropwise. The mixture was dried
+(sodium sulfate), filtered, concentrated and purified by flash chromatography to give 0.77g
+(33%) of the title compound as a pale yellow liquid.</p><p num="0180">Starting material (1.60 g, 61%) was recovered.</p><p num="0181">MS m/e (%): 199 (M<sup>+</sup>, 3), 180 (100)</p><heading><u style="single">b) 3-(3,5-Bis-trifluoromethyl-benzyloxymethyl)-4-o-tolyl-pyridine</u></heading><p num="0182">Sodium hydride (89.1 mg, 2.04 mmol, 1.1 eq) was washed twice with n-hexane under
+argon and suspended in 1 ml dimethyl formamide. (4-o-Tolyl-pyridin-3-yl)-methanol
+(370 mg, 1.86 mmol), dissolved in 4 ml dimethyl formamide, was added dropwise and the
+mixture was stirred 1h at room temperature. 3,5-Bis(trifluoromethyl)benzyl bromide (627
+mg, 2.04 mmol, 1 eq), dissolved in 2 ml dimethyl formamide, was added and the mixture
+was stirred 2.5h at room temperature.</p><p num="0183">The mixture was concentrated and the residue was partitioned between water and
+dichloromethane. The organic extract was washed with brine, dried (sodium sulfate),
+filtered, concentrated and purified by flash chromatography to give 196 mg (25%) of the
+title compound as yellow oil.</p><p num="0184">Starting material (0.24 g, 65%) was recovered.</p><p num="0185">MS m/e (%): 426 (M+H<sup>+</sup>, 100)</p><heading><b>Example 41</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-4-naphthalen-1-yl-nicotinamide
+hydrochloride (1:2)</b></heading><p num="0186">The title compound was obtained as a white solid in comparable yields according to the
+procedures described above for the preparation of N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolyl-nicotinamide
+(Example 12) using 1-naphthylboronic
+acid instead of o-tolylboronic acid in step d) and using N-methyl-6-(4-methyl-piperazin-1-yl)-4-naphthalen-1-yl-nicotinamide
+instead of N-methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolyl-nicotinamide
+in step e).</p><p num="0187">MS m/e (%): 587 (M+H<sup>+</sup>, 100). </p><heading><b>Example 42</b></heading><heading><b>(3,5-Bis-trifluoromethyl-benzyl)-[4-(2-chloro-phenyl)-6-(4-methyl-piperazin-1-yl)-pyridin-3-ylmethyl]-methyl-amine;
+hydrochloride (1:3)</b></heading><p num="0188">To a solution of 260 mg (0.455 mmol) N-(3,5-bis-trifluoromethyl-benzyl)-4-(2-chlorophenyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-nicotinamide
+(Example 13) in 6.3 ml dry
+tetrahydrofuran were added 2.73 ml (2.73 mmol) 1M borane solution in tetrahydrofuran.
+The mixture was heated at reflux for 16h. After cooling to room temperature 12.6 ml 3N
+hydrogen chloride solution in diethyl ether were added, and the mixture was heated at
+reflux for 40 min. After cooling to room temperature 1N aqueous sodium hydroxide
+solution was added. Extraction with ethyl acetate, drying with sodium sulfate and
+concentration were followed by flash chromatography affording 165 mg of a colorless oil.
+To a solution of the oil in 2 ml diethyl ether were added 3 ml 3N hydrogen chloride
+solution in diethyl ether. After stirring the mixture for 45 min. a precipitate had formed
+which was collected by filtration. Drying in vacuo afforded 144 mg (47.5%) of the title
+compound as a white solid.</p><p num="0189">MS m/e (%): 557 (M+H <sup>+</sup>, 100).</p><heading><b>Example 43</b></heading><heading><b>4-{5-[(3,5-Bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic
+acid tert-butyl ester</b></heading><heading><u style="single">a) 6-Chloro-N-methyl-4-o-tolyl-nicotinamide</u></heading><p num="0190">To a solution of 3.41 g (20.0 mmol) 6-chloro-N-methyl-nicotinamide (Example 12 step
+a)) in 80 ml tetrahydrofuran 50 ml (50 mmol) of a 1 M solution of o-tolyl magnesium
+chloride in tetrahydrofuran was added dropwise at 0 °C. After completed addition the
+reaction mixture was allowed to warm to room temperature and stirred for 1.5h. The
+mixture was again cooled to 0 °C, followed by the dropwise addition of 5.7 ml (100 mmol)
+acetic acid and a solution of 5.1 g (22 mmol) 2,3-dichloro-5,6-dicyano-1,4-benzoquinone
+in 18 ml tetrahydrofuran. After completed addition the reaction mixture was allowed to
+warm to room temperature and stirred for 15 min. Addition of 30 ml 2 N aqueous sodium
+hydroxide solution was followed by dilution with 1 l ethyl acetate and 200 ml water. The
+layers were separated and the organic layer was washed with 4 250-ml portions of 2 N
+aqueous sodium hydroxide solution. The combined aqueous layers were extracted with 3
+500-ml portions of ethyl acetate. The combined organic extracts were washed with
+saturated aqueous sodium chloride solution and dried with sodium sulfate. Concentration 
+gave 5.44 g of a brown-red oil. Flash column chromatography afforded 2.15 g (41.3%) of
+the title compound as a light yellow solid.</p><p num="0191">MS m/e (%): 260 (M <sup>+</sup>, 11), M.p. 91 - 93°C.</p><heading><u style="single">b) 4-(5-Methylcarbamoyl-4-o-tolyl-pyridin-2-yl)-piperazine-1-carboxylic acid tert-butyl
+ester</u></heading><p num="0192">A mixture of 8.31 g (31.9 mmol) 6-chloro-N-methyl-4-o-tolyl-nicotinamide, 6.53 g (35.0
+mmol) 1-tert-butoxycarbonyl piperazine, 16.7 ml (95.6 mmol) N-ethyldiisopropylamine
+and a catalytic amount of 4-(N,N-dimethylamino)-pyridine was heated at reflux over
+night. After cooling to room temperature the mixture was dissolved in dichloromethane
+and washed with two portions of 0.1 N aqueous hydrochloric acid solution. Drying with
+sodium sulfate and concentration gave 10.7 g of the crude product. Flash column
+chromatography afforded 6.28 g (48.0%) of the title compound as an off-white solid.</p><p num="0193">MS m/e (%): 411 (M+H <sup>+</sup>, 100).</p><heading><u style="single">c) 4-{5-[(3,5-Bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic
+acid tert-butyl ester</u></heading><p num="0194">The title compound was obtained as a white solid in comparable yield according to the
+procedure described above for the preparation of N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolyl-nicotinamide
+(Example 12, step e)) using 4-(5-methylcarbamoyl-4-o-tolyl-pyridin-2-yl)-piperazine-1-carboxylic
+acid tert-butyl ester
+instead of N-methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolyl-nicotinamide.</p><p num="0195">MS m/e (%): 637 (M+H<sup>+</sup>, 100).</p><heading><b>Example 44</b></heading><heading><b>(4-{5-[(3,5-Bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazin-1-yl)-acetic
+acid ethyl ester</b></heading><p num="0196">The title compound was obtained as a yellow solid in comparable yield for step b) and 3%
+yield for step c) according to the procedures described above for the preparation of 4-{5-[
+(3,5-bis-trifluoromethyl-benzyl)-methyl-carbamoyl] -4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic
+acid tert-butyl ester (Example 43) using 1-(ethoxycarbonylmethyl)-piperazine
+instead of 1-tert-butoxycarbonyl piperazine in step b) and using [4-(5-methylcarbamoyl-4-o-tolyl-pyridin-2-yl)-piperazin-1-yl]-acetic
+acid ethyl ester instead of 
+4-(5-methylcarbamoyl-4-o-tolyl-pyridin-2-yl)-piperazine-1-carboxylic acid tert-butyl
+ester in step c).</p><p num="0197">MS m/e (%): 623 (M+H <sup>+</sup>, 100).</p><heading><b>Example 45</b></heading><heading><b>5'- [(3,5-Bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4'-o-tolyl-3,4,5,6-tetrahydro-2H-[1,2']bipyridinyl-4-carboxylic
+acid ethyl ester</b></heading><p num="0198">The title compound was obtained as a white solid in comparable yields according to the
+procedures described above for the preparation of 4-{5-[(3,5-bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic
+acid tert-butyl ester
+(Example 43) using ethyl isonipecotate instead of 1-tert-butoxycarbonyl piperazine in step
+b) and using 5'-methylcarbamoyl-4'-o-tolyl-3,4,5,6-tetrahydro-2H-[1,2']bipyridinyl-4-carboxylic
+acid ethyl ester instead of 4-(5-methylcarbamoyl-4-o-tolyl-pyridin-2-yl)-piperazine-1-carboxylic
+acid tert-butyl ester in step c).</p><p num="0199">MS m/e (%): 608 (M+H <sup>+</sup>, 100).</p><heading><b>Example 46</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-propyl-piperazin-1-yl)-4-o-tolyl-nicotinamide</b></heading><p num="0200">The title compound was obtained as a light-yellow solid in comparable yields according to
+the procedures described above for the preparation of 4-{5-[(3,5-bis-trifluoromethylbenzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic
+acid tert-butyl
+ester (Example 43) using 1-propyl piperazine instead of 1-tert-butoxycarbonyl
+piperazine in step b) and using N-methyl-6-(4-propyl-piperazin-1-yl)-4-o-tolyl-nicotinamide
+instead of 4-(5-methylcarbamoyl-4-o-tolyl-pyridin-2-yl)-piperazine-1-carboxylic
+acid tert-butyl ester in step c).</p><p num="0201">MS m/e (%): 579 (M+H<sup>+</sup>, 100).</p><heading><b>Example 47</b></heading><heading><b>(RS)-6-[3-(Acetyl-methyl-amino)-pyrrolidin-1-yl]-N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-4-o-tolyl-nicotinamide</b></heading><p num="0202">The title compound was obtained as a light-yellow solid in comparable yields according to
+the procedures described above for the preparation of 4-{5-[(3,5-bis-trifluoromethylbenzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic
+acid tert-butyl 
+ester (Example 43) using (RS)-3-(acetyl-methyl-amino)-pyrrolidine instead of 1-tert-butoxycarbonyl
+piperazine in step b) and using (RS)-6-[3-(acetyl-methyl-amino)-pyrrolidin-1-yl]-N-methyl-4-o-tolyl-nicotinamide
+instead of 4-(5-methylcarbamoyl-4-o-tolyl-pyridin-2-yl)-piperazine-1-carboxylic
+acid tert-butyl ester in step c).</p><p num="0203">MS m/e (%): 593 (M+H <sup>+</sup>, 100).</p><heading><b>Example 48</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-[methyl-(2-morpholin-4-yl-ethyl)-amino]
+-4-o-tolyl-nicotinamide</b></heading><p num="0204">The title compound was obtained as a light-yellow solid in comparable yields according to
+the procedures described above for the preparation of 4-{5-[(3,5-bis-trifluoromethylbenzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic
+acid tert-butyl
+ester (Example 43) using methyl-(2-morpholin-4-yl-ethyl)-amine instead of 1-tert-butoxycarbonyl
+piperazine in step b) and using N-methyl-6-[methyl-(2-morpholin-4-yl-ethyl)-amino]-4-o-tolyl-nicotinamide
+instead of 4-(5-methylcarbamoyl-4-o-tolyl-pyridin-2-yl)-piperazine-1-carboxylic
+acid tert-butyl ester in step c).</p><p num="0205">MS m/e (%): 595 (M+H<sup>+</sup>, 100).</p><heading><b>Example 49</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide</b></heading><p num="0206">The title compound was obtained as a white solid in comparable yields according to the
+procedures described above for the preparation of 4-{5-[(3,5-bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic
+acid tert-butyl ester
+(Example 43) using morpholine instead of 1-tert-butoxycarbonyl piperazine in step b) and
+using N-methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide instead of 4-(5-methylcarbamoyl-4-o-tolyl-pyridin-2-yl)-piperazine-1-carboxylic
+acid tert-butyl ester in
+step c).</p><p num="0207">MS m/e (%): 538 (M+H<sup>+</sup>, 100).</p><heading><b>Example 50</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-thiomorpholin-4-yl-4-o-tolyl-nicotinamide</b></heading><p num="0208">The title compound was obtained as a white solid in comparable yields according to the
+procedures described above for the preparation of 4-{5-[(3,5-bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic 
+acid tert-butyl ester
+(Example 43) using thiomorpholine instead of 1-tert-butoxycarbonyl piperazine in step b)
+and using N-methyl-6-thiomorpholin-4-yl-4-o-tolyl-nicotinamide instead of 4-(5-methylcarbamoyl-4-o-tolyl-pyridin-2-yl)-piperazine-1-carboxylic
+acid tert-butyl ester in
+step c).</p><p num="0209">MS m/e (%): 554 (M+H <sup>+</sup>, 100).</p><heading><b>Example 51</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(1-oxo-1λ<sup>4</sup>-thiomorpholin-4-yl)-4-o-tolyl-nicotinamide</b></heading><p num="0210">To a solution of 1.24 g (2.24 mmol) N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-thiomorpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 50) in 25 ml methanol were added
+689 mg (1.12 mmol) Oxone® at 0°C. After completed addition the reaction mixture was
+allowed to warm to room temperature and stirred for 1.5h. Quenching with 5 ml 40%
+aqueous sodium hydrogen sulfite solution was followed by addition of 6 ml 1N sodium
+hydroxide solution to adjust the pH to 7-8. The mixture was diluted with 50 ml water and
+extracted with 3 150-ml portions of dichloromethane. The combined extracts were dried
+with sodium sulfate and concentrated to give 1.20 g of crude product. Flash
+chromatography afforded 1.02 g (79.9%) of the title compound as a white solid.</p><p num="0211">MS m/e (%): 570 (M+H<sup>+</sup>, 100).</p><heading><b>Example 52</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-6-(1,1-dioxo-1λ<sup>6</sup>-thiomorpholin-4-yl)-N-methyl-4-o-tolyl-nicotinamide</b></heading><p num="0212">The title compound was obtained as a white solid in comparable yield according to the
+procedure described above for the preparation of N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-(1-oxo-1l
+4-thiomorpholin-4-yl)-4-o-tolyl-nicotinamide (Example 51) using N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-(1-oxo-1l
+4-thiomorpholin-4-yl)-4-o-tolyl-nicotinamide
+instead of N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-thiomorpholin-4-yl-4-o-tolyl-nicotinamide.</p><p num="0213">MS m/e (%): 586 (M+H <sup>+</sup>, 100). </p><heading><b>Example 53</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-piperazin-1-yl-4-o-tolyl-nicotinamide</b></heading><p num="0214">To a solution of 6.60 g (104 mmol) 4-{5-[(3,5-bis-trifluoromethyl-benzyl)-methylcarbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic
+acid tert-butyl ester (Example
+43) and 8.40 ml (207 mmol) methanol in 50 ml ethyl acetate 14.7 ml (207 mmol) acetyl
+chloride were added dropwise at 0 °C. After 4h the reaction mixture was diluted with ethyl
+acetate and treated with 1 N sodium hydroxide solution. The layers were separated and the
+aqueous layer extracted with dichloromethane. The combined organic layers were dried
+with sodium sulfate and concentrated to give 5.36 g of crude product. Flash column
+chromatography afforded 4.86 g (87.4%) of the title compound as a light brown solid.</p><p num="0215">MS m/e (%): 537 (M+H<sup>+</sup>, 100).</p><heading><b>Example 54</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-6-[4-(2-hydroxy-ethyl)-piperazin-1-yl]-N-methyl-4-o-tolyl-nicotinamide</b></heading><p num="0216">A mixture of 100 mg (0.186 mmol) N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-piperazin-1-yl-4-o-tolyl-nicotinamide
+(Example 53), 0.030 ml (0.42 mmol) 2-bromo-ethanol
+and 46 mg (0.33 mmol) potassium carbonate in 2 ml acetonitrile was stirred at 45
+°C for 70h. After cooling to room temperature 10 ml 1 N sodium hydroxide solution were
+added. Extraction with 3 15-ml portions of ethyl acetate, drying with sodium sulfate and
+concentration gave 138 mg of the crude product. Flash column chromatography afforded
+85 mg (78.6%) of the title compound as a white solid.</p><p num="0217">MS m/e (%): 581 (M+H <sup>+</sup>, 100).</p><heading><b>Example 55</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-6-(4-cyanomethyl-piperazin-1-yl)-N-methyl-4-o-tolyl-nicotinamide</b></heading><p num="0218">The title compound was obtained as a white solid in comparable yield according to the
+procedure described above for the preparation of N-(3,5-bis-trifluoromethyl-benzyl)-6-[4-(2-hydroxy-ethyl)-piperazin-1-yl]-N-methyl-4-o-tolyl-nicotinamide
+(Example 54)
+using chloro-acetonitrile instead of 2-bromo-ethanol.</p><p num="0219">MS m/e (%): 576 (M+H <sup>+</sup>, 100). </p><heading><b>Example 56</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-6-{4-[2-(2-hydroxy-ethoxy)-ethyl]-piperazin-1-yl}-N-methyl-4-o-tolyl-nicotinamide</b></heading><p num="0220">A mixture of 400 mg (0.746 mmol) N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-piperazin-1-yl-4-o-tolyl-nicotinamide
+(Example 53), 0.18 ml (1.7 mmol) 2-(2-chloroethoxy)-ethanol
+and 0.189 g (1.35 mmol) potassium carbonate in 8 ml acetonitrile
+was stirred at 85 °C for 48h. After cooling to room temperature 40 ml 1 N sodium
+hydroxide solution were added. Extraction with 3 60-ml portions of dichloromethane,
+drying with sodium sulfate and concentration gave 528 mg of the crude product. Flash
+column chromatography afforded 300 mg (64.4%) of the title compound as a light-brown
+solid.</p><p num="0221">MS m/e (%): 625 (M+H <sup>+</sup>, 100).</p><heading><b>Example 57</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-[1,2,4]oxadiazol-3-ylmethyl-piperazin-1-yl)-4-o-tolyl-nicotinamide</b></heading><p num="0222">A mixture of 200 mg (0.373 mmol) N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-piperazin-1-yl-4-o-tolyl-nicotinamide
+(Example 53), 66 mg (0.56 mmol) 3-(chloromethyl)-1,2,4-oxadiazole
+and 62 mg (0.45 mmol) potassium carbonate in 4 ml
+acetonitrile was stirred at 45 °C for 1h and at room temperature over night. The reaction
+mixture was diluted with 10 ml water and extracted with 3 30-ml portions of
+dichloromethane. Drying with sodium sulfate and concentration gave 244 mg of the crude
+product. Flash column chromatography afforded 80 mg (34.7%) of the title compound as
+a red-brown solid.</p><p num="0223">MS m/e (%): 619 (M+H<sup>+</sup>, 100).</p><heading><b>Example 58</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-[4-(5-oxo-4,5-dihydro-1H-[1,2,4]triazol-3-ylmethyl)-piperazin-1-yl]-4-o-tolyl-nicotinamide</b></heading><p num="0224">A mixture of 800 mg (1.49 mmol) N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-piperazin-1-yl-4-o-tolyl-nicotinamide
+(Example 53), 296 mg (1.79 mmol) N-carbomethoxy-2-chloroacetamidrazone
+and 0.52 ml (3.0 mmol) N-ethyldiisopropylamine
+in 14 ml acetonitrile was stirred at room temperature for 2h. The
+reaction mixture was diluted with 20 ml water and extracted with 3 50-ml portions of 
+dichloromethane. The combined extracts were dried with sodium sulfate and
+concentrated. The residue was dissolved in 14 ml DMF, and 0.29 ml (1.6 mmol) N-ethyldiisopropylamine
+were added. The reaction mixture was stirred at 140 °C over night.
+Concentration and drying in high vacuo gave 1.09 g of crude product. Flash column
+chromatography afforded 820 mg (86.8%) of the title compound as a light-brown solid.</p><p num="0225">MS m/e (%): 634 (M+H<sup>+</sup>, 100).</p><heading><b>Example 59</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-6-(4-formyl-piperazin-1-yl)-N-methyl-4-o-tolyl-nicotinamide</b></heading><p num="0226">To a mixture of 0.089 ml (1.1 mmol) N,N-dimethylformamide and 38 mg (0.56 mmol)
+imidazole 0.071 ml (0.56 mmol) trimethylchlorosilane were added dropwise at room
+temperature. The reaction mixture was cooled to 0°C, and 0.10 g (0.19 mmol) N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-piperazin-1-yl-4-o-tolyl-nicotinamide
+(Example
+53)were added. The ice-water bath was removed and the mixture stirred over night. The
+reaction was quenched with a mixture of 2 ml 1 N aqueous hydrochloric acid solution and
+4 ml water, and the mixture was extracted with ethyl acetate. The combined extracts were
+dried with sodium sulfate and concentrated. Flash column chromatography afforded 81
+mg (82%) of the title compound as a white solid.</p><p num="0227">MS m/e (%): 565 (M+H<sup>+</sup>, 100).</p><heading><b>Example 60</b></heading><heading><b>N-Methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide</b></heading><heading><u style="single">a) N-Methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide</u></heading><p num="0228">The title compound was obtained as an off-white solid in comparable yield according to
+the procedure described above for the preparation of 4-{5-[(3,5-bis-trifluoromethylbenzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazine-1-carboxylic
+acid tert-butyl
+ester (Example 43, step b) using morpholine instead of 1-tert-butoxycarbonyl
+piperazine.</p><p num="0229">MS m/e (%): 311 (M<sup>+</sup>, 63).</p><heading><u style="single">b) N-Methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide</u></heading><p num="0230">The title compound was obtained as a white solid in comparable yield according to the
+procedure described above for the preparation of N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 12, step e)) using 1-chloromethyl-2-methylnaphthalene
+instead of 3,5-bis-trifluoromethyl-benzyl bromide.</p><p num="0231">MS m/e (%): 466 (M+H<sup>+</sup>, 100).</p><heading><b>Example 61</b></heading><heading><b>N-Methyl-6-morpholin-4-yl-N-naphthalen-1-ylmethyl-4-o-tolyl-nicotinamide</b></heading><p num="0232">The title compound was obtained as a colorless viscous oil in comparable yields according
+to the procedures described above for the preparation of N-methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 60) using 1-chloromethylnaphthalene
+instead of 1-chloromethyl-2-methylnaphthalene in step b).</p><p num="0233">MS m/e (%): 452 (M+H<sup>+</sup>, 100).</p><heading><b>Example 62</b></heading><heading><b>N-(2-Methoxy-naphthalen-1-ylmethyl)-N-methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide</b></heading><p num="0234">The title compound was obtained as a colorless viscous oil in comparable yields according
+to the procedures described above for the preparation of N-methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 60) using
+toluene-4-sulfonic acid 2-methoxy-naphthalen-1-ylmethyl ester instead of 1-chloromethyl-2-methylnaphthalene
+in step b).</p><p num="0235">MS m/e (%): 482 (M+H<sup>+</sup>, 100).</p><heading><b>Example 63</b></heading><heading><b>N-(2-Methoxy-benzyl)-N-methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide</b></heading><p num="0236">The title compound was obtained as a colorless viscous oil in comparable yields according
+to the procedures described above for the preparation of N-methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 60) using 2-methoxy-benzyl
+chloride instead of 1-chloromethyl-2-methylnaphthalene in step b).</p><p num="0237">MS m/e (%): 432 (M+H<sup>+</sup>, 100). </p><heading><b>Example 64</b></heading><heading><b>N-(5-Chloro-2-methoxy-benzyl)-N-methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide</b></heading><p num="0238">The title compound was obtained as a white solid in comparable yields according to the
+procedures described above for the preparation of N-methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 60) using 5-chloro-2-methoxy-benzyl
+chloride instead of 1-chloromethyl-2-methylnaphthalene in step b).</p><p num="0239">MS m/e (%): 466 (M+H <sup>+</sup>, 100).</p><heading><b>Example 65</b></heading><heading><b>N-(2-Chloro-5-methoxy-benzyl)-N-methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide</b></heading><p num="0240">The title compound was obtained as a white solid in comparable yields according to the
+procedures described above for the preparation of N-methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 60) using 2-chloro-5-methoxy-benzyl
+bromide instead of 1-chloromethyl-2-methylnaphthalene in step b).</p><p num="0241">MS m/e (%): 466 (M+H <sup>+</sup>, 100).</p><heading><b>Example 66</b></heading><heading><b>N-Methyl-6-morpholin-4-yl-N-pentafluorophenylmethyl-4-o-tolyl-nicotinamide</b></heading><p num="0242">The title compound was obtained as a white solid in comparable yields according to the
+procedures described above for the preparation of N-methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 60) using 2,3,4,5,6-pentafluoro-benzyl
+bromide instead of 1-chloromethyl-2-methylnaphthalene in step b).</p><p num="0243">MS m/e (%): 492 (M+H<sup>+</sup>, 100).</p><heading><b>Example 67</b></heading><heading><b>N-Methyl-6-morpholin-4-yl-N-naphthalen-2-ylmethyl-4-o-tolyl-nicotinamide</b></heading><p num="0244">The title compound was obtained as a white solid in comparable yields according to the
+procedures described above for the preparation of N-methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 60) using 2-chloromethyl-naphthalene
+instead of 1-chloromethyl-2-methylnaphthalene in step b).</p><p num="0245">MS m/e (%): 452 (M+H<sup>+</sup>, 100). </p><heading><b>Example 68</b></heading><heading><b>N- [2-Methoxy-5-(5-trifluoromethyl-tetrazol-1-yl)-benzyl]-N-methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide</b></heading><p num="0246">The title compound was obtained as a white solid in comparable yields according to the
+procedures described above for the preparation of N-methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 60) using toluene-4-sulfonic
+acid [2-methoxy-5-(5-trifluoromethyl-tetrazol-1-yl)-phenyl]-methyl ester instead
+of 1-chloromethyl-2-methylnaphthalene in step b).</p><p num="0247">MS m/e (%): 568 (M+H<sup>+</sup>, 100).</p><heading><b>Example 69</b></heading><heading><b>N-(1,4-Dimethoxy-naphthalen-2-ylmethyl)-N-methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide</b></heading><p num="0248">The title compound was obtained as a colorless viscous oil in comparable yields according
+to the procedures described above for the preparation of N-methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide
+(Example 60) using 2-chloromethyl-1,4-dimethoxy-naphthalene
+instead of 1-chloromethyl-2-methylnaphthalene
+in step b).</p><p num="0249">MS m/e (%): 512 (M+H<sup>+</sup>, 100).</p><heading><b>Example 70</b></heading><heading><b>5'- [(3,5-Bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4'-o-tolyl-3,4,5,6-tetrahydro-2H-[1,2']bipyridinyl-4-carboxylic
+acid</b></heading><p num="0250">A mixture of 200 mg (0.33 mmol) 5'-[(3,5-bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4'-o-tolyl-3,4,5,6-tetrahydro-2H-[1,2']bipyridinyl-4-carboxylic
+acid ethyl ester
+(Example 45), 10 ml 1N aqueous sodium hydroxide solution and 10 ml methanol was
+stirred at room temperature over night. After washing with 2 portions of ethyl acetate the
+aqueous layer was acidified to pH 4 with 1N aqueous hydrochloric acid solution.
+Extraction with dichloromethane, drying with sodium sulfate and flash column
+chromatography afforded 81 mg (42%) of the title compound as a white solid.</p><p num="0251">MS m/e (%): 580 (M+H<sup>+</sup>, 100). </p><heading><b>Example 71</b></heading><heading><b>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-[4-(1H-tetrazol-5-ylmethyl)-piperazin-1-yl]-4-o-tolyl-nicotinamide</b></heading><p num="0252">A mixture of 0.10 g (0.17 mmol) N-(3,5-bis-trifluoromethyl-benzyl)-6-(4-cyanomethyl-piperazin-1-yl)-N-methyl-4-o-tolyl-nicotinamide
+(Example 55), 34 mg (0.52 mmol)
+sodium azide and 36 mg (0.26 mmol) triethylammonium chloride in 1 ml 1-methyl-2-pyrrolidone
+was heated at reflux for 2h. After cooling to room temperature 6 ml ice water
+were added. The mixture was acidified with 1N hydrochloric acid solution to pH 1-2 and
+extracted with dichloromethane. Drying of the combined extracts with sodium sulfate,
+concentration and flash column chromatography afforded 95 mg (88%) of the title
+compound as a light brown solid.</p><p num="0253">MS m/e (%): 619 (M+H<sup>+</sup>, 100).</p><heading><b>Example 72</b></heading><heading><b>N-(6-Benzylamino-4-o-tolyl-pyridin-3-yl)-2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-isobutyramide</b></heading><heading>a) <u style="single">2-Benzyl-N5-methyl-4-o-tolyl-pyridine-2,5-diamine</u></heading><p num="0254">The title compound was prepared following the procedures described above for the
+synthesis of methyl-6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-amine (Example 23, step f).</p><p num="0255">MS m/e (%): 304 (M+H<sup>+</sup>, 100).</p><heading>b) <u style="single">Benzyl-(5-methylamino-4-o-tolyl-pyridin-2-yl)-carbamic acid benzyl ester</u></heading><p num="0256">To a solution of 2.03 g (6.7 mmol) N2-benzyl-N5-methyl-4-o-tolyl-pyridine-2,5-diamine
+in 100 ml dichloromethane and 40 ml N-ethyldiisopropylamine was added dropwise at
+0°C a solution of 2.1 ml (14.09 mmol) benzyl chloroformate in 50 ml dichloromethane.
+After stirring for 2h at room temperature the reaction mixture was washed with water (2 x
+50 ml), brine (50 ml), dried (magnesium sulfate) and evaporated. Chromatography of the
+residue afforded 2.36 g (80%) of the title compound as light brown crystals. M.p. 110-112°C.</p><p num="0257">MS m/e (%): 438 (M+H<sup>+</sup>, 100).</p><heading><u style="single">c) Benzyl-(5-{[2-(3,5-bis-trifluoromethyl-phenyl)-2-methyl-propionyl]-methyl-amino}-4-o-tolyl-pyridin-2-yl)-carbamic
+acid benzyl ester</u></heading><p num="0258">To a solution of 1.075 g (2.5 mmol) benzyl-(5-methylamino-4-o-tolyl-pyridin-2-yl)-carbamic
+acid benzyl ester in 10 ml dichloromethane and 1 ml N-ethyldiisopropylamine
+was added dropwise at 0°C a solution of 1.15 g (3.5 mmol) 2-(3,5-bis-trifluoromethyl-phenyl)-2-methyl-propionic
+acid chloride in 2 ml dichloromethane and the mixture was
+stirred for 3h at room temperature. The solution was washed with water (20 ml), saturated
+aqueous sodium hydrogencarbonate solution (20 ml) and brine (20 ml), dried
+(magnesium sulfate) and evaporated. Chromatography of the residue afforded 1.15 g
+(62%) of the title compound as a yellow oil.</p><p num="0259">MS m/e (%): 720 (M+H<sup>+</sup>, 100).</p><heading><u style="single">d) N-(6-Benzylamino-4-o-tolyl-pyridin-3-yl)-2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-isobutyramide</u></heading><p num="0260">To a solution of 973 mg (1.35 mmol) benzyl-(5-{[2-(3,5-bis-trifluoromethyl-phenyl)-2-methyl-propionyl]-methyl-amino}-4-o-tolyl-pyridin-2-yl)-carbamic
+acid benzyl ester in
+13 ml methanol and 1 ml N,N-dimethylformamide was added 40 mg 10% palladium on
+activated charcoal and the mixture was hydrogenated (room temperature, 1 bar) for 1h.
+Filtration of the catalyst and evaporation of the filtrate afforded 795 mg (quantitative) of
+the title compound as a yellow oil.</p><p num="0261">MS m/e (%): 586 (M+H<sup>+</sup>, 100).</p><heading><b>Example 73</b></heading><heading><b>N-(6-Amino-4-o-tolyl-pyridin-3-yl)-2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-isobutyramide</b></heading><p num="0262">A solution of 750 mg (1.28 mmol) N-(6-benzylamino-4-o-tolyl-pyridin-3-yl)-2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-isobutyramide
+(Example 73, step d) in 25 ml of a 5 N
+solution of hydrochloric acid in ethanol was evaporated to dryness and the residue was
+dissolved in 30 ml methanol and hydrogenated in the presence of 60 mg 10% palladium on
+activated charcoal (room temperature, 10 bar) for 20h. After filtration of the catalyst and
+evaporation of the solvent the residue was dissolved in 30 ml ethyl acetate, washed twice
+with saturated aqueous sodium hydrogencarbonate solution and dried (magnesium
+sulfate). Evaporation of the solution afforded 514 mg (81%) of the title compound as light
+brown crystals.</p><p num="0263">MS m/e (%): 496 (M+H<sup>+</sup>, 100). </p><heading><b>Example 74</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[6-(dimethylamino-methyleneamino)-4-o-tolyl-pyridin-3-yl]-N-methyl-isobutyramide</b></heading><p num="0264">To a solution of 100 mg (0.2 mmol) N-(6-amino-4-o-tolyl-pyridin-3-yl)-2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-isobutyramide
+(Example 73) in 4 ml N,N-dimethylformamide
+was added at 0°C 11 mg (0.252 mmol) sodium hydride as a 60%
+dispersion in oil and the mixture was stirred for 30 min without cooling. Then 28 ul (0.218
+mmol) benzenesulfonyl chloride were added at 0°C and the solution was stirred over night
+at room temperature. The reaction mixture was added to water and extracted with ethyl
+acetate (3 x 10 ml). The combined extracts were washed with water (3 x 20 ml), brine (20
+ml), dried (magnesium sulfate) and evaporated. Chromatography of the residue afforded
+51 mg (46%) of the title compound as a white foam.</p><p num="0265">MS m/e (%): 551 (M+H<sup>+</sup>, 100).</p><heading><b>Example 75</b></heading><heading><b>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(6-methanesulfonylamino-4-o-tolyl-pyridin-3-yl)-N-methyl-isobutyramide</b></heading><p num="0266">To a solution of 100 mg (0.2 mmol) N-(6-amino-4-o-tolyl-pyridin-3-yl)-2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-isobutyramide
+i(Example 73) in 2 ml pyridine were
+added 27 ul (0.35 mmol) methanesulfonyl chloride and the mixture was stirred over night
+at room temperature. After evaporation of the solvent the residue was dissolved in ethyl
+acetate, washed twice with saturated aqueous sodium hydrogencarbonate solution, brine
+and dried (magnesium sulfate). Chromatography of the residue afforded 24 mg (42%) of
+the title compound as a white foam.</p><p num="0267">MS m/e (%): 574 (M+H<sup>+</sup>, 100).</p><heading><b>Example 76</b></heading><heading><b>N-(6-Benzenesulfonylamino-4-o-tolyl-pyridin-3-yl)-2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-isobutyramide</b></heading><p num="0268">To a solution of 100 mg (0.2 mmol) N-(6-amino-4-o-tolyl-pyridin-3-yl)-2-(3,5-bis-trifluoromethyl-phenyl)-N-methyl-isobutyramide
+in 4 ml dichloromethane and 85 ul N-ethyldiisopropylamine
+were added 56 ul (0.436 mmol) benzenesulfonyl chloride and the
+mixture was stirred over night at room temperature. The reaction mixture was washed
+twice with saturated aqueous sodium hydrogencarbonate solution and dried (magnesium 
+sulfate). Chromatography of the residue afforded 26 mg (28%) of the title compound as a
+white foam.</p><p num="0269">MS m/e (%): 634 (M-H<sup>+</sup>, 100).</p><heading><u style="single">Example A</u></heading><heading>Tablets of the following composition are manufactured in the usual manner:</heading><p num="0270"><tables><table><tgroup cols="2"><tbody><row><entry align="center"/><entry align="right"><u style="single">mg/tablet</u></entry></row><row><entry align="left">Active substance</entry><entry align="right">5</entry></row><row><entry align="left">Lactose</entry><entry align="right">45</entry></row><row><entry align="left">Corn starch</entry><entry align="right">15</entry></row><row><entry align="left">Microcrystalline cellulose</entry><entry align="right">34</entry></row><row><entry align="left">Magnesium stearate</entry><entry align="right">1</entry></row><row><entry align="left"/><entry align="right">Tablet weight 100</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example B</u></heading><heading>Capsules of the following composition are manufactured:</heading><p num="0271"><tables><table><tgroup cols="2"><tbody><row><entry align="center"/><entry align="right"><u style="single">mg/capsule</u></entry></row><row><entry align="left">Active substance</entry><entry align="right">10</entry></row><row><entry align="left">Lactose</entry><entry align="right">155</entry></row><row><entry align="left">Corn starch</entry><entry align="right">30</entry></row><row><entry align="left">Talc</entry><entry align="right">5</entry></row><row><entry align="left"/><entry align="right">Capsule fill weight 200</entry></row></tbody></tgroup></table></tables></p><p num="0272">The active substance, lactose and corn starch are firstly mixed in a mixer and then in
+a comminuting machine. The mixture is returned to the mixer, the talc is added thereto
+and mixed thoroughly. The mixture is filled by machine into hard gelatine capsules. </p><heading><u style="single">Example C</u></heading><heading>Suppositories of the following composition are manufactured:</heading><p num="0273"><tables><table><tgroup cols="2"><tbody><row><entry align="center"/><entry align="right"><u style="single">mg/supp.</u></entry></row><row><entry align="left">Active substance</entry><entry align="right">15</entry></row><row><entry align="left">Suppository mass</entry><entry align="right">1285</entry></row><row><entry align="left"/><entry align="right">Total 1300</entry></row></tbody></tgroup></table></tables></p><p num="0274">The suppository mass is melted in a glass or steel vessel, mixed thoroughly and
+cooled to 45°C. Thereupon, the finely powdered active substance is added thereto and
+stirred until it has dispersed completely. The mixture is poured into suppository moulds of
+suitable size, left to cool, the suppositories are then removed from the moulds and packed
+individually in wax paper or metal foil.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>Compounds of the general formula
+
+wherein
+Ris hydrogen, lower alkyl, lower alkoxy, halogen or trifluoromethyl;R1is hydrogen or halogen; orR and R1may be together -CH=CH-CH=CH-;R2 and R2'are independently from each other hydrogen, halogen, trifluoromethyl, lower
+alkoxy or cyano; orR2 and R2'may be together -CH=CH-CH=CH-, optionally substituted by one or two
+substituents selected from lower alkyl or lower alkoxy;R3is hydrogen, lower alkyl or form a cycloalkyl group;R4is hydrogen, -N(R5)2, -N(R5)(CH2)nOH, -N(R5)S(O)2-lower alkyl, -N(R5)S(O)2-phenyl,
+-N=CH-N(R5)2, -N(R5)C(O)R5 or a cyclic tertiary amine of the group
+
+or the group
+R5is, independently from each other, hydrogen, C3-6-cycloalkyl, benzyl or lower
+alkyl;R6is hydrogen, hydroxy, lower alkyl, -(CH2)nCOO-lower alkyl, -N(R5)CO-lower
+alkyl, hydroxy-lower alkyl, cyano, -(CH2)nO(CH2)nOH, -CHO or a 5-or 6
+membered heterocyclic group, optionally bonded via an alkylene group,Xis -C(O)N(R5)-, -(CH2)mO-, -(CH2)mN(R5)-, -N(R5)C(O)-, or -N(R5)(CH2)m-;nis 0 - 4; andmis 1 or 2;
+and pharmaceutically acceptable acid addition salts thereof.</claim-text></claim><claim num="2"><claim-text>A compound according to claim 1, wherein X is -C(O)N(R5)- and R5 is methyl,
+ethyl or cyclopropyl.</claim-text></claim><claim num="3"><claim-text>A compound according to claim 2, which is
+<claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-chloro-phenyl)-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-trifluoromethyl-phenyl)-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-fluoro-phenyl)-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-(2-methoxy-phenyl)-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-4-phenyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-ethyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-cyclopropyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-[1-(3,5-Bis-trifluoromethyl-phenyl)-ethyl]-N-methyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Di-fluorobenzyl)-N-methyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Di-chlorobenzyl)-N-methyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-4-o-tolyl-nicotinamide,</claim-text><claim-text>2'-Methyl-5-(4-methyl-piperazin-1-yl)-biphenyl-2-carboxylic acid-(3,5-bis-trifluoromethyl-benzyl)-methyl-amide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-methyl-piperazin-1-yl)-4-naphthalen-1-yl-nicotinamide,</claim-text><claim-text>(4-{5-[(3,5-Bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4-o-tolyl-pyridin-2-yl}-piperazin-1-yl)-acetic
+acid ethyl ester,</claim-text><claim-text>5'-[(3,5-Bis-trifluoromethyl-benzyl)-methyl-carbamoyl]-4'-o-tolyl-3,4,5,6-tetrahydro-2H-[1,2']bipyridinyl-4-carboxylic
+acid ethyl ester,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-propyl-piperazin-1-yl)-4-o-tolyl-nicotinamide,</claim-text><claim-text>(RS)-6- [3-(Acetyl-methyl-amino)-pyrrolidin-1-yl]-N-(3,5-bis-trifluoromethyl-benzyl)-N-methyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-[ methyl- (2-morpholin-4-yl-ethyl)-amino]
+-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-morpholin-4-yl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-thiomorpholin-4-yl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(1-oxo-1l4-thiomorpholin-4-yl)-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-6-(1,1-dioxo-1l 6-thiomorpholin-4-yl)-N-methyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-piperazin-1-yl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-6-[4-(2-hydroxy-ethyl)-piperazin-1-yl]-N-methyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-6-(4-cyanomethyl-piperazin-1-yl)-N-methyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-6-{4-[ 2-(2-hydroxy-ethoxy)-ethyl] -piperazin-1-yl}-N-methyl-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-(4-[1,2,4]oxadiazol-3- ylmethyl-piperazin-1-yl)-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-N-methyl-6-[4-(5-oxo-4,5-dihydro-1H-[1,2,4]triazol-3-ylmethyl)-piperazin-1-yl]-4-o-tolyl-nicotinamide,</claim-text><claim-text>N-(3,5-Bis-trifluoromethyl-benzyl)-6-(4-formyl-piperazin-1-yl)-N-methyl-4-o-tolyl-nicotinamide
+and</claim-text><claim-text>N-Methyl-N-(2-methyl-naphthalen-1-ylmethyl)-6-morpholin-4-yl-4-o-tolyl-nicotinamide.</claim-text></claim-text></claim-text></claim><claim num="4"><claim-text>A compound according to claim 1, wherein X is -N(R5)C(O)- and R5 is
+hydrogen or methyl.</claim-text></claim><claim num="5"><claim-text>A compound according to claim 4, which is
+<claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-[6-(4-methyl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-N-methyl-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(4-fluoro-2-methyl-phenyl)-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-N-methyl-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-pyridin-3-yl]-N-methyl-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl-N-methyl-N-(4-o-tolyl-pyridin-3-yl)-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(4-o-tolyl-pyridin-3-yl)-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(4-o-tolyl-pyridin-3-yl)-acetamide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(4-o-tolyl-pyridin-3-yl)-propionamide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-6-morpholin-4-yl-pyridin-3-yl]-N-methyl-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-{6-[methyl-(2-morpholin-4-yl-ethyl)-amino]-4-o-tolyl-pyridin-3-yl}-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-[6-(4-pyrimidin-2-yl-piperazin-1-yl)-4-o-tolyl-pyridin-3-yl]-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-[4-(2-chloro-phenyl)-6-dimethylamino-pyridin-3-yl]
+-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-piperazin-1-yl-4-o-tolyl-pyridin-3-yl)-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-(4-hydroxy-4'-o-tolyl-3,4,5,6-tetrahydro-2H-[1,2']bipyridinyl-5'-yl)-N-methyl-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-{6- [(2-hydroxy-ethyl)-methyl-amino]-4-o-tolyl-pyridin-3-yl}-N-methyl-isobutyramide,</claim-text><claim-text>(R)-2-(3,5-Bis-trifluoromethyl-phenyl)-N-[6-(3-hydroxy-pyrrolidin-1-yl)-4-o-tolyl-pyridin-3-yl]-N-methyl-isobutyramide,</claim-text><claim-text>2-(3,5-Bis-trifluoromethyl-phenyl)-N-methyl-N-(6-morpholin-4-yl-4-o-tolyl-pyridin-3-yl)-acetamide
+and</claim-text><claim-text>[2-(3,5-Bis-trifluoromethyl-phenyl)-2-methyl-propyl]-[4-(4-fluoro-2-methyl-phenyl)-6-(4-methyl-piperazin-1-yl)-pyridin-3-yl]-methyl-amine.</claim-text></claim-text></claim-text></claim><claim num="6"><claim-text>A medicament containing one or more compounds as claimed in any one of
+claims 1-5 and pharmaceutically acceptable excipients.</claim-text></claim><claim num="7"><claim-text>A medicament according to claim 6 for the treatment of diseases related to NK-1
+receptor antagonists.</claim-text></claim><claim num="8"><claim-text>A process for preparing a compound of formula I as defined in claim 1, which
+process comprises
+<claim-text><claim-text>a) reacting a compound of formula
+
+with a compound of formula
+
+to a compound of formula
+
+   wherein R1- R5, R and n have the significances given above,
+or</claim-text><claim-text>b) reacting a compound of formula
+
+with a compound of formula
+to give a compound of formula
+
+   wherein R1-R5, R and n have the significances given above, or</claim-text><claim-text>c) reducing a compound of formula
+
+to a compound of formula
+
+   wherein the definition of substituents is given above, or</claim-text><claim-text>d) reacting a compound of formula
+with a compound of formula
+
+to a compound of formula
+
+   wherein Z is Cl, Br, I or -OS(O)2C6H4CH3 and the definition of further substituents
+is given above, or</claim-text><claim-text>e) reacting a compound of formula
+
+with a compound of formula
+to a compound of formula
+
+   wherein Z is Cl, Br, I or -OS(O)2C6H4CH3 and the definition of the other
+substituents is given above, or</claim-text><claim-text>f) reducing a compound of formula
+
+to a compound of formula
+
+   wherein the definition of substituents is given above,
+or</claim-text><claim-text>h) modifying one or more substituents R1-R6 or R within the definitions given above,
+and</claim-text></claim-text>
+if desired, converting the compound obtained into a pharmaceutically acceptable acid
+addition salt.</claim-text></claim><claim num="9"><claim-text>A compound according to any one of claims 1-5, whenever prepared by a process
+as claimed in claim 8 or by an equivalent method.</claim-text></claim><claim num="10"><claim-text>The use of a compound in any one of claims 1-5 for the treatment of diseases
+related to NK-1 receptor antagonists.</claim-text></claim><claim num="11"><claim-text>The use of a compound in any one of claims 1-5 for the manufacture of
+medicaments containing one or more compounds of formula I for the treatment of
+diseases related to NK-1 receptor antagonists.</claim-text></claim><claim num="12"><claim-text>The invention as hereinbefore described.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

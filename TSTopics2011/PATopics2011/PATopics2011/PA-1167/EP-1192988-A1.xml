@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1192988-A1" country="EP" doc-number="1192988" kind="A1" lang="EN" family-id="27559271" status="new" date-produced="20090516" date="20020403"><bibliographic-data><publication-reference ucid="EP-1192988-A1" status="new" fvid="23395734"><document-id status="new" format="original"><country>EP</country><doc-number>1192988</doc-number><kind>A1</kind><date>20020403</date></document-id></publication-reference><application-reference ucid="EP-01308129-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01308129</doc-number><kind>A</kind><date>20010925</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-23598200-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>23598200</doc-number><kind>P</kind><date>20000928</date></document-id></priority-claim><priority-claim ucid="US-23598300-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>23598300</doc-number><kind>P</kind><date>20000928</date></document-id></priority-claim><priority-claim ucid="US-23607300-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>23607300</doc-number><kind>P</kind><date>20000928</date></document-id></priority-claim><priority-claim ucid="US-23625000-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>23625000</doc-number><kind>P</kind><date>20000928</date></document-id></priority-claim><priority-claim ucid="US-23630500-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>23630500</doc-number><kind>P</kind><date>20000928</date></document-id></priority-claim><priority-claim ucid="US-92803001-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>92803001</doc-number><kind>A</kind><date>20010811</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B01J  23/16        20060101AFI20060101BMKR        </classification-ipcr><classification-ipcr status="new">B01J  23/16        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  23/22        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  23/28        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  23/54        20060101CLI20060101BMKR        </classification-ipcr><classification-ipcr status="new">B01J  23/64        20060101ALI20060101BMKR        </classification-ipcr><classification-ipcr status="new">B01J  23/74        20060101ALI20060101BMKR        </classification-ipcr><classification-ipcr status="new">B01J  23/74        20060101CLI20060101BMKR        </classification-ipcr><classification-ipcr status="new">B01J  27/057       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  27/057       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07B  61/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07B  61/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07C  51/16        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C  51/215       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C  51/25        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C  57/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07C  57/05        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07C 253/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 253/24        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 255/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07C 255/08        20060101ALI20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B01J  23/00B</classification-symbol><classification-symbol scheme="EC">B01J  23/22</classification-symbol><classification-symbol scheme="EC">B01J  23/28</classification-symbol><classification-symbol scheme="EC">B01J  27/057T</classification-symbol><classification-symbol scheme="EC">C07C 253/24</classification-symbol><classification-symbol scheme="EC">C07C  51/215+57/04</classification-symbol><classification-symbol scheme="EC">C07C  51/25B+57/04</classification-symbol><classification-symbol scheme="ICO">M07C255:08</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Katalysator aktiviert durch ein Multimetalloxid</invention-title><invention-title load-source="ep" status="new" lang="EN">Promoted multi-metal oxide catalyst</invention-title><invention-title load-source="ep" status="new"  lang="FR">Catalyseur dopé par un oxyde multimetallique</invention-title><citations><patent-citations><patcit ucid="DE-19847656-A1" status="new"><document-id status="new" format="epo"><country>DE</country><doc-number>19847656</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0962253-A2"  status="new"><document-id status="new"  format="epo"><country>EP</country><doc-number>0962253</doc-number><kind>A2</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0970942-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0970942</doc-number><kind>A1</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>ROHM &amp; HAAS</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ROHM AND HAAS COMPANY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>ROHM AND HAAS COMPANY</last-name><address><street>100 Independence Mall West</street><city>Philadelphia, Pennsylvania 19106-2399</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>CHATURVEDI SANJAY</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>GAFFNEY ANNE MAE</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>HAN SCOTT</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>HEFFNER MICHELE DOREEN</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SONG RUOZHI</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>CHATURVEDI, SANJAY</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GAFFNEY, ANNE MAE</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HAN, SCOTT</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HEFFNER, MICHELE DOREEN</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SONG, RUOZHI</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>CHATURVEDI, SANJAY</last-name><address><street>4 Stallion Circle</street><city>Horsham, Pennsylvania 19044</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GAFFNEY, ANNE MAE</last-name><address><street>805 Copeland School Road</street><city>West Chester, Pennsylvania 19380</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>HAN, SCOTT</last-name><address><street>4 Valerie Lane</street><city>Lawrenceville, New Jersey 08648</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>HEFFNER, MICHELE DOREEN</last-name><address><street>223 Diana Drive</street><city>Chalfont, Pennsylvania 18914</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SONG, RUOZHI</last-name><address><street>1344 Prospect Drive</street><city>Wilmington, Delaware 19809</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Kent, Venetia Katherine</last-name><address><street>Rohm and Haas (UK) Ltd European Operations Patent Dept. Lennig House 2 Mason's Avenue</street><city>Croydon, CR9 3NB</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>BE</country><country>DE</country><country>FR</country><country>GB</country><country>IT</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A catalyst comprising a promoted mixed metal oxide is useful for the vapor phase
+oxidation of an alkane or a mixture of an alkane and an alkene to an unsaturated carboxylic
+acid and for the vapor phase ammoxidation of an alkane or a mixture of an alkane and an
+alkene to an unsaturated nitrile. The catalyst comprises at least one
+element selected from the group consisting of Sc, Y, Pr, Nd and Tb.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to an improved catalyst for the oxidation of alkanes or a
+mixture of alkanes and alkenes to their corresponding unsaturated carboxylic acids by vapor
+phase catalytic oxidation; to a method of making the catalyst; and to a process for the vapor
+phase catalytic oxidation of alkanes or a mixture of alkanes and alkenes to their
+corresponding unsaturated carboxylic acids.</p><p num="0002">The present invention also relates to a method of producing unsaturated nitriles by
+subjecting alkanes or a mixture of alkanes and alkenes to vapor phase catalytic oxidation in
+the presence of ammonia.</p><p num="0003">Nitriles, such as acrylonitrile and methacrylonitrile, have been industrially produced
+as important intermediates for the preparation of fibers, synthetic resins, synthetic rubbers,
+and the like. The most popular method for producing such nitriles is to subject an olefin such
+as propene or isobutene to a catalytic reaction with ammonia and oxygen in the presence of a
+catalyst in a gaseous phase at a high temperature. Known catalysts for conducting this
+reaction include a Mo-Bi-P-O catalyst, a V-Sb-O catalyst, an Sb-U-V-Ni-O catalyst, a Sb-Sn-O
+catalyst, a V-Sb-W-P-O catalyst and a catalyst obtained by mechanically mixing a V-Sb-W-O
+oxide and a Bi-Ce-Mo-W-O oxide. However, in view of the price difference between
+propane and propene or between isobutane and isobutene, attention has been drawn to the
+development of a method for producing acrylonitrile or methacrylonitrile by an
+ammoxidation reaction wherein a lower alkane, such as propane or isobutane, is used as a
+starting material, and it is catalytically reacted with ammonia and oxygen in a gaseous phase
+in the presence of a catalyst.</p><p num="0004">In particular, U.S. Patent No. 5,281,745 discloses a method for producing an
+unsaturated nitrile comprising subjecting an alkane and ammonia in the gaseous state to
+catalytic oxidation in the presence of a catalyst which satisfies the conditions:
+<sl><li>(1) the mixed metal oxide catalyst is represented by the empirical formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">Mo<sub>a</sub>V<sub>b</sub>Te<sub>c</sub>X<sub>x</sub>O<sub>n</sub></st32:che>
+wherein X is at least one element selected from the group consisting of niobium, tantalum,
+tungsten, titanium, aluminum, zirconium, chromium, manganese, iron, ruthenium, cobalt,
+rhodium, nickel, palladium, platinum, antimony, bismuth, boron and cerium and, when a = 1, 
+b = 0.01 to 1.0, c = 0.01 to 1.0, x = 0.01 to 1.0 and n is a number such that the total valency of
+the metal elements is satisfied; and</li><li>(2) the catalyst has X-ray diffraction peaks at the following angles (±0.3°) of 2 in its
+X-ray diffraction pattern: 22.1°, 28.2°, 36.2°, 45.2° and 50.0°.</li></sl></p><p num="0005">Similarly, Japanese Laid-Open Patent Application Publication No. 6-228073 discloses
+a method of nitrile preparation comprising reacting an alkane in a gas phase contact reaction
+with ammonia in the presence of a mixed metal oxide catalyst of the formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">W<sub>a</sub>V<sub>b</sub>Te<sub>c</sub>X<sub>x</sub>O<sub>n</sub></st32:che>
+wherein X represents one or more elements selected from niobium, tantalum, titanium,
+aluminum, zirconium, chromium, manganese, iron, ruthenium, cobalt, rhodium, nickel,
+palladium, platinum, antimony, bismuth, indium and cerium and, when a = 1, b = 0.01 to 1.0,
+c = 0.01 to 1.0, x = 0.01 to 1.0 and n is determined by the oxide form of the elements.</p><p num="0006">U.S. Patent No. 6,043,185 also discloses a catalyst useful in the manufacture of
+acrylonitrile or methacrylonitrile by the catalytic reaction in the vapor phase of a paraffin
+selected from propane and isobutane with molecular oxygen and ammonia by catalytic
+contact of the reactants in a reaction zone with a catalyst, wherein the catalyst has the
+empirical formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">Mo<sub>a</sub>V<sub>b</sub>Sb<sub>c</sub>Ga<sub>d</sub>X<sub>e</sub>O<sub>x</sub></st32:che>
+where X is one or more of As, Te, Se, Nb, Ta, W, Ti, Zr, Cr, Mn, Fe, Ru, Co, Rh, Ni, Pd, Pt,
+B, In, Ce, Re, Ir, Ge, Sn, Bi, Y, Pr, an alkali metal and an alkaline earth metal; and when a =
+1, b = 0.0 to 0.99, c = 0.01 to 0.9, d = 0.01 to 0.5, e = 0.0 to 1.0 and x is determined by the
+oxidation state of the cations present.</p><p num="0007">Unsaturated carboxylic acids such as acrylic acid and methacrylic acid are industrially
+important as starting materials for various synthetic resins, coating materials and plasticizers.
+Commercially, the current process for acrylic acid manufacture involves a two-step catalytic
+oxidation reaction starting with a propene feed. In the first stage, propene is converted to
+acrolein over a modified bismuth molybdate catalyst. In the second stage, acrolein product
+from the first stage is converted to acrylic acid using a catalyst composed of mainly
+molybdenum and vanadium oxides. In most cases, the catalyst formulations are proprietary to
+the catalyst supplier, but, the technology is well established. Moreover, there is an incentive
+to develop a single step process to prepare the unsaturated acid from its corresponding 
+alkene. Therefore, the prior art describes cases where complex metal oxide catalysts are
+utilized for the preparation of unsaturated acid from a corresponding alkene in a single step.</p><p num="0008">European Published Patent Application No. 0 630 879 B1 discloses a process for
+producing an unsaturated aldehyde and a carboxylic acid which comprises subjecting
+propene, isobutene or tertiary butanol to gas phase catalytic oxidation with molecular oxygen
+in the presence of (i) a catalyst composite oxide represented by the formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">Mo<sub>a</sub>Bi<sub>b</sub>Fe<sub>c</sub>A<sub>d</sub>B<sub>e</sub>C<sub>f</sub>D<sub>g</sub>O<sub>x</sub></st32:che>
+wherein A represents Ni and/or Co, B represents at least one element selected from Mn, Zn,
+Ca, Mg, Sn and Pb, C represents at least one element selected from P, B, As, Te, W, Sb and
+Si, and D represents at least one element selected from K, Rb, Cs and Tl; and
+
+wherein, when a = 12, 0 &lt; b ≤ 10, 0 &lt; c ≤ 10, 1 ≤ d ≤ 10, 0 ≤ e ≤ 10, 0 ≤ f ≤ 20 and
+0 ≤ g ≤ 2, and x has a value dependent on the oxidation state of the other elements; and (ii) a
+molybdenum oxide which in itself is substantially inert to said gas phase catalytic oxidation
+to provide the corresponding unsaturated aldehyde and unsaturated carboxylic acid.</p><p num="0009">Japanese Laid-Open Patent Application Publication No. 07-053448 discloses the
+manufacture of acrylic acid by the gas-phase catalytic oxidation of propene in the presence of
+mixed metal oxides containing Mo, V, Te, O and X wherein X is at least one of Nb, Ta, W,
+Ti, Al, Zr, Cr, Mn, Fe, Ru, Co, Rh, Ni, Pd, Pt, Sb, Bi, B, In, Li, Na, K, Rb, Cs and Ce.</p><p num="0010">Published International Application No. WO 00/09260 discloses a catalyst for
+selective oxidation of propene to acrylic acid and acrolein containing a catalyst composition
+comprising the elements Mo, V, La, Pd, Nb and X in the following ratio:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">Mo<sub>a</sub>V<sub>b</sub>La<sub>c</sub>Pd<sub>d</sub>Nb<sub>e</sub>X<sub>f</sub></st32:che>
+   wherein X is Cu or Cr or a mixture thereof,
+<sl><li>a is 1,</li><li>b is 0.01 to 0.9,</li><li>c is &gt;0 to 0.2</li><li>d is 0.0000001 to 0.2,</li><li>e is 0 to 0.2, and</li><li>f is 0 to 0.2; and</li></sl>
+wherein the numerical values of a, b, c, d, e and f represent the relative gram-atom
+ratios of the elements Mo, V, La, Pd, Nb and X, respectively, in the catalyst and the elements
+are present in combination with oxygen. </p><p num="0011">Commercial incentives also exist for producing acrylic acid using a lower cost
+propane feed. Therefore, the prior art describes cases wherein a mixed metal oxide catalyst is
+used to convert propane to acrylic acid in one step.</p><p num="0012">U.S. Patent No. 5.380,933 discloses a method for producing an unsaturated carboxylic
+acid comprising subjecting an alkane to a vapor phase catalytic oxidation reaction in the
+presence of a catalyst containing a mixed metal oxide comprising, as essential components,
+Mo, V, Te, O and X, wherein X is at least one element selected from the group consisting of
+niobium, tantalum, tungsten, titanium, aluminum, zirconium, chromium, manganese, iron,
+ruthenium, cobalt, rhodium, nickel, palladium, platinum, antimony, bismuth, boron, indium
+and cerium; and wherein the proportions of the respective essential components, based on the
+total amount of the essential components, exclusive of oxygen, satisfy the following
+relationships:
+0.25 &lt; r(Mo) &lt; 0.98, 0.003 &lt; r(V) &lt; 0.5, 0.003 &lt; r(Te) &lt; 0.5 and 0.003 &lt; r(X) &lt; 0.5, wherein
+r(Mo), r(V), r(Te) and r(X) are the molar fractions of Mo, V, Te and X, respectively, based on
+the total amount of the essential components exclusive of oxygen.</p><p num="0013">Published International Application No. WO 00/29106 discloses a catalyst for
+selective oxidation of propane to oxygenated products including acrylic acid, acrolein and
+acetic acid, said catalyst system containing a catalyst composition comprising
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">Mo<sub>a</sub>V<sub>b</sub>Ga<sub>c</sub>Pd<sub>d</sub>Nb<sub>e</sub>X<sub>f</sub></st32:che>
+   wherein X is at least one element selected from La, Te, Ge, Zn, Si, In and W,
+<sl><li>a is 1,</li><li>b is 0.01 to 0.9,</li><li>c is &gt;0 to 0.2,</li><li>d is 0.0000001 to 0.2,</li><li>e is &gt;0 to 0.2, and</li><li>f is .0 to 0.5; and</li></sl>
+   wherein the numerical values of a, b, c, d, e and f represent the relative gram-atom
+ratios of the elements Mo, V, Ga, Pd, Nb and X, respectively, in the catalyst and the elements
+are present in combination with oxygen.</p><p num="0014">Japanese Laid-Open Patent Application Publication No. 2000-037623 discloses a
+method for producing an unsaturated carboxylic acid comprising subjecting an alkane to a
+vapor phase catalytic oxidation in the presence of a catalyst having the empirical formula <st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">MoV<sub>a</sub>Nb<sub>b</sub>X<sub>c</sub>Z<sub>d</sub>O<sub>n</sub></st32:che>
+wherein X is at least one element selected from the group consisting of Te and Sb, Z is at
+least one element selected from the group consisting of W, Cr, Ta, Ti, Zr, Hf, Mn, Re, Fe, Ru,
+Co, Rh, Ni, Pd, Pt, Ag, Zn, B, Al, Ga, In, Ge, Sn, Pb, P, Bi, Y, rare earth elements and
+alkaline earth elements, 0.1 ≤ a ≤ 1.0, 0.01 ≤ b ≤ 1.0, 0.01 ≤ c ≤ 1.0, 0 ≤ d ≤ 1.0 and n is
+determined by the oxidation states of the other elements.</p><p num="0015">Despite the above-noted attempts to provide new and improved catalysts for the
+oxidation of alkanes to unsaturated carboxylic acids and for the ammoxidation of alkanes to
+unsaturated nitriles, one impediment to the provision of a commercially viable process for
+such catalytic oxidations is the identification of a catalyst providing adequate conversion and
+suitable selectivity, thereby providing sufficient yield of the unsaturated product.</p><p num="0016">By the present invention, there are provided promoted catalysts wherein the activity is
+greatly enhanced as to the base catalyst and, hence, the overall yield of the desired reaction
+product is also greatly enhanced.</p><p num="0017">Thus, in a first aspect, the present invention provides a catalyst comprising a
+promoted mixed metal oxide having the empirical formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">A<sub>a</sub>M<sub>b</sub>N<sub>c</sub>X<sub>d</sub>Z<sub>e</sub>O<sub>f</sub></st32:che>
+wherein A is at least one element selected from the group consisting of Mo and W, M is at
+least one element selected from the group consisting of V and Ce, N is at least one element
+selected from the group consisting of Te, Sb and Se, X is at least one element selected from
+the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru, Co, Rh, Ni, Pt, Sb, Bi, B, In, As,
+Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er,
+Tm, Yb and Lu, and Z is selected from the group consisting of Sc, Y, Pr, Nd and Tb; and
+
+wherein, when a = 1, b = 0.01 to 1.0, c = 0.01 to 1.0, d = 0.01 to 1.0, e = 0.001 to 0.1 and f is
+dependent on the oxidation state of the other elements.</p><p num="0018">In a second aspect, the present invention provides a process for producing an
+unsaturated carboxylic acid, which comprises subjecting an alkane or a mixture of an alkane
+and an alkene to a vapor phase catalytic oxidation reaction in the presence of a catalyst
+containing a promoted mixed metal oxide having the empirical formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">A<sub>a</sub>M<sub>b</sub>N<sub>c</sub>X<sub>d</sub>Z<sub>e</sub>O<sub>f</sub></st32:che>
+wherein A is at least one element selected from the group consisting of Mo and W, M is at
+least one element selected from the group consisting of V and Ce, N is at least one element 
+selected from the group consisting of Te, Sb and Se, X is at least one element selected from
+the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru, Co, Rh, Ni, Pt, Sb, Bi, B, In, As,
+Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er,
+Tm, Yb and Lu, and Z is selected from the group consisting of Sc, Y, Pr, Nd and Tb; and
+
+wherein, when a = 1, b = 0.01 to 1.0, c = 0.01 to 1.0, d = 0.01 to 1.0, e = 0.001 to 0.1 and f is
+dependent on the oxidation state of the other elements.</p><p num="0019">In a third aspect, the present invention provides a process for producing an
+unsaturated nitrile, which comprises subjecting an alkane, or a mixture of an alkane and an
+alkene, and ammonia to a vapor phase catalytic oxidation reaction in the presence of a
+catalyst containing a promoted mixed metal oxide having the empirical formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">A<sub>a</sub>M<sub>b</sub>N<sub>c</sub>X<sub>d</sub>Z<sub>e</sub>O<sub>f</sub></st32:che>
+wherein A is at least one element selected from the group consisting of Mo and W, M is at
+least one element selected from the group consisting of V and Ce, N is at least one element
+selected from the group consisting of Te, Sb and Se, X is at least one element selected from
+the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru, Co, Rh, Ni, Pt, Sb, Bi, B, In, As,
+Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er,
+Tm, Yb and Lu, and Z is selected from the group consisting of Sc, Y, Pr, Nd and Tb; and
+
+wherein, when a = 1, b = 0.01 to 1.0, c = 0.01 to 1.0, d = 0.01 to 1.0, e = 0.001 to 0.1 and f is
+dependent on the oxidation state of the other elements.</p><p num="0020">In a fourth aspect, the present invention provides a catalyst produced by the process
+comprising:
+<sl><li>(1) admixing compounds of the elements A, M, N, X and Z and at least one
+solvent to form an admixture, wherein A is at least one element selected
+from the group consisting of Mo and W, M is at least one element selected
+from the group consisting of V and Ce, N is at least one element selected
+from the group consisting of Te, Sb and Se, X is at lest one element
+selected from the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru,
+Co, Rh, Ni, Pt, Bi, B, In, As, Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr,
+Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er, Tm, Yb and Lu, and Z is
+selected from the group consisting of Sc, Y, Pr, Nd and Tb, and wherein
+the elements A, M, N, X and Z are present in such amounts that the atomic
+ratio of A:M:N:X:Z is
+ 
+1 : 0.01 to 1.0 : 0.01 to 1.0 : 0.01 to 1.0 : 0.001 to 0.1;</li><li>(2) removing said at least one solvent from the admixture to obtain a catalyst
+precursor; and</li><li>(3) calcining said catalyst precursor.</li></sl></p><p num="0021">In a fifth aspect, the present invention provides a process for producing an unsaturated
+carboxylic acid, which comprises subjecting an alkane or a mixture of an alkane and an
+alkene to a vapor phase catalytic oxidation reaction in the presence of the catalyst produced
+by the process comprising:
+<sl><li>(1) admixing compounds of the elements A, M, N, X and Z and at least one
+solvent to form an admixture, wherein A is at least one element selected
+from the group consisting of Mo and W, M is at least one element selected
+from the group consisting of V and Ce, N is at least one element selected
+from the group consisting of Te, Sb and Se, X is at lest one element
+selected from the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru,
+Co, Rh, Ni, Pt, Bi, B, In, As, Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr,
+Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er, Tm, Yb and Lu, and Z is
+selected from the group consisting of Sc, Y, Pr, Nd and Tb and wherein the
+elements A, M, N, X and Z are present in such amounts that the atomic
+ratio of A:M:N:X:Z is
+
+1 : 0.01 to 1.0 : 0.01 to 1.0 : 0.01 to 1.0 : 0.001 to 0.1;</li><li>(2) removing said at least one solvent from the admixture to obtain a catalyst
+precursor; and</li><li>(3) calcining said catalyst precursor.</li></sl> </p><p num="0022">In a sixth aspect, the present invention provides a process for producing an
+unsaturated nitrile, which comprises subjecting an alkane, or a mixture of an alkane and an
+alkene, and ammonia to a vapor phase catalytic oxidation reaction in the presence of the
+catalyst produced by the process comprising:
+<sl><li>(1) admixing compounds of the elements A, M, N, X and Z and at least one
+solvent to form an admixture, wherein A is at least one element selected
+from the group consisting of Mo and W, M is at least one element selected
+from the group consisting of V and Ce, N is at least one element selected
+from the group consisting of Te, Sb and Se, X is at least one element 
+selected from the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru,
+Co, Rh, Ni, Pt, Bi, B, In, As, Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr,
+Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er, Tm, Yb and Lu, and Z is
+selected from the group consisting of Sc, Y, Pr, Nd and Tb, and wherein
+the elements A, M, N, X and Z are present in such amounts that the atomic
+ratio of A:M:N:X:Z is
+
+1 : 0.01 to 1.0 : 0.01 to 1.0 : 0.01 to 1.0 : 0.001 to 0.1;</li><li>(2) removing said at least one solvent from the admixture to obtain a catalyst
+precursor; and</li><li>(3) calcining said catalyst precursor.</li></sl> </p> <p num="0023">The promoted mixed metal oxide to be used as a catalyst component of the present
+invention has the empirical formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">A<sub>a</sub>M<sub>b</sub>N<sub>c</sub>X<sub>d</sub>Z<sub>e</sub>O<sub>f</sub> </st32:che>
+wherein A is at least one element selected from the group consisting of Mo and W, M is at
+least one element selected from the group consisting of V and Ce, N is at least one element
+selected from the group consisting of Te, Sb and Se, X is at least one element selected from
+the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru, Co, Rh, Ni, Pt, Sb, Bi, B, In, As,
+Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er,
+Tm, Yb and Lu, and Z is selected from the group consisting of Sc, Y, Pr, Nd and Tb; and
+
+wherein, when a = 1, b = 0.01 to 1.0, c = 0.01 to 1.0, d = 0.01 to 1.0, e = 0.001 to 0.1 and f is
+dependent on the oxidation state of the other elements.</p><p num="0024">Preferably, when a = 1, b = 0.1 to 0.5, c = 0.05 to 0.5, d = 0.01 to 0.5 and e = 0.002 to
+0.08. More preferably, when a = 1, b = 0.15 to 0.45, c = 0.05 to 0.45, d = 0.01 to 0.1 and e =
+0.002 to 0.04. The value off, i.e. the amount of oxygen present, is dependent on the oxidation
+state of the other elements in the catalyst. However, f is typically in the range of from 3 to
+4.7.</p><p num="0025">Preferred promoted mixed metal oxides have the empirical formulae
+Mo<sub>a</sub>V<sub>b</sub>Te<sub>c</sub>Nb<sub>d</sub>Z<sub>e</sub>O<sub>f</sub> and W<sub>a</sub>V<sub>b</sub>Te<sub>c</sub>Nb<sub>d</sub>Z<sub>e</sub>O<sub>f</sub> wherein Z, a, b, c, d, e and fare as previously
+defined.</p><p num="0026">Further, as the promoted mixed metal oxide, one having a certain specific crystal
+structure is preferred. Specifically, preference is given to the one which exhibits the following 
+five main diffraction peaks at specific diffraction angles 2 in the X-ray diffraction pattern of
+the promoted mixed metal oxide (as measured using Cu-Kα radiation as the source):
+<tables><table><tgroup cols="3"><tbody><row><entry nameend="3" namest="1">X-ray lattice plane</entry></row><row><entry align="center">Diffraction angle 2 (±0.3°)</entry><entry align="center">Spacing medium (Å)</entry><entry align="center">Relative intensity</entry></row><row><entry align="center">22.1°</entry><entry align="center">4.02</entry><entry align="center">100</entry></row><row><entry align="center">28.2°</entry><entry align="center">3.16</entry><entry align="center">20∼150</entry></row><row><entry align="center">36.2°</entry><entry align="center">2.48</entry><entry align="center">5∼60</entry></row><row><entry align="center">45.2°</entry><entry align="center">2.00</entry><entry align="center">2∼40</entry></row><row><entry align="center">50.0°</entry><entry align="center">1.82</entry><entry align="center">2∼40</entry></row></tbody></tgroup></table></tables></p><p num="0027">The intensity of the X-ray diffraction peaks may vary upon the measuring of each
+crystal. However, the intensity, relative to the peak intensity at 22.1 ° being 100, is usually
+within the above ranges. Generally, the peak intensities at 2 = 22.1 ° and 28.2° are distinctly
+observed. However, so long as the above five diffraction peaks are observable, the basic
+crystal structure is the same even if other peaks are observed in addition to the five diffraction
+peaks, and such a structure is useful for the present invention.</p><p num="0028">The promoted mixed metal oxide can be prepared in the following manner.</p><p num="0029">In a first step a slurry or solution may be formed by admixing metal compounds,
+preferably at least one of which contains oxygen, and at least one solvent in appropriate
+amounts to form the slurry or solution. Preferably, a solution is formed at this stage of the
+catalyst preparation. Generally, the metal compounds contain elements A, M, N, X, Z and O,
+as previously defined.</p><p num="0030">Suitable solvents include water; alcohols including , but not limited to, methanol,
+ethanol, propanol, and diols, etc.; as well as other polar solvents known in the art. Generally,
+water is preferred. The water is any water suitable for use in chemical syntheses including,
+without limitation, distilled water and de-ionized water. The amount of water present is
+preferably an amount sufficient to keep the elements substantially in solution long enough to
+avoid or minimize compositional and/or phase segregation during the preparation steps.
+Accordingly, the amount of water will vary according to the amounts and solubilities of the 
+materials combined. However, as stated above, the amount of water is preferably sufficient to
+ensure an aqueous solution is formed , and not a slurry, at the time of mixing.</p><p num="0031">For example, when a mixed metal oxide of the formula Mo<sub>a</sub>V<sub>b</sub>Te<sub>c</sub>Nb<sub>d</sub>Pr<sub>e</sub>O<sub>f</sub> wherein
+the element A is Mo, the element M is V, the element N is Te, the element X is Nb and the
+element Z is Pr, is to be prepared, an aqueous solution of niobium oxalate may be added to an
+aqueous solution or slurry of ammonium heptamolybdate, ammonium metavanadate, telluric
+acid and praseodymium nitrate, so that the atomic ratio of the respective metal elements
+would be in the prescribed proportions.</p><p num="0032">Once the aqueous slurry or solution (preferably a solution) is formed, the water is
+removed by any suitable method, known in the art, to form a catalyst precursor. Such
+methods include, without limitation, vacuum drying, freeze drying, spray drying, rotary
+evaporation and air drying. Vacuum drying is generally performed at pressures ranging from
+10mmHg to 500mmHg. Freeze drying typically entails freezing the slurry or solution, using ,
+for instance, liquid nitrogen, and drying the frozen slurry or solution under vacuum. Spray
+drying is generally performed under an inert atmosphere such as nitrogen or argon, with an
+inlet temperature ranging from 125°C to 200°C and an outlet temperature ranging from 75°C
+to 150°C. Rotary evaporation is generally performed at a bath temperature of from 25°C to
+90°C and at a pressure of from 10mmHg to 760mmHg, preferably at a bath temperature of
+from 40° to 90°C and at a pressure of from 10mmHg to 350mmHg, more preferably at a bath
+temperature of from 40°C to 60°C and at a pressure of from 10mmHg to 40mmHg. Air
+drying may be effected at temperatures ranging from 25°C to 90°C. Rotary evaporation or air
+drying are generally preferred.</p><p num="0033">Once obtained, the catalyst precursor is calcined. The calcination may be conducted in
+an oxygen-containing atmosphere or in the substantial absence of oxygen, e.g., in an inert
+atmosphere or in vacuo. The inert atmosphere may be any material which is substantially
+inert, i.e., does not react or interact with, the catalyst precursor. Suitable examples include,
+without limitation, nitrogen, argon, xenon, helium or mixtures thereof. Preferably, the inert
+atmosphere is argon or nitrogen. The inert atmosphere may flow over the surface of the
+catalyst precursor or may not flow thereover (a static environment). When the inert
+atmosphere does flow over the surface of the catalyst precursor, the flow rate can vary over a
+wide range, e.g., at a space velocity of from 1 to 500 hr<sup>-1</sup>. </p><p num="0034">The calcination is usually performed at a temperature of from 350°C to 850°C,
+preferably from 400°C to 700°C, more preferably from 500°C to 640°C. The calcination is
+performed for an amount of time suitable to form the aforementioned catalyst. Typically, the
+calcination is performed for from 0.5 to 30 hours, preferably from 1 to 25 hours, more
+preferably for from 1 to 15 hours, to obtain the desired promoted mixed metal oxide.</p><p num="0035">In a preferred mode of operation, the catalyst precursor is calcined in two stages. In
+the first stage, the catalyst precursor is calcined in an oxidizing environment (e.g. air) at a
+temperature of from 200°C to 400°C, preferably from 275°C to 325°C for from 15 minutes to
+8 hours, preferably for from 1 to 3 hours. In the second stage, the material from the first stage
+is calcined in a non-oxidizing environment (e.g., an inert atmosphere) at a temperature of
+from 500°C to 750°C, preferably for from 550°C to 650°C, for 15 minutes to 8 hours,
+preferably for from 1 to 3 hours. Optionally, a reducing gas, such as, for example, ammonia
+or hydrogen, may be added during the second stage calcination.</p><p num="0036">In a particularly preferred mode of operation, the catalyst precursor in the first stage is
+placed in the desired oxidizing atmosphere at room temperature and then raised to the first
+stage calcination temperature and held there for the desired first stage calcination time. The
+atmosphere is then replaced with the desired non-oxidizing atmosphere for the second stage
+calcination, the temperature is raised to the desired second stage calcination temperature and
+held there for the desired second stage calcination time.</p><p num="0037">Although any type of heating mechanism, e.g., a furnace, may be utilized during the
+calcination, it is preferred to conduct the calcination under a flow of the designated gaseous
+environment. Therefore, it is advantageous to conduct the calcination in a bed with
+continuous flow of the desired gas(es) through the bed of solid catalyst precursor particles.</p><p num="0038">With calcination, a catalyst is formed having the formula A<sub>a</sub>M<sub>b</sub>N<sub>c</sub>X<sub>d</sub>Z<sub>e</sub>O<sub>f</sub> wherein A,
+M, N, X, Z, O, a, b, c, d, e and f are as previously defined.</p><p num="0039">The starting materials for the above promoted mixed metal oxide are not limited to
+those described above. A wide range of materials including, for example, oxides, nitrates,
+halides or oxyhalides, alkoxides, acetylacetonates, and organometallic compounds may be
+used. For example, ammonium heptamolybdate may be utilized for the source of
+molybdenum in the catalyst. However, compounds such as MoO<sub>3</sub>, MoO<sub>2</sub>, MoCl<sub>5</sub>, MoOCl<sub>4</sub>,
+Mo(OC<sub>2</sub>H<sub>5</sub>)<sub>5</sub>, molybdenum acetylacetonate, phosphomolybdic acid and silicomolybdic acid
+may also be utilized instead of ammonium heptamolybdate. Similarly, ammonium 
+metavanadate may be utilized for the source of vanadium in the catalyst. However,
+compounds such as V<sub>2</sub>O<sub>5</sub>, V<sub>2</sub>O<sub>3</sub>, VOCl<sub>3</sub>, VCl<sub>4</sub>, VO(OC<sub>2</sub>H<sub>5</sub>)<sub>3</sub>, vanadium acetylacetonate and
+vanadyl acetylacetonate may also be utilized instead of ammonium metavanadate. The
+tellurium source may include telluric acid, TeCl<sub>4</sub>, Te(OC<sub>2</sub>H<sub>5</sub>)<sub>5</sub>, Te(OCH(CH<sub>3</sub>)<sub>2</sub>)<sub>4</sub> and TeO<sub>2</sub>.
+The niobium source may include ammonium niobium oxalate, Nb<sub>2</sub>O<sub>5</sub>, NbCl<sub>5</sub>, niobic acid or
+Nb(OC<sub>2</sub>H<sub>5</sub>)<sub>5</sub> as well as the more conventional niobium oxalate. The praseodymium source
+may be praseodymium (III) acetate, praseodymium (III) acetylacetonate, praseodymium (III)
+bromide, praseodymium (III) carbonate, praseodymium (III) chloride, praseodymium (III)
+fluoride, praseodymium (III) hexafluoroacetylacetonate, praseodymium (III) iodide,
+praseodymium (III) isopropoxide, praseodymium (III) nitrate, praseodymium (III) oxalate,
+praseodymium (III) oxide, praseodymium (III) perchlorate, praseodymium (III) sulfate,
+praseodymium (III) triflate or praseodymium (III) trifluoromethanesulfonate. The scandium
+source may be scandium acetate, scandium bromide hydrate, scandium chloride, scandium
+chloride hexahydrate, scandiun chloride hydrate, scandium fluoride, scandium iodide,
+scandium isopropoxide, scandium nitrate hydrate, scandium oxalate hydrate or scandium
+oxide. The neodymium source may be a neodymium salt, e.g., neodymium nitrate, dissolved
+in an aqueous inorganic acid, e.g., nitric acid. Similarly, the terbium source may be a solution
+of terbium in an aqueous inorganic acid, e.g., nitric acid. The yttrium source may be an
+yttrium salt, e.g., yttrium nitrate, dissolved in water.</p><p num="0040">A promoted mixed metal oxide, thus obtained, exhibits excellent catalytic activities by
+itself. However, the promoted mixed metal oxide can be converted to a catalyst having higher
+activities by grinding.</p><p num="0041">There is no particular restriction as to the grinding method, and conventional methods
+may be employed. As a dry grinding method, a method of using a gas stream grinder may, for
+example, be mentioned wherein coarse particles are permitted to collide with one another in a
+high speed gas stream for grinding. The grinding may be conducted not only mechanically
+but also by using a mortar or the like in the case of a small scale operation.</p><p num="0042">As a wet grinding method wherein grinding is conducted in a wet state by adding
+water or an organic solvent to the above mixed metal oxide, a conventional method of using a
+rotary cylinder-type medium mill or a medium-stirring type mill, may be mentioned. The
+rotary cylinder-type medium mill is a wet mill of the type wherein a container for the object
+to be ground is rotated, and it includes, for example, a ball mill and a rod mill. The medium-stirring 
+type mill is a wet mill of the type wherein the object to be ground, contained in a
+container is stirred by a stirring apparatus, and it includes, for example, a rotary screw type
+mill, and a rotary disc type mill.</p><p num="0043">The conditions for grinding may suitably be set to meet the nature of the above-mentioned
+promoted mixed metal oxide, the viscosity, the concentration, etc. of the solvent
+used in the case of wet grinding, or the optimum conditions of the grinding apparatus.
+However, it is preferred that grinding is conducted until the average particle size of the
+ground catalyst precursor would usually be at most 20µm, more preferably at most 5µm.
+Improvement in the catalytic performance may occur due to such grinding.</p><p num="0044">Further, in some cases, it is possible to further improve the catalytic activities by
+further adding a solvent to the ground catalyst precursor to form a solution or slurry, followed
+by drying again. There is no particular restriction as to the concentration of the solution or
+slurry, and it is usual to adjust the solution or slurry so that the total amount of the starting
+material compounds for the ground catalyst precursor is from 10 to 60 wt %. Then, this
+solution or slurry is dried by a method such as spray drying, freeze drying, evaporation to
+dryness or vacuum drying, preferably by the spray drying method. Further, similar drying
+may be conducted also in the case where wet grinding is conducted.</p><p num="0045">The oxide obtained by the above-mentioned method may be used as a final catalyst,
+but it may further be subjected to heat treatment usually at a temperature of from 200° to
+700°C for from 0.1 to 10 hours.</p><p num="0046">The promoted mixed metal oxide thus obtained may be used by itself as a solid
+catalyst, but may be formed into a catalyst together with a suitable carrier such as silica,
+alumina, titania, aluminosilicate, diatomaceous earth or zirconia. Further, it may be molded
+into a suitable shape and particle size depending upon the scale or system of the reactor.</p><p num="0047">Alternatively, the metal components of the presently contemplated catalyst may be
+supported on materials such as alumina, silica, silica-alumina, zirconia, titania, etc. by
+conventional incipient wetness techniques. In one typical method, solutions containing the
+metals are contacted with the dry support such that the support is wetted; then, the resultant
+wetted material is dried, for example, at a temperature from room temperature to 200°C
+followed by calcination as described above. In another method, metal solutions are contacted
+with the support, typically in volume ratios of greater than 3 : 1 (metal solution : support), 
+and the solution agitated such that the metal ions are ion-exchanged onto the support. The
+metal-containing support is then dried and calcined as detailed above.</p><p num="0048">In its second aspect, the present invention provides a process for producing an
+unsaturated carboxylic acid, which comprises subjecting an alkane, or a mixture of an alkane
+and an alkene, to a vapor phase catalytic oxidation reaction in the presence of a catalyst
+containing the above promoted mixed metal oxide, to produce an unsaturated carboxylic acid.</p><p num="0049">In the production of such an unsaturated carboxylic acid, it is preferred to employ a
+starting material gas which contains steam. In such a case, as a starting material gas to be
+supplied to the reaction system, a gas mixture comprising a steam-containing alkane, or a
+steam-containing mixture of alkane and alkene, and an oxygen-containing gas, is usually
+used. However, the steam-containing alkane, or the steam-containing mixture of alkane and
+alkene, and the oxygen-containing gas may be alternately supplied to the reaction system.
+The steam to be employed may be present in the form of steam gas in the reaction system,
+and the manner of its introduction is not particularly limited.</p><p num="0050">Further, as a diluting gas, an inert gas such as nitrogen, argon or helium may be
+supplied. The molar ratio (alkane or mixture of alkane and alkene) : (oxygen) : (diluting gas):
+(H<sub>2</sub>O) in the starting material gas is preferably (1) : (0.1 to 10): (0 to 20) : (0.2 to 70), more
+preferably (1) : (1 to 5.0) : (0 to 10) : (5 to 40).</p><p num="0051">When steam is supplied together with the alkane, or the mixture of alkane and alkene,
+as starting material gas, the selectivity for an unsaturated carboxylic acid is distinctly
+improved, and the unsaturated carboxylic acid can be obtained from the alkane, or mixture of
+alkane and alkene, in good yield simply by contacting in one stage. However, the
+conventional technique utilizes a diluting gas such as nitrogen, argon or helium for the
+purpose of diluting the starting material. As such a diluting gas, to adjust the space velocity,
+the oxygen partial pressure and the steam partial pressure, an inert gas such as nitrogen, argon
+or helium may be used together with the steam.</p><p num="0052">As the starting material alkane it is preferred to employ a C<sub>3-8</sub>alkane, particularly
+propane, isobutane or n-butane; more preferably, propane or isobutane; most preferably,
+propane. According to the present invention, from such an alkane, an unsaturated carboxylic
+acid such as an α,β-unsaturated carboxylic acid can be obtained in good yield. For example,
+when propane or isobutane is used as the starting material alkane, acrylic acid or methacrylic
+acid will be obtained, respectively, in good yield. </p><p num="0053">In the present invention, as the starting material mixture of alkane and alkene, it is
+preferred to employ a mixture of C<sub>3-8</sub>alkane and C<sub>3-8</sub>alkene, particularly propane and propene,
+isobutane and isobutene or n-butane and n-butene. As the starting material mixture of alkane
+and alkene, propane and propene or isobutane and isobutene are more preferred. Most
+preferred is a mixture of propane and propene. According to the present invention, from such
+a mixture of an alkane and an alkene, an unsaturated carboxylic acid such as an α,β-unsaturated
+carboxylic acid can be obtained in good yield. For example, when propane and
+propene or isobutane and isobutene are used as the starting material mixture of alkane and
+alkene, acrylic acid or methacrylic acid will be obtained, respectively, in good yield.
+Preferably, in the mixture of alkane and alkene, the alkene is present in an amount of at least
+0.5% by weight, more preferably at least 1.0% by weight to 95% by weight; most preferably,
+3% by weight to 90% by weight.</p><p num="0054">As an alternative, an alkanol, such as isobutanol, which will dehydrate under the
+reaction conditions to form its corresponding alkene, i.e. isobutene, may also be used as a
+feed to the present process or in conjunction with the previously mentioned feed streams.</p><p num="0055">The purity of the starting material alkane is not particularly limited, and an alkane
+containing a lower alkane such as methane or ethane, air or carbon dioxide, as impurities,
+may be used without any particular problem. Further, the starting material alkane may be a
+mixture of various alkanes. Similarly, the purity of the starting material mixture of alkane and
+alkene is not particularly limited, and a mixture of alkane and alkene containing a lower
+alkene such as ethene, a lower alkane such as methane or ethane, air or carbon dioxide, as
+impurities, may be used without any particular problem. Further, the starting material mixture
+of alkane and alkene may be a mixture of various alkanes and alkenes.</p><p num="0056">There is no limitation on the source of the alkene. It may be purchased, per se, or in
+admixture with an alkane and/or other impurities. Alternatively, it can be obtained as a by-product
+of alkane oxidation. Similarly, there is no limitation on the source of the alkane. It
+may be purchased, per se, or in admixture with an alkene and/or other impurities. Moreover,
+the alkane, regardless of source, and the alkene, regardless of source, may be blended as
+desired.</p><p num="0057">The detailed mechanism of the oxidation reaction of the present invention is not
+clearly understood, but the oxidation reaction is carried out by oxygen atoms present in the
+above promoted mixed metal oxide or by molecular oxygen present in the feed gas. To 
+incorporate molecular oxygen into the feed gas, such molecular oxygen may be pure oxygen
+gas. However, it is usually more economical to use an oxygen-containing gas such as air,
+since purity is not particularly required.</p><p num="0058">It is also possible to use only an alkane, or a mixture of alkane and alkene,
+substantially in the absence of molecular oxygen for the vapor phase catalytic reaction. In
+such a case, it is preferred to adopt a method wherein a part of the catalyst is appropriately
+withdrawn from the reaction zone from time to time, then sent to an oxidation regenerator,
+regenerated and then returned to the reaction zone for reuse. As the regeneration method of
+the catalyst, a method may, for example, be mentioned which comprises contacting an
+oxidative gas such as oxygen, air or nitrogen monoxide with the catalyst in the regenerator
+usually at a temperature of from 300° to 600°C.</p><p num="0059">The second aspect of the present invention will be described in further detail with
+respect to a case where propane is used as the starting material alkane and air is used as the
+oxygen source. The reaction system may be a fixed bed system or a fluidized bed system.
+However, since the reaction is an exothermic reaction, a fluidized bed system may preferably
+be employed whereby it is easy to control the reaction temperature. The proportion of air to
+be supplied to the reaction system is important for the selectivity for the resulting acrylic acid,
+and it is usually at most 25 moles, preferably from 0.2 to 18 moles per mole of propane,
+whereby high selectivity for acrylic acid can be obtained. This reaction can be conducted
+usually under atmospheric pressure, but may be conducted under a slightly elevated pressure
+or slightly reduced pressure. With respect to other alkanes such as isobutane, or to mixtures
+of alkanes and alkenes such as propane and propene, the composition of the feed gas may be
+selected in accordance with the conditions for propane.</p><p num="0060">Typical reaction conditions for the oxidation of propane or isobutane to acrylic acid or
+methacrylic acid may be utilized in the practice of the present invention. The process may be
+practiced in a single pass mode (only fresh feed is fed to the reactor) or in a recycle mode (at
+least a portion of the reactor effluent is returned to the reactor). General conditions for the
+process of the present invention are as follows: the reaction temperature can vary from 200°C
+to 700°C, but is usually in the range of from 200°C to 550°C, more preferably 250°C to
+480°C, most preferably 300°C to 400°; the gas space velocity, SV, in the vapor phase reactor
+is usually within a range of from 100 to 10,000 hr<sup>-1</sup>, preferably 300 to 6,000 hr<sup>-1</sup>, more
+preferably 300 to 2,000 hr<sup>-1</sup>; the average contact time with the catalyst can be from 0.01 to 10 
+seconds or more, but is usually in the range of from 0.1 to 10 seconds, preferably from 2 to 6
+seconds; the pressure in the reaction zone usually ranges from 0 to 75 psig, but is preferably
+no more than 50 psig. In a single pass mode process, it is preferred that the oxygen be
+supplied from an oxygen-containing gas such as air. The single pass mode process may also
+be practiced with oxygen addition. In the practice of the recycle mode process, oxygen gas
+by itself is the preferred source so as to avoid the build up of inert gases in the reaction zone.</p><p num="0061">Of course, in the oxidation reaction of the present invention, it is important that the
+hydrocarbon and oxygen concentrations in the feed gases be maintained at the appropriate
+levels to minimize or avoid entering a flammable regime within the reaction zone or
+especially at the outlet of the reactor zone. Generally, it is preferred that the outlet oxygen
+levels be low to both minimize after-burning and, particularly, in the recycle mode of
+operation, to minimize the amount of oxygen in the recycled gaseous effluent stream. In
+addition, operation of the reaction at a low temperature (below 450°C) is extremely attractive
+because after-burning becomes less of a problem which enables the attainment of higher
+selectivity to the desired products. The catalyst of the present invention operates more
+efficiently at the lower temperature range set forth above, significantly reducing the formation
+of acetic acid and carbon oxides, and increasing selectivity to acrylic acid. As a diluting gas
+to adjust the space velocity and the oxygen partial pressure, an inert gas such as nitrogen,
+argon or helium may be employed.</p><p num="0062">When the oxidation reaction of propane, and especially the oxidation reaction of
+propane and propene, is conducted by the method of the present invention, carbon monoxide,
+carbon dioxide, acetic acid, etc. may be produced as by-products, in addition to acrylic acid.
+Further, in the method of the present invention, an unsaturated aldehyde may sometimes be
+formed depending upon the reaction conditions. For example, when propane is present in the
+starting material mixture, acrolein may be formed; and when isobutane is present in the
+starting material mixture, methacrolein may be formed. In such a case, such an unsaturated
+aldehyde can be converted to the desired unsaturated carboxylic acid by subjecting it again to
+the vapor phase catalytic oxidation with the promoted mixed metal oxide-containing catalyst
+of the present invention or by subjecting it to a vapor phase catalytic oxidation reaction with a
+conventional oxidation reaction catalyst for an unsaturated aldehyde.</p><p num="0063">In its third aspect, the method of the present invention comprises subjecting an alkane,
+or a mixture of an alkane and an alkene, to a vapor phase catalytic oxidation reaction with 
+ammonia in the presence of a catalyst containing the above mixed metal oxide, to produce an
+unsaturated nitrile.</p><p num="0064">In the production of such an unsaturated nitrile, as the starting material alkane, it is
+preferred to employ a C<sub>3-8</sub>alkane such as propane, butane, isobutane, pentane, hexane and
+heptane. However, in view of the industrial application of nitriles to be produced, it is
+preferred to employ a lower alkane having 3 or 4 carbon atoms, particularly propane and
+isobutane.</p><p num="0065">Similarly, as the starting material mixture of alkane and alkene, it is preferred to
+employ a mixture of C<sub>3-8</sub>alkane and C<sub>3-8</sub>alkene such as propane and propene, butane and
+butene, isobutane and isobutene, pentane and pentene, hexane and hexene, and heptane and
+heptene. However, in view of the industrial application of nitriles to be produced, it is more
+preferred to employ a mixture of a lower alkane having 3 or 4 carbon atoms and a lower
+alkene having 3 or 4 carbon atoms, particularly propane and propene or isobutane and
+isobutene. Preferably, in the mixture of alkane and alkene, the alkene is present in an amount
+of at least 0.5% by weight, more preferably at least 1.0% by weight to 95% by weight, most
+preferably 3% by weight to 90% by weight.</p><p num="0066">The purity of the starting material alkane is not particularly limited, and an alkane
+containing a lower alkane such as methane or ethane, air or carbon dioxide, as impurities,
+may be used without any particular problem. Further, the starting material alkane may be a
+mixture of various alkanes. Similarly, the purity of the starting material mixture of alkane and
+alkene is not particularly limited, and a mixture of alkane and alkene containing a lower
+alkene such as ethene, a lower alkane such as methane or ethane, air or carbon dioxide, as
+impurities, may be used without any particular problem. Further, the starting material mixture
+of alkane and alkene may be a mixture of various alkanes and alkenes.</p><p num="0067">There is no limitation on the source of the alkene. It may be purchased, per se, or in
+admixture with an alkane and/or other impurities. Alternatively, it can be obtained as a byproduct
+of alkane oxidation. Similarly, there is no limitation on the source of the alkane. It
+may be purchased, per se, or in admixture with an alkene and/or other impurities. Moreover,
+the alkane, regardless of source, and the alkene, regardless of source, may be blended as
+desired.</p><p num="0068">The detailed mechanism of the ammoxidation reaction of this aspect of the present
+invention is not clearly understood. However, the oxidation reaction is conducted by the 
+oxygen atoms present in the above promoted mixed metal oxide or by the molecular oxygen
+in the feed gas. When molecular oxygen is incorporated in the feed gas, the oxygen may be
+pure oxygen gas. However, since high purity is not required, it is usually economical to use
+an oxygen-containing gas such as air.</p><p num="0069">As the feed gas, it is possible to use a gas mixture comprising an alkane, or a mixture
+of an alkane and an alkene, ammonia and an oxygen-containing gas, However, a gas mixture
+comprising an alkane or a mixture of an alkane and an alkene and ammonia, and an oxygen-containing
+gas may be supplied alternately.</p><p num="0070">When the gas phase catalytic reaction is conducted using an alkane, or a mixture of an
+alkane and an alkene, and ammonia substantially free from molecular oxygen, as the feed gas,
+it is advisable to employ a method wherein a part of the catalyst is periodically withdrawn
+and sent to an oxidation regenerator for regeneration, and the regenerated catalyst is returned
+to the reaction zone. As a method for regenerating the catalyst, a method may be mentioned
+wherein an oxidizing gas such as oxygen, air or nitrogen monoxide is permitted to flow
+through the catalyst in the regenerator usually at a temperature of from 300°C to 600°C.</p><p num="0071">The third aspect of the present invention will be described in further detail with
+respect to a case where propane is used as the starting material alkane and air is used as the
+oxygen source. The proportion of air to be supplied for the reaction is important with respect
+to the selectivity for the resulting acrylonitrile. Namely, high selectivity for acrylonitrile is
+obtained when air is supplied within a range of at most 25 moles, particularly 1 to 15 moles,
+per mole of the propane. The proportion of ammonia to be supplied for the reaction is
+preferably within a range of from 0.2 to 5 moles, particularly from 0.5 to 3 moles, per mole of
+propane. This reaction may usually be conducted under atmospheric pressure, but may be
+conducted under a slightly increased pressure or a slightly reduced pressure. With respect to
+other alkanes such as isobutane, or to mixtures of alkanes and alkenes such as propane and
+propene, the composition of the feed gas may be selected in accordance with the conditions
+for propane.</p><p num="0072">The process of the third aspect of the present invention may be conducted at a
+temperature of, for example, from 250°C to 480°C. More preferably, the temperature is from
+300°C to 400°C. The gas space velocity, SV, in the gas phase reaction is usually within the
+range of from 100 to 10,000 hr<sup>-1</sup>, preferably from 300 to 6,000 hr<sup>-1</sup>, more preferably from 300
+to 2,000 hr<sup>-1</sup>. As a diluent gas, for adjusting the space velocity and the oxygen partial 
+pressure, an inert gas such as nitrogen, argon or helium can be employed. When
+ammoxidation of propane is conducted by the method of the present invention, in addition to
+acrylonitrile, carbon monoxide, carbon dioxide, acetonitrile, hydrocyanic acid and acrolein
+may form as by-products.</p><heading><u style="single">Examples</u></heading><heading>Comparative Example 1</heading><p num="0073">In a flask containing 215g of water, 25.68g of ammonium heptamolybdate
+tetrahydrate (Aldrich Chemical Company), 5.06g of ammonium metavanadate(Alfa-Aesar)
+and 7.68g of telluric acid (Aldrich Chemical Company) were dissolved upon heating to 70°C.
+After cooling to 40°C, 122.94g of an aqueous solution of niobium oxalate (H. C. Starck)
+containing 1.25% Nb to which 2.84g of oxalic acid (Aldrich Chemical Company) had been
+added was mixed therewith to obtain a solution. The water of this solution was removed via a
+rotary evaporator at a temperature of 50°C and a pressure of 28mmHg to obtain 46g of a
+precursor solid. This catalyst precursor solid was calcined in a quartz tube. (The quartz tube
+was placed in an oven with a 100 cc/min flow of air through the tube, the oven was then
+heated to 275°C at 2 10°C/min and held there for one hour; then using a 100 cc/min flow of
+argon through the tube, the oven was heated to 600°C at 2°C/min and held there for two
+hours.) The catalyst, thus obtained, was pressed in a mold and then broken and sieved to 10-20
+mesh granules. 10g of these granules were packed into a stainless steel U-tube reactor
+(inside diameter: 1.1cm) for the gas phase oxidation of propane. The U-tube reactor was
+placed in a molten salt bath and fed with a mixture of propane, air and steam having a feed
+ratio of propane/air/steam of 1/15/14 and having a space velocity of 1200 hr<sup>-1</sup>. The effluent of
+the reactor was condensed to separate a liquid phase and a gas phase. The gas phase was
+analyzed by gas chromatography to determine the propane conversion. The liquid phase was
+also analyzed by gas chromatography for the yield of acrylic acid. The results (along with
+residence time and reactor temperature) are shown in Table 1.</p><heading>Example 1</heading><p num="0074">A catalyst of nominal composition Mo<sub>1.0</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.08</sub>Pr<sub>0.04</sub>O<sub>x</sub> was prepared in the
+following manner: 12.93g of ammonium heptamolybdate tetrahydrate (Aldrich Chemical
+Company), 2.55g of ammonium metavanadate (Alfa-Aesar), 3.87g of telluric acid (Aldrich 
+Chemical Company) and 1.26g of praseodymium nitrate (Aldrich Chemical Company) were
+dissolved in water upon heating to 70°C. After cooling to 40°C, 61.92g of an aqueous
+solution of niobium oxalate (H. C. Starck) containing 1.36% Nb to which 1.43g of oxalic acid
+(Aldrich Chemical Company) had been added was mixed therewith to obtain a solution. The
+water of this solution was removed via a rotary evaporator at a temperature of 50°C and a
+pressure of 28mmHg to obtain 23g of a precursor solid. This catalyst precursor solid was
+calcined in a quartz tube. (The quartz tube was placed in an oven with a 100 cc/min flow of
+air through the tube, the furnace was then heated to 275°C at 10°C/min and held there for
+one hour; then using a 100 cc/min flow of argon through the tube, the oven was heated to
+600°C at 2°C/min and held there for two hours.) The catalyst, thus obtained, was pressed in a
+mold and then broken and sieved to 10 - 20 mesh granules. 10g of these granules were packed
+into a stainless steel U-tube reactor (inside diameter: 1.1cm) for the gas phase oxidation of
+propane. The U-tube reactor was placed in a molten salt bath and fed with a mixture of
+propane, air and steam having a feed ratio of propane/air/steam of 1/15/14 and having a space
+velocity of 1200 hr<sup>-1</sup>. The effluent of the reactor was condensed to separate a liquid phase and
+a gas phase. The gas phase was analyzed by gas chromatography to determine the propane
+conversion. The liquid phase was also analyzed by gas chromatography for the yield of
+acrylic acid. The results (along with residence time and reactor temperature) are shown in
+Table 1.</p><heading>Example 2</heading><p num="0075">A catalyst of nominal composition Mo<sub>1.0</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.08</sub>Pr<sub>0.02</sub>O<sub>x</sub> was prepared in the
+following manner: 12.93g of ammonium heptamolybdate tetrahydrate (Aldrich Chemical
+Company), 2.55g of ammonium metavanadate (Alfa-Aesar), 3.87g of telluric acid (Aldrich
+Chemical Company) and 0.63g of praseodymium nitrate (Aldrich Chemical Company) were
+dissolved in water upon heating to 70°C. After cooling to 40°C, 61.92g of an aqueous
+solution of niobium oxalate (H. C. Starck) containing 1.36% Nb to which 1.43g of oxalic acid
+(Aldrich Chemical Company) had been added was mixed therewith to obtain a solution. The
+water of this solution was removed via a rotary evaporator at a temperature of 50°C and a
+pressure of 28mmHg to obtain 23g of a precursor solid. This catalyst precursor solid was
+calcined in a quartz tube. (The quartz tube was placed in an oven with a 100 cc/min flow of
+air through the tube, the furnace was then heated to 275°C at 10°C/min and held there for 
+one hour; then using a 100 cc/min flow of argon through the tube, the oven was heated to
+600°C at 2°C/min and held there for two hours.) The catalyst, thus obtained, was pressed in a
+mold and then broken and sieved to 10 - 20 mesh granules. 10g of these granules were packed
+into a stainless steel U-tube reactor (inside diameter: 1.1cm) for the gas phase oxidation of
+propane. The U-tube reactor was placed in a molten salt bath and fed with a mixture of
+propane, air and steam having a feed ratio of propane/air/steam of 1/15/14 and having a space
+velocity of 1200 hr<sup>-1</sup>. The effluent of the reactor was condensed to separate a liquid phase and
+a gas phase. The gas phase was analyzed by gas chromatography to determine the propane
+conversion. The liquid phase was also analyzed by gas chromatography for the yield of
+acrylic acid. The results (along with residence time and reactor temperature) are shown in
+Table 1.</p><heading>Example 3</heading><p num="0076">A catalyst of nominal composition Mo<sub>1.0</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.08</sub>Pr<sub>0.01</sub>O<sub>x</sub> was prepared in the
+following manner: 12.93g of ammonium heptamolybdate tetrahydrate (Aldrich Chemical
+Company), 2.55g of ammonium metavanadate (Alfa-Aesar), 3.87g of telluric acid (Aldrich
+Chemical Company) and 0.32g of praseodymium nitrate (Aldrich Chemical Company) were
+dissolved in water upon heating to 70°C. After cooling to 40°C, 61.92g of an aqueous
+solution of niobium oxalate (Reference Metals Company) containing 1.36% Nb to which
+1.43g of oxalic acid (Aldrich Chemical Company) had been added was mixed therewith to
+obtain a solution. The water of this solution was removed via a rotary evaporator at a
+temperature of 50°C and a pressure of 28mmHg to obtain 23g of a precursor solid. This
+catalyst precursor solid was calcined in a quartz tube. (The quartz tube was placed in an oven
+with a 100 cc/min flow of argon through the tube, the furnace was then heated to 275°C at
+10°C/min and held there for one hour; then using a 100 cc/min flow of argon through the
+tube, the oven was heated to 600°C at 2°C/min and held there for two hours.) The catalyst,
+thus obtained, was pressed in a mold and then broken and sieved to 10 - 20 mesh granules.
+10g of these granules were packed into a stainless steel U-tube reactor (inside diameter:
+1.1cm) for the gas phase oxidation of propane. The U-tube reactor was placed in a molten salt
+bath and fed with a mixture of propane, air and steam having a feed ratio of propane/air/steam
+of 1/15/14 and having a space velocity of 1200 hr<sup>-1</sup>. The effluent of the reactor was condensed
+to separate a liquid phase and a gas phase. The gas phase was analyzed by gas 
+chromatography to determine the propane conversion. The liquid phase was also analyzed by
+gas chromatography for the yield of acrylic acid. The results (along with residence time and
+reactor temperature) are shown in Table 1.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center">Catalyst</entry><entry align="center">Residence Time (sec)</entry><entry align="center">Temperature (°C)</entry><entry align="center">Propane Conversion (%)</entry><entry align="center">Acrylic Acid Yield (%)</entry></row><row><entry align="center">Comp. Ex. 1</entry><entry align="center">3</entry><entry align="center">380</entry><entry align="center">17</entry><entry align="center">12</entry></row><row><entry align="center">Ex. 1</entry><entry align="center">3</entry><entry align="center">380</entry><entry align="center">53</entry><entry align="center">15</entry></row><row><entry align="center">Ex. 2</entry><entry align="center">3</entry><entry align="center">380</entry><entry align="center">50</entry><entry align="center">17</entry></row><row><entry align="center">Ex.3</entry><entry align="center">3</entry><entry align="center">380</entry><entry align="center">51</entry><entry align="center">19</entry></row></tbody></tgroup></table></tables></p><heading>Comparative Example 2</heading><p num="0077">100 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 1000mL rotavap flask.
+Then 50mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M)
+were added thereto. After removing the water via a rotary evaporator with a warm water bath
+at 50°C and 28 mm/Hg, the solid materials were further dried in a vacuum oven at 25°C
+overnight and then calcined. (Calcination was effected by placing the solid materials in an air
+atmosphere and then heating them to 275°C at 10°C/min and holding them under the air
+atmosphere at 275°C for one hour; the atmosphere was then changed to argon and the
+material was heated from 275°C to 600°C at 2°C/min and the material was held under the
+argon atmosphere at 600°C for two hours.) The final catalyst had a nominal composition of
+Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>f</sub>. The catalyst, thus obtained, was pressed in a mold and then broken
+and sieved to 10 - 20 mesh granules for reactor evaluation.</p><heading>Example 4</heading><p num="0078">100 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 1000mL rotavap flask.
+Then 50mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M) 
+and 10 mL of an aqueous solution of scandium nitrate hydrate (0.1M) were added thereto.
+After removing the water via a rotary evaporator with a warm water bath at 50°C and 28
+mm/Hg, the solid materials were further dried in a vacuum oven at 25°C overnight. 34
+grams of solid catalyst precursor were recovered. 17 grams of this solid precursor were
+calcined by placing the solid materials in an air atmosphere and then heating them to 275°C
+at 10°C/min and holding them under the air atmosphere at 275°C for one hour; the
+atmosphere was then changed to argon and the material was heated from 275°C to 600°C at 2
+°C/min and the material was held under the argon atmosphere at 600°C for two hours. The
+final catalyst had a nominal composition of Sc<sub>0.01</sub>Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>f</sub>. The catalyst, thus
+obtained, was pressed in a mold and then broken and sieved to 10 - 20 mesh granules for
+reactor evaluation.</p><p num="0079">The catalysts of Comparative Example 2 and Example 4 were evaluated in a 10cm
+long Pyrex® tube reactor (internal diameter: 3.9mm). The catalyst bed (4cm long) was
+positioned with glass wool at approximately mid-length in the reactor and was heated with an
+electric furnace. Mass flow controllers and meters regulated the gas flow rate. The oxidation
+was conducted using a feed gas stream of propane, steam and air, with a feed ratio of propane
+: steam : air of 1 : 3 : 96. The reactor effluent was analyzed by an FTIR. The results (along
+with reaction temperature and residence time) are shown in Table 2.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center">Catalyst</entry><entry align="center">Temperature (°C)</entry><entry align="center">Residence Time (sec)</entry><entry align="center">Propane Conversion (%)</entry><entry align="center">Acrylic Acid Yield (%)</entry></row><row><entry align="center">Comp. Ex. 2</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">41</entry><entry align="center">17</entry></row><row><entry align="center">Ex. 4</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">55</entry><entry align="center">25</entry></row></tbody></tgroup></table></tables></p><heading>Comparative Example 3</heading><p num="0080">12 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 50mL pyrex tube. Then
+6mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M) were
+added thereto. After removing the water at 50°C, under 100 to 40 mmHg, the solid materials
+were further dried in a vacuum oven at 25°C overnight and then calcined. (Calcination was 
+effected by placing the solid materials in an air atmosphere and then heating them to 275°C at
+10°C/min and holding them under the air atmosphere at 275°C for one hour; the atmosphere
+was then changed to argon and the material was heated from 275°C to 600°C at 2°C/min and
+the material was held under the argon atmosphere at 600°C for two hours.) The final catalyst
+(2.5g) had a nominal composition of Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>x</sub>. The catalyst, thus obtained, was
+pressed in a mold and then broken and sieved to 10 - 20 mesh granules for reactor evaluation.</p><heading>Example 5</heading><p num="0081">12 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 50mL pyrex tube. Then
+6mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M) and
+0.6mL of Nd(NO<sub>3</sub>)<sub>3</sub>•6H<sub>2</sub>O (0.1M) were added thereto. After removing the water at 50°C,
+under 100 to 40 mmHg, the solid materials were further dried in a vacuum oven at 25°C
+overnight and then calcined. (Calcination was effected by placing the solid materials in an air
+atmosphere and then heating them to 275°C at 10°C/min and holding them under the air
+atmosphere at 275°C for one hour; the atmosphere was then changed to argon and the
+material was heated from 275°C to 600°C at 2°C/min and the material was held under the
+argon atmosphere at 600°C for two hours.) The final catalyst (2.5g) had a nominal
+composition of Nd<sub>0.005</sub>Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>x</sub>. The catalyst, thus obtained, was pressed in a
+mold and then broken and sieved to 10 - 20 mesh granules for reactor evaluation.</p><heading>Example 6</heading><p num="0082">12 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 50mL pyrex tube. Then
+6mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M) and
+1.2mL of Nd(NO<sub>3</sub>)<sub>3</sub>•6H<sub>2</sub>O (0.1M) were added thereto. After removing the water at 50°C,
+under 100 to 40 mmHg, the solid materials were further dried in a vacuum oven at 25°C
+overnight and then calcined. (Calcination was effected by placing the solid materials in an air
+atmosphere and then heating them to 275°C at 10°C/min and holding them under the air
+atmosphere at 275°C for one hour; the atmosphere was then changed to argon and the 
+material was heated from 275°C to 600°C at 2°C/min and the material was held under the
+argon atmosphere at 600°C for two hours.) The final catalyst (2.5g) had a nominal
+composition of Nd<sub>0.01</sub>Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>x</sub>. The catalyst, thus obtained, was pressed in a
+mold and then broken and sieved to 10 - 20 mesh granules for reactor evaluation.</p><heading>Example 7</heading><p num="0083">12 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 50mL pyrex tube. Then
+6mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M) and
+2.4mL of Nd(NO<sub>3</sub>)<sub>3</sub>•6H<sub>2</sub>O (0.1M) were added thereto. After removing the water at 50°C,
+under 100 to 40 mmHg, the solid materials were further dried in a vacuum oven at 25°C
+overnight and then calcined. (Calcination was effected by placing the solid materials in an air
+atmosphere and then heating them to 275°C at 10°C/min and holding them under the air
+atmosphere at 275°C for one hour; the atmosphere was then changed to argon and the
+material was heated from 275°C to 600°C at 2°C/min and the material was held under the
+argon atmosphere at 600°C for two hours.) The final catalyst (2.5g) had a nominal
+composition of Nd<sub>0.02</sub>Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>x</sub>. The catalyst, thus obtained, was pressed in a
+mold and then broken and sieved to 10 - 20 mesh granules for reactor evaluation.</p><heading>Example 8</heading><p num="0084">12 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 50mL pyrex tube. Then
+6mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid 00(0.31M) and
+0.95mL of a solution of terbium in 5%HNO<sub>3</sub> (10,000µg/mL) were added thereto. After
+removing the water at 50°C, under 100 to 40 mmHg, the solid materials were further dried in
+a vacuum oven at 25°C overnight and then calcined. (Calcination was effected by placing the
+solid materials in an air atmosphere and then heating them to 275°C at 10°C/min and holding
+them under the air atmosphere at 275°C for one hour; the atmosphere was then changed to
+argon and the material was heated from 275°C to 600°C at 2°C/min and the material was held
+under the argon atmosphere at 600°C for two hours.) The final catalyst (2.5g) had a nominal 
+composition of Tb<sub>0.005</sub>Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>f</sub>. The catalyst, thus obtained, was pressed in a
+mold and then broken and sieved to 10 - 20 mesh granules for reactor evaluation.</p><heading>Example 9</heading><p num="0085">12 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 50mL pyrex tube. Then
+6mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M) and
+1.9mL of a solution of terbium in 5%HNO<sub>3</sub> (10,000µg/mL) were added thereto. After
+removing the water at 50°C, under 100 to 40 mmHg, the solid materials were further dried in
+a vacuum oven at 25°C overnight and then calcined. (Calcination was effected by placing the
+solid materials in an air atmosphere and then heating them to 275°C at 10°C/min and holding
+them under the air atmosphere at 275°C for one hour; the atmosphere was then changed to
+argon and the material was heated from 275°C to 600°C at 2°C/min and the material was held
+under the argon atmosphere at 600°C for two hours.) The final catalyst (2.5g) had a nominal
+composition of Tb<sub>0.01</sub>Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>f</sub>. The catalyst, thus obtained, was pressed in a
+mold and then broken and sieved to 10 - 20 mesh granules for reactor evaluation.</p><heading>Example 10</heading><p num="0086">12 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 50mL pyrex tube. Then
+6mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M) and
+3.8mL of a solution of terbium in 5%HNO<sub>3</sub> (10,000µg/mL) were added thereto. After
+removing the water at 50°C, under 100 to 40 mmHg, the solid materials were further dried in
+a vacuum oven at 25°C overnight and then calcined. (Calcination was effected by placing the
+solid materials in an air atmosphere and then heating them to 275°C at 10°C/min and holding
+them under the air atmosphere at 275°C for one hour; the atmosphere was then changed to
+argon and the material was heated from 275°C to 600°C at 2°C/min and the material was held
+under the argon atmosphere at 600°C for two hours.) The final catalyst (2.5g) had a nominal
+composition of Tb<sub>0.02</sub>Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>x</sub>. The catalyst, thus obtained, was pressed in a
+mold and then broken and sieved to 10 - 20 mesh granules for reactor evaluation. </p><heading>Example 11</heading><p num="0087">12 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 50mL pyrex tube. Then
+6mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M) and
+0.6mL of an aqueous solution of Y(NO<sub>3</sub>)<sub>3</sub>•6H<sub>2</sub>O (0.1 M) were added thereto. After removing
+the water at 50°C, under 100 to 40 mmHg, the solid materials were further dried in a vacuum
+oven at 25°C overnight and then calcined. (Calcination was effected by placing the solid
+materials in an air atmosphere and then heating them to 275°C at 10°C/min and holding them
+under the air atmosphere at 275°C for one hour; the atmosphere was then changed to argon
+and the material was heated from 275°C to 600°C at 2°C/min and the material was held under
+the argon atmosphere at 600°C for two hours.) The final catalyst (2.5g) had a nominal
+composition of Y<sub>0.005</sub>Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>f</sub>. The catalyst, thus obtained, was pressed in a
+mold and then broken and sieved to 10 - 20 mesh granules for reactor evaluation.</p><heading>Example 12</heading><p num="0088">12 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 50mL pyrex tube. Then
+6mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M) and
+1.2mL of an aqueous solution of Y(NO<sub>3</sub>)<sub>3</sub>•6H<sub>2</sub>O (0.1M) were added thereto. After removing
+the water at 50°C, under 100 to 40 mmHg, the solid materials were further dried in a vacuum
+oven at 25°C overnight and then calcined. (Calcination was effected by placing the solid
+materials in an air atmosphere and then heating them to 275°C at 10°C/min and holding them
+under the air atmosphere at 275°C for one hour; the atmosphere was then changed to argon
+and the material was heated from 275°C to 600°C at 2°C/min and the material was held under
+the argon atmosphere at 600°C for two hours.) The final catalyst (2.5g) had a nominal
+composition of Y<sub>0.01</sub>Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>f</sub>. The catalyst, thus obtained, was pressed in a mold
+and then broken and sieved to 10 - 20 mesh granules for reactor evaluation. </p><heading>Example 13</heading><p num="0089">12 mL of an aqueous solution containing ammonium heptamolybdate tetrahydrate
+(1.0M Mo), ammonium metavanadate (0.3M V) and telluric acid (0.23 Te), formed by
+dissolving the corresponding salts in water at 70°C, was added to a 50mL pyrex tube. Then
+6mL of an aqueous solution of niobium oxalate (0.25M Nb) and oxalic acid (0.31M) and
+2.4mL of an aqueous solution of Y(NO<sub>3</sub>)<sub>3</sub>•6H<sub>2</sub>O (0.1M) were added thereto. After removing
+the water at 50°C, under 100 to 40 mmHg, the solid materials were further dried in a vacuum
+oven at 25°C overnight and then calcined. (Calcination was effected by placing the solid
+materials in an air atmosphere and then heating them to 275°C at 10°C/min and holding them
+under the air atmosphere at 275°C for one hour; the atmosphere was then changed to argon
+and the material was heated from 275°C to 600°C at 2°C/min and the material was held under
+the argon atmosphere at 600°C for two hours.) The final catalyst (2.5g) had a nominal
+composition of Y<sub>0.02</sub>Mo<sub>1</sub>V<sub>0.3</sub>Te<sub>0.23</sub>Nb<sub>0.125</sub>O<sub>x</sub>. The catalyst, thus obtained, was pressed in a mold
+and then broken and sieved to 10 - 20 mesh granules for reactor evaluation.</p><p num="0090">The catalysts of Comparative Example 3 and Examples 5 - 13 were evaluated in a
+10cm long Pyrex® tube reactor (internal diameter: 3.9mm). The catalyst bed (4cm long) was
+positioned with glass wool at approximately mid-length in the reactor and was heated with an
+electric furnace. Mass flow controllers and meters regulated the gas flow rate. The oxidation
+was conducted using a feed gas stream of propane, steam and air, with a feed ratio of propane
+: steam : air of 1 : 3 : 96. The reactor effluent was analyzed by an FTIR. The results (along
+with reaction temperature and residence time) are shown in Table 3. <tables><table><tgroup cols="5"><tbody><row><entry align="center">Catalyst</entry><entry align="center">Temperature (°C)</entry><entry align="center">Residence Time (sec)</entry><entry align="center">Propane Conversion (%)</entry><entry align="center">Acrylic Acid Yield (%)</entry></row><row><entry align="center">Comp. Ex. 3</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">41</entry><entry align="center">17</entry></row><row><entry align="center">Ex. 5</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">53</entry><entry align="center">24</entry></row><row><entry align="center">Ex. 6</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">50</entry><entry align="center">23</entry></row><row><entry align="center">Ex. 7</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">53</entry><entry align="center">27</entry></row><row><entry align="center">Ex. 8</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">38</entry><entry align="center">23</entry></row><row><entry align="center">Ex. 9</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">37</entry><entry align="center">26</entry></row><row><entry align="center">Ex. 10</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">30</entry><entry align="center">14</entry></row><row><entry align="center">Ex. 11</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">48</entry><entry align="center">23</entry></row><row><entry align="center">Ex. 12</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">33</entry><entry align="center">21</entry></row><row><entry align="center">Ex.13</entry><entry align="center">390</entry><entry align="center">3</entry><entry align="center">41</entry><entry align="center">20</entry></row></tbody></tgroup></table></tables></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A catalyst comprising a promoted mixed metal oxide having the empirical
+formula
+AaMbNcXdZeOf
+wherein A is at least one element selected from the group consisting of Mo and W, M is at
+least one element selected from the group consisting of V and Ce, N is at least one element
+selected from the group consisting of Te, Sb and Se, X is at least one element selected from
+the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru, Co, Rh, Ni, Pt, Sb, Bi, B, In, As,
+Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er,
+Tm, Yb and Lu,and Z is selected from the group consisting of Sc, Y, Pr, Nd and Tb; and
+wherein, when a = 1, b = 0.01 to 1.0, c = 0.01 to 1.0, d = 0.01 to 1.0, e = 0.001 to 0.1 and f is
+dependent on the oxidation state of the other elements.</claim-text></claim><claim num="2"><claim-text>The catalyst according to claim 1, wherein M is V, N is Te and/or Sb and X is
+Nb.</claim-text></claim><claim num="3"><claim-text>The catalyst according to claim 2, wherein A is Mo and N is Te.</claim-text></claim><claim num="4"><claim-text>A process for producing an unsaturated carboxylic acid, which comprises
+subjecting an alkane or a mixture of an alkane and an alkene to a vapor phase catalytic
+oxidation reaction in the presence of a catalyst containing a promoted mixed metal oxide
+having the empirical formula
+AaMbNcXdZeOf
+wherein A is at least one element selected from the group consisting of Mo and W, M is at
+least one element selected from the group consisting of V and Ce, N is at least one element
+selected from the group consisting of Te, Sb and Se, X is at least one element selected from
+the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru, Co, Rh, Ni, Pt, Sb, Bi, B, In, As,
+Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er,
+Tm, Yb and Lu, and Z is selected from the group consisting of Sc, Y, Pr, Nd and Tb; and
+wherein, when a = 1, b = 0.01 to 1.0, c = 0.01 to 1.0, d = 0.01 to 1.0, e = 0.001 to 0.1 and f is
+dependent on the oxidation state of the other elements.</claim-text></claim><claim num="5"><claim-text>A process for producing an unsaturated nitrile, which comprises subjecting an
+alkane, or a mixture of an alkane and an alkene, and ammonia to a vapor phase catalytic
+oxidation reaction in the presence of a catalyst containing a promoted mixed metal oxide
+having the empirical formula
+AaMbNcXdZeOf
+wherein A is at least one element selected from the group consisting of Mo and W, M is at
+least one element selected from the group consisting of V and Ce, N is at least one element
+selected from the group consisting of Te, Sb and Se, X is at least one element selected from
+the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru, Co, Rh, Ni, Pt, Sb, Bi, B, In, As,
+Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er,
+Tm, Yb and Lu, and Z is selected from the group consisting of Sc, Y, Pr, Nd and Tb; and
+wherein, when a = 1, b = 0.01 to 1.0, c = 0.01 to 1.0, d = 0.01 to 1.0, e = 0.001 to 1.0 and f is
+dependent on the oxidation state of the other elements.</claim-text></claim><claim num="6"><claim-text>A catalyst produced by the process comprising:
+<claim-text><claim-text>(1) admixing compounds of the elements A, M, N, X and Z and at least one
+solvent to form an admixture, wherein A is at least one element selected
+from the group consisting of Mo and W, M is at least one element selected
+from the group consisting of V and Ce, N is at least one element selected
+from the group consisting of Te, Sb and Se, X is at lest one element
+selected from the group consisting of Nb, Ta, Ti, Al, Zr, Cr, Mn, Fe, Ru,
+Co, Rh, Ni, Pt, Bi, B, In, As, Ge, Sn, Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr,
+Ba, Ra, Hf, Pb, P, Pm, Eu, Gd, Dy, Ho, Er, Tm, Yb and Lu, and Z is
+selected fom the group consisting of Sc, Y, Pr, Nd and Tb and wherein the
+elements A, M, N, X and Z are present in such amounts that the atomic
+ratio of A:M:N:X:Z is
+1 : 0.01 to 1.0 : 0.01 to 1.0 : 0.01 to 1.0 : 0.001 to 0.1;</claim-text><claim-text>(2) removing said at least one solvent from the admixture to obtain a catalyst
+precursor; and</claim-text><claim-text>(3) calcining said catalyst precursor.</claim-text></claim-text></claim-text></claim><claim num="7"><claim-text>The catalyst according to claim 6, wherein at least one of the compounds of
+the elements A, M, N, X and Z is an oxygen-containing compound.</claim-text></claim><claim num="8"><claim-text>The catalyst according to claim 6, wherein the admixture is a solution.</claim-text></claim><claim num="9"><claim-text>A process for producing an unsaturated carboxylic acid, which comprises
+subjecting an alkane or a mixture of an alkane and an alkene to a vapor phase catalytic
+oxidation reaction in the presence of the catalyst according to claim 6.</claim-text></claim><claim num="10"><claim-text>A process for producing an unsaturated nitrile, which comprises subjecting an
+alkane, or a mixture of an alkane and an alkene, and ammonia to a vapor phase catalytic
+oxidation reaction in the presence of the catalyst according to claim 6.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

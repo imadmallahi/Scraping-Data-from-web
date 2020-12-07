@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1350856-A2" country="EP" doc-number="1350856" kind="A2" lang="EN" family-id="28043866" status="new" date-produced="20090516" date="20031008"><bibliographic-data><publication-reference ucid="EP-1350856-A2" status="new" fvid="23867389"><document-id status="new" format="original"><country>EP</country><doc-number>1350856</doc-number><kind>A2</kind><date>20031008</date></document-id></publication-reference><application-reference ucid="EP-03006857-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03006857</doc-number><kind>A</kind><date>20030328</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2002101288-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002101288</doc-number><kind>A</kind><date>20020403</date></document-id></priority-claim><priority-claim ucid="JP-2002101667-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002101667</doc-number><kind>A</kind><date>20020403</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C21B  13/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C21B  13/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C21B  13/10        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C22B   1/14        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C22B   1/245       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C22B   5/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C22B   5/10        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C22B   5/16        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C22B  19/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C22B  19/30        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C21B  13/00E</classification-symbol><classification-symbol scheme="EC">C21B  13/10A</classification-symbol><classification-symbol scheme="EC">C22B   1/245</classification-symbol><classification-symbol scheme="EC">C22B  19/30</classification-symbol><classification-symbol scheme="EC">C22B   5/10</classification-symbol><classification-symbol scheme="EC">C22B   5/16</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Verfahren zur Herstellung von direkt-reduziertem Eisen durch Wiederverwendung von Hochofenschlämmen</invention-title><invention-title load-source="ep" status="new" lang="EN">Method for making reduced iron using blast-furnace sludge</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédé pour obtenir du fer réduit à base des boues de hauts fourneaux</invention-title><citations><patent-citations><patcit ucid="EP-0924304-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0924304</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1357195-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1357195</doc-number><kind>A2</kind></document-id><sources><source category="E" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-2003089823-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2003089823</doc-number><kind>A</kind></document-id><sources><source category="E" name="SEA" created-by-npl="Y"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>BAUER K H ET AL:  "AUFARBEITUNG VON HUETTENRESTSTOFFEN NACH DEM INMETCO-DIREKTREDUKTIONSVERFAHREN" STAHL UND EISEN, VERLAG STAHLEISEN GMBH. DUSSELDORF, DE, vol. 110, no. 7, 13 July 1990 (1990-07-13), pages 89-96,202, XP000161338 ISSN: 0340-4803</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>IBARAKI T ET AL:  "DUST RECYCLING TECHNOLOGY BY THE ROTARY HEARTH FURNACE AT NIPPON STEEL'S KIMITSU WORKS NOUVELLE TECHNOLOGY DE RECYCLAGE DES POUSSIERES PAR FOUR A SOLE TOURNANTE A L'USINE DE KIMITSU, NIPPON STEEL" CAHIERS D'INFORMATIONS TECHNIQUES DE LA REVUE DE METALLURGIE, REVUE DE METALLURGIE. PARIS, FR, vol. 99, no. 10, October 2002 (2002-10), pages 809-818, XP001144959 ISSN: 0035-1563</text><sources><source category="XP" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN vol. 2003, no. 07, 3 July 2003 (2003-07-03) &amp; JP 2003 089823 A (NIPPON STEEL CORP), 28 March 2003 (2003-03-28)</text><sources><source category="E" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>KOBE STEEL LTD</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>KABUSHIKI KAISHA KOBE SEIKO SHO</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>KABUSHIKI KAISHA KOBE SEIKO SHO</last-name><address><street>10-26, Wakinohama-cho 2-chome, Chuo-ku</street><city>Kobe-shi, Hyogo 651-8585</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>FUJI KOJIRO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>HARADA TAKAO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>IWASAKI NOBUYUKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>MAKI TAKESHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MATSUI YOSHIYUKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MORIOKA KOICHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SUGITATSU HIROSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SUGIYAMA TAKESHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>TAMAZAWA HIROSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>TANAKA HIDETOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>TETSUMOTO MASAHIKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>UEDA TADASHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>FUJI, KOJIRO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HARADA, TAKAO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>IWASAKI, NOBUYUKI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MAKI, TAKESHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MATSUI, YOSHIYUKI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MORIOKA, KOICHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SUGITATSU, HIROSHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SUGIYAMA, TAKESHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TAMAZAWA, HIROSHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TANAKA, HIDETOSHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TETSUMOTO, MASAHIKO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>UEDA, TADASHI</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Fuji, Kojiro, Kobe Corporate Research Lab.</last-name><address><street>in Kobe Steel, Ltd., 5-5, Takatsukadai 1-chome</street><city>Nishi-ku, Kobe-shi, Hyogo 651-2271</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Harada, Takao, Kobe Corporate Research Lab.</last-name><address><street>in Kobe Steel, Ltd., 5-5, Takatsukadai 1-chome</street><city>Nishi-ku, Kobe-shi, Hyogo 651-2271</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>IWASAKI, NOBUYUKI</last-name><address><street>Kakogawa Works in Kobe Steel, Ltd., Kanazawa-cho 1</street><city>Kakogawa-shi, Hyogo 675-0137</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MAKI, TAKESHI</last-name><address><street>Kakogawa Works in Kobe Steel, Ltd., Kanazawa-cho 1</street><city>Kakogawa-shi, Hyogo 675-0137</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MATSUI, YOSHIYUKI</last-name><address><street>Kakogawa Works in Kobe Steel, Ltd., Kanazawa-cho 1</street><city>Kakogawa-shi, Hyogo 675-0137</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MORIOKA, KOICHI</last-name><address><street>Kakogawa Works in Kobe Steel, Ltd., Kanazawa-cho 1</street><city>Kakogawa-shi, Hyogo 675-0137</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Sugitatsu, Hiroshi, Kobe Corporate Research Lab.</last-name><address><street>in Kobe Steel, Ltd., 5-5, Takatsukadai 1-chome</street><city>Nishi-ku, Kobe-shi, Hyogo 651-2271</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Sugiyama, Takeshi, Kobe Corporate Research Lab.</last-name> <address><street>in Kobe Steel, Ltd., 5-5, Takatsukadai 1-chome</street><city>Nishi-ku, Kobe-shi, Hyogo 651-2271</city><country>JP</country></address></addressbook> </inventor> <inventor status="new" format="original"><addressbook><last-name>Tamazawa, Hiroshi, Kobe Corporate Research Lab.</last-name> <address><street>in Kobe Steel, Ltd., 5-5, Takatsukadai 1-chome</street><city>Nishi-ku, Kobe-shi, Hyogo 651-2271</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Tanaka, Hidetoshi, Kobe Corporate Research Lab.</last-name><address><street>in Kobe Steel, Ltd., 5-5, Takatsukadai 1-chome</street><city>Nishi-ku, Kobe-shi, Hyogo 651-2271</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Tetsumoto, Masahiko, Kobe Corporate Research Lab.</last-name><address><street>in Kobe Steel, Ltd., 5-5, Takatsukadai 1-chome</street><city>Nishi-ku, Kobe-shi, Hyogo 651-2271</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>UEDA, TADASHI</last-name><address><street>Kakogawa Works in Kobe Steel, Ltd., Kanazawa-cho 1</street><city>Kakogawa-shi, Hyogo 675-0137</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Müller-Boré &amp;amp; Partner Patentanwälte</last-name><address><street>Grafinger Strasse 2</street><city>81671 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>HU</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A method for making reduced iron using blast-furnace
+sludge is provided. The method includes a mixing step of
+mixing the blast-furnace sludge and an iron-oxide-containing
+powder to prepare a mixed material, an agglomerating step of
+agglomerating the mixed material to form agglomerates, a
+feeding step of feeding the agglomerates onto a continuously
+moving hearth, and a reducing step of heating the
+agglomerates to remove zinc and reduce the agglomerates.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to a method for making
+reduced iron using blast-furnace sludge.</p><p num="0002">Blast-furnace dust can be classified into relatively
+coarse dry dust collected by a dry system and sludge
+consisting of fine particles collected by a wet system. Dry
+dust has a relatively low zinc content when compared with
+that of sludge, and can be recycled as the material for
+sintered ore. In contrast, sludge having a high zinc
+content requires zinc-removing processes before being
+recycled as a blast-furnace feed material.</p><p num="0003">Recently, various methods for processing dust have been
+investigated. As a result of the investigation, a rotary
+hearth furnace method including the steps of agglomerating a
+mixture of an iron-oxide-containing substance, such as iron
+ore or dust, and a carbonaceous reductant and heating the
+resulting agglomerates in a rotary hearth furnace so as to
+obtain reduced iron has been put to practical application.
+According to this method, dust containing iron oxides can be
+reduced and can be effectively recycled as an iron source
+while achieving high production efficiency and low equipment 
+cost.</p><p num="0004">In a rotary hearth furnace method, green pellets
+containing water are dried before they are fed to a rotary
+hearth furnace. The drying is necessary to prevent the
+pellets from bursting due to sudden evaporation during
+heating, i.e., to prevent "bursting" inside the furnace.</p><p num="0005">According to a known technique, when pellets made from
+a mixture of iron ore as the iron-oxide material and a
+carbonaceous material such as coal are used, the pellets are
+dried to reduce the water content thereof to 1 percent by
+mass or less. With this technique, bursting of the pellets
+inside the furnace can be prevented and handling strength,
+i.e., shattering strength, crushing strength, or the like,
+that can sufficiently withstand the feeding operation
+described above can be obtained.</p><p num="0006">However, when pellets contain blast-furnace sludge, the
+pellets break into chips and fines when they are fed inside
+the rotary hearth furnace even though they are dried to a
+water content of 1 percent by mass or less. As a result, a
+significant degree of pulverization occurs, and handling of
+the resulting reduced iron product becomes extremely
+difficult. This results in a decrease in metallization
+degree of the resulting reduced iron product, a decrease in
+zinc-removal rate, and a decrease in yield. Furthermore, a
+large amount of iron oxide becomes mixed in the recovered 
+crude zinc oxide, thereby degrading the quality as the zinc
+oxide material.</p><p num="0007">Another known method for making reduced iron includes
+the steps of dehydrating a mixture containing undried blast-furnace
+sludge and so on by squeezing, extruding the
+resulting dehydrated mixture to form compacts, and feeding
+the compacts into a rotary hearth furnace without drying the
+compacts so as to perform drying, heating, and reducing of
+the compacts. According to this method, the degree of
+dehydration and the degree of powder filling are adjusted to
+prevent the compacts from bursting inside the furnace.
+However, since blast-furnace sludge expands during reduction
+as described below, breaking of the compacts cannot be
+effectively prevented by merely avoiding bursting resulting
+from water evaporation. Moreover, since the compacts are
+dried on the rotary hearth before reduction, the compacts
+remain in the furnace for a long time, thereby requiring a
+large hearth and a large-scale reduction plant.</p><p num="0008">The present invention aims to overcome the above-described
+problems. An object of the present invention is
+to provide a method for making reduced iron whereby breaking
+of agglomerates containing blast-furnace sludge into pieces
+and/or fines is avoided inside the furnace, reduced iron 
+products of high metallization degrees can be produced at
+high yield, and high-grade zinc material, i.e., crude zinc
+oxide, can be recovered during the course.</p><p num="0009">An aspect of the present invention provides a method
+for making reduced iron using blast-furnace sludge,
+comprising a mixing step of mixing the blast-furnace sludge
+with an iron-oxide-containing powder and/or a carbonaceous
+powder to prepare a mixed material; an agglomerating step of
+agglomerating the mixed material to form agglomerates; a
+feeding step of feeding the agglomerates onto a continuously
+moving hearth; and a reducing step of heating the
+agglomerates to remove zinc as well as to reduce the
+agglomerates.</p><p num="0010">Preferably, the mixed material has an excess carbon
+ratio Sc that satisfies relationship (1):
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">Sc ≤ 8 - 2NL</st32:df>
+wherein Sc = XC - (12/16)·XO, NL represents an average
+number of layers of the agglomerates on the moving hearth,
+XC represents the mass ratio (percent by mass) of carbon in
+the agglomerates in a dry state, and XO represents a total
+mass ratio (percent by mass) of oxygen in iron oxides and
+oxygen in zinc oxide in the dry agglomerates.</p><p num="0011">Preferably, the mixed material has an excess carbon
+ratio Sc that satisfies the relationship (2):
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">Sc ≤ 8 - 2NL + 0.02YD</st32:df> 
+wherein Sc = XC - (12/16)·XO, NL represents an average
+number of layers of agglomerates on the hearth, YD =
+100XC<sub>B</sub>/XC, XC represents a mass ratio (percent by mass) of
+carbon in dried agglomerates, XO represents a total mass
+ratio (percent by mass) of oxygen in iron oxides and oxygen
+in zinc oxide in the agglomerates in a dry state, and XC<sub>B</sub>
+represents a mass ratio (percent by mass) of carbon in the
+iron-oxide-containing powder and/or the carbonaceous powder
+in the dry agglomerates.</p><p num="0012">Preferably, in the feeding step, the average number NL
+is 1.0 or less.</p><p num="0013">Each of the above-described methods may further include
+a disintegrating step of disintegrating the blast-furnace
+sludge.</p><p num="0014">Preferably, in the disintegrating step, the blast-furnace
+sludge containing pseudoparticles having a diameter
+exceeding 1 mm is disintegrated to reduce the mass ratio of
+the pseudoparticles having a diameter exceeding 1 mm to the
+mixed material to 50% or less.</p><p num="0015">More preferably, the mixed material has a mass ratio XQ
+(percent by mass) of pseudoparticles having a diameter
+exceeding 1 mm and an excess carbon ratio Sc (percent by
+mass) that satisfy relationship (3):
+
+   when
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">0 ≤ Sc ≤ 2, XQ ≤ 50;</st32:df>
+and
+
+   when
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">2 &lt; Sc ≤ 6, XQ ≤ 70 - 10·Sc</st32:df> 
+wherein Sc = XC - (12/16)·XO, XC is a mass ratio (percent by
+mass) of carbon in the agglomerates in a dry state, and XO
+is a total mass ratio (percent by mass) of oxygen in iron
+oxides and oxygen in zinc oxide in the dry agglomerates.</p><p num="0016">Yet more preferably, the mixed material has a mass
+ratio XQ (percent by mass) of pseudoparticles having a
+diameter exceeding 1 mm and a excess carbon ratio Sc (unit:
+percent by mass) that satisfy relationship (4):
+
+   when
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">0 ≤ Sc ≤ 1, XQ ≤ 50;</st32:df>
+and
+when
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">1 &lt; Sc ≤ 6, XQ ≤ 60 - 10·Sc (4)</st32:df>
+wherein Sc = XC - (12/16)·XO, XC is a mass ratio (percent by
+mass) of carbon in the agglomerates in a dry state, and XO
+is a total mass ratio (percent by mass) of oxygen in iron
+oxides and oxygen in zinc oxide in the dry agglomerates.</p><p num="0017">The method may further include an agglomerates-drying
+step of drying the agglomerates to reduce the water content
+thereof to 1.0 percent by mass or less.</p><p num="0018">The method may further include a blast-furnace-sludge-drying
+step of drying the blast-furnace sludge to reduce the
+water content thereof to a predetermined value so that the
+water content of the mixed material becomes 1.0 percent by
+mass or less.</p><p num="0019">Preferably, the method further includes a zinc-recovering
+step of recovering zinc compounds resulting from
+zinc removal to obtain crude zinc oxide. </p><p num="0020">According to the present invention, pellets can be
+prevented from breaking into chips and fines during
+reduction, and reduced iron products having a high zinc
+removal rate and a high metallization degree can be produced
+at a high yield. Moreover, the quality of zinc oxide
+recovered from the exhaust gas of the furnace can be
+dramatically improved.
+<sl><li>Fig. 1 is a schematic diagram showing a plant that
+implements a method for making reduced iron using blast-furnace
+sludge according to a first embodiment of the
+present invention;</li><li>Fig. 2 is a schematic diagram showing a plant that
+implements a method for making reduced iron using blast-furnace
+sludge according to a second embodiment of the
+present invention;</li><li>Fig. 3A is a graph showing the relationship between the
+excess carbon ratio Sc of pellets in an upper layer and the
+crushing strength of the resulting reduced iron, and Fig. 3B
+is a graph showing the relationship between the excess
+carbon ratio Sc of pellets in a lower layer and the crushing
+strength of the resulting reduced iron;</li><li>Fig. 4A is a graph showing combinations of the carbon
+substitution ratio YD and the excess carbon ratio Sc of the 
+pellets in the upper layer, and whether each of these
+combinations produced reduced iron having a crushing
+strength of 15 kg/p or more; and Fig. 4B is a graph showing
+combinations of the carbon substitution ratio YD and the
+excess carbon ratio Sc of the pellets in the lower layer,
+and whether each of these combinations produced reduced iron
+having a crushing strength of 15 kg/p or more; and</li><li>Fig. 5 is a graph showing an optimum range and a
+preferred range of combinations of the excess carbon ratio
+Sc and the mass ratio XQ of the pseudoparticles having a
+diameter exceeding 1 mm that can prevent pellets from
+breaking into chips and fines during heating and reduction.</li></sl></p><p num="0021">In order to identify the cause of breaking of
+agglomerates containing blast-furnace sludge inside the
+furnace, the present inventors have examined the
+microstructure of blast-furnace sludge and the
+microstructure of blast-furnace-sludge-containing pellets
+after reduction. As a result of the examination, the cause
+of breaking was found to be as follows.</p><p num="0022">Blast-furnace sludge consists of fine dust in top gas
+of a blast furnace collected by a wet dust collector and
+thus has a high water content. Blast-furnace sludge is
+dehydrated and dried in a rotary dryer, a fluidized-bed 
+dryer, or the like to enhance transfer convenience. However,
+since excessively dried blast-furnace sludge generates dust
+during transfer, i.e., particularly during transfer by an
+open-air dump truck, the water content thereof is generally
+controlled to approximately 10 to 30 percent by mass.</p><p num="0023">Moreover, blast-furnace sludge contains a large amount
+of, i.e., generally 20 to 40 mass percent of, carbon in
+addition to iron oxides and zinc oxide. Accordingly, when
+the blast-furnace sludge alone is agglomerated and reduced
+by heating, a large amount of carbon remains even after
+reduction of iron oxides and zinc oxide.</p><p num="0024">As described above, the blast-furnace sludge is half
+dried so that some amount of water remains in the blast-furnace
+sludge. Generally, a fine substance cannot be
+uniformly dried. A large number of portions having a high
+water content remain in the half-dried fine substance, and
+these portions form pseudoparticles as they are agitated in
+a dryer. Pseudoparticles consisting of fine particles are
+remarkably hard and are not easily crushed by such an impact
+as that imposed during agitation in a mixer during a mixing
+step.</p><p num="0025">Powder that was contained in reduced iron products was
+observed with a microscope. According to the observation,
+metallic iron produced by reduction was whisker-shaped.
+Pellet samples composed of only blast-furnace sludge were 
+separately prepared and reduced by heating in a small
+furnace. The reduced pellet samples were then observed with
+a microscope. According to the observation, the metallic
+iron whiskers similar to those described above were found.
+This demonstrates that the blast-furnace sludge greatly
+expanded during reduction because the blast-furnace sludge
+consisting of finer particles allowed a rapid reduction and
+permitted metallic iron whiskers to readily grow.</p><p num="0026">Accordingly, when pellets containing a large number of
+pseudoparticles are heated in a rotary hearth furnace, the
+pseudoparticles consisting of only blast-furnace sludge
+significantly expand during reduction while the portions
+having a less amount of blast-furnace sludge do not expand
+as much as the pseudoparticles. As a result, stress
+concentration occurs around the surfaces of the
+pseudoparticles, thereby generating cracks, which develop
+into pellet breaking and pellet pulverization.</p><p num="0027">Moreover, since agglomerates are heated with burners
+inside the rotary hearth furnace, the oxidizing components
+such as CO<sub>2</sub> and H<sub>2</sub>O in combustion gas of the burners partly
+consumes carbon in the agglomerates due to a solution-loss
+reaction, thereby reoxidizing the reduced metallic iron. In
+order to obtain sufficiently high zinc-removal rate and
+metallization degree, carbon is added to the agglomerates at
+an amount exceeding the amount of carbon theoretically 
+required to completely reduce zinc oxide and iron oxides.
+However, when the amount of carbon is too large, carbon
+remains in the agglomerates even after completion of
+metallization, and the carbon particles as well as generated
+metallic iron whiskers inhibit metallic iron from sintering,
+thereby causing breaking of the agglomerates.</p><p num="0028">In view of the above, the present invention prevents
+agglomerates from breaking by reducing the number of
+pseudoparticles, which would cause stress concentration, as
+much as possible prior to agglomeration, and by limiting the
+amount of carbon contained in the agglomerates or by
+limiting the amount of blast-furnace sludge, which generates
+metallic iron whiskers, contained in the agglomerates.</p><p num="0029">The present invention will now be described in terms of
+preferred embodiments.</p><heading>First Embodiment</heading><p num="0030">Fig. 1 is a schematic diagram showing a plant by which
+a method of the present invention for making reduced iron (a
+method for making crude zinc oxide) using blast-furnace
+sludge is implemented.</p><p num="0031">As has been previously described, since blast-furnace
+sludge having a high water content may contain a large
+number of pseudoparticles, the blast-furnace sludge is
+preferably disintegrated in advance. Referring to Fig. 1, 
+blast-furnace sludge A containing pseudoparticles having a
+diameter exceeding 1 mm is disintegrated using a
+disintegrator 1 so that the ratio of the pseudoparticles to
+the mixed material prepared as below becomes 50 percent by
+mass or less (disintegrating step). Examples of the
+disintegrator 1 include a rod mill, a ball mill, and a jaw
+crusher.</p><p num="0032">An iron-oxide-containing powder B1 containing iron
+oxides is added to the disintegrated blast-furnace sludge A.
+Examples of the iron-oxide-containing powder B1 include iron
+ore powder, and steel mill wastes such as basic-oxygen-furnace
+dust, electric-furnace dust, mill scale, and mill
+sludge. Water may be added if necessary. A binder such as
+starch or bentonite may also be added. The amount of the
+additive iron-oxide-containing powder B1 is adjusted to
+satisfy the relationship (1):
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">Sc ≤ 8 - 2NL</st32:df>
+wherein Sc = XC - (12/16)·XO, NL represents an average
+number of layers of agglomerates, e.g., pellets, placed on
+the hearth, XC represents the mass ratio (mass percent) of
+carbon in the agglomerates in a dry state, and XO represents
+the total mass ratio (mass percent) of oxygen in iron oxides
+and oxygen in zinc oxide in the dry agglomerates.</p><p num="0033">In relationship (1), Sc represents an excess carbon
+ratio. The excess carbon ratio indicates the amount of 
+carbon that exceeds the amount of carbon theoretically
+required to completely reduce zinc oxide and iron oxides to
+metallic zinc and metallic iron, respectively. The average
+number NL of layers refers to the thickness of the layer of
+agglomerates (pellets) divided by the average diameter of
+the agglomerates (pellets). The thickness of the layer is
+determined based on the assumption that the agglomerates are
+tightly and closely bedded on the hearth with no space
+therebetween. When the agglomerates are not spherical, e.g.,
+when the agglomerates are briquettes and not pellets, this
+closely bedded state is when the agglomerates are placed on
+the hearth at their most stable position, i.e., placed in
+such a manner that the thickness direction of the
+agglomerates coincides with the thickness direction of the
+layer. Here, NL = 1 when the agglomerates placed in this
+manner are closely bedded in a single layer. Accordingly,
+relationship (1) shows that the upper limit of the excess
+carbon ratio SC changes according to the average number NL
+of the agglomerate (pellet) layers.</p><p num="0034">It should be noted here that an excessively small
+excess carbon ratio Sc results in insufficient zinc-removal
+and insufficient metallization of the pellets. Since
+metallization of iron is more difficult than zinc removal,
+the excess carbon ratio Sc should be at least -1, preferably
+at least 0, and most preferably at least 1 when high 
+metallization degree is required. The materials prepared as
+above are mixed in a mixer 2 to obtain a mixed material
+(mixing step). An example of the mixer 2 is a drum mixer.</p><p num="0035">The mixed material is agglomerated into green pellets
+with an agglomerator such as a pan pelletizer or a drum
+pelletizer (agglomerating step).</p><p num="0036">The green pellets are dried to reduce the water content
+to 1 percent by mass or less by a dryer 4 such as a grate
+dryer so as to prepare dry pellets (agglomerates-drying
+step). Since pseudoparticles of blast furnace sludge are
+disintegrated to a certain extent before they are
+agglomerated, the time taken for drying the pellets is
+shortened.</p><p num="0037">The dry pellets are placed on a horizontally rotating
+hearth (not shown) of a rotary hearth furnace 6 using a
+feeder 5 (feeding step). The average number of the dry
+pellet layers is controlled to a predetermined value. Since
+the layers of pellets on the hearth are heated by radiation
+from the burners above, the temperatures of the layers are
+gradually increased from the top to the bottom. Accordingly,
+when the average number of pellet layers is large, the
+pellets at the bottom layer are not sufficiently heated,
+resulting in incomplete zinc-removal and incomplete
+metallization. In other words, the higher the production of
+the reduced iron, the lower the quality of the reduced iron 
+products, and vice versa. From this point of view, the
+average number of the pellet layers is preferably 2 or less.
+As is apparent from relationship (1), the smaller the
+average number of the pellet layers, the higher the upper
+limit of the excess carbon ratio. Here, the term "upper
+limit of the excess carbon ratio" refers to the maximum
+excess carbon ratio that can prevent pellets from breaking.
+In other words, when the average number of the pellet layers
+is small, the pellets can contain a large amount of blast
+furnace sludge having a high carbon content without
+suffering from breaking, thereby increasing the processing
+amount of blast-furnace sludge. Thus, the average number of
+the pellet layers is preferably 1 or less.</p><p num="0038">The upper limit of the excess carbon ratio rises as the
+average number of the pellet layers decreases. This is
+because the pellet layers can be rapidly heated to the
+bottom and the reduction of the pellet layers as a whole can
+be rapidly completed to obtain enough time for metallic iron
+to sinter. Accordingly, the resulting pellets, i.e., the
+reduced iron, as a whole can exhibit increased strength.
+However, when the average number of pellets is excessively
+small, the area of the hearth not effectively used for
+pellet reduction increases, resulting in a decrease in
+production efficiency of the rotary hearth furnace. Thus,
+the average number of pellet layers is preferably 0.5 or 
+more.</p><p num="0039">As the pellets travel through the rotary hearth furnace
+6 by the rotation of the hearth, they are heated with
+burners 7 installed above the hearth to completely remove
+water remaining in the pellets. When the pellets are heated
+to a temperature of 1,200°C or more, reduction begins
+(reducing step). During the reduction, blast furnace sludge
+may expand, but since the excess carbon ratio is controlled
+to satisfy relationship (1), pellets are prevented from
+breaking.</p><p num="0040">The reduction proceeds while zinc oxide and iron oxides
+are in close contact with carbon inside the pellets. As a
+result, reduced iron products having high zinc-removal ratio
+and high metallization degree can be produced at high yield.</p><p num="0041">Zinc oxide in the furnace exhaust gas is recovered by a
+dust collector 8 after the gas is cooled (zinc-recovering
+step). An example of the dust collector is a bag filter.
+Since pellets are prevented from breaking inside the furnace,
+recovered zinc oxide has a low concentration of contaminants
+such as iron. Thus, high-quality crude zinc oxide, which is
+a valuable feed material for producing metallic zinc, can be
+recovered.</p><heading>Second Embodiment</heading><p num="0042">A second embodiment of the present invention will now 
+be described with reference to Fig. 2. In the mixing step
+of the first embodiment described above, a carbonaceous
+powder B2 containing carbon may be added instead of or in
+addition to the iron-oxide-containing powder B1. Here, the
+mixture of the iron-oxide-containing powder B1 and the
+carbonaceous powder B2, and the carbonaceous powder B2 alone
+are collectively referred to as a powder material B
+containing either carbon or carbon and iron oxide. Examples
+of the carbonaceous powder B2 include coal powder, coke
+powder, petroleum coke powder, coke dry quencher (CDQ)
+powder, charcoal powder, carbide powder of wastes, and
+blast-furnace dry dust. The amount of the powder material B
+added is adjusted to satisfy relationship (2):
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">Sc ≤ 8 - 2NL + 0.02YD</st32:df>
+wherein Sc = XC - (12/16)·XO, NL represents the average
+number of the agglomerate (pellet) layers on the hearth, YD
+= 100XC<sub>B</sub>/XC, XC is a carbon content (percent by mass) in the
+dried agglomerates, XO is a total content (percent by mass)
+of oxygen in iron oxides and oxygen in zinc oxide, and XC<sub>B</sub> is
+a carbon content (percent by mass) in the powder material B
+in the dried agglomerates.</p><p num="0043">In relationship (2), YD represents the carbon
+substitution ratio. The carbon substitution ratio indicates
+the extent of which carbon in the blast-furnace sludge is
+substituted by carbon in the powder material B. In 
+particular, the carbon substitution ratio YD = amount of
+carbon in the powder material B in the dried
+agglomerates/total amount of carbon in the dried
+agglomerates × 100. Here, only fixed carbon is considered
+as a substitutable carbon in the carbonaceous powder B2.
+
+For example, when a mixed material contains 21% of blast-furnace
+sludge having a carbon content of 36.6%, 14% of coal
+having a fixed carbon content of 71%, and 65% of basic-oxygen-furnace
+dust having a carbon content of 1%, the
+carbon substitution ratio YD is calculated as follows:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">YD = (14 × 71 + 65 × 1)/(21 x 36.6 + 14 × 71 + 65 × 1) × 100
+= 57.9%</st32:df>
+Accordingly, relationship (2) shows that the upper limit of
+the excess carbon ratio Sc changes depending not only on the
+average number NL of the pellet layers but also on the
+carbon substitution ratio YD.</p><p num="0044">The agglomerating step, the feeding step, and the
+reducing step are then performed as in the first embodiment.
+Relationship (2) shows that, during the reduction, the upper
+limit of the excess carbon ratio, which is the maximum ratio
+that can prevent pellets from breaking during the reduction,
+can be increased by increasing the carbon substitution ratio
+YD. In other words, pellets are prevented from breaking
+without excessively reducing the average number of pellet
+layers and without decreasing the excess carbon ratio.
+ 
+Accordingly, both high productive efficiency and high pellet
+quality can be achieved.</p><p num="0045">The upper limit of the excess carbon ratio Sc, which is
+the maximum ratio that can prevent pellets from breaking,
+increases as the carbon substitution ratio YD increases.
+This is because the powder material that replaced the blast-furnace
+sludge is coarser than blast-furnace sludge. As a
+result, the reduction reaction becomes slow and metallic
+iron whiskers are rarely produced. Moreover, whereas carbon
+in the blast-furnace sludge is completely homogeneously
+mixed with iron oxides and the like and thus undergoes a
+rapid reduction reaction, carbon in the powder material is
+not completely homogeneously mixed with iron oxides and the
+like even after the mixing step. Thus, the reduction
+reaction becomes slow, and metallic iron whiskers are rarely
+produced.</p><heading>Third Embodiment</heading><p num="0046">Referring to Fig. 1, blast-furnace sludge A containing
+pseudoparticles having a diameter exceeding 1 mm is
+disintegrated using a disintegrator 1 until the ratio of the
+pseudoparticles having a diameter exceeding 1 mm to the
+mixed material is 50 percent by mass or less (disintegrating
+step). Examples of the disintegrator include crushers and
+grinders such as a roll mill, a rod mill, a ball mill, and a 
+jaw crusher. A powder material B containing iron oxides is
+blended into the disintegrated blast-furnace sludge A.
+Examples of the powder material B include steel mill wastes
+such as iron ore powder, basic-oxygen-furnace dust,
+electric-furnace dust, mill scale, and mill sludge. Water
+may also be added if necessary. Furthermore, a carbonaceous
+substance such as coal, coke, petroleum coke, or the like,
+or a binder such as starch, bentonite, or the like may be
+added. The resulting mixture is mixed in a mixer 2 so as to
+prepare a mixed material (mixing step). Examples of the
+mixer 2 include a drum mixer and a paddle mixer. The mixed
+material is then agglomerated into green pellets using a
+known agglomerator 3 (agglomerating step). Examples of the
+agglomerator 3 include a pan pelletizer and a drum
+pelletizer. The green pellets are dried using a dryer 4
+until the water content thereof is 1 percent by mass or less
+so as to prepare dry pellets (drying step). An example of
+the dryer 4 is a grate dryer. Since pseudoparticles
+contained in the blast-furnace sludge are disintegrated in
+advance to some extent before agglomeration, the time taken
+for drying is short. The dry pellets are placed on a
+horizontally rotating hearth (not shown) of a rotary hearth
+furnace 6 in one to two layers. The pellets are heated by
+radiation from burners 7 installed above the hearth as the
+pellets travel through the rotary hearth furnace 6 (reducing 
+step). This heating is required to completely remove water
+remaining in the pellets and to increase the temperature of
+the pellets to approximately at least 1,200°C so as to start
+reduction. Since the ratio of the pseudoparticles having a
+diameter exceeding 1 mm in the pellets is controlled in a
+predetermined range, the pellets are prevented from breaking
+even when blast-furnace sludge containing pseudoparticles
+expands during the reduction. Accordingly, the reduction
+reaction proceeds while carbon, zinc oxide, and iron oxides
+in the pellets are in close contact with each other. As a
+result, reduced iron products having high zinc-removal rate
+and metallization degree can be obtained at high yield.</p><p num="0047">Zinc oxide in the furnace exhaust gas is recovered by a
+dust collector 8 after the gas is cooled (zinc-recovering
+step). An example of the dust collector is a bag filter.
+Since pellets are prevented from generating fines due to
+pellet disruption during the reduction inside the furnace,
+recovered zinc oxide has a low concentration of contaminants
+such as iron. Thus, high quality crude zinc oxide, which is
+a valuable feed material for producing metallic zinc, can be
+recovered.</p><p num="0048">The pseudoparticles in the mixed material are
+preferably disintegrated in a manner that satisfies
+relationship (3) that shows the relationship between the
+mass ratio XQ (unit: percent by mass) of the pseudoparticles 
+having a diameter exceeding 1 mm and the excess carbon ratio
+Sc (unit: percent by mass):
+
+   when
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">0 ≤ Sc ≤ 2, XQ ≤ 50;</st32:df>
+and
+
+   when
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">2 &lt; Sc ≤ 6, XQ ≤ 70 - 10·Sc</st32:df>
+wherein Sc = XC - (12/16)·XO, XC is a mass ratio (percent by
+mass) of carbon in the dried agglomerates, and XO is a total
+mass ratio (percent by mass) of oxygen in iron oxides and
+oxygen in zinc oxide in the dried agglomerates.</p><p num="0049">As shown above, the higher the excess carbon ratio Sc,
+the larger the amount of carbon that exceeds the amount
+theoretically required to completely reduce zinc oxide and
+iron oxides. Since pellets are heated in the rotary hearth
+furnace 6 using burners, oxidizing components, such as CO<sub>2</sub>
+and H<sub>2</sub>O, in the combustion gas of the burners partly consume
+carbon of the pellets by a solution-loss reaction, thereby
+reoxidizing the reduced metallic iron. Thus, an adequate
+amount of excess carbon is required to achieve sufficiently
+high metallization degree. High zinc-removal rate and high
+metallization degree can be achieved by increasing the
+amount of excess carbon, i.e., the excess carbon ratio Sc.
+However, carbon inhibits sintering of metallic iron and thus
+causes pellets to break into pieces when the amount of the
+carbon in the pellets is increased. To prevent breaking
+into pieces, the mass ratio XQ of the pseudoparticles having
+a diameter exceeding 1 mm is decreased as the excess carbon 
+ratio Sc is increased.</p><p num="0050">Note that when 0 ≤ Sc ≤ 2, decreasing the mass ratio XQ
+of the pseudoparticles having a diameter exceeding 1 mm is
+not necessary even when the excess carbon ratio Sc is
+increased. This is because, at an excess carbon ratio Sc
+within this range, carbon rarely remains in the metallic
+iron because of the solution-loss reaction described above
+and thus does not inhibit sintering of the metallic iron.
+When Sc &gt; 6, the amount of carbon remaining in the reduced
+iron becomes excessively large, and sintering of metallic
+iron is significantly inhibited. Within this range,
+breaking of the pellets cannot sufficiently be prevented
+even when the pseudoparticles having a diameter exceeding 1
+mm are completely disintegrated.</p><p num="0051">More preferably, the mass ratio XQ of the
+pseudoparticles having a diameter exceeding 1 mm is further
+limited to satisfy relationship (4) below so as to reliably
+prevent the reduced pellets from breaking:
+
+   when
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">0 ≤ Sc ≤ 1, XQ ≤ 50;</st32:df>
+and
+
+   when
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">1 &lt; Sc ≤ 6, XQ ≤ 60 - 10·Sc</st32:df></p><p num="0052">Although the above-described first to third embodiments
+use pellets as agglomerates, agglomerates are not limited to
+pellets. Agglomerates may be briquettes, tabular compacts,
+columnar compacts, or the like. Moreover, the means for
+agglomeration is not limited to the pelletizer. The means 
+for agglomeration may be a briquetter, a compactor, or an
+extruder. In making briquettes, the blast-furnace sludge
+may be dried in advance to a predetermined water content so
+as to prepare a mixed material having a water content of 1
+percent by mass or less, and the mixed material may be
+directly press-formed into briquettes without drying. This
+is possible because making of briquettes does not require
+the mixed material to have a high water content. In this
+manner, the drying step between the agglomeration step and
+the feeding step can be omitted.</p><heading>Example 1</heading><p num="0053">An experiment was conducted using blast-furnace sludge
+and basic-oxygen-furnace dust having the compositions shown
+in Table 1. The water content of the blast-furnace sludge
+was 14 percent by mass. Mixtures were prepared by blending
+the blast-furnace sludge and the basic-oxygen-furnace dust
+at different ratios. Each mixture was mixed in a ribbon
+mixer for 2 minutes while adding water to prepare a mixed
+material. The mixed material was agglomerated into green
+pellets having a diameter of approximately 14 mm using a pan
+pelletizer having a diameter of 1 m. The water content of
+the green pellets was 13 to 14 percent by mass. The green
+pellets were dried with a small dryer to reduce the water
+content to 1 percent by mass or less so as to prepare dry 
+pellets. The dry pellets were placed in two layers in a
+small furnace maintained at 1,230°C for 20 to 25 minutes to
+obtain reduced iron. The crushing strength of the reduced
+iron in the upper layer and that in the lower layer were
+measured. During the reduction, a gas having CO<sub>2</sub>/N<sub>2</sub> = 20
+percent by volume/80 percent by volume was charged into the
+small furnace so as to simulate the actual atmosphere of a
+furnace equipped with burners.</p><p num="0054">The experimental results are shown in Figs. 3A and 3B.
+Fig. 3A is a graph showing the relationship between the
+excess carbon ratio Sc of the pellets in the upper layer and
+the crushing strength of the reduced iron. Fig. 3B is a
+graph showing the relationship between the excess carbon
+ratio Sc of the pellets in the lower layer and the crushing
+strength of the reduced iron. As shown in Figs. 3A and 3B,
+the crushing strength of the reduced iron substantially
+linearly decreased as the excess carbon ratio Sc was
+increased.</p><p num="0055">An investigation had been made as to the relationship
+between the breaking of the reduced iron and the crushing
+strength in actual operations. It was found that the
+crushing strength of the reduced iron must be at least 15
+kg/p in order to prevent breaking of the pellets during the
+reduction step. Accordingly, from the results shown in Figs.
+3A and 3B, it can be concluded that in order to prevent 
+pellets from breaking during the reduction when the average
+number NL of pellet layers is 2, the excess carbon ratio Sc
+must be 4 percent by mass or less to allow the pellets at
+the lower layer to achieve the crushing strength of 15 kg/p.
+When the average number NL of the pellet layers is 1, only
+the results regarding the pellets in the upper layer, i.e.,
+the results shown in Fig. 3A, need to be considered. In
+particular, the excess carbon ratio should be 6 percent by
+mass or less in order to prevent pellets from breaking
+during the reduction. The experimental results above derive
+relationship (1) described above. In the experiment, a high
+zinc removal rate of 95% or more and a high metallization of
+80% or more were achieved when the range of the excess
+carbon ratio was Sc ≥ - 0.3. <tables><table><tgroup cols="8"><tbody><row><entry nameend="8" align="left" namest="1">            (mass % on a dry basis)</entry></row><row><entry align="center"/><entry align="center">T. Fe</entry><entry align="center">FeO</entry><entry align="center">M. Fe</entry><entry align="center">Zn</entry><entry align="center">C</entry><entry align="center">CaO</entry><entry align="center">SiO<sub>2</sub></entry></row><row><entry align="left">Blast-furnace sludge</entry><entry align="center">29.2</entry><entry align="center">4.7</entry><entry align="center">0.7</entry><entry align="center">1.0</entry><entry align="center">36.6</entry><entry align="center">4.0</entry><entry align="center">4.5</entry></row><row><entry align="left">Basic-oxygen-furnace dust</entry><entry align="center">57.9</entry><entry align="center">2.9</entry><entry align="center">0.0</entry><entry align="center">2.9</entry><entry align="center">1.0</entry><entry align="center">5.5</entry><entry align="center">0.8</entry></row></tbody></tgroup></table></tables></p><heading>Example 2</heading><p num="0056">In addition to the blast-furnace sludge and the basic-oxygen-furnace
+dust used in Example 1, a carbonaceous
+substance for replacing carbon of the blast-furnace sludge
+was used. The carbonaceous substance was either coke dry
+quencher (CDQ) dust or pulverized coal. Mixtures were
+prepared by blending the blast-furnace sludge, the basic-oxygen-furnace
+dust, and the CDQ dust or the pulverized coal
+at different ratios. Reduction was conducted under the same
+conditions as in Example 1.</p><p num="0057">The experimental results are shown in Figs. 4A and 4B.
+Fig. 4A is a graph showing combinations of the carbon
+substitution ratio YD and the excess carbon ratio Sc of the
+pellets in the upper layer, and whether each of these
+combinations produced reduced iron having a crushing
+strength of 15 kg/p or more. Fig. 4B is a graph showing
+combinations of the carbon substitution ratio YD and the 
+excess carbon ratio Sc of the pellets in the lower layer,
+and whether each of these combinations produced reduced iron
+having a crushing strength of 15 kg/p or more.</p><p num="0058">Figs. 4A and 4B demonstrate that the upper limit of the
+excess carbon ratio Sc that can achieve crushing strength of
+15 kg/p or more substantially linearly increased as the
+carbon substitution ratio YD increased. These experimental
+results derived relationship (2) described above. In Fig.
+4A, the pellets reduced under the conditions indicated by
+reference character A (YD = 5%, Sc = 5.6 percent by mass)
+had a metallization degree of 85%. In contrast, the pellets
+reduced under the conditions indicated by reference
+character B (YD = 100%, Sc = 7.5 percent by mass) had a
+metallization degree of 90%. This demonstrates that an
+increase in carbon substitution ratio YD results in an
+increase in the upper limit of the excess carbon ratio Sc
+and in improving the quality of the reduced iron product. <tables><table><tgroup cols="4"><tbody><row><entry nameend="4" align="left" namest="1">            (mass %)</entry></row><row><entry align="center"/><entry align="center">Ash</entry><entry align="center">Volatile component</entry><entry align="center">Fixed carbon</entry></row><row><entry align="left">CDQ dust</entry><entry align="center">14.6</entry><entry align="center">0.0</entry><entry align="center">85.4</entry></row><row><entry align="left">Pulverized coal</entry><entry align="center">8.8</entry><entry align="center">19.6</entry><entry align="center">71.6</entry></row></tbody></tgroup></table></tables></p><heading>Example 3</heading><p num="0059">An experiment was conducted using the blast-furnace
+sludge and the basic-oxygen-furnace dust having the
+compositions shown in Table 1 of Example 1. The blast-furnace
+sludge was classified into particles having a
+diameter of less than 1 mm and particles having a diameter
+of 1 to 2 mm using a screen. Mixtures were prepared by
+blending the blast-furnace sludge having a particle diameter
+of 1 to 2 mm, the blast-furnace sludge having a particle
+diameter of less than 1 mm, and the basic-oxygen-furnace
+dust at different ratios. Each of the mixtures was mixed by
+a ribbon mixer for two minutes while adding water to prepare
+a mixed material. The mixed material was agglomerated into
+green pellets having a diameter of approximately 14 mm using
+a pan pelletizer having a diameter of 1 m. The water
+content of the green pellets was 13 to 14 percent by mass. 
+The green pellets were dried in a small dryer to reduce the
+water content to 1 percent by mass or less so as to obtain
+dry pellets. The dry pellets were placed in a small oven
+maintained at 1,230°C for 20 to 25 minutes so as to obtain
+reduced iron. The extent of breaking of the pellets
+resulting from the reduction was then examined. During the
+reduction, a gas having CO<sub>2</sub>/N<sub>2</sub> = 20 percent by volume/80
+percent by volume was charged in the small furnace so as to
+simulate the actual atmosphere of a furnace equipped with
+burners.</p><p num="0060">The extent of breaking of the pellets resulting from
+the reduction was determined by the ratio of the number of
+the reduced pellets that maintained the original spherical
+shape under observation with naked eyes to the total number
+of the dry pellets originally fed into the small furnace.
+This ratio is hereinafter referred to as the "shape-maintaining
+ratio". In the experiment, 15 pellets were
+placed in the small furnace each time. The conditions that
+produced 13 or more pellets maintaining the original shape,
+i.e., that achieved the shape-maintaining ratio of 86.7% or
+more, were assumed as the preferable conditions that can
+effectively prevent breaking of the pellets. The conditions
+that allowed all 15 pellets to maintain the original shape,
+i.e., that achieved the shape-maintaining ratio of 100%,
+were assumed as the optimum conditions. </p><p num="0061">The experimental results are shown in Fig. 5. Fig. 5
+shows regions indicating the optimum conditions, the
+preferable conditions, and inadequate conditions among the
+combinations of the excess carbon ratio Sc and the mass
+ratio XQ of the pseudoparticles having a diameter exceeding
+1 mm. In Fig. 5, a region P indicates the region of the
+preferable conditions, a region Q indicates the region of
+the optimum conditions, and the region outside the regions P
+and Q indicates the region of the inadequate conditions that
+produce significant degree of pellet breaking. The reduced
+iron manufactured under the conditions in the regions P and
+Q showed higher zinc-removal rate and metallization degree
+than those of the reduced iron manufactured under the
+conditions in the region outside the regions P and Q.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A method for making reduced iron using blast-furnace
+sludge, comprising:
+<claim-text><claim-text>a mixing step of mixing the blast-furnace sludge with
+an iron-oxide-containing powder and/or a carbonaceous powder
+to prepare a mixed material;</claim-text><claim-text>an agglomerating step of agglomerating the mixed
+material to form agglomerates;</claim-text><claim-text>a feeding step of feeding the agglomerates onto a
+continuously moving hearth; and</claim-text><claim-text>a reducing step of heating the agglomerates to remove
+zinc as well as to reduce the agglomerates.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The method in accordance with claim 1, wherein the
+mixed material has an excess carbon ratio Sc that satisfies
+the relationship:
+Sc ≤ 8 - 2NL
+wherein Sc = XC - (12/16)·XO, NL represents an average
+number of layers of the agglomerates on the moving hearth,
+XC represents the mass ratio (percent by mass) of carbon in
+the agglomerates in a dry state, and XO represents a total
+mass ratio (percent by mass) of oxygen in iron oxide and
+oxygen in zinc oxide in the dry agglomerates.</claim-text></claim><claim num="3"><claim-text>The method in accordance with claim 1, wherein the
+mixed material has an excess carbon ratio Sc that satisfies
+the relationship:
+Sc ≤ 8 - 2NL + 0.02YD
+wherein Sc = XC - (12/16)·XO, NL represents an average
+number of layers of agglomerates on the hearth, YD =
+100XCB/XC, XC represents a mass ratio (percent by mass) of
+carbon in dried agglomerates, XO represents a total mass
+ratio (percent by mass) of oxygen in iron oxides and oxygen
+in zinc oxide in the agglomerates in a dry state, and XCB
+represents a mass ratio (percent by mass) of carbon in the
+iron-oxide-containing powder and/or the carbonaceous powder
+in the dry agglomerates.</claim-text></claim><claim num="4"><claim-text>The method in accordance with claim 2 or 3, wherein,
+in the feeding step, the average number NL is 1.0 or less.</claim-text></claim><claim num="5"><claim-text>The method in accordance with one of claims 1 to 4,
+further comprising a disintegrating step of disintegrating
+the blast-furnace sludge.</claim-text></claim><claim num="6"><claim-text>The method in accordance with claim 5, wherein, in
+the disintegrating step, the blast-furnace sludge containing
+pseudoparticles having a diameter exceeding 1 mm is
+disintegrated to reduce the mass ratio of the
+pseudoparticles having a diameter exceeding 1 mm to the
+mixed material to 50% or less.</claim-text></claim><claim num="7"><claim-text>The method in accordance with claim 5, wherein the
+mixed material has a mass ratio XQ (percent by mass) of
+pseudoparticles having a diameter exceeding 1 mm and an
+excess carbon ratio Sc (percent by mass) that satisfy the
+relationships:
+   when
+0 ≤ Sc ≤ 2, XQ ≤ 50;
+and
+   when
+2 &lt; Sc ≤ 6, XQ ≤ 70 - 10·Sc
+wherein Sc = XC - (12/16)·XO, XC is a mass ratio (percent by
+mass) of carbon in the agglomerates in a dry state, and XO
+is a total mass ratio (percent by mass) of oxygen in iron
+oxides and oxygen in zinc oxide in the dry agglomerates.</claim-text></claim><claim num="8"><claim-text>The method in accordance with claim 5, wherein the
+mixed material has a mass ratio XQ (percent by mass) of
+pseudoparticles having a diameter exceeding 1 mm and a
+excess carbon ratio Sc (unit: percent by mass) that satisfy
+the relationships:
+   when
+0 ≤ Sc ≤ 1, XQ ≤ 50;
+and
+   when
+1 &lt; Sc ≤ 6, XQ ≤ 60 - 10·Sc
+wherein Sc = XC - (12/16)·XO, XC is a mass ratio (percent by
+mass) of carbon in the agglomerates in a dry state, and XO
+is a total mass ratio (percent by mass) of oxygen in iron
+oxides and oxygen in zinc oxide in the dry agglomerates.</claim-text></claim><claim num="9"><claim-text>The method in accordance with one of claims 1 to 8,
+further comprising an agglomerates-drying step of drying the
+agglomerates to reduce the water content thereof to 1.0
+percent by mass or less.</claim-text></claim><claim num="10"><claim-text>The method in accordance with one of claims 1 to 8,
+further comprising a blast-furnace-sludge-drying step of
+drying the blast-furnace sludge to reduce the water content
+thereof to a predetermined value so that the water content
+of the mixed material becomes 1.0 percent by mass or less.</claim-text></claim><claim num="11"><claim-text>The method in accordance with one of claims 1 to
+10, further comprising a zinc-recovering step of recovering
+zinc compounds resulting from zinc removal to obtain crude
+zinc oxide.</claim-text></claim><claim num="12"><claim-text>A method for making reduced iron using blast-furnace
+sludge, comprising:
+<claim-text><claim-text>a mixing step of mixing the blast-furnace sludge and an
+iron-oxide-containing powder to prepare a mixed material;</claim-text><claim-text>an agglomerating step of agglomerating the mixed
+material to form agglomerates;</claim-text><claim-text>a feeding step of feeding the agglomerates onto a
+continuously moving hearth; and</claim-text><claim-text>a reducing step of heating the agglomerates to remove
+zinc as well as to reduce the agglomerates,</claim-text></claim-text>
+wherein the mixed material is prepared so that the excess
+carbon ratio Sc satisfies the relationship:
+Sc ≤ 8 - 2NL
+wherein Sc = XC - (12/16)·XO, NL represents an average
+number of layers of the agglomerates on the moving hearth,
+XC represents the mass ratio (percent by mass) of carbon in
+the agglomerates in a dry state, and XO represents a total
+mass ratio (percent by mass) of oxygen in iron oxide and
+oxygen in zinc oxide in the dry agglomerates.</claim-text></claim><claim num="13"><claim-text>A method for making reduced iron using blast-furnace
+sludge, comprising:
+<claim-text><claim-text>a disintegrating step of disintegrating the blast-furnace
+sludge containing pseudoparticles having a diameter
+exceeding 1 mm so as to reduce the ratio the pseudoparticles
+having the diameter exceeding 1 mm to the mixed material to
+50% or less;</claim-text><claim-text>a mixing step of mixing the blast-furnace sludge and an
+iron-oxide-containing powder to prepare a mixed material;</claim-text><claim-text>an agglomerating step of agglomerating the mixed
+material to form agglomerates;</claim-text><claim-text>a a feeding step of feeding the agglomerates onto a
+continuously moving hearth; and</claim-text><claim-text>a reducing step of heating the agglomerates to remove
+zinc as well as to reduce the agglomerates.</claim-text></claim-text></claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

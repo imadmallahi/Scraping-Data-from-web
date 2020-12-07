@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1323708-A1" country="EP" doc-number="1323708" kind="A1" lang="EN" family-id="19189404" status="new" date-produced="20090516" date="20030702"><bibliographic-data><publication-reference ucid="EP-1323708-A1" status="new" fvid="23801092"><document-id status="new" format="original"><country>EP</country><doc-number>1323708</doc-number><kind>A1</kind><date>20030702</date></document-id></publication-reference><application-reference ucid="EP-02028985-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>02028985</doc-number><kind>A</kind><date>20021227</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2001398911-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2001398911</doc-number><kind>A</kind><date>20011228</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C07C 263/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 263/04        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 265/00        20060101C N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 265/04        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 265/14        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 271/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 271/12        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 271/20        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 271/22        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 271/24        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 319/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 319/20        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 323/00        20060101C N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C 323/43        20060101A N20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C07C 263/04</classification-symbol><classification-symbol scheme="EC">C07C 271/12</classification-symbol><classification-symbol scheme="EC">C07C 271/20</classification-symbol><classification-symbol scheme="EC">C07C 271/22</classification-symbol><classification-symbol scheme="EC">C07C 271/24</classification-symbol><classification-symbol scheme="EC">C07C 319/20</classification-symbol><classification-symbol scheme="ICO">M07C101:14</classification-symbol><classification-symbol scheme="ICO">M07C265:04</classification-symbol><classification-symbol scheme="ICO">M07C265:14</classification-symbol><classification-symbol scheme="ICO">M07C323:43</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Verfahren zur Herstellung von Carbamaten und Verfahren zur Herstelung von Isocyanaten</invention-title><invention-title load-source="ep" status="new" lang="EN">Method for producing carbamates and method for producing isocyanates</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédé de fabrication de carbamates et procédé de production d'isocyanates</invention-title><citations><patent-citations><patcit ucid="EP-0391473-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0391473</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0902014-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0902014</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-3763217-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>3763217</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-3919279-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>3919279</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4003938-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4003938</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4290970-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4290970</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4330479-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4330479</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5789614-A" status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>5789614</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5914428-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5914428</doc-number><kind>A</kind></document-id><sources><source category="X"  name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="WO-1987005600-A1"  status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1987005600</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>BABA T.; FUJIWARA M. ET AL: 'catalytic synthesis of N-alkyl carbamates by methoxycarbonylation of alkylamines with dimethyl carbonate using Pb(NO3)2' APPLIED CATALYSIS A:GENERAL 227 2002, pages 1 - 6</text><sources><source name="EXA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 1831701 XP002237045 &amp; SEOUD, M. AND SEOUD, O.: J. ORG. CHEM., vol. 46, no. 13, 1981, pages 2686-2690,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 199668 XP002236978 &amp; ANDERSON, MCGREGOR: "t-Butyloxycarbonylamino acids and their use in peptide synthesis" J. AMER. CHEM. SOC., vol. 79, 1957, pages 6180-6183,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 2076662 XP002236982 &amp; HYRUP, B.; EGHOLM, M., ROLLAND, M.; NIELSEN, P. ET AL.: J. CHEM. SOC. CHEM. COMMUN., vol. 6, 1993, pages 518-519,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 2675661 and rid 1839510 XP002237044 &amp; MIKHEEV, V. V.; SVETHAKOV, N. V.; GARIPOV, R. M.: J. ORG. CHEM. USSR (ENGL. TRANSL.), vol. 18, 1982, pages 215-220,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 318418 XP002236979 &amp; HEUBAUM, U. AND NOYES, W. A.: "Optically active diazo compounds. Diazocamphane" J. AMER. CHEM. SOC., vol. 52, 1930, pages 5070-5078,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 3306051 XP002237043 &amp; BERLIN, P.A.; TIGER, R. P. ET AL.: J. GEN. CHEM. USSR (ENGL. TRANSL.), vol. 60, no. 9.2, 1990, pages 1909-1915,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 906312 XP002236981 &amp; OHME, R.; PREUSCHHOF, H.: J. PRAKT. CHEM., no. 313, 1971, pages 626-635,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 9121229 XP002237047 &amp; PITTELKOV, M.; LEWINSKY, R. ET AL.: SYNTHESIS, vol. 15, 2002, pages 2195-2202,</text><sources><source category="XP" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 996900; rid 997052; rid 997377 XP002236980 &amp; BROADBENT, W. ET AL: J. CHEM. SOC. C,  1967, pages 2632-2636,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 996905 XP002236984 &amp; CHEM. NAT. COMPD. (ENGL. TRANSL.), vol. 11, 1975, pages 457-458,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 997581 XP002236983 &amp; KURITA, M. ET AL.: J. ANTIBIOT. SER. A, vol. 19, 1966, pages 243-249,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  CROSSFIRE BEILSTEIN [Online] Beilstein Institut zur Förderung der Chemischen Wissenschaften, Frankfurt am Main, DE; retrieved from BEILSTEIN Database accession no. rid 998442 XP002237046 &amp; LUEBKE, K.; SCHROEDER, E.: JUSTUS LIEBIGS ANN. CHEM., no. 692, 1966, pages 237-240,</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DELEON R.G.; KOBAYASHI A. ET AL: 'catalytic methoxycarbonylation of 1,6-hexanediamine with dimethyl carbonate to dimethylhexane-1,6-dicarbamate using Bi(NO3)3' APPLIED CATALYSIS A: GENERAL 225 2002, pages 43 - 49</text><sources><source name="EXA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>MITSUI TAKEDA CHEMICALS INC</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>MITSUI TAKEDA CHEMICALS, INC.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Mitsui Takeda Chemicals, Inc.</last-name><address><street>2-5, Kasumigaseki, 3-chome, Chiyoda-ku</street><city>Tokyo</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>HIRATA FUMIAKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>KUROIWA SATOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SASAKI MASAAKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>YOSHIDA TSUTOMU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HIRATA, FUMIAKI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KUROIWA, SATOSHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SASAKI, MASAAKI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>YOSHIDA, TSUTOMU</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Hirata, Fumiaki, c/oMitsui Takeda Chemicals Inc.</last-name><address><street>20, Towada, Kamisu-machi</street> <city>Kashima-gun, Ibaraki 314-0102</city><country>JP</country></address></addressbook></inventor> <inventor status="new" format="original"><addressbook><last-name>Kuroiwa, Satoshi, c/oMitsui Takeda Chemicals Inc.</last-name> <address><street>30, Asamuta-machi, Omuta</street> <city>Fukuoka 836-8610</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Sasaki, Masaaki, c/oMitsui Takeda Chemicals Inc.</last-name><address><street>20, Towada, Kamisu-machi</street><city>Kashima-gun, Ibaraki 314-0102</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Yoshida, Tsutomu, c/oMitsui Takeda Chemicals Inc.</last-name><address><street>20, Towada, Kamisu-machi</street><city>Kashima-gun, Ibaraki 314-0102</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Weber, Thomas, Dr.</last-name><address><street>Patentanwälte von Kreisler-Selting-Werner, Deichmannhaus am Dom, Bahnhofsvorplatz 1</street><city>50667 Köln</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A method for producing carbamates that enables carbamates to be
+produced at low costs, with high selectivity and high yield, and in a simple
+manner, and a method for producing isocyanates that enables isocyanates
+industrially used to be produced by using the carbamates obtained by the
+carbamates producing method. Nonaromatic amine selected from the
+group consisting of aliphatic amine, alicyclic amine, and aralkyl amine is
+allowed to react with alkylaryl carbonate to thereby produce carbamates.
+Also, the carbamates thus obtained are thermally decomposed to thereby
+produce isocyanates. When carbamates are produced in this method,
+alkyl carbamates can be obtained with high selectivity and at high yield by
+using simple equipment. Also, when isocyanates are produced in this
+method, polyisocyanates used industrially as the raw material of
+polyurethane can be produced in a simple manner and with efficiency.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><b>BACKGROUND OF THE INVENTION</b></heading><heading><b>Field of the Invention</b></heading><p num="0001">The present invention relates to a method for producing carbamates
+and a method for producing isocyanates by using the carbamates produced
+by the method for producing carbamates.</p><heading><b>Description of the Prior Art</b></heading><p num="0002">Alkyl carbamates are organic compounds useful as raw materials of
+medicines, agricultural chemicals and the like; raw materials of a variety of
+fine chemicals; reagents for analysis of alcohols; and industrial raw
+materials used for various purposes.</p><p num="0003">A variety of methods for producing alkyl carbamates are known,
+including (1) a method of reacting isocyanate with alcohol, (2) a method of
+reacting chloroformate ester with amine in the presence of base, (3) a
+method of reacting phosgene with alcohol and amine, (4) a method of
+reacting urea with alcohol, (5) a method of reacting dimethyl carbonate
+with formamide, and (6) a method of reacting dialkyl carbonate with
+amine.</p><p num="0004">In recent years, many studies have been made for the uses of the
+alkyl carbamates as raw materials for producing isocyanates without using
+any phosgene.</p><p num="0005">Isocyanates is an organic compound containing an isocyanate group
+and is in wide use as raw materials of polyurethanes. Isocyanates is 
+produced industrially by reacting amine with phosgene (Phosgenation).
+However, phosgene is highly toxic, corrosive and inconvenient in handling.
+In recent years, as an alternative to the phosgenation, a variety of methods
+for producing isocyanates economically have been proposed, according to
+which after carbamates are prepared from amine by using dialkyl
+carbonate, the carbamates obtained are thermally decomposed to thereby
+produce isocyanates (e.g. Japanese Laid-open (Unexamined) Patent
+Publications No. 7(1995)-165696, No. 6(1994)-172292, and No.
+9(1997)-249633).</p><p num="0006">The methods for producing the alkyl carbamates cited above have the
+following disadvantages, however. The method (1) has the disadvantage
+that an irritating isocyanate must be handled as raw material and
+accordingly careful handling is required. The method (2) has the
+disadvantage that a base of a number of moles equal to or more than
+equimolar must be used. The method (3) has the disadvantages that
+phosgene is highly toxic and corrosive and that a base must be used in the
+reaction. The methods (4) and (5) have the disadvantage that the reaction
+must be done at high temperature or high pressure.</p><p num="0007">In the method (6), dimethyl carbonate is used as dialkyl carbonates
+(which is well known from Japanese Patent Publication No. Sho 51
+(1976)-33095, Japanese Laid-open (Unexamined) Patent Publication No.
+57(1982)-82361, and US Patent No. 4,395,565, for example). In this
+method, dimethyl carbonate is allowed to react with amine in the presence
+of a Lewis-acid, a lead, titanium or zirconium catalyst, or an alcoholate of
+alkali metal or alkali earth metal. The examples of this method show, 
+however, that the rate of reaction is generally slow and also a N-methyl
+compound as a by-product is easily produced by the reaction. Due to this,
+the method (6) has the disadvantage that it is hard to provide improvement
+in space time yield (STY) of carbamates.</p><p num="0008">On the other hand, for example, Japanese Laid-open (Unexamined)
+Patent Publication No. Sho 64(1989)-85956 describes, as a method which
+suppresses the N-methylation reaction, the method by adding amine and
+alcoholate catalyst of alkali metal or alkali earth metal continuously or
+intermittently.</p><p num="0009">However, since this method requires a large amount of alcoholate
+catalyst for producing carbamates at high yields, production costs increase
+unavoidably. In addition, since the catalyst is neutralized, a large amount
+of salt is produced and resultantly a considerable burden is put on the
+recovery and purification of carbamates.</p><p num="0010">Further, an alternative method using carbonates has been proposed,
+for example, by Japanese Laid-open (Unexamined) Patent Publication No.
+Hei 6(1994)-128215 which teaches the method of producing an alkyl
+carbamate from alkyl aryl carbonate and aromatic amine. In this method,
+a nitrogen-containing heterocyclic compound is used as the catalyst.
+However, this method has the disadvantage that a large amount of the
+catalyst is required and improvement in yield cannot be attained.</p><p num="0011">In the methods for producing isocyanates previously mentioned, after
+carbamates are prepared from amine by using dialkyl carbonate, the
+carbamates obtained are thermally decomposed. However, as described,
+for example, in the examples of Japanese Laid-open (Unexamined) Patent 
+Publication No. Sho 64(1989)-85956, when a base catalyst is heated
+together with carbamates, carbamates are changed further and are
+changed into an unintended high boiling material. Due to this, the
+neutralization process is unavoidable. As a matter of fact, prior to the
+thermal decomposition process of carbamates, it is necessary that the
+residual base catalyst in carbamates is neutralized by adding a phosphoric
+acid and the phosphoric acid excessively added is eliminated by washing.</p><heading><b>SUMMARY OF THE INVENTION</b></heading><p num="0012">It is an object of the present invention to provide a method for
+producing carbamates that enables carbamates to be produced in a simple
+manner at low costs with high selectivity and high yield, and to provide a
+method for producing isocyanates that enables isocyanates using
+industrially to be produced by using the carbamates obtained by the
+carbamates producing method.</p><p num="0013">The present invention provides a method for producing carbamates,
+wherein nonaromatic amine selected from the group consisting of aliphatic
+amine, alicyclic amine, and aralkyl amine is allowed to react with alkyl
+aryl carbonate as is expressed by the following general formula (1):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>1</sup>OCOOR<sup>2</sup></st32:che>
+(where R<sup>1</sup> represents an alkyl group and R<sup>2</sup> represents an aryl group that
+may have a substituent group).</p><p num="0014">In the method for producing carbamates of the present invention, it is
+preferable that the alkyl aryl carbonate is methylphenyl carbonate. Also,
+it is preferable that crude material containing at least 1 weight% of alkyl
+aryl carbonate obtained by an ester exchange reaction of dialkyl carbonate 
+with phenol or derivative thereof is used as the alkyl aryl carbonate.</p><p num="0015">It is preferable that the nonaromatic amine is at least one compound
+selected from the group consisting of 1,6-hexamethylenediamine,
+isophorone diamine, 1,3-bis(aminomethyl)cyclohexane,
+1,4-bis(aminomethyl)cyclohexane, 4,4'-methylenebis(cyclohexaneamine),
+2,5-bis(aminomethyl)bicyclo [2,2,1] heptane, 2,6-bis(aminomethyl)bicyclo
+[2,2,1] heptane, 1,3-bis(aminomethyl) benzene and 1,4-bis(aminomethyl)
+benzene. The nonaromatic amine may be amino acid and derivative
+thereof.</p><p num="0016">Further, the present invention provides a method for producing
+isocyanates which comprises the step of producing carbamates by reacting
+nonaromatic amine selected from the group consisting of aliphatic amine,
+alicyclic amine, and aralkyl amine with alkyl aryl carbonate expressed by
+the following general formula (1), and the step of producing isocyanates by
+thermally decomposing the carbamates obtained:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>1</sup>OCOOR<sup>2</sup></st32:che>
+(where R<sup>1</sup> represents an alkyl group and R<sup>2</sup> represents an aryl group that
+may have a substituent group).</p><p num="0017">The method for producing carbamates of the present invention
+enables alkyl carbamates to be produced with high selectivity and at high
+yield simply by substantially blending nonaromatic amine and alkylaryl
+carbonate. Besides, since the producing method of the present invention
+requires no complicated after-treatment process, the carbamates can be
+produced at low costs and with efficiency. In addition, this producing
+method enables crude material containing alkylaryl carbonate to be used as 
+alkylaryl carbonate.</p><p num="0018">Also, the method for producing isocyanates of the present invention
+enables polyisocyanates industrially used as raw material of polyurethane
+to be produced in a simple manner and with efficiency.</p><heading><b>DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</b></heading><p num="0019">In the following, a method for producing carbamates ('carbamate' is
+also referred as 'carbamic acid ester') of the present invention will be
+detailed. According to a method for producing carbamates of the present
+invention, nonaromatic amine selected from the group consisting of
+aliphatic amine, alicyclic amine, and aralkyl amine is allowed to react with
+alkyl aryl carbonate as is expressed by the following general formula (1):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>1</sup>OCOOR<sup>2</sup></st32:che>
+(where R<sup>1</sup> represents an alkyl group and R<sup>2</sup> represents an aryl group that
+may have a substituent group).</p><p num="0020">The nonaromatic amine used in the present invention is an
+amino-group-containing organic compound having at least one primary or
+secondary amino group and having no amino group directly bonded to an
+aromatic ring and selected from the group of aliphatic amine, alicyclic
+amine, and aralkyl amine. The amino-group-containing organic compound
+may contain in the molecular structure a stable bond or functional group,
+such as an ether, a thioether, an ester, a sulfonic and a carbonyl group, and
+a halogen atom.</p><p num="0021">Aliphatic amines that may be used include, for example, aliphatic
+primary normal or branched monoamines, such as methylamine,
+ethylamine, n-propylamine, iso-propylamine, butylamine, pentylamine, 
+hexylamine, n-octylamine, 2-ethylhexylamine, decylamine, dodecylamine,
+and octadecylamine, aliphatic secondary monoamines of carbon number in
+the range of 2-20, such as dimethylamine, diethylamine,
+N-methylethylamine, di-n-octylamine, and N-methylcyclopentylamine,
+aliphatic diamines, such as 1,2-diaminoethane, 1,3-diaminopropane,
+1,4-diaminobutane, 1,5-diaminopentane, 1,6-hexamethylenediamine,
+1,7-diaminoheptane, 1,8-diaminooctane, 1,9-diaminononane,
+1,10-diaminodecane, 1,12-diaminododecane, 2,2,4-trimethylhexamethylene
+diamine, 2,4,4-trimethylhexamethylene diamine, tetramethylene diamine,
+1,12-diaminododecane, and 1,2-bis(aminoethylthio)ethane, aliphatic
+triamines, such as 1,2,3-triaminopropane, triaminohexane, triaminononane,
+triaminododecane, 1,8-diamino-4-aminomethyloctane, 2,6-diaminocaproic
+acid 2-aminoethylester, 1,3,6-triaminohexane, 1,6,11-triaminoundecane,
+triaminocyclohexane, and 3-aminomethyl-1,6-aminohexane, and amino
+acids, such as arginine, β-alanine, alanine, sarcosine, ornithine,
+γ-aminobutyric acid, <i>α</i>-aminoisobutyric acid, glycine, valine, norvaline,
+leucine, isoleucine, threonine, serine, methionine, aspartic acid, glutamic
+acid, glutamine, ricin, hydroxyricin, histidine, cysteine, and aspartic acid.
+These amino acids may be amino acids whose side-chain functional group is
+protected or may be racemic mixture containing optical isomer, or
+derivatives thereof, such as ester or salt thereof.</p><p num="0022">The aliphatic amines include, for example, amino-group-containing
+polyoxyalkylene compounds, such as polyoxypropylene diamine, and
+amino-group-containing polysiloxane compounds.</p><p num="0023">Alicyclic amines that may be used include, for example, alicyclic 
+primary monoamines, such as cyclopropylamine, cyclobutylamine,
+cyclopentylamine, cyclohexylamine, and hydrogenated toluidine, alicyclic
+secondary monoamines, such as N-methylcyclopentylamine, alicyclic
+diamines, such as diaminocyclobutane, isophorone diamine
+(3-aminomethyl-3,5,5-trimethylcyclohexylamine), 1,2-diaminocyclohexane,
+1,3-diaminocyclohexane, 1,4-diaminocyclohexane,
+1,3-bis(aminomethyl)cyclohexane, 1,4-bis(aminomethyl)cyclohexane,
+4,4'-methylenebis(cyclohexaneamine), 2,5-bis(aminomethyl)bicyclo [2,2,1]
+heptane, 2,6-bis(aminomethyl)bicyclo [ 2,2,1 ] heptane, hydrogenated
+2,4-toluene diamine, and hydrogenated 2,6-toluene diamine, and amino
+acids, such as proline and hydroxylproline. These amino acids may be
+amino acids whose side-chain functional group is protected or may be
+racemic mixture containing optical isomer, or derivatives thereof, such as
+ester or salt thereof.</p><p num="0024">Aralkyl amine that may be used include, for example, aralkyl primary
+monoamines, such as benzylamine, aralkyl secondary monoamines, such as
+N-mehylbenzylamine, aralkyl diamines, such as 1,3-bis(aminomethyl)
+benzene and 1,4-bis(aminomethyl) benzene, and amino acids, such as
+phenylalanine, tyrosine, tryptophan, and phenylglycine. These amino
+acids may be amino acids whose side-chain functional group is protected or
+may be racemic mixture containing optical isomer, or derivatives thereof,
+such as ester or salt thereof.</p><p num="0025">Among these nonaromatic amines, diamines supplying as precursors
+of poly(di)isocyanates that are used industrially, such as
+1,6-hexamethylene diamine, isophorone diamine, 
+1,3-bis(aminomethyl)cyclohexane, 1,4-bis(aminomethyl)cyclohexane,
+4,4'-methylenebis(cyclohexaneamine), 2,5-bis(aminomethyl)bicyclo [2,2,1]
+heptane, 2,6-bis(aminomethyl)bicyclo [2,2,1] heptane, 1,3-bis(aminomethyl)
+benzene and 1,4-bis(aminomethyl) benzene, are preferably used.</p><p num="0026">These nonaromatic amines may be used singly or in combination of
+two or more.</p><p num="0027">The alkylaryl carbonate used in the present invention is expressed by
+the following general formula (1):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>1</sup>OCOOR<sup>2</sup></st32:che>
+(where R<sup>1</sup> represents an alkyl group and R<sup>2</sup> represents an aryl group that
+may have a substituent group).</p><p num="0028">In the formula (1) given above, the alkyl groups represented by R<sup>1</sup>
+include, for example, normal or branched saturated hydrocarbon groups of
+carbon number in the range of 1-8, such as methyl, ethyl, n-propyl,
+iso-propyl, n-butyl, iso-butyl, sec-butyl, tert-butyl, pentyl, hexyl, heptyl,
+octyl, iso-octyl, and 2-ethylhexyl, and alicyclic saturated hydrocarbon
+groups of carbon number in the range of 5-10, such as cyclohexyl and
+cyclododecyl.</p><p num="0029">In the formula (1) given above, aryl groups that may have a
+substituent group represented by R<sup>2</sup> include, for example, aryl groups of
+carbon number in the range of 6-18, such as phenyl, tolyl, xylyl, biphenyl,
+naphthyl, anthryl, and phenanthryl. The substituent groups include, for
+example, a hydroxyl group, a halogen atom (e.g. chlorine, fluorine, bromine,
+and iodine), a cyano group, an amino group, a carboxyl group, an alkoxyl
+group (e.g. alkoxyl group of the carbon number in the range of 1-4, such as 
+methoxy, ethoxy, propoxy, and butoxy), an aryloxy group (e.g. a phenoxy
+group), an alkylthio group (e.g. alkylthio group of the carbon number in the
+range of 1-4, such as methylthio, ethylthio, propylthio, and butylthio), and
+an arylthio group (e.g. a phenylthio group). The number of substituent
+groups per identical groups or different groups may be from one to five, or
+preferably from one to three.</p><p num="0030">To be more specific, methylphenyl carbonate is preferably used as the
+alkylaryl carbonate.</p><p num="0031">The alkylaryl carbonates cited above can be produced easily by using
+any known methods, including, for example, a method for producing
+alkylaryl carbonate by the ester exchange reaction of dialkyl carbonate and
+phenol or derivatives thereof as described by Japanese Patent No. 1519075,
+and a method for producing alkylaryl carbonate from aryl chloroformate
+and alkyl alcohol as described by J. Org. Chem. 57,3237 (1992).</p><p num="0032">In the present invention, the reaction solution produced by the
+producing method mentioned above may be used, or the crude material
+containing alkylaryl carbonate may be used, as it is without any need to
+use alkylaryl carbonate purified by high-level purification such as
+recrystallization and fraction.</p><p num="0033">For example, when alkylaryl carbonate is produced from dialkyl
+carbonate and phenol or derivatives thereof, crude material containing not
+less than 1 weight%, or preferably 10-100 weight%, of alkylaryl carbonate
+produced by the ester exchange reaction of dialkyl carbonate and phenol or
+derivatives thereof may be used as the alkylaryl carbonate of the producing
+method of the present invention. </p><p num="0034">When considering that alkylphenyl carbonate is produced by the
+reaction of dialkyl carbonate and phenol, as mentioned above, it is feasible
+to produce carbamates in the method mentioned later, for example, by
+adding amine in the presence of dialkyl carbonate and phenol or by mixing
+dialkyl carbonate, phenol and amine.</p><p num="0035">In the method for producing carbamates of the present invention, the
+nonaromatic amine mentioned above is allowed to react with the alkylaryl
+carbonate mentioned above. The nonaromatic amine is allowed to react
+with alkylaryl carbonate, for example, in the manner that nonaromatic
+amine and alkylaryl carbonate are charged in a reaction vessel in a
+predetermined proportion given below under mild conditions and, if needed,
+a reaction solvent is added thereto.</p><p num="0036">An amount of alkylaryl carbonate charged may be equivalent molar to
+or more than the number of moles of animo group of the nonaromatic
+amine. Due to this, alkylaryl carbonate itself may be used as a reaction
+solvent in this reaction. To be more specific, the amount of alkylaryl
+carbonate charged is commonly in the order of 1-50 times, or preferably
+1.01-30 times, or further preferably 1.02-15 times, as much as the number
+of moles corresponding to the number of amino group of nonaromatic amine.
+If the amount of alkylaryl carbonate charged is more than that, then a
+considerable amount of energy will be consumed in the subsequent
+separation process or purification process, then providing inadequateness
+for industrial production. On the other hand, if the amount of alkylaryl
+carbonate charged is less than that, then there will be provided the result
+that the rate of reaction decreases as the reaction proceeds. </p><p num="0037">The reaction solvent is not necessarily needed for this reaction, but
+the blending of the reaction solvent can provide improved operability. No
+particular limitation is imposed on the reaction solvent, as long as it is
+inactive to or is less-reactive to nonaromatic amine and alkylaryl carbonate.
+The reaction solvents that may be used include, for example, aliphatic
+alcohols (e.g. methanol, ethanol, n-propanol, iso-propanol, n-butanol, and
+iso-butanol), aliphatic hydrocarbons (e.g. hexane, pentane, petroleum ether,
+ligroin, cyclododecane, and decalins), aromatic hydrocarbons (e.g. benzene,
+toluene, xylene, ethylbenzene, isopropylbenzene, butylbenzene,
+cyclohexylbenzene, tetralin, chlorobenzene, o-dichlorobenzene,
+methylnaphthalene, chloronaphthalene, dibenzyltoluene,
+triphenylmethane, phenylnaphthalene, biphenyl, diethyl biphenyl, and
+triethyl biphenyl), ethers (e.g. diethyl ether, diisopropyl ether, dibutyl ether,
+anisole, diphenyl ether, tetrahydrofuran, ethylene glycol dimethyl ether,
+ethylene glycol diethyl ether, ethylene glycol dibutyl ether, diethylene
+glycol dimethyl ether, and diethylene glycol diethyl ether), esters (e.g. ethyl
+acetate, butyl acetate, amyl acetate, dioctyl phthalate, didesyl phthalate,
+and didodecyl phthalate), nitriles (e.g. acetonitrile, propionitrile,
+adiponitrile, and benzonitrile), aliphatic halogenated hydrocarbons (e.g.
+methylene chloride, chloroform, 1,2-dichloroethane, 1,2-dichloropropane,
+and 1,4-dichlorobutane), amides (e.g. dimethylformamide, and
+dimethylacetamide), nitro compounds (e.g. nitromethane, and
+nitrobenzene), phenol or derivatives thereof (e.g. phenol and cresol), carboic
+acid esters (e.g. dimethyl carbonate, diethyl carbonate, dipropyl carbonate,
+and dibutyl carbonate), heat medium oils for general use (e.g. Therm-S 
+series, 200S, 300, 600, 700, 800, 900, 1000S (Name of articles) available
+from Nippon Steel Chemical Co., Ltd., and Neo SK-OIL 1300, 1400, 170,
+240, 330, KSK-OIL 260, 280 (Name of articles) available from Soken
+Chemical &amp; Engineering Co., Ltd.), N-methyl pyrrolizinone, N,N-dimethyl
+imidazolidinone, dimethyl sulfoxide, and water.</p><p num="0038">Among these reaction solvents, aliphatic alcohols, aliphatic
+hydrocarbons, aromatic hydrocarbons, phenols, and carboic acid esters are
+preferably used in terms of economical efficiency and operability. These
+reaction solvents may be used singly or in combination of two or more.</p><p num="0039">There is no particular limitation to an amount of reaction solvent
+used, as long as it is sufficient for the carbamates as a reaction product to
+be dissolved. Industrially, the amount of reaction solvent used should
+preferably be minimized as much as possible in view that it is necessary to
+recover the reaction solvent from the reaction solution and the energy
+consumed for the recovery can be reduced as much as possible, as well as in
+view that when a large amount of reaction solvent is used, substrate
+concentration on the reaction decreases and the rate of reaction decreases.
+To be more specific, the amount of the reaction solvent used is usually in
+the range of 0.01 to 50 parts by weight, or preferably in the range of 0.1 to
+10 parts by weight per part by weight of nonaromatic amine.</p><p num="0040">In this reaction, reaction temperature varies, depending on kinds of
+raw material, that is, nonaromatic amine and alkylaryl carbonate, and of
+reaction solvent, though a reaction temperature is, for example, in the
+range of 0-200°C, or preferably 20-150°C, or further preferably 30-100°C.
+The reaction may be carried out in any adequate atmospheric pressure, 
+under an increased pressure or a reduced pressure, without any particular
+limitation.</p><p num="0041">This reaction proceeds without catalyst, but a catalyst may be added,
+if desired. The catalysts that may be used, include, for example, known
+carbamate preparation catalysts and ester exchange catalysts, such as
+Lewis acid, alkali metal salt, alkali earth metal salt, salts of the group III
+and IV metals, a nitrogen-containing compound, transition metal salt, or a
+complex thereof.</p><p num="0042">This reaction can be carried out by agitating or mixing nonaromatic
+amine and alkylaryl carbonate in the reaction vessel under the conditions
+mentioned above. To be more specific, for example, nonaromatic amine
+may be dropped in alkylaryl carbonate and mixed by stirring. This
+permits alkyl carbamate to be produced with high selectivity and at high
+yield under temperate conditions. As a result of this, for example, when
+nonaromatic amine and alkylaryl carbonate are allowed to react with each
+other without catalyst, this reaction provides the result that the reaction
+solution after the end of the reaction contains excess (unreacted) alkylaryl
+carbonate, reaction solvent, reaction product of carbamate expressed by the
+general formula (2) given below:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">(R<sup>1</sup>OCONH)nR<sup>3</sup></st32:che>
+(where R<sup>1</sup> represents R<sup>1</sup> of the formula (1) given above; R<sup>3</sup> represents
+residue of nonaromatic amine; and n represents the number of amino group
+of the nonaromatic amine), and
+
+the by-product of aryl alcohol expressed by the general formula (3) given
+below: <st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>2</sup>-OH</st32:che>
+(where R<sup>2</sup> represents R<sup>2</sup> of the formula (1) given above).</p><p num="0043">These excess (unreacted) alkylaryl carbonate, reaction solvent and
+aryl alcohol are recovered by distillation and separation and thereby the
+carbamates produced are separated easily. This reaction usually requires
+no after-treatment processes, such as separation of catalyst. The
+carbamates obtained may be further purified by washing, neutralization,
+recrystallization, distillation, sublimation, column chromatography or the
+like, if needed.</p><p num="0044">Thus, this producing method enables alkyl carbamates to be produced
+with high selectivity and at high yield simply by substantially blending
+nonaromatic amine and alkylaryl carbonate. Besides, it requires simple
+equipment and facility and requires no complicated after-treatment process.
+Hence, the method of the present invention can produce the carbamates at
+low costs and with efficiency.</p><p num="0045">The present invention includes a method for producing isocyanates by
+thermally decomposing the carbamates obtained by the method for
+producing carbamates described above.</p><p num="0046">According to the method for producing isocyanates of the present
+invention, the carbamates obtained by the method for producing
+carbamates described above is thermally decomposed to thereby produce
+isocyanate expressed by the following general formula (4) corresponding to
+the nonaromatic amine described above:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>3</sup>-(NCO)n</st32:che>
+(where R<sup>3</sup> represents R<sup>3</sup> of the formula (2) given above, and n represents n 
+of the formula (2) given above), and
+
+the by-product of alkyl alcohol expressed by the following formula (5):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>1</sup>-OH</st32:che>
+(where R<sup>1</sup> represents R<sup>1</sup> of the formula (1) given above).</p><p num="0047">No particular limitation is imposed on the thermal decomposition.
+Known decomposition methods, such as a liquid phase method and a vapor
+phase method, can be used. Preferably, the thermal decomposition is
+carried out in the liquid phase method, or rather, in the reaction
+distillation in which the alkyl alcohol produced as a by-product in the
+thermal decomposition is separated from the system.</p><p num="0048">The thermal decomposition temperature is usually 350°C at highest,
+or preferably in the range of 80-350°C, or further preferably in the range of
+100-300°C. At the thermal decomposition temperature lower than 80°C,
+there is the possibility that the rate of reaction suitable for practical use
+may not be obtained. At the thermal decomposition temperature higher
+than 350°C on the other hand, there is the possibility that undesired side
+reaction, such as polymerization of isocyanates, may occur. Also, it is
+preferable that the pressure at the thermal decomposition reaction is a
+pressure for allowing the alkyl alcohol produced to be vaporized in the
+thermal decomposition temperature specified above. The pressure is
+preferably in the range of 0.133-90kPa in terms of equipment and use and
+profits suitable for practical use.</p><p num="0049">Though purified carbamates is good enough for the carbamates used
+in the thermal decomposition, the crude material of carbamates obtained
+by the recovery and separation of the aryl alcohol after the end of the 
+reaction may continue to be thermally decomposed.</p><p num="0050">Further, catalyst and inactive solvent may be added, if needed. The
+catalyst and inactive solvent may be added at the time when the reaction
+for preparation of carbamates is carried out, around the time when the
+distillation and separation is carried out after the end of the reaction, or
+around the time when the carbamates is separated, though it depends on
+the kinds of the catalyst and inactive solvent.</p><p num="0051">At least one compound of a metal, oxide, halogenide, carboxylate,
+phosphate, and organic metallic compound, selected from the group
+consisting of Sn, Sb, Fe, Co, Ni, Cu, Cr, Ti, Pb, Mo and Mn, used for the
+reaction of isocyanate and hydroxyl group for preparation of urethane, is
+used as the decomposition catalyst used for the thermal decomposition. Of
+these materials, Fe, Sn, Co, Sb and Mn are preferably used in this thermal
+decomposition, because they develop the effect of suppressing the
+production of the by-product.</p><p num="0052">Metallic catalysts of Sn that may be used include, for example, tin
+oxide, tin chloride, tin bromide, tin iodide, tin formate, tin acetate, tin
+oxalate, tin octylate, tin stearate, tin oleate, tin phosphate, dibutyltin
+dichloride, dibutyltin dilaurate, and
+1,1,3,3-Tetrabutyl-1,3-dilauryloxydistannoxane.</p><p num="0053">Metallic catalysts of Fe, Co, Sb and Mn include, for example, acetate,
+benzoate, naphthenate, and acetylacetonate thereof.</p><p num="0054">It is to be noted that an amount of catalyst used to reaction is
+preferably in the range of 0.0001-5 weight%, or preferably in the range of
+0.001-1 weight% per reaction solvent, as a metal or compound thereof. </p><p num="0055">Also, the inactive solvent is inactive at least to carbamates and
+isocyanates and it is preferable that the inactive solvent is also higher in
+boiling point than isocyanates produced, for producing the thermal
+decomposition reaction with efficiency. The inactive solvents that may be
+used include, for example, esters, such as dioctyl phthalate, didecyl
+phthalate, and didodecyl phthalate, and aromatic hydrocarbons or aliphatic
+hydrocarbons used regularly as heating medium, such as dibenzyltoluene,
+triphenylmethane, phenylnaphthalene, biphenyl, dietylbiphenyl, and
+triethylbiphenyl. An amount of inactive solvent used is in the range of
+0.001-100 parts by weight, or preferably 0.01-80 parts by weight, or further
+preferably 0.1-50 parts by weight, per part by weight of carbamates. The
+thermal decomposition reaction may be carried out by a batch reaction
+process wherein carbamates, the catalyst and the inactive solvent are
+charged as a batch, or by a continuous reaction process wherein
+carbamates are charged in the inactive solvent containing the catalyst
+under reduced pressure.</p><p num="0056">Thus, in this thermal decomposition reaction, the carbamates
+obtained in the manner mentioned above is thermally decomposed and
+thereby the isocyanates corresponding to the nonaromatic amines is
+produced, as mentioned above. Consequently, for example,
+polyisocyanates industrially used as raw material of polyurethane can be
+produced in a simple manner and with efficiency.</p><p num="0057">While there has been described the method for producing carbamates
+and the method for producing isocyanates so far, the production method of
+the present invention may include some additional known processes, such 
+as a head end process, such as a dehydration process, an intermediate
+process, or an after-treatment process, such as a purification process and a
+recovery process.</p><heading><b>EXAMPLES</b></heading><p num="0058">While in the following, the present invention will be described in
+further detail with reference to Examples, the present invention is not
+limited to any Examples.</p><heading><b>EXAMPLE 1</b></heading><p num="0059">After air was substituted with nitrogen in a 200mL four-necked glass
+flask having a reflux condenser, a thermometer, a nitrogen inlet adapter, a
+dropping funnel, and an agitator, 45.6g (0.30 mol) of methylphenyl
+carbonate and 58.8g of methanol were charged in the flask and then 11.6g
+(0.10 mol) of 1,6-hexamethylenediamine was dropped therein under
+stirring at room temperature. Thereafter, those was allowed to react with
+each other at 50°C for three hours and, thereafter, a part of the reaction
+mixture was taken for sampling and the sample was titrated
+potentiometrically with 1N hydrochloric acid. The result was that the
+1,6-hexamethylenediamine conversion rate was 99.5% or more. Also, from
+the quantitative analysis of the reaction mixture using a gas
+chromatography it was found that 1,6-bis(methoxycarbonylamino)hexane
+was produced at the yield of 99.9%.</p><p num="0060">Sequentially, after the reaction mixture was transferred into a 200mL
+flask having a capillary, a thermometer, and a distilling head, the flask
+was heated under reduced pressure (0.67kPa) to distill away a volatile
+portion of the reaction mixture. As a result of this, 23.2g of crude crystal 
+of 1,6-bis(methoxycarbonylamino)hexane was left in the flask. After the
+crude crystal was dissolved in a small amount of methanol, 90g of diethyl
+ether was added in the mixture and fully mixed. Then, the precipitated
+crystal was filtered. The weight of the crystal after dried was 22.6g
+(97.7% of isolation yield).</p><p num="0061">The isolated crystal was identified by using a FT-IR, a MS spectrum,
+and a <sup>1</sup>H-NMR. It was observed from the IR spectrum that a N-H
+stretching 3335 cm<sup>-1</sup>, a C=O stretching 1686 cm<sup>-1</sup>, and a N-H deformation
+vibration 1530 cm<sup>-1</sup>. From the MS spectrum (M+)=232 was observed.
+The spectrum of <sup>1</sup>H-NMR are shown below.
+
+   <sup>1</sup>H-NMR spectrum (CDCl<sub>3</sub>, TMS; ppm)
+
+   1.35 (t, 4H)
+
+   1.50 (m, 4H)
+
+   3.15 (m, 4H)
+
+   3.70 (s, 6H)
+
+   4.65-4.85 (b, 2H)</p><heading><b>EXAMPLE 2</b></heading><p num="0062">After air was substituted with nitrogen in a 200mL four-necked glass
+flask having a reflux condenser, a thermometer, a nitrogen inlet adapter, a
+dropping funnel, and an agitator, 76.1g (0.30 mol) of crude methylphenyl
+carbonate (a reaction solution synthesized by the ester exchange reaction of
+dimethyl carbonate with phenol and simple-distilled and having a mixture
+of 60 parts by weight of methylphenyl carbonate, 26 parts by weight of
+phenol, and 9 parts by weight of dimethyl carbonate of a composition ratio
+measured by the gas chromatograph) and 28.5g of methanol were charged 
+in the flask and then 11.6g (0.10 mol) of 1,6-hexamethylenediamine was
+dropped therein under stirring at room temperature. Thereafter, those
+were allowed to react with each other at 50°C for four hours and, thereafter,
+a part of the reaction mixture was taken for sampling and the sample was
+titrated potentiometrically with 1N hydrochloric acid. The result was that
+the 1,6-hexamethylenediamine conversion rate was 99.5% or more. Also,
+from the quantitative analysis of the reaction mixture using the gas
+chromatography, it was found that 1,6-bis(methoxycarbonylamino)hexane
+was produced at the yield of 99.9%.</p><heading><b>EXAMPLE 3</b></heading><p num="0063">After air was substituted with nitrogen in a 200mL four-necked glass
+flask having a reflux condenser, a thermometer, a nitrogen inlet adapter, a
+dropping funnel, and an agitator, 45.6g (0.30 mol) of methylphenyl
+carbonate and 63.3g of methanol were charged in the flask and then 13.6g
+(0.10 mol) of 1,3-bis(aminomethyl)benzene was dropped therein under
+stirring at room temperature. Thereafter, those were allowed to react
+with each other at 60°C for ten hours and, thereafter, a part of the reaction
+mixture was taken for sampling and the sample was titrated
+potentiometrically with 1N hydrochloric acid. The result was that the
+1,3-bis(aminomethyl)benzene conversion rate was 99.0% or more. Also,
+from the quantitative analysis of the reaction mixture using the gas
+chromatography, it was found that 1,3-bis(methoxycarbonyl
+aminomethyl)benzene was produced at the yield of 99.7%.</p><heading><b>EXAMPLE 4</b></heading><p num="0064">After air was substituted with nitrogen in a 200mL four-necked glass 
+flask having a reflux condenser, a thermometer, a nitrogen inlet adapter, a
+dropping funnel, and an agitator, 45.6g (0.30 mol) of methylphenyl
+carbonate and 68.1g of methanol were charged in the flask and then 14.2g
+(0.10 mol) of 1,3-bis(aminomethyl)cyclohexane was dropped therein under
+stirring at room temperature. Thereafter, those were allowed to react
+with each other at 60°C for eight hours and, thereafter, a part of the
+reaction mixture was taken for sampling and the sample was titrated
+potentiometrically with 1N hydrochloric acid. The result was that the
+1,3-bis(aminomethyl) cyclohexane conversion rate was 99.0% or more.
+Also, from the quantitative analysis of the reaction mixture using the gas
+chromatography, it was found that 1,3-bis(methoxycarbonyl
+aminomethyl)cyclohexane was produced at the yield of 99.9%.</p><heading><b>EXAMPLE 5</b></heading><p num="0065">After air was substituted with nitrogen in a 200mL four-necked glass
+flask having a reflux condenser, a thermometer, a nitrogen inlet adapter, a
+dropping funnel, and an agitator , 82.2g (0.54 mol) of methylphenyl
+carbonate was charged in the flask and then 17.0g (0.10 mol) of isophorone
+diamine was dropped therein under stirring at room temperature.
+Thereafter, those were allowed to react with each other at 60°C for six
+hours and, thereafter, a part of the reaction mixture was taken for
+sampling and the sample was titrated potentiometrically with 1N
+hydrochloric acid. The result was that the isophorone diamine conversion
+rate was 99.0% or more. Also, from the quantitative analysis of the
+reaction mixture using the gas chromatography, it was found that
+isophorone dimethyl carbamate was produced at the yield of 99.8%. </p><heading><b>EXAMPLE 6</b></heading><p num="0066">After air was substituted with nitrogen in a 200mL four-necked glass
+flask having a reflux condenser, a thermometer, a nitrogen inlet adapter, a
+dropping funnel, and an agitator, 45.6g (0.30 mol) of methylphenyl
+carbonate and 30g of toluene were charged in the flask and then 40.7g (0.15
+mol) of octadecylamine was dropped therein under stirring at room
+temperature. Thereafter, those were allowed to react with each other at
+60°C for two hours and, thereafter, a part of the reaction mixture was taken
+for sampling and the sample was titrated potentiometrically with 1N
+hydrochloric acid. The result was that the octadecylamine conversion rate
+was 99.0% or more. Also, from the quantitative analysis of the reaction
+mixture using the gas chromatography, it was found that methyl
+N-octadecylcarbamate was produced at the yield of 99.5%.</p><heading><b>EXAMPLE 7</b></heading><p num="0067">After air was substituted with nitrogen in a 200mL four-necked glass
+flask having a reflux condenser, a thermometer, a nitrogen inlet adapter, a
+dropping funnel, and an agitator, 45.6g (0.30 mol) of methylphenyl
+carbonate and 30g of toluene were charged in the flask and then 19.4g (0.15
+mol) of octylamine was dropped therein under stirring at room temperature.
+Thereafter, those were allowed to react with each other at 60°C for two
+hours and, thereafter, a part of the reaction mixture was taken for
+sampling and the sample was titrated potentiometrically with 1N
+hydrochloric acid. The result was that the octylamine conversion rate was
+99.0% or more. Also, from the quantitative analysis of the reaction
+mixture using the gas chromatography, it was found that methyl 
+N-octylcarbamate was produced at the yield of 99.5%.</p><heading><b>EXAMPLE 8</b></heading><p num="0068">After air was substituted with nitrogen in a 200mL four-necked glass
+flask having a reflux condenser, a thermometer, a nitrogen inlet adapter, a
+dropping funnel, and an agitator , 80.2g (0.53 mol) of methylphenyl
+carbonate was charged in the flask and then 18.0g (0.10 mol) of
+1,2-bis(2-aminoethylthio)ethane was dropped therein under stirring at
+room temperature. Thereafter, those were allowed to react with each
+other at 60°C for five hours and, thereafter, a part of the reaction mixture
+was taken for sampling and the sample was titrated potentiometrically
+with 1N hydrochloric acid. The result was that the
+1,2-bis(2-aminoethylthio)ethane conversion rate was 99.0% or more. Also,
+from the quantitative analysis of the reaction mixture using the gas
+chromatography, it was found that 1,2-bis(2-methoxycarbonyl
+aminoethylthio)ethane was produced at the yield of 99.0%.</p><heading><b>EXAMPLE 9</b></heading><p num="0069">After 50ml of 2M-NaOH aqueous solution and 8.9g (0.10 mol) of
+sarcosine were charged in a 200mL four-necked glass flask having a reflux
+condenser, a thermometer, a nitrogen inlet adapter, and an agitator and
+were stirred at room temperature so that the sarcosine can be completely
+dissolved in the solution to prepare a solution of sarcosine sodium salt.
+Sequentially, 45.6g (0.30 mol) of methylphenyl carbonate was added to the
+solution and was allowed to react with it at 50°C for eight hours under
+stirring vigorously. Thereafter, the reaction mixture was poured into a
+separating funnel to separate an organic layer and hydrochloric acid was 
+added to the aqueous layer to adjust the pH of the aqueous layer to pH3.
+The aqueous layer was extracted with ethyl acetate and ethyl acetate was
+washed with water. From the quantitative analysis of the ethyl acetate
+solution using the gas chromatography, it was found that
+N-methoxycarbonyl sarcosine was produced at the yield of 90.5%.</p><heading><b>EXAMPLE 10</b></heading><p num="0070">After 50ml of 2M-NaOH aqueous solution and 7.1g (0.10 mol) of glycin
+were charged in a 200mL four-necked glass flask having a reflux condenser,
+a thermometer, a nitrogen inlet adapter, and an agitator and were stirred
+at room temperature so that the glycin can be completely dissolved in the
+solution to prepare a solution of glycin sodium salt. Sequentially, 45.6g
+(0.30 mol) of methylphenyl carbonate was added to the solution and was
+allowed to react with it at 50°C for eight hours under stirring vigorously.
+Thereafter, the reaction mixture was poured into a separating funnel to
+separate an organic layer and hydrochloric acid was added to the aqueous
+layer to adjust the pH of the aqueous layer to pH3. The aqueous layer was
+extracted with ethyl acetate and ethyl acetate was washed with water.
+From the quantitative analysis of the ethyl acetate solution using the gas
+chromatography, it was found that N-methoxycarbonyl glycin was
+produced at the yield of 91.4%.</p><heading><b>EXAMPLE 11</b></heading><p num="0071">After 50ml of 2M-NaOH aqueous solution and 8.9g (0.10 mol) of
+L-alanine were charged in a 200mL four-necked glass flask having a reflux
+condenser, a thermometer, a nitrogen inlet adapter, and an agitator and
+were stirred at room temperature so that the L-alanine can be completely 
+dissolved in the solution to prepare a solution of L-alanine sodium salt.
+Sequentially, 45.6g (0.30 mol) of methylphenyl carbonate was added to the
+solution and was allowed to react with it at 50°C for eight hours under
+stirring vigorously. Thereafter, the reaction mixture was poured into a
+separating funnel to separate an organic layer and hydrochloric acid was
+added to the aqueous layer to adjust the pH of the aqueous layer to pH3.
+The aqueous layer was extracted with ethyl acetate and ethyl acetate was
+washed with water. From the quantitative analysis of the ethyl acetate
+solution using the gas chromatography, it was found that
+N-methoxycarbonyl L-alanine was produced at the yield of 91.5%.</p><heading><b>COMPARATIVE EXAMPLE 1</b></heading><p num="0072">After air was substituted with nitrogen in a 200mL four-necked glass
+flask having a reflux condenser, a thermometer, a nitrogen inlet adapter, a
+dropping funnel, and an agitator, 54.0g (0.60 mol) of dimethyl carbonate
+and 58.8g of methanol were charged in the flask and then 11.6g (0.10 mol)
+of 1,6-hexamethylenediamine was dropped therein under stirring at room
+temperature. Thereafter, those was allowed to react with each other at
+70°C for sixteen hours and, thereafter, a part of the reaction mixture was
+taken for sampling and the sample was titrated potentiometrically with 1N
+hydrochloric acid. The result was that the 1,6-hexamethylenediamine
+conversion rate was 71.9%. Also, from the quantitative analysis of the
+reaction mixture using the gas chromatography, it was found that
+1,6-bis(methoxycarbonylamino)hexane was produced at the yield of 41.6%.
+It was also found that 5.6% of N-methyl compound was produced.</p><heading><b>EXAMPLE 12</b></heading><p num="0073">A 500mL flask having a capillary, a thermometer and a fractioning
+column with a condenser was used as the reactor vessel. With hot water
+of 60°C flown through the condenser, a receiver is connected with a vacuum
+line through a cold trap cooled with cold ethanol. After the reaction
+mixture of 1,6-bis(methoxycarbonylamino)hexane obtained in Example 1
+was poured into the flask, the flask was set in an oil bath. Then, the flask
+was reduced in pressure to 0.67kPa and the oil bath was increased in
+temperature to 90°C, to distill away a volatile portion of the reaction
+mixture, such as unreacted methylphenyl carbonate and the by-product of
+phenol.</p><p num="0074">Then, after the pressure in the reaction system was returned to the
+normal pressure, 100g of Therm S 1000S (available from Nippon Steel
+Chemical Co., Ltd.) and 0.15g of dibutyltin dilaurate were charged in the
+flask. Then, the reaction system was substituted with nitrogen and then
+was reduced in pressure to 3.3kPa and the oil bath was increased in
+temperature to 250°C, so that the contents are allowed to be decomposed
+for an hour. From the quantitative analysis of the distillate collected in
+the receiver using a gas chromatography after the end of the reaction, it
+was found that 12.5g (74.1%) of 1,6-hexamethylenediisocyanate and 4.6g
+(23.0%) of monoisocyanate were produced.</p><heading><b>EXAMPLE 13</b></heading><p num="0075">The 1,6-bis(methoxycarbonylamino)hexane obtained in Example 2
+was subjected to the thermal decomposition reaction in the same manner
+as in Example 12 to obtain 12.6g (74.9%) of 1,6-hexamethylenediisocyanate
+and 4.4g (22.0%) of monoisocyanate. </p><heading><b>EXAMPLE 14</b></heading><p num="0076">The 1,3-bis(methoxycarbonylaminomethyl)cyclohexane obtained in
+Example 4 was subjected to the thermal decomposition reaction in the
+same manner as in Example 12 to obtain 14.2g (73.1%) of
+1,3-bis(isocyanatomethyl)cyclohexane and 4.7g (20.9%) of monoisocyanate.</p><heading><b>COMPARATIVE EXAMPLE 2</b></heading><p num="0077">After air was substituted with nitrogen in a 300mL four-necked glass
+flask having a reflux condenser, a thermometer, a nitrogen inlet adapter, a
+dropping funnel, and an agitator, 11.6g (0.10 mol) of
+1,6-hexamethylenediamine and 72.0g (0.80 mol) of dimethyl carbonate
+were charged in the flask. The flask was increased in temperature to 70°C,
+while the contents are stirred. Sequentially, 1.5g of 28% methanol
+solution of sodium methylate was added for 30 minutes. Further, those
+were allowed to react with each other at 70°C for an hour and, thereafter, a
+part of the reaction mixture was taken for sampling and the sample was
+titrated potentiometrically with 1N hydrochloric acid. The result was that
+the 1,6-hexamethylenediamine conversion rate was 99.5%. Also, from the
+quantitative analysis of the reaction mixture using the gas chromatography,
+it was found that 1,6-bis(methoxycarbonylamino)hexane was produced at
+the yield of 99.5%.</p><p num="0078">Then, the 1,6-bis(methoxycarbonylamino)hexane thus obtained was
+thermally decomposed in the following manner. A 500mL flask having a
+capillary, a thermometer, a fractioning column with a condenser was used
+as the reactor vessel. With hot water of 60°C flown through the condenser,
+a receiver is connected with a vacuum line through a cold trap cooled with 
+cold ethanol. After the reaction mixture of
+1,6-bis(methoxycarbonylamino)hexane obtained was poured into the flask,
+the flask was set in an oil bath. Then, the flask was reduced in pressure
+to 0.67kPa and the oil bath was increased in temperature to 90°C, to distill
+away a volatile portion of the reaction mixture, such as unreacted methyl
+carbonate and the by-product of methanol.</p><p num="0079">Then, after the pressure in the reaction system was returned to the
+normal pressure, 100g of Therm S 1000S (available from Nippon Steel
+Chemical Co., Ltd.) and 0.15g of dibutyltin dilaurate were charged in the
+flask. Then, the reaction system was substituted with nitrogen and then
+was reduced in pressure to 3.3kPa and the oil bath was increased in
+temperature to 250°C. This condition was kept for an hour. During the
+time, it was found that the 1,6-hexamethylenediisocyanate was not
+distilled and some solid compound was produced in the flask.</p><p num="0080">While the illustrative embodiments of the present invention are
+provided in the above description, such is for illustrative purpose only and
+it is not to be construed restrictively. Modification and variation of the
+present invention that will be obvious to those skilled in the art is to be
+covered by the following claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A method for producing carbamates, wherein nonaromatic amine
+selected from the group consisting of aliphatic amine, alicyclic amine, and
+aralkyl amine is allowed to react with alkylaryl carbonate as is expressed
+by the following general formula (1):
+R1OCOOR2
+(where R1 represents an alkyl group and R2 represents an aryl group that
+may have a substituent group).</claim-text></claim><claim num="2"><claim-text>The method for producing carbamates according to Claim 1, wherein
+the alkylaryl carbonate is methylphenyl carbonate.</claim-text></claim><claim num="3"><claim-text>The method for producing carbamates according to Claim 1, wherein
+crude material containing at least 1 weight% of alkylaryl carbonate
+obtained by an ester exchange reaction of dialkyl carbonate with phenol or
+derivative thereof is used as the alkylaryl carbonate.</claim-text></claim><claim num="4"><claim-text>The method for producing carbamates according to Claim 1, wherein
+the nonaromatic amine is at least one compound selected from the group
+consisting of 1,6-hexamethylenediamine, isophorone diamine,
+1,3-bis(aminomethyl)cyclohexane, 1,4-bis(aminomethyl)cyclohexane,
+4,4' -methylenebis(cyclohexaneamine), 2,5-bis(aminomethyl)bicyclo [2,2,1]
+heptane, 2,6-bis(aminomethyl)bicyclo [2,2,1] heptane, 1,3-bis(aminomethyl)
+benzene and 1,4-bis(aminomethyl) benzene.</claim-text></claim><claim num="5"><claim-text>The method for producing carbamates according to Claim 1, wherein
+the nonaromatic amine is amino acid and derivative thereof.</claim-text></claim><claim num="6"><claim-text>A method for producing isocyanates which comprises the step of
+producing carbamates by reacting nonaromatic amine selected from the
+group consisting of aliphatic amine, alicyclic amine, and aralkyl amine with
+alkylaryl carbonate expressed by the following general formula (1), and the
+step of producing isocyanates by thermally decomposing the carbamates
+obtained:
+R1OCOOR2
+(where R1 represents an alkyl group and R2 represents an aryl group that
+may have a substituent group).</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

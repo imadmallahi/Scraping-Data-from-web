@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1090682-A1" country="EP" doc-number="1090682" kind="A1" lang="EN" family-id="17717157" status="new" date-produced="20090516" date="20010411"><bibliographic-data><publication-reference ucid="EP-1090682-A1" status="new" fvid="23094690"><document-id status="new" format="original"><country>EP</country><doc-number>1090682</doc-number><kind>A1</kind><date>20010411</date></document-id></publication-reference><application-reference ucid="EP-00121883-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00121883</doc-number><kind>A</kind><date>20001006</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-28742499-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>28742499</doc-number><kind>A</kind><date>19991007</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B01J  23/54        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01J  23/652       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01J  23/76        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  23/85        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01J  23/88        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  23/882       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  23/883       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  23/89        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  23/89        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  27/14        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01J  27/18        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01J  32/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01J  32/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B01J  35/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  35/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  37/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  37/03        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10G  45/02        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10G  45/08        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10G  45/10        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  45/44        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  45/50        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  45/52        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  47/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  47/04        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  47/14        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  49/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  49/04        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  49/06        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10G  65/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10G  65/02        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B01J  23/882</classification-symbol><classification-symbol scheme="EC">B01J  23/883</classification-symbol><classification-symbol scheme="EC">B01J  23/889M</classification-symbol><classification-symbol scheme="EC">B01J  23/88G16</classification-symbol><classification-symbol scheme="EC">B01J  23/89G18</classification-symbol><classification-symbol scheme="EC">B01J  35/00D</classification-symbol><classification-symbol scheme="EC">B01J  37/03B2</classification-symbol><classification-symbol scheme="EC">C10G  45/08</classification-symbol><classification-symbol scheme="EC">C10G  65/02</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Wasserstoffbehandlungskatalysator und dessen Einsatz in der Hydrobehandlung von Kohlenwasserstoffölen</invention-title><invention-title load-source="ep" status="new" lang="EN">Hydrotreating catalyst and process for hydrotreating hydrocarbon oils using the same</invention-title><invention-title load-source="ep" status="new" lang="FR">Catalyseur d'hydrotraitement et procédé d'hydrotraitement d'huiles hydrocarbonées l'utilisant</invention-title><citations><patent-citations><patcit ucid="EP-0448117-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0448117</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0512835-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0512835</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-3278840-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>3278840</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="Y"/></sources></patcit><patcit ucid="JP-6226101-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>6226101</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="Y"/></sources></patcit><patcit ucid="US-4287050-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4287050</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5152885-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5152885</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN vol. 016, no. 098 (C-0918), 11 March 1992 (1992-03-11) &amp; JP 03 278840 A (COSMO SOGO KENKYUSHO:KK;OTHERS: 01), 10 December 1991 (1991-12-10)</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN vol. 018, no. 597 (C-1273), 15 November 1994 (1994-11-15) -&amp; JP 06 226101 A (SEKIYU SANGYO KASSEIKA CENTER;OTHERS: 01), 16 August 1994 (1994-08-16)</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>TONEN CORP</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>TONEN CORPORATION</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Tonen Corporation</last-name><address><street>1-1,Hitotsubashi, 1-Chome Chiyoda-Ku</street><city>Tokyo</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>HASHIMOTO TAKAO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>HJIMA MASAHIKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>ISODA TAKESHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>OKAYASU YOSHINOUBA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HASHIMOTO, TAKAO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HJIMA, MASAHIKO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>ISODA, TAKESHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>OKAYASU, YOSHINOUBA</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>HASHIMOTO, TAKAO</last-name><address><street>210-4 Chaza-Imaizumi</street><city>Higashimatuyama, 355-0042</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>HJIMA, MASAHIKO</last-name><address><street>Cosmo Fujimino s-712, 514-5 Ohi, Ohi-machi</street><city>Iruma-gun, Saitama, 356-0053</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>ISODA, TAKESHI</last-name><address><street>1-1-11-5 Tohoku, Nilza</street><city>Saitana, 352-0001</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>OKAYASU, YOSHINOUBA</last-name><address><street>2-14-14 Midorigaoka, Ohi-machi</street><city>Iruma-gun, Saltama, 356-0053</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Dew, Melvyn John</last-name><address><street>ExxonMobil Chemical Europe Inc. Law Technology P.O.Box 105</street><city>1830 Machelen</city><country>BE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>BE</country><country>DE</country><country>FR</country><country>GB</country><country>IT</country><country>NL</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A high-activity hydrotreating catalyst containing a uniformly dispersed active
+component at a high concentration, and particularly useful for deep desulfurization of a
+hydrocarbon oil for its high hydrodesulfurization activity. The present invention also
+provides a hydrotreating process using the same catalyst.
+<img id="img-00000001" orientation="unknown" wi="107" img-format="tif"  img-content="ad" file="00000001.tif" inline="no" he="72"/></p></abstract><description load-source="ep" status="new"  lang="EN"><heading><u style="single">CROSS REFERENCE TO RELATED APPLICATIONS</u></heading><p num="0001">This application claims priority to Japanese Patent Application No. 287424/1999, filed
+October 7, 1999, which is incorporated herein by reference.</p><heading><u style="single">FIELD OF THE INVENTION</u></heading><p num="0002">This invention relates to a catalyst for hydrotreating and a process for hydrotreating
+hydrocarbon oils using the same, more particularly to the multi-component solid catalyst
+with a hydrogenation-active component dispersed uniformly in a matrix of refractory,
+inorganic oxide, and the process for hydro-treating hydrocarbon oils using the same.</p><heading><u style="single">BACKGOUND OF THE INVENTION</u></heading><p num="0003">Various types of catalysts have been proposed for hydrotreating hydrocarbon oils, e.g.,
+those with one or more hydrogenation-active components carried by a refractory inorganic
+oxide (e.g., alumina, silica, magnesia and zirconia), and the hydrogenation-active component
+is selected from the group consisting of the group 6A elements (e.g., molybdenum, tungsten
+and chromium) and the group 8 elements (e.g., cobalt and nickel).</p><p num="0004">One of the widely used methods for producing these catalysts is impregnation, in
+which a carrier is impregnated with an aqueous solution of a group 6A element and group 8
+element, dried and calcined. One of the disadvantages involved in the impregnation method
+is difficulty in dispersing the active component highly uniformly, because it is highly mobile
+during the catalyst production process from adsorption or precipitation to completion of
+drying. This mobility comes from the weak bond between the active component and carrier,
+because the carrier is impregnated, after it is prepared, with a solution of the active
+component, with the result that it is merely adsorbed or precipitated on the carrier.</p><p num="0005">Other disadvantages are limited content of the active component and difficulty in
+controlling the content in an optimum range. The active component is immobilized on the 
+already prepared carrier, by which is meant that content of the active component tends to be
+limited by total pore volume of the carrier.</p><p num="0006">The conventional catalyst, therefore, tends to suffer lack of homogeneity and
+decreased number of active sites, when content of the active component is optimized to
+enhance catalyst hydrotreating activity. This tends to limit its activity. Therefore, new
+techniques for the catalysts of high homogeneity and activity have been increasingly in
+demand. As one of the attempts to realize such a catalyst, Japanese Laid-open Patent
+Application No. 83603/1986 discloses a method for producing a homogeneous, amorphous
+complex metal oxide. This method, however, involves several disadvantages. First,
+satisfying the amorphous condition tends to limit content of the hydrogenation-active
+component, and hence catalyst activity for hydrotreating. A carrier containing crystalline
+compound, e.g., α-Al<sub>2</sub>O<sub>3</sub>, which has an effective function as the carrier for hydrotreating
+catalyst is no longer used for this method. An amorphous metal oxide is unstable and low in
+mechanical strength, and hence unsuitable for a commercial catalyst which is required to
+exhibit long serviceability.</p><p num="0007">Recently, reduction of sulfur content of gas oil is strongly required for environmental
+reasons, especially by deep desulfurization of stocks of high sulfur contents, e.g., light gas
+oil (LGO), vacuum gas oil (VGO) and cracked gas oil. In particular, sulfur content of diesel
+fuel oil is required to be reduced to 0.05 wt.% or lower. The techniques to achieve the
+required desulfurization level have been studied from wide angles, and it is now considered
+that whether this is achieved or not largely depends on whether sulfur compounds difficult to
+remove, e.g., 4-methyl dibenzothiophene and 4-6-dimethyl dibenzothiophene, are efficiently
+desulfurized. Development of catalysts of higher activity is essential also viewed from the
+above point.</p><p num="0008">It would be desirable to provide a high-activity hydrotreating catalyst, with a
+hydrogenation-active component highly dispersed, high in homogeneity and containing a
+crystalline component, which is also high in desulfurization activity for hydrotreating
+hydrocarbon oil, and also excellent in activity for, e.g., denitrogenation, dearomatization and
+cracking and which can treat diversified types of hydrocarbon oils, e.g.,
+hydrodesulfurization, hydrodenitrogenation, hydrodearomatization, hydroisomerization, 
+hydrocracking, hydrodewaxing, hydrodemetallization, in particular deep
+hydrodesulfurization of a diesel fuel fraction.</p><heading><u style="single">SUMMARY OF THE INVENTION</u></heading><p num="0009">The inventors of the present invention have found, after having conducted extensive
+studies, that the catalyst comprising a refractory inorganic oxide matrix dispersed with a
+hydrogenation-active component, high in homogeneity and containing a crystalline
+component shows high activity for hydrotreating (e.g., hydrodesulfurizing) a hydrocarbon
+oil.</p><p num="0010">The present invention provides a hydrotreating catalyst containing a crystalline
+component comprising a refractory inorganic oxide matrix dispersed with a hydrogenation-active
+component, said hydrogenation-active component comprising at least one active
+component (A) selected from group 6A elements, and/or at least one active component (B)
+selected from the group 8 elements, wherein
+<sl><li>(1) total content of said hydrogenation-active component is 0.02 moles to 0.4 moles per
+mole of all of the elements that constitute the catalyst,</li><li>(2) of said hydrogenation-active component, any one, when present at 0.002 mol/mol or
+more, satisfies the following relationship (1), established by the electron probe
+microanalysis ("EPMA") line analysis:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/"  align="center">N<st32:sub pos="post">max</st32:sub> - N<st32:sub pos="post">min</st32:sub> ≤ 2×[3×(N<st32:sub pos="post">0</st32:sub>)<st32:sup pos="post">0.5</st32:sup>+0.2×N<st32:sub pos="post">0</st32:sub>]</st32:df>
+(N<sub>max</sub>, N<sub>min</sub> and N<sub>0</sub> are the maximum, minimum and average contents of the
+hydrogenation-active component, determined by the EPMA line analysis), or following
+relationship (2) , established by the EPMA plane analysis:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/"  align="center">0.8 ≤ S parameter &lt; 1, 0.8 ≤ P parameter &lt; 1</st32:df>
+(S parameter and P parameter are an index for size uniformity and distribution of the
+active component particles, respectively, determined by the EPMA plane analysis), and</li><li>(3) one or more diffraction lines relevant to crystalline component are observed by powder
+X-ray diffraction analysis.</li></sl></p><p num="0011">The present invention also provides a process for hydrotreating a hydrocarbon oil,
+where the oil is brought into contact with hydrogen under hydrotreating conditions in the
+presence of the above hydrotreating catalyst.</p><heading><u style="single">BRIEF DESCRIPTION OF DRAWINGS</u></heading><p num="0012"><sl><li>Fig. 1 is an X-ray diffraction pattern of the hydrotreating catalyst prepared by
+EXAMPLE 2.</li><li>Fig. 2 is an X-ray diffraction pattern of the hydrotreating catalyst prepared by
+COMPARATIVE EXAMPLE 3.</li></sl></p><heading><u style="single">DETAILED DESCRIPTION OF THE INVENTION</u></heading><p num="0013">The hydrotreating catalyst of the present invention comprises a refractory inorganic
+oxide matrix uniformly dispersed with a hydrogenation-active component, high in
+homogeneity and containing a crystalline component and satisfying the following conditions
+(1), (2) and (3):
+<sl><li>(1) First, total content of said hydrogenation-active component is 0.02moles to 0.4 moles
+per mole of all of the elements that constitute the catalyst. When two or more
+hydrogenation-active components are present, the total content is expressed as the sum
+content of the components.</li><li>(2) Secondly, of said hydrogenation-active component, any one, when present at 0.002
+mol/mol or more, satisfies the following relationship (1), established by the EPMA line
+analysis:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">N<st32:sub pos="post">max</st32:sub> - N<st32:sub pos="post">min</st32:sub> ≤ 2×[3×(N<st32:sub pos="post">0</st32:sub>)<st32:sup pos="post">0.5</st32:sup>+0.2×N<st32:sub pos="post">0</st32:sub>]</st32:df>
+or following relationship (2), established by the EPMA plane analysis:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">0.8 ≤ S parameter &lt; 1, 0.8 ≤ P parameter &lt; 1</st32:df>
+The hydrotreating catalyst is able to exhibit high uniformity, when each of its active
+components satisfies the relationship (1) or (2), </li><li>(3) Thirdly, one or more diffraction lines relevant to crystalline component are observed by
+powder X-ray diffraction analysis.</li></sl></p><p num="0014">In the relationship (1), N<sub>max</sub>, N<sub>min</sub> and N<sub>0</sub> are the maximum, minimum and average
+contents of the hydrogenation-active component in the variation range, determined by the
+EPMA line analysis.</p><p num="0015">The compounds useful for the refractory inorganic matrix as the constituent of the
+hydrotreating catalyst of the present invention include alumina, silica, magnesia, calcium
+oxide, boria, zirconia, titania, thoria, ceria, hafnia, phosphorus oxide, and various other metal
+oxides. In particular, oxide compositions having two or more oxides can be used. These
+include alumina-silica, alumina-magnesia, alumina-boria, alumina-zirconia, alumina-thoria,
+alumina-titania-zirconia, silica-magnesia, silica-zirconia, silica-boria, silica-thoria and silica-titania.</p><p num="0016">The preferable refractory inorganic oxide matrix for the present invention comprises
+alumina and silica, which may be incorporated with a third component, e.g., magnesia, boria,
+titania, zirconia, ceria, hafnia, thoria and phosphorus oxide. More concretely, these
+composites include alumina-silica-boria, alumina-silica-titania, alumina-silica-zirconia,
+alumina-silica-ceria, alumina-silica-magnesia, alumina-silica-halfnia, alumina-silica-phosphorus
+oxide and alumina-silica-boria-phosphorus oxide.</p><p num="0017">The above refractory inorganic oxide matrix of alumina, silica or alumina-silica may
+be incorporated with a zeolite or clay material, e.g., montmorillonite, kaolinite, halloysite,
+bentonite and attapulgite, to form the refractory inorganic oxide matrix component.</p><p num="0018">The hydrogenation-active component which constitutes the hydrotreating catalyst of
+the present invention is uniformly dispersed in the above refractory inorganic oxide matrix.</p><p num="0019">The hydrogenation-active component comprises at least one active component (A)
+selected from the group consisting of the group 6A elements, and/or at least one active
+component (B) selected from the group consisting of the group 8 elements. It may be further 
+incorporated with an active component (C) selected from the group consisting of the group
+1B, group 2B and group 7A elements.</p><p num="0020">The group 6A elements useful for the active component (A) include chromium,
+molybdenum and tungsten, of which molybdenum and tungsten are more preferable.
+Molybdenum is most preferable. They may be used either individually or in combination.</p><p num="0021">The elements useful for the active component (B) include iron, cobalt, nickel,
+ruthenium, rhodium, palladium, osmium, iridium and platinum, of which cobalt, nickel,
+ruthenium, rhodium, palladium, iridium and platinum are preferable. More preferable active
+components include cobalt, nickel and platinum. Cobalt and nickel are most preferable.
+They may be used either individually or in combination.</p><p num="0022">The elements useful for the active component (C), selected from the group 1B, group
+2B and group 7A elements, include copper, zinc, manganese and rhenium. They may be
+used individually, but preferably in combination with the active components (A) and (B).</p><p num="0023">Total content of the active components (A), (B) and (C) for the hydrotreating catalyst
+of the present invention is 0.02moles to 0.4 moles per mole of all of the elements that
+constitute the catalyst, preferably 0.024mol/mol to 0.25 mol/mol. Reaction activity or the
+like of the catalyst will be insufficient at an active component content below 0.02 mol/mol.
+Securing the content within the above range realizes the catalyst high in homogeneity,
+containing a crystalline component and hence high in activity.</p><p num="0024">Next, homogeneity of the hydrotreating catalyst of the present invention is described.</p><p num="0025">"Homogeneity" of the hydrotreating catalyst of the present invention means that the
+refractory inorganic oxide matrix is uniformly dispersed with the active component particles
+of uniform size. More concretely, the following conditions are simultaneously satisfied:
+<sl><li>(1) the particles of the hydrogenation-active component, comprising the active
+components (A), (B) and (C), to be dispersed in the refractory inorganic oxide matrix
+are uniformly sized, and</li><li>(2) these particles are dispersed at constant intervals.</li></sl></p><p num="0026">The catalyst will have high activity, when the active component particles are highly
+uniform in size and dispersed highly uniformly (i.e., at constant intervals), because it will
+have the active sites distributed widely and uniformly.</p><p num="0027">Homogeneity of the hydrotreating catalyst of the present invention is determined by
+electron probe microanalysis (referred to as "EPMA", as required). More concretely, EPMA
+line analysis or plane analysis is used, depending on size of the active component particles
+and distance between these particles, and the results are used to determine homogeneity.</p><p num="0028">EPMA line analysis determines concentration distribution of the active component of
+the group 6A element and/or group 8 element or the like in the catalyst section, trying to
+evaluate homogeneity based on the EPMA line analysis data obtained by numerically
+expressing variation range. The inventors of the present invention have found, after having
+analyzed a number of experimental results, that a catalyst is highly homogeneous and shows
+notable effects of hydrotreating, e.g., hydrodesulfurization, when it satisfies the following
+relationship:</p><p num="0029">The relationship (1) is expressed as follows:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">N<st32:sub pos="post">max</st32:sub> - N<st32:sub pos="post">min</st32:sub> ≤ 2×[3×(N<st32:sub pos="post">0</st32:sub>)<st32:sup pos="post">0.5</st32:sup>+0.2×N<st32:sub pos="post">0</st32:sub>]</st32:df>
+wherein N<sub>max</sub>, N<sub>min</sub> and N<sub>0</sub> are the maximum, minimum and average contents of the
+hydrogenation-active component in the variation range of the catalyst section, determined by
+EPMA line analysis.</p><p num="0030">Any hydrogenation-active component is to be evaluated by the EPMA line analysis
+when it is present at 0.002 mol/mol or more in the catalyst. When two or more types of the
+hydrogenation-active components are present, each is to be evaluated, needless to say when
+one type of the hydrogenation-active component is present. The inventors of the present
+invention have found that activity of the catalyst is not greatly affected by its homogeneity,
+when the hydrogenation-active component is present at below 0.002 mol/mol. Therefore,
+activity of the catalyst for, e.g., desulfurization, can be sufficiently evaluated, when
+homogeneity of each hydrogenation-active component present at 0.002 mol/mol or more is
+measured. The hydrogenation-active component includes the above-described active 
+components (A), (B) and (C). Each component should satisfy the relationship (1), when it is
+present at 0.002 mol/mol or more.</p><p num="0031">On the other hand, the EPMA plane analysis measures size and size distribution
+morphology of the active component particles, processing images to numerically express
+uniformity of the size and its distribution.</p><p num="0032">It is found by the plane analysis that a catalyst is highly homogeneous and shows
+notable effects of hydrodesulfurization, when it satisfies the following relationship:</p><p num="0033">The relationship (2) is expressed as follows:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">0.8 ≤ S parameter &lt; 1, 0.8 ≤ P parameter &lt; 1</st32:df>
+wherein S parameter and P parameter are an index for size uniformity and distribution
+uniformity of the active component particles, respectively, each determined by processing
+the images obtained by the EPMA plane analysis.</p><p num="0034">S parameter is determined by processing the EPMA plane images using an image
+analysis free software NIH Image, and given by the following formula:
+<img id="img-00080001" orientation="unknown" wi="88" img-format="tif" img-content="mf" file="00080001.tif" inline="no" he="16"/>
+wherein (n) is number of the active component particles, and (ai) is an area of the i<sup>th</sup> particle
+present in the plane.</p><p num="0035">P parameter is also determined by processing the EPMA plane images using an image
+analysis free software NIH Image, and given by the following formula:
+<img id="img-00080002" orientation="unknown" wi="89" img-format="tif" img-content="mf" file="00080002.tif" inline="no" he="15"/>
+wherein (m) is number of the divided sections of the same area, and (bi) is an area of the i<sup>th</sup>
+section. </p><p num="0036">Next, crystallinity of the hydrotreating catalyst of the present invention is described.
+The hydrotreating catalyst of the present invention contains a crystalline component, which
+represents another characteristic of the present invention together with its homogeneity. Its
+presence is judged when one or more diffraction lines are observed in the spectral pattern
+obtained by X-ray diffraction analysis (XRD). A concrete example is given in Figure 1,
+which shows the XRD spectral pattern of the catalyst prepared by EXAMPLE 2. As shown,
+the sharp peaks relevant to the crystalline system are observed at specific diffraction angles.
+Figure 2, on the other hand, gives the XRD spectral pattern of the catalyst prepared by
+COMPARATIVE EXAMPLE 3, showing no crystal-derived diffraction line, indicating that
+the catalyst is amorphous.</p><p num="0037">A catalyst, when containing a crystalline component, shows higher activity because of
+its capacity to contain a larger quantity of the active component. It will show still higher
+activity, when it contains a component having a crystalline compound such as α-Al<sub>2</sub>O<sub>3</sub>
+known to exhibit an effective function as a refractory inorganic oxide. Moreover, a
+crystalline component will secure a sufficient strength, and hence serviceability, for a
+commercial hydrotreating catalyst.</p><p num="0038">Next, the method for producing the hydrotreating catalyst of the present invention is
+described. The method for producing the catalyst is not limited, but the one suitable for the
+present invention is coprecipitation, which simultaneously precipitates two or more catalyst
+components from a mixture which contains at least one hydrogenation-active component.</p><p num="0039">More concretely, the process comprising the following steps can be used:
+<sl><li>(1) oxygenated organometallic compounds as the starting materials for the refractory
+inorganic oxide matrix and inorganic metal salt as the starting material for the
+hydrogenation-active component are dissolved in a non-aqueous solvent, to prepare a
+homogeneous solution,</li><li>(2) a precipitant-containing solution is added to the homogeneous solution prepared by the
+step (1), to prepare a gel slurry from the homogeneous sol,</li><li>(3) the gel slurry prepared by the step (2) is aged, and</li><li>(4) the aged gel is dried and calcined.</li></sl></p><p num="0040">The compounds useful as the starting material for the refractory inorganic oxide
+matrix include alkoxides, acetylacetonates and carboxylates of aluminum, silicon,
+magnesium, calcium, boron, zirconium, titanium, thorium, cerium, hafnium and gallium, of
+which alkoxides with an alkoxyl group having a carbon number of 1 to 5 are preferable for
+their easiness of handling. These include aluminum methoxide, aluminum ethoxide,
+aluminum isopropoxide, aluminum butoxide, tetramethoxy silane, tetraethoxy silane,
+tetraisopropoxy silane, tetra-t-butoxy silane, magnesium methoxide, magnesium ethoxide,
+magnesium isopropoxide, calcium methoxide, boron methoxide, boron ethoxide, zirconium
+ethoxide, zirconium propoxide, zirconium-sec-butoxide, titanium ethoxide, titanium
+isopropoxide and hafnium ethoxide.</p><p num="0041">The compounds useful as the starting materials for the hydrogenation-active
+component include the inorganic metal salts described earlier. More concretely, they include
+nitrates, chlorides, oxychlorides and sulfides of molybdenum, tungsten, chromium, iron,
+cobalt, nickel, ruthenium, rhodium, palladium, osmium, iridium, platinum, copper, zinc,
+manganese and rhenium; and ammonium salts of the acids of the above metals. In addition
+to the above inorganic metal salts, organic metal salts, e.g., acetates, oxalates and alkoxides,
+may be also used.</p><p num="0042">The non-aqueous solvents useful for the present invention include monoalcohols,
+divalent alcohols, ketoalcohols, aminoalcohols and carboxylic acids. Quantity of the
+reaction material may be determined, depending on content of the desired catalytic
+component.</p><p num="0043">In the step (1), the homogeneous solution can be prepared by dissolving oxygenated
+organometallic compounds (e.g., aluminum alkoxide and silicon alkoxide) in a non-aqueous
+solvent with stirring, to which an inorganic metal salt (e.g., ammonium molybdate, or nitrate
+of cobalt or nickel) is added with stirring, to form the homogeneous solution. Aqueous
+solutions of ammonium molybdate, and nitrate of cobalt or nickel, or the like may be added
+in the subsequent step (2) to the homogeneous solution prepared in the step (1) by dissolving
+aluminum alkoxide and silicon alkoxide in a non-aqueous solvent with stirring. The hydro-treating
+catalyst of the present invention, high in homogeneity, containing a crystalline
+component and satisfying the relationship (1) or (2) described earlier can be produced by, in 
+particular, controlling, e.g., temperature, pressure, stirring conditions, size of the gel
+particles, gel particle concentration, and quantity of hydrolyzing water in the precipitant
+solution, in the step (2) as the sol-preparation step.</p> <p num="0044">In the step (1), the non-aqueous solvent is preferably used at 0.1 moles to 50 moles per
+mole of the total metallic and semi-metallic elements and phosphorus which constitute the
+hydrotreating catalyst, more preferably 1 mol/mol to 20 mol/mol. It is essential to avoid use
+of an excessive quantity of the solvent while controlling the reaction conditions in such a
+way to form the stable, fluid gel slurry, in order to prepare the catalyst of high homogeneity.</p><p num="0045">In the aging step (3), the gel slurry is held at 50°C to 99°C preferably for at least 1
+hour. This aging step mainly controls pore characteristics of the catalyst, to enhance its
+reaction activity.</p><p num="0046">The aged gel slurry as the catalyst precursor is treated by filtration, settling, centrifugal
+separation or evaporation to adjust content of the water-containing solvent, and formed into a
+shape by tablet making, extrusion, rotary granulation or the like. The catalyst may be
+cylindrical, table-shaped, spherical or others, such as that having a four-leaf section. It is
+important for the catalyst to have a shape and size which allow to control packing density in
+the reactor. It is preferable to adjust size of the catalyst pellets, which is porous, for
+increasing packing density. Catalyst diameter is normally in a range from 0.5mm to 20 mm
+on the average, viewed from increasing packing density and controlling pressure loss.</p><p num="0047">The catalyst pellets formed in the step (3) are then dried and calcined in the step (4).
+They may be dried by one of many methods, e.g., air-drying, drying in hot wind, drying
+under heating and freeze drying. They are calcined at 150°C to 700°C at which they are held
+for 1hour to 20 hours in an oxidative, reducing, inert, sulfiding, nitriding, carbonizing or
+steam atmosphere depending on their specific purposes.</p><p num="0048">The hydrotreating catalyst of the present invention has a specific surface area of 10
+m<sup>2</sup>/g to 1000 m<sup>2</sup>/g (preferably 200 m<sup>2</sup>/g to 800 m<sup>2</sup>/g), total pore volume of 0.1ml/g to 2 ml/g
+(preferably 0.2 ml/g to 1.5 ml/g) and average pore diameter of 4Å to 1000Å (preferably 10Å 
+to 600Å), is high in homogeneity, contains a crystalline component, and is suitable as the
+catalyst for hydrotreating a hydro-carbon oil.</p> <p num="0049">The present invention provides a hydrotreating catalyst, applicable to all types of the
+reactions proceeding in the presence of hydrogen, in particular hydrofinishing,
+hydrodesulfurization, hydrodenitrogenation, hydrodearomatization, hydroisomerization,
+hydrocracking, hydrodewaxing, hydrodemetallization and the like. The process of the present
+invention for hydrotreating a hydrocarbon oil is described as follows.</p> <p num="0050">The hydrotreating process of the present invention includes all of the reactions, e.g.,
+hydrofining, hydrodesulfurization, hydrodenitrogenation, hydrodearomatization,
+hydroisomerization, hydrocracking, hydrodewaxing, hydrodemetallization, occurring when
+hydrocarbon oils are brought into contact with hydrogen in the presence of the hydrotreating
+catalyst of the present invention under hydrotreating conditions. The hydrotreating conditions
+can be optionally selected for the desired reactions. The hydrotreating catalyst of the present
+invention is particularly suitable for the hydrodesulfurization of hydrocarbon oils.</p> <p num="0051">Hydrocarbon oils which can be treated by the hydrotreating process of the present
+invention are not limited. They include petroleum-derived oils, e.g., atmospheric distillates,
+atmospheric residue, vacuum distillates, vacuum residue, cracked distillates, raffinates,
+hydrotreated oils, deasphalted oils, slack wax, Fischer-Tropsch wax and a mixture thereof.
+They also include oils derived from tar sand, shale oil, coal-liquefied oil, and a mixture
+thereof. The catalyst of the present invention is particularly suitable for treating vacuum,
+cracked and straight-run distillates to remove their sulfur- and nitrogen-containing
+compounds which are difficult to remove.</p><p num="0052">A vacuum distillate, produced by treating atmospheric residue under a vacuum, boils
+at around 370°C to 610°C, and contains significant quantities of sulfur, nitrogen and metals,
+e.g., at 2.0 wt.% and 800 wt.ppm for sulfur and nitrogen. The sulfur-containing compounds
+include 4-methylbenzothiophene and 4,6-dimethyl-benzothiophene. The nitrogen-containing
+compounds include pyridines, amines and amides which are basic, and pyrroles which are
+weakly basic. The metals include nickel, vanadium and iron. The catalyst produced by the 
+method of the present invention can treat these vacuum distillates most efficiently to remove
+sulfur and nitrogen.</p><p num="0053">Cracked distillates are the fractions boiling at around 200°C or higher, produced by
+thermal cracking (e.g., coking or visbreaking) of residue, or light cycle gas oil (LCGO) or
+heavy cycle gas oil (HCGO) produced by a fluid catalytic cracking unit.</p><p num="0054">The atmospheric distillates which can be treated by the hydrotreating process of the
+present invention include straight-run naphtha, heavy naphtha and kerosene fractions. They
+also include gasoline components produced by various cracking units, e.g., catalytically
+cracked naphtha, thermally cracked naphtha and steam-cracked naphtha, and other light
+fractions used as fuel components which boil at around 250°C or lower.</p><p num="0055">The hydrotreating conditions are not limited. They can be adequately selected for
+specific situations, e.g., type of hydrocarbon oil to be treated and desired reactions, and
+target desulfurization and denitrogenation levels. The preferable conditions are reaction
+temperature: 150°C to 500°C, more preferably 200°C to 450°C; reaction pressure: 1 kg/cm<sup>2</sup>
+to 350 kg/cm<sup>2</sup>, more preferably 5 kg/cm<sup>2</sup> to 300 kg/cm<sup>2</sup>; hydrogen-containing treat gas rate:
+30l/l to 2000 l/l, more preferably 35l/l to 1800 l/l; and liquid hourly space velocity: 0.01
+V/H/V to 20.0 V/H/V, more preferably 0.05 V/H/V to 10.0 V/H/V. They are most preferably
+250°C to 400°C as reaction temperature, 40 kg/cm<sup>2</sup> to 100 kg/cm<sup>2</sup> as reaction pressure,
+180l/l to 230 l/l as hydrogen-containing treat gas rate and 0.8 V/H/V to 1.5 V/H/V as liquid
+hourly space velocity. Hydrogen content in treat gas is normally in a range from 60% to
+100%.</p><p num="0056">The hydrotreating catalyst of the present invention exhibits high activities for, e.g.,
+desulfurization, denitrogenation and dearomatization and also high activity maintenance
+capacity therefor, and can achieve with stability required performance, e.g., desulfurization
+rate, for extended periods under the severe conditions which would deactivate the
+conventional catalyst in a short time, in particular under low reaction pressure.</p><p num="0057">Hydrotreatment of a hydrocarbon oil over the catalyst of the present invention can be
+effected in any type of reactor, e.g., fixed, fluidized, ebullated or moving bed type. A fixed 
+bed type is a normal choice, for its simpler process and higher operability. Two or more
+reactors may be connected in series for deeper hydrotreatment. This is a particularly
+preferable configuration, when heavy oil is to be treated. Hydrocarbon oil may be brought
+into contact with a hydrogen-containing treat gas either co-currently or counter-currently.</p><heading><u style="single">EXAMPLES</u></heading><p num="0058">The present invention is described more concretely by EXAMPLES, which by no
+means limit the present invention.</p><p num="0059">Homogeneity and crystallinity of the catalyst were analyzed by the following methods:</p><heading><u style="single">Homogeneity</u></heading><p num="0060">Homogeneity of the catalyst was determined by an electron probe microanalyzer
+(EPMA, Shimadzu's EPM-810Q) under the following conditions:
+<ul list-style="bullet"><li>Sample preparation
+
+The catalyst sample embedded in a polyester resin was cut to produce a smooth
+section, which was coated with carbon black.</li><li>Measurement conditions
+<dl compact="compact" tsize="21"><dt>Acceleration voltage</dt><dd>: 15 KV</dd><dt>Sample current</dt><dd>: 0.05 µA</dd><dt>Beam size</dt><dd>: 1 µm in diameter</dd><dt>Measurement lines</dt><dd>: Co-Kα, Mo-Kα, Ni-Kα, Zn-Kα, and Ru-Lα</dd></dl></li><li>EPMA line analysis : The catalyst was measured in the diametral
+direction at intervals of 1 µm steps.</li><li>EPMA plane analysis : Distribution of each element was analyzed in a
+square 200 by 140 µm.</li></ul></p><heading><u style="single">Crystallinity</u></heading><p num="0061">X-ray diffraction (XRD) spectral pattern. </p><p num="0062">The catalyst sample was analyzed by an X-ray diffractometer (Philips, goniometer,
+PW1820/00, high-voltage generator: PW1730/10, controller: PW1710/00, software:
+PW1877PC-APD ver. 3.6 g) under the following conditions:
+<dl compact="compact" tsize="19"><dt>Tube anode</dt><dd>: Cu</dd><dt>Generator tension</dt><dd>: 40 kV</dd><dt>Generator current</dt><dd>: 40 mA</dd><dt>Divergence slit</dt><dd>: AUTOMATIC</dd><dt>Receiving slit</dt><dd>: 0.2</dd><dt>Sample spinner</dt><dd>: ON</dd><dt>Monochrometer used</dt><dd>: YES</dd><dt>Start angle</dt><dd>: 20°</dd><dt>End angle</dt><dd>: 75°</dd><dt>Step size</dt><dd>: 0.02</dd><dt>Time per step</dt><dd>: 20</dd></dl></p><heading>EXAMPLE 1 (NCMSAH19)</heading><p num="0063">A homogeneous solution of 130.1 g of aluminum isopropoxide [Al(i-OC<sub>3</sub>H<sub>7</sub>)<sub>3</sub>]
+dissolved in 820.7 g of hexylene glycol was prepared with stirring at 80°C for 4 hours, to
+which 13.9 g of tetraethoxysilane [Si(OC<sub>2</sub>H<sub>5</sub>)<sub>4</sub>] was added with stirring at 80°C for 3 hours.</p><p num="0064">Then, 11.2 g of 12-molybdo-1-phosphoric acid [H<sub>3</sub>(PM<sub>12</sub>O<sub>40</sub>·6H<sub>2</sub>O)] and 2.3 g of
+nickel nitrate [Ni(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O)] were added to the above solution, with stirring at 80°C for
+17 hours, to prepare a homogeneous solution.</p><p num="0065">Pure water (98 ml) was added dropwise at 80°C to the above homogeneous solution at
+1ml/min, to prepare a slurry containing the precipitate formed as a result of hydrolysis.</p><p num="0066">On completion of the agitation, the slurry was allowed to stand for 88 hours, while
+kept at 90°C, for aging. On completion of the aging, the slurry was evaporated and
+solidified by a rotary evaporator, and calcined at 650°C in a flow of air, to prepare the
+catalyst NCMSAH19. Its chemical composition is given in Table 1. </p><p num="0067">The catalyst NCMSAH19 had a hydrogenation-active component at 0.051 mol/mol,
+and N<sub>max</sub>:812, N<sub>min</sub>:486 and N<sub>0</sub>:685 for the Mo component, N<sub>max</sub>:1370, N<sub>min</sub>: 899 and N<sub>0</sub>:
+1147 for the Co component, and N<sub>max</sub>: 366, N<sub>min</sub>: 171 and N<sub>0</sub>: 257 for the Ni component as
+the EPMA line analysis results. The N<sub>max</sub> ― N<sub>min</sub> (hereinafter referred to as [A]) and
+2×[3×(N<sub>0</sub>)<sup>0.5</sup> + 0.2×N<sub>0</sub> (hereinafter referred to as [B] of the relationship (1) were calculated
+for each of the Mo, Co and Ni components. The results are given in Table 7. As shown,
+each of these components satisfied the relationship (1). It had a diffraction line at 2 = 65.4°
+in the XRD pattern.</p><p num="0068">Tables 7 and 8 gives properties and reaction activities of the catalysts prepared in
+EXAMPLES and COMPARATIVE EXAMPLES, respectively.</p><heading>EXAMPLE 2 (NCMSAH23)</heading><p num="0069">A homogeneous solution of 116.4 g of aluminum isopropoxide [Al(i-OC<sub>3</sub>H<sub>7</sub>)<sub>3</sub>]
+dissolved in 849.9 g of hexylene glycol was prepared with stirring at 80°C for 4 hours, to
+which 12.4 g of tetraethoxysilane [Si(OC<sub>2</sub>H<sub>5</sub>)<sub>4</sub>] was added with stirring at 80°C for 3 hours.</p><p num="0070">Then, 14.0 g of 12-molybdo-1-phosphoric acid [H<sub>3</sub>(PM<sub>12</sub>O<sub>40</sub>·6H<sub>2</sub>O)], 14.0 g of cobalt
+nitrate [Co(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O)] and 2.3 g of nickel nitrate [Ni(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O)] were added to the
+above solution, with stirring at 80°C for 17 hours, to prepare a homogeneous solution.</p><p num="0071">Pure water (175 ml) was added dropwise at 80°C to the above homogeneous solution
+at 1ml/min, to prepare a slurry containing the precipitate formed as a result of hydrolysis.</p><p num="0072">On completion of the agitation, the slurry was allowed to stand for 88 hours, while
+kept at 90°C, for aging. On completion of the aging, the slurry was treated to remove the
+supernatant liquid, evaporated and solidified by a rotary evaporator, and calcined at 650°C in
+a flow of air, to prepare the catalyst NCMSAH23. Its chemical composition is given in Table
+1.</p><p num="0073">The catalyst NCMSAH23 had a hydrogenation-active component at 0.069 mol/mol,
+and N<sub>max</sub>: 1150, N<sub>min</sub>: 630 and N<sub>0</sub>: 925 for the Mo component, N<sub>max</sub>: 2104, N<sub>min</sub>: 1250 and
+N<sub>0</sub>: 1627 for the Co component, and N<sub>max</sub>: 378, N<sub>min</sub>: 175 and N<sub>0</sub>: 275 for the Ni component 
+as the EPMA line analysis results. The terms [A] and [B] of the relationship (1) were
+calculated for each of the Mo, Co and Ni components, in a manner similar to that for
+EXAMPLE 1. The results are given in Table 7. As shown, each of these components
+satisfied the relationship (1). It had diffraction lines at 2 = 36.8, 45.5 and 66.2° in the XRD
+pattern.</p><heading>EXAMPLE 3 (NCMSAH19-1)</heading><p num="0074">The same procedure as used for EXAMPLE 1 was repeated, except stirring time for
+preparing the homogeneous solution was extended from 17 hours to 25 hours, to prepare the
+catalyst NCMSAH19-1. The measured content of the hydrogenation-active component,
+homogeneity and crystallinity are given in Tables 1 and 2.</p><heading>EXAMPLE 4 (CMPDSAH02)</heading><p num="0075">A homogeneous solution of 116.9 g of aluminum isopropoxide [Al(i-OC<sub>3</sub>H<sub>7</sub>)<sub>3</sub>]
+dissolved in 782.0 g of hexylene glycol was prepared with stirring at 80°C for 4 hours, to
+which 12.5 g of tetraethoxysilane [Si(OC<sub>2</sub>H<sub>5</sub>)<sub>4</sub>] was added with stirring at 80°C for 3 hours.</p><p num="0076">Then, 14.0 g of 12-molybdo-1-phosphoric acid [H<sub>3</sub>(PM<sub>12</sub>O<sub>40</sub>·6H<sub>2</sub>O)] and 15.5 g of
+cobalt nitrate [Co(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O)] were added to the above solution, with stirring at 80°C for
+17 hours, to prepare a homogeneous solution.</p><p num="0077">An aqueous solution of 0.4 g of palladium nitrate [Pd(NO<sub>3</sub>)<sub>2</sub>] dissolved in 176 ml of
+pure water was added dropwise at 80°C to the above homogeneous solution at 1ml/min, to
+prepare a slurry containing the precipitate formed as a result of hydrolysis.</p><p num="0078">On completion of the agitation, the slurry was allowed to stand for 88 hours, while
+kept at 90°C, for aging. On completion of the aging, the slurry was treated to remove the
+supernatant liquid, evaporated and solidified by a rotary evaporator, and calcined at 650°C in
+a flow of air, to prepare the catalyst CMPDSAH02.</p><p num="0079">The catalyst CMPDSAH02 had a hydrogenation-active component at 0.068 mol/mol,
+and N<sub>max</sub>: 1209, N<sub>min</sub>: 664 and N<sub>0</sub>: 993 for the Mo component, N<sub>max</sub>: 2232, N<sub>min</sub>: 1382 and 
+N<sub>0</sub>: 1713 for the Co component, and N<sub>max</sub>: 0, N<sub>min</sub>: 0 and N<sub>0</sub>: 0 for the Pd component as the
+EPMA line analysis results. The calculated terms [A] and [B] of the relationship (1) are
+given in Table 7. It had diffraction lines at 2 = 33.9 and 65.9° in the XRD pattern.</p><heading>EXAMPLE 5 (NMPt/20862R1)</heading><p num="0080">A homogeneous solution of 136.1 g of aluminum isopropoxide [Al(i-OC<sub>3</sub>H<sub>7</sub>)<sub>3</sub>]
+dissolved in 870.0 g of hexylene glycol was prepared with stirring at 80°C for 4 hours, to
+which 29.4 g of tetraethoxysilane [Si(OC<sub>2</sub>H<sub>5</sub>)<sub>4</sub>] was added with stirring at 80°C for 3 hours.</p><p num="0081">Then, 5.8 g of nickel nitrate [Ni(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O)] and 0.13 g of chloroplatinic acid
+[H<sub>2</sub>PtCl<sub>6</sub>·6H<sub>2</sub>O)] were added to the above solution, with stirring at 80°C for 17 hours, to
+prepare a homogeneous solution.</p><p num="0082">An aqueous solution of 7.4 g of ammonium 7-molybdate [(NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>·4H<sub>2</sub>O)]
+dissolved in 231 ml of pure water was added dropwise at 80°C to the above homogeneous
+solution at 1ml/min, to prepare a slurry containing the precipitate formed as a result of
+hydrolysis.</p><p num="0083">On completion of the agitation, the slurry was allowed to stand for 88 hours, while
+kept at 90°C, for aging. On completion of the aging, the slurry was treated to remove the
+supernatant liquid, evaporated and solidified by a rotary evaporator, and calcined at 650°C in
+a flow of air, to prepare the catalyst NMPt/20862R1.</p><p num="0084">The catalyst NMPt/20862R1 had a hydrogenation-active component at 0.027 mol/mol,
+and N<sub>max</sub>: 544, N<sub>min</sub>: 269 and N<sub>0</sub>: 417 for the Mo component, N<sub>max</sub>: 745, N<sub>min</sub>: 402 and N<sub>0</sub>:
+575 for the Co component, and N<sub>max</sub>: 0, N<sub>min</sub>: 0 and N<sub>0</sub>: 0 for the Pt component as the EPMA
+line analysis results. The calculated terms [A] and [B] of the relationship (1) are given in
+Table 7. It had a diffraction line at 2 = 65.5° in the XRD pattern. </p><heading>EXAMPLE 6 (NMZ/50SAH13R3)</heading><p num="0085">A homogeneous solution of 84.1 g of aluminum isopropoxide [Al(i-OC<sub>3</sub>H<sub>7</sub>)<sub>3</sub>]
+dissolved in 829.6 g of hexylene glycol was prepared with stirring at 80°C for 4 hours, to
+which 72.8 g of tetraethoxysilane [Si(OC<sub>2</sub>H<sub>5</sub>)<sub>4</sub>] was added with stirring at 80°C for 3 hours.</p><p num="0086">Then, 5.8 g of nickel nitrate [Ni(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O)] and 1.8 g of zinc nitrate
+[Zn(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O)] were added to the above solution, with stirring at 80°C for 17 hours, to
+prepare a homogeneous solution.</p><p num="0087">An aqueous solution of 7.4 g of ammonium 7-molybdate [(NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>·4H<sub>2</sub>O)]
+dissolved in 237 ml of pure water was added dropwise at 80°C to the above homogeneous
+solution at 1 ml/min, to prepare a slurry containing the precipitate formed as a result of
+hydrolysis.</p><p num="0088">On completion of the agitation, the slurry was allowed to stand for 88 hours, while
+kept at 90°C, for aging. On completion of the aging, the slurry was treated to remove the
+supernatant liquid, evaporated and solidified by a rotary evaporator, and calcined at 650°C in
+a flow of air, to prepare the catalyst NMZ/50SAH13R3.</p><p num="0089">The catalyst NMZ/50SAH13R3 F had a hydrogenation-active component at 0.027
+mol/mol, and N<sub>max</sub>: 471, N<sub>min</sub>: 235 and N<sub>0</sub>: 352 for the Mo component, N<sub>max</sub>: 833, N<sub>min</sub>: 437
+and N<sub>0</sub>: 626 for the Ni component, and N<sub>max</sub>: 654, N<sub>min</sub>: 328 and N<sub>0</sub>: 492 for the Zn
+component as the EPMA line analysis results. The calculated terms [A] and [B] of the
+relationship (1) are given in Table 7. It had a diffraction line at 2 = 65.4° in the XRD
+pattern.</p><heading>EXAMPLE 7 (NM/ZSAH03)</heading><p num="0090">A homogeneous solution of 75.1 g of aluminum isopropoxide [Al(i-OC<sub>3</sub>H<sub>7</sub>)<sub>3</sub>]
+dissolved in 687.1 g of hexylene glycol was prepared with stirring at 80°C for 4 hours, to
+which 29.9 g of zirconium isopropoxide [Zr(i-OC<sub>3</sub>H<sub>7</sub>)<sub>4</sub>] and 26.0 g of tetraethoxysilane
+[Si(OC<sub>2</sub>H<sub>5</sub>)<sub>4</sub>] were added with stirring at 80°C for 3 hours. </p><p num="0091">Then, 9.7 g of nickel niytrate [Ni(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O)] was added to the above solution, with
+stirring at 80°C for 17 hours, to prepare a homogeneous solution.</p><p num="0092">Then, an aqueous solution of 12.3 g of ammonium 7-molybdate
+[(NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>·4H<sub>2</sub>O)] dissolved in 177 ml of pure water was added dropwise at 80°C to
+the above homogeneous solution at 1ml/min, to prepare a slurry containing the precipitate
+formed as a result of hydrolysis.</p><p num="0093">On completion of the agitation, the slurry was allowed to stand for 88 hours, while
+kept at 90°C, for aging. On completion of the aging, the slurry was treated to remove the
+supernatant liquid, evaporated and solidified by a rotary evaporator, and calcined at 650°C in
+a flow of air, to prepare the catalyst NM/ZSAH03.</p><p num="0094">The catalyst NM/ZSAH03 had a hydrogenation-active component at 0.054 mol/mol,
+and N<sub>max</sub>: 855, N<sub>min</sub>: 512 and N<sub>0</sub>: 722 for the Mo component, and N<sub>max</sub>: 1178, N<sub>min</sub>: 666 and
+N<sub>0</sub>: 910 for the Ni component as the EPMA line analysis results. The calculated terms [A]
+and [B] of the relationship (1) are given in Table 7. It had a diffraction line at 2 = 65.3° in
+the XRD pattern.</p><heading>COMPARATIVE EXAMPLE 1</heading><p num="0095">Pure water (2.0 L) was heated to about 70°C, to which caustic soda was added to
+prepare alkaline water of pH around 12. An aqueous solution of aluminum sulfate
+(aluminum sulfate: 518 g and pure water: 710 g) was added to the above alkaline water. The
+solution was adjusted at pH 8.4 to 8.8 with caustic soda or nitric acid, and aged at around
+70°C for around 0.5 hours, to form an aqueous solution containing the precipitate (gel) of
+aluminum hydrate. An aqueous solution of sodium silicate (No.3 water glass, pure water:
+210 g) was added to the above aqueous solution. The mixed solution was adjusted at pH 8.8
+to 9.2 with nitric acid , and aged at around 70°C for around 0.5 hours, to form a slurry
+solution containing precipitated particles of alumina hydrate covered with silica hydrate.
+This slurry was filtrated, and the separated cake was washed with an aqueous solution of
+ammonium carbonate, until sodium content in the filtrate was decreased to 5 ppm or less.
+The cake was dried at 80°C in a kneader to a moisture content at which it was moldable, and 
+extruded into cylindrical pellets, 1.5 mm in diameter. The pellets were dried at 120°C for 16
+hours and calcined at 700°C for 3 hours, to prepare the carrier.</p><p num="0096">The carrier was impregnated with an aqueous solution of ammonium 7-molybdate,
+and dried at 120°C and calcined at 450°C. It was then impregnated with an aqueous solution
+of cobalt nitrate and nickel nitrate, and dried at 120°C and calcined at 500°C, to prepare the
+comparative catalyst (a).</p><p num="0097">The comparative catalyst (a) had a hydrogenation-active component at 0.051 mol/mol,
+and N<sub>max</sub>: 1531, N<sub>min</sub>: 723 and N<sub>0</sub>: 1179 for the Mo component, N<sub>max</sub>: 1289, N<sub>min</sub>: 702 and
+N<sub>0</sub>: 1019 for the Co component, and N<sub>max</sub>: 349, N<sub>min</sub>: 128 and N<sub>0</sub>: 258 for the Ni component
+as the EPMA line analysis results. This catalyst failed to satisfy the relationship (1), as
+shown in Table 8. It had diffraction lines at 2 = 46.0 and 66.0° in the XRD pattern.</p><heading>COMPARATIVE EXAMPLE 2</heading><p num="0098">A mixture of 178.3 g of aluminum isopropoxide [Al(i-OC<sub>3</sub>H<sub>7</sub>)<sub>3</sub>] and 765 ml of 2-methylpentane-2,4-diol
+[CH<sub>3</sub>CH(OH)CH<sub>2</sub>C(CH<sub>3</sub>)<sub>2</sub>OH] was stirred to react them with each
+other at 80°C for 4 hours, to which 13.9 g of tetraethoxysilane [Si(OC<sub>2</sub>H<sub>5</sub>)<sub>4</sub>] was added with
+stirring at 80°C for 20 hours, for further reactions. Water (196 ml) was added to the above
+reaction system at 1 ml/min, for hydrolysis at 80°C.</p><p num="0099">The effluent solution was aged at 90°C for 72 hours, evaporated and solidified by a
+rotary evaporator, and calcined at 650°C for 5 hours in a flow of air. The green compact thus
+prepared was molded by a tablet maker, 20 mm in diameter, at 2 tons/cm<sup>2</sup>, into a carrier of
+11%SiO<sub>2</sub>-Al<sub>2</sub>O<sub>3</sub>.</p><p num="0100">The carrier was impregnated with active metals by the following procedure:
+The impregnation solution was prepared by dissolving 11.2 g of 12-molybdo-1-phosphoric
+acid [H<sub>3</sub>(PM<sub>12</sub>O<sub>40</sub>·6H<sub>2</sub>O)], 9.7 g of cobalt nitrate [Co(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O)], 2.3 g of nickel nitrate
+[Ni(NO<sub>3</sub>)<sub>2</sub>·6H<sub>2</sub>O)] and 5.8 g of citric acid in 44 g of a mixed solution of ammonia water and
+pure water, where ammonia water/pure water ratio was adjusted to make the solution with
+the solutes completely dissolved at pH 9. </p><p num="0101">The carrier was mixed with the impregnation solution by adding the latter dropwise
+onto the former. The impregnated carrier was dried at 110°C all night, and calcined at 500°C
+for 3 hours in a flow of air, to prepare the comparative catalyst (b).</p><p num="0102">The comparative catalyst (b) thus prepared had a composition of silica: 8.0 wt.%,
+alumina: 65.0 wt.%, molybdenum oxide: 20.0 wt.%, cobalt oxide: 5.0 wt.%, nickel oxide:
+1.2 wt.% and phosphorus oxide: 0.8wt.%, and properties of specific surface area: 244 m<sup>2</sup>/g
+and total pore volume: 0.43 ml/g.</p><p num="0103">The comparative catalyst (b) had a hydrogenation-active component at 0.051 mol/mol,
+and N<sub>max</sub>: 1392, N<sub>min</sub>: 759 and N<sub>0</sub>: 1072 for the Mo component, N<sub>max</sub>: 1228, N<sub>min</sub>: 737 and
+N<sub>0</sub>: 926 for the Co component, and N<sub>max</sub>: 367, N<sub>min</sub>: 155 and N<sub>0</sub>: 245 for the Ni component
+as the EPMA line analysis results. This catalyst failed to satisfy the relationship (1), as
+shown in Table 8. It had a diffraction line at 2 = 65.5° in the XRD pattern.</p><heading>COMPARATIVE EXAMPLE 3</heading><p num="0104">3 g of ruthenium trichloride was dissolved in 80 g of ethylene glycol, put in a 300ml
+beaker, to which 91.0 g of tetraethoxysilane and 23.6 g of triethyl borate were added, and the
+mixture was heated at 70°C for 3 hours, with stirring. Next, 12 g of water was added to the
+above solution, and kept at the same temperature for 1 hour with stirring, to which another
+12 g of water was added. When stirred at the same temperature, the solution was solidified
+like agar. It was allowed to stand at 25°C all night, crushed into pieces of adequate size,
+transferred to a 300 ml eggplant-shaped flask, and dried at 100°C for 24 hours under a
+vacuum using an evaporator. The dried gel was finely crushed, and thermally treated at
+400°C for 8 hours in a flow of hydrogen, to prepare the comparative catalyst (c). The
+comparative catalyst (c) had N<sub>max</sub>: 193, N<sub>min</sub>: 82 and N<sub>0</sub>: 121 for the Ru component as the
+EPMA line analysis results, which satisfied the relationship (1). However, it showed no
+diffraction line in the XRD pattern (Figure 2). It had a hydrogenation-active component at
+0.007 mol/mol. <img id="img-00230001" orientation="unknown" wi="116" img-format="tif" img-content="tb" file="00230001.tif" inline="no" he="217"/><img id="img-00240001" orientation="unknown" wi="131" img-format="tif" img-content="tb" file="00240001.tif" inline="no" he="217"/></p><heading>Evaluation of Catalyst Activity</heading><p num="0105">The catalysts prepared by EXAMPLES and COMPARATIVE EXAMPLES were
+evaluated for their activity by hydrotreating a hydrocarbon oil under the following
+conditions. The results of evaluation of the catalyst activities are given in Table 6.</p><heading>(1) Evaluation of hydrodesulfurization (HDS) activity with light gas oil (LGO-D) from a
+Middle Eastern crude:</heading><p num="0106">Test oil properties, reactor system and reaction conditions are given in
+Table 3.</p><p num="0107">The test was conducted by the following procedure:
+
+The catalyst (4.6 g) packed in a reactor was treated with a hydrogen gas containing 5% of
+H<sub>2</sub>S flown at 200 cc/min, for sulfiding under the following temperature program:</p><p num="0108">The catalyst was heated from room temperature to 200°C in 30 min, at which it was
+held for 30 min, to 340°C in 30 min, at which it was held for 2 hours, and then cooled to
+200°C in 30 min.</p><p num="0109">LGO-D (approximately 25 cc) was introduced into the reactor when the sulfided
+catalyst was cooled to 170°C. After LGO-D went through the catalyst bed, reactor pressure
+was increased, and then temperature was also increased to 320°C in 30 min, for the HDS
+reactions. Catalyst HDS activity was determined by measuring sulfur content of the product
+obtained 10 hours after LGO-D was charged.</p><p num="0110">HDS activity was determined by the following formula:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">HDS activity =
+(Liquid Hourly Space Velocity per Unit Catalyst Weight)×[1/S<st32:sup pos="post">0.5</st32:sup> ― 1/S<st32:sub pos="post">0</st32:sub> <st32:sup pos="post">0.5</st32:sup>]</st32:df>
+wherein, S and S<sub>0</sub> are sulfur contents of the product and feed.</p><heading>(2) Evaluation of hydrodesulfurization (HDS), hydrodenitrogenation (HDN),
+hydrodearomatization (HDA), hydroisomerization (HI), and hydrocracking (HC)
+activities with a model feed.</heading><p num="0111">The evaluation test conditions are given in Table 4.</p><p num="0112">The evaluation test was conducted using a 50 ml flow type autoclave by the following
+procedure:
+
+The catalyst (0.5 g) put in the autoclave reactor was treated with a hydrogen gas containing
+5% of H<sub>2</sub>S flown at 200 cc/min, for sulfidation under the following temperature program:</p><p num="0113">The catalyst was heated from room temperature to 200°C in 30 min, at which it was
+held for 30 min, to 340°C in 30 min, at which it was held for 2 hours, and then cooled to
+200°C in 30 min.</p><p num="0114">A test oil for each test was passed into the reactor when the sulfided catalyst was
+cooled to 200°C. On completion of passing the test oil, reactor pressure was increased to 9
+kg/cm<sup>2</sup>-G, and then temperature was also increased to 310°C in 30 min, or the hydrotreating
+reactions under the conditions given in Table 4.</p><p num="0115">Hydrodesulfurization(HDS), hydrodenitrogenation(HDN), hydrodearomatization
+(HDA), hydroisomerization(HI), and hydrocracking(HC) activities were determined by the
+following formulae:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">HDS activity (DBT) =
+(Liquid Hourly Space Velocity per Unit Catalyst Weight) ×
+[(N<st32:sub pos="post">DBT,0</st32:sub> - N<st32:sub pos="post">DBT</st32:sub>)/(N<st32:sub pos="post">DBT,0</st32:sub>)]</st32:df>
+wherein, N<sub>DBT</sub> and N<sub>DBT,0</sub> are dibenzothiophene contents of the product and feed.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">HDS activity (4,6DMDBT) =
+(Liquid Hourly Space Velocity per Unit Catalyst Weight) ×
+[(N<st32:sub pos="post">4,6DMDBT,0</st32:sub> ― N<st32:sub pos="post">4,6DMDBT</st32:sub>)/(N<st32:sub pos="post">4,6DMDBT,0</st32:sub>)]</st32:df>
+wherein, N<sub>4,6DMDBT</sub> and N<sub>4,6DMDBT,0</sub> are 4,6 dimethyldibenzothiophene contents of the
+product and feed.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">HDN activity =
+(Liquid Hourly Space Velocity per Unit Catalyst Weight)×(N<st32:sub pos="post">N</st32:sub>)/(N<st32:sub pos="post">N,0</st32:sub> ― N<st32:sub pos="post">N</st32:sub>)</st32:df> 
+wherein, N<sub>N,0</sub> is quinoline content of the feed and N<sub>N</sub> is a total content of propylcyclohexane,
+propylcyclohexane and propylbenzene in the product.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">HDA activity =
+(Liquid Hourly Space Velocity per Unit Catalyst Weight)×(N<st32:sub pos="post">A</st32:sub>)/(N<st32:sub pos="post">A,0</st32:sub> ― N<st32:sub pos="post">A</st32:sub>)</st32:df>
+wherein, N<sub>A,0</sub> is 1-methylnaphthalene content of the feed and N<sub>A</sub> is a total content of 2-methylnaphthalene,
+methyl tetralin, methyl decalin, alkyl benzene and alkyl toluene in the
+product.
+<sl><li>HI activity = (Total area of peaks at a retention time of 9.40 to 10.14 in the gas
+chromatogram obtained under the conditions given in Table 4, % on total area of all peaks).</li><li>HC activity = (Total area of peaks at a retention time of 4.8 to 5.18 in the gas
+chromatogram obtained under the conditions given in Table 4, % on total area of all peaks).</li></sl></p><p num="0116">The activity assessment results are given in Table 6.
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Test oil</entry><entry align="center"><u style="single">LGO-D</u></entry></row><row><entry align="left">Specific gravity (15/4°C)</entry><entry align="center">0.846</entry></row><row><entry align="left">Sulfur (wt.%)</entry><entry align="center">0.92</entry></row><row><entry align="left">Nitrogen (wt.ppm)</entry><entry align="center">91.0</entry></row><row><entry align="left">Aromatics (wt.%)</entry><entry align="center">26.8</entry></row><row><entry align="left">Reactor: Fixed-bed, flow type reactor</entry></row><row><entry align="left">Reactor inner diameter: 10 mm</entry></row><row><entry align="left">Catalyst charged (g):</entry><entry align="center">4.6</entry></row><row><entry align="left">Reactor conditions:</entry></row><row><entry align="left">Reactor temperature (°C)</entry><entry align="center">320</entry></row><row><entry align="left">Reactor pressure (kg/cm<sup>2</sup>-G)</entry><entry align="center">9</entry></row><row><entry align="left">Liquid hourly space velocity (hr<sup>-1</sup>)</entry><entry align="center">0.5</entry></row><row><entry align="left">Hydrogen/oil ratio (SCF/B)</entry><entry align="center">800</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="4"><tbody><row><entry align="center" namest="1"/><entry nameend="4" align="left" namest="2">Test Conditions</entry></row><row><entry align="center"/><entry align="center">1</entry><entry align="center">2</entry><entry align="center">3</entry></row><row><entry align="left">Test Oil</entry></row><row><entry align="left">Composition (wt.%)</entry></row><row><entry align="left">n-C<sub>16</sub></entry><entry align="center">99.20</entry><entry align="center">99.13</entry><entry align="center">89.20</entry></row><row><entry align="left">DBT</entry><entry align="center">0.50</entry><entry align="center">0.50</entry><entry align="center">0.50</entry></row><row><entry align="left">4,6-DMDBT</entry><entry align="center">0.30</entry><entry align="center">0.30</entry><entry align="center">0.30</entry></row><row><entry align="left">Quinoline</entry><entry align="center">-</entry><entry align="center">0.07</entry><entry align="center">-</entry></row><row><entry align="left">1-Methyl naphthalene</entry><entry align="right"/><entry align="center">-</entry><entry align="center">10</entry></row><row><entry align="left">Reactor temperature (°C)</entry><entry align="center">310</entry><entry align="center">310</entry><entry align="center">310</entry></row><row><entry align="left">Liquid hourly space velocity (hr<sup>-1</sup>) per unit catalyst weight</entry><entry align="center">1.0</entry><entry align="center">1.0</entry><entry align="center">1.0</entry></row><row><entry align="left">Hydrogen/oil ratio (SCF/B)</entry><entry align="center">2000</entry><entry align="center">2000</entry><entry align="center">2000</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="2"><tbody><row><entry align="left">Gas chromatograph :</entry><entry align="left">GL Science, GC-353 (FID)</entry></row><row><entry align="left" morerows="3">Column :</entry><entry align="left">J&amp;W Scientific, DB-1</entry></row><row><entry align="left" namest="2">Inner diameter: 0.25 mm</entry></row><row><entry align="left" namest="2">Film thickness: 1 □m</entry></row><row><entry align="left" namest="2">Length: 60 m</entry></row><row><entry align="left" morerows="2">Analysis conditions :</entry><entry align="left">Oven temperature: 250°C</entry></row><row><entry align="left" namest="2">Injection temperature: 250°C</entry></row><row><entry align="left" namest="2">Detector temperature: 250°C</entry></row></tbody></tgroup></table></tables><img id="img-00290001" orientation="unknown" wi="105" img-format="tif" img-content="tb" file="00290001.tif" inline="no" he="217"/><img id="img-00300001" orientation="unknown" wi="101" img-format="tif" img-content="tb" file="00300001.tif" inline="no" he="216"/><img id="img-00310001" orientation="unknown" wi="80" img-format="tif" img-content="tb" file="00310001.tif" inline="no" he="216"/></p><p num="0117">It is found, based on the results of EXAMPLES and COMPARATIVE EXAMPLES,
+that the hydrotreating catalyst prepared by any one of EXAMPLES, which has a specific
+content of hydrogenation-active component(s), satisfies the relationship (1) representing
+homogeneity and contains a crystalline component, shows more notable effects in, e.g.,
+desulfurization activity, than those prepared by COMPARATIVE EXAMPLES. It is
+particularly noted that satisfying the relationship (1) significantly contributes to improved
+desulfurization activity, as shown in Table 7. It is also noted that the hydrotreating catalyst
+of the present invention, satisfying the relationship (1), shows especially high activities for
+desulfurization (e.g., of 4,6-DMDBT) and isomerization, when incorporated with selected
+active component(s), e.g., the catalyst prepared by EXAMPLE 5.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A hydrotreating catalyst comprising a refractory inorganic oxide matrix dispersed with
+a hydrogenation-active component,
+<claim-text><claim-text>said hydrogenation-active component comprising at least one active component (A) selected
+from the group consisting of the group 6A elements, and/or at least one active component
+(B) selected from the group consisting of the group 8 elements, wherein
+<claim-text><claim-text>(1) total content of said hydrogenation-active component is 0.02moles to 0.4 moles per
+mole of all of the elements that constitute the catalyst,</claim-text><claim-text>(2) of said hydrogenation-active component, any one, when present at 0.002 mol/mol
+or more, satisfies the following relationship (1), established by the EPMA line analysis:
+Nmax - Nmin ≤ 2×[3×(N0)0.5+0.2×N0]
+wherein Nmax , Nmin and N0 are the maximum, minimum and average contents of the
+hydrogenation-active component, determined by the EPMA line analysis,
+or following relationship (2) , established by the EPMA plane analysis:
+0.8 ≤ S parameter &lt; 1, 0.8 ≤ P parameter &lt; 1
+wherein S parameter and P parameter are an index for size uniformity and distribution
+of the active component particles, respectively, determined by the EPMA plane
+analysis, and</claim-text><claim-text>(3) one or more diffraction lines relevant to crystalline component are observed by
+powder X-ray diffraction analysis.</claim-text></claim-text></claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The hydrotreating catalyst according to Claim 1, wherein said refractory inorganic
+oxide matrix comprises at least one oxide selected from the group consisting of alumina,
+silica, magnesia, calcium oxide, boria, zirconia, titania, thoria, ceria, hafnia, phosphorus
+oxide, alumina-silica, alumina-magnesia, alumina-boria, alumina-zirconia, alumina-thoria,
+alumina-titania-zirconia, silica-magnesia, silica-zirconia, silica-boria, silica-thoria, silica-titania,
+alumina-silica-zirconia, alumina-silica-boria, alumina-silica-magnesia, alumina-silica-halfnia,
+alumina-silica-phosphorus oxide and alumina-silica-boria-phosphorus oxide.</claim-text></claim><claim num="3"><claim-text>The hydrotreating catalyst according to Claim 2, wherein said refractory inorganic
+oxide matrix comprises at least one oxide selected from the group consisting of alumina,
+silica, magnesia, alumina-silica, alumina-magnesia, alumina-boria, alumina-titania, alumina-phosphorus
+oxide, alumina-silica-magnesia, alumina-silica-boria, alumina-silica-phosphorus
+oxide and alumina-silica-boria-phosphorus oxide.</claim-text></claim><claim num="4"><claim-text>The hydrotreating catalyst according to Claim 3, wherein said refractory inorganic
+oxide matrix comprises an oxide selected from the group consisting of alumina-silica,
+alumina-silica-phosphorus oxide and alumina-silica-zirconia.</claim-text></claim><claim num="5"><claim-text>The hydrotreating catalyst according to Claim 1, wherein said hydrogenation-active
+component (A) comprises molybdenum and/or tungsten.</claim-text></claim><claim num="6"><claim-text>The hydrotreating catalyst according to Claim 5, wherein said hydrogenation-active
+component (A) comprises molybdenum.</claim-text></claim><claim num="7"><claim-text>The hydrotreating catalyst according to Claim 1, wherein said hydrogenation-active
+component (B) comprises at least one metal component selected from the group consisting
+of cobalt, nickel, palladium and platinum.</claim-text></claim><claim num="8"><claim-text>The hydrotreating catalyst according to Claim 7, wherein said hydrogenation-active
+component (B) comprises cobalt and/or nickel.</claim-text></claim><claim num="9"><claim-text>The hydrotreating catalyst according to Claim 1, wherein said hydrogenation-active
+component comprises a composite component selected from the group consisting of
+molybdenum-cobalt, molybdenum-nickel and molybdenum-cobalt-nickel.</claim-text></claim><claim num="10"><claim-text>The hydrotreating catalyst according to any one of Claims 1, 5 or 8, wherein said
+hydrogenation-active component comprising said active component (A) and/or (B) is further
+incorporated with a third active component (C) comprising at least one element selected
+from the group consisting of the group 1B, 2B and 7A elements.</claim-text></claim><claim num="11"><claim-text>The hydrotreating catalyst according to Claim 10, wherein said active component (C)
+is selected from the group consisting of copper, zinc, manganese and rhenium.</claim-text></claim><claim num="12"><claim-text>A process for hydrotreating a hydrocarbon oil under hydrotreating conditions in the
+presence of hydrogen by bringing the hydrocarbon oil into contact with the hydrotreating
+catalyst of Claim 11.</claim-text></claim><claim num="13"><claim-text>The process for hydrotreating a hydrocarbon oil according to Claim 12, wherein said
+hydrocarbon oil is at least one selected from the group consisting of straight-run naphtha,
+catalytically cracked naphtha, steam-cracked naphtha, thermally cracked naphtha, light gas
+oil, vacuum gas oil, catalytically cracked gas oil and thermally cracked gas oil.</claim-text></claim><claim num="14"><claim-text>The process for hydrotreating a hydrocarbon oil according to Claim 13, wherein
+said hydrocarbon oil is at least one selected from the group consisting of light gas oil,
+vacuum gas oil and cracked gas oil.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

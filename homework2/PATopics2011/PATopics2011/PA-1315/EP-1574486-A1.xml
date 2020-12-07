@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1574486-A1" country="EP" doc-number="1574486" kind="A1" lang="EN" family-id="32588283" status="new" date-produced="20090516" date="20050914"><bibliographic-data><publication-reference ucid="EP-1574486-A1" status="new" fvid="24460392"><document-id status="new" format="original"><country>EP</country><doc-number>1574486</doc-number><kind>A1</kind><date>20050914</date></document-id></publication-reference><application-reference ucid="EP-03778900-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03778900</doc-number><kind>A</kind><date>20031212</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-0315978-W" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>0315978</doc-number><kind>W</kind><date>20031212</date></document-id></priority-claim><priority-claim ucid="JP-2002365851-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002365851</doc-number><kind>A</kind><date>20021217</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C03C   3/062       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C03C   3/068       20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C03C   3/068</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">OPTISCHES GLAS</invention-title><invention-title load-source="ep" status="new" lang="EN">OPTICAL GLASS</invention-title><invention-title load-source="ep" status="new" lang="FR">VERRE OPTIQUE</invention-title><citations><patent-citations><patcit ucid="JP-60221338-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>60221338</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>See also references of WO  2004054937A1</text><sources><source name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>OHARA KK</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>KABUSHIKI KAISHA OHARA</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Kabushiki Kaisha Ohara</last-name><address><street>15-30, Oyama 1-chome Sagamihara-shi,</street><city>Kanagawa 229-1186</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>MASHIKO SHINYA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SHIMIZU KOJI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>UEHARA SUSUMU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MASHIKO, SHINYA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SHIMIZU, KOJI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>UEHARA, SUSUMU</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MASHIKO, SHINYA</last-name><address><street>51-1-105, Miyashimohoncho 3-chome</street><city>Sagamihara-shi Kanagawa 229-1111</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SHIMIZU, KOJI</last-name><address><street>51-1-110, Miyashimohoncho 3-chome</street><city>Sagamihara-shi Kanagawa 229-1111</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>UEHARA, SUSUMU</last-name><address><street>8-8-305, Sagamihara 1-chome</street><city>Sagamihara-shi Kanagawa 229-0031</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new"  format="original"><addressbook><last-name>Grünecker, Kinkeldey, Stockmair &amp;amp; Schwanhäusser Anwaltssozietät</last-name><address><street>Maximilianstrasse 58</street><city>80538 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><pct-or-regional-filing-data ucid="JP-0315978-W" status="new"><document-id status="new" format="original"><country>JP</country><doc-number>0315978</doc-number><kind>W</kind></document-id></pct-or-regional-filing-data><pct-or-regional-publishing-data ucid="WO-2004054937-A1" status="new"><document-id status="new" format="original"><country>WO</country><doc-number>2004054937</doc-number><kind>A1</kind><date>20040701</date></document-id></pct-or-regional-publishing-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>HU</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>RO</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep"  status="new"  lang="EN"><p>An optical glass having a refractive index (n<sub>d</sub>) and
+an Abbe number (ν<sub>d</sub>) which are within an area surrounded by
+the straight lines which are drawn by connecting point A
+(n<sub>d</sub>=1.835, ν<sub>d</sub>=46.5), point B (n<sub>d</sub>=1.90, ν<sub>d</sub>=40.0), point C,
+(n<sub>d</sub>=1.90, ν<sub>d</sub>=35.0) and point D (n<sub>d</sub>=1.835, ν<sub>d</sub>=38.0) in a
+sequence of A, B, C, D and A as border lines in x-y
+coordinates shown in FIG. 1, in which X-axis is the Abbe
+number (ν<sub>d</sub>) and Y-axis is the refractive index (n<sub>d</sub>), the
+area including the border line. The optical glass has low
+glass transition temperature (Tg), and suitable for
+precision mold pressing. The optical glass which has the
+refractive index (n<sub>d</sub>) and Abbe number (ν<sub>d</sub>) within the
+above-described area, where the area includes the border
+lines, has the composition of SiO<sub>2</sub>-B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-Gd<sub>2</sub>O<sub>3</sub>-Li<sub>2</sub>O-F
+system, the transition temperature (Tg) of 550 to 650°C,
+and is free from lead, cadmium, thorium, Y<sub>2</sub>O<sub>3</sub>, P<sub>2</sub>O<sub>5</sub> and TeO<sub>2</sub>.
+<img id="img-00000001"  orientation="unknown" wi="109" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="84"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading>Technical Field</heading><p num="0001">The present invention relates to a glass preform
+material used in precision mold pressing and an optical
+glass suitable for precision mold pressing, which have low
+transition point (Tg) and low dispersion and high
+refractive index.</p><heading>Background Art</heading><p num="0002">In late years, in optical instruments remarkably
+getting smaller and lighter, an aspherical lens is often
+applied in order to decrease the number of lenses
+constituting an optical system of the optical instrument.
+A method in which a lens is produced by press forming a
+heat-softened glass preform material with a metal molding
+die having precise molding surface, or a precision mold
+pressing, is a mainstream of manufacturing a glass
+aspherical lens.
+
+   Since the glass molding obtained by precision mold
+pressing is available as final products such as lens
+without or almost without grinding and polishing after
+forming, a lens and the like can be manufactured in high
+productivity with precision mold pressing. Precision mold 
+pressing method is a suitable method for manufacturing a
+glass aspherical lens because it is difficult to
+manufacture an aspherical lens in large amount at a low
+cost in a former method including grinding and polishing.
+Furthermore, a precision mold pressing method has high
+productivity. As a result, spherical lenses and other
+optical elements of various shapes as well as an aspherical
+lens are manufactured in a precision mold pressing.</p><p num="0003">There are two major methods of manufacturing the
+glass preform material for precision mold pressing.
+
+   One of these methods is: as disclosed in Japanese
+Patent Application Publication (Unexamined) Tokukaihei-6-122526
+and Tokukaihei-8-319124, flowing molten glass from a
+discharge pipe, cutting the flowed glass while the flowed
+glass keeps on a molding die, and successively forming
+glass perform material; or, as disclosed in Japanese Patent
+Application Publication (Unexamined) Tokukaihei-7-165431,
+dropping molten glass from a flow-controlled pipe, keeping
+the droplets on lower molding die, and forming a glass
+preform material by pressing the kept glass lump with upper
+molding die. These methods have high productivity of a
+glass preform material itself because a glass preform
+material is directly obtained by hot forming of molten
+glass in both methods.
+
+   The other method is one obtaining a glass preform 
+material by cutting a glass block material. There is a
+problem in this method that many processes are required
+from cutting a glass block material to shaping a glass
+close to a final product such as lens. However, there is
+an advantage that shape variation in precision mold
+pressing can be reduced on a occasion of obtaining a final
+product of various shapes such as a lens by precision mold
+pressing since the glass preform material can be processed
+close to a final product such as a lens.</p><p num="0004">In obtaining a glass molding with precision mold
+pressing, a heat-softened glass preform material is
+required to be press formed under high temperature
+condition in order to print precise molding surface of
+metal molding die to the glass preform material. Therefore,
+the applied metal molding die is also exposed to high
+temperature, and furthermore, to high pressure. As a
+result, when a glass preform material is heat-softened and
+press-formed, a precise molding surface of metal molding
+die often cannot be maintained because of oxidation and
+erosion of the molding surface and a damage of a mold
+release membrane provided on the molding surface. Further,
+the metal molding die itself is damaged easily. Under
+these conditions, since the metal molding die is required
+to exchange frequently, the frequency of exchanging the
+metal molding die increases as a result, the manufacturing 
+in large amount at low cost cannot to be achieved. The
+transition temperature (Tg) of a glass for a glass preform
+material used in precision mold pressing is desirably as
+low as possible from the viewpoints of reducing the above-described
+damage, maintaining precise molding surface of a
+metal molding die for a long period and permitting
+precision mold pressing with low pressure. At present,
+since a glass of the glass preform material used for
+precision mold pressing having transition point (Tg) of
+more than 650°C is difficult to be applied to precision
+mold pressing, a high refractive index and low dispersion
+glass having transition temperature (Tg) of not more than
+650°C is required, preferably the transition temperature
+(Tg) of not more than 640°C, more preferably the transition
+temperature (Tg) of not more than 630°C. Further, since a
+devitrification of the glass preform material does not
+disappear by precision mold pressing, and since a
+devitrified glass molding cannot be used as an optical
+element such as a lens, the glass of a glass preform
+material used for precision mold pressing is required to
+have superior resistance to devitrification property.</p><p num="0005">As for the property of an optical glass used for an
+aspherical lens, various optical constants (refractive
+index (n<sub>d</sub>) and Abbe number (ν<sub>d</sub>)) are required. Among them,
+the glasses having high refractive index and low dispersion 
+are required in recent years. Particularly, for an optical
+design, high refractive index and low dispersion glass is
+strongly required, wherein a refractive index (n<sub>d</sub>) and an
+Abbe number (ν<sub>d</sub>) are within an area surrounded by straight
+lines that are drawn by connecting point A (n<sub>d</sub>=1.835,
+ν<sub>d</sub>=46.5), point B (n<sub>d</sub>=1.90, ν<sub>d</sub>=40.0), point C, (n<sub>d</sub>=1.90,
+ν<sub>d</sub>=35.0) and point D (n<sub>d</sub>=1.835, ν<sub>d</sub>=38.0) in a sequence of A,
+B, C, D and A as border lines in x-y orthogonal coordinates
+shown in FIG. 1, in which X-axis is the Abbe number (ν<sub>d</sub>)
+and Y-axis is the refractive index (n<sub>d</sub>), the area including
+the border lines (hereinafter, the above-described area is
+referred to as a specific area). In particular, an optical
+glass having the optical constants within the specific area
+and refractive index (n<sub>d</sub>) more than 1.85 and less than
+1.875, an optical glass having the optical constants within
+the specific area and Abbe number (ν<sub>d</sub>) less than 39.5 and
+the like are required.</p><p num="0006">Cadmium and thorium components have been known for a
+long time as ingredients providing high refractive index to
+a glass. However, it is well known that these ingredients
+cause environmental damage.</p><p num="0007">A glass containing lead such as a glass containing
+PbO is known as a glass having has a high refractive index
+and a low transition temperature (Tg). Since a glass 
+containing lead easily fuses with a metal molding die in
+precision mold pressing, it is difficult to use a metal
+molding die repeatedly. Therefore, it is not suitable for
+a glass used for precision mold pressing. Furthermore, for
+the sake of unfavorable environmental effect of lead
+component, there is a problem that some kinds of
+environmental measures are required in manufacturing,
+coolworking such as polishing, disposal and the like of a
+glass containing lead. There is also a movement to
+prohibit manufacture, use and the like of a glass
+containing lead.
+
+   For these reason, an optical glass having high
+refractive index and low dispersion, low transition
+temperature, and containing no lead is strongly required.</p><p num="0008">Since a high refractive index and low dispersion
+optical glass is useful for a spherical lens as well as an
+aspherical lens from a viewpoint of optical design, various
+kinds of the glasses have been suggested for long.
+
+   For example, Japanese Patent Application Publication
+(Unexamined) Tokukaisho-52-14607 (hereinafter referred to
+as Publication 1) discloses a B<sub>2</sub>O<sub>3</sub>-SiO<sub>2</sub>-La<sub>2</sub>O<sub>3</sub>-Gd<sub>2</sub>O<sub>3</sub>-ZrO<sub>2</sub>+Ta<sub>2</sub>O<sub>5</sub>
+system optical glass. The glass disclosed in Publication 1
+does not fulfill the recent above-described requirement for
+optical design, because the refractive index is low and the
+optical constants is not within the above-described 
+specific area. Further it is difficult to perform the
+precision mold pressing for the sake of its high transition
+temperature (Tg).
+
+   Japanese Patent Application Publication (Unexamined)
+Tokukaisho-52-155614 (hereinafter referred to as
+Publication 2) discloses a B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-Gd<sub>2</sub>O<sub>3</sub>-WO<sub>3</sub>-ZrO<sub>2</sub>+Ta<sub>2</sub>O<sub>5</sub>
+system high refractive index and low dispersion optical
+glass. Though some optical glasses disclosed in
+Publication 2 has the optical constants within the above-described
+specific area, they are difficult to perform the
+precision mold pressing for the sake of its high transition
+temperature (Tg).
+
+   Japanese Patent Application Publication (Examined)
+Tokukousho-54-2646 discloses a SiO<sub>2</sub>-B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-Ta<sub>2</sub>O<sub>5</sub>+ZnO
+system high refractive index and low dispersion optical
+glass. It is difficult that the optical glass disclosed in
+this publication is applied to precision mold pressing for
+the sake of its high transition temperature (Tg).
+
+   Japanese Patent Application Publication (Unexamined)
+Tokukaisho-53-4023 discloses a B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-HfO<sub>2</sub> system high
+refractive index and low dispersion optical glass. It is
+difficult that the optical glass disclosed on this
+publication is applied to precision mold pressing for the
+sake of its high transition temperature (Tg).
+
+   Japanese Patent Application Publication (Unexamined)
+Tokukaisho-54-90218 (hereinafter referred to as Publication 
+3) discloses a SiO<sub>2</sub>-B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-WO<sub>3</sub>-Ta<sub>2</sub>O<sub>5</sub>-Gd<sub>2</sub>O<sub>3</sub>-ZrO<sub>2</sub> system
+high refractive index and low dispersion optical glass. It
+is difficult that the glass practically disclosed in this
+publication is applied to precision mold pressing for the
+sake of its high transition temperature (Tg).
+
+   Japanese Patent Application Publication (Unexamined)
+Tokukaisho-52-129716 and Japanese Patent Application
+Publication (Examined) Tokukousho-54-6042 (hereinafter
+referred to as Publication 4) discloses a B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-Y<sub>2</sub>O<sub>3</sub>-ZrO<sub>2</sub>-WO<sub>3</sub>-Ta<sub>2</sub>O<sub>5</sub>+Nb<sub>2</sub>O<sub>5</sub>+TiO<sub>2</sub>
+system high refractive index and
+low dispersion optical glass. It is difficult that both of
+the glasses disclosed in Japanese Patent Application
+Publication (Unexamined) Tokukaisho-52-129716 and
+Publication 4 are applied to precision mold pressing for
+the sake of their high transition temperature (Tg).
+
+   Japanese Patent Application Publication (Unexamined)
+Tokukaisho-60-46948 discloses a SiO<sub>2</sub>-B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-Yb<sub>2</sub>O<sub>3</sub>-Nb<sub>2</sub>O<sub>5</sub>-Ta<sub>2</sub>O<sub>5</sub>
+system high refractive index and low dispersion
+optical glass. It is difficult that the glass practically
+disclosed in this publication is applied to precision mold
+pressing for the sake of its high transition temperature
+(Tg).
+
+   Japanese Patent Application Publication (Unexamined)
+Tokukaisho-60-221338 discloses a B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-Y<sub>2</sub>O<sub>3</sub>-bivalent
+metal oxide-Li<sub>2</sub>O system optical glass having low transition
+temperature (Tg). Since the glass practically disclosed on 
+this publication does not have the optical constants within
+the above-described specific area, it does not fulfill the
+above-described recent requirement for optical design.
+
+   Japanese Patent Application Publication (Unexamined)
+Tokukaisho-62-100449 discloses a B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-ZnO-Li<sub>2</sub>O-Sb<sub>2</sub>O<sub>3</sub>
+system optical glass having low transition temperature (Tg).
+Since this glass disclosed in this publication contains
+much Sb<sub>2</sub>O<sub>3</sub> as an essential component, in obtaining a glass
+preform material in hot forming, selective volatilization
+of Sb<sub>2</sub>O<sub>3</sub> component from the surface layer of molten glass
+tend to cause the surface striae of the glass preform
+material. The surface striae does not disappear by
+precision mold pressing, and a glass molding having surface
+striae does not used for optical elements such as lenses.
+Therefore, it is not suitable for the glass preform
+material used for precision mold pressing. Further, on
+precision mold pressing of a glass preform material, Sb<sub>2</sub>O<sub>3</sub>
+component selectively volatilizes from the surface layer of
+a glass preform material, and it adheres to the molding
+surface of a metal molding die to cause haze on the molding
+surface of a metal molding die. If the hazed metal die is
+used repeatedly, the haze itself is transferred to the
+surface of a glass molding, or the haze pattern is printed
+to the surface of a glass molding. Since a glass molding
+with these problems cannot be used as an optical element
+such as a lens, such glass is not suitable for mass 
+production of optical elements such as lenses by precision
+mold pressing. Furthermore, since the glass practically
+disclosed on this publication does not have the optical
+constants within the above-described specific area, it does
+not fulfill the above-described recent requirement for
+optical design.
+
+   Japanese Patent Application Publication (Unexamined)
+Tokukaihei-8-217484 (hereinafter referred to as Publication
+5) discloses a B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-Lu<sub>2</sub>O<sub>3</sub> system optical glass. Since
+the Lu<sub>2</sub>O<sub>3</sub> component contained in this glass as essential
+component is remarkably expensive, this glass has little
+practical use because of very high production cost. Among
+the glasses disclosed on Publication 5, it is difficult
+that the glasses having the optical constants within the
+above-described specific area is applied to precision mold
+pressing for the sake of its high transition temperature
+(Tg).
+
+   Japanese Patent Application Publication (Unexamined)
+Tokukai-2001-348244 (hereinafter referred to as Publication
+6) discloses optical glass having glass transition point of
+not more than 700°C and optical property of high refractive
+index and low dispersion. It is difficult that a glass
+practically disclosed on this publication is applied to
+precision mold pressing for the sake of high glass
+transition point (Tg), or transition temperature (Tg).
+
+   Japanese Patent Application Publication (Unexamined) 
+Tokukai-2003-267748 (hereinafter referred to as Publication
+7) discloses a high refractive index and low dispersion
+optical glass having low Tg. The glass practically
+disclosed in Publication 7 having the optical constants
+within the above-described specific area has a defect of
+having a difficulty in manufacturing a glass preform
+material for the sake of its low resistance to
+devitrification property. Further, there is also a defect
+that transmission factor in short visible wavelength range
+is low since a lot of WO<sub>3</sub> or TiO<sub>2</sub> is contained.</p><p num="0009">As described above, high refractive index and low
+dispersion optical glasses according to an earlier
+development have problems mainly that: though transition
+temperature is low, its optical constants is not within the
+above-described specific area strongly required in late
+years; or that, though its optical constants is within the
+above-described specific area, the transition temperature
+(Tg) is high, which cause a difficulty of precision mold
+pressing.
+
+   An object of the present invention is to solve the
+defects of the optical glass described in Description of
+Related Art, and to provide an optical glass which has
+optical constants within the above-described specific area
+and a low transition temperature (Tg), and which is
+suitable for a glass preform material used for precision 
+mold pressing and precision mold pressing, and furthermore,
+is free from cadmium component, thorium component and lead
+component in order to have low environmental burden.</p><heading>Disclosure of Invention</heading><p num="0010">In order to accomplish the above-described object,
+the inventors has examined and researched an optical lens.
+As a result, the inventors has found an optical glass which
+has optical constants in the specific range and low
+transition temperature (Tg) at which precise press forming
+can be performed, and which is suitable for a glass preform
+material used for precision mold pressing and precision
+mold pressing, and is available for precision mold pressing.
+Thus, the inventor has accomplished the following invention.</p><p num="0011">According to a first aspect of the present invention,
+an optical glass has;
+
+   a refractive index (n<sub>d</sub>) and an Abbe number (ν<sub>d</sub>) which
+are within an area surrounded by straight lines that are
+drawn by connecting point A (n<sub>d</sub>=1.835, ν<sub>d</sub>=46.5), point B
+(n<sub>d</sub>=1.90, ν<sub>d</sub>=40.0), point C, (n<sub>d</sub>=1.90, ν<sub>d</sub>=35.0) and point D
+(n<sub>d</sub>=1.835, ν<sub>d</sub>=38.0) in a sequence of A, B, C, D and A as
+border lines in x-y orthogonal coordinates shown in FIG. 1,
+in which X-axis is the Abbe number (ν<sub>d</sub>) and Y-axis is the
+refractive index (n<sub>d</sub>), the area including the border lines:
+and the optical glass comprises the following components by 
+mass%:
+<sl><li>0.1 to 8% of SiO<sub>2</sub>;</li><li>5 to less than 20% B<sub>2</sub>O<sub>3</sub>;</li><li>15 to 50% of La<sub>2</sub>O<sub>3</sub>;</li><li>0.1 to 30% Gd<sub>2</sub>O<sub>3</sub>,</li><li>0 to 10% of GeO<sub>2</sub> and</li><li>0 to 8% of Nb<sub>2</sub>O<sub>5</sub>,</li></sl>
+   where a total content of Gd<sub>2</sub>O<sub>3</sub> + GeO<sub>2</sub> + Nb<sub>2</sub>O<sub>5</sub> is more
+than 10% to 30%;
+<sl><li>0 to 5% of Yb<sub>2</sub>O<sub>3</sub>;</li><li>0 to 1% of TiO<sub>2</sub>;</li><li>0 to 8% of ZrO<sub>2</sub>;</li><li>more than 10 to 25% of Ta<sub>2</sub>O<sub>5</sub>;</li><li>0 to 10% of WO<sub>3</sub>;</li><li>0 to 15% of ZnO;</li><li>0 to 5% of RO,</li></sl>
+   where RO is one or more kinds of oxides selected from
+CaO, SrO and BaO;
+<sl><li>more than 0.5 to less than 3% of Li<sub>2</sub>O;</li><li>0 to 1% of Sb<sub>2</sub>O<sub>3</sub>; and</li><li>0.1 to 6% a the total content of fluorides of above-described
+metal elements as F element with which a part or
+all of one or more kinds of oxides of above-described metal
+elements are substituted;</li></sl>
+   wherein the optical glass is free from lead, cadmium,
+thorium, Y<sub>2</sub>O<sub>3</sub>, P<sub>2</sub>O<sub>5</sub>, and TeO<sub>2</sub>, and
+ 
+   the optical glass has a transition temperature (Tg)
+of 550 to 650°C.</p><p num="0012">According to the second aspect of the present
+invention, an optical glass has
+
+   a refractive index (n<sub>d</sub>) and an Abbe number (ν<sub>d</sub>) which
+are within an area surrounded by straight lines that are
+drawn by connecting point A (n<sub>d</sub>=1.835, ν<sub>d</sub>=46.5), point B
+(n<sub>d</sub>=1.90, ν<sub>d</sub>=40.0), point C, (n<sub>d</sub>=1.90, ν<sub>d</sub>=35.0) and point D
+(n<sub>d</sub>=1.835, ν<sub>d</sub>=38.0) in a sequence of A, B, C, D and A as
+border lines in x-y orthogonal coordinates shown in FIG. 1,
+in which X-axis is the Abbe number (ν<sub>d</sub>) and Y-axis is the
+refractive index (n<sub>d</sub>), the area including the border lines:
+and the optical glass comprises the following components by
+mass%;
+<sl><li>0.1 to 8% of SiO<sub>2</sub>;</li><li>5 to less than 20% B<sub>2</sub>O<sub>3</sub>;</li><li>15 to 50% of La<sub>2</sub>O<sub>3</sub>;</li><li>0.1 to 30% Gd<sub>2</sub>O<sub>3</sub>,</li><li>more than 10 to 25% of Ta<sub>2</sub>O<sub>5</sub>; and</li><li>more than 0.5 to less than 3% of Li<sub>2</sub>O;
+
+   and</li><li>0 to 10% of GeO<sub>2</sub> and/or</li><li>0 to 8% of Nb<sub>2</sub>O<sub>5</sub>,</li></sl>
+   where a total content of Gd<sub>2</sub>O<sub>3</sub> + GeO<sub>2</sub> + Nb<sub>2</sub>O<sub>5</sub> is more
+than 10% to 30%;
+ 
+   and/or
+<sl><li>0 to 5% of Yb<sub>2</sub>O<sub>3</sub>; and/or</li><li>0 to 1% of TiO<sub>2</sub>; and/or</li><li>0 to 8% of ZrO<sub>2</sub>; and/or</li><li>0 to 10% of WO<sub>3</sub>; and/or</li><li>0 to 15% of ZnO; and/or</li><li>0 to 5% of RO,</li></sl>
+   where RO is one or more kinds of oxides selected from
+CaO, SrO and BaO;
+
+   and/or
+<sl><li>0 to 1% of Sb<sub>2</sub>O<sub>3</sub>; and/or</li><li>0 to less than 0.5% of Lu<sub>2</sub>O<sub>3</sub>; and</li><li>0.1 to 6% of the total content of fluorides of above-described
+metal elements as F element with which a part or
+all of one or more kinds of oxides of above-described metal
+elements are substituted;</li></sl>
+   wherein the optical glass is free from lead component,
+cadmium component, thorium component, Y<sub>2</sub>O<sub>3</sub>, P<sub>2</sub>O<sub>5</sub> and TeO<sub>2</sub>,
+and
+
+   the optical glass has a transition temperature (Tg)
+of 550 to 650°C.</p><p num="0013">The above-described optical glass preferably
+comprises 0.1 to less than 5.5% of SiO<sub>2</sub>.
+
+   The above-described optical glass preferably
+comprises more than 1 to less than 3% of Li<sub>2</sub>O. </p><p num="0014">The above-described optical glass may have the
+refractive index (n<sub>d</sub>) of less than 1.875.</p><p num="0015">The above-described optical glass may have the
+refractive index (n<sub>d</sub>) of 1.875 or more.</p><p num="0016">The above-described optical glass may have the
+refractive index (n<sub>d</sub>) of more than 1.85.</p><p num="0017">The above-described optical glass may have the Abbe
+number (ν<sub>d</sub>) of less than 39.5.</p><p num="0018">The above-described optical glass may have the Abbe
+number (ν<sub>d</sub>) of 39.5 and more.</p><p num="0019">The above-described optical glass preferably has the
+transition temperature (Tg) of 640°C or less.</p><p num="0020">The above-described optical glass preferably has the
+transition temperature (Tg) of 630°C or less.</p><heading>Brief Description of Drawings</heading><p num="0021"><sl><li>FIG. 1 is X-Y orthogonal coordinates in which X-axis
+is an Abbe number (ν<sub>d</sub>) and Y-axis is a refractive index 
+(n<sub>d</sub>), and which shows the range of optical constants (Abbe
+number (ν<sub>d</sub>) and refractive index (n<sub>d</sub>)) of the optical glass
+of the present invention.</li></sl></p><heading>Best Mode for Carrying Out the Invention</heading><p num="0022">Hereinafter, the reasons why the composition range by
+mass% of each components are limited as described above in
+an optical glass of the present invention will be explained
+below.</p><p num="0023">The SiO<sub>2</sub> component is an effective component in
+increasing the viscosity and improving the resistance to
+devitrification property of the optical glass of the
+present invention. However, when the content thereof is
+less than 0.1%, it becomes difficult to obtain the above-described
+effect efficiently. Further, when the glass
+contains the SiO<sub>2</sub> component excessively, it is not
+preferable since the transition temperature (Tg) becomes
+high. In order to facilitate obtaining an optical glass
+having sufficient resistance to devitrification property
+and desired low transition temperature (Tg) within a scope
+of the optical glass of the invention, the content of SiO<sub>2</sub>
+component is preferably 0.1 % or more, more preferably 0.5%
+or more and the most preferably 1% or more, and is
+preferably 8% or less, more preferably 6% or less and the
+most preferably less than 5.5%. </p><p num="0024">The B<sub>2</sub>O<sub>3</sub> component is an essential component as a
+glass consisting oxide component in the Lanthanum system
+optical glass of the present invention. However, when its
+content is less than 5%, the resistance to devitrification
+property becomes insufficient, and when it is not less than
+20%, its chemical durability degrades. Therefore, the
+optical glass of the present invention contains preferably
+5% or more, more preferably 6% or more and the most
+preferably 8% or more, and contains preferably less than
+20%, more preferably 19.5% or less and the most preferably
+19% or less of B<sub>2</sub>O<sub>3</sub> component.
+
+   The La<sub>2</sub>O<sub>3</sub> component is effective in increasing
+refractive index and decreasing dispersion and is essential
+for the glass of the present invention having high
+refractive index and low dispersion. However, when its
+content is 15% or less, it is difficult to keep the optical
+constants of the glass within the above-described specific
+area. On the other hand, when the glass contains the La<sub>2</sub>O<sub>3</sub>
+component excessively, the resistance to devitrification
+property degrades. Therefore, in order to keep
+particularly fine resistance to devitrification property
+while the optical constants of the glass is kept within the
+above-described specific area, the glass contains
+preferably 15% or more, more preferably 18% or more, and
+the most preferably 20% or more, and contains preferably
+not more than 50%, more preferably less than 47%, and the 
+most preferably not more than 45% of La<sub>2</sub>O<sub>3</sub> component.
+
+   Gd<sub>2</sub>O<sub>3</sub> component is effective in increasing refractive
+index and decreasing dispersion of the glass. However,
+when its content is less than 0.1%, the above-described
+effect is not sufficient, and on the contrary when the
+glass contains the Gd<sub>2</sub>O<sub>3</sub> component excessively, resistance
+to devitrification property degrades. Therefore, the
+optical glass of the present invention contains preferably
+0.1% or more, more preferably 0.5% or more and the most
+preferably 1% or more, and contains preferably 30% or less,
+more preferably less than 28% and the most preferably 25%
+or less of Gd<sub>2</sub>O<sub>3</sub> component.
+
+   The Nb<sub>2</sub>O<sub>5</sub> component is effective in increasing
+refractive index and improving chemical durability and
+resistance to devitrification property. On the contrary the
+resistance to devitrification property degrades when the
+glass contains the Nb<sub>2</sub>O<sub>5</sub> component excessively. Therefore,
+in order to facilitate obtaining the above-described effect,
+the content thereof is preferably 0.1% or more.
+Furthermore, the content thereof is preferably 8% or less,
+more preferably 7% or less and the most preferably 6% or
+less in order to obtain the fine resistance to
+devitrification property.
+
+   The GeO<sub>2</sub> component is effective component in
+increasing refractive index and improving resistance to
+devitrification property. However, the material thereof is 
+extremely expensive. Therefore, the glass of the present
+invention contains preferably 10% or less, more preferably
+8% or less and the most preferably 6% or less of GeO<sub>2</sub>
+component.
+
+   When the total content of the Gd<sub>2</sub>O<sub>3</sub>, the Nb<sub>2</sub>O<sub>5</sub> and the
+GeO<sub>2</sub> components is less than 10%, the resistance to
+devitrification property is insufficient, and when the
+total content of the three is more than 30%, the resistance
+to devitrification property is insufficient all the same.
+Furthermore, since the materials of these three components
+are all expensive, it is not preferable to add excessively
+from the viewpoint of production cost. Therefore,
+according to the optical glass of the present invention,
+the total content of the Gd<sub>2</sub>O<sub>3</sub>, the Nb<sub>2</sub>O<sub>5</sub> and the GeO<sub>2</sub>
+components is controlled preferably more than 10%, more
+preferably 10.5% or more and the most preferably 11% or
+more, and also controlled preferably 30% or less, more
+preferably 28% or less and the most preferably 25% or less.
+
+   The Yb<sub>2</sub>O<sub>3</sub> component is effective in increasing the
+refractive index and decreasing the dispersion of the glass.
+However, when the glass contains it excessively, the
+resistance to devitrification property degrades. Therefore,
+the optical glass of the present invention contains
+preferably 5% or less, more preferably 4% or less and the
+most preferably 3.5% or less of Yb<sub>2</sub>O<sub>3</sub>.
+
+   The TiO<sub>2</sub> component has the effects of regulating 
+optical constants and improving resistance to
+devitrification property. However, when the glass contains
+the TiO<sub>2</sub> component excessively, the resistance to
+devitrification property degrades. Therefore, the glass of
+the present invention contains preferably 1% or less, more
+preferably 0.8% or less and the most preferably 0.5% or
+less of TiO<sub>2</sub>.
+
+   The ZrO<sub>2</sub> component has effects of regulating optical
+constants and improving resistance to devitrification
+property and chemical durability. However, when the glass
+contains the ZrO<sub>2</sub> component excessively, the resistance to
+devitrification property degrades to the contrary, and it
+becomes difficult to obtain desired low transition
+temperature (Tg). Therefore, the optical glass of the
+present invention contains preferably 8% or less, more
+preferably less than 8% and the most preferably 7.5% or
+less of ZrO<sub>2</sub>. Particularly in order to facilitate
+obtaining the above-described effects, the content is
+preferably 0.1% or more.
+
+   The Ta<sub>2</sub>O<sub>5</sub> component has the effects of increasing
+refractive index and improving chemical durability and
+resistance to devitrification property. When the content
+thereof is 10% or less, no remarkable effect is seen, and
+when it is more than 25%, resistance to devitrification
+property degrades to the contrary.
+
+   Therefore, in order to obtain the optical glass of 
+the present invention having enough chemical durability and
+resistance to devitrification property while the refractive
+index is kept in the desired range, the content is
+preferably more than 10%, more preferably 14% or more and
+the most preferably more than 19%. In addition, the upper
+limit is 25%.
+
+   The WO<sub>3</sub> component has the effects of regulating
+optical constants and improving resistance to
+devitrification property. However, when the glass contains
+the WO<sub>3</sub> component excessively, the resistance to
+devitrification property and the light transmittance in
+shorter wavelength range of visible range decreases.
+Therefore, the glass of the present invention contains
+preferably 10% or less, more preferably 8% or less and the
+most preferably 6% or less of the WO<sub>3</sub>. In particular, in
+order to facilitate obtaining the glass having superior
+light transmittance in shorter wavelength range of visible
+range, it is preferable that the content is less than 2%
+
+   The ZnO component has a large effect of lowering
+transition temperature (Tg). However, when the glass
+contains the ZnO component excessively, resistance to
+devitrification property degrades. Therefore, the glass of
+the present invention contains preferably 15% or less, more
+preferably 13% or less and the most preferably 10% or less
+of ZnO. In addition, in order to facilitate obtaining the
+above-described effect, it is particularly preferable that 
+the content is 0.1% or more.
+
+   The RO component, which is one or more kinds of the
+components selected from CaO, SrO and BaO, is effective in
+regulating optical constants. However, when the amount,
+i.e. the total content of CaO, SrO and BaO components,
+exceeds 5%, the resistance to devitrification property
+degrades. Therefore, according to the glass of the present
+invention, the total content of CaO, SrO and BaO components
+is preferably 5% or less, more preferably 4% or less and
+the most preferably 3% or less.
+
+   The Li<sub>2</sub>O component has the effects of lowering
+transition temperature (Tg) to a large degree and promoting
+the melting of the mixed glass materials. However, when
+the content thereof is 0.5% or less, these effects are
+insufficient, and when the glass contains the Li<sub>2</sub>O
+component excessively, resistance to devitrification
+property degrades drastically to the contrary. Therefore,
+the glass of the present invention contains less than 3%,
+preferably 2.5% or less and the most preferably 2% or less
+of the Li<sub>2</sub>O. In order to facilitate obtaining the glass
+having even lower transition temperature (Tg), the content
+is more than 0.5%, preferably 0.6% or more and the most
+preferably more than 1%.
+
+   The Sb<sub>2</sub>O<sub>3</sub> component can be added to the molten glass
+for defoaming in melting the glass. The content is
+preferably 1% and less, more preferably 0.8% and less and 
+the most preferably 0.5% and less.
+
+   The Lu<sub>2</sub>O<sub>3</sub> component has the effect of improving
+resistance to devitrification property when extremely small
+amount is added to the glass of the composition system
+according to the present invention. Since the material of
+the Lu<sub>2</sub>O<sub>3</sub> component is extremely expensive, when the glass
+contains the Lu<sub>2</sub>O<sub>3</sub> component excessively, the glass is not
+practical because of its high production cost. Furthermore,
+there is a disadvantage that the resistance to
+devitrification property degrades. Therefore, the glass of
+the present invention contains preferably less than 0.5%,
+more preferably 0.45% or less and the most preferably 0.4%
+or less of Lu<sub>2</sub>O<sub>3</sub>.
+
+   The F component is effective in decreasing the
+dispersion of a glass, lowering transition temperature (Tg),
+and improving resistance to devitrification property. In
+particular, as the inventors has found out, when the F
+component coexists with La<sub>2</sub>O<sub>3</sub> component, it becomes
+successful in obtaining the high refractive index and low
+dispersion optical glass having the optical constants
+within the above-described specific area and the low
+transition temperature (Tg) at which precision mold
+pressing can be performed. Therefore, F component is
+extremely important component in the glass of the present
+invention.
+
+   A part or all of one kind or two or more kinds of 
+metal oxide of the each above-described metal element is
+substituted with the metal fluoride thereof. When the
+total content of the fluoride calculated as F element is
+less than 0.1%, the above-described effects of the F
+component are insufficient, and when it is more than 6%, it
+become difficult to obtain a uniform glass since the
+volatilization amount of the F component increases. In
+order to facilitate obtaining the above-described effects,
+the glass of the present invention contains preferably 6%
+or less, more preferably 5.5% or less and the most
+preferably 5% or less, and contains preferably 0.1% or more,
+more preferably 0.2% or more and the most preferably 0.5%
+or more of the F component.</p><p num="0025">Next, the components that should not be contained in
+the glass of the present invention will be explained. As
+described above, there are problems in lead component that
+the lead component easily fuses with a metal molding die in
+precision mold pressing, and that some kind of
+environmental measures for the sake of unfavorable
+environmental effect of lead are required not only in
+manufacturing, but also coolworking such as polishing,
+disposal and the like of the glass. Therefore, the optical
+glass of the present invention should not contain the lead
+component, because the lead component makes large
+environmental burden. </p><p num="0026">Both of the cadmium and the thorium components have
+harmful effects to the environment and make extremely large
+environment burden. Therefore, the optical glass of the
+present invention should not contain them.
+
+   When the optical glass of the present invention
+contains P205, it tends to degrade the resistance to
+devitrification property. Therefore, it is not preferable
+that the glass contains P<sub>2</sub>O<sub>5</sub> component.
+
+   With respect to the Y<sub>2</sub>O<sub>3</sub>, the inventors have found
+that resistance to devitrification property of the optical
+glass of the present invention degrades unexpectedly when
+the glass contains the Y<sub>2</sub>O<sub>3</sub> component. Therefore, the glass
+should not contain it.
+
+   With respect to the TeO<sub>2</sub>, when a glass material is
+melted in a platinum crucible or a melting tank in which
+the part exposed to molten glass is made of platinum, the
+platinum is alloyed the tellurium. The heat resistance
+degrades in the alloyed part. The risk of alloyed part
+melting to be a hole and flowing out the molten glass is
+concerned. Therefore, the optical glass of the present
+invention should not contain the TeO<sub>2</sub>.</p><heading>EXAMPLES</heading><p num="0027">The Examples of the present invention will be
+explained below. However, it is needless to say that the 
+present invention is not limited to these examples.</p><p num="0028">Tables 1 to 6 show the composition of the examples
+according to the glass of the present invention (No. 1 to
+No. 32) together with their refractive index (n<sub>d</sub>), Abbe
+number (ν<sub>d</sub>) and transition temperature (Tg).
+
+   Tables 7 and 8 show the composition of the glass of
+the comparative examples (No. A to No. H) together with
+their refractive index (n<sub>d</sub>), Abbe number (ν<sub>d</sub>) and
+transition temperature (Tg).
+
+   Table 9 shows the results of a devitrification test
+of the example of the present invention (No. 17, 25, 28 and
+30) and the comparative examples (No. I, J and K). <tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1">EXAMPLE</entry></row><row><entry nameend="7" align="center" namest="1">COMPOSITION (mass%)</entry></row><row><entry align="center">No.</entry><entry align="center">1</entry><entry align="center">2</entry><entry align="center">3</entry><entry align="center">4</entry><entry align="center">5</entry><entry align="center">6</entry></row><row><entry align="center">SiO<sub>2</sub></entry><entry align="center">5.49</entry><entry align="center">5.39</entry><entry align="center">5.39</entry><entry align="center">1.77</entry><entry align="center">1.56</entry><entry align="center">5.44</entry></row><row><entry align="center">B<sub>2</sub>O<sub>3</sub></entry><entry align="center">12.51</entry><entry align="center">10.76</entry><entry align="center">10.35</entry><entry align="center">19.94</entry><entry align="center">19.71</entry><entry align="center">10.30</entry></row><row><entry align="center">La<sub>2</sub>O<sub>3</sub></entry><entry align="center">36.81</entry><entry align="center">37.94</entry><entry align="center">38.55</entry><entry align="center">39.53</entry><entry align="center">40.38</entry><entry align="center">38.55</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub></entry><entry align="center">16.37</entry><entry align="center">16.08</entry><entry align="center">16.08</entry><entry align="center">9.02</entry><entry align="center">4.92</entry><entry align="center">14.05</entry></row><row><entry align="center">ZrO<sub>2</sub></entry><entry align="center">6.22</entry><entry align="center">7.13</entry><entry align="center">7.13</entry><entry align="center">6.40</entry><entry align="center">6.36</entry><entry align="center">7.12</entry></row><row><entry align="center">Nb<sub>2</sub>O<sub>5</sub></entry><entry align="center">1.04</entry><entry align="center">1.02</entry><entry align="center">2.04</entry><entry align="center">1.54</entry><entry align="center">5.09</entry><entry align="center">2.04</entry></row><row><entry align="center">Ta<sub>2</sub>O<sub>5</sub></entry><entry align="center">19.38</entry><entry align="center">19.54</entry><entry align="center">18.02</entry><entry align="center">15.86</entry><entry align="center">15.77</entry><entry align="center">18.02</entry></row><row><entry align="center">ZnO</entry><entry align="center">1.04</entry><entry align="center">1.02</entry><entry align="center">1.02</entry><entry align="center">5.12</entry><entry align="center">5.09</entry><entry align="center">1.02</entry></row><row><entry align="center">Li<sub>2</sub>O</entry><entry align="center">1.04</entry><entry align="center">1.02</entry><entry align="center">1.32</entry><entry align="center">0.72</entry><entry align="center">1.02</entry><entry align="center">1.32</entry></row><row><entry align="center">Sb<sub>2</sub>O<sub>3</sub></entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry></row><row><entry align="center">GeO<sub>2</sub></entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">2.04</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub>+Nb<sub>2</sub>O<sub>5</sub>+GeO<sub>2</sub></entry><entry align="center">17.41</entry><entry align="center">17.10</entry><entry align="center">18.12</entry><entry align="center">10.56</entry><entry align="center">10.01</entry><entry align="center">18.13</entry></row><row><entry align="center">TOTAL AMOUNT</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="center">F</entry><entry align="center">3.63</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">4.02</entry><entry align="center">2.96</entry><entry align="center">1.78</entry></row><row><entry align="center">nd</entry><entry align="center">1.852</entry><entry align="center">1.879</entry><entry align="center">1.880</entry><entry align="center">1.838</entry><entry align="center">1.851</entry><entry align="center">1.878</entry></row><row><entry align="center">v d</entry><entry align="center">41.6</entry><entry align="center">40.6</entry><entry align="center">40.3</entry><entry align="center">42.7</entry><entry align="center">40.3</entry><entry align="center">40.1</entry></row><row><entry align="center">Tg (°C)</entry><entry align="center">610</entry><entry align="center">630</entry><entry align="center">613</entry><entry align="center">592</entry><entry align="center">583</entry><entry align="center">621</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1">EXAMPLE</entry></row><row><entry nameend="7" align="center" namest="1">COMPOSITION (mass%)</entry></row><row><entry align="center">No.</entry><entry align="center">7</entry><entry align="center">8</entry><entry align="center">9</entry><entry align="center">10</entry><entry align="center">11</entry><entry align="center">12</entry></row><row><entry align="center">SiO<sub>2</sub></entry><entry align="center">5.44</entry><entry align="center">1.56</entry><entry align="center">5.44</entry><entry align="center">5.44</entry><entry align="center">5.44</entry><entry align="center">5.44</entry></row><row><entry align="center">B<sub>2</sub>O<sub>3</sub></entry><entry align="center">10.30</entry><entry align="center">16.68</entry><entry align="center">10.30</entry><entry align="center">10.30</entry><entry align="center">10.30</entry><entry align="center">10.30</entry></row><row><entry align="center">La<sub>2</sub>O<sub>3</sub></entry><entry align="center">38.05</entry><entry align="center">38.15</entry><entry align="center">38.05</entry><entry align="center">38.05</entry><entry align="center">38.05</entry><entry align="center">38.05</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub></entry><entry align="center">14.05</entry><entry align="center">10.18</entry><entry align="center">13.03</entry><entry align="center">13.74</entry><entry align="center">10.74</entry><entry align="center">12.74</entry></row><row><entry align="center">Yb<sub>2</sub>O<sub>3</sub></entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">3.00</entry></row><row><entry align="center">TiO<sub>2</sub></entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">1.00</entry></row><row><entry align="center">ZrO<sub>2</sub></entry><entry align="center">6.10</entry><entry align="center">6.35</entry><entry align="center">7.12</entry><entry align="center">6.10</entry><entry align="center">6.10</entry><entry align="center">6.10</entry></row><row><entry align="center">Nb<sub>2</sub>O<sub>5</sub></entry><entry align="center">2.55</entry><entry align="center">5.09</entry><entry align="center">2.55</entry><entry align="center">2.55</entry><entry align="center">2.55</entry><entry align="center">2.55</entry></row><row><entry align="center">Ta<sub>2</sub>O<sub>5</sub></entry><entry align="center">20.05</entry><entry align="center">15.78</entry><entry align="center">20.05</entry><entry align="center">20.36</entry><entry align="center">20.36</entry><entry align="center">20.36</entry></row><row><entry align="center">ZnO</entry><entry align="right"/><entry align="center">5.09</entry></row><row><entry align="center">Li<sub>2</sub>O</entry><entry align="center">1.32</entry><entry align="center">1.02</entry><entry align="center">1.32</entry><entry align="center">1.32</entry><entry align="center">1.32</entry><entry align="center">1.32</entry></row><row><entry align="center">Sb<sub>2</sub>O<sub>3</sub></entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry></row><row><entry align="center">GeO<sub>2</sub></entry><entry align="center">2.04</entry><entry align="right"/><entry align="center">2.04</entry><entry align="center">2.04</entry><entry align="center">2.04</entry><entry align="center">2.04</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub>+Nb<sub>2</sub>O<sub>5</sub>+GeO<sub>2</sub></entry><entry align="center">18.64</entry><entry align="center">15.27</entry><entry align="center">17.62</entry><entry align="center">18.33</entry><entry align="center">15.33</entry><entry align="center">17.33</entry></row><row><entry align="center">TOTAL AMOUNT</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="center">F</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry></row><row><entry align="center">nd</entry><entry align="center">1.881</entry><entry align="center">1.874</entry><entry align="center">1.885</entry><entry align="center">1.882</entry><entry align="center">1.880</entry><entry align="center">1.887</entry></row><row><entry align="center">νd</entry><entry align="center">39.7</entry><entry align="center">40.1</entry><entry align="center">39.3</entry><entry align="center">39.4</entry><entry align="center">39.5</entry><entry align="center">39.1</entry></row><row><entry align="center">Tg(°C)</entry><entry align="center">630</entry><entry align="center">595</entry><entry align="center">628</entry><entry align="center">627</entry><entry align="center">625</entry><entry align="center">629</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">EXAMPLE</entry></row><row><entry nameend="6" align="center" namest="1">COMPOSITION (mass%)</entry></row><row><entry align="center">No.</entry><entry align="center">13</entry><entry align="center">14</entry><entry align="center">15</entry><entry align="center">16</entry><entry align="center">17</entry></row><row><entry align="center">SiO<sub>2</sub></entry><entry align="center">5.44</entry><entry align="center">5.44</entry><entry align="center">5.44</entry><entry align="center">5.44</entry><entry align="center">4.09</entry></row><row><entry align="center">B<sub>2</sub>O<sub>3</sub></entry><entry align="center">10.30</entry><entry align="center">10.30</entry><entry align="center">10.30</entry><entry align="center">10.30</entry><entry align="center">13.23</entry></row><row><entry align="center">La<sub>2</sub>O<sub>3</sub></entry><entry align="center">38.05</entry><entry align="center">38.05</entry><entry align="center">38.05</entry><entry align="center">38.05</entry><entry align="center">35.50</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub></entry><entry align="center">10.74</entry><entry align="center">10.74</entry><entry align="center">10.74</entry><entry align="center">10.74</entry><entry align="center">7.13</entry></row><row><entry align="center">ZrO<sub>2</sub></entry><entry align="center">6.10</entry><entry align="center">6.10</entry><entry align="center">6.10</entry><entry align="center">6.10</entry><entry align="center">6.35</entry></row><row><entry align="center">Nb<sub>2</sub>O<sub>5</sub></entry><entry align="center">2.55</entry><entry align="center">2.55</entry><entry align="center">2.55</entry><entry align="center">2.55</entry><entry align="center">5.09</entry></row><row><entry align="center">Ta<sub>2</sub>O<sub>5</sub></entry><entry align="center">18.36</entry><entry align="center">20.36</entry><entry align="center">20.36</entry><entry align="center">20.36</entry><entry align="center">20.36</entry></row><row><entry align="center">WO<sub>3</sub></entry><entry align="center">5.00</entry></row><row><entry align="center">ZnO</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">5.09</entry></row><row><entry align="center">CaO</entry><entry align="right"/><entry align="center">3.00</entry></row><row><entry align="center">SrO</entry><entry align="right"/><entry align="right"/><entry align="center">3.00</entry></row><row><entry align="center">BaO</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">3.00</entry></row><row><entry align="center">Li<sub>2</sub>O</entry><entry align="center">1.32</entry><entry align="center">1.32</entry><entry align="center">1.32</entry><entry align="center">1.32</entry><entry align="center">1.02</entry></row><row><entry align="center">Sb<sub>2</sub>O<sub>3</sub></entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry></row><row><entry align="center">GeO<sub>2</sub></entry><entry align="center">2.04</entry><entry align="center">2.04</entry><entry align="center">2.04</entry><entry align="center">2.04</entry><entry align="center">2.04</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub>+Nb<sub>2</sub>O<sub>5</sub>+GeO<sub>2</sub></entry><entry align="center">15.33</entry><entry align="center">15.33</entry><entry align="center">15.33</entry><entry align="center">15.33</entry><entry align="center">14.26</entry></row><row><entry align="center">TOTAL AMOUNT</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="center">F</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry></row><row><entry align="center">nd</entry><entry align="center">1.881</entry><entry align="center">1.874</entry><entry align="center">1.874</entry><entry align="center">1.874</entry><entry align="center">1.882</entry></row><row><entry align="center">νd</entry><entry align="center">39.0</entry><entry align="center">39.5</entry><entry align="center">39.5</entry><entry align="center">39.5</entry><entry align="center">37.9</entry></row><row><entry align="center">Tg (°C)</entry><entry align="center">622</entry><entry align="center">619</entry><entry align="center">620</entry><entry align="center">618</entry><entry align="center">604</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">EXAMPLE</entry></row><row><entry nameend="6" align="center" namest="1">COMPOSITION (mass%)</entry></row><row><entry align="center">No.</entry><entry align="center">18</entry><entry align="center">19</entry><entry align="center">20</entry><entry align="center">21</entry><entry align="center">22</entry></row><row><entry align="center">SiO<sub>2</sub></entry><entry align="center">5.44</entry><entry align="center">5.44</entry><entry align="center">5.45</entry><entry align="center">1.56</entry><entry align="center">2.67</entry></row><row><entry align="center">B<sub>2</sub>O<sub>3</sub></entry><entry align="center">12.34</entry><entry align="center">12.34</entry><entry align="center">9.28</entry><entry align="center">14.14</entry><entry align="center">14.65</entry></row><row><entry align="center">La<sub>2</sub>O<sub>3</sub></entry><entry align="center">37.03</entry><entry align="center">32.03</entry><entry align="center">39.06</entry><entry align="center">39.67</entry><entry align="center">37.54</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub></entry><entry align="center">13.03</entry><entry align="center">13.03</entry><entry align="center">11.71</entry><entry align="center">7.13</entry><entry align="center">5.09</entry></row><row><entry align="center">ZrO<sub>2</sub></entry><entry align="center">6.10</entry><entry align="center">6.10</entry><entry align="center">6.10</entry><entry align="center">6.35</entry><entry align="center">6.35</entry></row><row><entry align="center">Nb<sub>2</sub>O<sub>5</sub></entry><entry align="center">2.55</entry><entry align="center">2.55</entry><entry align="center">2.55</entry><entry align="center">5.09</entry><entry align="center">5.09</entry></row><row><entry align="center">Ta<sub>2</sub>O<sub>5</sub></entry><entry align="center">19.34</entry><entry align="center">19.34</entry><entry align="center">20.36</entry><entry align="center">15.78</entry><entry align="center">20.36</entry></row><row><entry align="center">ZnO</entry><entry align="center">3.05</entry><entry align="center">8.05</entry><entry align="right"/><entry align="center">5.09</entry><entry align="center">5.09</entry></row><row><entry align="center">Li<sub>2</sub>O</entry><entry align="center">1.02</entry><entry align="center">1.02</entry><entry align="center">1.32</entry><entry align="center">1.02</entry><entry align="center">1.02</entry></row><row><entry align="center">Sb<sub>2</sub>O<sub>3</sub></entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry></row><row><entry align="center">GeO<sub>2</sub></entry><entry align="right"/><entry align="right"/><entry align="center">4.07</entry><entry align="center">4.07</entry><entry align="center">2.04</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub>+Nb<sub>2</sub>O<sub>5</sub>+GeO<sub>2</sub></entry><entry align="center">15.58</entry> <entry align="center">15.58</entry><entry align="center">18.33</entry><entry align="center">16.29</entry><entry align="center">12.22</entry></row> <row><entry align="center">TOTAL AMOUNT</entry> <entry align="center">100</entry> <entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="center">F</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry></row><row><entry align="center">nd</entry><entry align="center">1.873</entry><entry align="center">1.861</entry><entry align="center">1.884</entry><entry align="center">1.882</entry><entry align="center">1.881</entry></row><row><entry align="center">νd</entry><entry align="center">40.0</entry><entry align="center">39.8</entry><entry align="center">39.2</entry><entry align="center">38.6</entry><entry align="center">38.0</entry></row><row><entry align="center">Tg (°C)</entry><entry align="center">612</entry><entry align="center">580</entry><entry align="center">630</entry><entry align="center">591</entry><entry align="center">601</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">EXAMPLE</entry></row><row><entry nameend="6" align="center" namest="1">COMPOSITION (mass%)</entry></row><row><entry align="center">No.</entry><entry align="center">23</entry><entry align="center">24</entry><entry align="center">25</entry><entry align="center">26</entry><entry align="center">27</entry></row><row><entry align="center">SiO<sub>2</sub></entry><entry align="center">5.39</entry><entry align="center">5.39</entry><entry align="center">5.39</entry><entry align="center">5.45</entry><entry align="center">5.45</entry></row><row><entry align="center">B<sub>2</sub>O<sub>3</sub></entry><entry align="center">12.28</entry><entry align="center">12.28</entry><entry align="center">12.28</entry><entry align="center">10.71</entry><entry align="center">12.34</entry></row><row><entry align="center">La<sub>2</sub>O<sub>3</sub></entry><entry align="center">37.94</entry><entry align="center">37.94</entry><entry align="center">37.94</entry><entry align="center">37.33</entry><entry align="center">37.03</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub></entry><entry align="center">8.45</entry><entry align="center">8.24</entry><entry align="center">8.65</entry><entry align="center">13.03</entry><entry align="center">13.03</entry></row><row><entry align="center">ZrO<sub>2</sub></entry><entry align="center">6.11</entry><entry align="center">6.11</entry><entry align="center">6.11</entry><entry align="center">6.11</entry><entry align="center">6.11</entry></row><row><entry align="center">Nb<sub>2</sub>O<sub>5</sub></entry><entry align="center">1.02</entry><entry align="center">1.02</entry><entry align="center">1.02</entry><entry align="center">2.04</entry><entry align="center">2.04</entry></row><row><entry align="center">Ta<sub>2</sub>O<sub>5</sub></entry><entry align="center">19.85</entry><entry align="center">19.85</entry><entry align="center">19.85</entry><entry align="center">19.54</entry><entry align="center">19.85</entry></row><row><entry align="center">ZnO</entry><entry align="center">5.60</entry><entry align="center">5.60</entry><entry align="center">5.60</entry><entry align="center">5.09</entry><entry align="center">3.05</entry></row><row><entry align="center">Li<sub>2</sub>O</entry><entry align="center">1.02</entry><entry align="center">1.02</entry><entry align="center">1.02</entry><entry align="center">0.61</entry><entry align="center">1.02</entry></row><row><entry align="center">Sb<sub>2</sub>O<sub>3</sub></entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry></row><row><entry align="center">GeO<sub>2</sub></entry><entry align="center">2.04</entry><entry align="center">2.04</entry><entry align="center">2.04</entry></row><row><entry align="center">Lu<sub>2</sub>O<sub>3</sub></entry><entry align="center">0.20</entry><entry align="center">0.41</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub>+Nb<sub>2</sub>O<sub>5</sub>+GeO<sub>2</sub></entry><entry align="center">11.50</entry><entry align="center">11.30</entry><entry align="center">11.70</entry><entry align="center">15.06</entry><entry align="center">15.06</entry></row><row><entry align="center">TOTAL AMOUNT</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="center">F</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry></row><row><entry align="center">nd</entry><entry align="center">1.864</entry><entry align="center">1.864</entry><entry align="center">1.864</entry><entry align="center">1.884</entry><entry align="center">1.867</entry></row><row><entry align="center">νd</entry><entry align="center">40.6</entry><entry align="center">40.6</entry><entry align="center">40.6</entry><entry align="center">39.6</entry><entry align="center">40.4</entry></row><row><entry align="center">Tg (°C)</entry><entry align="center">607</entry><entry align="center">607</entry><entry align="center">608</entry><entry align="center">614</entry><entry align="center">610</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">EXAMPLE</entry></row><row><entry nameend="6" align="center" namest="1">COMPOSITION (mass%)</entry></row><row><entry align="center">No.</entry><entry align="center">28</entry><entry align="center">29</entry><entry align="center">30</entry><entry align="center">31</entry><entry align="center">32</entry></row><row><entry align="center">SiO<sub>2</sub></entry><entry align="center">5.45</entry><entry align="center">5.45</entry><entry align="center">5.45</entry><entry align="center">3.41</entry><entry align="center">5.45</entry></row><row><entry align="center">B<sub>2</sub>O<sub>3</sub></entry><entry align="center">12.34</entry><entry align="center">12.01</entry><entry align="center">13.54</entry><entry align="center">15.57</entry><entry align="center">13.23</entry></row><row><entry align="center">La<sub>2</sub>O<sub>3</sub></entry><entry align="center">37.23</entry><entry align="center">32.57</entry><entry align="center">32.06</entry><entry align="center">33.59</entry><entry align="center">32.88</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub></entry><entry align="center">10.99</entry><entry align="center">10.18</entry><entry align="center">10.18</entry><entry align="center">10.18</entry><entry align="center">10.18</entry></row><row><entry align="center">ZrO<sub>2</sub></entry><entry align="center">6.11</entry><entry align="center">6.11</entry><entry align="center">6.11</entry><entry align="center">6.11</entry><entry align="center">6.11</entry></row><row><entry align="center">Nb<sub>2</sub>O<sub>5</sub></entry><entry align="center">1.53</entry><entry align="center">2.04</entry><entry align="center">3.05</entry><entry align="center">1.53</entry><entry align="center">2.54</entry></row><row><entry align="center">Ta<sub>2</sub>O<sub>5</sub></entry><entry align="center">19.85</entry><entry align="center">19.85</entry><entry align="center">19.85</entry><entry align="center">19.85</entry><entry align="center">19.85</entry></row><row><entry align="center">WO<sub>3</sub></entry><entry align="center">0.00</entry><entry align="center">2.44</entry><entry align="center">2.44</entry><entry align="center">2.44</entry><entry align="center">2.44</entry></row><row><entry align="center">ZnO</entry><entry align="center">5.60</entry><entry align="center">5.60</entry><entry align="center">5.60</entry><entry align="center">5.60</entry><entry align="center">5.60</entry></row><row><entry align="center">Li<sub>2</sub>O</entry><entry align="center">0.81</entry><entry align="center">1.63</entry><entry align="center">1.63</entry><entry align="center">1.63</entry><entry align="center">1.63</entry></row><row><entry align="center">Sb<sub>2</sub>O<sub>3</sub></entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry></row><row><entry align="center">GeO<sub>2</sub></entry><entry align="right"/><entry align="center">2.04</entry></row><row><entry align="center">Lu<sub>2</sub>O<sub>3</sub></entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub>+Nb<sub>2</sub>O<sub>5</sub>+GeO<sub>2</sub></entry><entry align="center">12.52</entry><entry align="center">14.25</entry><entry align="center">13.23</entry><entry align="center">11.70</entry><entry align="center">12.72</entry></row><row><entry align="center">TOTAL AMOUNT</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="center">F</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry></row><row><entry align="center">nd</entry><entry align="center">1.867</entry><entry align="center">1.859</entry><entry align="center">1.857</entry><entry align="center">1.853</entry><entry align="center">1.855</entry></row><row><entry align="center">νd</entry><entry align="center">40.4</entry><entry align="center">39.3</entry><entry align="center">39.0</entry><entry align="center">40.0</entry><entry align="center">39.4</entry></row><row><entry align="center">Tg(°C)</entry><entry align="center">608</entry><entry align="center">577</entry><entry align="center">576</entry><entry align="center">570</entry><entry align="center">579</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="8"><tbody><row><entry nameend="8" namest="1">COMPARATIVE EXAMPLE</entry></row><row><entry nameend="8" align="center" namest="1">COMPOSITION (mass%)</entry></row><row><entry align="center">No.</entry><entry align="center">A</entry><entry align="left">B</entry><entry align="left">C</entry><entry align="center">D</entry><entry align="center">E</entry><entry align="center">F</entry><entry align="center">G</entry></row><row><entry align="center">SiO<sub>2</sub></entry><entry align="center">12.00</entry><entry align="center">5.00</entry><entry align="center">6.00</entry><entry align="center">4.50</entry><entry align="center">4.49</entry><entry align="center">3.00</entry><entry align="center">3.00</entry></row><row><entry align="center">B<sub>2</sub>O<sub>3</sub></entry><entry align="center">11.90</entry><entry align="center">16.30</entry><entry align="center">11.00</entry><entry align="center">15.50</entry><entry align="center">14.97</entry><entry align="center">16.30</entry><entry align="center">17.00</entry></row><row><entry align="center">Al<sub>2</sub>O<sub>3</sub></entry><entry align="center">1.00</entry></row><row><entry align="center">Y<sub>2</sub>O<sub>3</sub></entry><entry align="right"/><entry align="center">8.60</entry><entry align="center">5.00</entry><entry align="right"/><entry align="right"/><entry align="center">2.00</entry><entry align="center">2.00</entry></row><row><entry align="center">La<sub>2</sub>O<sub>3</sub></entry><entry align="center">32.00</entry><entry align="center">38.40</entry><entry align="center">33.00</entry><entry align="center">35.00</entry><entry align="center">35.43</entry><entry align="center">45.00</entry><entry align="center">46.40</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub></entry><entry align="center">33.00</entry><entry align="center">9.60</entry><entry align="center">25.00</entry><entry align="center">10.00</entry><entry align="center">7.98</entry></row><row><entry align="center">ZrO<sub>2</sub></entry><entry align="center">2.00</entry><entry align="center">5.00</entry><entry align="center">4.00</entry><entry align="center">5.00</entry><entry align="center">4.99</entry><entry align="center">5.00</entry><entry align="center">3.00</entry></row><row><entry align="center">Nb<sub>2</sub>O<sub>5</sub></entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">3.00</entry><entry align="center">7.00</entry></row><row><entry align="center">Ta<sub>2</sub>O<sub>5</sub></entry><entry align="center">7.10</entry><entry align="center">15.70</entry><entry align="center">9.00</entry><entry align="center">25.00</entry><entry align="center">21.16</entry><entry align="center">11.00</entry><entry align="center">9.30</entry></row><row><entry align="center">WO<sub>3</sub></entry><entry align="right"/><entry align="center">1.40</entry><entry align="center">7.00</entry><entry align="center">5.00</entry><entry align="center">4.99</entry><entry align="center">11.70</entry><entry align="center">12.30</entry></row><row><entry align="center">ZnO</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">1.80</entry><entry align="center">1.00</entry></row><row><entry align="center">Li<sub>2</sub>O</entry><entry align="center">1.00</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">0.20</entry></row><row><entry align="center">PbO</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">3.99</entry></row><row><entry align="center">Yb<sub>2</sub>O<sub>3</sub></entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">2.00</entry></row><row><entry align="center">TOTAL AMOUNT</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="center">F<sub>2</sub></entry><entry align="center">3.63</entry></row><row><entry align="center">nd</entry><entry align="center">1.804</entry><entry align="center">1.851</entry><entry align="center">1.882</entry><entry align="center">1.872</entry><entry align="center">1.875</entry><entry align="center">1.881</entry><entry align="center">1.884</entry></row><row><entry align="center">νd</entry><entry align="center">47.2</entry><entry align="center">42.9</entry><entry align="center">40.6</entry><entry align="center">38.6</entry><entry align="center">37.8</entry><entry align="center">37.7</entry><entry align="center">36.4</entry></row><row><entry align="center">Tg (°C)</entry><entry align="center">673</entry><entry align="center">709</entry><entry align="center">739</entry><entry align="center">701</entry><entry align="center">655</entry><entry align="center">675</entry><entry align="center">674</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">COMPARATIVE EXAMPLE</entry></row><row><entry nameend="2" align="center" namest="1">COMPOSITION (mass%)</entry></row><row><entry align="center">No.</entry><entry align="center">H</entry></row><row><entry align="center">SiO<sub>2</sub></entry><entry align="center">2.00</entry></row><row><entry align="center">B<sub>2</sub>O<sub>3</sub></entry><entry align="center">10.00</entry></row><row><entry align="center">La<sub>2</sub>O<sub>3</sub></entry><entry align="center">40.00</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub></entry><entry align="center">10.00</entry></row><row><entry align="center">Lu<sub>2</sub>O<sub>3</sub></entry><entry align="center">5.00</entry></row><row><entry align="center">ZrO<sub>2</sub></entry><entry align="center">2.50</entry></row><row><entry align="center">Nb<sub>2</sub>O<sub>5</sub></entry><entry align="center">1.00</entry></row><row><entry align="center">Ta<sub>2</sub>O<sub>5</sub></entry><entry align="center">18.50</entry></row><row><entry align="center">ZnO</entry><entry align="center">1.00</entry></row><row><entry align="center">GeO<sub>2</sub></entry><entry align="center">10.00</entry></row><row><entry align="center">TOTAL AMOUNT</entry><entry align="center">100</entry></row><row><entry align="center">nd</entry><entry align="center">1.894</entry></row><row><entry align="center">νd</entry><entry align="center">40.9</entry></row><row><entry align="center">Tg (°C)</entry><entry align="center">707</entry></row></tbody></tgroup></table></tables></p><p num="0029">The optical glasses of the examples of the present
+invention (No. 1 to No. 32) shown in Tables 1 to 6 were
+obtained in the following processes. General optical
+glasses materials such as oxides, hydroxides, carbonates,
+nitrates, fluorides and the like were weighed by their mass 
+proportions according to be the composition of the examples
+shown in Tables 1 to 6 and were mixed together. The mixed
+glass materials were installed to a platinum crucible of
+300cc volume and were melted, refined and stirred at 1200°C
+to 1400°C for 3 to 6 hours depending on their meltability
+based on the compositions so as to be homogenized. The
+homogenized molten glasses were cast into a metal molding
+die or the like and annealed.</p><p num="0030">As shown in Tables 1 to 6, all the optical glasses of
+the examples of the present invention (No. 1 to No. 32)
+have the optical constants (refractive index (n<sub>d</sub>) and Abbe
+number (ν<sub>d</sub>)) within the above-described specific area and
+the transition point (Tg) within a range of 550 to 650°C.
+Thus, their optical glasses are suitable for the glass
+preform material for precision mold pressing and precision
+mold pressing.
+
+   On the contrary, as shown in Tables 7 and 8, glass of
+comparative example No. A (example 6 of above-described
+Publication 1) contains fluorine, but has transition
+temperature (Tg) of more than 650°C. Therefore, it is
+difficult to be applied to precision mold pressing.
+Further, the optical constants are not within the above-described
+specific area. With respect to the glasses of
+the comparative example No. B (example 1 of above-described
+Publication 2), comparative example No. C (example 2 of 
+above-described Publication 2), comparative example No. D
+(example 2 of above-described Publication 3), comparative
+example No. E (example 5 of above-described Publication 3),
+comparative example No. F (example 2 of above-described
+Publication 4), comparative example No. G (example 3 of
+above-described Publication 4) and comparative example No.
+H (example 4 of above-described Publication 5), all of them
+have the optical constants within the above-described
+specific area. However, since their transition temperature
+(Tg) is more than 650°C, it is difficult to be applied to
+precision mold pressing.</p><p num="0031">Next, the devitrification test will be explained.
+50cc of examples No. 17, 25, 28 and 30 and No. I, J, K and
+L having the compositions described below were respectively
+installed into a platinum crucible and melted in a electric
+furnace at 1300°C for 1 hour in order to be the complete
+molten glass. Successively the temperature was lowered and
+kept at 1150°C, 1180°C or 1200°C for 2hours, and the
+crucibles were taken out from the furnace. The condition of
+the molten glass in a crucible are visually observed.
+
+   The composition of the comparative example 17 is
+based on that of the example 17, except 4.58 mass% of La<sub>2</sub>O<sub>3</sub>
+component was substituted with Y<sub>2</sub>O<sub>3</sub>. The comparative
+examples J, K, and L had same compositions of the example
+23 and 28 of the above-described Publication 7 (their 
+compositions shown in Publication 7 are converted from mol%
+to mass%) and the example 4 of the above-described
+Publication 6 respectively.
+
+   A circle mark (O) indicates that devitrification was
+generated after the above-described process, and a cross
+mark (x) indicates that devitrification was not generated.
+As shown in Table 9, each of the molten glasses of the
+examples of the present invention are superior in
+resistance to devitrification property to the comparative
+example I to L. Particularly, from the example 17 and the
+comparative example I, it is found that the resistance to
+devitrification property degrades when the glass contains
+Y<sub>2</sub>O<sub>3</sub>. <tables><table><tgroup cols="9"><tbody><row><entry align="center" namest="1"/><entry nameend="5" align="center" namest="2">EXAMPLE</entry><entry nameend="9" align="center" namest="6">COMPARATIVE EXAMPLE</entry></row><row><entry align="center"/><entry align="center">17</entry><entry align="center">25</entry><entry align="center">28</entry><entry align="center">30</entry><entry align="center">I</entry><entry align="center">J</entry><entry align="center">K</entry><entry align="center">L</entry></row><row><entry align="center">SiO<sub>2</sub></entry><entry align="center">4.09</entry><entry align="center">5.39</entry><entry align="center">5.39</entry><entry align="center">5.45</entry><entry align="center">4.09</entry><entry align="center">5.99</entry><entry align="center">5.95</entry><entry align="center">7.30</entry></row><row><entry align="center">B<sub>2</sub>O<sub>3</sub></entry><entry align="center">13.23</entry><entry align="center">12.28</entry><entry align="center">12.34</entry><entry align="center">13.54</entry><entry align="center">13.23</entry><entry align="center">10.75</entry><entry align="center">10.33</entry><entry align="center">9.40</entry></row><row><entry align="center">Y<sub>2</sub>O<sub>3</sub></entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">4.58</entry></row><row><entry align="center">La<sub>2</sub>O<sub>3</sub></entry><entry align="center">35.50</entry><entry align="center">37.94</entry><entry align="center">37.23</entry><entry align="center">32.06</entry><entry align="center">30.92</entry><entry align="center">25.97</entry><entry align="center">25.79</entry><entry align="center">45.80</entry></row><row><entry align="center">Gd<sub>2</sub>O<sub>3</sub></entry><entry align="center">7.13</entry><entry align="center">8.65</entry><entry align="center">10.99</entry><entry align="center">10.18</entry><entry align="center">7.13</entry><entry align="center">28.90</entry><entry align="center">28.69</entry><entry align="center">10.00</entry></row><row><entry align="center">ZrO<sub>2</sub></entry><entry align="center">6.35</entry><entry align="center">6.11</entry><entry align="center">6.11</entry><entry align="center">6.11</entry><entry align="center">6.35</entry><entry align="center">3.07</entry><entry align="center">3.66</entry><entry align="center">7.20</entry></row><row><entry align="center">Nb<sub>2</sub>O<sub>5</sub></entry><entry align="center">5.09</entry><entry align="center">1.02</entry><entry align="center">1.53</entry><entry align="center">3.05</entry><entry align="center">5.09</entry><entry align="right"/><entry align="right"/><entry align="center">1.20</entry></row><row><entry align="center">Ta<sub>2</sub>O<sub>5</sub></entry><entry align="center">20.36</entry><entry align="center">19.85</entry><entry align="center">19.85</entry><entry align="center">19.85</entry><entry align="center">20.36</entry><entry align="center">9.90</entry><entry align="center">10.93</entry><entry align="center">13.90</entry></row><row><entry align="center">WO<sub>3</sub></entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="center">2.44</entry><entry align="right"/><entry align="center">6.93</entry><entry align="center">6.89</entry></row><row><entry align="center">ZnO</entry><entry align="center">5.09</entry><entry align="center">5.6</entry><entry align="center">5.6</entry><entry align="center">5.6</entry><entry align="center">5.09</entry><entry align="center">7.3</entry><entry align="center">6.44</entry><entry align="center">5.00</entry></row><row><entry align="center">Li<sub>2</sub>O</entry><entry align="center">1.02</entry><entry align="center">1.02</entry><entry align="center">0.81</entry><entry align="center">1.63</entry><entry align="center">1.02</entry><entry align="center">1.19</entry><entry align="center">1.33</entry></row><row><entry align="center">Sb<sub>2</sub>O<sub>3</sub></entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="center">0.10</entry><entry align="right"/><entry align="right"/><entry align="center">0.20</entry></row><row><entry align="center">GeO<sub>2</sub></entry><entry align="center">2.04</entry><entry align="center">2.04</entry><entry align="right"/><entry align="right"/><entry align="center">2.04</entry></row><row><entry align="center">TOTAL</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="center">F</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry><entry align="center">1.78</entry></row><row><entry nameend="9" align="left" namest="1">DEVITRIFICATION TEST</entry></row><row><entry align="center">1200°C</entry><entry align="center">no data</entry><entry align="center">O</entry><entry align="center">O</entry><entry align="center">O</entry><entry align="center">no data</entry><entry align="center">×</entry><entry align="center">×</entry><entry align="center">×</entry></row><row><entry align="center">1180°C</entry><entry align="center">no data</entry><entry align="center">○</entry><entry align="center">○</entry><entry align="center">○</entry><entry align="center">no data</entry><entry align="center">×</entry><entry align="center">×</entry><entry align="center">×</entry></row><row><entry align="center">1150°C</entry><entry align="center">○</entry><entry align="center">×</entry><entry align="center">○</entry><entry align="center">O</entry><entry align="center">×</entry><entry align="center">×</entry><entry align="center">×</entry><entry align="center">×</entry></row></tbody></tgroup></table></tables></p><heading>Industrial Applicability</heading><p num="0032">As described above, the optical glass of the
+invention is a SiO<sub>2</sub> -B<sub>2</sub>O<sub>3</sub>-La<sub>2</sub>O<sub>3</sub>-Gd<sub>2</sub>O<sub>3</sub>-Ta<sub>2</sub>O<sub>5</sub>-Li<sub>2</sub>O-F system
+optical glass and does not contain lead component, cadmium
+component, thorium component, Y<sub>2</sub>O<sub>3</sub>, P<sub>2</sub>O<sub>5</sub> and TeO<sub>2</sub>, wherein
+the optical glass having a refractive index (n<sub>d</sub>) and an
+Abbe number (ν<sub>d</sub>) which are within an area surrounded by
+straight lines that are drawn by connecting point A
+(n<sub>d</sub>=1.835, ν<sub>d</sub>=46.5), point B (n<sub>d</sub>=1. 90, ν<sub>d</sub>=40.0), point C,
+(n<sub>d</sub>=1.90, ν<sub>d</sub>=35.0) and point D (n<sub>d</sub>=1.835, ν<sub>d</sub>=38.0) in a
+sequence of A, B, C, D and A as border lines in x-y
+orthogonal coordinates shown in FIG. 1, in which X-axis is
+the Abbe number (ν<sub>d</sub>) and Y-axis is the refractive index
+(n<sub>d</sub>), the area including the border lines, the optical
+glass does not contain lead component, cadmium component,
+thorium component, Y<sub>2</sub>O<sub>3</sub>, P<sub>2</sub>O<sub>5</sub> and TeO<sub>2</sub>, and the optical
+glass has a transition temperature (Tg) of 550 to 650°C.
+Thus, the optical glass is suitable for glass preform
+material used for precision mold pressing, and for
+precision mold pressing. The optical glass is industrially
+very useful. Further, since the optical glass does not
+contain lead component, cadmium component and thorium
+component, the present invention is successful in obtaining
+an optical glass making low environmental burden.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An optical glass having;
+   a refractive index (nd) and an Abbe number (νd) which
+are within an area surrounded by straight lines that are
+drawn by connecting point A (nd=1.835, νd=46.5), point B
+(nd=1.90, νd=40.0), point C, (nd=1.90, νd=35.0) and point D
+(nd=1.835, νd=38.0) in a sequence of A, B, C, D and A as
+border lines in x-y orthogonal coordinates shown in FIG. 1,
+in which X-axis is the Abbe number (νd) and Y-axis is the
+refractive index (nd), the area including the border lines,
+and the optical glass comprising the following components
+by mass%:
+<claim-text><claim-text>0.1 to 8% of SiO2;</claim-text><claim-text>5 to less than 20% of B2O3;</claim-text><claim-text>15 to 50% of La2O3;</claim-text><claim-text>0.1 to 30% Gd2O3,</claim-text><claim-text>0 to 10% of GeO2 and</claim-text><claim-text>0 to 8% of Nb2O5,</claim-text></claim-text>
+   where a total content of Gd2O3 + GeO2 + Nb2O5 is more
+than 10% to 30%;
+<claim-text><claim-text>0 to 5% of Yb2O3;</claim-text><claim-text>0 to 1% of TiO2;</claim-text><claim-text>0 to 8% of ZrO2;</claim-text><claim-text>more than 10 to 25% of Ta2O5;</claim-text><claim-text>0 to 10% of WO3;</claim-text><claim-text>0 to 15% of ZnO;</claim-text><claim-text>0 to 5% of RO,</claim-text></claim-text>
+   where RO is one or more kinds of oxides selected from
+CaO, SrO and BaO;
+<claim-text><claim-text>more than 0.5 to less than 3% of Li2O;</claim-text><claim-text>0 to 1% of Sb2O3; and</claim-text><claim-text>0.1 to 6% in a the total content of fluorides of
+above-described metal elements as F element with which a
+part or all of one or more kinds of oxides of above-described
+metal elements are substituted;</claim-text></claim-text>
+   wherein the optical glass is free from lead, cadmium,
+thorium, Y2O3, P2O5, and TeO2, and
+   the optical glass has a transition temperature (Tg)
+of 550 to 650°C.</claim-text></claim><claim num="2"><claim-text>An optical glass having;
+a refractive index (nd) and an Abbe number (νd) which are
+within an area surrounded by straight lines that are drawn
+by connecting point A (nd=1.835, νd=46.5), point B (nd=1.90,
+νd=40.0), point C, (nd=1.90, νd=35.0) and point D (nd=1.835,
+νd=38.0) in a sequence of A, B, C, D and A as border lines
+in x-y orthogonal coordinates shown in FIG. 1, in which X-axis
+is the Abbe number (νd) and Y-axis is the refractive
+index (nd), the area including the border lines, and the
+optical glass comprising the following components by mass%:
+<claim-text><claim-text>0.1 to 8% of SiO2;</claim-text><claim-text>5 to less than 20% of B2O3;</claim-text><claim-text>15 to 50% of La2O3;</claim-text><claim-text>0.1 to 30% Gd2O3,</claim-text><claim-text>more than 10 to 25% of Ta2O5; and</claim-text><claim-text>more than 0.5 to less than 3% of Li2O;
+and</claim-text><claim-text>0 to 10% of GeO2 and/or</claim-text><claim-text>0 to 8% of Nb2O5,</claim-text></claim-text>
+   where a total content of Gd2O3 + GeO2 + Nb2O5 is more
+than 10% to 30%;
+   and/or
+<claim-text><claim-text>0 to 5% of Yb2O3; and/or</claim-text><claim-text>0 to 1% of TiO2; and/or</claim-text><claim-text>0 to 8% of ZrO2; and/or</claim-text><claim-text>0 to 10% of WO3; and/or</claim-text><claim-text>0 to 15% of ZnO; and/or</claim-text><claim-text>0 to 5% of RO,</claim-text></claim-text>
+   where RO is one or more kinds of oxides selected from
+CaO, SrO and BaO;
+   and/or
+<claim-text><claim-text>0 to 1% of Sb2O3; and/or</claim-text><claim-text>0 to less than 0.5% of Lu2O3; and</claim-text><claim-text>0.1 to 6% in the total content of fluorides of above-described
+metal elements as F element with which a part or
+all of one or more kinds of oxides of above-described metal
+elements are substituted;</claim-text></claim-text>
+   wherein the optical glass is free from lead component,
+cadmium component, thorium component, Y2O3, P2O5 and TeO2,
+and
+   the optical glass has a transition temperature (Tg)
+of 550 to 650°C.</claim-text></claim><claim num="3"><claim-text>The optical glass as claimed in claim 1 or 2,
+comprising by mass% 0.1 to less than 5.5% of SiO2.</claim-text></claim><claim num="4"><claim-text>The optical glass as claimed in claim 1 ,2 or
+3, comprising by mass% more than 1 to less than 3% of Li2O.</claim-text></claim><claim num="5"><claim-text>The optical glass as claimed in claim 1, 2, 3
+or 4, having the refractive index (nd) of less than 1.875.</claim-text></claim><claim num="6"><claim-text>The optical glass as claimed in claim 1, 2, 3
+or 4, having the refractive index (nd) of 1.875 or more.</claim-text></claim><claim num="7"><claim-text>The optical glass as claimed in claim 1, 2, 3,
+4 or 5, having the refractive index (nd) of more than 1.85.</claim-text></claim><claim num="8"><claim-text>The optical glass as claimed in claim 1, 2, 3,
+4, 5, 6 or 7, having the Abbe number (νd) of less than 39.5.</claim-text></claim><claim num="9"><claim-text>The optical glass as claimed in claim 1, 2, 3,
+4, 5, 6 or 7, having the Abbe number (νd) of 39.5 or more.</claim-text></claim><claim num="10"><claim-text>The optical glass as claimed in claim 1, 2, 3,
+4, 5, 6, 7, 8 or 9, having the transition temperature (Tg)
+of 640°C or less.</claim-text></claim><claim num="11"><claim-text>The optical glass as claimed in claim 10,
+having the transition temperature (Tg) of 630°C or less.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

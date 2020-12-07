@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1431375-A1" country="EP" doc-number="1431375" kind="A1" lang="EN" family-id="32392997" status="new" date-produced="20090516" date="20040623"><bibliographic-data><publication-reference ucid="EP-1431375-A1" status="new" fvid="24073750"><document-id status="new" format="original"><country>EP</country><doc-number>1431375</doc-number><kind>A1</kind><date>20040623</date></document-id></publication-reference><application-reference ucid="EP-03022905-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03022905</doc-number><kind>A</kind><date>20031009</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-32114302-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>32114302</doc-number><kind>A</kind><date>20021217</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B01D  53/86        20060101AFI20060310RMJP        </classification-ipcr><classification-ipcr status="new">B01D  53/86        20060101CFI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C10L   1/10        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L   1/12        20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C10L   1/18        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L   1/24        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L   1/26        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L   1/30        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L  10/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L  10/02        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L  10/06        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L  10/08        20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C10L  10/08        20060101CLI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C10M 163/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10M 163/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10M 169/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10M 169/04        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C10L   1/30</classification-symbol><classification-symbol scheme="EC">C10L   1/30B</classification-symbol><classification-symbol scheme="EC">C10L  10/02</classification-symbol><classification-symbol scheme="EC">C10L  10/06</classification-symbol><classification-symbol scheme="EC">C10M 163/00</classification-symbol><classification-symbol scheme="EC">C10M 169/04D</classification-symbol><classification-symbol scheme="ICO">M10L1:12B</classification-symbol><classification-symbol scheme="ICO">M10L1:12C</classification-symbol><classification-symbol scheme="ICO">M10L1:12D</classification-symbol><classification-symbol scheme="ICO">M10L1:18A8</classification-symbol><classification-symbol scheme="ICO">M10L1:18D</classification-symbol><classification-symbol scheme="ICO">M10L1:24</classification-symbol><classification-symbol scheme="ICO">M10L1:24B</classification-symbol><classification-symbol scheme="ICO">M10L1:24C1</classification-symbol><classification-symbol scheme="ICO">M10L1:24D2</classification-symbol><classification-symbol scheme="ICO">M10L1:26A</classification-symbol><classification-symbol scheme="ICO">M10L1:26A1</classification-symbol><classification-symbol scheme="ICO">M10L1:26B2</classification-symbol><classification-symbol scheme="ICO">M10L1:30A</classification-symbol><classification-symbol scheme="ICO">M10L1:30B</classification-symbol><classification-symbol scheme="ICO">M10M203:102B</classification-symbol><classification-symbol scheme="ICO">M10M203:104B</classification-symbol><classification-symbol scheme="ICO">M10M203:106B</classification-symbol><classification-symbol scheme="ICO">M10M205:02B</classification-symbol><classification-symbol scheme="ICO">M10M207:027</classification-symbol><classification-symbol scheme="ICO">M10M207:028</classification-symbol><classification-symbol scheme="ICO">M10M207:10</classification-symbol><classification-symbol scheme="ICO">M10M207:144</classification-symbol><classification-symbol scheme="ICO">M10M207:26</classification-symbol><classification-symbol scheme="ICO">M10M207:262</classification-symbol><classification-symbol scheme="ICO">M10M207:283B</classification-symbol><classification-symbol scheme="ICO">M10M207:28B</classification-symbol><classification-symbol scheme="ICO">M10M219:02</classification-symbol><classification-symbol scheme="ICO">M10M219:022</classification-symbol><classification-symbol scheme="ICO">M10M219:024</classification-symbol><classification-symbol scheme="ICO">M10M219:044</classification-symbol><classification-symbol scheme="ICO">M10M219:046</classification-symbol><classification-symbol scheme="ICO">M10M219:068</classification-symbol><classification-symbol scheme="ICO">M10M219:087</classification-symbol><classification-symbol scheme="ICO">M10M219:088</classification-symbol><classification-symbol scheme="ICO">M10M219:089</classification-symbol><classification-symbol scheme="ICO">M10M219:106</classification-symbol><classification-symbol scheme="ICO">M10M223:045</classification-symbol><classification-symbol scheme="ICO">M10M223:047</classification-symbol><classification-symbol scheme="ICO">M10M223:049</classification-symbol><classification-symbol scheme="ICO">M10N230:43</classification-symbol><classification-symbol scheme="ICO">M10N240:10</classification-symbol><classification-symbol scheme="ICO">M10N240:102</classification-symbol><classification-symbol scheme="ICO">M10N240:105</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Einbringung von Molybdän aus einem Schmieröl in ein Brennstoffverbrennungssystem</invention-title><invention-title load-source="ep" status="new" lang="EN">Delivering molybdenum from a lubricant source into a fuel combustion system</invention-title><invention-title load-source="ep" status="new" lang="FR">Introduction de molybdenum à partir d'un lubrifiant dans un système de combustion de carburant</invention-title><citations><patent-citations><patcit ucid="EP-1215272-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1215272</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1321506-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1321506</doc-number><kind>A2</kind></document-id><sources><source category="XP" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1338590-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1338590</doc-number><kind>A1</kind></document-id><sources><source category="XP" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1362905-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1362905</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4155860-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4155860</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5376154-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5376154</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6200358-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6200358</doc-number><kind>B1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2001072759-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2001072759</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2002016532-A1"  status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2002016532</doc-number><kind>A1</kind></document-id><sources><source name="EXA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2003064568-A2" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2003064568</doc-number><kind>A2</kind></document-id><sources><source category="XP"  name="SEA"  created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new"  format="epo"><addressbook><name>ETHYL CORP</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ETHYL CORPORATION</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>ETHYL CORPORATION</last-name><address><street>330 South Fourth Street</street><city>Richmond, Virginia 23219-4304</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>GATTO VINCENT J</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>GUINTHER GREGORY H</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>ROOS JOSEPH W</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SCHWAB SCOTT D</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GATTO, VINCENT J.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GUINTHER, GREGORY H.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>ROOS, JOSEPH W.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SCHWAB, SCOTT D.</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GATTO, VINCENT J.</last-name><address><street>13709 West Bay Drive</street> <city>Midlothian Virginia 23112</city><country>US</country></address></addressbook></inventor> <inventor status="new" format="original"><addressbook><last-name>GUINTHER, GREGORY H.</last-name> <address><street>3100 Old Brookewood Way</street> <city>Richmond Virginia 23233</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>ROOS, JOSEPH W.</last-name><address><street>10261 Berkeley Manor Drive</street><city>Mechanicsville Virginia 23116</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SCHWAB, SCOTT D.</last-name><address><street>12216 Valleybrook Drive</street><city>Richmond Virginia 23233</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Teipel, Susanne, Dr.</last-name><address><street>Schwabe, Sandmair, Marx Patentanwälte Stuntzstrasse 16</street><city>81677 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>HU</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>RO</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The present invention relates to an apparatus and method for delivering molybdenum
+from a lubricant source into a fuel combustion system or to the exhaust therefrom. By the
+present invention, molybdenum from the lubricant or the fuel will interact with phosphorus,
+sulfur, and/or lead from the combustion products. In this manner, the molybdenum scavenges or
+inactivates harmful materials which have migrated into the fuel or combustion products, and
+which can otherwise poison catalytic converters, sensors and/or automotive on-board diagnostic
+devices. The present invention can also lead to improved durability of exhaust after treatment
+systems.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><b><u style="single">FIELD OF THE INVENTION</u></b></heading><p num="0001">The present invention relates to an apparatus and method for delivering molybdenum
+from a lubricant source into a fuel combustion system or to the exhaust therefrom. By the
+present invention, molybdenum from the lubricant will interact with phosphorus, sulfur, and/or
+lead from the combustion products. Molybdenum can also enter the combustion system in the
+present invention as a component of the fuel being burned. In this invention, the molybdenum
+scavenges or inactivates harmful materials which have migrated into the fuel or combustion
+products, and which can otherwise poison catalytic converters, sensors and/or automotive on-board
+diagnostic devices. The invention thus provides a method for improving combustion
+efficiency of a fuel being combusted in a combustion unit through the introduction therein of
+molybdenum. The present invention can also lead to improved durability of exhaust after
+treatment systems.</p><heading><b><u style="single">BACKGROUND OF THE INVENTION</u></b></heading><p num="0002">A problem exists in fuel combustion systems in which the fuel contains, or acquires, or
+produces upon combustion, one or more metal (e.g. lead), sulfur, and/or phosphorus
+contaminants that can poison or degrade catalytic converters, sensors, or on-board diagnostic
+devices.</p><p num="0003">An additional problem is created by such contaminants in the form of undesirably
+increased levels of certain combustion products or by-products in the exhaust.</p><p num="0004">Yet another problem from such contaminants is a detrimental effect on after treatment
+systems. These contaminants can include elemental phosphorus, lead and sulfur, or compounds 
+thereof in the fuel, or in the air. The contaminants can also get into the fuel, or the combustion
+chamber, or the combustion exhaust stream from the engine lubricants which often contain
+phosphorus-containing and sulfur-containing additives, and lead compounds associated with
+combustion system wear. In addition, the combustion in a waste incinerator of waste engine oil
+will often have oil containing a molybdenum lubricity or antioxidant additive.</p><p num="0005">It is a well-known phenomenon that vehicles and other combustion systems consume,
+that is the engine bums, oil used as a lubricant for the engine or moving parts of a combustion
+system. Various pathways exist for lubricating oil to enter the combustion system, and/or its
+exhaust stream. Clearly the various components or additives in the lubricating oil also are
+consumed or burned and these components or additives can have deleterious effects on the
+combustion system's catalysts, after treatment system, and emissions.</p><p num="0006">It is therefore desirable to inhibit, reduce or prevent the deleterious interaction of
+components (such as phosphorus, lead and/or sulfur arising from the lubricant source, air or fuel
+or otherwise entering the combustion process) with the combustion exhaust stream to thereby
+prevent catalyst poisoning, after treatment system malfunction, and increased emissions.</p><heading><b><u style="single">SUMMARY OF THE INVENTION</u></b></heading><p num="0007">In an embodiment, the present invention provides a method to inhibit, reduce or prevent
+the deleterious interaction of components (such as phosphorus, lead and/or sulfur arising from
+the lubricant source, any processing aid or adjuvant, fuel, fuel additive, air or otherwise entering
+the combustion process) with the combustion exhaust stream of a combustion unit by the
+introduction to the unit or its exhaust stream of an effective amount of molybdenum to thereby
+prevent catalyst poisoning, sensor poisoning, after treatment system malfunction, and/or
+increased emissions. </p><p num="0008">In another embodiment, the present invention provides a system for adding an effective
+amount of molybdenum to the combustion of a fuel for scavenging phosphorus, lead and/or
+sulfur from the fuel or the products resulting from the combustion of the fuel.</p><p num="0009">The present invention further relates to methods to improve the durability of an after
+treatment device for a combustion system, wherein the method includes contacting the products
+of the combustion of a hydrocarbonaceous fuel with a lubricant containing molybdenum in an
+amount sufficient for the molybdenum to interact with one or more contaminants selected from
+the group consisting of phosphorus, sulfur, lead or compounds thereof in said products to thereby
+reduce the amount of one or more of the contaminants contacting the after treatment device.</p><p num="0010">By "molybdenum" herein is meant any molybdenum compound, source or material,
+including but not limited to molybdenum trioxide, mono-nuclear and di-nuclear and tri-nuclear
+molybdenum sulfonate, molybdenum phenate, molybdenum salicylate, molybdenum
+carboxylates, molybdenum dithiocarbamates, neutral and overbased molybdenum salicylates,
+neutral and overbased molybdenum phenates, neutral and overbased molybdenum sulfonates,
+ammonium molybdate, sodium molybdate, potassium molybdate, and molybdenum halides,
+compounds derived from molybdenum reacted with amines and alcohols, and combinations and
+mixtures thereof. Examples of commercial sulfur-containing oil soluble molybdenum
+compounds are Sakura-Lube 100, Sakura-Lube 155, Sakura-Lube 165, and Sakura-Lube 180
+from Asahi Denka Kogyo K.K., Molyvan® A, Molyvan® 807 and Molyvan® 822 from R. T.
+Vanderbilt Company, and Naugalube MolyFM from Crompton Corporation. Examples of
+commercial sulfur- and phosphorus-free oil soluble molybdenum compounds are Sakura-Lube
+700 from Asahi Denka Kogyo K.K., and Molyvan® 856B and Molyvan® 855 from R. T.
+Vanderbilt Company, Inc. </p><p num="0011">The molybdenum is preferably present in the lubricant as an oil-soluble additive that can
+volatilize and thereby enter the combustion chamber or exhaust stream. It may also enter the
+combustion chamber through "bulk" consumption, i.e., past valve guides or around piston rings.</p><p num="0012">By "base oil" herein is meant a base oil which can be selected from the group consisting of
+paraffinic, naphthenic, aromatic, poly-alpha-olefins, synthetic esters, and polyol esters, and
+mixtures thereof. In a preferred embodiment, the base oil contains less than or equal to 0.03 wt.
+% sulfur, and greater than or equal to 90 wt. % saturates, and has a viscosity index greater than
+or equal to 80 and less than or equal to 120. In another embodiment, the base oil contains less
+than or equal to 0.03 wt. % sulfur, and greater than or equal to 90 wt. % saturates, and has a
+viscosity index greater than or equal to 120. In a more preferred embodiment, the base oil is
+substantially sulfur-free.</p><p num="0013">By "scavenging" herein is meant the contacting, combining with, reacting, incorporating,
+chemically bonding with or to, physically bonding with or to, adhering to, agglomerating with,
+affixing, inactivating, rendering inert, consuming, alloying, gathering, cleansing, consuming, or
+any other way or means whereby a first material makes a second material unavailable or less
+available.</p><p num="0014">By "interaction", "interacting" and "interacts" herein is meant scavenging.</p><p num="0015">By "inactivating" herein is meant scavenging.</p><p num="0016">By "hydrocarbonaceous fuel" herein is meant hydrocarbonaceous fuels such as but not
+limited to diesel fuel, jet fuel, alcohols, ethers, kerosene, low sulfur fuels, synthetic fuels, such as
+Fischer-Tropsch fuels, liquid petroleum gas, fuels derived from coal, genetically engineered
+biofuels and crops and extracts therefrom, natural gas, propane, butane, unleaded motor and
+aviation gasolines, and so-called reformulated gasolines which typically contain both 
+hydrocarbons of the gasoline boiling range and fuel-soluble oxygenated blending agents, such as
+alcohols, ethers and other suitable oxygen-containing organic compounds. Oxygenates suitable
+for use in the fuels of the present invention include methanol, ethanol, isopropanol, <i>t</i>-butanol,
+mixed alcohols, methyl tertiary butyl ether, tertiary amyl methyl ether, ethyl tertiary butyl ether
+and mixed ethers. Oxygenates, when used, will normally be present in the reformulated
+gasoline fuel in an amount below about 25% by volume, and preferably in an amount that
+provides an oxygen content in the overall fuel in the range of about 0.5 to about 5 percent by
+volume. "Hydrocarbonaceous fuel" or "fuel" herein shall also mean waste or used engine or
+motor oils which may or may not contain molybdenum, gasoline, bunker fuel, coal (dust or
+slurry), crude oil, refinery "bottoms" and by-products, crude oil extracts, hazardous wastes, yard
+trimmings and waste, wood chips and saw dust, agricultural waste, fodder, silage, plastics and
+other organic waste and/or by-products, and mixtures thereof, and emulsions, suspensions, and
+dispersions thereof in water, alcohol, or other carrier fluids. By "diesel fuel" herein is meant
+one or more fuels selected from the group consisting of diesel fuel, biodiesel, biodiesel-derived
+fuel, synthetic diesel and mixtures thereof. It is preferred that the hydrocarbonaceous fuel is
+substantially sulfur-free, by which is meant a sulfur content not to exceed on average about 30 ppm
+of the fuel. Since the fuel useful in the present invention may include used or waste oil having a
+molybdenum friction modifier or lubricity additive, the molybdenum in the scavenging and
+protection achieved by the present invention can also come from such a fuel instead of, or in
+addition to, the lubricant.</p><p num="0017">By "combustion system" and "apparatus" herein is meant, for example and not by
+limitation herein, any diesel-electric hybrid vehicle, a gasoline-electric hybrid vehicle, a two-stroke
+engine, any and all burners or combustion units, including for example and without 
+limitation herein, stationary burners, waste incinerators, diesel fuel burners, diesel fuel engines,
+automotive diesel engines, gasoline fuel burners, gasoline fuel engines, power plant generators,
+and the like. The hydrocarbonaceous fuel combustion systems that may benefit from the present
+invention include all combustion units, systems, devices, and/or engines that burn fuels. By
+"combustion system" herein is also meant any and all internal and external combustion devices,
+machines, engines, turbine engines, jet engines, boilers, incinerators, evaporative burners, plasma
+burner systems, plasma arc, stationary burners, and the like which can combust or in which can
+be combusted a hydrocarbonaceous fuel.</p><p num="0018">By "contacting" herein is meant the contacting, bringing together, reacting, complexing,
+coordinating, combining, admixing, mixing, and the like association between two or more
+materials, whether or not a chemical or physical reaction or change occurs.</p><p num="0019">By "essentially free of phosphorus and compounds thereof" is meant an amount of
+elemental phosphorus or a compound thereof which is less than about 10 ppm in the lubricant or
+resulting exhaust stream. Such low levels of phosphorus are desirable in many current lubricant
+formulations, and it is anticipated that lower levels of phosphorus in lubricants will be
+continually sought, perhaps required. A preferred level of phosphorus in the lubricant is an
+amount between 1 ppm and approximately 1500 ppm. A more preferred level of phosphorus in
+the lubricant is an amount between 500 ppm and 1200 ppm.</p><p num="0020">By "after treatment system" or "after treatment device" herein is meant any system or
+device which contacts the combustion product(s) from a combustion chamber in a manner
+designed to oxidize, reduce or otherwise treat the combustion product(s). Examples, but not by
+way of limitations herein, of such after treatment systems include an automobile three-way
+catalytic converter, lean NO<sub>x</sub> traps, catalyzed diesel particulate filter ("C-DPF") and a 
+continuously regenerating technology diesel particulate filter. "After treatment system" also
+includes associated sensors like O<sub>2</sub> sensors and NO<sub>x</sub> sensors. Analogous gasoline combustion
+after treatment systems are known and are included herein as deriving benefit from the present
+invention.</p><p num="0021">It is to be understood that both the foregoing general description and the following
+detailed description are exemplary and explanatory only and are intended to provide further
+explanation of the present invention, as claimed.</p><heading><b><u style="single">DETAILED DESCRIPTION OF THE PRESENT INVENTION</u></b></heading><p num="0022">In a more specific embodiment, the present invention provides a method for reducing the
+amount of, or the deleterious effect on exhaust emissions after treatment and control devices
+from, at least one contaminant selected from the group consisting of phosphorus, lead, sulfur,
+and compounds thereof in an exhaust stream from the combustion of a hydrocarbonaceous fuel
+in a combustion system lubricated by a lubricant, said method including the steps: (a) lubricating
+the combustion system with the lubricant comprising a major amount of a base oil of lubricating
+viscosity and a minor amount of one or more additives comprising (i) at least one organosulfur
+compound, or at least one organophosphorus compound, or both, and (ii) at least one
+molybdenum source; (b) combusting in the combustion system the hydrocarbonaceous fuel to
+produce combustion products comprising at least one contaminant material selected from the
+group consisting of sulfur, lead, phosphorus, and compounds thereof; and (c) contacting the
+molybdenum with the sulfur, lead, phosphorus, and compounds thereof in the combustion
+products, whereby the molybdenum interacts with the sulfur, lead, phosphorus, and/or
+compounds thereof. This interaction between the molybdenum and the sulfur, lead, phosphorus, 
+and/or compounds thereof results in the scavenging of the contaminants, whereby several
+beneficial results are obtained. By scavenging at least one and preferably more or all of the
+contaminants, the beneficial results include maintaining catalytic converter performance,
+maintaining sensor performance, maintaining LNT performance, and maintaining diesel
+particulate filter (DPF) performance.</p><p num="0023">The present invention also provides a method of improving the combustion of a fuel in a
+combustion system for improving DPF performance, as determined by reduced thermal
+gravimetric analysis soot light-off temperature, said method comprising introducing a
+combustion improving amount of molybdenum to the combustion in a combustion system of a
+fuel, whereby the thermal gravimetric analysis light-off temperature is reduced relative to the
+thermal gravimetric analysis light-off temperature achieved in the absence of the introduction of
+molybdenum.</p><p num="0024">When cars are operated with molybdenum in the lubricant, less phosphorus, sulfur, and
+lead will be deposited on the car's catalytic converter. According to the present invention, less
+phosphorus, sulfur and lead is deposited throughout the catalyst when Mo has been combusted in
+or with the fuel. Molybdenum is combining in the combustion or exhaust stream with
+phosphorus and/or sulfur to form stable molybdenum-phosphorus and/or molybdenum sulfate
+species that do not form impermeable or reduced-permeability glazes on the catalyst. With less
+impermeable glaze on the catalyst, less emissions can "break through", i.e., pass through as
+unconverted emissions. Therefore, it is desirable to have Mo in the combustion and/or exhaust
+stream.</p><p num="0025">Thus, the present invention provides a method to inhibit the formation of a phosphorus-containing,
+sulfur-containing, or lead-containing permeability-reducing glaze on the surface of a 
+catalyst exposed to the products from the combustion in a combustion unit of a fuel, wherein the
+method includes contacting molybdenum with the products of combustion of the fuel, wherein
+the products contain at least one member selected from the group consisting of phosphorus-containing,
+sulfur-containing and lead-containing materials. The sulfur-containing materials can
+poison the active metals of the catalyst whether or not a sulfur-containing glaze is formed on the
+surface of the catalyst.</p><p num="0026">Further evidence of phosphorus, sulfur and lead protection and lower emissions achieved
+by the presence of molybdenum in the combustion product of a lubricant or fuel containing
+molybdenum can be drawn from the literature that teaches that molybdenum can be used to
+protect platinum catalysts from sulfur poisoning in refinery naphtha reforming reactions, and
+also in hydrodesulfurization reactions for lowering sulfur in gasoline and diesel fuels. (B.
+Delmon, "Recent Approaches to the Anatomy and Physiology of Cobalt Molybdenum
+Hydrodesulfurization Catalysts," Proceedings of the Climax Third International Conference on
+the Chemistry and Uses of Molybdenum, Ann Arbor, Mich., Aug. 19-23, 1979, p. 73-84.</p><p num="0027">As an additional benefit, molybdenum in the exhaust after treatment system can be
+expected to scavenge lead to form the white colored, well-known normal molybdate "PbMoO<sub>4</sub>"
+(melting point 1065 °C), also known as wulfenite (Cotton, F. A., and Wilkinson, G.; "Advanced
+Inorganic Chemistry, Fifth Edition, John Wiley &amp; Sons. New York, p. 805). and prevent lead
+poisoning of the exhaust emissions after treatment equipment.</p><p num="0028">The most important ore of molybdenum is molybdenite (MoS<sub>2</sub>). By virtue of the "natural
+stability" of MoS<sub>2</sub>, this material would be the most likely species forming as a result of the
+molybdenum-sulfur interaction spelled out in this invention. Molybdenum oxides, when heated
+in the presence of a sulfur source, give MoS<sub>2</sub>, which is the most stable molybdenum sulfide at 
+high temperature. According to Cotton, this sulfide has a crystal lattice of close-packed layers
+of sulfur atoms creating trigonal prismatic interstices occupied by molybdenum atoms.
+Therefore, by scavenging sulfur, the resulting product, MoS<sub>2</sub>, is protecting the exhaust after
+treatment system from catalyst poisons.</p><p num="0029">The present invention thus establishes that the molybdenum in the combustion stream
+scavenges catalyst pollutants by tying them up as sulfides, phosphates, and lead molybdates.
+These product compounds then participate further in emissions control as demonstrated in the
+following example.</p><p num="0030">Example: Thermal gravimetric analysis (TGA) testing was used to determine the effect of
+the fuel soluble metal additives on the temperature of maximum soot oxidation. Particulate
+matter (PM) generated from a 1998 Cummins M-11 engine operated on the US EPA transient
+emissions cycle was collected on a quartz fiber filter. The oil used was a heavy duty diesel oil
+with ZDDP in the additive package. Elemental analysis of the oil gave the following results in
+parts per million (ppm): Phosphorus (1264), sulfur (4000), zinc (1437), boron (407), calcium
+(3614), and magnesium (18). The base fuel used was a number 2 diesel fuel with 388 ppm by
+weight sulfur. From this fuel, three additional fuels were made by adding strontium, manganese,
+and molybdenum at 20 mg metal per liter fuel, respectively. For each separate fuel, PM
+generated during three consecutive EPA Heavy-Duty Transient cycles was collected on a single
+filter using a Pierburg PS2000A particulate sampling system. TGA was then performed on
+small sections of each PM loaded filter using a TA Instruments Model 2950. The sample
+temperature was increased at a rate of 20°C/minute under air at ambient pressure for all runs.
+From a plot of weight loss vs. time, the temperature at which the maximum soot oxidation rate
+occurred was determined. The TGA results of the four sets of particulates are plotted in Figures 
+1 &amp; 2. Figure 1 shows the metal additives in mg metal per liter of fuel while Figure 2 show the
+same results calculated in gravimetric efficiency of the respective metals. Both Figures show
+that after scavenging the sulfur and phosphorus coming from the fuel and oil used, the
+molybdenum also lowered the light off temperature by 157°C from that of the base fuel (655 °C)
+to that of the molybdenum containing system (498 °C). These results show that after scavenging
+sulfur, phosphorus, and lead from the combustion/exhaust system, the resultant molybdenum
+products are also active in carbon burnout chemistry and result in a further soot lowering as
+shown in Figures 1 and 2. If the emissions control system contains a catalyst of any nature, for
+example, a continuously regenerating diesel particulate filter (DPF), or a diesel oxidation
+catalyst, and/or a lean NO<sub>x</sub> trap (LNT), then these emission control units would also be protected
+from the sulfur, phosphorus, and lead poisoning and therefore retain their performance level so
+long as the molybdenum scavenger is in the system. This significant molybdenum synergism
+with the system catalysts in soot oxidation is an unexpected bonus to the scavenging benefit of
+the molybdenum that would be added to the lubricant.</p><p num="0031">It should be understood that the contaminants being scavenged according to the present
+invention by the molybdenum from the lubricant can originate from the air utilized in the
+combustion of the hydrocarbonaceous fuel.</p><p num="0032">In another embodiment, the contaminants being scavenged according to the present
+invention by the molybdenum can originate from the hydrocarbonaceous fuel.</p><p num="0033">In yet another embodiment of the present invention, the contaminants being scavenged by
+the molybdenum can originate from the lubricant used to lubricate the combustion system.</p><p num="0034">In one embodiment, the lubricant-borne molybdenum which will scavenge the
+contaminant(s) can bleed, "blow-by", flow, seep, be forced or compressed, be drawn, sucked, or 
+aspirated or otherwise accidentally or deliberately get into a combustion chamber of the
+combustion system. In this embodiment, the contaminant(s) encounter and interact with the
+molybdenum during or after the combustion process, whereby scavenging occurs. Thus an
+embodiment of a method of the present invention is achieved when lubricant containing
+molybdenum escapes around a valve in the combustion system, such as for example and not as a
+limitation herein, an intake valve or an exhaust valve in an automotive engine. In this manner,
+the molybdenum is caused to encounter and interact with the contaminant(s), whereby
+scavenging can occur.</p><p num="0035">In another embodiment, the molybdenum is caused, deliberately or inadvertently, to
+encounter the contaminant(s) in a passageway through which the combustion products
+containing the contaminant(s) are conveyed away from the combustion chamber. In this
+manner, the scavenging occurs outside the combustion chamber of the combustion system.</p><p num="0036">In another embodiment of the present invention, the molybdenum volatilizes from the
+lubricant and is carried over into the combustion chamber containing the fuel.</p><p num="0037">In yet another embodiment, the combustion system utilizes a deliberate recirculating
+process, whereby vapors in a crankcase are recirculated into either the intake manifold or the
+combustion chamber. In this manner, any lubricant containing the phosphorus, sulfur, and/or
+lead contaminants is caused to encounter and interact with molybdenum in the combustion or
+exhaust.</p><p num="0038">In one embodiment, the fuel or the exhaust from its combustion is treated with a low level
+of molybdenum, such as for example, a molybdenum level of about 20 ppm Mo in the fuel or
+combustion exhaust or less. </p><p num="0039">This invention also achieved catalyst protection and contaminant scavenging when the
+fuel combusted contains an oil having a molybdenum compound, without extra molybdenum
+being delivered to the combustion unit or its exhaust from a lubricant source.</p><p num="0040">The present invention provides in another embodiment an apparatus for performing a
+method for reducing the amount of, or deleterious effect on exhaust emissions after treatment
+and control devices of, at least one contaminant selected from the group consisting of
+phosphorus, lead, sulfur and compounds thereof in an exhaust stream, wherein the apparatus
+contains (a) a combustion chamber adapted to combust a hydrocarbonaceous fuel; (b) a means to
+introduce the hydrocarbonaceous fuel into the combustion chamber; (c) a means to convey
+combustion product from the combustion chamber; (d) a lubricant comprising a major amount of
+a base oil of lubricating viscosity and a minor amount of one or more additives comprising (i) at
+least one organosulfur compound, or at least one organophosphorus compound, or both, and (ii)
+at least one molybdenum source; and (e) a means to introduce the lubricant to the combustion
+product. The apparatus can further contain an after treatment device or system.</p><p num="0041">According to one embodiment of the present invention, the organosulfur compound in the
+lubricant can be selected from the group consisting of sulfurized olefins, sulfurized fats and
+vegetable oils, sulfurized unsaturated esters and amides, ashless and metal containing
+dithiocarbamates, substituted thiadiazoles, sulfurized hindered phenols, sulfurized alkylphenols,
+neutral metal-containing sulfonate detergents, overbased metal-containing sulfonate detergents,
+neutral metal-containing sulfurized phenate detergents, and overbased metal-containing
+sulfurized phenate detergents, or combinations and mixtures thereof.</p><p num="0042">According to another embodiment, the organophosphorus compound in the lubricant can
+be selected from the group consisting of primary, secondary and aryl neutral and overbased zinc 
+dialkyldithiophosphates (ZDDP's), trialkyl- and triarylphosphites, mixed alkyl/aryl phosphites,
+alkyl and aryl phosphorothiolthionates, and alkyl and aryl phosphorothionates, and combinations
+or mixtures thereof.</p><p num="0043">It is therefore believed that by the use of the present invention a significant reduction in
+the amount of phosphorus detected on a device such as a catalyst can be achieved when
+molybdenum is in the exhaust stream from a combustion system. Specifically, reductions in the
+amount of such contaminants above 20% by weight, and more preferably reductions in an
+amount of from 60% to 80% by weight detected on the after treatment device will be achieved
+by the present invention. This will produces a dramatic and highly desirable benefit in the
+improved durability of such after treatment devices or systems.</p><p num="0044">Other embodiments of the present invention will be apparent to those skilled in the art
+from consideration of the specification, Figures and practice of the invention disclosed herein.
+It is intended that the specification and Figures be considered as exemplary only, with a true
+scope and spirit of the invention being indicated by the following claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A method for reducing the deleterious effect on exhaust emissions after treatment and
+control devices of at least one contaminant selected from the group consisting of phosphorus,
+lead, sulfur and compounds thereof in an exhaust stream from the combustion of a
+hydrocarbonaceous fuel in a combustion system lubricated by a lubricant, said method
+comprising the steps:
+<claim-text><claim-text>(a) lubricating the combustion system with the lubricant comprising a major amount
+of a base oil of lubricating viscosity and a minor amount of one or more additives comprising (i)
+at least one organosulfur compound, or at least one organophosphorus compound, or both, and
+(ii) at least one molybdenum source;</claim-text><claim-text>(b) combusting in the combustion system the hydrocarbonaceous fuel to produce
+combustion products comprising at least one material selected from the group consisting of
+sulfur, lead, phosphorus, and compounds thereof;</claim-text><claim-text>(c) contacting the molybdenum with at least one of the sulfur, lead, phosphorus, and
+compounds thereof in the combustion products,</claim-text></claim-text>
+   whereby the molybdenum interacts with at least one of the sulfur, lead, phosphorus, and
+compounds thereof.</claim-text></claim><claim num="2"><claim-text>The method of claim 1, wherein the sulfur, lead, phosphorus, and compounds thereof in
+the combustion products originate from the fuel.</claim-text></claim><claim num="3"><claim-text>The method of claim 1, wherein the sulfur, lead, phosphorus, and compounds thereof in
+the combustion products originate from air used in the combustion of the fuel.</claim-text></claim><claim num="4"><claim-text>The method of claim 1, wherein the sulfur, lead, phosphorus, and compounds thereof in
+the combustion products originate from the lubricant.</claim-text></claim><claim num="5"><claim-text>The method of claim 1, wherein the exhaust stream is essentially free of phosphorus and
+compounds thereof.</claim-text></claim><claim num="6"><claim-text>The method of claim 1, wherein the combustion system further comprises an after
+treatment system.</claim-text></claim><claim num="7"><claim-text>The method of claim 6, wherein the after treatment system is selected from the group
+consisting of a catalyzed diesel particulate filter and a continuously regenerating technology
+diesel particulate filter.</claim-text></claim><claim num="8"><claim-text>The method of claim 1, wherein the combustion system is selected from the group
+consisting of any diesel-electric hybrid vehicle, gasoline-electric hybrid vehicle, a two-stroke
+engine, any and all burners or combustion units, stationary burners, waste incinerators, diesel
+fuel burners, diesel fuel engines, automotive diesel engines, gasoline fuel burners, gasoline fuel
+engines, power plant generators, any and all internal and external combustion devices, machines,
+engines, turbine engines, jet engines, boilers, incinerators, evaporative burners, plasma burner
+systems, plasma arc, stationary burners, and devices that can combust or in which can be
+combusted a hydrocarbonaceous fuel.</claim-text></claim><claim num="9"><claim-text>The method of claim 1, wherein the hydrocarbonaceous fuel is selected from the group
+consisting of diesel fuel, biodiesel, biodiesel-derived fuel, synthetic diesel, jet fuel, alcohols,
+ethers, kerosene, low sulfur fuels, synthetic fuels, Fischer-Tropsch fuels, liquid petroleum gas,
+fuels derived from coal, genetically engineered biofuels and crops and extracts therefrom, natural
+gas, propane, butane, unleaded motor and aviation gasolines, reformulated gasolines which
+contain both hydrocarbons of the gasoline boiling range and fuel-soluble oxygenated blending
+agents, gasoline, bunker fuel, coal (dust or slurry), crude oil, used engine or motor oils which
+may or may not contain molybdenum, refinery "bottoms" and by-products, crude oil extracts,
+hazardous wastes, yard trimmings and waste, wood chips and saw dust, agricultural waste,
+fodder, silage, plastics, organic waste, and mixtures thereof, and emulsions, suspensions, and
+dispersions thereof in water, alcohol, and other carrier fluids.</claim-text></claim><claim num="10"><claim-text>An apparatus for performing the method of claim 1, said apparatus comprising
+<claim-text><claim-text>(a) a combustion chamber adapted to combust a hydrocarbonaceous fuel;</claim-text><claim-text>(b) a means to introduce the hydrocarbonaceous fuel into the combustion chamber;</claim-text><claim-text>(c) a means to convey combustion product from the combustion chamber;</claim-text><claim-text>(d) a lubricant comprising a major amount of a base oil of lubricating viscosity and a
+minor amount of one or more additives comprising (i) at least one organosulfur
+compound, or at least one organophosphorus compound, or both, and (ii) at least
+one molybdenum source; and</claim-text><claim-text>(e) a means to introduce the lubricant to the combustion product.</claim-text></claim-text></claim-text></claim><claim num="11"><claim-text>The apparatus of claim 10, further comprising (f) an after treatment system.</claim-text></claim><claim num="12"><claim-text>The apparatus of claim 11, wherein the after treatment system is selected from the group
+consisting of a catalyzed diesel particulate filter and a continuously regenerating technology
+diesel particulate filter.</claim-text></claim><claim num="13"><claim-text>The apparatus of claim 10, wherein the apparatus is selected from the group consisting of
+any diesel-electric hybrid vehicle, gasoline-electric hybrid vehicle, a two-stroke engine, any and
+all burners or combustion units, stationary burners, waste incinerators, diesel fuel burners, diesel
+fuel engines, automotive diesel engines, gasoline fuel burners, gasoline fuel engines, power plant
+generators, any and all internal and external combustion devices, machines, engines, turbine
+engines, jet engines, boilers, incinerators, evaporative burners, plasma burner systems, plasma
+arc, stationary burners, and devices that can combust or in which can be combusted a
+hydrocarbonaceous fuel.</claim-text></claim><claim num="14"><claim-text>A method for improving the durability of an after treatment device for a combustion
+system, said method comprising contacting the products of the combustion of a
+hydrocarbonaceous fuel from a combustion system with a molybdenum source in an amount
+sufficient for the molybdenum to interact with one or more contaminants selected from the group
+consisting of phosphorus, sulfur, lead or compounds thereof in said products to thereby reduce
+the amount of one or more of the contaminants contacting the after treatment device.</claim-text></claim><claim num="15"><claim-text>The method of claim 14, wherein the amount of phosphorus detected on the after
+treatment device is reduced by an amount of from 20% to 80% by weight, relative to the amount
+of phosphorus detected if molybdenum is not contacted with said products.</claim-text></claim><claim num="16"><claim-text>The method of claim 14, wherein the amount of sulfur detected on the after treatment
+device is reduced by an amount of from 20% to 80% by weight, relative to the amount of sulfur
+detected if molybdenum is not contacted with said products.</claim-text></claim><claim num="17"><claim-text>The method of claim 14, wherein the amount of lead detected on the after treatment
+device is reduced by an amount of from 20% to 80% by weight, relative to the amount of lead
+detected if molybdenum is not contacted with said products.</claim-text></claim><claim num="18"><claim-text>The method of claim 1, wherein the organosulfur compound in the lubricant is selected
+from the group consisting of sulfurized olefins, sulfurized fats and vegetable oils, sulfurized
+unsaturated esters and amides, ashless and metal containing dithiocarbamates, substituted
+thiadiazoles, sulfurized hindered phenols, sulfurized alkylphenols, neutral metal-containing
+sulfonate detergents, overbased metal-containing sulfonate detergents, neutral metal-containing
+sulfurized phenate detergents, and overbased metal-containing sulfurized phenate detergents, or
+combinations and mixtures thereof.</claim-text></claim><claim num="19"><claim-text>The method of claim 1, wherein the organophosphorus compound in the lubricant is
+selected from the group consisting of primary, secondary and aryl neutral and overbased zinc
+dialkyldithiophosphates (ZDDP's), trialkyl- and triarylphosphites, mixed alkyl/aryl phosphites,
+alkyl and aryl phosphorothiolthionates, and alkyl and aryl phosphorothionates, and combinations
+or mixtures thereof.</claim-text></claim><claim num="20"><claim-text>The method of claim 1, wherein the molybdenum source in the lubricant is selected from
+the group consisting of molybdenum trioxide, molybdenum sulfonates, molybdenum phenates,
+molybdenum salicylates, molybdenum carboxylates, mono-nuclear and di-nuclear and tri-nuclear
+molybdenum dithiocarbamates, neutral and overbased molybdenum salicylates, overbased
+molybdenum phenates, overbased molybdenum sulfonates, ammonium molybdate, sodium
+molybdate and potassium molybdate, and molybdenum halides, compounds derived from
+molybdenum reacted with amines and alcohols, and combinations and mixtures thereof.</claim-text></claim><claim num="21"><claim-text>The method of claim 1, wherein the base oil is selected from the group consisting of
+paraffinic, naphthenic, aromatic, poly-alpha-olefins, synthetic esters, and polyol esters, and
+mixtures thereof.</claim-text></claim><claim num="22"><claim-text>The method of claim 1, wherein the base oil contains less than or equal to 0.03 wt. %
+sulfur, and greater than or equal to 90 wt. % saturates, and has a viscosity index greater than or
+equal to 80 and less than or equal to 120.</claim-text></claim><claim num="23"><claim-text>The method of claim 1, wherein the base oil contains less than or equal to 0.03 wt. %
+sulfur, and greater than or equal to 90 wt. % saturates, and has a viscosity index greater than or
+equal to 120.</claim-text></claim><claim num="24"><claim-text>The method of claim 1, wherein the base oil is substantially sulfur-free.</claim-text></claim><claim num="25"><claim-text>The method of claim 1, wherein the hydrocarbonaceous fuel contains low levels of sulfur.</claim-text></claim><claim num="26"><claim-text>The method of claim 1, wherein the hydrocarbonaceous fuel is substantially free of
+sulfur.</claim-text></claim><claim num="27"><claim-text>The method of claim 1, wherein the hydrocarbonaceous fuel contains low levels of sulfur
+and is further treated with oxygenates.</claim-text></claim><claim num="28"><claim-text>The method of claim 1, wherein the hydrocarbonaceous fuel is substantially free of sulfur
+and is further treated with oxygenates.</claim-text></claim><claim num="29"><claim-text>The method of claim 1, wherein the hydrocarbonaceous fuel contains low levels of sulfur
+and is further treated with low levels of molybdenum.</claim-text></claim><claim num="30"><claim-text>The method of claim 1, wherein the hydrocarbonaceous fuel is substantially free of sulfur
+and is further treated with low levels of molybdenum.</claim-text></claim><claim num="31"><claim-text>A method of improving the combustion of a fuel in a combustion system, as determined
+by reduced thermal gravimetric analysis light-off temperature of combustion particulate
+products, said method comprising introducing a combustion improving amount of
+molybdenum to the combustion in a combustion system of a fuel, whereby the thermal
+gravimetric analysis light-off temperature is reduced relative to the thermal gravimetric
+analysis light-off temperature achieved in the absence of the introduction of
+molybdenum.</claim-text></claim><claim num="32"><claim-text>A method to inhibit the formation of a phosphorus-containing, sulfur-containing, or lead-containing
+permeability-reducing glaze on the surface of a catalyst exposed to the
+products from the combustion in a combustion unit of a fuel, said method comprising
+contacting molybdenum with the products of combustion of the fuel, wherein said
+products contain at least one member selected from the group consisting of phosphorus-containing,
+sulfur-containing and lead-containing materials.</claim-text></claim><claim num="33"><claim-text>A method for reducing the deleterious effect on exhaust emissions after treatment
+and control devices of at least one contaminant selected from the group consisting of
+phosphorus, lead, sulfur and compounds thereof in an exhaust stream from the combustion of a
+hydrocarbonaceous fuel containing a molybdenum compound in a combustion system, said
+method comprising the steps combusting in the combustion system the hydrocarbonaceous fuel
+containing a molybdenum compound to produce combustion products comprising at least one
+material selected from the group consisting of sulfur, lead, phosphorus, and compounds thereof,
+whereby the molybdenum interacts with at least one of the contaminants selected from the group
+consisting of sulfur, lead, phosphorus, and compounds thereof.</claim-text></claim><claim num="34"><claim-text>The method of claim 6, wherein the after treatment system is selected from the
+group consisting of lean NOx trap, and diesel oxidation catalyst.</claim-text></claim></claims><drawings status="new"><figure num="1"><img id="img-00230001" orientation="unknown" wi="164" img-format="tif" img-content="dr" file="00230001.tif" inline="no" he="217"/></figure><figure num="2"><img id="img-00240001" orientation="unknown" wi="164" img-format="tif" img-content="dr" file="00240001.tif" inline="no" he="217"/></figure></drawings><search-report-data status="new"><doc-page id="img--90000001" orientation="portrait" wi="154" status="new" file="90000001.tif" he="232" type="tif"/><doc-page id="img--90010001" orientation="portrait" wi="154" status="new" file="90010001.tif" he="230" type="tif"/><doc-page id="img--90020001" orientation="portrait" wi="156" status="new" file="90020001.tif" he="230" type="tif"/></search-report-data><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1403341-A1" country="EP" doc-number="1403341" kind="A1" lang="EN" family-id="31977877" status="new" date-produced="20090516" date="20040331"><bibliographic-data><publication-reference ucid="EP-1403341-A1" status="new" fvid="24006414"><document-id status="new" format="original"><country>EP</country><doc-number>1403341</doc-number><kind>A1</kind><date>20040331</date></document-id></publication-reference><application-reference ucid="EP-03077891-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03077891</doc-number><kind>A</kind><date>20030915</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-25682202-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>25682202</doc-number><kind>A</kind><date>20020927</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/01        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/01        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/42        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">B41J   2/42        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/50        20060101C I20060722RMEP        </classification-ipcr><classification-ipcr status="new">B41M   5/52        20060101A I20060722RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B41J   2/42</classification-symbol><classification-symbol scheme="EC">B41M   5/52</classification-symbol><classification-symbol scheme="EC">C09D  11/00C</classification-symbol><classification-symbol scheme="EC">C09D  11/00C2B</classification-symbol><classification-symbol scheme="IDT">B41J2/42</classification-symbol><classification-symbol scheme="IDT">B41M5/00J</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Tintenstrahldruckverfahren und Tintenstrahltintenzusammensetzung</invention-title><invention-title load-source="ep" status="new" lang="EN">Inkjet printing method and inkjet ink composition</invention-title><invention-title load-source="ep" status="new" lang="FR">Méthode d'impression à jet d'encre et composition d'encre pour impression à jet d'encre</invention-title><citations><patent-citations><patcit ucid="EP-0974626-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0974626</doc-number><kind>A1</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1219688-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1219688</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="EP-1226970-A2"  status="new"><document-id status="new"  format="epo"><country>EP</country><doc-number>1226970</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6447110-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6447110</doc-number><kind>B1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>EASTMAN KODAK CO</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>EASTMAN KODAK COMPANY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>EASTMAN KODAK COMPANY</last-name><address><street>343 State Street</street><city>Rochester, New York 14650</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>CHEN HUIJUAN D</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>FRAZIER RICKY G</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>WANG XIAORU</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>CHEN, HUIJUAN D.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>FRAZIER, RICKY G.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>WANG, XIAORU</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Chen, Huijuan D., c/o Eastman Kodak Company</last-name><address><street>Patent Legal Staff, 343 State Street</street><city>Rochester, New York 14650-2201</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Frazier, Ricky G., c/o Eastman Kodak Company</last-name><address><street>Patent Legal Staff, 343 State Street</street><city>Rochester, New York 14650-2201</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Wang, Xiaoru, c/o Eastman Kodak Company</last-name><address><street>Patent Legal Staff, 343 State Street</street><city>Rochester, New York 14650-2201</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Weber, Etienne Nicolas</last-name><address><street>Kodak Industrie, Département Brevets, CRT, Zone Industrielle</street><city>71102 Chalon sur Saône Cedex</city><country>FR</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>An ink jet printing method, comprising the steps of A) providing 
+an ink jet printer that is responsive to digital data signals; B) loading the printer 
+with an ink jet recording element; C) loading the printer with an ink jet ink 
+composition comprising an aqueous ink jet ink composition comprising: a 
+pigment, a polymer latex containing at least one halogenated vinyl monomer, at 
+least one surfactant, and a humectant; and D) printing on the ink jet recording 
+element accompanied by a heating step using the ink jet ink composition in 
+response to the digital data signals. </p></abstract><description load-source="ep" status="new" lang="EN"><heading><b>FIELD OF THE INVENTION</b></heading><p num="0001">The present invention relates to an ink jet printing method using an 
+aqueous ink jet ink composition comprising pigment and a polymer latex. The 
+polymer latex is prepared from at least one halogenated vinyl monomer 
+composition. </p><heading><b>BACKGROUND OF THE INVENTION</b></heading><p num="0002">Ink jet printing is a non-impact method for producing images by 
+the deposition of ink droplets on a substrate (paper, transparent film, fabric, etc.) 
+in response to digital signals. Ink jet printers have found broad applications 
+across markets ranging from industrial labeling to short run printing to desktop 
+document and pictorial imaging and large format printing for outdoor applications 
+such as banners, signages, displays, posters, billboard and buswraps. </p><p num="0003">This technique of printing is well suited for printing on a variety of 
+surfaces (receivers) including porous and non-porous surfaces. Porous inkjet 
+receivers have the advantage of large fluid intake and this provides fast printing 
+speed. However, in some applications, such as banners, signages, displays, 
+posters, billboard and buswraps, these porous receivers suffer from durability 
+issues such as lightfastness, waterfastness, abrasion resistance and weather 
+resistance. In order to overcome these problems, the prints are usually post 
+treated by methods such as lamination, which adds to the cost considerably. 
+Historically, in order to overcome these problems, solvent based inks or UV 
+curable inks were developed to be printed on non-absorbing substrates such as 
+vinyl to achieve the desired durability. US patent 4,106,027 describes such a 
+solvent based ink that is suitable for printing images on non-absorbing receivers 
+with improved adhesion and durability. EP 0 882 104 B1 describes a UV curable 
+inkjet ink composition for better durability of the print on non-absorbing 
+substrate. A significant environmental, health and safety concern with both of 
+these types of ink is the evaporation of solvent or UV monomer during printing.  </p><p num="0004">US Patent 6,087,416 describes the use of an aqueous based 
+pigment ink for printing on non-absorbing vinyl substrate. That ink contains a 
+grafted copolymer binder that is soluble in the aqueous vehicle but insoluble in 
+water. However, the problem with the ink is that, due to the soluble nature of the 
+binder in the ink vehicle, the ink viscosity is high and the printing reliability is 
+poor. In addition, the printed images are not durable to solvent. </p><p num="0005">US Patent 4,762,875 described a printing inks containing pigment 
+and polymer additives for plastics and metal surfaces, however, there is a problem 
+with this invention that the solid content for this ink is high, therefore the 
+viscosity of the ink is too high for inkjet ink applications; in addition, the 
+additives used in this invention is hydrophilic in nature therefore the resulted 
+coatings has poor water resistance. </p><p num="0006">Therefore, there is a need for an aqueous based ink jet ink that 
+provides good waterfastness, lightfastness, abrasion resistance, good adhesion to 
+non-absorbing substrates including untreated vinyl, and that can be printed 
+reliably through a piezo or thermal printhead. </p><heading><b>SUMMARY OF THE INVENTION</b></heading><p num="0007">This and other objects are achieved in accordance with the present 
+invention which comprises an ink jet printing method, comprising the steps of: 
+<sl><li>A) providing an ink jet printer that is responsive to digital data signals; </li><li>B) loading said printer with an ink jet recording element; </li><li>C) loading said printer with an ink jet ink composition comprising an 
+aqueous ink jet ink composition comprising: 
+<ul list-style="bullet"><li>a pigment; </li><li>a polymer latex containing at least one halogenated vinyl monomer; </li><li>at least one surfactant; and </li><li>a humectant; and </li></ul></li><li>D) printing on said ink jet recording element accompanied by a heating 
+step using said ink jet ink composition in response to said digital data signals. </li></sl></p><p num="0008">It was found that the colloid stability, stain resistance and 
+abrasion resistance of an ink jet image was improved using the composition 
+described herein. </p><heading><b>DETAILED DESCRIPTION OF THE INVENTION</b></heading><p num="0009">The method of the present invention is suited for printing on a 
+variety of substrates, especially on non-absorbing substrates. The non-absorbing 
+substrates that may be used in the present invention include any substrate that is 
+essentially non-porous. They are usually not specially treated for additional liquid 
+absorption. Therefore, these materials have very low or no liquid absorbing 
+capacity. Examples of such non-absorbing substrates are metals such as 
+aluminum, copper, stainless steel and alloy etc.; plastics such as vinyl, 
+polycarbonate, polytetrafluoroethylene (PTFE), polyethylene, polypropylene, 
+polystyrene, cellulose; and other substrates such as ceramics, glass. </p><p num="0010">In order to achieve good image durability when printing aqueous 
+based inks onto a non-absorbing substrate, the polymeric binder in the ink 
+composition needs to be essentially hydrophobic, capable of providing good 
+adhesion strength to the non-absorbing substrate, and also not be easily re-dispersible 
+in water after drying . In addition, in order to provide good ink storage 
+stability and prevent potential nozzle clogging, the hydrophobic polymer binder 
+also needs to be sufficiently stable as a dispersion and compatible with other ink 
+components, such as surfactant, colorants and humectants. Therefore, the polymer 
+binders need to be dispersible in aqueous ink environment but not soluble to 
+achieve low ink viscosity and print durability to both water and solvents. 
+Furthermore, the ink should have sufficiently low surface tension to have good 
+wettability to the non-absorbing substrate. </p><p num="0011">The pigment used in the present invention can be either self-dispersible 
+such as those described in US patent 5,630,868, encapsulated as those 
+described in the pending US patent application Serial No. 09/822,723, filed March 
+30, 2001, or can be stabilized by a dispersant. The process of preparing inks from 
+pigments commonly involves two steps: (a) a dispersing or milling step to break  
+ 
+up the pigment to the primary particle, and (b) dilution step in which the dispersed 
+pigment concentrate is diluted with a carrier and other addenda to a working 
+strength ink. In the milling step, the pigment is usually suspended in a carrier 
+(typically the same carrier as that in the finished ink) along with rigid, inert 
+milling media. Mechanical energy is supplied to this pigment dispersion, and the 
+collisions between the milling media and the pigment cause the pigment to 
+deaggregate into its primary particles. A dispersant or stabilizer, or both, is 
+commonly added to the pigment dispersion to facilitate the deaggregation of the 
+raw pigment, to maintain colloidal particle stability, and to retard particle 
+reagglomeration and settling. </p><p num="0012">There are many different types of materials which may be used as 
+milling media, such as glasses, ceramics, metals, and plastics. In a preferred 
+embodiment, the grinding media can comprise particles, preferably substantially 
+spherical in shape, e.g., beads, consisting essentially of a polymeric resin. In 
+general, polymeric resins suitable for use as milling media are chemically and 
+physically inert, substantially free of metals, solvent and monomers, and of 
+sufficient hardness and firability to enable them to avoid being chipped or crushed 
+during milling. Suitable polymeric resins include crosslinked polystyrenes, such 
+as polystyrene crosslinked with divinylbenzene, styrene copolymers, polyacrylates 
+such as poly(methyl methylacrylate), olycarbonates, polyacetals, such as Derlin™, 
+vinyl chloride polymers and copolymers, polyurethanes, polyamides, 
+poly(tetrafluoroethylenes), e.g., Teflon™, and other fluoropolymers, high density 
+polyethylenes, polypropylenes, cellulose ethers and esters such as cellulose 
+acetate, poly(hydroxyethylmethacrylate), poly(hydroxyethylacrylate), silicone 
+containing polymers such as polysiloxanes and the like. The polymer can be 
+biodegradable. Exemplary biodegradable polymers include poly(lactides), 
+poly(glycolids) copolymers of lactides and glycolide, polyanhydrides, poly(imino 
+carbonates), poly(N-acylhydroxyproline) esters, poly(N-palmitoyl hydroxyprolino) 
+esters, ethylene-vinyl acetate copolymers, poly(orthoesters), poly(caprolactones), 
+and poly(phosphazenes). The polymeric resin can have a density from 0.9 to 3.0 
+g/cm3. Higher density resins are preferred inasmuch as it is believed that these  
+ 
+provide more efficient particle size reduction. Most preferred are crosslinked or 
+uncrosslinked polymeric media based on styrene. </p><p num="0013">Milling can take place in any suitable grinding mill. Suitable mills 
+include an air jet mill, a roller mill, a ball mill, an attritor mill and a bead mill. A 
+high speed mill is preferred. By high speed mill we mean milling devices capable 
+of accelerating milling media to velocities greater than about 5 meters per second. 
+Sufficient milling media velocity is achieved, for example, in Cowles-type saw 
+tooth impeller having a diameter of 40 mm when operated at 9,000 rpm. The 
+preferred proportions of the milling media, the pigment, the liquid dispersion 
+medium and dispersant can vary within wide limits and depends, for example, up 
+on the particular material selected and the size and density of the milling media 
+etc. After milling is complete, the dispersion of active material is separated from 
+the grinding media by simple sieving or filtration. With either of the above modes 
+the preferred amounts and ratios of the ingredients of the mill grind will vary 
+widely depending upon the specific materials and the intended applications. The 
+contents of the milling mixture comprise the mill grind and the milling media. 
+The mill grind comprises pigment, dispersant and a liquid carrier such as water. 
+For aqueous ink jet inks, the pigment is usually present in the mill grind at 1 to 50 
+weight %, excluding the milling media. The weight ratio of pigment to dispersant 
+is 20:1 to 1:2. The high speed mill is a high agitation device, such as those 
+manufactured by Morehouse-Cowles, Hockmeyer et al. </p><p num="0014">The dispersant is another ingredient in the mill grind. It can be 
+either a small molecule or a polymer. Preferred dispersants used in the present 
+invention include sodium dodecyl sulfate, acrylic and styrene-acrylic copolymers, 
+such as those disclosed in U. S. Pat. Nos. 5,085,698 and 5,172,133, and sulfonated 
+polyesters and styrenics, such as those disclosed in U.S. Pat. No. 4,597,794. Other 
+patents referred to above in connection with pigment availability also disclose a 
+wide variety of dispersants. The dispersant used in the examples is potassium N-methyl-N-oleoyl 
+taurate (K-OMT). </p><p num="0015">The milling time can vary widely and depends upon the pigment, 
+mechanical means and residence conditions selected, the initial and desired final  
+ 
+particle size, etc. For aqueous mill grinds using the preferred pigments, 
+dispersants, and milling media described above, milling times will typically range 
+from 1 to 100 hours. The milled pigment concentrate is preferably separated from 
+the milling media by filtration. </p><p num="0016">The pigment particles useful in the invention may have any particle 
+sizes which can be jetted through a print head. Preferably, the pigment particles 
+have a mean particle size of less than about 0.5 micron, more preferably less than 
+about 0.2 micron. </p><p num="0017">A wide variety of organic and inorganic pigments, alone or in 
+combination, may be selected for use in the present invention. Colorant particles 
+which may be used in the invention include pigments as disclosed, for example in 
+U.S. Patents 5,026,427; 5,086,698; 5,141,556; 5,160,370; and 5,169,436. The 
+exact choice of pigments will depend upon the specific application and 
+performance requirements such as color reproduction and image stability. 
+Pigments suitable for use in the present invention include, for example, azo 
+pigments, monoazo pigments, disazo pigments, azo pigment lakes, β-Naphthol 
+pigments, Naphthol AS pigments, benzimidazolone pigments, disazo 
+condensation pigments, metal complex pigments, isoindolinone and isoindoline 
+pigments, polycyclic pigments, phthalocyanine pigments, quinacridone pigments, 
+perylene and perinone pigments, thioindigo pigments, anthrapyrimidone pigments, 
+flavanthrone pigments, anthanthrone pigments, dioxazine pigments, 
+triarylcarbonium pigments, quinophthalone pigments, diketopyrrolo pyrrole 
+pigments, titanium oxide, iron oxide, and carbon black. Typical examples of 
+pigments which may be used include Color Index (C. I.) Pigment Yellow 1, 2, 3, 
+5, 6, 10, 12, 13, 14, 16, 17, 62, 65, 73, 74, 75, 81, 83, 87, 90, 93, 94, 95, 97, 98, 
+99, 100, 101, 104, 106, 108, 109, 110, 111, 113, 114, 116, 117, 120, 121, 123, 
+124, 126, 127, 128, 129, 130, 133, 136, 138, 139, 147, 148, 150, 151, 152, 153, 
+154, 155, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 179, 
+180, 181, 182, 183, 184, 185, 187, 188, 190, 191, 192, 193, 194; C. I. Pigment 
+Orange 1, 2, 5, 6, 13, 15, 16, 17, 17:1, 19, 22, 24, 31, 34, 36, 38, 40, 43, 44, 46, 
+48, 49, 51, 59, 60, 61, 62, 64, 65, 66, 67, 68, 69; C. I. Pigment Red 1, 2, 3, 4, 5, 6,  
+ 
+7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 22, 23, 31, 32, 38, 48:1, 48:2, 48:3, 
+48:4, 49:1, 49:2, 49:3, 50:1, 51, 52:1, 52:2, 53:1, 57:1, 60:1, 63:1, 66, 67, 68, 81, 
+95, 112, 114, 119, 122, 136, 144, 146, 147, 148, 149, 150, 151, 164, 166, 168, 
+169, 170, 171, 172, 175, 176, 177, 178, 179, 181, 184, 185, 187, 188, 190, 192, 
+194,200,202,204,206,207,210,211,212,213,214,216,220,222,237,238, 
+239,240,242,243,245,247,248,251,252,253,254,255,256,258,261,264; 
+C.I. Pigment Violet 1, 2, 3, 5:1, 13, 19, 23, 25, 27, 29, 31, 32, 37, 39, 42, 44, 50; 
+C.I. Pigment Blue 1, 2, 9, 10, 14, 15:1, 15:2, 15:3, 15:4, 15:6, 15, 16, 18, 19, 24:1, 
+25, 56, 60, 61, 62, 63, 64, 66; C.I. Pigment Green 1, 2, 4, 7, 8, 10, 36, 45; C.I. 
+Pigment Black 1, 7, 20, 31, 32, and C.I. Pigment Brown 1, 5, 22, 23, 25, 38, 41, 
+42. In a preferred embodiment of the invention, the pigment is C.I. Pigment Blue 
+15:3, C.I. Pigment Red 122, C.I. Pigment Yellow 155, C.I. Pigment Yellow 74, 
+C.I. Pigment Black 7 or bis(phthalocyanylalumino)tetraphenyldisiloxane as 
+described in U.S. Pat. No. 4,311,775. </p><p num="0018">In the case of organic pigments, the ink may contain up to 
+approximately 20% pigment by weight, but will generally be in the range of 
+approximately 0.1 to 10%, preferably approximately 0.1 to 5%, by weight of the 
+total ink composition for most ink jet printing applications. If an inorganic 
+pigment is selected, the ink will tend to contain higher weight percentages of 
+pigment than with comparable inks employing organic pigments. </p><p num="0019">Instead of pigment, a dye can also be used in the current invention. 
+Preferably, the dye is a water insoluble dye. To make the ink, the water insoluble 
+dye can be dispersed or encapsulated into water dispersible particles as disclosed 
+in U. S. Serial No. 10/020,694, filed December 14, 2001. A broad range of water-insoluble 
+dyes may be used in the invention such as an oil dye, a disperse dye, or a 
+solvent dye, such as Ciba-Geigy Orasol Red G, Ciba-Geigy Orasol Blue GN, 
+Ciba-Geigy Orasol Pink, and Ciba-Geigy Orasol Yellow. Preferred water-insoluble 
+dyes can be xanthene dyes, methine dyes, polymethine dyes, 
+anthroquinone dyes, merocyanine dyes, azamethine dyes, azine dyes, 
+quinophthalone dyes, thiazine dyes, oxazine dyes, phthalocyanine dyes, mono or 
+poly azo dyes, and metal complex dyes. More preferably, the water insoluble dyes  
+ 
+can be an azo dye such as a water insoluble analog of the pyrazoleazoindole dye 
+disclosed in U.S. Patent No. 6,468,338, and the arylazoisothiazole dye disclosed in 
+U. S. Patent 4,698,651, or a metal-complex dye, such as the water-insoluble 
+analogues of the dyes described in U.S. Patents 5,997,622 and 6,001,161, i.e., a 
+transition metal complex of an 8-heterocyclylazo-5-hydroxyquinoline. The 
+solubility of the water insoluble dye used in the present invention should be less 
+than 1 g/L in water, and more preferably less than 0.5 g/L in water. </p><p num="0020">The water insoluble dye can be present in any effective amount in 
+the ink of the present invention, usually up to about 20% by weight of an ink jet 
+ink composition, and preferably from about 0.05 to 15 wt. %. </p><p num="0021">The polymer latex used in this invention can be homopolymer or 
+copolymer or cross-linked polymer prepared with at least one halogenated vinyl 
+monomer, and optionally other ethylenically-unsaturated monomers such that the 
+latex can be stabilized in a water-based medium. The polymer latex contains an 
+ethylenically-unsaturated monomer capable of addition polymerization. The 
+ethylenically-unsaturated monomers which can be used in the invention include, 
+for example, the following monomers and their mixtures: acrylic acid, methacrylic 
+acid, ethacrylic acid, methyl acrylate, ethyl acrylate, ethyl methacrylate, benzyl 
+acrylate, benzyl methacrylate, propyl acrylate, propyl methacrylate, iso-propyl 
+acrylate, iso-propyl methacrylate, butyl acrylate, butyl methacrylate, hexyl 
+acrylate, hexyl methacrylate, octadecyl methacrylate, octadecyl acrylate, lauryl 
+methacrylate, lauryl acrylate, hydroxyethyl acrylate, hydroxyethyl methacrylate, 
+hydroxyhexyl acrylate, hydroxyhexyl methacrylate, hydroxyoctadecyl acrylate, 
+hydroxyoctadecyl methacrylate, hydroxylauryl methacrylate, hydroxylauryl 
+acrylate, phenethylacrylate, phenethyl methacrylate, 6-phenylhexyl acrylate, 6-phenylhexyl 
+methacrylate, phenyllauryl acrylate, phenyllaurylmethacrylate, 3-nitrophenyl-6-hexyl 
+methacrylate, 3-nitrophenyl-18-octadecyl acrylate, 
+ethyleneglycol dicyclopentyl ether acrylate, vinyl ethyl ketone, vinyl propyl 
+ketone, vinyl hexyl ketone, vinyl octyl ketone, vinyl butyl ketone, cyclohexyl 
+acrylate,3-methacryloxypropyl-dimethylmethoxysilane, 3-methacryloxypropylmethyldimethoxysilane, 
+3-methacryloxypropyl-pentamethyldisiloxane,  
+ 
+3-methacryloxypropyltris-(trimethylsiloxy)silane, 3-acryloxypropyldimethylmethoxysilane, 
+acryloxypropylmethyldimethoxysilane, trifluoromethyl 
+styrene, trifluoromethyl acrylate, trifluoromethyl methacrylate, tetrafluoropropyl 
+acrylate, tetrafluoropropyl methacrylate, heptafluorobutyl methacrylate, isobutyl 
+acrylate, isobutyl methacrylate, 2-ethylhexyl acrylate, 2-ethylhexyl methacrylate, 
+isooctyl acrylate, isooctyl methacrylate, N,N-dihexyl acrylamide, N,N-dioctyl 
+acrylamide, N,N-dimethylaminoethyl acrylate, N,N-dimethylaminoethyl 
+methacrylate, N,N-diethylaminoethyl acrylate, N,N-diethylaminoethyl 
+methacrylate, piperidino-N-ethyl acrylate, vinyl propionate, vinyl acetate, vinyl 
+butyrate, vinyl butyl ether, and vinyl propyl ether ethylene, styrene, vinyl 
+carbazole, vinyl naphthalene, vinyl anthracene, vinyl pyrene, methyl methacrylate, 
+methyl acrylate, alpha-methylstyrene, dimethylstyrene, methylstyrene, 
+vinylbiphenyl, glycidyl acrylate, glycidyl methacrylate, glycidyl propylene, 2-methyl-2-vinyl 
+oxirane, vinyl pyridine, aminoethyl methacrylate, 
+aminoethylphenyl acrylate, maleimide, N-phenyl maleimide, N-hexyl maleimide, 
+N-vinyl-phthalimide, and N-vinyl maleimide poly(ethylene glycol) methyl ether 
+acrylate, polyvinyl alcohol, vinyl pyrrolidone, vinyl 4-methylpyrrolidone, vinyl 4-phenylpyrrolidone, 
+vinyl imidazole, vinyl 4-methylimidazole, vinyl 4-phenylimidazole, 
+acrylamide, methacrylamide, N,N-dimethyl acrylamide, N-methyl 
+acrylamide, N-methyl methacrylamide, aryloxy dimethyl acrylamide, N-methyl 
+acrylamide, N-methyl methacrylamide, aryloxy piperidine, and N,N-dimethyl 
+acrylamide acrylic acid, methacrylic acid, chloromethacrylic acid, maleic 
+acid, allylamine, N,N-diethylallylamine, vinyl sulfonamide, sodium acrylate, 
+sodium methacrylate, ammonium acrylate, ammonium methacrylate, 
+acrylamidopropanetriethylammonium chloride, methacrylamidopropanetriethylammonium 
+chloride, vinyl-pyridine hydrochloride, sodium vinyl 
+phosphonate and sodium 1-methylvinylphosphonate, sodium vinyl sulfonate, 
+sodium 1-methylvinyl-sulfonate, sodium styrenesulfonate, sodium 
+acrylamidopropanesulfonate, sodium methacrylamidopropanesulfonate, and 
+sodium vinyl morpholine sulfonate, allyl methacrylate, allyl acrylate, butenyl 
+acrylate, undecenyl acrylate, undecenyl methacrylate, vinyl acrylate, and vinyl  
+ 
+methacrylate; dienes such as butadiene and isoprene; esters of saturated glycols or 
+diols with unsaturated monocarboxylic acids such as, ethylene glycol diacrylate, 
+ethylene glycol dimethacrylate, triethylene glycol dimethacrylate, 1,4-butanediol 
+dimethacrylate, 1,3-butanediol dimethacrylate, pentaerythritol tetraacrylate, 
+trimethylol propane trimethacrylate and polyfunctuional aromatic compounds such 
+as divinylbenzene. </p> <p num="0022">The halogenated vinyl monomer used in the present invention can 
+be vinyl chloride, vinylidene chloride, vinyl fluoride, vinylidene fluoride, vinyl 
+bromide and vinylidene bromide, chloromethacrylic acid and the like. </p><p num="0023">Surfactants that can be used in the present invention to synthesize 
+the polymers include, for example, a sulfate, a sulfonate, a cationic compound, a 
+reactive surfactant, an amphoteric compound, and a polymeric protective colloid. 
+Specific examples are described in "McCutcheon's Emulsifiers and Detergents: 
+1995, North American Editor" and will be known to those skilled in the art. </p><p num="0024">Depending on the types of initiators used, the reaction temperature 
+can vary from about 30°C to about 90°C. Preferably the reaction temperature is at 
+least 40°C, and most preferably at least 50°C. To ensure that no free monomer is 
+present, usually the reaction is continued for a time after the monomer addition. 
+Also, more initiator may need to be added as a scavenger during the final stage of 
+the reaction to increase the reaction conversion. </p><p num="0025">Addition polymerization initiators useful in the practice of the 
+invention include, for example, azo and diazo compounds, such as 
+2,2'-azobisisobutyronitrile, 2,2'-azobis(2,4-dimethyl valeronitrile), 
+2,2'-azobis(2,3-dimethyl butyronitrile), 2,2'-azobis(2-methyl butyronitrile), 
+2,2'-azobis(2,3,3-trimethyl butyronitrile), 2,2'-azobis(2-isopropyl butyronitrile), 
+1,1'-azobis(cyclohexane-1-carbonitrile), 2, 2'-azobis(4-methoxyl-2,4-dimethyl 
+valeronitrile), 2-(carbamoylazo)isobutyronitrile, 4,4'-azobis(4-cyanovaleric acid), 
+and dimethyl -2,2'azobis isobutyrate, or peroxide compounds, such as butyl 
+peroxide, propyl peroxide, butyryl peroxide, benzoyl isobutyryl peroxide, and 
+benzoyl peroxide, or water soluble initiators, for example, sodium persulfate, and 
+potassium persulfate, or any redox initiators. Preferred initiators are the oil  
+ 
+soluble initiators. Examples of particularly suitable initiators are azo, peroxide, 
+persulfate, and redox initiators. The initiators may be used in an amount varying 
+from about 0.2 to 4 weight percent or higher by weight of the total monomers. A 
+chain transfer agent such as butyl mercaptan, may also be used to control the 
+properties of the polymer formed. </p><p num="0026">The polymers can be made via emulsion polymerization, dispersion 
+polymerization, suspension polymerization, grand milling, or solution/bulk 
+polymerization and then post-emulsification. Detailed information about the 
+process and the stabilizers can be found in <i>"Emulsion Polymerization and 
+Emulsion Polymers "</i> (P. A. Lovell, M. S. El-Aasser, John Wiley &amp; Sons Ltd., 
+England, 1997). </p> <p num="0027">The polymer latex employed in the invention in general has a Tg of 
+-50 to 150 °C, preferably 5 to 100 °C, most preferably 10 to 80 °C. </p> <p num="0028">The polymer latex employed in the invention in general have an 
+average particle size of less than 2 µm, preferably less than 0.5 µm, more 
+preferably less than 0.25 µm. </p> <p num="0029">The polymer latex used in the invention is present in the ink jet ink 
+generally from 0.1% to 20% by weight, preferably from 0.5% to 10% by weight. </p><p num="0030">All monomer units in the polymer latex used in the invention may 
+be hydrophobic. Alternatively, the polymer latex may contain at least one 
+hydrophilic monomer unit. The content of hydrophilic monomer unit is less than 
+50 mole % of the total monomer units in the polymer latex, preferably less than 20 
+mole % of the total monomer units in the polymer latex, most preferably less than 
+5 mole % of the total monomer units in the polymer latex. </p><p num="0031">The hydrophilic monomer unit in the polymer latex may be selected 
+from the group consisting of acrylic acid, methacrylic acid, chloromethacrylic 
+acid, maleic acid, allylamine, N,N-diethylallylamine, vinyl sulfonamide, sodium 
+acrylate, sodium methacrylate, ammonium acrylate, ammonium methacrylate, 
+acrylamidopropane-triethylammonium chloride, methacrylamidopropanetriethylammonium 
+chloride, vinyl-pyridine hydrochloride, sodium vinyl 
+phosphonate and sodium 1-methylvinylphosphonate, sodium vinyl sulfonate,  
+ 
+sodium 1-methylvinyl-sulfonate and sodium styrenesulfonate. The hydrophilic 
+monomers can also be non-ionic, such as ethyoxytriethylene glycol methacrylate, 
+methoxypolyethylene oxide methacrylate, methoxypropylene oxide acrylate, 
+polyethyleneoxide methacrylate, polyethylenoxide acrylate, N-vinyl pyrrolidone 
+and the like. </p><p num="0032">The aqueous carrier medium for the ink composition is water or a 
+mixture of water and at least one water miscible co-solvent. Selection of a 
+suitable mixture depends on requirements of the specific application, such as 
+desired surface tension and viscosity, the selected pigment, drying time of the 
+pigmented ink jet ink, and the type of paper onto which the ink will be printed. 
+Representative examples of water-miscible co-solvents that may be selected 
+include (1) alcohols, such as methyl alcohol, ethyl alcohol, n-propyl alcohol, 
+isopropyl alcohol, n-butyl alcohol, sec-butyl alcohol, t-butyl alcohol, iso-butyl 
+alcohol, furfuryl alcohol, and tetrahydrofurfuryl alcohol; (2) ketones or 
+ketoalcohols such as acetone, methyl ethyl ketone and diacetone alcohol; (3) 
+ethers, such as tetrahydrofuran and dioxane; (4) esters, such as ethyl acetate, ethyl 
+lactate, ethylene carbonate and propylene carbonate; (5) polyhydric alcohols, such 
+as ethylene glycol, diethylene glycol, triethylene glycol, tetraethylene glycol, 
+propylene glycol, polyethylene glycol, glycerol, 2-methyl-2,4-pentanediol 1,2,6-hexanetriol 
+and thioglycol; (6) lower alkyl mono- or di-ethers derived from 
+alkylene glycols, such as ethylene glycol mono-methyl (or -ethyl) ether, diethylene 
+glycol mono-methyl (or -ethyl) ether, diethylene glycol mono-butyl (or -ethyl) 
+ether, propylene glycol mono-methyl (or -ethyl) ether, poly(ethylene glycol) butyl 
+ether, triethylene glycol mono-methyl (or -ethyl) ether and diethylene glycol dimethyl 
+(or -ethyl) ether; (7) nitrogen containing cyclic compounds, such as 
+pyrrolidone, N-methyl-2-pyrrolidone, and 1,3-dimethyl-2-imidazolidinone; and (8) 
+sulfur-containing compounds such as dimethyl sulfoxide, 2,2'-thiodiethanol, and 
+tetramethylene sulfone. </p><p num="0033">The amount of aqueous carrier medium is in the range of 
+approximately 70 to 99 weight %, preferably approximately 90 to 98 weight %, 
+based on the total weight of the ink. A mixture of water and a polyhydric alcohol,  
+ 
+such as diethylene glycol, is useful as the aqueous carrier medium. In a preferred 
+embodiment, the inks contain from about 5 to about 60 weight % of water 
+miscible organic solvent based on the total weight of the aqueous carrier medium. </p><p num="0034">Jet velocity, separation length of the droplets, drop size and stream 
+stability are greatly affected by the surface tension and the viscosity of the ink. 
+Pigmented ink jet inks suitable for use with ink jet printing systems should have a 
+surface tension in the range of about 20 dynes/cm to about 60 dynes/cm and, more 
+preferably, in the range 30 dynes/cm to about 50 dynes/cm. Control of surface 
+tensions in aqueous inks is accomplished by additions of small amounts of 
+surfactants. The level of surfactants to be used can be determined through simple 
+trial and error experiments, usually about 0.1% to about 6%, preferably, 0.5% to 
+about 4% by weight of the total ink composition. Anionic, cationic and nonionic 
+surfactants may be selected from those disclosed in U. S. Patents 5,324,349; 
+4,156,616 and 5,279,654 as well as many other surfactants known in the ink jet 
+ink art. Commercial surfactants include the Surfynols® from Air Products; the 
+Zonyls® from DuPont and the Fluorads® from 3M. Preferred surfactants can be 
+silicon surfactants or fluorinated surfactants. Preferred silicon surfactants are 
+available from BYK-Chemie as BYK surfactants, and from Crompton Corp, as 
+Silwet® surfactants. Commercially available fluorinated surfactants can be the 
+Zonyls® from DuPont and the Fluorads® from 3M, they can be used alone or in 
+combination with other surfactants. </p><p num="0035">A humectant is added to the composition employed in the process 
+of the invention to help prevent the ink from drying out or crusting in the orifices 
+of the ink jet printhead. Polyhydric alcohols useful in the composition employed 
+in the invention for this purpose include, for example, ethylene glycol, diethylene 
+glycol, triethylene glycol, propylene glycol, tetraethylene glycol, polyethylene 
+glycol, glycerol, 2-methyl-2,4-pentanediol, 1,2,6-hexanetriol and thioglycol. The 
+humectant may be employed in a concentration of from about 10 to about 50 % by 
+weight of the entire ink composition. In a preferred embodiment, diethylene 
+glycol or a mixture of glycerol and diethylene glycol is employed a concentration 
+of between 10 and 20 % by weight of the entire ink composition.  </p><p num="0036">The ink has physical properties compatible with a wide range of 
+ejecting conditions, i.e., driving voltages and pulse widths for thermal ink jet 
+printing devices, driving frequencies of the piezo element for either a drop-on-demand 
+device or a continuous device, and the shape and size of the nozzle. </p><p num="0037">A penetrant (0-10% by weight) may also be added to the ink 
+composition employed in the process of the invention to help the ink penetrate the 
+receiving substrate, especially when the substrate is a highly sized paper. A 
+preferred penetrant for the inks employed in the present invention is n-propanol at 
+a final concentration of 1-6 % by weight. </p><p num="0038">A biocide (0.01-1.0% by weight) may also be added to prevent 
+unwanted microbial growth which may occur in the ink over time. A preferred 
+biocide for the inks employed in the present invention is Proxel® GXL (Zeneca 
+Colours Co.) at a concentration of 0.05-0.5 % by weight. Additional additives 
+which may optionally be present in ink jet inks include thickeners, conductivity 
+enhancing agents, anti-kogation agents, pH buffering agents, drying agents, and 
+defoamers. </p><p num="0039">Ink jet inks made using water-dispersible polymers employed in 
+this invention are employed in ink jet printing wherein liquid ink drops are 
+applied in a controlled fashion to an ink receiving substrate, by ejecting ink 
+droplets from plurality of nozzles, or orifices, in a print head of ink jet printers. </p><p num="0040">Commercially available ink jet printers use several different 
+methods to control the deposition of the ink droplets. Such methods are generally 
+of two types: continuous stream and drop-on-demand. </p><p num="0041">In drop-on-demand systems, a droplet of ink is ejected from an 
+orifice directly to a position on the ink receiving layer by pressure created by, for 
+example, a piezoelectric device, an acoustic device, or a thermal process 
+controlled in accordance digital data signals. An ink droplet is not generated and 
+ejected through the orifices of the print head unless it is needed. Ink jet printing 
+methods, and related printers, are commercially available and need not be 
+described in detail.  </p><p num="0042">To accelerate the printing speed and increase durability, an extra 
+heating step can be added during the process of printing the ink composition of 
+this invention. This heating step can be employed either during printing or after 
+printing. In a preferred embodiment, heating is employed both during and after 
+printing. Heating will help fluids to spread on a non-absorbing substrate as well 
+as to accelerate its evaporation. Heating can also help ink components to 
+penetrate into the non-absorbing substrate by swelling mechanism. The heating 
+step during printing can be achieved using a heating means so that the non-absorbing 
+substrate is heated to elevated temperature during the process of 
+printing. The substrate is preferably heated to between 30 °C and 90 °C, more 
+preferably between 40 to 70 °C. During the heating step after printing, the printed 
+substrate is heated to elevated temperature using a heating means where substrate 
+is heated to a temperature range between 50 °C and 150 °C, more preferably 
+between 80 to 120 °C. Various methods may be used for the means of heating, for 
+example, using light irradiation, a hot air source or an electrical heater. For the 
+heating step during printing, an electrical heater or an infrared lamp is preferred. 
+For the heating step after printing, light irradiation such as an infrared lamp is 
+preferred. Optionally, an infrared absorbing material can be employed in the ink 
+of the present invention to assist the heating by an infrared lamp. </p><p num="0043">The following examples illustrate the utility of the present 
+invention. </p><heading><b>EXAMPLES</b></heading><heading><b>Preparation of Pigment Dispersion</b></heading><p num="0044">The magenta pigment dispersion contains: 300 g of Polymeric 
+beads, mean diameter of 50 µm (milling media); 30 g of quinacridone magenta 
+pigment Pigment Red 122 (Sun Chemicals); 9 g of Oleoyl methyl taurine, (OMT) 
+Potassium salt and 208 g of Deionized water, and 0.2 g of Proxel GXL ® (biocide 
+from Zeneca). The above components were milled in a 2 liter double walled 
+vessel obtained from BYK-Gardner using a high energy media mill manufactured 
+by Morehouse-Cowles Hochmeyer. The mill was run for approximately 8 hours at  
+ 
+room temperature. The dispersion was separated from the milling media by 
+filtering the millgrind through a 4-8 µm KIMAX® Buchner Funnel obtained from 
+VWR Scientific Products. At the end of milling, additional water is added to the 
+dispersion so that the pigment is about 10.0% by weight of the total final 
+dispersion and the biocide is about 230ppm by weight of the total final dispersion. 
+The particle size is about 30 nm as measured by MICROTRAC II Ultrafine 
+particle analyzer (UPA) manufactured by Leeds &amp; Northrup. </p><heading><b>Preparation of Polymer Latex Particle Dispersions</b></heading><heading><u style="single">Preparation of Comparative Polymer Dispersion 1 (PC- 1: Acrylate)</u></heading><p num="0045">400 g of deionized water and 0.6 g Olin 10G® surfactant were 
+charged to a 1-liter, three-neck round-bottom flask equipped with a mechanical 
+stirrer and nitrogen inlet. The solution was purged with nitrogen for 30 min and 
+heated to 80°C in a constant temperature bath. 172.8 g of methyl acrylate and 7.2 
+g of 2-acrylamido-2-methyl-1-propanesufonic acid (sodium salt) were added and 
+stirred for three minutes. 16.4 g of 10% sodium persulfate solution and 5.5 g of 
+10% sodium metabisulfite solution were added to initiate the polymerization. 
+Polymerization was continued for one hour and heated one more hour at 80°C. 
+The temperature was reduced to 65-70 °C and 1ml each of t-butyl hydroperoxide 
+(10%) and sodium formaldehyde bisulfite (10%) were post-added. The latex was 
+cooled and filtered. The dispersion contains 30% solid by weight. </p><heading><u style="single">Preparation of Comparative Polymer Dispersion 2 (PC-2:Watersoluble)</u></heading><p num="0046">Water soluble polymer Jonrez IJ-4655@ is obtained from Westvaco 
+as a styrene acrylic polymer solution at 25% Solids. This polymer dispersion is 
+designated as Comparative Polymer Dispersion 2 (PC-2). </p><heading><u style="single">Preparation of Polymer Latex 1 of the Invention (P-1)</u></heading><p num="0047">160 g deionized water were charged to a 500 mL 1-neck round 
+bottom flask equipped with mechanical stirrer. The flask was first flushed with 
+nitrogen for 20 minutes, then immersed in a constant temperature bath at 40 °C.  
+ 
+Afterwards, 0.25 g of potassium persulfate, 0.35 g sodium metabisufite, 2.0 g 
+Triton 770 (30% active), 4.0 g of ethyl acrylate, 36.0 g vinylidene chloride were 
+added to the flask. The polymerization reaction was continued for additional 12 
+hours. The latex was cooled and filtered. The final polymer latex dispersion 
+contained 13.52% solid by weight and the average particle size is 0.056 micron. 
+This polymer dispersion is designated as Polymer Latex 1 (P-1). </p><heading><u style="single">Preparation of Latex Polymer 2 of the Invention (P-2)</u></heading><p num="0048">160 g deionized water were charged to a 500 mL 1-neck round 
+bottom flask equipped with mechanical stirrer. The flask was first flushed with 
+nitrogen for 20 minutes, then immersed in a constant temperature bath at 40 °C. 
+Afterwards, 0.25 g of potassium persulfate, 0.35 g sodium metabisufite, 2.0 g 
+Triton 770 (30% active), 2.0 g of ethyl acetate, 18.0 g vinylidene chloride, 19.2 g 
+of methyl methacrylate, and 1.6 g of sodium 2-sulfo-1,1-dimethylethyl acrylamide 
+(50%) were added to the flask. The polymerization reaction was continued for 
+additional 12 hours. The latex was cooled and filtered. The final polymer latex 
+dispersion contained 15.5% solid by weight and the average particle size is 0.062 
+micron. This polymer dispersion is designated as Polymer Latex 1 (P-2). </p><heading><b>Ink Formulation</b></heading><heading><u style="single">Ink 1 of the Invention (I-1: Ink Containing Polymer Latex 1)</u></heading><p num="0049">To prepare the Ink-1, 4.36 g of the Magenta Pigment Dispersion 
+(10% active), 0.2 g Silwet® L-7608 (Crompton Corp.), 2.0 g diethylene glycol 
+and 1.0 g di(propyleneglycol) methyl ether (Dowanol® DPM), 0.6 g 2-pyrrolidone, 
+and 2.90 g of Polymer Latex 1 (13.52 % active) were added together 
+with distilled water so that the final weight of the ink was 20.0 g. The final ink 
+contained 2.18% Pigment Red 122, 1.0% Silwet® L-7608, 10.0% diethylene 
+glycol, 5% di(propyleneglycol) methyl ether, 3% pyrrolidone and 2.0% polymer 
+latex 1. The solution was filtered through a 3 µm polytetrafluoroethylene filter.  </p><heading><u style="single">Ink 2 of the Invention (I-2)</u></heading><p num="0050">Ink-2 of the present invention was prepared similar to Ink-1 except 
+that the amount of Polymer Latex 1 (13.52% active) was increased from 2.90 g to 
+6.51 g such that the final ink contained 4.4% polymer latex 1 by weight of the total 
+ink. </p><heading><u style="single">Ink 3 of the Invention (I-3)</u></heading><p num="0051">Ink-3 of the present invention was prepared similar to Ink-1 except 
+that 2.53 g of Polymer Latex 2 (15.5% active) was used instead of Polymer Latex 
+1 such that the final ink contained 2.0% of Polymer Latex 2 by weight of the total 
+ink. </p><heading><u style="single">Ink 4 of the Invention (I-4)</u></heading><p num="0052">Ink-4 of the present invention was prepared similar to Ink-3 except 
+that amount of Polymer Latex 2 (15.5% active) was increased from 2.53 g to 5.68 
+such that the final ink contained 4.4% of Polymer Latex 2 by weight of the total 
+ink. </p><heading><u style="single">Comparative Ink 1 (C-1)</u></heading><p num="0053">The comparative ink 1 was prepared similar to Ink-1 of the 
+Invention except that 1.30 g of Comparative Polymer Dispersion PC-1 (30% 
+active) was used instead of Polymer Latex 1. The final Ink contained 2.0% of 
+Comparative Polymer Dispersion PC-1. </p><heading><u style="single">Comparative Ink 2 (C-2)</u></heading><p num="0054">The comparative ink 2 was prepared similar to Comparative Ink 1 
+except that the amount of Comparative Polymer Dispersion PC-1 (30% active) 
+was increased from 1.30 g to 2.90 g such that the final Ink contained 4.4% of 
+Comparative Polymer Dispersion PC-1.  </p><heading><u style="single">Comparative Ink 3 (C-3)</u></heading><p num="0055">The Comparative Ink 3 was prepared similar to Comparative Ink 1 
+of the Invention except that 1.57 g of Comparative Polymer Dispersion PC-2 (25% 
+active) was used instead of Comparative Polymer Dispersion 1. The final ink 
+contained 2.0% of Comparative Polymer Dispersion PC-2. </p><heading><u style="single">Comparative Ink 4 (C-4)</u></heading><p num="0056">The Comparative Ink 4 was prepared similar to Comparative Ink 3 
+of the Invention except that the amount of Comparative Polymer Dispersion PC-2 
+(25% active) was increased from 1.57 g to 3.52 g such that the final ink contained 
+4.4% of Comparative Polymer Dispersion PC-2. </p><heading><u style="single">Comparative Ink 5 (C-5)</u></heading><p num="0057">The Comparative Ink 5 of the invention was prepared similar to Ink 
+1 of the invention except that 4.36 g of distilled water was used instead of Polymer 
+Latex 1 so that the final ink did not contain any polymer latex. </p><heading><b>Ink Firability Test</b></heading><p num="0058">The Inks of the present invention were filled into Epson 880 empty 
+cartridges and printing was done with an Epson 880 Ink jet printer, using the 
+above inks. All inks of the invention fired well through the Epson 880 printer, no 
+nozzles were clogged. The inks were left in printer for over 48 hours and the 
+above printing test was repeated. All the nozzles were firing with minimum 
+cleaning cycles without any problems for the inks of the present invention. </p><heading><b>Ink Printing Reliability &amp; Printing Test</b></heading><p num="0059">The inks of the present invention were filled into an ink bag and 
+tested using an Inkjet ink fixture apparatus having a Brother piezo printhead with a 
+heatable printing drum. Ink drop volume was measured vs time to test the printing 
+reliability. A 1" by 10" non-absorbing vinyl substrate, a multi-purpose inkjet cast 
+vinyl (MPI 1005 #226 from Avery Graphics), was mounted on the printing drum.  
+ 
+The drum was kept at 50 °C during printing. A 0.7"x4" Dmax density patch print 
+target was printed. After printing, the samples were further heated at 90 °C for 1 
+minute using an infrared lamp. A successful test result occurred when 67 pL ink 
+droplets of the ink composition were continuously fired through the printhead at a 
+rate of 7,500 drops/second for at least an hour without nozzle failure or ink droplet 
+misdirection. </p><p num="0060">To compare the effectiveness of printing, a controlled printing test 
+was done when the printing drum was not heated, the resulted image can be wiped 
+off with paper towel very easily and the prints show much lower density compared 
+with samples printed on the heated drum. Another controlled printing test was 
+done when the sample was not heated after printing. The resulted prints can wiped 
+off easily immediately after printing, and the imaged area took up to several weeks 
+to be dried to touch at room temperature. </p><heading><b>Durability Test</b></heading><heading><u style="single">Sample Preparation</u></heading><p num="0061">A non-absorbing vinyl substrate, a multi-purpose inkjet cast vinyl 
+(MPI 1005 #226 from Avery Graphics) was cut into 14 by 25 cm in size and 
+placed on a heated coating block with temperature at about 40 °C. The above inks 
+were filled into an airbrush (Paasche Sirbrush Set H-3 available from Paasche 
+Airbrush Company, Harwood Heights, IL) connected to compressed house air. 
+The pressure of the airbrush was adjusted to about 20 lb. such that smooth ink 
+flow was obtained. The inks were sprayed onto the heated vinyl substrates 
+described above. Uniform coatings of the inks were obtained. The selected 
+samples were then heated at 90 °C for 1 minute using an infrared lamp. </p><heading><u style="single">Dry Rub Resistance Test</u></heading><p num="0062">The dry rub resistance test was carried out by rubbing the samples 
+with a dry Q-tip for 4 passes under a consistent pressure in the inked area. The 
+color loss in the treated sample area and the color transfer to Q-tip were examined  
+ 
+visually and a rating of the dry rub resistance was given as follows on a scale of 0 
+to 5. 
+<sl><li>0: Best, No color loss, and/or color transfer; </li><li>1: hardly visible amount of color loss and/or color transfer; </li><li>2: visible amount of color loss and/or color transfer; </li><li>3: some color loss and color transfer; </li><li>4: large amount of color loss and color transfer; </li><li>5: Worst, almost complete color loss and color transfer. </li></sl></p><heading><u style="single">Wet Rub Resistance Test</u>:</heading><p num="0063">A wet rub resistance test was carried out by placing an 
+approximately 2.54 cm diameter water droplet on the ink-coated sample surface 
+for 5 minutes, after which the excess water was wiped off with a paper towel. The 
+above treated area was then rubbed with a dry paper towel for 4 passes under a 
+consistent pressure a 3.5 cm diameter area. The color loss in the treated sample 
+area and the color transfer to the paper towel were examined visually and a rating 
+of the wet rub resistance was given similar as above on a scale of 0 to 5, 0 being 
+the best and 5 being the worst. Both of the dry and wet rub resistance test results 
+are shown in Table 1.  <tables><table><tgroup cols="5"><tbody><row><entry align="center">Ink </entry><entry align="center">Polymer </entry><entry align="center">Polymer/Pigment Ratio </entry><entry align="center">Dry Rub Rating </entry><entry align="center">Wet Rub Rating </entry></row><row><entry align="center">C-1</entry><entry align="center">PC-1</entry><entry align="center">1/1</entry><entry align="center">1</entry><entry align="center">2 </entry></row><row><entry align="center">C-3</entry><entry align="center">PC-2</entry><entry align="center">1/1</entry><entry align="center">1</entry><entry align="center">3 </entry></row><row><entry align="center">I-1</entry><entry align="center">P-1</entry><entry align="center">1/1</entry><entry align="center">0</entry><entry align="center">1 </entry></row><row><entry align="center">I-3</entry><entry align="center">P-2</entry><entry align="center">1/1</entry><entry align="center">0</entry><entry align="center">1 </entry></row><row><entry align="center">C-2</entry><entry align="center">PC-1</entry><entry align="center">2/1</entry><entry align="center">2</entry><entry align="center">1 </entry></row><row><entry align="center">C-4</entry><entry align="center">PC-2</entry><entry align="center">2/1</entry><entry align="center">1</entry><entry align="center">2 </entry></row><row><entry align="center">I-2</entry><entry align="center">P-1</entry><entry align="center">2/1</entry><entry align="center">0</entry><entry align="center">0 </entry></row><row><entry align="center">I-4</entry><entry align="center">P-2</entry><entry align="center">2/1</entry><entry align="center">0</entry><entry align="center">1 </entry></row><row><entry align="center">C-5</entry><entry align="center">N/A</entry><entry align="center">N/A</entry><entry align="center">4</entry><entry align="center">5 </entry></row></tbody></tgroup></table></tables></p><p num="0064">From the above table, it is evident that the presence of polymer 
+latex in the ink significantly improves the image durability under both dry and wet 
+conditions compared to the inks without polymer latex. The inks of the present 
+invention show further advantages in image durability compared to the 
+comparative inks. </p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An ink jet printing method, comprising the steps of 
+<claim-text><claim-text>A) providing an ink jet printer that is responsive to digital data signals; </claim-text><claim-text>B) loading said printer with an ink jet recording element </claim-text><claim-text>C) loading said printer with an ink jet ink composition comprising an 
+aqueous ink jet ink composition comprising: 
+<claim-text><claim-text>a pigment; </claim-text><claim-text>a polymer latex containing at least one halogenated vinyl monomer; </claim-text><claim-text>at least one surfactant; and </claim-text><claim-text>a humectant; and </claim-text></claim-text></claim-text><claim-text>D) printing on said ink jet recording element accompanied by a heating 
+step using said ink jet ink composition in response to said digital data signals. </claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The method of claim 1 wherein said heating step is applied 
+during the process of printing using a heating means wherein said ink recording 
+element is heated to an elevated temperature. </claim-text></claim><claim num="3"><claim-text>The method of claim 2 wherein said temperature is between 
+30°C and 90°C. </claim-text></claim><claim num="4"><claim-text>The method of claim 1 wherein said heating step is applied after 
+the process of printing using a heating means wherein said ink recording element 
+is heated to an elevated temperature. </claim-text></claim><claim num="5"><claim-text>The method of claim 4 wherein said temperature is between 
+50°C and 150°C. </claim-text></claim><claim num="6"><claim-text>The method of claim 1 wherein said heating step is first applied 
+during the process of printing using a first heating means wherein said ink 
+recording element is heated to a first elevated temperature, said ink recording 
+ 
+element is further heated to a second elevated temperature after the process of 
+printing using a second heating means. </claim-text></claim><claim num="7"><claim-text>The method of claim 6 wherein said first elevated temperature is 
+between 30°C to 90°C and said second elevated temperature is between 50°C to 
+150°C. </claim-text></claim><claim num="8"><claim-text>The method of claim 1 wherein said ink jet recording element 
+comprises a non-absorbing substrate. </claim-text></claim><claim num="9"><claim-text>The method of claim 1 wherein the weight ratio of said pigment 
+to said polymer is 1:20 to 20:1. </claim-text></claim><claim num="10"><claim-text>The method of claim 1 wherein said pigment has a particle size 
+of less than 0.5 micron. </claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

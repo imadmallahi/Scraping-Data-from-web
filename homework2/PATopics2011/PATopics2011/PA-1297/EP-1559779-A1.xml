@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1559779-A1" country="EP" doc-number="1559779" kind="A1" lang="EN" family-id="34654391" status="new" date-produced="20090516" date="20050803"><bibliographic-data><publication-reference ucid="EP-1559779-A1" status="new" fvid="24406006"><document-id status="new" format="original"><country>EP</country><doc-number>1559779</doc-number><kind>A1</kind><date>20050803</date></document-id></publication-reference><application-reference ucid="EP-05001460-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>05001460</doc-number><kind>A</kind><date>20050125</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-76948104-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>76948104</doc-number><kind>A</kind><date>20040130</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C12N   1/15        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   1/15        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   1/19        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   1/19        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   1/21        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   1/21        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   5/10        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   5/10        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   9/04        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N   9/04        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/09        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N  15/09        20060101CFI20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C12N   9/04</classification-symbol><classification-symbol scheme="ICO">M07K319:21</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Modifiezirte Inosine-Monophosphate Dehydrogenasen</invention-title><invention-title load-source="ep" status="new" lang="EN">Modified inosine monophosphate dehydrogenases</invention-title><invention-title load-source="ep" status="new" lang="FR">Inosine monophosphate déhydrogénases modifiées</invention-title><citations><patent-citations><patcit ucid="US-4215051-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4215051</doc-number><kind>A</kind></document-id><sources><source name="APP" created-by-npl="N"/></sources></patcit><patcit ucid="US-5380879-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5380879</doc-number><kind>A</kind></document-id><sources><source name="APP" created-by-npl="N"/></sources></patcit><patcit ucid="US-5444072-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5444072</doc-number><kind>A</kind></document-id><sources><source name="APP" created-by-npl="N"/></sources></patcit><patcit ucid="US-5807876-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5807876</doc-number><kind>A</kind></document-id><sources><source name="APP" created-by-npl="N"/></sources></patcit><patcit ucid="US-6107052-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6107052</doc-number><kind>A</kind></document-id><sources><source name="APP" created-by-npl="N"/></sources></patcit><patcit ucid="US-6451572-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6451572</doc-number><kind>B1</kind></document-id><sources><source name="APP" created-by-npl="N"/></sources></patcit><patcit ucid="US-6524808-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6524808</doc-number><kind>B1</kind></document-id><sources><source name="APP" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1994001105-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1994001105</doc-number><kind>A1</kind></document-id><sources><source name="APP" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1994012184-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1994012184</doc-number><kind>A1</kind></document-id><sources><source name="APP" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2001036607-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2001036607</doc-number><kind>A1</kind></document-id><sources><source name="APP" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2001085952-A2" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2001085952</doc-number><kind>A2</kind></document-id><sources><source name="APP" created-by-npl="N"/><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>ANDERSON, J. H. ET AL. J. BIOL. CHEM. vol. 243, 1968, pages 4762 - 4768</text><sources><source name="APP" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>ENGELHARD ET AL. PROC. NAT. ACAD. SCI. vol. 91, 1994, pages 3224 - 7</text><sources><source name="APP" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>MOZO-VILLARIAS ANGEL ET AL:  "A simple electrostatic criterion for predicting the thermal stability of proteins." PROTEIN ENGINEERING, vol. 16, no. 4, April 2003 (2003-04), pages 279-286, XP002326067 ISSN: 0269-2139</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>SHAW K L ET AL:  "THE EFFECT OF NET CHARGE ON THE SOLUBILITY, ACTIVITY, AND STABILITY OF SIBONUCLESE SA" PROTEIN SCIENCE, CAMBRIDGE UNIVERSITY PRESS, CAMBRIDGE, GB, vol. 10, no. 6, June 2001 (2001-06), pages 1206-1215, XP009019515 ISSN: 0961-8368</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>SINTCHAK M D ET AL:  "STRUCTURE AND MECHANISM OF INOSINE MONOPHOSPHATE DEHYDROGENASE IN COMPLEX WITH THE IMMUNOSUPPRESSANT MYCOPHENOLIC ACID" CELL, CELL PRESS, CAMBRIDGE, NA, US, vol. 85, no. 6, 14 June 1996 (1996-06-14), pages 921-930, XP002039016 ISSN: 0092-8674</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>SMITH ET AL. J. VIROL vol. 46, 1983, page 584</text><sources><source name="APP" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>HOFFMANN LA ROCHE</name><address><country>CH</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>ROCHE DIAGNOSTICS GMBH</name><address><country>DE</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>F. HOFFMANN-LA ROCHE AG</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ROCHE DIAGNOSTICS GMBH</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>BOEHRINGER MANNHEIM GMBH</last-name><address><street>Sandhofer Strasse 116</street><city>68305 Mannheim</city><country>DE</country></address></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>F. HOFFMANN-LA ROCHE AG</last-name><address><street>Grenzacherstrasse 124</street><city>4070 Basel</city><country>CH</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>DORN ALLAN R</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>RUGABER JANICE E</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>DORN, ALLAN R.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>RUGABER, JANICE E.</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>DORN, ALLAN R.</last-name><address><street>14241 Dove Drive</street><city>Carmel, IN 46033</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>RUGABER, JANICE E.</last-name><address><street>5639 North Rural Street</street><city>Indianapolis, IN 46220</city><country>US</country></address></addressbook></inventor></inventors></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>HU</country><country>IE</country><country>IS</country><country>IT</country><country>LI</country><country>LT</country><country>LU</country><country>MC</country><country>NL</country><country>PL</country><country>PT</country><country>RO</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The invention relates to a modified IMPDH polypeptide wherein the IMPDH polypeptide
+has a histidine tag and where the subdomain of the IMPDH polypeptide is modified so that the rate
+stability of the histidine-tagged, modified IMPDH polypeptide is maintained relative to the wild-type
+IMPDH polypeptide. The invention also relates to a method, nucleic acid molecules, vectors,
+and host cells for producing such a histidine-tagged, modified IMPDH polypeptide, and to kits
+comprising the histidine-tagged, modified IMPDH polypeptide.
+<img id="img-00000001" orientation="unknown" wi="127" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="81"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading><b>Field of the Invention</b></heading><p num="0001">The present invention relates to modified inosine monophosphate dehydrogenases. More
+particularly, the invention relates to histidine-tagged modified inosine monophosphate
+dehydrogenases wherein the modified enzymes have stabilized activity relative to wild-type inosine
+monophosphate dehydrogenases.</p><heading><b>Background of the Invention</b></heading><p num="0002">Inosine-5'-monophosphate dehydrogenase (IMPDH; EC 1.1.1.205) is a key enzyme in the <i>de novo</i>
+synthesis of purines. IMPDH catalyzes the NAD-dependent oxidation of inosine-5'-monophosphate
+(IMP) to xanthosine-5'-monophosphate (XMP), resulting in the production of NADH and XMP.
+IMPDH catalyzed oxidation of IMP to XMP is the rate-limiting step in the synthesis of guanine
+nucleotides.</p><p num="0003">IMPDH exists as a homotetramer (<i>i.e.</i>, the enzyme has four subunits each comprising an IMPDH
+polypeptide). In many species, two isoforms of IMPDH have been described and are designated type
+I and type II IMPDH. Human type I and type II IMPDH have been identified and sequenced. Human
+IMPDH types I and II are both 514 amino acids in length and they share 84% sequence identity. The
+nucleotide and amino acid sequence of human type I IMPDH are disclosed in Natsumeda, Y., et al.,
+<i>J. Biol. Chem</i>. 265:5292-5295 (1990), and the nucleotide and amino acid sequence of human type II
+IMPDH are disclosed in Natsumeda, Y., et al., <i>J. Biol. Chem</i>. 265:5292-5295 (1990), Collart, F.R.
+and Hubermann, E., <i>J. Biol. Chem.</i> 263:15769-15772 (1988), and U.S. Patent No. 5,665,583. The
+subunits of human IMPDH types I and II that make up the IMPDH homotetramer each have a
+subunit molecular weight of 56 kDa. Human type II IMPDH has a catalytic core domain (amino
+acids 1-109 and 245-514) and a subdomain (amino acids 110-244) with unknown function.</p><p num="0004">IMPDH is a target for antitumor (<i>e.g.</i>, antileukemic) therapy and immunosuppressive chemotherapy.
+IMPDH is upregulated in neoplastic and differentiating cells. Furthermore, proliferating B and T
+lymphocytes depend on the <i>de novo</i> pathway, rather than the salvage pathway, for synthesis of 
+guanine nucleotides with inhibition of guanine nucleotide synthesis resulting in inhibition of DNA
+synthesis. Thus, IMPDH is an important enzyme for B and T cell proliferation, and inhibition of
+IMPDH activity inhibits both B and T cell proliferation making IMPDH an important target for
+immunosuppressive chemotherapy.</p><p num="0005">Mycophenolic acid (MPA) is an uncompetitive inhibitor of human types I and II IMPDH and MPA
+binds IMPDH after NADH is released, but before XMP is produced. MPA is the active metabolite
+<i>in vivo</i> of the ester prodrug mycophenolate mofetil (CellCept; MMF). MMF is an
+immunosuppressant that blocks B and T cell proliferation and MMF has been approved for the
+treatment of kidney and heart transplant rejection. MMF has also been used clinically to treat cancer
+and viral infections, and has been used as an anti-vascular hyperproliferative agent, an antipsoriatric
+agent, an antibacterial agent, an antifungal agent, and has been used for the treatment of
+autoimmune diseases.</p><p num="0006">MMF is hydrolyzed to MPA <i>in vivo,</i> and, accordingly, the monitoring of MPA levels <i>in vivo</i> allows
+for monitoring of MMF dosages. The measurement of MPA levels in patients treated with MMF is
+of clinical significance because the monitoring of MPA levels improves therapeutic efficacy, <i>e.g.</i>,
+optimal MMF levels necessary for adequate immunosuppression can be determined, and minimizes
+the adverse side effects of the drug. Isolated, recombinant IMPDH has been used in assays to
+measure MPA levels in patients treated with MMF, such as the assays described in U.S. Patent Nos.
+6,107,052 and 6,524,808.</p><p num="0007">The ability to produce and to isolate large amounts of stable, recombinant IMPDH (e.g., IMPDH
+that aggregates minimally) is important for use in assays for monitoring MPA levels in patients
+treated with MMF, or for use in assays to monitor the levels in patient samples of any other
+therapeutically useful IMPDH inhibitor. Other inhibitors of IMPDH are described in Anderson, J. H.
+et al., <i>J. Biol. Chem</i>. 243:4762-4768 (1968) and in U.S. Pat. Nos. 5,380,879, 5,444,072, and
+5,807,876 and in PCT publications WO 94/01105 and WO 94/12184.</p><p num="0008">The ability to produce and to isolate large amounts of stable, recombinant IMPDH is also important
+for other clinical and research applications, such as for the identification and design of new IMPDH 
+inhibitors useful for cancer and immunosuppressive therapies, and for determining the sensitivity of
+IMPDH to those inhibitors.</p><p num="0009">The present invention is directed to modified recombinant IMPDH polypeptides, and to isolated,
+modified nucleic acid molecules encoding these modified recombinant IMPDH polypeptides. The
+invention is also directed to a method, vectors, and host cells for producing such a modified
+recombinant IMPDH polypeptide, and to kits comprising the modified IMPDH polypeptide. The
+recombinant IMPDH polypeptides are modified to contain a histidine tag for purification by nickel
+chelate affinity chromatography, and are also modified in the subdomain region of the polypeptides
+so that the rate stability of the histidine-tagged, modified IMPDH polypeptides is maintained
+relative to the wild-type IMPDH polypeptide.</p><p num="0010">In one embodiment, the histidine-tagged, modified IMPDH polypeptide has the amino acid
+sequence as shown in any one of SEQ ID NOS: 14, 16, 18, 20, or 22. In another embodiment, one or
+more of the amino acids at positions 116-250 as shown in SEQ ID NO: 12 are substituted in the
+histidine-tagged, modified IMPDH polypeptide with a negatively charged amino acid. In still
+another embodiment, one or more of the positively charged amino acids at positions 130, 132, 134,
+140, 142, 143, 155, 159, 167, 173, 177, 187, 188, 201, 209, 211, 212, 214, 230, 234, 235, 237, 244,
+247, or 248 as shown in SEQ ID NO: 12 are substituted in the histidine-tagged, modified IMPDH
+polypeptide with a negatively charged amino acid. In an alternative embodiment, one or more of the
+positively charged amino acids at positions 130, 132, 134, 140, 142, 155, 159, 167, or 173 as shown
+in SEQ ID NO: 12 are substituted in the histidine-tagged, modified IMPDH polypeptide with a
+negatively charged amino acid.</p><p num="0011">Also provided are isolated nucleic acid molecules encoding the histidine-tagged, modified IMPDH
+polypeptides. Accordingly, the isolated nucleic acid molecules provided herein encode a modified
+type I or type II IMPDH polypeptide wherein the modified IMPDH polypeptide has a histidine tag
+and wherein the subdomain of the IMPDH polypeptide is modified so that the rate stability of the
+histidine-tagged, modified IMPDH polypeptide is maintained relative to the wild-type IMPDH
+polypeptide. In one embodiment, the isolated nucleic acid molecule can comprise a sequence
+selected from the group consisting of SEQ ID NO: 13, SEQ ID NO: 15, SEQ ID NO: 17, SEQ ID 
+NO: 19, SEQ ID NO: 21, and complementary sequences thereof. In another embodiment, isolated
+nucleic acid molecules are provided wherein the complementary sequences of the isolated nucleic
+acid molecules hybridize under stringent conditions to any one of the nucleotide sequences set forth
+in SEQ ID NO: 13, 15, 17, 19, or 21.</p><p num="0012">In still another embodiment, isolated nucleic acid molecules are provided wherein the
+complementary sequences of the isolated nucleic acid molecules hybridize under stringent
+conditions to nucleotides 346-750 of a sequence selected from the group consisting of SEQ ID NO:
+13, SEQ ID NO: 15, SEQ ID NO: 17, SEQ ID NO: 19, and SEQ ID NO: 21. In still another
+embodiment, isolated nucleic acid molecules are provided comprising nucleotides 346-750 of a
+sequence selected from the group consisting of SEQ ID NO: 13, SEQ ID NO: 15, SEQ ID NO: 17,
+SEQ ID NO: 19, and SEQ ID NO: 21. In another embodiment, isolated nucleic acid molecules are
+provided wherein the IMPDH polypeptide encoded comprises an amino sequence selected from the
+group consisting of SEQ ID NO: 14, SEQ ID NO: 16, SEQ ID NO: 18, SEQ ID NO: 20, and SEQ
+ID NO: 22. In still another embodiment, a vector is provided comprising the isolated nucleic acid
+molecule of SEQ ID NO: 13, SEQ ID NO: 15, SEQ ID NO: 17, SEQ ID NO: 19, or SEQ ID NO: 21
+obtainable from E. coli H712 and having ATCC accession number PTA-5786, PTA-5782, PTA-5784,
+PTA-5785, and PTA-5783, respectively.</p><heading><b>Brief Description of the Drawings</b></heading><p num="0013"><sl><li>Fig. 1 is a schematic representation of a wild-type IMPDH polypeptide showing the catalytic core
+and subdomain regions of the wild-type IMPDH polypeptide. For the positions of amino acid
+substitutions made in the histidine-tagged, modified IMPDH polypeptides described herein, see
+Figs. 9 A and B, 11 A and B, 13 A and B, 15 A and B, and 17 A and B.</li><li>Fig. 2 shows a map of plasmid pKKll7. The T5 promoter and lac operon (PT5) are located at
+nucleotides 30-90 in pKKll7. The human IMPDH II coding sequence (1545 base pairs) is located at
+nucleotides 141-1685 in the plasmid and was inserted into the MunI and HindIII sites. The
+subdomain region is denominated the "extra domain." The transcription termination region
+(rrnBT1/T2) is located at nucleotides 1842-2268. The ampicillin resistance gene (AmpR) is located
+at nucleotides 2359-3219. The origin of replication (ColE1) is located at nucleotides 3924-4024 in 
+pKKll7. The coding sequence for the histidine tag (6 histidines) was inserted at nucleotide 144 in
+pKKll7 into the 5'-end of the human wild-type, IMPDH type II coding sequence after the ATG start
+codon.</li><li>Fig. 3 shows the nucleotide sequences of the PCR primers ((+) and (-)) used to incorporate the
+coding sequence for a histidine tag into the 5'-end of the human wild-type, IMPDH type II coding
+sequence (SEQ ID NO: 1 and SEQ ID NO: 2). Fig. 3 also shows the nucleotide sequences of the
+PCR primers ((+) and (-)) used to mutate, by site-directed mutagenesis, the histidine-tagged human
+wild-type, IMPDH type II sequence in regions of the coding sequence corresponding to amino acids
+130-142 (SEQ ID NO: 3 and SEQ ID NO: 4), 155-159 (SEQ ID NO: 5 and SEQ ID NO: 6), and
+167-173 (SEQ ID NO: 7 and SEQ ID NO: 8).</li><li>Fig. 4 shows the nucleotide sequence of human wild-type, IMPDH type II (SEQ ID NO: 9).</li> <li>Fig. 5 A and B show the deduced amino acid sequence of human wild-type, IMPDH type II (SEQ
+ID NO: 10). The subdomain is underlined.</li><li>Fig. 6 shows the nucleotide sequence of human wild-type, IMPDH type II with coding sequence for
+a histidine tag incorporated into the 5'-end of the coding sequence (SEQ ID NO: 11).</li><li>Fig. 7 A and B show the deduced amino acid sequence of human wild-type, IMPDH type II with a
+histidine tag incorporated into the amino-terminal end of the polypeptide (SEQ ID NO: 12). The
+subdomain is underlined and the amino acids encoding the histidine tag are in italics.</li><li>Fig. 8 shows the nucleotide sequence of human IMPDH type II Δ 2B + AH clone A (SEQ ID NO:
+13).</li><li>Fig. 9 A and B show the deduced amino acid sequence of human IMPDH type II Δ 2B + AH clone
+A (SEQ ID NO: 14). The subdomain is underlined and the amino acids encoding the histidine tag,
+and the amino acid substitutions in the subdomain, are in italics.</li> <li>Fig. 10 shows the nucleotide sequence of human IMPDH type II (Δ 3 + 1 A) + AH clone A (SEQ ID
+NO: 15). </li> <li>Fig. 11 A and B show the deduced amino acid sequence of human IMPDH type II (Δ 3 + 1A) + AH
+clone A (SEQ ID NO: 16). The subdomain is underlined and the amino acids encoding the histidine
+tag, and the amino acid substitutions in the subdomain, are in italics.</li> <li>Fig. 12 shows the nucleotide sequence of human IMPDH type II Δ 1,2A + AH clone B (SEQ ID
+NO: 17).</li><li>Fig. 13 A and B show the deduced amino acid sequence of human Δ 1,2A + AH clone B IMPDH
+type II (SEQ ID NO: 18). The subdomain is underlined and the amino acids encoding the histidine
+tag, and the amino acid substitutions in the subdomain, are in italics.</li><li>Fig. 14 shows the nucleotide sequence of human IMPDH type II Δ 3B + AH clone B (SEQ ID NO:
+19).</li><li>Fig. 15 A and B show the deduced amino acid sequence of human IMPDH type II Δ 3B + AH clone
+B (SEQ ID NO: 20). The subdomain is underlined and the amino acids encoding the histidine tag,
+and the amino acid substitutions in the subdomain, are in italics.</li><li>Fig. 16 shows the nucleotide sequence of human IMPDH type II (Δ 2 + 1 A) + AH clone B (SEQ ID
+NO: 21).</li><li>Fig. 17 A and B show the deduced amino acid sequence of human IMPDH type II (Δ 2 + 1 A) + AH
+clone B (SEQ ID NO: 22). The subdomain is underlined and the amino acids encoding the histidine
+tag, and the amino acid substitutions in the subdomain, are in italics.</li><li>Fig. 18 shows rate stability data (<i>i.e.</i>, % remaining IMPDH activity/time) for human wild-type,
+IMPDH type II as a percentage of the initial rate (x-axis) versus the day tested (y-axis). IMPDH
+activity was tested using buffer system R1 C(1) (▴, □) or R 1 F (+, <img id="img-00060001" orientation="unknown" wi="3" img-format="tif" img-content="ff" file="00060001.tif" inline="no" he="3"/>) and was tested at 4°C (▴, +)
+and 25°C (□, <imgref idrefs="img-00060001"/>).</li><li>Fig. 19 shows rate stability data <i>(i.e.,</i> % remaining IMPDH activity/time) for histidine-tagged human
+IMPDH type II as a percentage of the initial rate (x-axis) versus the day tested (y-axis). Histidine-tagged 
+IMPDH activity was tested using buffer system R1 C(1) (▴, □) or R 1 F (+, <imgref idrefs="img-00060001"/>) and was
+tested at 4°C (▴, +) and 25°C (□, <imgref idrefs="img-00060001"/>).</li><li>Fig. 20 shows rate stability data (<i>i.e.</i>, % remaining IMPDH activity/time) for IMPDH type II Δ 2B +
+AH clone A as a percentage of the initial rate (x-axis) versus the day tested (y-axis). IMPDH type II
+Δ 2B + AH clone A activity was tested using buffer system R1 C(1) (▴, □) or R1 F (+, <imgref idrefs="img-00060001"/>) and was
+tested at 4°C (▴, +) and 25°C (□, <imgref idrefs="img-00060001"/>).</li><li>Fig. 21 shows rate stability data (<i>i.e.,</i> % remaining IMPDH activity/time) for human IMPDH type II
+(Δ 3 + 1A) + AH clone A as a percentage of the initial rate (x-axis) versus the day tested (y-axis).
+IMPDH type II (Δ 3 + 1A) + AH clone A activity was tested using buffer system R1 C(1) (▴, □) or
+R1 F (+, <imgref idrefs="img-00060001"/>) and was tested at 4°C (▴, +) and 25°C (□, <imgref idrefs="img-00060001"/>).</li><li>Fig. 22 shows rate stability data (<i>i</i>.<i>e</i>., % remaining IMPDH activity/time) for human IMPDH type II
+Δ 1,2A + AH clone B as a percentage of the initial rate (x-axis) versus the day tested (y-axis).
+IMPDH type II Δ 1,2A + AH clone B activity was tested using buffer system R1 C(1) (▴, □) or R1
+F (+, <imgref idrefs="img-00060001"/>) and was tested at 4°C (▴, +) and 25°C (□, <imgref idrefs="img-00060001"/>).</li><li>Fig. 23 shows rate stability data (<i>i.e.,</i> % remaining IMPDH activity/time) for human IMPDH type II
+Δ 3B + AH clone B as a percentage of the initial rate (x-axis) versus the day tested (y-axis). IMPDH
+type II Δ 3B + AH clone B activity was tested using buffer system R1 C(1) (▴, □) or R1 F (+, <imgref idrefs="img-00060001"/>)
+and was tested at 4°C (▴, +) and 25°C (□, <imgref idrefs="img-00060001"/>).</li><li>Fig. 24 shows rate stability data <i>(i.e.,</i> % remaining IMPDH activity/time) for human IMPDH type II
+(Δ 2 + 1A) + AH clone B as a percentage of the initial rate (x-axis) versus the day tested (y-axis).
+IMPDH type II (Δ 2 + 1A) + AH clone B activity was tested using buffer system R1 C(1) (▴, □) or
+R1 F (+, <imgref idrefs="img-00060001"/>) and was tested at 4°C (▴, +) and 25°C (□, <imgref idrefs="img-00060001"/>).</li></sl></p><heading><b>Detailed Description of the Invention</b></heading><p num="0014">The present invention is directed to histidine-tagged, modified recombinant IMPDH polypeptides,
+and to isolated, modified nucleic acid molecules encoding these IMPDH polypeptides. The
+invention is also directed to a method, vectors, and host cells for producing such a histidine-tagged, 
+modified recombinant IMPDH polypeptide, and to kits comprising the modified IMPDH
+polypeptide. The recombinant IMPDH polypeptides are modified to contain a histidine tag for
+purification by nickel chelate affinity chromatography, and are also modified in the subdomain
+region of the polypeptides (see Fig. 1) so that the rate stability of the histidine-tagged, modified
+IMPDH polypeptides is maintained relative to the wild-type IMPDH polypeptide.</p><p num="0015">Purification of the wild-type IMPDH enzyme results in low yields and low purity. Accordingly, an
+affinity tag, such as a 6-histidine tag, is often incorporated into wild-type IMPDH to shorten
+purification time and increase yield and purity. The addition of such affinity tags can result in
+decreased solubility and stability of IMPDH in solution. Accordingly, nucleic acid molecules
+encoding histidine-tagged human IMPDH polypeptides were modified by site-directed mutagenesis
+as described herein to encode amino acid substitutions in the subdomain region of the polypeptides.
+These amino acid substitutions result in maintenance of the rate stability of the histidine-tagged,
+modified IMPDH polypeptides relative to the wild-type IMPDH polypeptide (see Figs. 18-24).</p><p num="0016">Maintenance of the rate stability of the histidine-tagged, modified IMPDH polypeptide relative to
+the wild-type IMPDH polypeptide means that the rate stability of the histidine-tagged, modified
+IMPDH polypeptide at 4°C is at least about 80% of the rate stability of the wild-type IMPDH
+polypeptide, at least about 85% of the rate stability of the wild-type IMPDH polypeptide, at least
+about 95% of the rate stability of the wild-type IMPDH polypeptide, or at least about 98% of the
+rate stability of the wild-type IMPDH polypeptide.</p><p num="0017">As used herein, the term "modified IMPDH polypeptide" refers to an IMPDH polypeptide having
+the IMPDH subdomain (<i>i.e.</i>, internal non-catalytic subdomain) of the wild-type IMPDH polypeptide
+modified by substitution of at least one amino acid normally present in the subdomain with an
+amino acid not normally present. The "modified IMPDH polypeptides" are functionally catalytic
+and may form a multimer (<i>e.g.</i>, a homotetramer) which is also a "modified IMPDH polypeptide" in
+accordance with the present invention. The "modified IMPDH polypeptides" described herein are
+typically recombinant, but can be synthetic.</p><p num="0018">As used herein, the term "complementary sequence" refers to the ability of purine and pyrimidine
+nucleotide sequences to associate through hydrogen bonding to form double-stranded nucleic acid 
+molecules. Guanine and cytosine, adenine and thymine, and adenine and uracil are complementary
+and can associate through hydrogen bonding resulting in the formation of double-stranded nucleic
+acid molecules when two nucleic acid molecules have "complementary" sequences. The
+complementary sequences can be DNA or RNA sequences.</p><p num="0019">As used herein, an "isolated" nucleic acid molecule is a nucleic acid molecule that is substantially
+separated from other contaminant nucleic acid molecules that encode a different polypeptide.</p><p num="0020">The single letter codes for amino acids are as follows: A = alanine, R = arginine, N = asparagine, D
+= aspartic acid, C = cysteine, Q = glutamine, E = glutamic acid, G = glycine, H = histidine, I =
+isoleucine, L = leucine, K = lysine, M = methionine, F = phenylalanine, P = proline, S = serine, T =
+threonine, W = tryptophan, Y = tyrosine, and V = valine.</p><p num="0021">Type I and type II IMPDH polypeptides include an N-terminal catalytic domain, an internal non-catalytic
+subdomain, and a C-terminal catalytic domain (see Fig. 1). Type I or type II IMPDH
+polypeptides from a variety of species can be histidine-tagged, and modified in the subdomain
+region of the polypeptides as described herein to produce and isolate, in high yield and purity,
+stabilized histidine-tagged recombinant IMPDH polypeptides. The histidine-tag can be of any length
+useful for purification of proteins by nickel chelate affinity chromatography.</p><p num="0022">The type I or type II IMPDH polypeptides provided herein that have been modified to contain a
+histidine tag, and have been modified in the IMPDH subdomain can be further substituted, deleted,
+truncated, or fused with other polypeptides, or combinations thereof, as long as the resulting
+expressed IMPDH polypeptide, or a fragment thereof, retains substantially the same IMPDH activity
+as the histidine-tagged, modified IMPDH polypeptides exemplified herein. These substituted,
+deleted, truncated, and fused polypeptides are considered equivalents of the exemplified modified
+IMPDH polypeptides and are within the scope of the present invention.</p><p num="0023">"Further substituted" means that the equivalent differs by one or more amino acid substitution from
+the IMPDH polypeptides described herein and the further substitution can be conservative or
+nonconservative and the further substitution can be with an amino acid analog. The further
+substitution can also be made to optimize the level of production of the modified IMPDH 
+polypeptide in a particular prokaryotic or eukaryotic host cell (<i>i.e.,</i> a codon-usage variant). The
+further substitution can occur either in the subdomain or in any other portion of the IMPDH
+polypeptide (<i>e.g.</i>, in the N-terminal catalytic domain or in the C-terminal catalytic domain).</p><p num="0024">In one embodiment, a modified type I or II IMPDH polypeptide is provided. The modified IMPDH
+polypeptide has a histidine tag and the subdomain of the IMPDH polypeptide is modified so that the
+rate stability of the histidine-tagged, modified IMPDH polypeptide is maintained relative to the
+wild-type IMPDH polypeptide. In other embodiments, the modified IMPDH polypeptide has the
+amino acid sequence as shown in any one of SEQ ID NOS: 14, 16, 18, 20, or 22. In the embodiment
+shown in SEQ ID NO: 14, each of the arginines at positions 155 and 159 (see SEQ ID NO: 12) are
+substituted with a glutamic acid (SEQ ID NO: 14 positions 155 and 159). In the embodiment shown
+in SEQ ID NO: 16, the arginine at position 167, the lysine at position 173, and the valine at position
+390 (see SEQ ID NO: 12) are substituted with a glutamic acid, a glutamic acid, and an aspartic acid,
+respectively (SEQ ID NO: 16 positions 167, 173, and 390). In the embodiment shown in SEQ ID
+NO: 18, the lysine at position 140 and the arginine at position 142 (see SEQ ID NO: 12) are
+substituted with a glutamic acid (SEQ ID NO: 18 positions 140 and 142). In the embodiment shown
+in SEQ ID NO: 20, the arginine at position 167 and the lysine at position 173 (see SEQ ID NO: 12)
+are substituted with a glutamic acid (SEQ ID NO: 20 positions 167 and 173). In the embodiment
+shown in SEQ ID NO: 22, the lysine at position 130, the arginine at position 132, the arginine at
+position 134, the lysine at position 140, the arginine at position 142, the arginine at position 155, and
+the arginine at position 159 (see SEQ ID NO: 12) are each substituted with a glutamic acid (SEQ ID
+NO: 22 positions 130, 132, 134, 140, 142, 155, and 159).</p><p num="0025">In yet another embodiment, one or more of the amino acids at positions 116-250 as shown in SEQ
+ID NO: 12 are substituted in the modified IMPDH polypeptide with a negatively charged amino
+acid, such as aspartic acid or glutamic acid. In still another embodiment, one or more of the
+positively charged amino acids at positions 130, 132, 134, 140, 142, 143, 155, 159, 167, 173, 177,
+187, 188, 201, 209, 211, 212, 214, 230, 234, 235, 237, 244, 247, or 248 as shown in SEQ ID NO: 12
+of are substituted in the modified IMPDH polypeptide with a negatively charged amino acid. In an
+alternative embodiment, one or more of the positively charged amino acids at positions 130, 132, 
+134, 140, 142, 155, 159, 167, or 173 as shown in SEQ ID NO: 12 are substituted in the modified
+IMPDH polypeptide with a negatively charged amino acid.</p><p num="0026">Exemplary of nucleic acid molecules encoding type I or type II IMPDH that can be modified in the
+IMPDH subdomain-encoding region of the nucleic acid molecules, and used to produce the
+histidine-tagged, modified IMPDH polypeptides described herein, include IMPDH-encoding nucleic
+acids from a human source or other mammalian sources, or bacterial, fungal, yeast, or plant sources.
+Any other type I or type II IMPDH-encoding nucleic acid molecule from a eukaryotic or prokaryotic
+source can also be used to produce histidine-tagged type I or type II IMPDH polypeptides modified
+in the subdomain region so that the rate stability of the histidine-tagged, modified IMPDH
+polypeptides relative to the wild-type IMPDH polypeptide is maintained.</p><p num="0027">In one embodiment, nucleic acid molecules obtained, for example, from isolated microorganisms,
+such as bacteria, fungus, or yeast, that exhibit particularly high IMPDH activity can be used. In
+another embodiment, the expressed IMPDH nucleic acid molecule can be a heterologous nucleic
+acid molecule and, in yet another embodiment, the expressed IMPDH nucleic acid molecule can be
+a homologous nucleic acid molecule. A heterologous nucleic acid molecule is defined herein as a
+nucleic acid molecule originating from a different species than the species used for expression of the
+nucleic acid molecule. A homologous nucleic acid molecule is defined herein as a nucleic acid
+molecule originating from the same species used for expression of the nucleic molecule.</p><p num="0028">Exemplary nucleic acid or amino acid sequences of IMPDH that can be used are described in
+Natsumeda et al., <i>J. Biol. Chem.</i> 265:5292-5295 (1990), Collart, F. R. and Hubermann, E., <i>J. Biol.
+Chem.</i> 263:15769-15772 (1988), U.S. Pat. No. 5,665,583, Gu et al., <i>J. Biol. Chem.</i> 272:4458-4466
+(1997), Dayton et al., <i>J. Immunol</i>. 152:984 (1994), Zimmermann et al., <i>J. Biol. Chem.</i> 270:6808-6814
+(1995), and Glesne et al., <i>Biochem. And Biophys. Res. Comm.</i> 537-544 (1994).</p><p num="0029">Type I or type II IMPDH-encoding nucleic acid molecules that have been modified to contain
+coding sequence for a histidine tag, and have been modified in the IMPDH subdomain-encoding
+region of the nucleic acid molecule that are further substituted, deleted, truncated, and/or fused with
+other nucleic acid molecules wherein the resulting expressed IMPDH polypeptide, or a fragment
+thereof, retains substantially the same IMPDH activity as the histidine-tagged, modified IMPDH 
+polypeptides exemplified herein, are considered equivalents of the exemplified histidine-tagged,
+modified IMPDH polypeptides and are within the scope of the present invention.</p><p num="0030">Also within the scope of the invention are nucleic acid molecules complementary to the nucleic acid
+molecules that encode the histidine-tagged, modified IMPDH polypeptides described herein, and
+those that hybridize to the complementary nucleic acid molecules under stringent conditions.
+Typical stringent conditions include, for example, hybridization at 50°C to 65°C in 5X SSPE and
+50% formamide, and washing at 50°C to 65°C in 0.5X SSPE, or hybridization at 65°C in 0.1% SDS
+and 1X SSC. Other stringent conditions are described in Sambrook et al., "Molecular Cloning: A
+Laboratory Manual", 3rd Edition, Cold Spring Harbor Laboratory Press (2001), incorporated herein
+by reference.</p><p num="0031">The nucleic acid molecules that encode the histidine-tagged, modified IMPDH polypeptides
+described herein can be DNA or RNA and can be recombinant or synthetic. In one embodiment, the
+nucleic acid molecules are labeled with a detectable marker such as a radioisotope, a fluorescent
+compound, a bioluminescent compound, a chemiluminescent compound, a metal chelator or an
+enzyme, and are used as probes. In another embodiment, the nucleic acid molecules described herein
+include peptide nucleic acids (PNAs), or derivatives such as phosphorothioate, phosphotriester,
+phosphoramidate, and methylphosphonate, that specifically bind to single-stranded DNA or RNA
+(Goodchild, et al., <i>Proc. Natl. Acad. Sci.</i> 83:4143-4146 (1986)).</p><p num="0032">In yet another embodiment, the nucleic acid molecules that encode the histidine-tagged, modified
+IMPDH polypeptides are isolated. Techniques known in the art can be used to isolate the nucleic
+acid molecules encoding the histidine-tagged, modified IMPDH polypeptides described herein. Such
+a technique is described in more detail below, and other techniques for isolating nucleic acid
+molecules are described in Sambrook et al., "Molecular Cloning: A Laboratory Manual", 3rd
+Edition, Cold Spring Harbor Laboratory Press, (2001).</p><p num="0033">For example, the nucleic acid molecules that encode the histidine-tagged, modified IMPDH
+polypeptides can be generated by isolating a cDNA clone encoding the wild-type IMPDH protein.
+Recombinant DNA technology can then be used to alter the cDNA sequence to encode amino acid
+substitutions in the IMPDH subdomain, and to incorporate coding sequence for a histidine tag, for 
+example, into the 5'-end of the IMPDH coding sequence. Alteration of the cDNA sequence can be
+accomplished, for example, by using PCR for site-directed mutagenesis to alter the cDNA sequence
+to encode amino acid substitutions in the IMPDH subdomain, or by using PCR to insert coding
+sequence for a histidine tag into the 5'-end of the IMPDH coding sequence (see U.S. Patent No.
+4,603,102, incorporated herein by reference).</p><p num="0034">Similar techniques were used to isolate the nucleic acid molecules encoding the histidine-tagged,
+modified IMPDH polypeptides described herein. PCR primers having the sequences of SEQ ID
+NOS: 1 and 2 (see Fig. 3) were used to insert coding sequence for a histidine tag into the 5'-end of
+the wild-type human type II IMPDH coding sequence in the plasmid pKKll7 (see Fig. 2). PCR
+primers having the sequences of SEQ ID NOS: 3-8 (see Fig. 3) were used to alter the human type II
+IMPDH sequence in pKKll7, having coding sequence for a histidine tag at the 5'-end, to produce
+nucleic acid molecules encoding the histidine-tagged, modified IMPDH polypeptides described
+herein (i.e., with amino acid substitutions in the IMPDH subdomain).</p><p num="0035">The resulting nucleic acid molecules and histidine-tagged, modified IMPDH polypeptides are
+denominated Δ 2B + AH clone A, (Δ 3 + 1A) + AH clone A, Δ 1,2A + AH clone B, Δ 3B + AH
+clone B, and (Δ 2 + 1A) + AH clone B. These clones have the nucleotide sequences shown in SEQ
+ID NOS: 13, 15, 17, 19, and 21, respectively (Figs. 8, 10, 12, 14, and 16), and the deduced amino
+acid sequences shown in SEQ ID NOS: 14, 16, 18, 20, and 22, respectively (see Figs. 9 A and B, 11
+A and B, 13 A and B, 15 A and B, and 17 A and B). The human wild-type IMPDH type II coding
+sequence has the sequence of SEQ ID NO: 9 (Fig. 4), and the deduced amino acid sequence of SEQ
+ID NO: 10 (Fig. 5 A and B). The coding sequence of human wild-type, IMPDH type II, with coding
+sequence for a histidine tag incorporated at the 5'-end of the molecule, has the nucleotide sequence
+of SEQ ID NO: 11 (Fig. 6), and the deduced amino acid sequence of SEQ ID NO: 12 (Fig. 7 A and
+B).</p><p num="0036">All histidine-tagged wild-type and histidine-tagged, modified IMPDH-encoding nucleic acid
+molecules have been deposited in the American Type Culture Collection, 10801 University Blvd.,
+Manassas, Va. Each of these nucleic acid molecules was inserted in pKKll7 and the vector with
+insert was transformed into <i>E</i>. <i>coli</i> H712. The clones containing human wild-type, IMPDH type II 
+DNA, with coding sequence for a histidine tag incorporated at the 5'-end of the molecule, and
+clones denominated Δ 2B + AH clone A, (Δ 3 + 1 A) + AH clone A, Δ 1,2A + AH clone B, Δ 3B +
+AH clone B, and (Δ 2 + 1 A) + AH clone B, have ATCC accession numbers PTA-5787, PTA-5786,
+PTA-5782, PTA-5784, PTA-5785, and PTA-5783, respectively.</p><p num="0037">Thus, an isolated nucleic acid molecule is provided. The isolated nucleic acid molecule encodes a
+modified type I or type II IMPDH polypeptide where the IMPDH polypeptide has a histidine tag and
+where the subdomain of the IMPDH polypeptide is modified so that the rate stability of the
+histidine-tagged, modified IMPDH polypeptide is maintained relative to the wild-type IMPDH
+polypeptide. In one embodiment, the isolated nucleic acid molecule can comprise a sequence
+selected from the group consisting of SEQ ID NO: 13, SEQ ID NO: 15, SEQ ID NO: 17, SEQ ID
+NO: 19, SEQ ID NO: 21, and complementary sequences thereof. In another embodiment, isolated
+nucleic acid molecules are provided wherein the complementary sequences of the isolated nucleic
+acid molecules hybridize under stringent conditions to any one of the nucleotide sequences set forth
+in SEQ ID NO: 13, 15, 17, 19, or 21.</p><p num="0038">In still another embodiment, isolated nucleic acid molecules are provided wherein the
+complementary sequences of the isolated nucleic acid molecules hybridize under stringent
+conditions to nucleotides 346-750 of a sequence selected from the group consisting of SEQ ID NO:
+13, SEQ ID NO: 15, SEQ ID NO: 17, SEQ ID NO: 19, and SEQ ID NO: 21. In still another
+embodiment, isolated nucleic acid molecules are provided comprising nucleotides 346-750 of a
+sequence selected from the group consisting of SEQ ID NO: 13, SEQ ID NO: 15, SEQ ID NO: 17,
+SEQ ID NO: 19, and SEQ ID NO: 21. In another embodiment, isolated nucleic acid molecules are
+provided wherein the IMPDH polypeptide encoded comprises an amino sequence selected from the
+group consisting of SEQ ID NO: 14, SEQ ID NO: 16, SEQ ID NO: 18, SEQ ID NO: 20, and SEQ
+ID NO: 22. In still another embodiment, a vector is provided comprising the isolated nucleic acid
+molecule of SEQ ID NO: 13, SEQ ID NO: 15, SEQ ID NO: 17, SEQ ID NO: 19, or SEQ ID NO: 21
+obtainable from <i>E</i>. <i>coli</i> H712 and having ATCC accession numbers PTA-5786, PTA-5782, PTA-5784,
+PTA-5785, and PTA-5783, respectively. </p><p num="0039">Any prokaryotic or eukaryotic host cell-vector system known to the skilled artisan can be used for
+the expression of the histidine-tagged, modified IMPDH polypeptides described herein. For
+example, a system where the vector replicates autonomously or integrates into the host genome can
+be used. The term vector includes, but is not limited to, plasmids, cosmids, phage, phagmids, and
+modified viral vectors. Illustrative examples of prokaryotic expression vectors are BLUESCRIPT
+(Stratagene), pIN vectors (Van Heeke, et al., <i>J. Biol. Chem</i>. 264:5503-5509 (1989), incorporated
+herein by reference), pET24a for expression in <i>E. coli</i> (Novagen, Inc., Madison, Wisconsin), and
+pKKll7 described herein. An illustrative example of a eukaryotic expression vector is an adenovirus
+expression vector for expression in eukaryotic cells (Logan, et al., <i>Proc. Natl. Acad. Sci.</i> 81:3655-59
+(1984), incorporated herein by reference).</p><p num="0040">In one embodiment, the vector has restriction endonuclease cleavage sites for the insertion of
+nucleic acid molecules, and genetic markers for selection of host cell transformants (<i>e.g.</i>, ampicillin,
+tetracycline, kanamycin, or neomycin resistance markers). In an expression vector, the IMPDH-encoding
+nucleic acid molecule can be operably linked to a promoter capable of directing the
+expression of the IMPDH polypeptide in a particular host cell-vector system. Exemplary prokaryotic
+promoters include constitutive promoters (<i>e.g.</i>, the 3-phosphoglycerate kinase promoter or the α-factor
+promoter) and inducible promoters (<i>e.g.</i>, the ADH2, GAL-1-10, GAL 7, PHO5, T7, T5, or
+metallothionine promoter), and a promoter-operator combination can be used to regulate
+transcription.</p><p num="0041">Exemplary eukaryotic promoters include the CMV promoter, the ASV promoter, the RSV-LTR
+promoter, the MMTV-LTR promoter, the early and late SV40 promoters, other viral promoters,
+promoters for the synthesis of glycolytic enzymes, and the hMTII promoter. In another embodiment,
+ribosome binding site sequences are also present. Other promoter systems are described in Chang et
+al., <i>Nature</i> 198:1056 (1977), Goeddel, et al., <i>Nucleic Acids Res.</i> 8:4057 (1980), and Shimatake, et
+al., <i>Nature</i> 292:128 (1981), each of which is incorporated herein by reference.</p><p num="0042">The vectors can include other commonly used control sequences. For example, in one embodiment,
+the IMPDH-encoding nucleic acid has a terminator sequence for transcription termination (<i>e</i>.<i>g</i>.,
+rrnBT1/T2 or HSP150 terminator). In another embodiment, the IMPDH-encoding nucleic acid 
+molecule is spliced in frame with a transcriptional enhancer element. The vectors can also include
+bacterial origins of replication (<i>e</i>.<i>g</i>., ColE1) so that the vectors can be replicated in bacteria for ease
+of production of DNA, and can include sequences to stabilize messenger RNA.</p><p num="0043">Prokaryotic host cells include expression in gram negative or gram positive bacteria. Examples of
+eukaryotic host cells include any mammalian cell (<i>e.g.,</i> COS, CHO, NIH/3T3, HeLa, Daudi, 293,
+293-EBNA, and VERO cells), whether primary or immortalized, yeast cells such as <i>S</i>. <i>cerevisiae, S.
+pombe</i>, and <i>P. pastoris,</i> and insect cells, such as Sf9 cells (Smith et al., <i>J. Virol</i>. 46:584 (1983),
+Engelhard, et al., <i>Proc. Nat. Acad. Sci</i>. 91:3224-7 (1994), and U.S. Patent No. 4,215,051, all
+incorporated herein by reference), and fungal cells <i>(e.g., Trichoderma).</i> Eukaryotic host cells can be
+chosen to insure correct post-translational modification of proteins. Various host cell-vector systems
+are described in U.S. Patent No. 6,451,572 and in PCT Publication No. WO 01/36607 A1, both
+incorporated herein by reference.</p><p num="0044">In another embodiment, a host cell-vector system for expressing histidine-tagged, modified IMPDH
+polypeptides is the pKKll7 vector-<i>E</i>. <i>coli</i> H712 system described herein. Fig. 2 shows a map of
+plasmid pKKll7. pKKll7 contains the T5 promoter and lac operon (PT5) and these regulatory
+sequences are located at nucleotides 30-90 in pKKll7. The human IMPDH II coding sequence (SEQ
+ID NO: 9; 1545 base pairs) was inserted at nucleotides 141-1685 in the plasmid. A transcription
+termination region (rrnBT1/T2) is located at nucleotides 1842-2268, and an ampicillin resistance
+gene (AmpR) is located at nucleotides 2359-3219. An origin of replication (ColE1) for replication of
+pKKll7 in bacteria is located at nucleotides 3924-4024. The coding sequence for the histidine tag
+(SEQ ID NO: 1; 6 histidines) was inserted at nucleotide 144 in pKKll7 into the 5'-end of the human
+wild-type, IMPDH type II coding sequence after the ATG start codon. In the examples described
+herein, site-directed mutagenesis using PCR was performed (see SEQ ID NOS: 3-8 for the sequence
+of the PCR primers) in pKKll7 containing the coding sequence for the histidine-tagged, wild-type
+IMPDH polypeptide.</p><p num="0045">In one embodiment, host cells comprising the nucleic acid molecules described herein are provided.
+The host cell can be selected from the group consisting of a bacteria, a yeast, a mammalian cell, a
+fungal cell, and an insect cell. The host cells comprise a vector, plasmid, phagmid, or cosmid 
+comprising the nucleic acid molecules described herein encoding histidine-tagged, modified IMPDH
+polypeptides, or fragments thereof. In another embodiment, a vector is provided comprising any of
+the nucleic acid molecules described herein encoding histidine-tagged, modified IMPDH
+polypeptides, or fragments thereof.</p><p num="0046">Host cells can be transformed or transfected with a vector construct comprising the nucleic acid
+molecule encoding the histidine-tagged, modified IMPDH polypeptide using any transformation or
+transfection procedure known to those skilled in the art. Such procedures include electroporation,
+protoplast transformation, microinjection, virus-mediated transfection, CaPO<sub>4</sub>-mediated
+transfection, DEAE-dextran-mediated transfection, lipofection, and CaCl<sub>2</sub> shock. For other
+transformation and transfection procedures and other cloning techniques known in the art, including
+descriptions of host cell-vector systems, see Sambrook et al., "Molecular Cloning: A Laboratory
+Manual," 3rd Edition, Cold Spring Harbor Laboratory Press, (2001), incorporated herein by
+reference. Growth conditions for transformed or transfected prokaryotic or eukaryotic cells are
+known in the art.</p><p num="0047">The host cells with the nucleic acid molecule encoding the histidine-tagged, modified IMPDH
+polypeptide can be identified by techniques well-known in the art. For example, bacterial host cells
+with the nucleic acid molecule encoding the histidine-tagged, modified IMPDH polypeptide can be
+cloned to produce single colonies. The single colonies can be cultured and the bacterial host cells in
+the culture lysed, for example, by sonication, heat, or chemical treatment, such as with lysozyme or
+a detergent to release the DNA, and the homogenate centrifuged to remove cell debris. The DNA
+can be isolated using the technique described in more detail below or using any other technique
+known in the art. The isolated DNA can be analyzed by techniques known in the art, such as
+restriction enzyme analysis or sequencing, to determine if the DNA contains an insert encoding the
+desired histidine-tagged, modified IMPDH polypeptide. The bacteria containing DNA encoding the
+histidine-tagged, modified IMPDH polypeptide can then be cultured to express histidine-tagged,
+modified IMPDH polypeptides.</p><p num="0048">For expression of the histidine-tagged, modified IMPDH polypeptides, host cells are cultured under
+conditions suitable for expression such as those described in more detail below. The cultured cells 
+are then lysed for example, by sonication, heat, or chemical treatment, such as with lysozyme or a
+detergent to release the expressed polypeptide, and the homogenate centrifuged to remove cell
+debris. Expression of the histidine-tagged, modified IMPDH polypeptides can be detected by
+methods known in the art. For example, the modified IMPDH polypeptides can be detected by
+Coomassie staining of SDS-PAGE gels, immunoblotting using antibodies that bind IMPDH, or by
+IMPDH activity assays.</p><p num="0049">The histidine-tagged, modified and histidine-tagged, wild-type IMPDH polypeptides can be purified
+by nickel chelate affinity chromatography as described below either alone or in combination with
+other conventional purification techniques. Such purification techniques include ammonium sulfate
+precipitation, gel filtration, ion exchange chromatography, DEAE-Sepharose column
+chromatography, affinity chromatography, such as by using IMP or anti-IMPDH antibodies,
+solvent-solvent extraction, ultrafiltration, and HPLC. The histidine tag can also be removed
+following nickel chelate affinity chromatography by enzyme-based methods known in the art, such
+as enterokinase cleavage, and the modified IMPDH polypeptides can be purified from the released
+tag using any of the above-described conventional techniques. In illustrative embodiments,
+purification means at least about 60% pure, at least about 70-80% pure, at least about 90% pure, or
+at least about 95% pure. For additional purification techniques that can be used, see R. Scopes,
+"Protein Purification, Principles and Practice," Third Edition, Springer-Verlag (1994), incorporated
+herein by reference. It should be understood that the purification methods described above for
+purification of histidine-tagged, modified IMPDH polypeptides or histidine-tagged, wild-type
+IMPDH polypeptides are nonlimiting and any purification techniques known to those skilled in the
+art can be used to purify the histidine-tagged, modified IMPDH polypeptides or histidine-tagged,
+wild-type IMPDH polypeptides. The IMPDH polypeptides can be concentrated, if necessary, by
+such techniques as, for example, ultrafiltration and tangential flow filtration.</p><p num="0050">Thus, in one embodiment a method is provided for producing the histidine-tagged, modified IMPDH
+polypeptides described herein. The method comprises the step of culturing the host cell transformed
+with a nucleic acid molecule encoding the histidine-tagged, modified IMPDH polypeptide. The
+transformed host cell is cultured under suitable conditions to produce the histidine-tagged, modified
+IMPDH polypeptide. The method further comprises the step of recovering, as described above, the 
+histidine-tagged, modified IMPDH polypeptide expressed in the transformed host cell. A histidine-tagged,
+modified IMPDH polypeptide produced by this method is also provided.</p><p num="0051">The activity of wild-type, histidine-tagged wild-type, and histidine-tagged, modified IMPDH
+polypeptides can be assayed using the <i>in vitro</i> methods described herein, or by methods known in
+the art such as the methods described in Carr, et al., <i>J. Biol. Chem</i>. 268:27286-27290 (1993) and
+Xiang, et al., <i>J. Biol. Chem</i>. 271:1435-1440 (1996), incorporated herein by reference. For example,
+the activity of the wild-type, histidine-tagged wild-type, or histidine-tagged, modified IMPDH
+polypeptides can be measured by spectrophotometric measurements at 340 nm. In such an assay, the
+change in absorbance at 340 nm of NADH per unit time is measured, and the change in absorbance
+of NADH reflects the rate of formation of NADH by IMPDH. In another embodiment, the activity
+of the IMPDH polypeptides can be assayed by measuring the production of XMP and NADH from
+IMP and NAD, using HPLC and spectrophotometric assays (see Montero, C. et al., <i>Clinica Chemica
+Acta</i> 238:169-178 (1995), incorporated herein by reference).</p><p num="0052">Various formulations of the purified histidine-tagged, modified IMPDH polypeptides can be
+prepared. The modified IMPDH polypeptides can be formulated as, for example, powders or liquids
+through known processes. The IMPDH enzymes can be added to buffer solutions and can be
+stabilized through the addition of chemical agents (<i>e.g.</i>, glycerol, polyethylene glycol, EDTA, other
+proteins, detergents, and the like). The modified IMPDH polypeptides can be stored at 4°C or can be
+frozen for storage or can be lyophilized.</p><p num="0053">In one embodiment, kits useful for measuring the concentration of an IMPDH inhibitor or another
+analyte in a sample are provided. The IMPDH inhibitor can be a drug, a drug derivative, a hormone,
+a polypeptide, an oligonucleotide, or the like. The histidine-tagged, modified IMPDH polypeptides
+are a component of these kits for use in assays such as those described in U.S. Patent Nos. 6,107,052
+and 6,524,808, incorporated herein by reference. Briefly, in these assays a sample, such as, for
+example, urine, whole blood, plasma, serum, saliva, semen, stool, sputum, cerebral spinal fluid,
+tears, mucus, or the like, is analyzed to determine the levels of an IMPDH inhibitor, or a metabolite
+of the inhibitor, or another analyte in the sample. </p><p num="0054">In the assay, the change in absorbance at 340 nm of NADH per unit time is measured, and the
+change in absorbance of NADH reflects the rate of formation of NADH. MPA or another inhibitor
+of IMPDH, or another analyte can inhibit the formation of NADH and, thus, the concentration of
+MPA, an MPA metabolite, or another inhibitor of IMPDH in a sample is inversely proportional to
+the absorbance of NADH at 340 nm. Accordingly, the level of an IMPDH inhibitor (e.g., MPA) or
+another analyte in a sample can be determined using such an assay.</p><p num="0055">The kit can contain the histidine-tagged, modified IMPDH polypeptide, an IMP substrate, and NAD.
+The IMPDH, IMP and NAD are commonly combined with an appropriate buffer and other materials
+and then packaged. In one embodiment, the reagents can remain in liquid form. In another
+embodiment, the reagents can be lyophilized. A calibration reagent can also be included in the kit
+and "calibration reagent" means any standard or reference material containing a known amount of
+the inhibitor to be measured, such as MPA or its metabolites, another IMPDH inhibitor, or another
+analyte. The sample suspected of containing the inhibitor (<i>e.g.</i>, MPA) and the calibration reagent are
+assayed under similar conditions. The inhibitor concentration is then calculated by comparing the
+results obtained for the unknown specimen with the results obtained for the standard.</p><p num="0056">Other materials that may be included in the kits are, for example, buffers, stabilizers for the assay
+medium and the assay components, additional proteins, such as albumin, or surfactants, particularly
+non-ionic surfactants, or the like.</p><p num="0057">The histidine-tagged, modified IMPDH polypeptides described herein can be used, not only in
+assays for monitoring the levels of IMPDH inhibitors, but are also important for other clinical and
+research applications. For example, the histidine-tagged, modified IMPDH polypeptides can be used
+for the identification of naturally-occurring IMPDH inhibitors or other IMPDH-binding ligands, or
+for the design of synthetic inhibitors useful for cancer and immunosuppressive therapies, and for
+determining the sensitivity of IMPDH to these inhibitors.</p><p num="0058">The histidine-tagged, modified IMPDH polypeptides may also be used to elicit monoclonal or
+polyclonal antibodies, or fragments thereof (<i>e.g.</i>, Fab, F(ab')<sub>2</sub>, Fv fragments, or fusion proteins), by
+methods known in the art. In one embodiment, humanized antibodies for therapeutic applications 
+can be produced. In another embodiment, the antibodies may be labeled with a detectable marker for
+use, for example, in diagnostic assays, or may be used for the purification of IMPDH.</p><p num="0059">The examples that follow are for illustrative purposes only and are not intended in any way to limit
+the scope of the invention. </p><heading><b>Specific Embodiments</b></heading><p num="0060">In the examples that follow, boldface numbers refer to the corresponding structure in the drawings.</p><heading><b>Example 1. Modification of wild-type human type II IMPDH</b></heading><p num="0061">The wild-type human type II IMPDH sequence (SEQ ID NO: 9) was cloned into pKKll7 (also
+denominated pKK/T7; see Fig. 2) at the site by cloning techniques known in the art. The wild-type
+IMPDH II sequence was modified to encode a 6-histidine tag at the 5'-end of the wild-type IMPDH
+II sequence by inserting the sequence shown in SEQ ID NO: 1 into the wild-type IMPDH II
+sequence in pKKll7 after the ATG start codon by PCR using the primers shown in SEQ ID NO: 1
+and SEQ ID NO: 2. The QuikChange™ Site-Directed Mutagenesis Kit (Stratagene, La Jolla, CA)
+was used and the primer design and the protocol for PCR were essentially as described in the
+instruction manual for the QuikChange™ Site-Directed Mutagenesis Kit. The primers were
+synthesized and purified by Commonwealth Biotechnologies, Inc., Richmond, VA.</p><p num="0062">Briefly, the PCR protocol was as follows. The PCR reactions contained 2 µL of double-stranded
+pKKll7 DNA with the IMPDH II sequence inserted into the plasmid (the 2 µL volume contained 5,
+10, 20, or 50 ng of plasmid DNA in TE buffer), 5 µL of 10X reaction buffer, 125 ng of each primer
+in TE buffer (2 µL each), 1 µL of dNTP mix, and ddH<sub>2</sub>O (37 µL). <i>PfuTurbo</i> DNA polymerase (2.5
+U/µL; 1 µL) was added to achieve a final volume of 50 µL, and each reaction was overlaid with 30
+µL of mineral oil. The temperature cycling parameters were, for segment 1, one cycle at 95°C for 30
+seconds and, for segment 2, 18 cycles at 95°C for 30 seconds and 68°C for 12 minutes. After the
+PCR reaction, the reaction mixtures were cooled to 4°C. A control reaction using the pWhitescript
+plasmid and PCR primers provided in the QuikChange™ Site-Directed Mutagenesis Kit was also
+performed.</p><p num="0063">The PCR products were then digested with Dpn I by adding 1 µL of Dpn I to the reaction mixtures
+by pipetting below the mineral oil overlay, mixing the reaction mixtures, and incubating each
+reaction mixture at 37°C for 1 hour to digest the plasmid DNA. Dpn I digests the parental, non-mutated
+plasmid DNA, but not the mutated plasmid DNA. </p><p num="0064">The PCR product is in the form of nicked, relaxed dsDNA. XL-1 Blue supercompetent cells
+(provided with the QuikChange™ Site-Directed Mutagenesis Kit) can take up the nicked, relaxed
+dsDNA and can repair the nicks. XL-1 Blue supercompetent cells were transformed with the
+mutated plasmids as follows. XL-1 Blue supercompetent cells were thawed on ice and kept at 4°C.
+The supercompetent cells were aliquotted (50 µL) into prechilled Falcon 2059 polypropylene tubes.
+An aliquot (1 µL) of the Dpn I digested DNA from each control and sample tube was transferred to
+separate aliquots of supercompetent cells. The transformation reactions were mixed and incubated at
+4°C for 30 minutes. The reaction mixtures were then heated at 42°C for 45 seconds and incubated
+on ice for 2 minutes. NZY broth (42°C; 0.5 ml) was added to each reaction mixture and the
+reactions were incubated at 37°C with shaking (225-250 rpm) for 1 hour.</p><p num="0065">The transformation reactions were separately plated (250 µL) on LB agar plates with X-gal and
+IPTG with 100 µg/mL of ampicillin prepared as described in the instruction manual for the
+QuikChange™ Site-Directed Mutagenesis Kit. The plates were incubated at 37°C for at least 16
+hours. Single colonies were picked and grown overnight in LB broth with 100 µg/mL of ampicillin
+at 37°C and with shaking at 225 rpm to expand the cultures. The overnight cultures were centrifuged
+at 4400 x g for 30 minutes to the pellet cells, and the supernatants were discarded.</p><p num="0066">The bacteria were lysed and plasmid DNA was isolated from the XL-1 Blue cells using the
+QIAprep® kit (Qiagen, Valencia, CA) according to the kit instruction manual. Restriction enzyme
+digests were done to identify clones in which the coding sequence for the 6-histidine tag had been
+incorporated. The resulting digests were analyzed using 4-20% TBE gradient gels (1.0 mm thick;
+Invitrogen Cat. No. EC62252) and TBE running buffers (Invitrogen Cat. Nos. LC6678 and LC2675)
+according to procedures known the art. A 100 bp ladder (Gibco Cat. No. 15628-019) and a DNA
+silver stain kit (Pharmacia Cat. No. 17-6000-30) were used.</p><p num="0067">A protocol similar to that described above (QuikChange™ Site-Directed Mutagenesis Kit) was used
+to modify the subdomain in each of the histidine-tagged, modified IMPDH-encoding nucleotides
+described herein <i>(i.e.,</i> Δ 2B + AH clone A, (Δ 3 + 1A) + AH clone A, Δ 1,2A + AH clone B, Δ 3B +
+AH clone B, and (Δ 2 + 1A) + AH clone B). The DNA used for PCR was the plasmid DNA isolated
+from XL-1 Blue cells using the QIAprep® kit. The wild-type IMPDH II sequence that had been 
+modified to encode a 6-histidine tag at the 5'-end of the IMPDH II sequence was further modified in
+the subdomain region for each of the clones by PCR (using the IMPDH II sequence that had been
+modified to encode a 6-histidine tag at the 5'-end in pKKll7 and using the primers shown in SEQ ID
+NOS: 3-8). The protocol was as described above except that the temperature cycling parameters for
+the PCR reaction were, for segment 2, 18 cycles at 95°C for 30 seconds and 64°C for 12 minutes.</p><p num="0068">Protocols similar to those described above, including transformation of supercompetent XL-1 Blue
+cells, lysis of the bacterial cells, and isolation of DNA using a QIAprep® kit, were used to isolate
+clones positive for the desired IMPDH modifications, except that positive clones were confirmed by
+sequencing performed by Qiagen, Bothell, WA, rather than by restriction enzyme digestion.</p><heading><b>Example 2. Transformation of <i>E. coli</i> H712</b></heading><p num="0069"><i>E. coli</i> H712 (Yale University) was transformed and was used for expression of the histidine-tagged,
+modified IMPDH polypeptides, and for expression of the wild-type and histidine-tagged
+polypeptides. The DNA used for transformation of <i>E. coli</i> H712 was the plasmid DNA from positive
+clones isolated using the QIAprep® kit (Qiagen, Valencia, CA) or pKKll7 plasmid with an insert
+encoding the wild-type polypeptide.</p><p num="0070"><i>E. coli</i> H712 were made competent by the method of Chung, et al., <i>Proc. Natl. Acad. Sci.</i> 86:2172
+(1989), incorporated herein by reference, with modifications. Briefly, a fresh overnight culture of <i>E.
+coli</i> H712 in LB broth was diluted 1:50 into warmed LB broth to a final volume of 60 ml. The
+culture was incubated at 37°C with shaking at 225 rpm until the culture reached an OD<sub>600nm</sub> of about
+0.3-0.4. The 60 mL culture was centrifuged for 15 minutes at 4100 x g and the pellet was
+resuspended in 6 mL of cold TSS (LB broth, 10% PEG (MW 8000), 5% DMSO, 42 mM MgCl<sub>2</sub>).
+Aliquots of the resuspended cells (0.1 ml) were prepared in cryovials in a bath of liquid nitrogen,
+and the cells were stored at -70°C.</p><p num="0071"><i>E. coli</i> H712 competent cells were transformed as follows. Tubes of competent cells were thawed on
+ice. A 1 µL aliquot of each purified plasmid was added to separate tubes and the liquid was gently
+mixed. The transformation mixtures were incubated on ice for 30 minutes. Preheated (42°C) NZYM
+broth was added (0.5 ml) and the cells were heat shocked at 42°C for 2 minutes. The cells were then 
+immediately put back on ice for 2 minutes. Preheated (37°C) NZYM broth (0.9 ml) was then added
+and the liquid was gently mixed. The transformation mixtures were incubated at 37°C with shaking
+at 225 rpm for 30 minutes. Aliquots (20 µL) were then spread on agar plates (LB agar + 100 µg/mL
+of ampicillin). The plates were incubated at 37°C overnight. Colonies were picked, cultures were
+grown overnight, and glycerol stocks were prepared.</p><heading><b>Example 3. Expression of IMPDH using <i>E. coli</i> H712</b></heading><p num="0072">An overnight culture was grown from frozen glycerol stocks at 37°C with shaking. The cells were
+grown in Terrific Broth + M9 Minimal Medium Salts, 2% Glucose, and 100 µg/mL of ampicillin.
+The cells were then diluted 1:1000 into fresh medium with IPTG (0.5 mM). The cultures were
+grown for 22 hours at 37°C with shaking. The cells were harvested by centrifugation (4100 x g for
+30 minutes), washed with 0.9% NaCl, centrifuged again, and stored at -70°C.</p><p num="0073">The cells were thawed and lysed by adding 4.5 mL of lysis buffer per gram of cells. The lysis buffer
+was 10 mM Tris Base, 7.5 mM TCEP-HCl, Complete EDTA-free protease inhibitor (Roche
+Diagnostics) at the recommended concentration, 500 mM KCl, and 10 mM imidazole, pH 8.0). The
+solution was mixed until the entire pellet was in solution. Lysozyme 20,000 U/mL (Epicenter Cat.
+No. R1810M) was then added and the solution was mixed for 30 minutes. Benzonase (1 µl/ml;
+Novagen lysis solution Cat. No. 70746) was added and the solution was mixed for 30 minutes. Two
+parts of lysis dilution buffer were then added per one part of the lysate. The lysis dilution buffer was
+20 mM NaPO<sub>4</sub>, 7.5 mM TCEP-HCl, 0.5M KCl, 6.0M urea, 20 mM imidazole, and 0.3% NP-40, pH
+8.0. The lysate was mixed for at least 30 minutes, and stored overnight in the cold at a temperature
+higher than 4°C. The lysate was centrifuged at 20,000 x g for 30 minutes, and the supernatant was
+retained, adjusted to pH to 8.0, and filtered using a cellulose acetate filter.</p><heading><b>Example 4. Purification of IMPDH isolated from <i>E. coli</i> H712</b></heading><p num="0074">The histidine-tagged, modified IMPDH polypeptides and the wild-type histidine-tagged IMPDH
+polypeptides were purified by nickel chelate affinity chromatography followed by application of the
+eluted protein to a desalting column using procedures known in the art. </p><heading><i>Nickel chelate affinity chromatography</i></heading><p num="0075">Nickel-resin can be obtained, for example, from Pharmacia (XK 26 column) and Qiagen (Valencia,
+CA; Ni-NTA Superflow Resin). The following purification protocols are applicable to nickel chelate
+affinity resins from Pharmacia or Qiagen. All buffers were degassed before use.</p><heading><i>Buffers</i></heading><p num="0076">Sample dilution buffer: 20 mM NaPO<sub>4</sub>, 7.5 mM TCEP-HCl, 0.5M KCl, 6M urea, 0.02M imidazole,
+and 0.3% NP-40, pH 8.0.</p><p num="0077">Equilibration/binding/wash buffer: 20 mM NaPO<sub>4</sub>, 7.5 mM TCEP-HCl, 0.5 M KCl, 4M urea, 0.02M
+imidazole, and 0.175% NP-40, pH 8.0.</p><p num="0078">Wash buffer (Qiagen only): 20 mM NaPO<sub>4</sub>, 7.5 mM TCEP-HCl, 0.5M KCl, 0.02M imidazole, and
+0.175% NP-40, pH 8.0.</p><p num="0079">Elution buffer A (Qiagen only): 20 mM NaPO<sub>4</sub>, 7.5 mM TCEP-HCl, 0.5M KCl, 0.05M imidazole,
+and 0.175% NP-40, pH 8.0.</p><p num="0080">Elution buffer B: 20 mM NaPO<sub>4</sub>, 7.5 mM TCEP-HCl, 0.5M KCl, 0.1M imidazole, and 0.175% NP-40,
+pH 8.0.</p><p num="0081">Elution buffer C (Qiagen only): 20 mM NaPO<sub>4</sub>, 7.5 mM TCEP-HCl, 0.5M KCl, 0.2M imidazole,
+and 0.175% NP-40, pH 8.0.</p><p num="0082">Elution buffer D (Pharmacia only): 20 mM NaPO<sub>4</sub>, 7.5 mM TCEP-HCl, 0.5M KCl, 0.2M imidazole,
+and 0.175% NP-40, pH 8.0.
+<tables><table><tgroup cols="3"><tbody><row><entry nameend="3" namest="1"><i>Purification procedures</i></entry></row><row><entry align="left">Step</entry><entry align="left">Pharmacia resin (100 mL column)</entry><entry align="left">Qiagen resin (25 mL column)</entry></row><row><entry align="left">Load</entry><entry align="left">10 ml/minute</entry><entry align="left">3 ml/minute (to not exceed pressure specifications)</entry></row><row><entry align="left">Wash 1</entry><entry align="left">Equilibration/binding/wash buffer,</entry><entry align="left">Equilibration/binding/wash buffer, </entry></row><row><entry align="left"/><entry align="left">10 ml/minute</entry><entry align="left">3 ml/minute</entry></row><row><entry align="left">Wash 2</entry><entry align="left">N/A</entry><entry align="left">Wash buffer, no urea, 3 ml/minute</entry></row><row><entry align="left">Elution 1</entry><entry align="left">Elution buffer B (0.1M imidazole), 10 ml/minute</entry><entry align="left">Elution buffer A (0.05M imidazole), 3 ml/minute</entry></row><row><entry align="left">Elution 2</entry><entry align="left">Elution buffer D (0.3M imidazole), 10 ml/minute</entry><entry align="left">Elution buffer B (0.1M imidazole), 3ml/minute</entry></row><row><entry align="left">Elution 3</entry><entry align="left">N/A</entry><entry align="left">Elution buffer C (0.2M imidazole), 3 ml/minute</entry></row><row><entry align="left">Product</entry><entry align="left">Elutes in 0.3M imidazole</entry><entry align="left">Elutes in 0.1M imidazole</entry></row></tbody></tgroup></table></tables></p><heading><i>Desalting column chromatography</i></heading><heading><i>Materials</i></heading><p num="0083">HiPrep 26/10 Desalting column, Pharmacia (Cat. No. 17-5087-01)</p><p num="0084">Desalting Buffer: 0.437M TAPSO, 25.8M potassium acetate, 4.32 mM IMP, 7.5 mM TCEP-HCl,
+0.2% Suttocide A, and 0.175% NP-40, pH 8.0. </p><heading><i>Desalting procedure</i></heading><p num="0085">All buffers were degassed before use. The desalting column must be well equilibrated and running
+(zeroed) at time of loading. As the protein eluted from the nickel chelate affinity column was
+applied to the desalting column, the fraction collector was set to collect 5 mL fractions. When the
+enzyme peak had eluted from the column, the fraction collector was turned off and the flow was
+diverted to waste. The peak fractions were pooled and assayed. A shoulder or a second peak was
+observed after the eluted IMPDH, but there was no activity in this shoulder and it was not pooled.
+Columns fractions with IMPDH were identified by measuring enzyme activity in the fractions using
+the assay described in Example 5. The purified IMPDH was stored at 4°C or -20°C.</p><heading><b>Example 5. IMPDH enzyme activity assay</b></heading><p num="0086">The column fractions were assayed for enzyme activity as follows. The specific activity of purified
+IMPDH was also determined. Enzyme activity combined with determination of protein
+concentration provides a means of determining specific activity of the purified protein, which is an
+indication of degree of aggregation.</p><heading><i>Enzyme assay materials</i></heading><p num="0087">Diluent: 100 mM TAPSO, 3.1 mM TCEP-HCl, 100 mM KCl, 0.2 mM IMP, pH 8.0.</p><p num="0088">Reaction Buffer: 100 mM TAPSO, 3.1 mM TCEP-HCl, 10 mM KCl, 0.2 mM IMP, 0.4 mM NAD,
+pH 8.0.</p><heading><i>Enzyme assay equipment</i></heading><p num="0089">Cary 50 BioSpec temperature controlled UV/vis spectrophotometer</p><heading><i>Enzyme assay procedure</i></heading><p num="0090">The purified enzyme was diluted and placed into a cuvette, the cuvette was placed into the cuvette
+carrier, and the solution was equilibrated to 37°C. The assay reaction buffer (990 µL) was added to a
+separate cuvette and the cuvette was covered and placed in the cuvette carrier. The solution was 
+equilibrated to 37°C. Warmed sample (115.5 µL) was added to the warmed reaction buffer and the
+solution was mixed by inversion and placed back into the spectrophotometer. The reaction was
+immediately monitored at 340 nm by taking an absorbance reading every 10 seconds for 3 minutes.
+Enzyme activity was calculated as follows:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center"><st32:frac align="centre">Δ absorbance<st32:over>6.22</st32:over></st32:frac> x dilution factor x <st32:frac align="centre">total volume<st32:over>sample volume</st32:over></st32:frac> = total enzyme activity</st32:df></p><p num="0091">Protein levels were determined using the Compat-Able™ Protein Assay Preparation Reagent Set
+(Pierce Cat. No. 23215) or the Protein Assay ELC (Roche Diagnostics Cat. No. 1767003). Specific
+activity is defined as activity per mass of protein, and was approximately 1 unit/mg for the modified
+IMPDH II polypeptides.</p><heading><b>Example 7. IMPDH rate stability assay</b></heading><p num="0092">The rate stabilities of the histidine-tagged, modified IMPDH enzymes (Figs. 20-24) were measured
+to compare the rate stability of the histidine-tagged, modified enzymes (<i>i.e.</i>, modified in the
+subdomain) to the rate stability of the histidine-tagged, wild-type IMPDH enzyme (Fig. 19). The
+rate stability of the wild-type enzyme without a tag was also measured (Fig. 18). The rate stabilities
+were measured as follows:</p><heading><i>Buffers</i></heading><p num="0093">R1 C(1): 0.437M TAPSO, 0.0258M sodium acetate, 2.35 mM TCEP, 4.32 mM IMP, 0.3 mM
+disodium EDTA, 0.72 mM sodium phosphate, 10.7 mM KCl, and 0.1% Suttocide A, pH 8.0. An
+alternative buffer R1 C(1) formulation is 0.437M TAPSO, 25.8M potassium acetate, 7.5 mM TCEP,
+4.32 mM IMP, 0.175% NP40, and 0.2% Suttocide A, pH 8.0.</p><p num="0094">R1 F: 0.116M TAPSO, 0.347M sodium acetate, 2.35 mM TCEP, 4.32 mM IMP, 3.51 mM disodium
+EDTA, 0.72 mM sodium phosphate, 10.7 mM KCl, and 0.05% Suttocide A, pH 8.0.</p><p num="0095">R2: 2.5 mM NAD, 0.175% NP40, and 0.05% Suttocide A, pH 6.0. An alternative R2 formulation is
+0.1M ACES, 10 mM NAD, 7.5 mM TCEP, 0.175% NP40, and 0.05% Suttocide A, pH 6.0. </p><p num="0096">ACES = N-(2-acetamido)-2-aminoethanesulfonic acid or N-(carbamoylmethyl)-2-aminoethanesulfonic
+acid or N-(carbamoylmethyl)taurine or 2-(carbamoylmethylamino)ethanesulfonic
+acid.</p><p num="0097">TAPSO = N-[tris(hydroxymethyl)methyl]-3-amino-2-hydroxy-propanesulfonic acid or 2-hydroxy-3-[tris(hydroxymethyl)methylamino]-1-propanesulfonic
+acid.</p><p num="0098">TCEP = Tris(2-carboxyethyl)phosphine or 3, 3', 3"-phosphinidyne-tripropionic acid.</p><p num="0099">TCEP-HCl = Tris(2-carboxyethyl)phosphine hydrochloride or 3, 3', 3"-phosphinidyne-tripropionic
+acid hydrochloride.</p><heading><i>Enzyme assay procedure</i></heading><p num="0100">The rate stability assays were done at 4°C and 37°C. The rates were compared to the t = 0, 4°C rate
+and either buffer R1 C(1) or R1 F was used. The rate stability assays were run on a Hitachi 917
+analyzer with the following parameters:
+<sl><li>Rate A, 10 minutes, read window 28-33</li><li>Primary wavelength: 340 nm</li><li>Secondary wavelength: 700 nm</li><li>Sample volume: 2 µL</li><li>R1 volume: 167 µL</li><li>R2 volume: 33 µL</li><li>Calibration type: spline</li></sl></p><p num="0101">As discussed above, the rate stabilities of the histidine-tagged, modified IMPDH enzymes (Figs. 20-24)
+were measured to compare the rate stability of the histidine-tagged, modified enzymes (<i>i</i>.<i>e</i>.,
+modified in the subdomain) to the rate stability of the histidine-tagged, wild-type IMPDH enzyme
+(Fig. 19). The results depicted in Figs. 18-24 show that the rate stability of the histidine-tagged,
+modified IMPDH polypeptides is approximately equal to the wild-type protein (i.e., the histidine-tagged,
+modified IMPDH polypeptides do not exhibit the decreased rate stability observed for
+histidine-tagged IMPDH polypeptides that have not been modified in the subdomain). Accordingly, 
+modification of a histidine-tagged IMPDH polypeptide in the subdomain, as described herein,
+results in maintenance of rate stability of the enzyme relative to the wild-type IMPDH enzyme. <img id="img-00320001" orientation="unknown" wi="164" img-format="tif" img-content="tx" file="00320001.tif" inline="no" he="224"/><img id="img-00330001" orientation="unknown" wi="164" img-format="tif" img-content="tx" file="00330001.tif" inline="no" he="222"/><img id="img-00340001" orientation="unknown" wi="163" img-format="tif" img-content="tx" file="00340001.tif" inline="no" he="215"/><img id="img-00350001" orientation="unknown" wi="142" img-format="tif" img-content="tx" file="00350001.tif" inline="no" he="224"/><img id="img-00360001" orientation="unknown" wi="142" img-format="tif" img-content="tx" file="00360001.tif" inline="no" he="219"/><img id="img-00370001" orientation="unknown" wi="161" img-format="tif" img-content="tx" file="00370001.tif" inline="no" he="217"/><img id="img-00380001" orientation="unknown" wi="160" img-format="tif" img-content="tx" file="00380001.tif" inline="no" he="226"/><img id="img-00390001" orientation="unknown" wi="146" img-format="tif" img-content="tx" file="00390001.tif" inline="no" he="217"/><img id="img-00400001"  orientation="unknown" wi="146" img-format="tif" img-content="tx" file="00400001.tif"  inline="no"  he="229"/><img id="img-00410001"  orientation="unknown" wi="161" img-format="tif" img-content="tx" file="00410001.tif" inline="no" he="221"/><img id="img-00420001" orientation="unknown" wi="162" img-format="tif" img-content="tx" file="00420001.tif" inline="no" he="209"/><img id="img-00430001" orientation="unknown" wi="140" img-format="tif" img-content="tx" file="00430001.tif" inline="no" he="229"/><img id="img-00440001" orientation="unknown" wi="150" img-format="tif" img-content="tx" file="00440001.tif" inline="no" he="218"/><img id="img-00450001" orientation="unknown" wi="146" img-format="tif" img-content="tx" file="00450001.tif" inline="no" he="221"/><img id="img-00460001" orientation="unknown" wi="163" img-format="tif" img-content="tx" file="00460001.tif" inline="no" he="224"/><img id="img-00470001" orientation="unknown" wi="163" img-format="tif" img-content="tx" file="00470001.tif" inline="no" he="225"/><img id="img-00480001" orientation="unknown" wi="147" img-format="tif" img-content="tx" file="00480001.tif" inline="no" he="213"/><img id="img-00490001" orientation="unknown" wi="149" img-format="tif" img-content="tx" file="00490001.tif" inline="no" he="222"/><img id="img-00500001" orientation="unknown" wi="159" img-format="tif" img-content="tx" file="00500001.tif" inline="no" he="225"/><img id="img-00510001" orientation="unknown" wi="164" img-format="tif" img-content="tx" file="00510001.tif" inline="no" he="215"/><img id="img-00520001" orientation="unknown" wi="147" img-format="tif" img-content="tx" file="00520001.tif" inline="no" he="229"/><img id="img-00530001" orientation="unknown" wi="149" img-format="tif" img-content="tx" file="00530001.tif" inline="no" he="220"/><img id="img-00540001" orientation="unknown" wi="159" img-format="tif" img-content="tx" file="00540001.tif" inline="no" he="229"/><img id="img-00550001" orientation="unknown" wi="164" img-format="tif" img-content="tx" file="00550001.tif" inline="no" he="213"/><img id="img-00560001" orientation="unknown" wi="151" img-format="tif" img-content="tx" file="00560001.tif" inline="no" he="225"/><img id="img-00570001" orientation="unknown" wi="146" img-format="tif" img-content="tx" file="00570001.tif" inline="no" he="209"/><img id="img-00580001" orientation="unknown" wi="161" img-format="tif" img-content="tx" file="00580001.tif" inline="no" he="224"/><img id="img-00590001" orientation="unknown" wi="163" img-format="tif" img-content="tx" file="00590001.tif" inline="no" he="215"/><img id="img-00600001" orientation="unknown" wi="148" img-format="tif" img-content="tx" file="00600001.tif" inline="no" he="221"/><img id="img-00610001" orientation="unknown" wi="147" img-format="tif" img-content="tx" file="00610001.tif" inline="no" he="225"/><img id="img-00620001" orientation="unknown" wi="155" img-format="tif" img-content="tx" file="00620001.tif" inline="no" he="228"/></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A modified inosine-5'-monophosphate dehydrogenase (IMPDH) polypeptide wherein said
+IMPDH polypeptide has a histidine tag and wherein the subdomain of said IMPDH
+polypeptide is modified so that the rate stability of said histidine-tagged IMPDH polypeptide
+is maintained relative to the wild-type IMPDH polypeptide.</claim-text></claim><claim num="2"><claim-text>The modified IMPDH polypeptide of claim 1 wherein said modified IMPDH polypeptide is
+type I or type II IMPDH.</claim-text></claim><claim num="3"><claim-text>The modified IMPDH polypeptide of claim 1 having the amino acid sequence as shown in
+any one of SEQ ID NOS: 14, 16, 18, 20, or 22.</claim-text></claim><claim num="4"><claim-text>The modified IMPDH polypeptide of claim 1 wherein one or more of the amino acids at
+positions 116-250 as shown in SEQ ID NO: 12 are substituted with a negatively charged
+amino acid.</claim-text></claim><claim num="5"><claim-text>The modified IMPDH polypeptide of claim 1 wherein one or more of the positively charged
+amino acids at positions 130, 132, 134, 140, 142, 143, 155, 159, 167, 173, 177, 187, 188,
+201, 209, 211, 212, 214, 230, 234, 235, 237, 244, 247, or 248 as shown in SEQ ID NO: 12
+are substituted with a negatively charged amino acid.</claim-text></claim><claim num="6"><claim-text>A vector comprising a nucleic acid molecule which encodes the modified IMPDH
+polypeptide of any of claim 1 to 5.</claim-text></claim><claim num="7"><claim-text>A host cell comprising the vector of claim 6 wherein said host cell is selected from the group
+consisting of a bacteria, a yeast, a mammalian cell, a fungal cell, and an insect cell.</claim-text></claim><claim num="8"><claim-text>A method for producing the modified IMPDH of any one of claims 1-5 comprising the steps
+of:<claim-text><claim-text>(a) culturing the host cell of any one of claim 7 under suitable conditions to produce said
+modified IMPDH polypeptide; and</claim-text><claim-text>(b) recovering said modified IMPDH polypeptide produced.</claim-text></claim-text></claim-text></claim><claim num="9"><claim-text>The modified IMPDH polypeptide produced by the method of claim 8.</claim-text></claim><claim num="10"><claim-text>An isolated nucleic acid molecule encoding a modified type I or type II IMPDH polypeptide
+wherein said IMPDH polypeptide has a histidine tag and wherein the subdomain of said
+IMPDH polypeptide is modified so that the rate stability of said histidine-tagged IMPDH
+polypeptide is maintained relative to the wild-type IMPDH polypeptide.</claim-text></claim><claim num="11"><claim-text>The isolated nucleic acid molecule of claim 10 wherein said nucleic acid is DNA or RNA.</claim-text></claim><claim num="12"><claim-text>The isolated nucleic acid molecule of claim 10 wherein the complementary sequence of said
+isolated nucleic acid molecule hybridizes under stringent conditions to the nucleotide
+sequence set forth in SEQ ID NO: 13, 15, 17, 19, or 21.</claim-text></claim><claim num="13"><claim-text>The isolated nucleic acid molecule of claim 10 comprising a sequence selected from the
+group consisting of SEQ ID NO: 13, SEQ ID NO: 15, SEQ ID NO: 17, SEQ ID NO: 19,
+SEQ ID NO: 21, and complementary sequences thereof.</claim-text></claim><claim num="14"><claim-text>An expression vector comprising the isolated nucleic acid molecule of claim 13, operably
+linked to a promoter.</claim-text></claim><claim num="15"><claim-text>A vector comprising the isolated nucleic acid molecule of claim 13.</claim-text></claim><claim num="16"><claim-text>A host cell comprising the vector of claim 15.</claim-text></claim><claim num="17"><claim-text>The host cell of claim 16 wherein said host cell is selected from the group consisting of a
+bacteria, a yeast, a mammalian cell, a fungal cell, and an insect cell.</claim-text></claim><claim num="18"><claim-text>The isolated nucleic acid molecule of claim 10 wherein the complementary sequence of said
+isolated nucleic acid molecule hybridizes under stringent conditions to nucleotides 346-750
+of a sequence selected from the group consisting of SEQ ID NO: 13, SEQ ID NO: 15, SEQ
+ID NO: 17, SEQ ID NO: 19, and SEQ ID NO: 21.</claim-text></claim><claim num="19"><claim-text>An expression vector comprising the isolated nucleic acid molecule of claim 18, operably
+linked to a promoter.</claim-text></claim><claim num="20"><claim-text>A vector comprising the isolated nucleic acid molecule of claim 18.</claim-text></claim><claim num="21"><claim-text>A host cell comprising the vector of claim 20.</claim-text></claim><claim num="22"><claim-text>The host cell of claim 21 wherein said host cell is selected from the group consisting of a
+bacteria, a yeast, a mammalian cell, a fungal cell, and an insect cell.</claim-text></claim><claim num="23"><claim-text>The isolated nucleic acid molecule of claim 10 wherein said IMPDH polypeptide comprises
+an amino sequence selected from the group consisting of SEQ ID NO: 14, SEQ ID NO: 16,
+SEQ ID NO: 18, SEQ ID NO: 20, and SEQ ID NO: 22.</claim-text></claim><claim num="24"><claim-text>The isolated nucleic acid molecule of claim 10 comprising nucleotides 346-750 of a
+sequence selected from the group consisting of SEQ ID NO: 13, SEQ ID NO: 15, SEQ ID
+NO: 17, SEQ ID NO: 19, and SEQ ID NO: 21.</claim-text></claim><claim num="25"><claim-text>A vector comprising the isolated nucleic acid molecule of claim 13 obtainable from E. coli
+H712 having ATCC accession number PTA-5786, PTA-5782, PTA-5784, PTA-5785, or
+PTA-5783.</claim-text></claim><claim num="26"><claim-text>A kit comprising the modified IMPDH polypeptide of any one of claims 1-5.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

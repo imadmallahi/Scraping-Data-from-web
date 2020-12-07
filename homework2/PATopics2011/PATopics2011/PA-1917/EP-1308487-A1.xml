@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1308487-A1" country="EP" doc-number="1308487" kind="A1" lang="EN" family-id="21697117" status="new" date-produced="20090516" date="20030507"><bibliographic-data><publication-reference ucid="EP-1308487-A1" status="new" fvid="23750996"><document-id status="new" format="original"><country>EP</country><doc-number>1308487</doc-number><kind>A1</kind><date>20030507</date></document-id></publication-reference><application-reference ucid="EP-02257170-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>02257170</doc-number><kind>A</kind><date>20021016</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-164501-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>164501</doc-number><kind>A</kind><date>20011030</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/01        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/01        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09D  11/00C</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Verfahren zur Ausblutkontrolle zwischen schwarzen und farbigen Tinten</invention-title><invention-title load-source="ep" status="new"  lang="EN">Methods of controlling bleed between black and color dye based inks</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédés de contrôle de bavure entre des encres noires et des encres colorées pendant l'impression</invention-title><citations><patent-citations><patcit ucid="EP-0649888-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0649888</doc-number><kind>A2</kind></document-id><sources><source category="A"  name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="EP-0872344-A2"  status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0872344</doc-number><kind>A2</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1029903-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1029903</doc-number><kind>A1</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>HEWLETT PACKARD CO</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>HEWLETT-PACKARD COMPANY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Hewlett-Packard Company</last-name><address><street>3000 Hanover Street</street><city>Palo Alto, CA 94304</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>REHMAN ZIA</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>REHMAN, ZIA</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>REHMAN, ZIA</last-name><address><street>3010 NE Glacier Way</street><city>Corvallis, OR 97330</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Jackson, Richard Eric</last-name><address><street>Carpmaels &amp;amp; Ransford, 43 Bloomsbury Square</street><city>London WC1A 2RA</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country><country>NL</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The present invention is drawn to ink-jet ink
+compositions, systems, and methods for black and color
+printing with substantially reduced black to color bleed.
+Specifically, by utilizing black dyes together with at
+least one long chain diol in a glycol ether, black ink-jet
+inks can be printed in contact with color ink-jet
+inks with substantially reduced black to color bleed.</p></abstract><description load-source="ep" status="new" lang="EN"><heading>FIELD OF THE INVENTION</heading><p num="0001">The present invention is drawn to ink-jet ink
+systems and methods for black and color printing with
+substantially reduced black to color bleed.</p><heading>BACKGROUND OF THE INVENTION</heading><p num="0002">In recent years, computer printer technology has
+evolved to a point where very high resolution images can
+be transferred to various types of media, including
+paper. One particular type of printing involves the
+placement of small drops of a fluid ink onto a media
+surface in response to a digital signal. Typically, the
+fluid ink is placed or jetted onto the surface without
+physical contact between the printing device and the
+surface.</p><p num="0003">Properties that are desirable for black ink-jet ink
+compositions, to effectively compete with other imaging
+technology include neutral black color, neutral gray
+scale, and good optical density, and when printed with
+color inks, substantially reduced black to color bleed.
+Thus, with respect to black ink-jet inks, there is a
+challenge that exists related to maintaining light
+fastness, optical density, color neutrality, gray scale
+quality, and pen performance, while at the same time 
+reducing black to color bleed when printed in conjunction
+other color dye-based inks. Thus, many have focused on
+the color ink-jet inks, rather than the black ink-jet
+inks, for reducing black to color bleed.</p><p num="0004">Several prior bleed control solutions have been
+implemented from reactive and non-reactive inks. For
+reactive pigment-containing black inks, black to color
+bleed control has been achieved by using salts in the
+color inks, such as, CaNO<sub>3</sub> and MgNO<sub>3</sub> to crash the pigment
+based black inks on the paper, thus forming a barrier
+that prevents bleed. Low pH color inks have also been
+used to crash the pigment based black inks.</p><p num="0005">For non-reactive dye-containing black inks, the
+available technique is to use surfactants in the black
+ink to control black to color bleed. The use of
+surfactants in the black ink has its drawbacks, in that
+the optical density of the black for the same amount of
+dye is reduced considerably by the use of surfactants.
+The spreading effect of surfactants also have a negative
+effect on print quality.</p><p num="0006">Illustrative of the art related to reducing bleed of
+ink-jet inks include the following. In U.S. Patent No.
+5,106,416, 5,116,409 and 5,133,803, it is disclosed that
+surfactants are effectively used to reduce bleed in dye-based
+ink formulations</p><p num="0007">Based upon the state of the prior art, improvement
+in the area of preventing bleed is desired.
+
+Specifically, it would be desirable to provide
+compositions, systems, and methods for reducing black to
+color bleed, without the necessity of including
+undesirable additives in the ink-jet ink formulations.
+Such compositions, systems, and methods are disclosed
+herein. </p><heading>SUMMARY OF THE INVENTION</heading><p num="0008">The present invention is drawn to compositions,
+systems, and methods for printing with reduced black to
+color bleed. Specifically, a method for printing black
+and color images with reduced black to color bleed is
+disclosed comprising the steps of providing a dye-based
+color ink-jet ink; providing a dye-based black ink-jet
+ink comprising at least one long chain alcohol in a
+glycol ether; jetting the dye-based color ink-jet ink
+onto a substrate; and jetting the dye-based black ink-jet
+ink onto the substrate, such that the dye-based color
+ink-jet ink contacts the dye-based black ink-jet ink at
+an interface, and substantially no color to black bleed
+occurs at the interface.</p><p num="0009">Additionally, a system for color printing with
+reduced black to color bleed is disclosed comprising an
+ink-jet pen containing a dye-based color ink-jet ink,
+wherein the ink-jet pen is capable of printing the color
+ink-jet ink onto a substrate; and an ink-jet pen
+containing a dye-based black ink-jet ink, wherein the
+black ink-jet ink comprises at least one long chain
+alcohol in a glycol ether;, and wherein the ink-jet pen
+is capable of printing its contents on the substrate such
+that the black ink-jet ink contacts the color ink-jet
+ink. When the color ink-jet ink contacts the black ink-jet
+ink on the substrate at an interface, substantially
+no black to color bleed is present.</p><p num="0010">Further, a printed image on a substrate having
+reduced black to color bleed is disclosed. This printed
+image comprises a black ink-jet ink comprising at least
+one long chain alcohol in a glycol ether, printed in
+contact with a dye-based color ink-jet ink having
+substantially no bleed control treatment additives
+present. </p><heading>DETAILED DESCRIPTION OF THE INVENTION</heading><p num="0011">Before the present invention is disclosed and
+described, it is to be understood that this invention is
+not limited to the particular process steps and materials
+disclosed herein because such process steps and materials
+may vary somewhat. It is also to be understood that the
+terminology used herein is used for the purpose of
+describing particular embodiments only. The terms are
+not intended to be limiting because the scope of the
+present invention is intended to be limited only by the
+appended claims and equivalents thereof.</p><p num="0012">It must be noted that, as used in this specification
+and the appended claims, the singular forms "a," "an,"
+and "the" include plural referents unless the content
+clearly dictates otherwise.</p><p num="0013">"Black to color bleed" or "bleed" is defined as the
+undesirable intermixing of two or more ink-jet inks at a
+color-black interface, reducing the sharpness of the
+image. Bleed is particularly known to occur on fibrous
+papers, though it can occur on any substrate.</p><p num="0014">"Bleed control agents" or "additives" include any
+organic or inorganic substance added to ink-jet ink
+formulations in order to reduce bleed between colors or
+between black and a color on a substrate.</p><p num="0015">"Dye-based color inks" or "dye-based ink-jet inks"
+used in the context of the present invention are
+essentially soluble.</p><p num="0016">Bleed control between non-reactive black and color
+inks has been achieved through a new technique. A
+combination of long chain alcohol, such as dodecanol or
+1,2 decanediol, and a glycol ether improves black to
+color bleed without using large amounts of surfactants as
+penetrants. This allows bleed control without 
+sacrificing optical density of the black inks. The
+optical density suffers when bleed control surfactants
+are used.</p><p num="0017">The present invention enables a work group printer,
+which typically requires high optical density and good
+print quality output, to utilize a color ink-jet ink and
+a black ink-jet ink neither of which contains bleed
+control surfactants. In the case of black ink-jet ink,
+these additives have a significant negative effect on
+optical density. Furthermore, the spreading effect of
+surfactants has a generally negative effect on print
+quality in both black and color ink-jet ink. Thus, the
+present invention provides very good black to color bleed
+control without the use of these traditional additives.</p><p num="0018">With this in mind, the present invention is
+specifically drawn to compositions and methods for
+printing color images with reduced black to color bleed.</p><p num="0019">The inventor in the present application has
+discovered that by combining higher alcohols that are
+sparingly soluble in water with glycol ethers that
+dissolve the alcohols, a solution is created which is
+soluble in water.</p><p num="0020">When this solution is added to the dye-based black
+and color inks, black to color bleed is controlled
+without the negative effects of surfactants, which
+include reduced optical density in dye-based black ink
+and decreased print quality in both black and color dye-based
+ink.</p><p num="0021">This prevention of black to color bleed comes about
+as follows: The ejected drop hits the paper. Ink paper
+interaction causes the sparingly soluble alcohols to
+separate from the bulk ink and go to the interface
+between the dye-based black and the dye-based color inks. 
+The alcohols therefore prevent black to color bleed by
+this separating out and moving to the interface.</p><p num="0022">A method of the present invention comprises the
+steps of providing a dye-based color ink-jet ink
+comprising at least one long chain alcohol in a glycol
+ether; providing a dye-based black ink-jet ink comprising
+at least one long chain diol in a alcohol ether; jetting
+the dye-based color ink-jet ink onto a substrate; and
+jetting the dye-based black ink-jet ink onto the
+substrate. When these steps are followed such that the
+dye-based color ink-jet ink contacts the dye-based black
+ink at an interface, substantially no color to black
+bleed occurs at the interface.</p><p num="0023">Additionally, a system for color printing with
+reduced black to color bleed is disclosed comprising a
+first ink-jet pen containing a dye-based color ink-jet
+ink comprising at least one long chain alcohol in a
+glycol ether; that is capable of printing the color ink-jet
+ink onto a substrate. Next, a second ink-jet pen
+containing a dye-based black ink-jet ink is present
+comprising at least one long chain alcohol in a glycol
+ether. The second ink-jet pen should be configured such
+that the black ink-jet ink can contact the color ink-jet
+ink once printed on the substrate. Thus, when the color
+ink-jet ink contacts the black ink-jet ink on the
+substrate, substantially no black to color bleed is
+occurs at a black-color interface.</p><p num="0024">Next, a printed image on a substrate is disclosed
+having reduced black to color bleed. The printed image
+comprises a dye-based black ink-jet ink comprising at
+least one long chain diol in a glycol ether. The dye
+based black ink-jet ink is printed in contact with, a
+dye-based color ink-jet ink comprising at least one long
+chain alcohol in a glycol ether. Even without 
+traditional bleed control agents in the color ink-jet
+ink, by using the black ink-jet inks disclosed herein,
+substantially no black to color bleed occurs.</p><heading>EXAMPLES</heading><p num="0025">The following examples illustrate various
+formulations for preparing the ink-jet ink compositions
+used in the present invention, as well as provide data
+showing the effectiveness of the ink-jet inks disclosed
+herein. The following examples should not be considered
+as limitations of the present invention, but should
+merely teach how to make the best known ink-jet ink
+formulations based upon current experimental data.</p><heading><u style="single">Example 1</u></heading><p num="0026">Black inks were tested having the following formulas
+given in Table 1. All percentages of ingredients given
+are in weight percentages. The vehicle of the ink was
+made to ensure that all the ingredients dissolve by
+mixing on rollers. The pH of the vehicle was adjusted
+before the black dye was added. The black dye was added.
+The pH of the vehicle was adjusted again as necessary
+after the dye was added to the vehicle. The final inks
+were mixed on rollers.
+<tables><table><tgroup cols="4"><tbody><row><entry align="center">#</entry><entry align="center">Formula Ingredients (Wt %)</entry><entry align="left">Formula #79</entry><entry align="left">Formula # 80-91</entry></row><row><entry align="center">1</entry><entry align="center">2-Pyrrolidinone</entry><entry align="left">8.5</entry><entry align="left">8.5</entry></row><row><entry align="center">2</entry><entry align="center">1,5-Pentanediol</entry><entry align="left">7</entry><entry align="left">7</entry></row><row><entry align="center">3</entry><entry align="center">Different Ethers (See Below)</entry><entry align="left">0</entry><entry align="left">See Below</entry></row><row><entry align="center">4</entry><entry align="center">Cocobetaine</entry><entry align="left">0.2</entry><entry align="left">0.2</entry></row> <row><entry align="center">5</entry><entry align="center">Trizma Base</entry><entry align="left">0.2</entry><entry align="left">0.2 </entry></row> <row><entry align="center">6</entry> <entry align="center">Proxel GXL</entry> <entry align="left">0.2</entry><entry align="left">0.2</entry></row><row><entry align="center">7</entry><entry align="center">Neutralization with NaOH or HNO<sub>3</sub> to pH</entry><entry align="left">8.5</entry><entry align="left">8.5</entry></row><row><entry align="center">8</entry><entry align="center">Dye = K1334 Abs. @ 1/10K</entry><entry align="left">0.18</entry><entry align="left">0.18</entry></row><row><entry align="center">9</entry><entry align="center">H<sub>2</sub>O</entry></row><row><entry align="right"/><entry align="center">Total</entry><entry align="left">100 gms</entry><entry align="left">100gms</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 2</u></heading><p num="0027">The following table shows the effects on black to color
+bleed when different ethers are added to the ink
+formulation of Example 1 as compared to a control black
+ink without ether.
+<tables><table><tgroup cols="5"><tbody><row><entry align="left"><u style="single">Ingredient #3</u><u style="single">(Ethers)</u></entry><entry align="left"><u style="single">Formula #</u></entry><entry align="left"><u style="single">% Evaluated</u></entry><entry align="left"><u style="single">Range</u></entry><entry align="left"><u style="single">Improved Bleed Rel to #79</u></entry></row><row><entry align="left">Triethylene Glycol mono Butyl Ether</entry><entry align="left">80</entry><entry align="left">4</entry><entry align="left">0.25 to 15</entry><entry align="left">38.10</entry></row><row><entry align="left">Triethylene Glycol mono Methyl Ether</entry><entry align="left">81</entry><entry align="left">4</entry><entry align="left">0.25 to 15</entry><entry align="left">0.00</entry></row><row><entry align="left">Propylene Glycol mono Propyl Ether</entry><entry align="left">82</entry><entry align="left">5</entry><entry align="left">0.25 to 18</entry><entry align="left">0.00</entry></row><row><entry align="left">Propylene Glycol mono Butyl Ether</entry><entry align="left">83</entry><entry align="left">3</entry><entry align="left">0.25 to 12</entry><entry align="left">23.81</entry></row><row><entry align="left">Dipropylene Glycol Butyl Ether</entry><entry align="left">85</entry><entry align="left">3</entry><entry align="left">0.25 to 12</entry><entry align="left">28.57</entry></row><row><entry align="left">Diethylene Glycol mono Butyl Ether Acetate</entry><entry align="left">87</entry><entry align="left">3</entry><entry align="left">0.25 to 12</entry><entry align="left">0.00 </entry></row><row><entry align="left">Diethylene Glycol mono Ethyl Ether</entry><entry align="left">88</entry><entry align="left">3</entry><entry align="left">0.25 to 12</entry><entry align="left">0.00</entry></row><row><entry align="left">Diethylene Glycol mono Propyl Ether</entry><entry align="left">89</entry><entry align="left">3</entry><entry align="left">0.25 to 12</entry><entry align="left">0.00</entry></row><row><entry align="left">Dipropylene Glycol Methyl Ether</entry><entry align="left">90</entry><entry align="left">4</entry><entry align="left">0.25 to 15</entry><entry align="left">42.86</entry></row><row><entry align="left">Diethylene Glycol Dimethyl Ether</entry><entry align="left">91</entry><entry align="left">4</entry><entry align="left">0.25 to 15</entry><entry align="left">0.00</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 3</u></heading><p num="0028">The bleed improvements shown in Example 2 were further
+improved when one or more of the following alcohols were
+added in the ranges given: 1,2 decanediol (0.1 to 3 wt%;
+dodecanol (0.1 to 0.5 wt%); octanediol (0.1 to 0.5 wt%;
+and Neopentyl Alcohol (0.1 to 0 wt%).</p><p num="0029">While the invention has been described with
+reference to certain preferred embodiments, those skilled
+in the art will appreciate that various modifications,
+changes, omissions, and substitutions can be made without
+departing from the spirit of the invention. It is
+therefore intended that the invention be limited only by
+the scope of the appended claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A method for printing black and color images with
+reduced black to color bleed comprising:
+<claim-text><claim-text>(a) providing a dye-based color ink-jet ink;</claim-text><claim-text>(b) providing a dye-based black ink-jet ink
+comprising at least one long chain alcohol in a glycol
+ether;</claim-text><claim-text>(c) jetting the dye-based color ink-jet ink onto a
+substrate; and</claim-text><claim-text>(d) jetting the dye-based black ink-jet ink onto the
+substrate,</claim-text></claim-text>
+   such that the dye-based color ink-jet ink contacts
+the dye-based black ink at an interface, and
+substantially no color to black bleed occurs at the
+interface.</claim-text></claim><claim num="2"><claim-text>A method as in claim 1 wherein the glycol ether is
+at least one of triethylene glycol mono butyl ether,
+triethylene glycol mono methyl ether, propylene glycol
+mono propyl ether, propylene glycol mono butyl ether,
+dipropylene glycol butyl ether, diethylene glycol mono
+butyl ether acetate, diethylene glycol mono ethyl ether,
+diethylene glycol mono propyl ether, dipropylene glycol
+methyl ether, and diethylene glycol dimethyl ether.</claim-text></claim><claim num="3"><claim-text>A method as in claim 1 wherein the glycol ether is
+present in the dye-based black ink-jet ink in a range
+from 0.1 to 15 wt%.</claim-text></claim><claim num="4"><claim-text>A method as in claim 1 wherein the at least one long
+chain alcohol is at least one of dodecanol, 1,2-decanediol,
+octanediol and neopentyl alcohol.</claim-text></claim><claim num="5"><claim-text>A method as in claim 4 wherein the 1,2-decanediol is
+present in the dye-based black ink-jet ink in a range
+from 0.1 to 3 wt%.</claim-text></claim><claim num="6"><claim-text>A method as in claim 4 wherein the dodecanol is
+present in the dye-based black ink-jet ink in a range
+from 0.1 to 0.5 wt%.</claim-text></claim><claim num="7"><claim-text>A method as in claim 4 wherein the octanediol is
+present in the dye-based black ink-jet ink in a range
+from 0.1 to 0.5 wt%.</claim-text></claim><claim num="8"><claim-text>A method as in claim 4 wherein the neopentyl alcohol
+is present in the dye-based black ink-jet ink in a range
+from 0.1 to 0.5 wt%.</claim-text></claim><claim num="9"><claim-text>A method as in claim 1 wherein the at least one long
+chain alcohol is dissolved in a glycol ether to form a
+solution and the solution is dissolved in the dye-based
+black ink-jet ink.</claim-text></claim><claim num="10"><claim-text>A system for black and color printing with reduced
+black to color bleed comprising:
+<claim-text><claim-text>(a) an ink-jet pen containing a dye-based color ink-jet
+ink, said ink-jet pen capable of printing the color
+ink-jet ink onto a substrate; and</claim-text><claim-text>(b) an ink-jet pen containing a dye-based black ink-jet
+ink, said black ink-jet ink comprising at least one
+long chain alcohol in a glycol ether, said ink-jet pen
+being capable of printing on the substrate such that the
+black ink-jet ink contacts the color ink-jet ink at an
+interface;</claim-text></claim-text>
+   such that when said color ink-jet ink contacts said
+black ink-jet ink on said substrate, substantially no
+black to color bleed is present at the interface.</claim-text></claim><claim num="11"><claim-text>A system as in claim 10 wherein the glycol ether is
+at least one of triethylene glycol mono butyl ether,
+triethylene glycol mono methyl ether, propylene glycol
+mono propyl ether, propylene glycol mono butyl ether,
+dipropylene glycol butyl ether, diethylene glycol mono
+butyl ether acetate, diethylene glycol mono ethyl ether,
+diethylene glycol mono propyl ether, dipropylene glycol
+methyl ether, and diethylene glycol dimethyl ether.</claim-text></claim><claim num="12"><claim-text>A system as in claim 10 wherein the glycol ether is
+present in the dye-based black ink-jet ink in a range
+from 0.1 to 15 wt%.</claim-text></claim><claim num="13"><claim-text>A system as in claim 10 wherein the at least one
+long chain alcohol is at least one of dodecanol, 1,2-decanediol,
+octanediol and neopentyl alcohol.</claim-text></claim><claim num="14"><claim-text>A system as in claim 13 wherein the 1,2-decanediol is
+present in the dye-based black ink-jet ink in a range
+from 0.1 to 3 wt%.</claim-text></claim><claim num="15"><claim-text>A system as in claim 13 wherein the dodecanol is
+present in the dye-based black ink-jet ink in a range
+from 0.1 to 0.5 wt%.</claim-text></claim><claim num="16"><claim-text>A system as in claim 13 wherein the octanediol is
+present in the dye-based black ink-jet ink in a range
+from 0.1 to 0.5 wt%.</claim-text></claim><claim num="17"><claim-text>A system as in claim 13 wherein the neopentyl alcohol
+is present in the dye-based black ink-jet ink in a range
+from 0.1 to 0.5 wt%.</claim-text></claim><claim num="18"><claim-text>A system as in claim 10 wherein the at least one
+long chain alcohol is dissolved in a glycol ether to form
+a solution and the solution is dissolved in both the dye-based
+black ink-jet ink and the dye-based colored ink-jet
+ink.</claim-text></claim><claim num="19"><claim-text>A printed image on a substrate having reduced black
+to color bleed comprising:
+<claim-text><claim-text>a) a dye-based black ink-jet ink comprising at
+least one long chain alcohol in a glycol ether;
+printed on a substrate in contact with,</claim-text><claim-text>b) a dye-based color ink-jet ink.</claim-text></claim-text></claim-text></claim><claim num="20"><claim-text>A printed image as in claim 19 wherein the glycol
+ether is at least one of triethylene glycol mono butyl
+ether, triethylene glycol mono methyl ether, propylene
+glycol mono propyl ether, propylene glycol mono butyl
+ether, dipropylene glycol butyl ether, diethylene glycol
+mono butyl ether acetate, diethylene glycol mono ethyl
+ether, diethylene glycol mono propyl ether, dipropylene
+glycol methyl ether, and diethylene glycol dimethyl
+ether;
+   and wherein the at least one long chain alcohol is
+at least one of dodecanol, 1,2-decanediol,octanediol and
+neopentyl alcohol.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

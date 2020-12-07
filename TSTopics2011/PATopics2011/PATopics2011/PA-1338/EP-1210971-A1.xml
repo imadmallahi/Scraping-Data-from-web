@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1210971-A1" country="EP" doc-number="1210971" kind="A1" lang="EN" family-id="24877361" status="new" date-produced="20090516" date="20020605"><bibliographic-data><publication-reference ucid="EP-1210971-A1" status="new" fvid="23475199"><document-id status="new" format="original"><country>EP</country><doc-number>1210971</doc-number><kind>A1</kind><date>20020605</date></document-id></publication-reference><application-reference ucid="EP-01127671-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01127671</doc-number><kind>A</kind><date>20011120</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-71626200-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>71626200</doc-number><kind>A</kind><date>20001121</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B01D  53/22        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  53/22        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  67/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  67/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  69/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01D  69/02        20060101ALI20060101BMKR        </classification-ipcr><classification-ipcr status="new">B01D  69/14        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C01B  13/02        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C01B  13/02        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08J   9/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   9/24        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   9/36        20060101ALI20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B01D  53/22M</classification-symbol><classification-symbol scheme="EC">B01D  67/00R18</classification-symbol><classification-symbol scheme="EC">B01D  69/14B10</classification-symbol><classification-symbol scheme="EC">C01B  13/02D4B2</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Verfahren zur Herstellung mikroporöser Membranen mit ausgewählten gasselektiven Stellen und danach hergestellte Membranen</invention-title><invention-title load-source="ep" status="new" lang="EN">Process for making microporous membranes having selected gas-selective sites and the membranes so made</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédé de fabrication de membranes microporeuses presentant des sites avec une selectivite aux gaz et membranes ainsi obtenus</invention-title><citations><patent-citations><patcit ucid="EP-0464717-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0464717</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0475053-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0475053</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0711598-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0711598</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5104425-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5104425</doc-number><kind>A</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5229465-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5229465</doc-number><kind>A</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5411580-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5411580</doc-number><kind>A</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>PRAXAIR TECHNOLOGY INC</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>PRAXAIR TECHNOLOGY, INC.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>PRAXAIR TECHNOLOGY, INC.</last-name><address><street>39 Old Ridgebury Road</street><city>Danbury, CT 06810-5113</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>MULLHAUPT JOSEPH TIMOTHY</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NOTARO FRANK</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>PRASAD RAVI</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>STEPHENSON NEIL ANDREW</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MULLHAUPT, JOSEPH TIMOTHY</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>NOTARO, FRANK</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>PRASAD, RAVI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>STEPHENSON, NEIL ANDREW</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MULLHAUPT, JOSEPH TIMOTHY</last-name><address><street>165 Exeter Road</street><city>Williamsville, New York 14221</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NOTARO, FRANK</last-name><address><street>18 Harcroft Court</street><city>Amherst, New York 14226</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>PRASAD, RAVI</last-name><address><street>12 Yardley Lane</street><city>East Amherst, New York 14051</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>STEPHENSON, NEIL ANDREW</last-name><address><street>68 South Castlerock Lane</street><city>East Amherst, New York</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Schwan - Schwan - Schorer</last-name><address><street>Patentanwälte European Patent Attorneys Elfenstrasse 32</street><city>81739 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A process for making microporous membranes that
+incorporate selected gas selective species as surface
+sites in a controlled spacing and orientation manner
+and such membranes so formed being suitable for
+separating and purifying the selected gas from selected
+gas containtig gas mixtures. An example is the use of
+oxygen selective transition element complexes (TECs) as
+surface sites for separating and purifying oxygen from
+oxygen-containing gas mixtures.
+<img id="img-00000001" orientation="unknown" wi="97" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="97"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">BACKGROUND OF THE INVENTION</u></heading><heading><u style="single">Field of the Invention</u></heading><p num="0001">The invention relates to a process for making
+microporous membranes that incorporate selected gas
+selective sites. Examples of selected gas selective
+sites include selective transition element complexes
+(TEC's) for oxygen, amines and/or exposed cations for
+carbon dioxide, and copper(I) and/or silver(I) sites
+for carbon monoxide. The selected gas selective sites
+are incorporated onto internal surfaces of porous
+membranes in a controlled spacing and orientation
+manner and such resulting microporous membranes being
+suitable for separating and purifying selected gas from
+the selected gas containing gas mixtures. The
+invention also relates to the microporous selective
+membranes so made.</p><heading><u style="single">Description of the Prior Art</u></heading><p num="0002">For many years, air has been separated and
+purified by cryogenic distillation, for which operating
+temperatures are set by the vapor-liquid equilibria of
+the liquefied mixture. Cryogenic separation is capital
+intensive, particularly for production rates below
+several hundred tons per day. Alternative technologies
+compete in the marketplace particularly for air
+separations to produce oxygen and nitrogen at lower
+purities and lower production rates than cryogenic
+systems. Pressure swing adsorption (PSA) has been 
+applied to air separation and purification at near
+ambient temperature using either gas-solid equilibria
+or differences in uptake and release rates between
+adsorbates for a given adsorbent. Gas separation using
+membrane systems takes advantage of differences in
+permeation rates for the different feed components.
+Process aspects of membrane gas separation are simpler
+than either cryogenic or PSA systems.</p><p num="0003">Conventional air separation using membrane systems
+employs thin polymeric coatings which exhibit
+permselectivity for one or more components of the feed.
+For air separation, the primary concern is the
+separation of oxygen and nitrogen with the selectivity
+for other feed components such as water and carbon
+dioxide playing a lesser role. Advances in membrane
+materials have relied on the identification and
+utilization of polymers showing increased selectivity
+and permeability, combined with improvements in coating
+technology to give thinner separation layers.</p><p num="0004">Certain transition element complexes possess sites
+which show high selectivities for oxygen over nitrogen,
+argon, and other air components. Several attempts have
+been made to incorporate oxygen selective TEC sites
+into membrane systems to give rise to facilitated
+oxygen transport. Alternative approaches have been
+utilized such as those which are supported liquid
+membranes where the TEC sites function as mobile
+carriers or dense polymer membranes or microporous
+membranes where the TEC's serve as fixed sites. For
+example, a membrane containing Co(3-MeOsaltmen) in γ-butyrolactone
+containing 4-(N,N-dimethylamino)pyridine 
+(DMAP) at -10°C showed a selectivity α(O<sub>2</sub>/N<sub>2</sub>) &gt;20 with
+an oxygen permeability of 260 Barrer. Several problems
+have been identified which restrict or limit the
+application of supported liquid membranes to air
+separation. These include practical restrictions such
+as solubility limits for the TEC, membrane thickness,
+and low carrier mobility. In addition, decline in
+membrane performance can occur by irreversible TEC
+oxidation, evaporation loss of the liquid medium, and
+contamination of the liquid membrane with minor
+atmospheric components.</p><p num="0005">Permeation within polymeric materials can be
+described by a combination of diffusional and
+solubility effects. The incorporation of TEC's into
+polymeric substrates has been disclosed to improve
+oxygen transport through solubility enhancement.
+Several alternative configurations have been examined
+such as examples where the TEC/axial base is physically
+incorporated in the polymer, or where the TEC and/or
+axial donor are covalently linked to the polymer.</p><p num="0006">Permeation studies for dense polymer membranes
+containing TEC's have indicated that the increasing
+oxygen permeability with decreasing upstream oxygen
+pressure is consistent with facilitation. For example,
+permeation studies at 35°C for polybutylmethacrylate
+containing 4.5 wt.% 1-Melm/Co(T<sub>piv</sub>PP), where 1-Melm
+refers to 1-methylimidazole and Co(T<sub>piv</sub>PP) refers to
+meso-tetra(α,α,α,α-o-privalamidophenyl)porphyrinato-cobalt(II),
+indicated a P(O<sub>2</sub>) of 23 Barrer with
+selectivity α(O<sub>2</sub>/N<sub>2</sub>) of 12 at 5 mmHg upstream pressure
+and lifetimes on the order of months. </p><p num="0007">Oxygen facilitation in styrene-butadiene-vinylpyridine
+graft copolymers, and epoxidized styrenebutadiene
+block copolymers containing TEC's have been
+disclosed in the prior art. Pressure dependent oxygen
+permeation with α(O<sub>2</sub>/N<sub>2</sub>) up to 6.2 and P(O<sub>2</sub>) 29.4 Barrer
+with an upstream pressure of 50 mmHg have been
+reported. Permeation studies for
+polyhexylmethacrylate-co-vinylpyridine containing N,N<sup>1</sup>-bis(salicylidene)ethylenediaminocobalt(II)
+(abbreviated
+as Co(salen)) prepared by an interfacial reaction
+between a polymer solution and a TEC impregnated in a
+porous membrane have been reported. Selectivities over
+20 were reported with an oxygen permeation rate of
+3.12x10<sup>-8</sup> cm<sup>3</sup>/cm<sup>2</sup>/s cmHg at 100 torr upstream pressure.
+In an alternative approach, a rigid porous support for
+butylacrylate-co-vinylimidazole membranes containing
+Co(T<sub>piv</sub>PP) have provided permeation measurements
+indicating α(O<sub>2</sub>/N<sub>2</sub>) of 16.</p><p num="0008">Gas separation membranes consisting of TEC's
+related to Co(salen) and DMAP physically incorporated
+in polysulfone which exhibit facilitated oxygen
+transport have been disclosed. A dry/wet phase
+inversion process was utilized to give thin separation
+layers and to prevent TEC crystallization. The
+stability of the separation membranes have been found
+to be satisfactory over 3 months using either a
+synthetic air or a compressed air feed. The highest
+selectivity reported corresponds to asymmetric
+membranes containing 15.1 wt.% Co(5-NO<sub>2</sub>-salen) which
+gives α(O<sub>2</sub>/N<sub>2</sub>) of 23.46. </p><p num="0009">Carbon molecular sieve (CMS) membranes have been
+prepared by controlled carbonization of polymeric
+substrates, and permit gas separations on the basis of
+molecular dimensions. For the separation of components
+with similar kinetic diameters such as oxygen and
+nitrogen, fine control of the pore size distribution of
+the CMS membranes is generally required.</p><p num="0010">There are several examples of microporous
+membranes where surface diffusion plays a significant
+role in transport including the transport of organic
+vapor mixtures through porous glass, and gas permeation
+for porous glass modified using tetraethoxysilane. The
+transport of pure gases and binary gas mixtures through
+microporous composite membranes based on alumina have
+shown surface diffusion of carbon dioxide with a
+surface diffusion coefficient estimated to lie in the
+range 2 X 10<sup>-5</sup> to 5 X 10<sup>-5</sup> cm<sup>2</sup>/sec.</p><p num="0011">U.S. Patent 5,104,425 describes porous membranes
+incorporating a porous adsorbent which separate gas
+mixtures by virtue of the selective adsorption of at
+least one primary component. The adsorbed component
+diffuses by surface flow in the adsorbed phase due to
+concentration gradients created by a pressure
+difference across the membrane. Pore diameters, for
+the substrate described in the patent should like
+between 0.1 and 50µm, and the thickness of the active
+layer containing porous adsorptive material should be
+&lt;20µm. The incorporation of porous adsorbent coatings
+involves introduction of an adsorbent precursor,
+heating to convert the precursor to the porous
+adsorbent, and cooling. Methods for the modification 
+of the porosity of the adsorptive layer are disclosed,
+together with post-treatments for the sealing of
+defects using a thin layer (&lt;1µm) of high permeability,
+low selectivity polymer such as a silicon containing
+polymer. Permeation measurements, for example of an
+adsorbent membrane at 25°C indicate α(CO<sub>2</sub>/H<sub>2</sub>) of 7.1 and
+a CO<sub>2</sub> permeability of 3360 Barrer.</p><p num="0012">Oxygen separating porous membranes have been
+disclosed in the prior art where oxygen-selective TEC's
+are retained in the pores of a porous substrate to give
+membranes with free pore diameters from 3.5 to 100Å.
+An additional donor required to provide five-coordinate
+deoxy TEC sites is provided by aromatic heterocycles
+either from copolymers of vinyl aromatic heterocycles
+and alkyl-acrylates or -methacrylates, or from low
+molecular weight aromatic heterocycles. High oxygen
+selectivities were reported due to rapid adsorption and
+desorption of oxygen at TEC sites resulting in oxygen
+surface flow. For example, mixed gas permeation
+measurements using 2.6% oxygen in nitrogen as feed for
+a membrane consisting of Co(T<sub>piv</sub>PP) and poly(N-vinylimidazole-co-octyl
+methacrylate) (POMIm) supported
+in Vycor 7930 porous glass, indicate an α(O<sub>2</sub>/N<sub>2</sub>) 7,
+with P(O<sub>2</sub>) 41,000 Barrer.</p><p num="0013">Although supported liquid membranes containing
+TEC's as mobile carriers have shown promising
+permeation characteristics on a laboratory scale, they
+are not useful for practical gas separation. Several
+concerns have been identified for these systems. These
+include practical restrictions such as solubility
+limits for the TEC, membrane thickness, and low carrier 
+mobility. In addition, decline in membrane performance
+has been observed due to irreversible TEC oxidation,
+evaporation loss of the liquid medium, and
+contamination of the liquid membrane with minor
+atmospheric components. The microporous oxygen
+selective membranes described in the subject invention
+are solid systems which avoids solubility, mobility,
+and stability concerns.</p><p num="0014">The application of dense polymer membranes
+containing TEC's for gas separation are disclosed in
+the prior art. As in the case of simple polymer
+membranes, the membranes can incorporate TEC's which
+separates gases on the basis of differential solubility
+and diffusivity of gases within the material. Although
+promising permeation characteristics (oxygen
+selectivity and permeability) has been reported,
+membranes containing TEC's have not been applied to
+commercial separations due to a number of factors. The
+ability to produce thin polymer films containing TEC's
+which are mechanically stable and which contain low
+defects has not been demonstrated. For example, high
+TEC contents have been found to result in more brittle
+materials. In addition, current methods used to
+produce polymer membranes containing TEC's for gas
+separation do not adequately control TEC spacing to
+prevent unfavorable processes including bimolecular
+decomposition pathways which are known to occur in
+liquids.</p><p num="0015">Liquid membranes containing TEC's have shown
+interesting properties but have not proven useful for
+air separation due to irreversible TEC oxidation,
+evaporation loss of the liquid medium, and 
+contamination of the liquid membrane with minor
+atmospheric components.</p><p num="0016">United States Patent No. 5,411,580 discloses an
+oxygen-separating porous membrane comprising a complex
+of (a) a transition metal (II) ion, (b) a ligand, and
+(c) an aromatic heterocycle, retained in the pores of a
+substrate.</p><p num="0017">United States Patent No. 5,229,465 discloses an
+oxygen-permeable polymeric membrane, intended for use
+in processes for producing oxygen- or nitrogen-enriched
+air for industrial, medical, and other applications,
+are characterized by a complex which comprises (a) a
+copolymer of a vinyl aromatic heterocycle and either
+(i) a fluoroalkyl acrylate or (ii) a fluoroalkyl
+methacrylate, and (b) a ligand taken from the group
+consisting of (1) porphyrins, (2) Schiff bases, (3)
+cyclidenes, and (4) amine-like macrocycles, and (c) a
+transition metal (II) ion.</p><p num="0018">United States Patent 5,945,070 discloses a process
+for air separation using oxygen-selective sorbents with
+enhanced selectivity, loading capacities and oxygen
+uptake rates have a transition element complex in solid
+form supported on a high surface substrate. The
+transition element complex is substantially uniformly
+spaced, and includes a transition element ion
+accessible to an oxygen-containing gas stream during
+use in the separation of oxygen from an oxygen-containing
+gas mixture such as air.</p><p num="0019">It will be appreciated, therefore, that further
+improvements in the art are needed to enable membrane
+processes to satisfy the requirements of the art. In
+particular, further improvements are desirable with 
+respect to transition element complexes in order to
+enhance the use thereof as oxygen-selective sites,
+especially solid TEC's in supported form in which the
+spacing and orientation of the TEC sites are
+controlled. Similarly, selected gas selective sites
+can be chosen for separation of selected gas from its
+mixtures.</p><p num="0020">It is an object of the present invention to
+provide a process for producing a microporous membrane
+system which combine high permeabilities and
+selectivities for selected gases through the provision
+of selected gas selective sites for active surface
+diffusion.</p><p num="0021">It is another object of the present invention to
+provide a process for producing microporous selected
+gas selective membranes that incorporate selective
+sites for selected gases in which the spacing and
+orientation of the sites are controlled.</p><p num="0022">It is another object of the present invention to
+provide a microporous oxygen selective membrane
+containing TEC sites which are oxygen selective at
+equilibrium.</p><heading><u style="single">Summary of the Invention</u></heading><p num="0023">The invention relates to a process for producing a
+selected gas-selective microporous membrane and the
+membrane so produced and such membrane having a surface
+diffusion of a selected gas using selective sites which
+are selective at equilibrium employing reversible
+chemisorption and wherein said microporous membrane has
+a pore size of less than about 25Å and said selected
+gas selective sites have a footprint of less than about 
+200(Å)<sup>2</sup> and preferably having selected gas surface
+diffusion coefficients greater than 1 X 10<sup>-5</sup> cm<sup>2</sup>/s and
+preferably a thickness of less than about 2000Å.</p><heading><u style="single">Brief Description of the Drawing</u></heading><p num="0024">Figure 1 - Schematic representation of an oxygen
+selective cobalt (II) TEC based on a tetradentate
+primary ligand.</p><p num="0025">Figure 2 - Schematic representation of linking
+agent on a surface of a substrate, with Figure 2a)
+representing amplifying and Figure 2(b) representing
+non-amplifying.</p><p num="0026">Figure 3 - Schematic representation of a
+amplifying linking agent.</p><p num="0027">Figure 4 - Schematic representation of oxygen
+selective TEC sites with Figure 4(a) being organized
+and 4(b) being non-organized.</p><p num="0028">Figure 5 - Graph of free pore diameter versus
+selectivity (O<sub>2</sub>/N<sub>2</sub>) for microporous membranes.</p><p num="0029">Figure 6 - Graph of free pore diameter versus
+selectivity (O<sub>2</sub>/N<sub>2</sub>) for microporous membranes of non-TEC
+systems.</p><p num="0030">Figure 7 - Graph of free pore diameter versus
+permeability for microporous membranes.</p><heading><u style="single">Detailed Description of the Invention</u></heading><p num="0031">As used herein, the term "footprint" shall mean
+the average surface area required for each selected gas
+(adsorbate) molecule. Knowing the footprint area, the
+spacing between adsorption sites or regions can be
+obtained. The term "site footprint" is used to
+represent the area occupied by individual selective 
+sites. A limiting case occurs for close-packed
+arrangements of sites where the site footprint
+corresponds to the maximum cross-section in a plane
+parallel to the support and is equivalent to the
+footprint (average surface area required for each
+selected gas molecule). However, examples are also
+considered where the sites are not close-packed and the
+footprint corresponds to an average area occupied by
+individual sites. For selected gas selective site
+coatings, the footprints used represent average surface
+areas occupied by adsorbates in monolayer coatings
+based on adsorption measurements. For some
+embodiments, selected gas selective sites may be part
+of a larger molecule, particularly for amplifying
+linking agents. In this case, the term footprint
+represents the average area occupied by adsorbate, and
+the value may be smaller than the molecular footprint.</p><p num="0032">The substrate utilized for the formation of
+microporous selected gas selective membranes is used to
+provide structural integrity, a surface for the
+deployment of selective groups, and may also serve as a
+heat sink to dissipate heat associated with adsorption
+and transport processes. The substrate should be
+available in membrane form (flat sheet, tubes, hollow
+fibers) and possess porosity throughout the cross-section.
+The separation region itself in microporous
+selected gas selective membranes may be present only in
+regions of the substrate. The substrate should be
+chemically inert with respect to site degradation in
+either bound or unbound states.</p><p num="0033">Control of the free pore diameter and pore size
+distribution in modified substrates (i.e. after 
+incorporation of selective sites) is required to
+prevent dominant transport by non-selective or weakly
+selective pathways. Mean pore diameters for the coated
+substrate below 25Å are preferred combined with narrow
+pore size distributions. The preparation of
+microporous selected gas selective membranes using
+preformed substrates requires a mean pore size and pore
+size distribution amenable to the transport of selected
+gas selective sites (such as TEC's for oxygen) to
+interior regions. For polymeric substrates, swelling
+agents can be utilized to facilitate transport of the
+selective sites to interior regions. Suitable swelling
+agents can be selected from the group comprising
+alcohols, hydrocarbons, and dipolar aprotic solvents
+such as N,N-dimethylformamide (DMF).</p><p num="0034">The surface characteristics of a support that can
+be used to assist in the organization of selective
+sites, are linking agents which can give close-packed
+oriented monolayer coatings. The term "linking agent"
+is used here to describe molecular species containing
+at least two functional sites which are designed or
+selected to serve as an interface between selective
+sites and the surface of a substrate. For example,
+diazabicyclo[2.2.2]octane is viewed as a linking agent
+since it can interact simultaneously with an acidic
+surface and a four-coordinate deoxy TEC.</p><p num="0035">Examples of typical preformed membrane substrates
+for the preparation of microporous oxygen selective
+membranes include porous glasses (sol-gel or acid-leached),
+zeolite membranes, anodized alumina
+membranes, and porous carbons. Porous polymeric
+compositions may also serve as useful substrates and 
+examples include crosslinked polymers and copolymers,
+phase separated polymers and porous condensation
+polymers such as polyamides and polyimides. For
+polymeric substrates the TEC sites are located on pore
+walls and the requirements for free pore diameter and
+pore size distribution are the same as for inorganic
+substrates. However, gas diffusion through dense
+polymer regions would be slow. Porous polymers and
+copolymers containing potential axial donors (e.g.
+polyvilyhpyridine type or polyvinylimidazole type) or
+groups which incorporate or are easily modified to
+provide potential axial donors can be used.</p><p num="0036">Various substrate configurations are suitable
+including flat disk, tube, spiral wound, and hollow
+fiber. The selection of substrate configuration will
+depend on the particular application and fabrication
+concerns. Pretreatment of the substrate may be
+necessary to remove water or other adsorbed species
+using methods appropriate to the substrate and the
+adsorbate. Examples of absorbed species are water,
+alcohols, porogens, and surfactant templates.</p><p num="0037">The nature of the selective sites chosen will
+depend on the identity of the selected gas. This is
+illustrated for examples where the selected gas is
+oxygen. Certain transition element complexes (TEC's)
+have been shown to interact exclusively with oxygen
+over nitrogen and argon, and CO<sub>2</sub> based on solution or
+solid state studies. These oxygen selective TEC's
+preferably provide the preferred embodiment for the
+oxygen surface transport and selectivity in microporous
+oxygen selective membranes of the subject invention.
+The solid state deployment of TEC's results in two 
+advantages over TEC's in the liquid phase. First,
+immobilization and spacing of TEC's in the solid state
+avoid deactivating reactions, such as bimolecular
+oxidations, which occur readily in solution. Secondly,
+solid state deployment circumvents conflicting
+compromises that must be made in choosing a solvent
+such as high TEC solubility, low solvent vapor
+pressure, low viscosity, and safety concerns associated
+with use at relatively high oxygen concentrations.</p><p num="0038">The transition element complexes (TEC's) preferred
+for the subject invention for oxygen are the transition
+element complexes which have selective interactions
+with molecular oxygen involving reversible
+chemisorption. A general representation of a suitable
+TEC based on a tetradentate and a monodentate donor to
+cobalt(II) is shown in Figure 1. Two components are
+required for a TEC to function as an O<sub>2</sub>-selective
+compound: (1) a transition metal ion, (2) a
+polydentate ligand which chelates the transition metal
+ion. Additional donors may also be required to provide
+a five-coordinate deoxy transition metal ion which is
+preferred for oxygen interaction in a superoxo mode.
+Examples of useful TEC composition classes include
+five-coordinate complexes containing cobalt or iron
+ions embedded in tetradentate Schiff bases or
+porphyrins to which are attached axial bases such as
+derivatives of imidazole or pyridine. Suitable
+combinations for use in the subject invention contain
+the following components: (1) metal ions: cobalt(II),
+iron(II), copper(I), and mixtures thereof, (2) ligands:
+porphyrins, Schiff bases, polyamines, polyoxoamides,
+oximes and their derivatives, and cyclidenes, and (3) 
+axial bases: nitrogen, sulfur, oxygen, heterocycles,
+thioethers, pyridine, imidazole, amines, epoxides,
+ethers and their derivatives, Preferred embodiments
+include appropriate combinations of the following: (1)
+cobalt(II) and the metal ion, (2) picket-fence
+porphyrin and related porphyrin dianions as ligands,
+low molecular weight ligands such as salen and related
+Schiff bases, and tetraazaannulene ligands, and (3)
+axial bases of N-substituted imidazoles and 3- and/or
+4-substituted pyridines as axial bases, and tertiary
+amines.</p><p num="0039">When the selected gas is carbon dioxide, selective
+sites include amines (primary, secondary, and
+tertiary), and exposed cations. When the selected gas
+is carbon monoxide or an olefin, selective sites
+include copper(I) and silver(I) either adsorbed on
+surfaces, or present in a chelating ligand.</p><p num="0040">A function of the selected gas selective sites in
+microporous selected gas selective membranes is to
+provide equilibrium selectivity for active surface
+transport of the selected gas. This is illustrated for
+a microporous oxygen selective membrane involving
+active surface transport of oxygen. Simulations using
+a conduit pore model have indicated that the oxygen
+equilibrium coefficient of TEC sites, and the TEC site
+footprint represent important TEC selection parameters.
+The desired performance of a given membrane will rely
+on matching the structure and composition of the TEC
+and its associated axial base with the oxygen
+concentration and pressure of the feed, and with the
+provision of rapid surface transport rates. The
+intrinsic reaction rates for oxygen at the TEC sites 
+are generally very fast, based on evidence from laser
+flash photolysis spectroscopy and from reactions in
+solution.</p><p num="0041">Preferably, the selected gas selective sites are
+deployed so that the sites are distributed essentially
+as monolayers attached to either concave or convex
+internal surfaces of microporous membrane surfaces. A
+novel feature of the subject invention is the linking
+agents to attach the selected gas selective sites to
+support surfaces as monolayer coatings which are
+oriented with respect to the surface.</p><p num="0042">A preferred embodiment of the subject invention is
+the use of linking agents (if required) to control the
+selected gas selective site concentration and spacing,
+and to orient the selective sites with respect to the
+surface of the substrate. The term "linking agent" is
+used to describe molecular species containing at least
+two functional sites which are designed or selected to
+serve as the selective sites or as an interface between
+selective sites and the surface of a substrate. Two
+advantages over earlier methods for deploying selected
+gas selective sites are (1) one method that yields
+selected gas selective site distributions that are more
+uniformly spaced at distances that correspond to high
+surface coverage and (2) another method that provides
+for ready access of selected gas to the selective
+sites. These advantages derive from the chemical
+structure of linking agents. The linking agent can be
+a separate species, part of the selected gas selective
+site, or part of the support particle, as in the case
+of an organic polymer support. The linking agent can
+be attached to the support by means of various 
+interactions, including covalent bonds and acid-base
+interactions. Selected gas selective sites may be
+attached to the linking agents in several ways. For
+example, a particularly efficient way to attach TEC's
+that infer oxygen selectivity to a substrate is through
+the axial base. For this mode of attachment of oxygen
+selective sites, the best configuration of TEC's in a
+supported monolayer that is a dense side-by-side array
+of TEC's oriented with the axis defined by the O<sub>2</sub>-metal-axial
+base bonds normal to the surface, so that
+the O<sub>2</sub> binding sites face away from the support
+surface. In general, the choice of functionality
+present in linking agents will be dependent on
+substrate surface groups and the selection of selected
+gas selective sites. For example, a linking agent
+bearing acidic groups could be employed for a substrate
+containing basic groups. Other interactions can also
+be exploited including H-bonding, electrostatic, and
+covalent bonding.</p><p num="0043">Two categories of linking agents are identified as
+components of selected gas selective microporous
+membranes - linear (non-amplifying) linking agents, and
+amplifying linking agents. The term non-amplifying
+("linear") linking agents indicates linking agents
+where the number of selected gas selective sites
+available is less than or equal to the number of
+interaction sites or regions with the support. Surface
+amplifying linking agents are defined as linking agents
+where the number of selected gas selective sites
+associated with each linking agent is greater than the
+number of surface interaction sites. Schematic
+representations of each category are shown in Figure 2. 
+Use of amplifying and non-amplifying linking agents is
+illustrated for oxygen selective microporous membranes
+where the selected gas selective sites are TECs. A
+convenient configuration for both classes of linking
+agents for oxygen selective microporous membranes
+occurs when the linking agent provides a Lewis base
+group to serve as an axial donor to a transition metal
+center to give an oxygen-selective TEC. For example,
+the modification of surfaces by commercial silane
+coupling agents, X<sub>3</sub>SiRY, has been disclosed wherein X
+is a group for attachment to mineral surfaces, Y is an
+organic functional group, and R is a hydrocarbon group.
+This example represents non-amplifying covalent
+attachment at multiple sites, and examples of coupling
+agents include (EtO)<sub>3</sub>SiCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub> and
+(MeO)<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>NHCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>.</p><p num="0044">Alternative examples of linear linking agents
+which provide Lewis base groups to give oxygen-selective
+TEC sites but do not involve surface
+modification in a covalent manner include substituted
+heterocycles where the functionality is selected for
+interaction of aminoalkylpyridines or
+aminoalkylimidazoles with an acidic support. The
+linking agent can also be selected where the functional
+groups used for interaction with the surface and the
+transition metal center are the same. Examples of this
+class include 1,4-diazabicyclo[2.2.2]octane and
+hexamethylenetetramine. These cage structures orient
+the Lewis base donor and hence TEC sites with respect
+to the surface due to steric considerations.</p><p num="0045">Amplifying linking agents can be used as chemical
+species where the number of TEC's associated with each 
+linking agent is greater than the number of surface
+interactions sites. Typically, the amplifying linking
+agent provides two or more Lewis base sites (such as
+pyridine or imidazole derivatives) capable of binding
+TEC's to promote reversible oxygeneration. There could
+be on or more sites capable of interacting with the
+surface of a support to attach and orient the linking
+agent and TEC(s) with respect to the local surface.
+The amplifying linking agents generally contain one or
+more branching points so that steric effects serve to
+orient the Lewis base groups away from the surface.
+Amplifying linking agents lead to advantages relative
+to linear linking agents. They provide more effective
+control of supported TEC reactivity, improved control
+of TEC spacing, and greater ease of attachment of TEC's
+to a support surface. In addition, they can be
+utilized with support surfaces which possess only a
+small population of interaction sites per unit area.
+Steric effects favor the projection of terminal groups
+away from the surface so that TEC orientation is
+accomplished.</p><p num="0046">The structure and composition of the amplifying
+linking agent is highly versatile and is not restricted
+to oxygen selective sites. For example, amine terminal
+groups on amplifying linking agents will provide
+selectivity for carbon dioxide. Variations can
+conveniently be made to one or more of the following
+features: the core (including functionality present
+and multiplicity); the multiplicity of branching
+points; the nature of linking arms; the functionality
+present and reactions types; and the structure and
+substitution patterns of terminal groups. The TEC 
+units can be either incorporated as part of the
+amplifying linking agent (covalently attached to the
+ligand periphery) or the linking agent can provide
+Lewis base donors which interact with transition metal
+chelates in an axial manner to give oxygen selective
+TEC's. In the latter category, the Lewis base groups
+are typically nitrogen, sulfur or oxygen heterocycles,
+amines, ethers or thioethers. Specific examples of
+terminal groups include substituted pyridines and
+substituted imidazoles.</p><p num="0047">Examples of amplifying linking agents bearing
+Lewis base groups are provided by modified dendrimers,
+particularly the low generation examples.
+Modifications to dendrimer structures to provide
+terminal Lewis base groups suitable for interaction
+with TEC's are accomplished using synthetic
+transformations used in dendrimer growth but with
+alternative reagents. An amplifying linking agent
+designated DIm<sub>6</sub> (defined in Figure 3) has been prepared
+using tris(aminoethyl)amine as a core; methyl acrylate
+for branching, and an aminoalkyl-substituted
+heterocycle to provide terminal groups. Related
+structures are possible where the core and the
+composition of the terminal unit (heterocycle, linking
+arm) are varied. Studies involving the interaction of
+DIm<sub>6</sub> with silica gel using uptake and porosity
+measurements are consistent with coating of internal
+surfaces. The availability of imidazole groups for
+coordination to TEC sites is inferred by oxygen
+sorption studies after the TEC coating is formed.</p><p num="0048">Both non-amplifying and surface amplifying linking
+agents as components of any microporous oxygen 
+selective membrane with any TEC and/or substrate are
+suitable for use in the subject invention. A specific
+example of linking agent utilization occurs when the
+linking agent provides a Lewis base donor for axial
+coordination to a transition metal chelate to give an
+oxygen selective TEC.</p><heading><u style="single">Preparation Using Existing Membrane Substrates</u></heading><p num="0049">The coating of pre-existing membrane substrates
+with selected gas selective sites can be accomplished
+with or without the intervention of a linking agent.
+Examples where the linking agent is not required
+include the ion-exchange of cationic selected gas
+selective sites with ion exchangeable units on the
+internal surface of a microporous membrane substrate.
+More typically, a preformed membrane substrate is
+combined with a linking agent and the selected gas
+selective site such as a TEC for oxygen. This can be
+performed either in one step (simultaneous method) or
+in two steps (sequential method). Both methods have
+been utilized for the preparation of coated particles
+involving inorganic supports. In both cases,
+pretreatment of the substrate was performed to remove
+water or other adsorbed species using methods
+appropriate to the substrate and the adsorbate. The
+coating procedures for ions or molecules containing
+selected gas selective sites should be performed under
+controlled conditions. For example, oxygen selective
+TECs should be coated under anaerobic conditions.
+Solvents are selected based on solubility and
+compatibility with ions or molecules containing
+selected gas selective sites and other components. For 
+sequential methods, it is desirable to use solvents
+where the linking agent shows a substantially lower
+solubility than the ions or molecules containing
+selected gas selective sites.</p><p num="0050">The simultaneous coating method involves
+contacting the membrane substrate with a solution
+containing ions or molecules containing selected gas
+selective sites or their precursors and other required
+components including linking agent. The quantities of
+coating components are controlled so that monolayer
+formation occurs. Solvent removal is used to deposit a
+layer of the selected gas selective sites (and linking
+agent if present) onto the support surface.</p><p num="0051">The sequential coating method is used to deposit a
+monolayer of linking agent onto the support surface in
+an initial step. This method is preferred when there
+is significant interaction strength between the linking
+agent and the substrate. The linking agent is coated
+onto the substrate by adsorption from a solution
+containing an excess of the linking agent, followed by
+contacting the coated substrate with a solution
+containing ions or molecules containing selected gas
+selective sites under conditions where extraction of
+the linking agent from the surface is minimized.</p><p num="0052">The depth of the selected gas selective sites
+coated regions in both simultaneous and sequential
+coating method can be controlled by adjusting the
+method by which the membrane substrate and solutions
+are contacted (dependent on substrate configuration).
+For example, the use of hollow fiber substrates allows
+immersion procedures so that a single face of the
+substrate comes in contact with the ions or molecules 
+containing selected gas selective sites and/or linking
+agent solution. Immersion time, temperature,
+solubility, and transport effects will determine the
+mobility of the selective sites in the substrate.</p><heading><u style="single">Preparation from Coated Small Particle Assemblies.</u></heading><p num="0053">Two alternative routes are envisaged for the
+preparation of microporous selected gas selective
+membranes based on small particle assemblies. This is
+illustrated for oxygen selective membranes and TEC
+sites, but the methods and principles are useful for
+other selected gas selective sites. One approach
+involves the formation of small particles, coating, and
+membrane formation as a single process. An alternative
+approach involves isolation of small particles,
+coating, and subsequent membrane formation.</p><p num="0054">In the direct formation of TEC-coated small
+particle assemblies from solutions, small particle
+suspension can be formed using sol-gel technology and
+these can be utilized for the formation of porous
+glasses. Sol-gel technology is a general method by
+which controlled porosity oxides are prepared by
+hydrolysis and condensation of suitable precursors,
+typically with water and either acid or base catalysis.
+For example, preparation of sol-gel porous glasses
+incorporating biological species have been prepared
+using mild conditions which retain the activity of the
+guest molecules. Examples of guest molecules include
+bacteriorhodopsin, copper-zinc superoxide dismutase,
+cytochrome c, myoglobin, glucose oxidase, trypsin, and
+acid phosphotase. In addition, the incorporation of
+non-biological molecules has been disclosed including 
+spiropyranes to serve as photochromic optical recording
+materials.</p><p num="0055">The preparation of microporous oxygen selective
+membranes can be performed using a sol-gel route by
+addition of TEC and linking agent at the small particle
+stage prior to membrane formation. This requires
+chemical compatibility of the solvents (such solvents
+as toluene, chloroform, dichloromethane) and small
+particles with the TEC's and linking agents (if used)
+under the conditions employed, In addition the TEC
+must be soluble in the solvent system of choice. For
+most TEC's, the application of anaerobic conditions is
+required, and the use of non-aqueous solvents is
+preferred. The application of linking agents
+(amplifying or non-amplifying) offers an opportunity
+for small particles to be coated in the liquid state
+prior to membrane formation.</p><p num="0056">The coated small particle sol-gel system can be
+used for membrane formation through technologies such
+as slip-casting, or can be converted to dense films by
+casting procedures. The coated small particle sol-gel
+system may also be used for incorporation on or within
+porous substrates. In all cases, the criteria for
+material characteristics apply to all separation
+membranes based on TEC coated small particles including
+TEC spacing, mean pore size, and pore size
+distribution, as discussed herein.</p><p num="0057">The post-treatment of membranes to minimize the
+effects of defects should be used in the preparation of
+air separation systems. For microporous membranes, it
+is important to select pre- or post-treatment coatings
+which do not substantially degrade either the flux or 
+the selectivity of the microporous region. For this
+reason, thin coatings of high permeability polymers
+such as poly(dimethylsiloxane) (PDMS) or poly(1-trimethylsilyl-1-propyne)
+(PTMSP) are preferred. An
+additional requirement is that the pre- or post-treatment
+must be compatible with the TEC sites.</p><p num="0058">The microporous selected gas selective membranes
+of the subject invention combine high permeabilities
+with high selectivity by employing selected gas
+selective sites to enable surface transport of the
+selected gas in a microporous system. The high
+permeabilities and high selectivity is achieved using
+coatings of organized selected gas selective sites
+which exhibit reversible chemisorption of the selected
+gas. This is illustrated for oxygen selective
+microporous membranes using TECs as active sites. For
+example, the general features of oxygen selective TEC's
+are illustrated in Figure 1 using a combination of
+tetradentate donor (equatorial ligand) and a
+monodentate donor (axial ligand) to a cobalt(II)
+center. Other examples of five-coordinate deoxy TEC
+sites consisting of one or more chelating ligands are
+equally applicable and are well-known to those skilled
+in the art. Schematic representation of individual
+pores for microporous oxygen selective membranes
+incorporating TEC's using organized and non-organized
+arrangements are shown in Figure 4.</p><p num="0059">Desirable properties for microporous oxygen
+selective membranes include oxygen permeabilities
+greater than 10<sup>+3</sup> Barrer with selectivities α(O<sub>2</sub>/N<sub>2</sub>)
+over 4. Preferred properties involve oxygen 
+permeabilities over 2 x 10<sup>+3</sup> Barrer with α(O<sub>2</sub>/N<sub>2</sub>)
+greater than 10.</p><p num="0060">Gas selective interactions with pore walls or
+modified pore walls can result in an enhanced transport
+of one or more component by surface diffusion.
+Computer simulation studies have been performed for
+microporous membranes based on a conduit model and
+these include contributions from multiple transport
+pathways (Poisseuille, Knudsen, surface diffusion).
+This model has been utilized to examine separation
+capabilities of microporous oxygen selective membranes
+incorporating TEC units and for comparison with systems
+exhibiting physical adsorption. Transport
+characteristics of the microporous membranes are
+evaluated as a function of surface diffusion
+coefficient, effective site or adsorbate footprint,
+free pore radius, and equilibrium coefficients for
+selective sites. For the purposes of this document,
+the term "footprint" is used to describe the average
+surface area required for each selected gas (adsorbate)
+molecule and hence describes the spacing between
+adsorption sites or regions. Values of TEC footprints
+and equilibrium coefficients for oxygen interaction are
+based on values found in the literature. For non-TEC
+systems, oxygen and nitrogen footprints of 14.1 and
+16.2(Å)<sup>2</sup> were used, and adsorption equilibrium
+parameters are based on known materials. In each case,
+surface diffusion coefficients are based on typical
+values reported in the open literature (10<sup>-4</sup> to 10<sup>-5</sup>
+cm<sup>2</sup>/s) including surface diffusion of carbon dioxide in
+microporous alumina membranes, nitrogen diffusion in 
+graphite powder compacts, and CO<sub>2</sub> or hydrocarbon
+surface transport in porous glass. The use of these
+values for TEC's is reasonably based on studies for the
+diffusion between TEC sites in polymer materials (D<sub>cc</sub> ∼
+10<sup>-7</sup> to 10<sup>-9</sup> cm<sup>2</sup>/s) which includes diffusion within the
+polymer.</p><p num="0061">Specific examples for oxygen describing the
+permeation characteristics of microporous oxygen
+selective membranes containing TEC's obtained using the
+conduit model are shown in Tables 1-4. In these
+particular examples, surface diffusion of nitrogen is
+neglected. <tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Permeation in Microporous Membranes. Influence of Free Pore Diameter, Site Footprint, and Oxygen Surface Diffusion Coefficient.</entry></row><row><entry nameend="6" align="center" namest="1">PERMEATION IN MICROPOROUS MEMBRANES CONDUIT MODEL</entry></row><row><entry nameend="6" align="center" namest="1">Fixed Model Parameters</entry></row><row><entry nameend="2" align="left" namest="1">Temperature 300K</entry><entry nameend="4" align="center" namest="3"/><entry nameend="6" align="left" namest="5">K<sub>14</sub> = 0.05 [kPa<sup>-1</sup>)</entry></row><row><entry nameend="2" align="left" namest="1">O<sub>2</sub> Pressure (kPa)</entry><entry nameend="4" align="left" namest="3">N<sub>2</sub> Pressure (kPa)</entry><entry nameend="6" align="left" namest="5">P<sub>1/2</sub>(O<sub>2</sub>) = 150 torr</entry></row><row><entry align="left" namest="1">Up = 20</entry><entry align="left" namest="2">Down = 1</entry><entry align="left" namest="3">Up = 30</entry><entry align="left" namest="4">Down = 0</entry><entry nameend="6" align="center" namest="5"/></row><row><entry nameend="6" align="center" namest="1">Variable Model Parameters</entry></row><row><entry align="left" namest="1">Free Diameter (Å)</entry><entry align="left" namest="2">Site Footprint (Å)<sup>2</sup></entry><entry nameend="6" align="center" namest="3">Surface Diffusion Coefficient D<sub>1</sub> (cm<sup>2</sup>/sec)</entry></row><row><entry align="center" namest="1"/><entry align="center" namest="2"/><entry nameend="4" align="center" namest="3">1 E-4</entry><entry nameend="6" align="center" namest="5">1 E-5</entry></row><row><entry nameend="6" align="center" namest="1">PURE GAS PERMEATION &amp; SELECTIVITY DATA</entry></row><row><entry align="center"/><entry align="center"/><entry align="center">Py(O<sub>2</sub>) (E+5 barrer)</entry><entry align="center">α(O<sub>2</sub>/N<sub>2</sub>)</entry><entry align="center">Py(O<sub>2</sub>) (E+5 barrer)</entry><entry align="center">α(O<sub>2</sub>/N<sub>2</sub>)</entry></row><row><entry align="center">5.0</entry><entry align="center">100</entry><entry align="center">95.41</entry><entry align="center">100</entry><entry align="center">10.34</entry><entry align="center">10.87</entry></row><row><entry align="right"/><entry align="center">150</entry><entry align="center">63.90</entry><entry align="center">67.1</entry><entry align="center">7.19</entry><entry align="center">7.56</entry></row><row><entry align="center" namest="2">200</entry><entry align="center" namest="3">48.15</entry><entry align="center" namest="4">50.6</entry><entry align="center" namest="5">5.61</entry><entry align="center" namest="6">5.90</entry></row><row><entry align="center" namest="2">250</entry><entry align="center" namest="3">38.70</entry><entry align="center" namest="4">40.7</entry><entry align="center" namest="5">4.67</entry><entry align="center" namest="6">4.91</entry></row><row><entry align="center" namest="2">300</entry><entry align="center" namest="3">32.40</entry><entry align="center" namest="4">34.1</entry><entry align="center" namest="5">4.04</entry><entry align="center" namest="6">4.25</entry></row><row><entry align="center" namest="2">400</entry><entry align="center" namest="3">24.52</entry><entry align="center" namest="4">25.8</entry><entry align="center" namest="5">3.25</entry><entry align="center" namest="6">3.42</entry></row><row><entry align="center">7.5</entry><entry align="center">100</entry><entry align="center">64.34</entry><entry align="center">45.1</entry><entry align="center">7.64</entry><entry align="center">5.35</entry></row><row><entry align="right"/><entry align="center">150</entry><entry align="center">43.34</entry><entry align="center">30.4</entry><entry align="center">5.53</entry><entry align="center">3.88</entry></row><row><entry align="center" namest="2">200</entry><entry align="center" namest="3">32.84</entry><entry align="center" namest="4">23.0</entry><entry align="center" namest="5">4.48</entry><entry align="center" namest="6">3.14</entry></row><row><entry align="center" namest="2">250</entry><entry align="center" namest="3">26.54</entry><entry align="center" namest="4">18.5</entry><entry align="center" namest="5">3.85</entry><entry align="center" namest="6">2.70</entry></row><row><entry align="center" namest="2">300</entry><entry align="center" namest="3">22.34</entry><entry align="center" namest="4">15.6</entry><entry align="center" namest="5">3.43</entry><entry align="center" namest="6">2.41</entry></row><row><entry align="center" namest="2">400</entry><entry align="center" namest="3">17.09</entry><entry align="center" namest="4">12.0</entry><entry align="center" namest="5">2.91</entry><entry align="center" namest="6">2.04</entry></row><row><entry align="center">10.0</entry><entry align="center">100</entry><entry align="center">49.04</entry><entry align="center">25.8</entry><entry align="center">6.50</entry><entry align="center">3.42</entry></row><row><entry align="right"/><entry align="center">150</entry><entry align="center">33.28</entry><entry align="center">17.5</entry><entry align="center">4.93</entry><entry align="center">2.59</entry></row><row><entry align="center" namest="2">200</entry><entry align="center" namest="3">25.41</entry><entry align="center" namest="4">13.4</entry><entry align="center" namest="5">4.14</entry><entry align="center" namest="6">2.18</entry></row><row><entry align="center" namest="2">250</entry><entry align="center" namest="3">20.68</entry><entry align="center" namest="4">10.9</entry><entry align="center" namest="5">3.67</entry><entry align="center" namest="6">1.93</entry></row><row><entry align="center" namest="2">300</entry><entry align="center" namest="3">17.53</entry><entry align="center" namest="4">9.21</entry><entry align="center" namest="5">3.35</entry><entry align="center" namest="6">1.76</entry></row><row><entry align="center" namest="2">400</entry><entry align="center" namest="3">13.59</entry><entry align="center" namest="4">7.14</entry><entry align="center" namest="5">2.96</entry><entry align="center" namest="6">1.56</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Permeation in Microporous Membranes. Influence of Free Pore Diameter, TEC Oxygen Affinity, and Oxygen Surface Diffusion Coefficient.</entry></row><row><entry nameend="6" align="center" namest="1">PERMEATION IN MICROPOROUS MEMBRANES CONDUIT MODEL</entry></row><row><entry nameend="6" align="center" namest="1">Fixed Model Parameters</entry></row><row><entry nameend="2" align="left" namest="1">Temperature 300K</entry><entry nameend="4" align="center" namest="3"/><entry nameend="6" align="center" namest="5"/></row><row><entry nameend="2" align="left" namest="1">O<sub>2</sub> Pressure (kPa)</entry><entry nameend="4" align="left" namest="3">N<sub>2</sub> Pressure (kPa)</entry><entry nameend="6" align="left" namest="5">Site Footprint = 100 (Å)<sup>2</sup></entry></row><row><entry align="left" namest="1">Up = 20</entry><entry align="left" namest="2">Down = 1</entry><entry align="left" namest="3">Up = 30</entry><entry align="left" namest="4">Down = 0</entry><entry nameend="6" align="center" namest="5"/></row><row><entry nameend="6" align="center" namest="1">Variable Model Parameters</entry></row><row><entry align="left" namest="1">Free Diameter (Å)</entry><entry align="left" namest="2">TEC P<sub>1/2</sub>(O<sub>2</sub>) (torr)</entry><entry nameend="6" align="center" namest="3">Surface Diffusion Coefficient D<sub>1</sub> (cm<sup>2</sup>/sec)</entry></row><row><entry align="center" namest="1"/><entry align="center" namest="2"/><entry nameend="4" align="center" namest="3">1 E-4</entry><entry nameend="6" align="center" namest="5">1 E-5</entry></row><row><entry nameend="6" align="center" namest="1">PURE GAS PERMEATION &amp; SELECTIVITY DATA</entry></row><row><entry align="center"/><entry align="center"/><entry align="center">Py(O<sub>2</sub>) (E+5 barrer)</entry><entry align="center">α(O<sub>2</sub>/N<sub>2</sub>)</entry><entry align="center">Py(O<sub>2</sub>) (E+5 barrer)</entry><entry align="center">α(O<sub>2</sub>/N<sub>2</sub>)</entry></row><row><entry align="center">5.0</entry><entry align="center">1.5</entry><entry align="center">33.64</entry><entry align="center">35.38</entry><entry align="center">4.16</entry><entry align="center">4.38</entry></row><row><entry align="right"/><entry align="center">7.5</entry> <entry align="center">95.41</entry><entry align="center">100</entry><entry align="center">10.34</entry><entry align="center">10.87</entry></row> <row><entry align="center" namest="2">75</entry> <entry align="center" namest="3">121.18</entry> <entry align="center" namest="4">127</entry><entry align="center" namest="5">12.92</entry><entry align="center" namest="6">13.58</entry></row><row><entry align="center" namest="2">150</entry><entry align="center" namest="3">95.41</entry><entry align="center" namest="4">100</entry><entry align="center" namest="5">10.34</entry><entry align="center" namest="6">10.87</entry></row><row><entry align="center" namest="2">300</entry><entry align="center" namest="3">65.44</entry><entry align="center" namest="4">68.81</entry><entry align="center" namest="5">7.34</entry><entry align="center"  namest="6">7.72</entry></row><row><entry align="center" namest="2">750</entry><entry align="center" namest="3">33.64</entry><entry align="center" namest="4">35.38</entry><entry align="center" namest="5">4.16</entry><entry align="center"  namest="6">4.38</entry></row><row><entry align="center">7.5</entry><entry align="center">1.5</entry><entry align="center">23.17</entry><entry align="center">16.24</entry><entry align="center">3.52</entry><entry align="center">2.46</entry></row><row><entry align="right"/><entry align="center">7.5</entry><entry align="center">64.34</entry><entry align="center">45.1</entry><entry align="center">7.64</entry><entry align="center">5.35</entry></row><row><entry align="center"  namest="2">75</entry><entry align="center"  namest="3">81.53</entry><entry align="center" namest="4">57.15</entry><entry align="center" namest="5">9.34</entry><entry align="center" namest="6">6.56</entry></row><row><entry align="center" namest="2">150</entry><entry align="center" namest="3">64.34</entry><entry align="center" namest="4">45.1</entry><entry align="center" namest="5">7.64</entry><entry align="center" namest="6">5.35</entry></row><row><entry align="center" namest="2">300</entry><entry align="center" namest="3">44.37</entry><entry align="center" namest="4">31.10</entry><entry align="center" namest="5">5.64</entry><entry align="center" namest="6">3.95</entry></row><row><entry align="center" namest="2">750</entry><entry align="center" namest="3">23.17</entry><entry align="center" namest="4">16.24</entry><entry align="center" namest="5">3.52</entry><entry align="center" namest="6">2.46</entry></row><row><entry align="center">10.0</entry><entry align="center">1.5</entry><entry align="center">18.16</entry><entry align="center">9.54</entry><entry align="center">3.42</entry><entry align="center">1.80</entry></row><row><entry align="right"/><entry align="center">7.5</entry><entry align="center">49.04</entry><entry align="center">25.78</entry><entry align="center">6.50</entry><entry align="center">3.42</entry></row><row><entry align="center" namest="2">75</entry><entry align="center" namest="3">61.93</entry><entry align="center" namest="4">32.55</entry><entry align="center" namest="5">7.79</entry><entry align="center" namest="6">4.10</entry></row><row><entry align="center" namest="2">150</entry><entry align="center" namest="3">49.04</entry><entry align="center" namest="4">25.78</entry><entry align="center" namest="5">6.50</entry><entry align="center" namest="6">3.42</entry></row><row><entry align="center" namest="2">300</entry><entry align="center" namest="3">34.05</entry><entry align="center" namest="4">17.90</entry><entry align="center" namest="5">5.01</entry><entry align="center" namest="6">2.63</entry></row><row><entry align="center" namest="2">750</entry><entry align="center" namest="3">18.16</entry><entry align="center" namest="4">9.54</entry><entry align="center" namest="5">3.42</entry><entry align="center" namest="6">1.80 </entry></row><row><entry align="center">12.5</entry><entry align="center">1.5</entry><entry align="center">15.32</entry><entry align="center">6.44</entry><entry align="center">3.53</entry><entry align="center">1.49</entry></row><row><entry align="right"/><entry align="center">7.5</entry><entry align="center">40.03</entry><entry align="center">16.83</entry><entry align="center">6.00</entry><entry align="center">2.52</entry></row><row><entry align="center" namest="2">75</entry><entry align="center" namest="3">50.34</entry><entry align="center" namest="4">21.17</entry><entry align="center" namest="5">7.04</entry><entry align="center" namest="6">2.96</entry></row><row><entry align="center" namest="2">150</entry><entry align="center" namest="3">40.03</entry><entry align="center" namest="4">16.83</entry><entry align="center" namest="5">6.00</entry><entry align="center" namest="6">2.52</entry></row><row><entry align="center" namest="2">300</entry><entry align="center" namest="3">28.04</entry><entry align="center" namest="4">11.79</entry><entry align="center" namest="5">4.81</entry><entry align="center" namest="6">2.02</entry></row><row><entry align="center" namest="2">750</entry><entry align="center" namest="3">15.32</entry><entry align="center" namest="4">6.44</entry><entry align="center" namest="5">3.53</entry><entry align="center" namest="6">1.49</entry></row><row><entry align="center">15.0</entry><entry align="center">1.5</entry><entry align="center">13.59</entry><entry align="center">4.76</entry><entry align="center">3.76</entry><entry align="center">1.32</entry></row><row><entry align="right"/><entry align="center">7.5</entry><entry align="center">34.17</entry><entry align="center">11.97</entry><entry align="center">5.82</entry><entry align="center">2.04</entry></row><row><entry align="center" namest="2">75</entry><entry align="center" namest="3">42.77</entry><entry align="center" namest="4">14.98</entry><entry align="center" namest="5">6.68</entry><entry align="center" namest="6">2.34</entry></row><row><entry align="center" namest="2">150</entry><entry align="center" namest="3">34.17</entry><entry align="center" namest="4">11.97</entry><entry align="center" namest="5">5.82</entry><entry align="center" namest="6">2.04</entry></row><row><entry align="center" namest="2">300</entry><entry align="center" namest="3">24.18</entry><entry align="center" namest="4">8.47</entry><entry align="center" namest="5">4.82</entry><entry align="center" namest="6">1.69</entry></row><row><entry align="center" namest="2">750</entry><entry align="center" namest="3">13.59</entry><entry align="center" namest="4">4.76</entry><entry align="center" namest="5">3.76</entry><entry align="center" namest="6">1.32</entry></row><row><entry align="center">20.0</entry><entry align="center">1.5</entry><entry align="center">11.75</entry><entry align="center">3.09</entry><entry align="center">4.38</entry><entry align="center">1.15</entry></row><row><entry align="right"/><entry align="center">7.5</entry><entry align="center">27.19</entry><entry align="center">7.14</entry><entry align="center">5.92</entry><entry align="center">1.56</entry></row><row><entry align="center" namest="2">75</entry><entry align="center" namest="3">33.63</entry><entry align="center" namest="4">8.83</entry><entry align="center" namest="5">6.57</entry><entry align="center" namest="6">1.72</entry></row><row><entry align="center" namest="2">150</entry><entry align="center" namest="3">27.19</entry><entry align="center" namest="4">7.14</entry><entry align="center" namest="5">5.92</entry><entry align="center" namest="6">1.56</entry></row><row><entry align="center" namest="2">300</entry><entry align="center" namest="3">19.69</entry><entry align="center" namest="4">5.17</entry><entry align="center" namest="5">5.17</entry><entry align="center" namest="6">1.36</entry></row><row><entry align="center" namest="2">750</entry><entry align="center" namest="3">11.75</entry><entry align="center" namest="4">3.09</entry><entry align="center" namest="5">4.38</entry><entry align="center" namest="6">1.15</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Permeation in Microporous Membranes. Influence of Free Pore Diameter, TEC Oxygen Affinity, and Downstream Oxygen Pressure.</entry></row><row><entry nameend="6" align="center" namest="1">PERMEATION IN MICROPOROUS MEMBRANES CONDUIT MODEL</entry></row><row><entry nameend="6" align="center" namest="1">Fixed Model Parameters</entry></row><row><entry nameend="2" align="left" namest="1">Temperature 300K</entry><entry nameend="4" align="center" namest="3"/><entry nameend="6" align="center" namest="5"/></row><row><entry nameend="2" align="left" namest="1">O<sub>2</sub> Pressure (kPa)</entry><entry nameend="4" align="left" namest="3">N<sub>2</sub> Pressure (kPa)</entry><entry nameend="6" align="left" namest="5">Site Footprint = 100 (Å)<sup>2</sup></entry></row><row><entry align="left" namest="1">Up = 20</entry><entry align="left" namest="2">Down = 0</entry><entry align="left" namest="3">Up = 20</entry><entry align="left" namest="4">Down = 1</entry><entry nameend="6" align="center" namest="5"/></row><row><entry nameend="6" align="center" namest="1">Variable Model Parameters</entry></row><row><entry align="left" namest="1">Free Diameter (Å)</entry><entry align="left" namest="2">TEC P<sub>1/2</sub>(O<sub>2</sub>) (torr)</entry><entry nameend="6" align="center" namest="3">Surface Diffusion Coefficient D<sub>1</sub> (cm<sup>2</sup>/sec)</entry></row><row><entry align="center" namest="1"/><entry align="center" namest="2"/><entry nameend="4" align="center" namest="3">1 E-4</entry><entry nameend="6" align="center" namest="5">1 E-4</entry></row><row><entry nameend="6" align="center" namest="1">PURE GAS PERMEATION &amp; SELECTIVITY DATA</entry></row><row><entry align="center"/><entry align="center"/><entry align="center">Py(O<sub>2</sub>) (E+5 barrer)</entry><entry align="center">α(O<sub>2</sub>/N<sub>2</sub>)</entry><entry align="center">Py(O<sub>2</sub>) (E+5 barrer)</entry><entry align="center">α(O<sub>2</sub>/N<sub>2</sub>)</entry></row><row><entry align="center">5.0</entry><entry align="center">1.5</entry><entry align="center">197.4</entry><entry align="center">207.6</entry><entry align="center">33.64</entry><entry align="center">35.28</entry></row><row><entry align="right"/><entry align="center">7.5</entry><entry align="center">189.9</entry><entry align="center">199.7</entry><entry align="center">95.41</entry><entry align="center">100</entry></row><row><entry align="center" namest="2">75</entry><entry align="center" namest="3">133.2</entry><entry align="center" namest="4">140.1</entry><entry align="center" namest="5">121.18</entry><entry align="center" namest="6">127</entry></row><row><entry align="center" namest="2">150</entry><entry align="center" namest="3">100.1</entry><entry align="center" namest="4">105.3</entry><entry align="center" namest="5">95.41</entry><entry align="center" namest="6">100</entry></row><row><entry align="center" namest="2">300</entry><entry align="center" namest="3">67.05</entry><entry align="center" namest="4">70.51</entry><entry align="center" namest="5">65.44</entry><entry align="center" namest="6">68.81</entry></row><row><entry align="center">7.5</entry><entry align="center">1.5</entry><entry align="center">132.3</entry><entry align="center">92.77</entry><entry align="center">23.17</entry><entry align="center">16.24</entry></row><row><entry align="right"/><entry align="center">7.5</entry><entry align="center">127.4</entry><entry align="center">89.27</entry><entry align="center">64.34</entry><entry align="center">45.1</entry></row><row><entry align="center" namest="2">75</entry><entry align="center" namest="3">89.55</entry><entry align="center" namest="4">62.77</entry><entry align="center" namest="5">81.53</entry><entry align="center" namest="6">57.15</entry></row><row><entry align="center" namest="2">150</entry><entry align="center" namest="3">67.50</entry><entry align="center" namest="4">47.31</entry><entry align="center" namest="5">64.34</entry><entry align="center" namest="6">45.1</entry></row><row><entry align="center">10.0</entry><entry align="center">1.5</entry><entry align="center">100.0</entry><entry align="center">52.58</entry><entry align="center">18.16</entry><entry align="center">9.54</entry></row><row><entry align="right"/><entry align="center">7.5</entry><entry align="center">96.30</entry><entry align="center">50.62</entry><entry align="center">49.04</entry><entry align="center">25.78</entry></row><row><entry align="center" namest="2">75</entry><entry align="center" namest="3">67.94</entry><entry align="center" namest="4">35.71</entry><entry align="center" namest="5">61.93</entry><entry align="center" namest="6">32.55</entry></row><row><entry align="center" namest="2">150</entry><entry align="center" namest="3">51.40</entry><entry align="center" namest="4">27.02</entry><entry align="center" namest="5">49.04</entry><entry align="center" namest="6">25.78</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Permeation in Microporous Membranes. Contributions of Different Pore Sizes to Net Permeation for a Distribution of Free Pore Diameter.</entry></row><row><entry nameend="6" align="center" namest="1">PERMEATION IN MICROPOROUS MEMBRANES CONDUIT MODEL</entry></row><row><entry nameend="6" align="center" namest="1">Fixed Model Parameters</entry></row><row><entry nameend="2" align="left" namest="1">Temperature 300K</entry><entry nameend="4" align="center" namest="3"/><entry nameend="6" align="left" namest="5">K<sub>14</sub> = 0.1 [kPa<sup>-1</sup>)</entry></row><row><entry nameend="2" align="left" namest="1">O<sub>2</sub> Pressure (kPa)</entry><entry nameend="4" align="left" namest="3">N<sub>2</sub> Pressure (kPa)</entry><entry nameend="6" align="left" namest="5">P<sub>1/2</sub>(O<sub>2</sub>) = 75 torr</entry></row><row><entry align="left" namest="1">Up = 20</entry><entry align="left" namest="2">Down = 10</entry><entry align="left" namest="3">Up = 30</entry><entry align="left" namest="4">Down = 40</entry><entry nameend="6" align="center" namest="5"/></row><row><entry nameend="6" align="center" namest="1">Variable Model Parameters</entry></row><row><entry align="left" namest="1">Free Diameter (Å)</entry><entry align="left" namest="2">Site Footprint (Å)<sup>2</sup></entry><entry nameend="6" align="center" namest="3">Surface Diffusion Coefficient D<sub>1</sub> (cm<sup>2</sup>/sec)</entry></row><row><entry align="center" namest="1"/><entry align="center" namest="2"/><entry nameend="4" align="center" namest="3">1 E-4</entry><entry nameend="6" align="center" namest="5">1 E-5</entry></row><row><entry nameend="6" align="center" namest="1">PURE GAS PERMEATION &amp; SELECTIVITY DATA</entry></row><row><entry align="center"/><entry align="center"/><entry align="center">Py(O<sub>2</sub>) (E+5 barrer)</entry><entry align="center">α(O<sub>2</sub>/N<sub>2</sub>)</entry><entry align="center">Py(O<sub>2</sub>) (E+5 barrer)</entry><entry align="center">α(O<sub>2</sub>/N<sub>2</sub>)</entry></row><row><entry align="center">5.0</entry><entry align="center">100</entry><entry align="center">67.05</entry><entry align="center">70.50</entry></row><row><entry align="right"/><entry align="center">100</entry><entry align="right"/><entry align="right"/><entry align="center">7.506</entry><entry align="center">7.892</entry></row><row><entry align="center" namest="2">25%</entry></row><row><entry align="center">10.0</entry><entry align="center">100</entry><entry align="center">34.86</entry><entry align="center">18.32</entry></row><row><entry align="right"/><entry align="center">100</entry><entry align="right"/><entry align="right"/><entry align="center">5.088</entry><entry align="center">2.674</entry></row><row><entry align="center" namest="2">50%</entry></row><row><entry align="center">15.0</entry><entry align="center">100</entry><entry align="center">24.72</entry><entry align="center">8.659</entry></row><row><entry align="right"/><entry align="center">100</entry><entry align="right"/><entry align="right"/><entry align="center">4.875</entry><entry align="center">1.707</entry></row><row><entry align="center" namest="2">20%</entry></row><row><entry align="center">20.0</entry><entry align="center">100</entry><entry align="center">20.10</entry><entry align="center">5.278</entry></row><row><entry align="right"/><entry align="center">100</entry><entry align="right"/><entry align="right"/><entry align="center">5.214</entry><entry align="center">1.369</entry></row><row><entry align="center" namest="2">5%</entry></row><row><entry align="right" namest="2"/><entry nameend="6" align="center" namest="3">For the indicated pore distribution</entry></row><row><entry align="right" namest="2"/><entry align="center" namest="3">40.14</entry><entry align="center" namest="4">20.58</entry><entry align="center" namest="5">5.656</entry><entry align="center" namest="6">2.900</entry></row></tbody></tgroup></table></tables></p><p num="0062">The table reproduced in Table 1 illustrates the
+impact of free pore diameter, site footprint, and
+oxygen surface diffusion coefficient on the oxygen
+permeability and the separation factor α(O<sub>2</sub>/N<sub>2</sub>) of the
+conduit for a synthetic air feed consisting of 20 kPa
+O<sub>2</sub> and 80 kPa N<sub>2</sub>, and with a site affinity coefficient
+of 150 torr. The downstream pressure is set at 1 kPa
+O<sub>2</sub> and 0 kPa N<sub>2</sub>. Simulations for alternative feed and
+product pressures show similar trends. These
+simulations indicate that increasing the TEC footprint 
+or increasing the free pore diameter leads to a
+reduction in oxygen permeability and separation factor
+of the conduit. In addition, it is evident that higher
+surface diffusion coefficients result in increased
+oxygen permeabilities and separation factors. As an
+example, a microporous oxygen selective membrane
+incorporating a close-packed arrangement of TEC's with
+footprint 250(Å)<sup>2</sup> and an oxygen affinity coefficient
+P<sub>1/2</sub>(O<sub>2</sub>), of 150 torr is expected to show a conduit
+permeability of 2.068 X 10<sup>+6</sup> Barrer and a selectivity
+α(O<sub>2</sub>/N<sub>2</sub>) of 10.9 if a surface diffusion coefficient of
+10<sup>-4</sup> cm<sup>2</sup>/s is realized and the free pore diameter is 10Å
+(see Table 1).</p><p num="0063">The conduit model has also been used to examine
+the permeation characteristics of a microporous
+membrane with a synthetic air feed (20 kPa O<sub>2</sub> and 80
+kPa N<sub>2</sub>), a product of 1 kPa oxygen, and using a fixed
+TEC footprint of 100(Å)<sup>2</sup> (see Table 2). At fixed free
+pore diameter, the oxygen permeability and separation
+factor can be optimized by choice of affinity
+coefficient (expressed as P<sub>1/2</sub>(O<sub>2</sub>). It is anticipated
+that the optimum affinity coefficient will be dependent
+on the feed composition and pressure. Table 2 also
+illustrates that high separation factors are
+anticipated for small free pore diameters, high surface
+diffusion coefficients, and small site footprints. As
+an example, a microporous membrane with a free pore
+diameter of 10 (Å)<sup>2</sup>, a P<sub>1/2</sub>(O<sub>2</sub>) of 150 torr and an
+oxygen surface diffusion coefficient of 10<sup>-4</sup> cm<sup>2</sup>/sec,
+with a synthetic air feed of 20 kPa O<sub>2</sub> and 80 kPa N<sub>2</sub> is
+expected to show a conduit oxygen permeability of 4.904 
+x 10<sup>+6</sup> Barrer and α(O<sub>2</sub>/N<sub>2</sub>) of 25.78 based on
+calculations for pure gases.</p><p num="0064">The effect of product pressure on permeation
+characteristics for microporous membranes has been
+examined using a conduit model, and the results are
+presented in Table 3 for a site footprint of 100(Å)<sup>2</sup>
+and an oxygen surface diffusion coefficient of 10<sup>-4</sup>
+cm<sup>2</sup>/s as a function of free pore diameter and P<sub>1/2</sub>(O<sub>2</sub>).
+These studies indicate that there are large differences
+in selectivities α(O<sub>2</sub>/N<sub>2</sub>) for downstream pressures of 1
+kPa and 0 kPa oxygen for cases where the affinity
+coefficient of TEC sites, P<sub>1/2</sub>(O<sub>2</sub>) is low, but that the
+difference is reduced as the P<sub>1/2</sub>(O<sub>2</sub>) approaches or
+exceeds the upstream oxygen pressure.</p><p num="0065">Permeation characteristics predicted using a
+conduit model have so far neglected contributions from
+the surface diffusion of nitrogen. Additional studies
+were performed to evaluate the validity of this
+approaching a TEC footprint of 150 (Å)<sup>2</sup>, a nitrogen
+footprint of 16.2(Å)<sup>2</sup>, surface diffusion coefficients
+of 10<sup>-4</sup> cm<sup>2</sup>/s for oxygen and nitrogen and using free
+pore diameter and nitrogen affinity coefficient as
+variables. The results are shown graphically in Figure
+5 compared to selectivities in the absence of a
+nitrogen interaction. The differences in selectivities
+diminish with increasing free pore diameter or when
+P<sub>1/2</sub>(N<sub>2</sub>) is large. Experimental studies of equilibrium
+properties for adsorbents based on TEC coated
+substrates confirm that nitrogen loadings are low,
+corresponding to large P<sub>1/2</sub>(N<sub>2</sub>). </p><p num="0066">In one of the preferred embodiments, the invention
+involves the reversible chemisorption of oxygen using
+organized TEC sites on a suitable substrate to form a
+microporous membrane. The conduit model described here
+has been utilized to compare permeation characteristics
+for membranes containing TEC's with adsorbent membranes
+incorporating carbonaceous, zeolitic or similar
+coatings as utilized in prior art. The modeling
+studies for non-TEC coatings involve footprints for
+oxygen and nitrogen of 14.1 and 16.2 (Å)<sup>2</sup> respectively
+and surface diffusion coefficients of 10<sup>-4</sup> cm<sup>2</sup>/s. The
+interaction parameters for each adsorbate are based on
+equilibrium properties for known adsorbent materials.
+Selectivities, α(O<sub>2</sub>/N<sub>2</sub>), for membranes exhibiting
+physical adsorption of oxygen and nitrogen are compared
+in Figure 6. In all cases, the selectivity α(O<sub>2</sub>/N<sub>2</sub>) is
+less than 2 which is significantly lower than for
+comparable TEC based materials (see Figure 5). In
+addition, the oxygen permeabilities for microporous
+membranes incorporating surface TEC sites are compared
+with similar materials containing either zeolite or
+carbon coatings in Figure 7. For all conditions
+examined, the permeabilities and selectivities for TEC
+coatings are substantially better than for adsorbent
+membranes containing zeolite or carbon coatings.</p><p num="0067">Since the majority of substrates and coating
+methods do not give uniform pores, the impact of pore
+size distribution has been examined using the conduit
+model. This analysis is based on a pore size
+distribution involving 25% pores with diameter 5Å, 50%
+with diameter 10.0Å, 20% with diameter 15.0Å, and 5% 
+with diameter 20.0Å. The contributions of different
+sized pores to the net permeation is illustrated in
+Table 4 at 300K, with a TEC footprint 100(Å)<sup>2</sup>, P<sub>1/2</sub>(O<sub>2</sub>)
+75 torr, with a synthetic air feed (20 kPa O<sub>2</sub>, 80 kPa
+N<sub>2</sub>) and with a downstream pressure of 10 kPa oxygen and
+40 kPa nitrogen. For an oxygen surface diffusion
+coefficient of 10<sup>-4</sup> cm<sup>2</sup>/s, the selectivity α(O<sub>2</sub>/N<sub>2</sub>)
+20.58 and conduit P(O<sub>2</sub>) is 4.1 x 10<sup>+6</sup> Barrer.</p><p num="0068">It is evident that a small population of larger
+pores can have a large impact on net gas transport and
+obscure contributions from active surface diffusion
+even for highly uniform coatings. Control of pore size
+distribution can be addressed in part by substrate
+selection and synthetic methods. In addition, the use
+of pre- or post-treatment can be used to minimize the
+effects of an unfavorable pore size distribution.</p><p num="0069">The conduit pore model demonstrates that
+microporous membranes incorporating organized oxygen
+selective TEC coatings are capable of higher oxygen
+permeabilities and selectivities than alternative
+coatings which exhibit physical adsorption. The
+permeation characteristics of the microporous oxygen
+selective membranes are dependent on a number of
+features, and best performance is anticipated for small
+free pore diameters less than 25Å, preferable 20Å and
+most preferably less than 15Å with a narrow pore size
+distribution (preferable uniform) involving close-packed
+arrangements of TEC's which possess small site
+footprints preferably less than 200(Å)<sup>2</sup> and most
+preferably less than 100(Å)<sup>2</sup> and high oxygen surface
+diffusion coefficients preferably greater than 1x10<sup>-5</sup> 
+cm<sup>2</sup>/s and more preferably greater than 1x10<sup>-4</sup> cm<sup>2</sup>/s. In
+all cases, the thickness of the separation layer should
+preferably be kept at a minimum (preferable less than
+2000Å and most preferably less than 1000Å). The
+P<sub>1/2</sub>(O<sub>2</sub>) TEC sites and the feed product pressures should
+be optimized for the required separation.</p><p num="0070">The conduit model was developed to describe
+permeation in straight, uniform pores. However,
+adjustments can be made to account for surface porosity
+and to accommodate tortuosity. Where possible,
+microporous oxygen selective membranes with straight
+uniform pores are preferred.</p><p num="0071">One embodiment of the subject invention provides
+highly desirable oxygen-selective microporous membranes
+incorporating supported TEC's preferably in the solid
+phase capable of enhances utilization and sorption
+rates. Thus, the microporous membranes with TEC of the
+invention are highly advantageous for practical
+commercial operations.</p><p num="0072">Although the invention has been described with
+reference to specific embodiments as examples, it will
+be appreciated that it is intended to cover all
+modifications and equivalents within the scope of the
+appended claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A selected gas-selective microporous membrane
+having a surface diffusion of a selected gas using-selective
+sites which are selective at equilibrium
+employing reversible chemisorption and wherein said
+microporous membrane has a pore size of less than about
+25Å; and said selected gas selective sites have a
+footprint of less than about 200(Å)2.</claim-text></claim><claim num="2"><claim-text>The selected gas-selective microporous
+membrane of claim 1 wherein said selected gas is
+selected from the group comprising oxygen, carbon
+dioxide and carbon monoxide.</claim-text></claim><claim num="3"><claim-text>The selected gas-selective microporous
+membrane of claim 2 wherein said selected gas is oxygen
+and said selective sites are transition element complex
+sites.</claim-text></claim><claim num="4"><claim-text>The selected gas-selective microporous
+membrane of claim 2 wherein said microporous membrane
+has a pore size of less than 10Å.</claim-text></claim><claim num="5"><claim-text>The selected gas-selective microporous
+membrane of claim 2 wherein said selective sites have a
+footprint of less than 100(Å)2.</claim-text></claim><claim num="6"><claim-text>The selected gas-selective microporous
+membrane of claim 2 wherein said microporous membrane
+has a selected gas surface diffusion coefficient of
+greater than 1x10-5 cm2/s.</claim-text></claim><claim num="7"><claim-text>The selected-selective microporous membrane
+of claim 2 wherein the thickness of the selected gas-selective
+microporous membrane is less than 2000Å.</claim-text></claim><claim num="8"><claim-text>A process of making a selected gas-selective
+microporous membrane comprising the steps of
+<claim-text><claim-text>(a) forming a microporous membrane having
+pore size of less than 25Å and substantially removing
+any water and any other undesired adsorbed specie;</claim-text><claim-text>(b) preparing a solution containing selected
+gas-selective sites;</claim-text><claim-text>(c) contacting said microporous membrane
+with said solution of step (b) and controlling the
+selective sites in the solution so that said selective
+sites have a footprint of less than about 200(Å)2
+deposited on said microporous membrane; and removing
+the solvent to produce a selective sites coated
+microporous membrane.</claim-text></claim-text></claim-text></claim><claim num="9"><claim-text>A process for making a selected gas-selective
+microporous membrane comprising the preparing of
+selected gas-selective sites in particle form and
+forming a sol-gel membrane with said selective sites
+particles in situ to produce a selected gas-selective
+microporous membrane wherein the membrane has a pore
+size of less than 25Å, and the surface diffusion of the
+selected gas-selective sites have a footprint of less
+than about 200(Å)2.</claim-text></claim><claim num="10"><claim-text>The process of claim 9 wherein said selected
+gas is selected from the group comprising oxygen,
+carbon dioxide and carbon monoxide.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

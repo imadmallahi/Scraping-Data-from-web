@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1236770-A1" country="EP" doc-number="1236770" kind="A1" lang="EN" family-id="8181753" status="new" date-produced="20090516" date="20020904"><bibliographic-data><publication-reference ucid="EP-1236770-A1" status="new" fvid="23540590"><document-id status="new" format="original"><country>EP</country><doc-number>1236770</doc-number><kind>A1</kind><date>20020904</date></document-id></publication-reference><application-reference ucid="EP-01301873-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01301873</doc-number><kind>A</kind><date>20010301</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-01301873-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>01301873</doc-number><kind>A</kind><date>20010301</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C08L  23/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08L  23/08        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08L  23/10        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08L  23/08A1+B2</classification-symbol><classification-symbol scheme="EC">C08L  23/10+B2</classification-symbol><classification-symbol scheme="ICO">M08L205:02</classification-symbol><classification-symbol scheme="ICO">M08L205:06</classification-symbol><classification-symbol scheme="ICO">M08L23:08A1</classification-symbol><classification-symbol scheme="ICO">M08L23:10</classification-symbol><classification-symbol scheme="ICO">M08L314:06</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Polyethylen-Mischungen zum Rotationsgiessen</invention-title><invention-title load-source="ep" status="new" lang="EN">Polyethylene compositions for rotomolding</invention-title><invention-title load-source="ep" status="new" lang="FR">Compositions de polyéthylène utilisées dans le moulage par rotation</invention-title><citations><patent-citations><patcit ucid="AU-2128099-A" status="new"><document-id status="new" format="epo"><country>AU</country><doc-number>2128099</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6111023-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6111023</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>DATABASE WPI Derwent Publications Ltd., London, GB;  AN 1996-045404 XP002172829 &amp; JP 07 309909 A (MITSUI), 28 November 1995 (1995-11-28)</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>BOREALIS TECH OY</name><address><country>FI</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>BOREALIS TECHNOLOGY OY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Borealis Technology Oy</last-name><address><street>P.O.Box 330</street><city>06101 Porvoo</city><country>FI</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>FOLLESTAD ARILD</name><address><country>NO</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>FOSSE KNUT</name><address><country>NO</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>OMMUNDSEN ESPEN</name><address><country>NO</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>FOLLESTAD, ARILD</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>FOSSE, KNUT</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>OMMUNDSEN, ESPEN</name></addressbook></inventor><inventor status="new"  format="original"><addressbook><last-name>FOLLESTAD, ARILD</last-name><address><street>Damstien 10</street><city>3960 Stathelle</city><country>NO</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>FOSSE, KNUT</last-name><address><street>Borgelia 45</street><city>3711 Skien</city><country>NO</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>OMMUNDSEN, ESPEN</last-name><address><street>Postv. 11</street><city>3970 Langesund</city><country>NO</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Campbell, Neil Boyd</last-name><address><street>Frank B. Dehn &amp;amp; Co., 179 Queen Victoria Street</street><city>London EC4V 4EL</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new"  lang="EN"><p>A polymer composition suitable for rotomoulding
+comprising
+<sl><li>I) an ethylene homopolymer or copolymer with at least
+one other C<sub>3-10</sub> α-olefin, having a melt flow rate of 0.5
+to 30, a molecular weight distribution (Mw/Mn) of less
+than 4, an Mw of 50,000 to 110,000, a density of 0.940
+g/cm<sup>3</sup> to 0.970 g/cm<sup>3</sup> and a melting point of 100 to 145°C;
+
+OR</li><li>I) a propylene homopolymer or copolymer with at least
+one other C<sub>2-10</sub> α-olefin, having a melt flow rate of 0.5
+to 30, a molecular weight distribution (Mw/Mn) of less
+than 4, an Mw of 150,000 to 300,000, and a melting point
+of 100 to 170°C;
+
+and</li><li>II) an ethylene homo or copolymer with at least one
+other C<sub>3-10</sub> α-olefin, having a melt flow rate of within
+40% of the melt flow rate of component (I), a molecular
+weight distribution of (Mw/Mn) of less than 4, an Mw of
+within 30% of the Mw of component (I), a density of
+0.880 g/cm<sup>3</sup> to 0.940 g/cm<sup>3</sup> said density being at least
+0.010 g/cm<sup>3</sup> less than the density of component (I) and a
+melting point of at least 5°C less than that of
+component (I);
+
+OR</li><li>II) a propylene homo or copolymer with at least one
+other C<sub>2-10</sub> α-olefin having a melt flow rate of within 40%
+of the melt flow rate of component (I), a molecular
+weight distribution of (Mw/Mn) of less than 4, an Mw of
+within 30% of the Mw of component (I), and a melting
+point of at least 10°C less than that of component (I).</li></sl></p></abstract><description load-source="ep"  status="new"  lang="EN"><p num="0001">This invention relates to the use of a particular
+polymer composition in for example, rotational moulding
+as well as to the polymer composition itself, to
+rotomoulding processes using the same and to rotomoulded
+articles made from the polymer composition. More
+specifically, the invention concerns the use of a
+polymer composition which comprises at least two
+components formed by single site catalysis having
+particular molecular weight distributions, comonomer
+compositions and densities.</p><p num="0002">Rotational moulding is a moulding process in which
+a particulate polymer, the moulding powder, is filled
+into a mould which is placed into an oven and rotated so
+that the polymer melts and coats the inside surface of
+the mould. In order to ensure that the moulded product
+is defect free, the moulding powder must have a
+relatively small particle size and should preferably be
+uniform in particle size and composition. Where, as is
+normal, the moulding powder has to contain colouring
+agents or other additives, e.g. stabilisers, the
+moulding powder is conventionally produced by grinding
+polymer pellets extruded from stabilised reactor grain
+powder to the correct particle size for rotation of
+moulding, usually this the colours or other additives
+being added in with the polymer pellets are mixed into
+the ground and moulding powder.</p><p num="0003">A wide variety of articles may be prepared by
+rotational moulding. In particular rotational moulding
+is used in the manufacture of large objects such as
+liquid containers, e.g. tanks, boats, as well as in a
+large number of household areas, e.g. in the manufacture
+of toys.</p><p num="0004">The nature of the polymer rotomoulded depends very
+much on the nature of the article to be made. For 
+example, if a chemical tank is being made, then the
+polymer used should be one which is not degraded by the
+chemical and one which has particular mechanical
+properties so that the container does not break under
+stress. Polymers used for the manufacture of toys must
+be completely non-toxic and again must be strong to
+prevent breakage. Articles for outdoor use such as
+boats must also be resistant to degradation from by the
+elements, e.g. sunlight, rain, frost or seawater. The
+mechanical properties of the rotomoulding powders are
+therefore critical.</p><p num="0005">Another important property is rheology and it is
+also critical that this is favourable. Rheology is a
+measure of non-Newtonian solid flow and it is crucial
+that flow be within certain limits to ensure that
+product properties are ideal.</p><p num="0006">Moreover, when making objects where a well defined
+shape is required, it is also desired that the eventual
+rotomoulded product does not warp, i.e. that the sides
+of a product remain undistorted.</p><p num="0007">A variety of polymers may be successfully
+rotomoulded although homo and copolymers of ethylene and
+homo and copolymers of propylene may in particular be
+mentioned. However, the nature of the catalyst used to
+make the polymer has a significant bearing on the
+rotomouldability of the polymer.</p><p num="0008">In rotomoulding, polymers produced from single site
+catalysts give rise to products having excellent
+mechanical properties and enable rotomoulding to be
+carried out over a much shorter period of time.
+Polymers produced from single site catalysts tend to
+have a narrow molecular weight distribution and
+copolymers produced from single site catalysts tend to
+have narrow comonomer distribution. These properties
+gives rise to increased environmental stress cracking
+resistance and improvements in other mechanical
+properties. </p><p num="0009">However, the narrow distribution of comonomers as
+compared to a Ziegler-Natta produced polymer, results in
+a much narrower melting and crystallisation behaviour.
+The sharp melting behaviour makes the polymer very
+sensitive to processing temperature and, without wishing
+to be limited by theory, it is believed that this causes
+severe warpage in rotomoulding products. Hence, the
+mechanical property benefits of using a polymer made by
+single site catalysis are offset by increased warpage.</p><p num="0010">Polymers produced using Ziegler-Natta catalysts
+have much broader melting/crystallisation windows than
+polymers made by single site catalysis and hence tend to
+produce rotomoulding products with much less warpage.
+However, due to the broad comonomer distribution and
+broad molecular weight distribution mechanical
+properties, especially ESCR and rheology are not so
+favourable.</p><p num="0011">There still remains therefore, the need to find a
+polymer suitable for rotational moulding that can give
+rise to products having both low warpage and excellent
+rheological and mechanical properties.</p><p num="0012">It has now been surprisingly found that by forming,
+e.g. blending, a particular mix of polymers, preferably
+made by single site catalysis a polymer composition may
+be produced which not only has excellent mechanical and
+rheological properties but also does not warp after
+rotomoulding since its processing window is broadened.
+A blend of polymers having, depending on the monomers
+involved, similar molecular weights and similar melt
+flow rates but different densities, melting points or
+comonomer distributions has surprisingly been found to
+give rise to a composition which shows an overall narrow
+molecular weight distribution and hence excellent
+mechanical and rheological properties and has a
+broadened processing window which eliminates warpage
+normally associated with single site materials.</p><p num="0013">Hence, viewed from one aspect the invention 
+provides a polymer composition suitable for rotomoulding
+comprising
+<sl><li>I) a first ethylene homo or copolymer with at least
+one other C<sub>3-10</sub> α-olefin, having a melt flow rate (MFR) of
+0.5 to 30, preferably 3 to 15, especially 6 to 8, a
+molecular weight distribution (Mw/Mn) of less than 4,
+preferably less than 3.5, especially less than 3, an Mw
+of 50,000 to 110,000, a density of 0.940 g/cm<sup>3</sup> to 0.970
+g/cm<sup>3</sup> and a melting point of 100 to 145°C;
+
+OR</li><li>I) a propylene homo or copolymer with at least one
+other C<sub>2-10</sub> α-olefin, having a melt flow rate of 0.5 to
+30, preferably 3 to 15, especially 6 to 8, a molecular
+weight distribution (Mw/Mn) of less than 4, preferably
+less than 3.5, especially less than 3, an Mw of 150,000
+to 300,000, and a melting point of 100 to 170°C;
+
+and</li><li>II) a second ethylene homo or copolymer with at least
+one other C<sub>3-10</sub> α-olefin, having a melt flow rate of
+within 40%, preferably 20% of the melt flow rate of
+component (I), a molecular weight distribution of
+(Mw/Mn) of less than 4, an Mw of within 30%, preferably
+20% of the Mw of component (I), a density of 0.880 g/cm<sup>3</sup>
+to 0.940 g/cm<sup>3</sup> said density being at least 0.010 g/cm<sup>3</sup>
+less than the density of component (I) and a melting
+point of at least 5°C, preferably at least 10°C less than
+that of component (I);
+
+OR</li><li>II) a propylene homo or copolymer with at least one
+other C<sub>2-10</sub> α-olefin having a melt flow rate of within 
+40%, preferably 20% of the melt flow rate of component
+(I), a molecular weight distribution of (Mw/Mn) of less
+than 4, an Mw of within 30%, preferably 20% of the Mw of
+component (I), and a melting point of at least 10°C less
+than that of component (I).</li></sl></p><p num="0014">Viewed from another aspect the invention provides a
+polymer composition suitable for rotomoulding comprising
+as hereinbefore described wherein said composition has a
+molecular weight distribution (Mw/Mn) of less than 4, an
+Mw of within 30%, preferably 20% of the Mw of component
+(I), and an Mn within 30%, preferably 20% of the Mw of
+component (I).</p><p num="0015">In an especially preferred embodiment, the
+invention provides a polymer composition suitable for
+rotomoulding comprising
+<sl><li>I) an ethylene homopolymer having a melt flow rate of
+0.5 to 30, preferably 3 to 15, especially 6 to 8, a
+molecular weight distribution (Mw/Mn) of less than 4,
+preferably less than 3.5, especially less than 3, an Mw
+of 50,000 to 110,000, a density of 0.940 g/cm<sup>3</sup> to 0.970
+g/cm<sup>3</sup> and a melting point of 100 to 145°C;
+
+and</li><li>II) an ethylene copolymer with at least one C<sub>3-10</sub> α-olefin
+having a melt flow rate of within 40%, preferably
+20% of the melt flow rate of component (I), a molecular
+weight distribution of (Mw/Mn) of less than 4, an Mw of
+within 30%, preferably 20% of the Mw of component (I), a
+density of 0.880 g/cm<sup>3</sup> to 0.940 g/cm<sup>3</sup>, preferably 910
+g/cm<sup>3</sup> to 0.930 g/cm<sup>3</sup> said density being at least 0.010
+g/cm<sup>3</sup> less than the density of component (I) and a
+melting point of at least 10°C less than that of
+component (I).</li></sl></p><p num="0016">Viewed from another aspect the invention provides
+the use of a polymer composition as hereinbefore 
+described in rotomoulding.</p><p num="0017">Viewed from yet another aspect the invention
+provides a process for the preparation of an article
+comprising rotomoulding a composition as herein before
+defined.</p><p num="0018">Viewed from yet another aspect the invention
+provides an article comprising a polymer composition as
+hereinbefore described, especially a rotomoulded
+article.</p><p num="0019">Viewed from yet another aspect the invention
+provides a process for the preparation of a polymer
+composition as hereinbefore described wherein said
+composition is produced in at least two reactors in
+cascade or parallel, e.g. two slurry phase reactors or
+two gas phase reactors, especially a slurry phase
+followed by gas phase reactor.</p><p num="0020">Viewed from another aspect the invention provides a
+a process for the preparation of a polymer composition
+as hereinbefore described comprising blending components
+(I) and (II) in conventional blending apparatus,
+preferably a micropellet extruder.</p><p num="0021">Viewed from another aspect the invention provides a
+a process for the preparation of a polymer composition
+as hereinbefore described said process comprising the
+use of at least two catalysts, preferably metallocene
+catalysts, e.g. a dualsite catalyst preferably a
+dualsite metallocene catalyst.</p><p num="0022">Unless otherwise stated densities are measured
+according to ISO 1183-1987(E). MFR is measured
+according to ISO 1133-1997 (D -for PE/M for PP). The
+melting point of polyethylene is measured by heating the
+polymer from room temperature to 200°C at a heat rate of
+10°C/min. Thee polymer is maintained at 200°C for 5 mins
+and then cooled to -10°C at a cool rate of 10°C/min and
+maintained at -10°C for 1 minute. The polymer is then
+heated to 200°C at a heat rate of 10°C/min and the
+melting point is taken on this second heat run. For 
+polypropylene the procedure is identical except that
+heating takes place to 225°C and cooling is effected to
+20°C. GPC analyses were carried out under the following
+conditions:
+<sl><li>Equipment: Waters 150 CV plus no. 1115</li><li>Detector: Refractive Index (RI) and Viscosity detector
+Calibration: Narrow molecular weight distribution PS
+1. Columns: 3 x HT6E styragel from Waters (140°C).</li></sl></p><p num="0023">Components (I) and (II) may be copolymers of
+ethylene or propylene with at least one other C<sub>2-10</sub>
+α-olefin. Suitable comonomers include ethylene,
+propylene, 1-butene, 1-hexene, 1-octene etc. Clearly,
+ethylene is only a suitable comonomer when the major
+monomer is propylene and propylene is only a suitable
+comonomer where the major monomer is ethylene.
+Diolefins may also be employed as comonomers especially
+those having two terminal double bonds, e.g. butadiene.
+In a preferred embodiment, where component (I) or (II)
+is a copolymer, it is a copolymer of ethylene with
+octene, butene or hexene, especially butene or hexene.</p><p num="0024">Component (I) or (II) may also be a homopolymer of
+propylene having no or only a few crystallinity
+disrupting units, e.g. less than 5 units per 100
+propylene linkages. By crystallinity disrupting units
+it is meant a unit that disrupts the regular structure
+of the polymer, i.e. an atatic unit in syndiotactic or
+isotactic propylene polymers. In one embodiment, both
+components (I) and (II) should be propylene homopolymers
+in which component (I) is preferably a syndiotactic or
+isotactic propylene component and component (II) is
+preferably an amorphous propylene homopolymer. In a
+less preferred embodiment component (I) may be a
+polypropylene homopolymer and component (II) may be a
+propylene copolymer.</p><p num="0025">In another less preferred embodiment both 
+components may be ethylene homopolymers in which
+component (II) comprises a high degree of short chain
+branching.</p><p num="0026">In a final and most preferred embodiment, component
+(I) may be an ethylene homopolymer and component (II)
+may be an ethylene copolymer.</p><p num="0027">The polymer components (I) and (II) should
+preferably have similar melt flow rates, i.e. the melt
+flow rate of component (II) should not differ from the
+melt flow rate of component (I) by greater than 40%,
+e.g. 20%, preferably no more than 10%, especially no
+more than 5%. The melt flow rate of the components
+should be in the range 0.5 to 30, preferably 1 to 20,
+more preferably 3 to 15, e.g. 4 to 10, especially 6 to
+8, most especially about 6. In a highly preferred
+embodiment both components (I) and (II) have a MFR of
+about 6.</p><p num="0028">The melt flow rate of the entire composition should
+also be in the range 0.5 to 30, preferably 1 to 20, more
+preferably 2 to 15, e.g. 4 to 10, especially 6 to 8,
+most especially about 6.</p><p num="0029">The molecular weight distribution (MWD) of both
+components should be approximately the same, e.g. within
+10%, and the MWD must be narrow, e.g. an (Mw/Mn) of less
+than 4, preferably less than 3.5, especially less than
+3. The MWD of the entire composition should also
+preferably be less than 4, especially less than 3.5.</p><p num="0030">Whilst the Mw and Mn ranges may vary within wide
+limits the Mw/Mn ratio remains low, i.e. less than 4.
+In a preferred embodiment the Mw and Mn of both
+components are also similar. For a polyethylene
+homopolymer or copolymer suitable Mw values are in the
+range 50000 to 110000, especially 65000 to 85000. For a
+propylene homopolymer or copolymer suitable Mw values
+are Mw of 150,000 to 300,000. The Mw of component (II)
+should be within 30%, preferably 20% of the Mw of
+component (I). </p><p num="0031">For compositions based on ethylene, the densities
+of the two components should be different, i.e.
+component (II) should have a density at least 0.010
+g/cm<sup>3</sup>, especially 0.020 g/cm<sup>3</sup> different from component
+(I). For ethylene homo and copolymers, preferably
+component (I) should have a density in the range 0.940
+to 0.970 g/cm<sup>3</sup> and component (II) should have a density
+in the range of 0.880 to 0.940 g/cm<sup>3</sup>, preferably in the
+range 0.910 g/cm<sup>3</sup> to 0.930 g/cm<sup>3</sup>, said density preferably
+being at least 0.010 g/cm<sup>3</sup> less than the density of
+component (I).</p><p num="0032">For compositions based on ethylene, the density of
+the entire composition is preferably in the range 0.925
+to 0.50 g/cm<sup>3</sup>, preferably 930 to 0.940 g/cm<sup>3</sup>.</p><p num="0033">The two components must also have different
+crystallinity properties, i.e. components (I) and (II)
+should have different melting points. This may be
+achieved by providing copolymers with differing
+comonomer contents or for a composition containing only
+homopolymers by providing a polymer having differing
+numbers of crystallinity disrupting units (e.g. short
+chain branches).</p><p num="0034">Where component (I) is an ethylene homo or
+copolymer it may have a melting point of 100 to 145°C.
+Where component (I) is a propylene copolymer or
+propylene homopolymer it should have a melting point of
+100 to 170°C.</p><p num="0035">Component (II) should have a melting point which
+differs from that of component (I) by at least 5°C,
+preferably at least 10°C, especially at least 20°C. In
+the case of a propylene homopolymer, component (II) may
+also be amorphous and may therefore have no defined
+melting point.</p><p num="0036">Thus an especially preferred composition according
+to the invention is a composition in which component (I)
+is an ethylene homopolymer having an MFR of 6 to 8, a
+molecular weight distribution of less than 3, an Mw of 
+65,000 to 100,000, an Mn of 20,000 to 60,000, a density
+of 0.945 to 0.970 g/cm<sup>3</sup> and a melting point of 125 to
+135°C; and component (II) is an ethylene copolymer with
+hexene having an MFR of 6 to 8, a molecular weight
+distribution of less than 3, an Mw of 65,000 to 100,000,
+an Mn of 20,000 to 60,000, a density of 0.910 to 0.940
+g/cm<sup>3</sup> and a melting point of 100 to 125°C.</p><p num="0037">In order to prepare the required polymer for
+rotomoulding, components (I) and (II) may be blended
+using conventional blending or compounding technology.
+The components (I) and (II) may be mixed in any
+convenient ratio to ensure that the desired properties
+are obtained. Preferably however, the ratio of
+component (I) to (II) is from 95:5 to 5:95, preferably
+9:1 to 1:9, especially 4:1 to 1:4, more especially 1:2
+to 2:1.</p><p num="0038">Components (I) and (II) may also be used in
+conjunction with other polymers in the blend such as
+rotomoulding polymer grades and some Ziegler-Natta
+polymers. Moreover, it is within the scope of the
+invention to use a further polymer component (III) which
+also has a MWD and MFR similar to components (I) and
+(II) but has a still different comonomer distribution
+hence producing a multimodal comonomer distribution.</p><p num="0039">The polymer composition described above gives rise
+to rotomoulded articles with excellent mechanical and
+rheological properties and low warpage.</p><p num="0040">The components are preferably produced using a
+single site catalyst, e.g. metallocene catalyst or
+potentially a dualsite catalyst. However, where
+component (I) or (II) is a homopolymer Ziegler-Natta
+catalysis may be employed. This is not however,
+preferred. Suitable metallocene catalysts for use in the
+invention may be any conventional metallocene catalyst.
+As used herein, the term metallocene is used to refer to
+all catalytically active metal:η-ligand complexes in
+which a metal is complexed by one, two or more open 
+chain or closed ring η-ligands. The use of bridged bis-η-ligand
+metallocenes, single η-ligand "half
+metallocenes", and bridged η-σ ligand "scorpionate"
+metallocenes is particularly preferred. The metal in
+such complexes is preferably a group 4A, 5A, 6A, 7A or
+8A metal or a lanthanide or actinide, especially a group
+4A, 5A or 6A metal, particularly Zr, Hf or Ti. The η-ligand
+preferably comprises an η<sup>4</sup> or η<sup>5</sup> open chain or an
+η<sup>5</sup>-cyclopentadienyl ring, optionally with a ring or chain
+carbon replaced by a heteroatom (e.g. N, B, S or P),
+optionally substituted by pendant or fused ring
+substituents and optionally linked by bridge (e.g. a 1
+to 4 atom bridge such as (CH<sub>2</sub>)<sub>2</sub>, C(CH<sub>3</sub>)<sub>2</sub> or Si(CH<sub>3</sub>)<sub>2</sub>) to a
+further optionally substituted homo or heterocyclic
+cyclopentadienyl ring. The ring substituents may for
+example be halo atoms or alkyl groups optionally with
+carbons replaced by heteroatoms such as O, N and Si,
+especially Si and O and optionally substituted by mono
+or polycyclic groups such as phenyl or naphthyl groups.
+Suitable η-ligands, include those of formula II
+discussed above. Examples of such homo or heterocyclic
+cyclopentadienyl ligands are well known in the art (see
+e.g. EP-A-416815, WO96/04290, EP-A-485821, EP-A-485823,
+US-A-5276208 and US-A-5145819).</p><p num="0041">Besides the η-ligand, the metallocene complex used
+according to the invention may include other ligands;
+typically these may be halide, hydride, alkyl, aryl,
+alkoxy, aryloxy, amide, carbamide or other two electron
+donor groups. Any hydrocarbyl ligand here will
+generally contain up to 20 carbons, preferably up to 10
+carbons, e.g. up to 6 carbons.</p><p num="0042">Metallocene catalysts are conventionally employed
+in the presence of a cocatalyst. Suitable cocatalysts
+are well known and include alkyl metal compounds, in
+particular alumoxanes. Suitable alumoxanes include C<sub>1-10</sub>
+alkyl alumoxanes, e.g. methyl alumoxane (MAO) and
+isobutyl alumoxanes (e.g. tetra and hexaisobutyl 
+alumoxane, TIBAO and HIBAO), especially MAO. Alumoxane
+co-catalysts are described by Hoechst in WO-A-94/28034.
+These are considered cyclic or cage like oligomers
+having up to 40, preferably 3 to 20, -[Al(R")O]- repeat
+units (where R" is hydrogen, C<sub>1-10</sub> alkyl, preferably
+methyl, or C<sub>6-18</sub> aryl or mixtures thereof).</p><p num="0043">If desired the metallocene or metallocene/cocatalyst
+mixture may be used in unsupported form or it
+may be precipitated and used as such. However the
+metallocene or its reaction product with the cocatalyst
+is preferably introduced into the polymerization reactor
+in supported form, e.g. impregnated into a porous
+particulate support, as is well known in the art.</p><p num="0044">The particulate support material used is preferably
+an organic or inorganic material, e.g. a polymer (such
+as for example polyethylene, polypropylene, an ethylene-propylene
+copolymer, another polyolefin or polystyrene
+or a combination thereof). Such polymeric supports may
+be formed by precipitating a polymer or by a
+prepolymerization, eg of monomers used in the
+polymerization for which the catalyst is intended.
+However, the support is especially preferably a metal or
+pseudo metal oxide such as silica, alumina or zirconia
+or a mixed oxide such as silica-alumina, in particular
+silica, alumina or silica-alumina.</p><p num="0045">Especially preferably the support is a porous
+material so that the metallocene may be loaded into the
+pores of the support, e.g. using a process analogous to
+those described in WO94/14856 (Mobil), WO95/12622
+(Borealis) and WO96/00243 (Exxon). The particle size is
+not critical but is preferably in the range 5 to 200 µm,
+more preferably 10 to 80 µm.</p><p num="0046">Before loading, the particulate support material is
+preferably calcined, i.e. heat treated, preferably under
+a non-reactive gas such as nitrogen. This treatment is
+preferably at a temperature in excess of 100°C, more
+preferably 200°C or higher, e.g. 200-800°C, particularly 
+about 300°C. The calcination treatment is preferably
+effected for several hours, e.g. 2 to 30 hours, more
+preferably about 10 hours.</p><p num="0047">A cocatalyst, e.g. an alumoxane or an ionic
+catalyst activator (such as a boron or aluminium
+compound, especially a fluoroborate) may also be mixed
+with or loaded onto the catalyst support material. This
+may be done subsequently or more preferably
+simultaneously to loading of the metallocene, for
+example by including the cocatalyst in the solution of
+the metallocene or, by contacting the metallocene loaded
+support material with a solution of the cocatalyst or
+catalyst activator, e.g. a solution in an organic
+solvent. Alternatively however, any such further
+material may be added to the metallocene loaded support
+material in the polymerization reactor or shortly before
+dosing of the catalyst material into the reactor.</p><p num="0048">In this regard, as an alternative to an alumoxane
+it may be preferred to use a fluoroborate catalyst
+activator, especially a B(C<sub>6</sub>F<sub>5</sub>)<sub>3</sub> or more especially a
+⊖B(C<sub>6</sub>F<sub>5</sub>)<sub>4</sub> compound, such as C<sub>6</sub>H<sub>5</sub>N(CH<sub>3</sub>)<sub>2</sub>H:B(C<sub>6</sub>F<sub>5</sub>)<sub>4</sub> or
+(C<sub>6</sub>H<sub>5</sub>)<sub>3</sub>C:B(C<sub>6</sub>F<sub>5</sub>)<sub>4</sub>. Other borates of general formula
+(cation<sup>+</sup>)<sub>a</sub> (borate<sup>-</sup>)<sub>b</sub> where a and b are positive numbers,
+may also be used.</p><p num="0049">Both components (I) and (II) may be prepared
+simultaneously using a dualsite catalyst, i.e. a
+catalyst carrying two active metallocene sites on a
+single support, one site designed to give a component
+(I) and the other designed to give component (II).</p><p num="0050">The polymerisation is typically conducted in the
+presence of a diluent. As a diluent, a linear, branched
+or cyclic saturated hydrocarbon such as butane, propane,
+pentane, hexane, heptane, octane, cyclohexane or
+methylcyclohexane may be used.</p><p num="0051">Polymerisation to produce the polymer for use in
+the invention may take place in the slurry, solution or
+gas phase. Slurry phase polymerisation can be conducted 
+under standard slurry conditions.</p><p num="0052">For slurry reactors, the reaction temperature will
+generally be in the range 60 to 110°C (e.g. 80-110°C),
+the reactor pressure will generally be in the range 5 to
+80 bar (e.g. 25-65 bar), and the residence time will
+generally be in the range 0.3 to 5 hours (e.g. 0.5 to 2
+hours). The diluent used will generally be an aliphatic
+hydrocarbon having a boiling point in the range -70 to
++100°C, especially isobutane or propane.</p><p num="0053">For solution phase reactors, the reaction
+temperature used will generally be in the range 130 to
+270°C, the reactor pressure will generally be in the
+range 20 to 400 bar and the residence time will
+generally be in the range 0.1 to 1 hour. The solvent
+used will commonly be a hydrocarbon with a boiling point
+in the range 80-200°C.</p><p num="0054">For gas phase reactors, the reaction temperature
+used will generally be in the range 60 to 115°C (e.g. 70
+to 110°C), the reactor pressure will generally be in the
+range 10 to 25 bar, and the residence time will
+generally be 1 to 8 hours. The gas used will commonly
+be a non-reactive gas such as nitrogen together with
+monomer (e.g. ethylene).</p><p num="0055">In order to ensure that copolymer particles are in
+the correct size for rotational moulding the products of
+any polymerisation reaction may be converted to powder
+form or pelletized to a particle size of approximately
+0.1 to 0.5 mm, preferably 0.3 mm using standard
+technology. Hence, suitably sized pellets may be
+prepared by grinding.</p><p num="0056">Alternatively micropellets may be produced using
+the technique described in WO 00/35646 which is hereby
+incorporated by reference. By this method a mixture of
+polyolefin and optionally at least one additive is
+extruded in melt form through a die and pelletised to
+give particles having a particular size distribution.
+The particles are then dried to very low levels of 
+moisture to improve rotomouldability.</p><p num="0057">Alternatively, the polymerisation, using a dualsite
+or multisite catalyst, can be set up such that the
+reactor powder is suitable for use without further
+manipulation. In one embodiment of the invention
+rotomoulding may be carried out by combining polymer
+powder with a masterbatch of UV-stabiliser-loaded
+polyolefin powder in line with the teaching of
+WO00/11065 which is hereby incorporated by reference.</p><p num="0058">The polymer powder or pellets can comprise any
+standard additives e.g. one or more selected from
+colouring agents, stabilisers, antioxidants, UV-absorbers,
+anti-static agents, lubricants and fillers.</p><p num="0059">Rotational moulding may take place under standard
+conditions. The polymer powder is placed in the mould
+which is then transferred to an oven and rotated,
+preferably about two axes to distribute the polymer
+powder over the hot surfaces of the mould. The heating
+cycle is continued until all of the powder has melted
+and formed a thick, continuous layer within the mould.
+The mould is then removed from the oven and cooled until
+the resin has solidified. The moulded part is then
+removed.</p><p num="0060">The length of time which the mould must be heated
+depends on the nature of the article being moulded, the
+amount of resin present and the temperature of the oven.
+Typical rotomoulding temperatures are 230°C to 350°C,
+more particularly 260°C to 320°C. Heating time is chosen
+such that the inner air temperature in the mould is
+160°C to 300°C, more preferably 170°C to 250°C. This
+temperature can be measured using a Rotolog® or similar
+equipment to monitor the temperature or it may be chosen
+based on previous experience. Cooling may be carried
+out under a stream of air, water spray or mist or simply
+in ambient air at room temperature. A combination of
+these methods may also be employed. Preferably cooling
+is achieved using a combination of blown air followed by 
+ambient air or just blown air. Cooling times are
+normally of similar magnitude to heating times or
+slightly longer. Slow cooling reduces the amount of
+warpage present in a rotomoulded article however, it is
+a purpose of the invention to provide polymer
+compositions which can be cooled more rapidly without
+increases in warpage compared to conventional single
+site polymers. The moulded tank may be removed from its
+mould at any convenient time although it is preferred if
+it is removed when it has cooled to a temperature of
+60°C to 100°C.</p><p num="0061">The skilled artisan is able to manipulate the
+temperature, time and rotation speed/ratio within a
+rotomoulding apparatus to ensure that well-formed
+moulded articles are produced.</p><p num="0062">Particularly preferred rotomoulding conditions are
+Rotation Speed 9/1.4 RPM; heating for 13 minutes in oven
+at 270°C; fan assisted cooling for 10 minutes followed
+by ambient air cooling for 6 minutes.</p><p num="0063">The polymer composition of the invention may also
+have utility outside the field of rotomoulding. It is
+envisaged that the composition may give benefits in
+thermoforming due to the broadened processing window
+which the polymers exhibit. In particular polymer
+compositions of this type may be useful in the
+replacement of PVC. The polymer compositions may also
+be useful in film and injection moulding applications
+and this forms a yet further aspect of the invention.</p><p num="0064">The invention will now be further illustrated with
+reference to the following non-limiting examples and
+figures. </p><heading><b>Example 1</b></heading><p num="0065">Two polymer components A and B were prepared as
+described in Annex 1 below. The catalyst used was made
+from (nBu-Cp)ZrCl2 and MAO impregnated on a support of
+calcined silica. Polymerisations took place in a bench
+scale semibatch reactor with hydrogen premixed in
+Component A is an ethylene homopolymer made from a
+single site catalyst having a density of 0.957 g/cm<sup>3</sup>, an
+Mw of 77000, an Mn of 28000 giving a Mw/Mn of 2.7, a
+melting point of 132°C and a MFR of 6.</p><p num="0066">Component B is an ethylene/hexene copolymer having a
+density of 0.923 g/cm<sup>3</sup>, a Mw of 67000 and Mn of 31000
+giving an Mw/Mn of 2.1, an MFR of 8 and a melting point
+of 120°C. These components were compounded together,
+optionally with further polyethylene reactor powders,
+RP1 and RP2 having a density of 0.934 g/cm<sup>3</sup> and an MFR of
+6 or a density of 0.939 g/cm<sup>3</sup> and an MFR of 6
+respectively. The polymer blend was completed by the
+addition of an antioxidant and a slip agent.</p><p num="0067">The polymer blends prepared are shown in Table 1 below:
+<tables><table><tgroup cols="5"><tbody><row><entry align="left">Sample</entry><entry align="left">Comp. A</entry><entry align="left">RP1</entry><entry align="left">RP2</entry><entry align="left">Comp. B</entry></row><row><entry align="left">934Y</entry><entry align="left">18%</entry><entry align="left">25%</entry><entry align="left">57%</entry><entry align="left">-</entry></row><row><entry align="left">934A</entry><entry align="left">64%</entry><entry align="left">-</entry><entry align="left">-</entry><entry align="left">36%</entry></row><row><entry align="left">934B</entry><entry align="left">32%</entry><entry align="left">50%</entry><entry align="left">-</entry><entry align="left">18%</entry></row><row><entry align="left">934C</entry><entry align="left">16%</entry><entry align="left">75%</entry><entry align="left">-</entry><entry align="left">9%</entry></row><row><entry align="left">934D</entry><entry align="left">8%</entry><entry align="left">87.5%</entry><entry align="left">-</entry><entry align="left">4.5%</entry></row><row><entry align="left">934Ref</entry><entry align="left">-</entry><entry align="left">100%</entry><entry align="left">-</entry><entry align="left">-</entry></row></tbody></tgroup></table></tables></p><p num="0068">All blends were made to a total of 4 kg which resulted
+in approximately 3.8 kg of granules. These blends were 
+then ground leaving at least 2.8 kg of powder. The
+overall density of each blend was 0.934 g/cm<sup>3</sup>, except
+934Y which had a density of 0.940 g/cm<sup>3</sup>.</p><p num="0069">In addition, some commercially available polymer grades
+were readied for rotomoulding.</p><p num="0070">RM 8403, an ethylene/hexene copolymer available from
+Borealis A/S, is a polymer produced from a metallocene
+catalyst having the following properties: Mw=75000,
+Mn=34000, MWD=2.2, MFR 6, density 940 g/cm<sup>3</sup>, melting
+point 125°C, heat of fusion 194 J/g, cryst Temp 110°C,
+heat of cryst -158 J/g.</p><p num="0071">RM 8343, an ethylene/hexene copolymer available from
+Borealis A/S, is a polymer produced from a metallocene
+catalyst having the following properties: Mw 76000,
+Mn=34000, MWD=2.2 MFR 6, density 934 g/cm<sup>3</sup>, melting point
+123°C, heat of fusion 176 J/g, cryst Temp 108°C, heat of
+cryst -156 J/g.</p><p num="0072">ME8152, an ethylene/butene copolymer available from
+Borealis A/S, is a polymer produced from a Ziegler-Natta
+catalyst having the following properties: Mw 101000, Mn
+25000, MWD 4.1, MFR 3.5, density 934 g/cm<sup>3</sup>, melting point
+125°C, heat of fusion 180 J/g, cryst Temp 110°C.</p><p num="0073">The properties of each blend are further explained in
+the table below <tables><table><tgroup cols="7"><tbody><row><entry align="center"/><entry align="left">934ref</entry><entry align="left">934A</entry><entry align="left">934B</entry><entry align="left">934C</entry><entry align="left">934D</entry><entry align="left">934Y</entry></row><row><entry align="left">Density</entry><entry align="left">935.1</entry><entry align="left">934.9</entry><entry align="left">935.3</entry><entry align="left">935.3</entry><entry align="left">934.6</entry><entry align="left">940.6</entry></row><row><entry align="left">Melt pt</entry><entry align="left">123.4</entry><entry align="left">127</entry><entry align="left">125</entry><entry align="left">124.4</entry><entry align="left">123.7</entry><entry align="left">127</entry></row><row><entry align="left">heat of fusion</entry><entry align="left">163</entry><entry align="left">163</entry><entry align="left">164</entry><entry align="left">164</entry><entry align="left">160</entry><entry align="left">182</entry></row><row><entry align="left">cryst T</entry><entry align="left">109</entry><entry align="left">112.3</entry><entry align="left">110.6</entry><entry align="left">110</entry><entry align="left">109.6</entry><entry align="left">112.6</entry></row><row><entry align="left">heat of cryst</entry><entry align="left">-155</entry><entry align="left">-151</entry><entry align="left">-153</entry><entry align="left">-154</entry><entry align="left">-148</entry><entry align="left">-173</entry></row></tbody></tgroup></table></tables></p><heading><b>Example 2</b></heading><p num="0074">Samples were rotomoulded under one or more of the
+following sets of conditions to form boxes.</p><heading><b>Rotomoulding Serial 1</b></heading><p num="0075">No preheating; Rotation Speed 9/1.4 RPM; heating for 13
+minutes in oven at 270°C; fan assisted cooling for 10
+minutes followed by 6 minutes ambient cooling in the
+absence of a fan. 700 g of polymer employed; Max mould
+temperature 227°C, mould temperature at start 35°C.</p><heading><b>Rotomoulding Serial 3</b></heading><p num="0076">Mould was preheated to 60°C; Rotation Speed 4/2; heating
+for 13 minutes in oven at 270°; fan assisted cooling for
+30 minutes. 700 g of polymer employed; Max mould
+temperature 227°C, mould temperature at start 60°C.</p><p num="0077">The boxes resulting from the rotomoulding were cubes
+having sides of approximately 20 cm. The edges of the
+boxes were trimmed. </p><heading><b>Example 3</b></heading><p num="0078">Warpage of the rotomoulded boxes was measured on five of
+the six cube walls (not the top wall). A ruler with a
+micrometer was used diagonally on each side of the box.
+Results are depicted in Table 2 relative to results
+achieved with ME8152.
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Box</entry><entry align="left">Average Warpage</entry></row><row><entry align="left">ME8152 - Roto Serial 3</entry><entry align="left">100%</entry></row><row><entry align="left">ME8152 - Roto Serial 1</entry><entry align="left">66%</entry></row><row><entry align="left">RM8343 - Roto Serial 3</entry><entry align="left">143%</entry></row><row><entry align="left">RM8343 - Roto Serial 1</entry><entry align="left">92%</entry></row><row><entry align="left">934A - Roto Serial 3</entry><entry align="left">72%</entry></row><row><entry align="left">934A - Roto Serial 1</entry><entry align="left">38%</entry></row></tbody></tgroup></table></tables></p><p num="0079">These results are graphically depicted in Figure 1.</p><heading><b>Example 4</b></heading><p num="0080">Thickness variation in the walls of the boxes was
+measured by taking five wall thickness measurements from
+each side of the boxes. Average thickness variation is
+standard deviation for all points of each box relative
+to ME8152. The results are depicted in Table 3 below.
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Box</entry><entry align="left">Thickness variation</entry></row><row><entry align="left">ME8152 - Roto Serial 3</entry><entry align="left">100%</entry></row><row><entry align="left">ME8152 - Roto Serial 1</entry><entry align="left">38%</entry></row><row><entry align="left">RM8343 - Roto Serial 3</entry><entry align="left">115%</entry></row><row><entry align="left">RM8343 - Roto Serial 1</entry><entry align="left">33%</entry></row><row><entry align="left">934A - Roto Serial 3</entry><entry align="left">53%</entry></row><row><entry align="left">934A - Roto Serial 1</entry><entry align="left">59%</entry></row></tbody></tgroup></table></tables></p><p num="0081">The data collected to obtain these results is shown in
+the attached Annex 2 in which 9_1.4 std represents
+rotomoulding Serial 1 and 4_2 full cool represents
+rotomoulding serial 3.</p><heading><b>Discussion</b></heading><p num="0082">Blends with the broadest comonomer distribution have
+significantly less warpage and thickness variation than
+the reference materials. Moreover, an analysis of the
+crystal lattice structure of 934A reveals a much finer
+crystal structure which should make the material more
+robust to morphological changes. The appearance of the
+boxes made with 934A was also improved and fewer air
+bubbles are formed in the rotomoulded article.</p><heading><b>Example 5</b></heading><p num="0083">Mechanical Properties. The following tests were
+employed to test the mechanical properties of the boxes
+produced.
+<sl><li>Tensile Modulus: ISO527-1 (1993)</li><li>Instrument Falling Weight (IFW) ISO 6603-2: 1989</li></sl></p><p num="0084">Circular disks with diameter 60 mm are used with a
+hemispherical striker of mass 10 kg and 20 mm diameter.
+Falling height 1 m at a velocity of 4.4m/s at -20°C.
+Rupture was ductile.</p><heading>ESCR - ASTM D1693-97/ISO 1872-2: 1997</heading><p num="0085">Standardised specimens are notched and stressed before
+being lowered into a solution of detergent at 50°C.
+(Detergent 10% Antarox (Igepal) CO-630. Specimen
+thickness 2 mm. Examination every 4 hours and 
+calculation is based on probability of 50% broken
+samples.</p><heading>Density - ISO 1183: 1987</heading><p num="0086"><tables><table><tgroup cols="12"><tbody><row><entry nameend="2" align="left" namest="1">Mechanical data:</entry><entry align="center" namest="3"/><entry align="left" namest="4">934- Ref</entry><entry align="left" namest="5">934- A</entry><entry align="left" namest="6">934- B</entry><entry align="left" namest="7">934- C</entry><entry align="left" namest="8">934 -D</entry><entry align="left" namest="9">934 -Y</entry><entry align="left" namest="10">RM8343</entry><entry align="left" namest="11">RM8403</entry><entry align="left" namest="12">ME8152</entry></row><row><entry align="left">ESCR</entry><entry align="left">10% F50</entry><entry align="right"/><entry align="right">33</entry><entry align="right">24</entry><entry align="right">21</entry><entry align="right">25</entry><entry align="right">36</entry><entry align="right">10</entry></row><row><entry align="left">Series 1</entry> </row><row><entry align="left">9/1,4 13-10-6</entry></row><row><entry align="left"><b>Tensile properties</b></entry> <entry align="left">Tensile modulus</entry> <entry align="left">Mpa</entry> <entry align="right">620</entry><entry align="right">680</entry><entry align="right">660</entry><entry align="right">650</entry><entry align="right">620</entry><entry align="right">800</entry><entry align="right">585</entry><entry align="right">710</entry><entry align="right">600</entry></row><row><entry align="left"/><entry align="left">Stress at yield</entry><entry align="left">Mpa</entry><entry align="right">18</entry><entry align="right">18</entry><entry align="right">18</entry><entry align="right">18</entry><entry align="right">18</entry><entry align="right">21,5</entry><entry align="right">17,5</entry><entry align="right">20</entry><entry align="right">17</entry></row><row><entry align="left"/><entry align="left">Strain at yield</entry><entry align="left">%</entry><entry align="right">13</entry><entry align="right">11</entry><entry align="right">12</entry><entry align="right">12</entry><entry align="right">12</entry><entry align="right">11</entry><entry align="right">13</entry><entry align="right">12</entry><entry align="right">13</entry></row><row><entry align="left"><b>FWI at-20°C</b></entry><entry align="left">Max force</entry><entry align="left">N/mm</entry><entry align="right">1430</entry><entry align="right">1390</entry><entry align="right">1400</entry><entry align="right">1410</entry><entry align="right">1410</entry><entry align="right">1470</entry><entry align="right">1425</entry><entry align="right">1490</entry><entry align="right">1310</entry></row><row><entry align="left"/><entry align="left">Total energy at break</entry><entry align="left">J</entry><entry align="right">19</entry><entry align="right">19</entry><entry align="right">19</entry><entry align="right">19</entry><entry align="right">19</entry><entry align="right">19</entry><entry align="right">19</entry><entry align="right">20</entry><entry align="right">15</entry></row><row><entry align="left"/><entry align="left">Total deformation</entry><entry align="left">mm</entry><entry align="right">24</entry><entry align="right">24</entry><entry align="right">24</entry><entry align="right">25</entry><entry align="right">24</entry><entry align="right">23</entry><entry align="right">24</entry><entry align="right">23</entry><entry align="right">22</entry></row><row><entry align="left"><b>Density</b></entry><entry align="right"/><entry align="right"/><entry align="right">937,2</entry><entry align="right">937,4</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">936</entry><entry align="right"/><entry align="right">933,4</entry></row><row><entry align="left">Series 2</entry></row><row><entry align="left">9/1,4 13-30</entry></row><row><entry align="left"><b>Tensile properties</b></entry><entry align="left">Tensile modulus</entry><entry align="left">Mpa</entry><entry align="right">630</entry><entry align="right">670</entry><entry align="right">630</entry><entry align="right"/><entry align="right"/><entry align="right">755</entry><entry align="right"/><entry align="right">740</entry><entry align="right">610</entry></row><row><entry align="left"/><entry align="left">Stress at yield</entry><entry align="left">Mpa</entry><entry align="right">18</entry><entry align="right">18</entry><entry align="right">18</entry><entry align="right"/><entry align="right"/><entry align="right">21</entry><entry align="right"/><entry align="right">20,5</entry><entry align="right">17</entry></row><row><entry align="left"/><entry align="left">Strain at yield</entry><entry align="left">%</entry><entry align="right">12</entry><entry align="right">11</entry><entry align="right">12</entry><entry align="right"/><entry align="right"/><entry align="right">11</entry><entry align="right"/><entry align="right">13</entry><entry align="right">13</entry></row><row><entry align="left"><b>FWI at-20°C</b></entry><entry align="left">Max force</entry><entry align="left">N/mm</entry><entry align="right">1440</entry><entry align="right">1420</entry><entry align="right">1420</entry><entry align="right"/><entry align="right"/><entry align="right">1470</entry><entry align="right"/><entry align="right">1480</entry><entry align="right">1320</entry></row><row><entry align="left"/><entry align="left">Total energy at break</entry><entry align="left">J</entry><entry align="right">19</entry><entry align="right">19</entry><entry align="right">19</entry><entry align="right"/><entry align="right"/><entry align="right">19</entry><entry align="right"/><entry align="right">18</entry><entry align="right">16</entry></row><row><entry align="left"/><entry align="left">Total deformation</entry><entry align="left">mm</entry><entry align="right">24</entry><entry align="right">24</entry><entry align="right">24</entry><entry align="right"/><entry align="right"/><entry align="right">23</entry><entry align="right"/><entry align="right">23</entry><entry align="right">22</entry></row><row><entry align="left">Series 3</entry></row><row><entry align="left">4/2 13/30</entry></row><row><entry align="left"><b>Tensile properties</b></entry><entry align="left">Tensile modulus</entry><entry align="left">Mpa</entry><entry align="right">640</entry><entry align="right">700</entry><entry align="right">670</entry><entry align="right">680</entry><entry align="right">645</entry><entry align="right">795</entry><entry align="right">615</entry><entry align="right">705</entry><entry align="right">600</entry></row><row><entry align="left"/><entry align="left">Stress at yield</entry><entry align="left">Mpa</entry><entry align="right">18</entry><entry align="right">18</entry><entry align="right">18</entry><entry align="right">18,5</entry><entry align="right">18</entry><entry align="right">22</entry><entry align="right">17,5</entry><entry align="right">20</entry><entry align="right">16,5</entry></row><row><entry align="left"/><entry align="left">Strain at yield</entry><entry align="left">%</entry><entry align="right">11,5</entry><entry align="right">11</entry><entry align="right">12</entry><entry align="right">12,5</entry><entry align="right">12</entry><entry align="right">11</entry><entry align="right">12,5</entry><entry align="right">12,5</entry><entry align="right">11</entry></row><row><entry align="left"><b>FWI at-20°C</b></entry><entry align="left">Max force</entry><entry align="left">N/mm</entry><entry align="right">1220</entry><entry align="right">1190</entry><entry align="right">1190</entry><entry align="right">1210</entry><entry align="right">1210</entry><entry align="right">1270</entry><entry align="right">1200</entry><entry align="right">1260</entry><entry align="right">1100</entry></row><row><entry align="left"/><entry align="left">Total energy at break</entry><entry align="left">J</entry><entry align="right">17</entry><entry align="right">17</entry><entry align="right">17</entry><entry align="right">17</entry><entry align="right">17</entry><entry align="right">17</entry><entry align="right">16</entry><entry align="right">16</entry><entry align="right">13</entry></row><row><entry align="left"/><entry align="left">Total deformation</entry><entry align="left">mm</entry><entry align="right">24</entry><entry align="right">25</entry><entry align="right">24</entry><entry align="right">24</entry><entry align="right">24</entry><entry align="right">24</entry><entry align="right">24</entry><entry align="right">24</entry><entry align="right">23</entry></row><row><entry align="left"><b>Density</b></entry><entry align="right"/><entry align="right"/><entry align="right">936,8</entry><entry align="right">937</entry><entry align="right">9</entry><entry align="right"/><entry align="right"/><entry align="right"/><entry align="right">935,7</entry><entry align="right"/><entry align="right">927,5</entry></row></tbody></tgroup></table></tables></p><p num="0087">934Y has the most favourable tensile and impact
+properties but has lower ESCR. Overall, compositions of
+the invention show improved warpage, stiffness,
+morphology and comparable or improved ESCR. Grade 934A
+ha also been found to have increased high temperature
+stiffness.</p><heading><b>Example 6</b></heading><p num="0088">The warpage and thickness data for rotomoulding serial 1
+with all blends is displayed in Annex 3 directly and in
+comparison to RM8343. Data for serial 3 is displayed in
+Annex 4 directly and in comparison to RM8343. These
+results are graphically depicted in Figure 2.</p><p num="0089">As will be seen, the warpage results for the
+compositions 934Y, 934A, 934B, 934C and 934 D are better 
+than the results obtained using the available commercial
+grades.</p><heading><b>Example 7</b></heading><p num="0090">The following metallocenes are used in this example.
+Me<sub>2</sub>Si(9Flu)<sub>2</sub>ZrCl<sub>2</sub> (A-metallocene) which produces
+amorphous atatic polypropylene and rac Me<sub>2</sub>Si(2MeIndenyl)<sub>2</sub>
+ZrCl<sub>2</sub> (B-metallocene) which produces isotactic
+polypropylene. These catalysts are available from
+Boulder.</p><heading><b>Dualsite catalyst preparation</b></heading><p num="0091">Preparation of catalyst "60/40" in the Table in Example
+8 - A pretreated silica carrier, calcined at 600°C was
+transferred to a small bottle with stirrer bar. The
+carrier was wetted with toluene (5.5 ml per 2 g
+carrier). A solution of 2.5 ml of 30% MAO in toluene,
+38.4 mg of A-metallocene and 33.4 mg of B-metallocene
+was prepared and stirred for 30 mins. This solution is
+added dropwise to 5.5 ml of toluene containing 2 g of
+silica carrier and stirred for 20 minutes and left
+overnight. The catatlyst is then dried in nitrogen for
+2 hours at 40°C.</p><p num="0092">The other catalysts in Example 8 were made analogously
+to "60/40" maintaining the total molar metallocene
+concentration constant.</p><heading><b>Example 8</b></heading><p num="0093">The dry catalyst is fed into a 2L reactor under
+nitrogen. 650 ml propylene is added to the reactor and
+prepolymerisation is initiated for 8 minutes at 15°C.
+The temperature is rapidly raised to 70°C and
+polymerisation takes place in the absence of hydrogen. </p><p num="0094">The reactor conditions are described in the Table below.
+<tables><table><tgroup cols="8"><tbody><row><entry align="left">Run no</entry><entry align="left">Temp. °C</entry><entry align="left">Time</entry><entry align="left">H<sub>2</sub></entry><entry align="left">mg cat</entry><entry align="left">weight polymer</entry><entry align="left">Extra TEA, 1M (A54)</entry><entry align="left">Dual site catalyst in mol% (B/A)</entry></row><row><entry align="left">6301</entry><entry align="left">70 °C</entry><entry align="left">40 min</entry><entry align="left">0</entry><entry align="left">220</entry><entry align="left">200 g</entry><entry align="center">0,3ml</entry><entry align="left">100/0</entry></row><row><entry align="left">6303</entry><entry align="left">70°C</entry><entry align="left">60 min</entry><entry align="left">0</entry><entry align="left">200</entry><entry align="left">15 g</entry><entry align="center">0,1 ml</entry><entry align="left">0/100</entry></row><row><entry align="left">6314</entry><entry align="left">70°C</entry><entry align="left">30 min</entry><entry align="left">0</entry><entry align="left">230</entry><entry align="left">190 g</entry><entry align="center">0,25 ml</entry><entry align="left">90/10</entry></row><row><entry align="left">6315</entry><entry align="left">70°C</entry><entry align="left">30 min</entry><entry align="left">0</entry><entry align="left">210</entry><entry align="left">190 g</entry><entry align="center">0,25 ml</entry><entry align="left">60/40</entry></row><row><entry align="left">6316</entry><entry align="left">70°C</entry><entry align="left">60 min</entry><entry align="left">0</entry><entry align="left">230</entry><entry align="left">130 g</entry><entry align="center">0,25 ml</entry><entry align="left">20/80</entry></row><row><entry align="left">6317*</entry><entry align="left">70-80 °C</entry><entry align="left">55 min</entry><entry align="left">0</entry><entry align="left">210</entry><entry align="left">175 g</entry><entry align="center">0,3 ml</entry><entry align="left">20/80</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="4"><tbody><row><entry align="center"/><entry align="center">Mw</entry><entry align="center">Mn</entry><entry align="center">MWD</entry></row><row><entry align="left">6301 whole polymer</entry><entry align="center">185 000</entry><entry align="center">82 000</entry><entry align="center">2,3</entry></row><row><entry align="left">6301 crystalline phase.</entry><entry align="center">185 000</entry><entry align="center">82 000</entry><entry align="center">2,3</entry></row><row><entry align="left">6303 whole polymer</entry><entry align="center">190 000</entry><entry align="center">55 000</entry><entry align="center">3,3</entry></row><row><entry align="left">6303 XS phase</entry><entry align="center">185 000</entry><entry align="center">55 000</entry><entry align="center">3,3</entry></row><row><entry align="left">6314 whole polymer</entry><entry align="center">190 000</entry><entry align="center">80 000</entry><entry align="center">2,4</entry></row><row><entry align="left">6314 crystalline phase.</entry><entry align="center">190 000</entry><entry align="center">80 000</entry><entry align="center">2,4</entry></row><row><entry align="left">6315 whole polymer</entry><entry align="center">210 000</entry><entry align="center">80 000</entry><entry align="center">2,6</entry></row><row><entry align="left">6315 crystalline phase</entry><entry align="center">210 000</entry><entry align="center">100 000</entry><entry align="center">2,1</entry></row><row><entry align="left">6316 whole polymer</entry><entry align="center">240 000</entry><entry align="center">105 000</entry><entry align="center">2,2</entry></row><row><entry align="left">6316 crystalline phase</entry><entry align="center">230 000</entry><entry align="center">105 000</entry><entry align="center">2,2</entry></row></tbody></tgroup></table></tables></p><heading><b>Results</b></heading><p num="0095">The properties of the resulting polymers are described
+in the table below. The polymer components produced
+form a composition which is expected to be ideal for
+rotomoulding due to the almost identical Mw and Mn
+values but differing melting point properties of the
+isotactic and amorphous components.</p><p num="0096">Runs 6316 and 6317 give rise to a polymer composition
+having xylene soluble fractions of 16 and 19 wt%
+respectively. (The polymer is boiled in xylene at 137°C
+for 30 minutes, cooled filtered and the crystalline
+phase precipitated). The polymer compositions are
+surprisingly free-flowing powders and it is believed
+that never before have free flowing polypropylene
+polymer compositions been prepared having such high
+xylene soluble fractions. This forms a further aspect 
+of the invention. The high xylene soluble fraction is
+believed to give rise to a softer polymer which may warp
+less on rotomoulding.</p><p num="0097">Thus viewed from a further aspect the invention
+provides a free-flowing polypropylene homopolymer powder
+having a xylene soluble fraction of at least 7 wt%,
+preferably at least 12 wt%.</p><p num="0098">Viewed from another aspect the invention provides a
+free flowing propylene homo or copolymer powder
+comprising components A and B wherein:
+<sl><li>Component A has a crystalline melting point; and</li><li>Component B has a melting point at least 10°C lower than
+that of component A, preferably 30°C, especially
+component B is amorphous, has an Mn of at least 25000
+g/mol. preferably at least 40000 g/mol and has a
+comonomer content of less than 20 wt%, preferably less
+than 5 wt%;
+
+   said powder having an Mw of at least 75000 g/mol, a
+xylene soluble fraction of at least 7 wt%, preferably at
+least 12 wt%.</li></sl></p><p num="0099">The catalyst used to manufacture said free flowing
+powder is also new. Thus viewed from another aspect the
+invention provides a solid, preferably supported
+multisite catalyst comprising two metallocenes A' and
+B';
+<sl><li>metallocene A' comprising two optionally substituted
+indenyl groups connection via the 1-position of the
+indenyl, said metallocene having C<sub>s</sub> symmetry and
+preferably comprising a group 4A metal;</li><li>metallocene B' comprising two optionally substituted
+fluorenyl groups connection via the 1-position of the
+fluorenyl, said metallocene B' having C<sub>s</sub> symmetry and
+preferably comprising a group 4A metal.</li></sl><img id="img-00260001" orientation="unknown" wi="116" img-format="tif" img-content="tb" file="00260001.tif" inline="no" he="229"/><img id="img-00270001" orientation="unknown" wi="159" img-format="tif" img-content="tb" file="00270001.tif" inline="no" he="232"/><img id="img-00280001" orientation="unknown" wi="146" img-format="tif" img-content="tb" file="00280001.tif" inline="no" he="231"/><img id="img-00290001" orientation="unknown" wi="139" img-format="tif" img-content="tb" file="00290001.tif" inline="no" he="230"/></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A polymer composition suitable for rotomoulding
+comprising
+<claim-text><claim-text>I) an ethylene homopolymer or copolymer with at least
+one other C3-10 α-olefin, having a melt flow rate of 0.5
+to 30, a molecular weight distribution (Mw/Mn) of less
+than 4, an Mw of 50,000 to 110,000, a density of 0.940
+g/cm3 to 0.970 g/cm3 and a melting point of 100 to 145°C;
+OR</claim-text><claim-text>I) a propylene homopolymer or copolymer with at least
+one other C2-10 α-olefin, having a melt flow rate of 0.5
+to 30, a molecular weight distribution (Mw/Mn) of less
+than 4, an Mw of 150,000 to 300,000, and a melting point
+of 100 to 170°C;
+and</claim-text><claim-text>II) an ethylene homo or copolymer with at least one
+other C3-10 α-olefin, having a melt flow rate of within
+40% of the melt flow rate of component (I), a molecular
+weight distribution of (Mw/Mn) of less than 4, an Mw of
+within 30% of the Mw of component (I), a density of
+0.880 g/cm3 to 0.940 g/cm3 said density being at least
+0.010 g/cm3 less than the density of component (I) and a
+melting point of at least 5°C less than that of
+component (I);
+OR</claim-text><claim-text>II) a propylene homo or copolymer with at least one
+other C2-10 α-olefin having a melt flow rate of within 40%
+of the melt flow rate of component (I), a molecular
+weight distribution of (Mw/Mn) of less than 4, an Mw of
+within 30% of the Mw of component (I), and a melting
+point of at least 10°C less than that of component (I).</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>A polymer composition as claimed in claim 1
+comprising
+<claim-text><claim-text>I) an ethylene homopolymer having a melt flow rate of
+0.5 to 30, a molecular weight distribution (Mw/Mn) of
+less than 4, an Mw of 50,000 to 110,000, a density of
+0.940 g/cm3 to 0.970 g/cm3 and a melting point of 100 to
+145°C;
+and</claim-text><claim-text>II) an ethylene copolymer with at least one C3-10 α-olefin
+having a melt flow rate of within 40% of the melt
+flow rate of component (I), a molecular weight
+distribution of (Mw/Mn) of less than 4, an Mw of within
+30% of the Mw of component (I), a density of 0.880 g/cm3
+to 0.940 g/cm3 said density being at least 0.010 g/cm3
+less than the density of component (I) and a melting
+point of at least 10°C less than that of component (I).</claim-text></claim-text></claim-text></claim><claim num="3"><claim-text>A composition as claimed in claim 2 wherein
+component (II) is an ethylene copolymer with butene,
+hexene or octene.</claim-text></claim><claim num="4"><claim-text>A composition as claimed in claim 3 wherein
+component (II) is an ethylene copolymer with hexene.</claim-text></claim><claim num="5"><claim-text>A composition as claimed in any one of claims 2 to
+4 wherein the melt flow rates of components (I) and (II)
+are 4 to 10.</claim-text></claim><claim num="6"><claim-text>A composition as claimed claims 5 wherein the melt
+flow rates of components (I) and (II) 6 to 8.</claim-text></claim><claim num="7"><claim-text>A composition as claimed in any one of claims 2 to
+6 wherein the molecular weight distribution of the
+composition is less than 4.</claim-text></claim><claim num="8"><claim-text>A composition as claimed in any one of claims 2 to
+7 wherein the density of component (II) is 910 g/cm3 to
+0.930 g/cm3.</claim-text></claim><claim num="9"><claim-text>A composition as claimed in any one of claims 2 to
+8 wherein the density of composition is in the range
+0.925 to 0.950 g/cm3.</claim-text></claim><claim num="10"><claim-text>A composition as claimed in claim 9 wherein the
+density of composition is in the range 0.930 to 0.940
+g/cm3.</claim-text></claim><claim num="11"><claim-text>A composition as claimed in any one of claims 2 to
+10 wherein the melting point of component (I) is in the
+range 125°C to 135°C and the melting point of component
+(II) is in the range 100°C to 125°C.</claim-text></claim><claim num="12"><claim-text>A composition as claimed in any one of claims 1 to
+11 wherein the molecular weight distribution each of
+components (I) and (II) is less than 3.</claim-text></claim><claim num="13"><claim-text>A composition as claimed in claim 1 comprising
+<claim-text><claim-text>I) a propylene homopolymer having a melt flow rate of
+4 to 10, a molecular weight distribution (Mw/Mn) of less
+than 4, an Mw of 150,000 to 300,000, and a melting point
+of 100 to 170°C;
+and</claim-text><claim-text>II) a propylene homopolymer having a melt flow rate of
+within 40% of the melt flow rate of component (I), a
+molecular weight distribution of (Mw/Mn) of less than 4,
+an Mw of within 30% of the Mw of component (I), and a
+melting point of at least 10°C less than that of
+component (I);</claim-text></claim-text>
+wherein said composition has a molecular weight
+distribution (Mw/Mn) of less than 4.</claim-text></claim><claim num="14"><claim-text>A composition as claimed in claim 13 wherein
+component (II) is amorphous.</claim-text></claim><claim num="15"><claim-text>A composition as claimed in any one of claims 1 to
+14 wherein the ratio of component (I) to (II) is from
+4:1 to 1:4.</claim-text></claim><claim num="16"><claim-text>The use of a polymer composition as claimed in any
+one of claims 1 to 15 in rotomoulding.</claim-text></claim><claim num="17"><claim-text>A process for the preparation of an article
+comprising rotomoulding a composition as claimed in any
+one of claims 1 to 15.</claim-text></claim><claim num="18"><claim-text>A process as claimed in claim 17 wherein
+rotomoulding is effected at a rotation speed of 9/1.4
+RPM; heating for 13 minutes in oven at 270°C; fan
+assisted cooling for 10 minutes followed by 6 minutes
+ambient cooling in the absence of a fan.</claim-text></claim><claim num="19"><claim-text>An article comprising a polymer composition as
+claimed in any one of claims 1 to 15.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

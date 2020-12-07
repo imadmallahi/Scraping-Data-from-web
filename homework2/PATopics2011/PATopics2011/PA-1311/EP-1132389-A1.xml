@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1132389-A1" country="EP" doc-number="1132389" kind="A1" lang="EN" family-id="8172768" status="new" date-produced="20090516" date="20010912"><bibliographic-data><publication-reference ucid="EP-1132389-A1" status="new" fvid="23245261"><document-id status="new" format="original"><country>EP</country><doc-number>1132389</doc-number><kind>A1</kind><date>20010912</date></document-id></publication-reference><application-reference ucid="EP-00301814-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00301814</doc-number><kind>A</kind><date>20000306</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-00301814-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>00301814</doc-number><kind>A</kind><date>20000306</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A61K  31/337       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/337       20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/4353      20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/437       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  45/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  45/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   1/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   1/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   1/14        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   3/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   3/04        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   7/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   7/02        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   9/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   9/10        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  11/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  11/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  13/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  13/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  13/02        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  15/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  15/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/04        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/06        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/08        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/18        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/20        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/22        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/24        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/28        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/30        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/32        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  29/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  29/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07D 471/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 471/14        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 487/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 487/14        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C07D 471/14+221B+209C+209C</classification-symbol><classification-symbol scheme="EC">C07D 487/14+239B+209C+209C</classification-symbol><classification-symbol scheme="ICO">M07D471:14</classification-symbol><classification-symbol scheme="ICO">M07D487:14</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Neue Azaindolyl-Derivate für die Behandlung von Fettleibigheit</invention-title><invention-title load-source="ep" status="new" lang="EN">New aza-indolyl derivatives for the treatment of obesity</invention-title><invention-title load-source="ep" status="new" lang="FR">Nouveaux dérivés de l'azaindole pour le traitement de l'obésité</invention-title><citations><patent-citations><patcit ucid="EP-0655440-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0655440</doc-number><kind>A2</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0747353-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0747353</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-3250783-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>3250783</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1993000333-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1993000333</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>M. B\S ET. A.: "Novel Agonists of 5HT2C Receptors." JOURNAL OF MEDICINAL CHEMISTRY, vol. 40, no. 17, 15 August 1997 (1997-08-15), pages 2762-9, XP002142693</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>HOFFMANN LA ROCHE</name><address><country>CH</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>VERNALIS RES LTD</name><address><country>GB</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>F. HOFFMANN-LA ROCHE AG</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>VERNALIS RESEARCH LIMITED</name></addressbook></applicant><applicant status="new"  format="original"><addressbook><last-name>F. HOFFMANN-LA ROCHE AG</last-name><address><street>124 Grenzacherstrasse</street><city>4070 Basel</city><country>CH</country></address></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>VERNALIS RESEARCH LIMITED</last-name><address><street>Oakdene Court, 613 Reading Road</street><city>Winnersh, Wokingham RG41 5UA</city><country>GB</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="original"><addressbook><last-name>The designation of the inventor has not yet been filed</last-name></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Howard, Paul Nicholas</last-name><address><street>CARPMAELS &amp;amp; RANSFORD 43 Bloomsbury Square</street><city>London WC1A 2RA</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new"  lang="EN"><p>The present invention refers to chemical compounds of formula (I);
+<img id="img-80000001"  orientation="unknown"  wi="70" img-format="tif" img-content="cf" file="80000001.tif" inline="no" he="45"/>
+wherein X<sup>1</sup>, X<sup>2</sup>, X<sup>3</sup> and X<sup>4</sup>, n, R<sup>1</sup>, R<sup>2</sup> and R<sup>3</sup> and pharmaceutically acceptable salts and
+prodrugs thereof, and the use thereof in therapy, particularly for the treatment of disorders
+of the central nervous system; damage to the central nervous system; cardiovascular
+disorders; gastrointestinal disorders; diabetes insipidus, and sleep apnea, and particularly
+for the treatment of obesity.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to new aza-indolyl derivatives, to processes and
+intermediates for their preparation, to pharmaceutical compositions cuntaining them and
+to their medicinal use. The active compounds of the present invention are useful in
+treating obesity and other disorders.</p><p num="0002">It has been recognised that obesity is a disease process influenced by
+environmental factors in which the traditional weight loss methods of dieting and exercise
+need to be supplemented by therapeutic products (S. Parker, "<i>Obesity: Trends and
+Treatments",</i> Scrip Reports, PJB Publications Ltd, 1996).</p><p num="0003">Whether someone is classified as overweight or obese is generally determined
+on the basis of their body mass index (BMI) which is calculated by dividing body weight
+(kg) by height squared (m<sup>2</sup>). Thus, the units of BMI are kg/m<sup>2</sup> and it is possible to
+calculate the BMI range associated with minimum mortality in each decade of life.
+Overweight is defined as a BMI in the range 25-30 kg/m<sup>2</sup>, and obesity as a BMI greater
+than 30 kg/m<sup>2</sup>. There are problems with this definition in that it does not take into
+account the proportion of body mass that is muscle in relation to fat (adipose tissue). To
+account for this, obesity can also be defined on the basis of body fat content: greater than
+25% and 30% in males and females, respectively.</p><p num="0004">As the BMI increases there is an increased risk of death from a variety of causes
+that is independent of other risk factors. The most common diseases with obesity are 
+cardiovascular disease (particularly hypertension), diabetes (obesity aggravates the
+development of diabetes), gall bladder disease (particularly cancer) and diseases of
+reproduction. Research has shown that even a modest reduction in body weight can
+correspond to a significant reduction in the risk of developing coronary heart disease.</p><p num="0005">Compounds marketed as anti-obesity agents include Orlistat (XENICAL®) and
+Sibutramine. Orlistat (a lipase inhibitor) inhibits fat absorption directly and tends to
+produce a high incidence of unpleasant (though relatively harmless) side-effects such as
+diarrhoea. Sibutramine (a mixed 5-HT/noradrenaline reuptake inhibitor) can increase
+blood pressure and heart rate in some patients. The serotonin releaser/reuptake inhibitors
+fenfluramine (Pondimin®) and dexfenfluramine (Redux™) have been reported to decrease
+food intake and body weight over a prolonged period (greater than 6 months). However,
+both products were withdrawn after reports of preliminary evidence of heart valve
+abnormalities associated with their use. There is therefore a need for the development of a
+safer anti-obesity agent.</p><p num="0006">The non-selective 5-HT<sub>2C</sub> receptor agonists/partial agonists m-chlorophenylpiperazine
+(mCPP) and trifluoromethylphenylpiperazine (TFMPP) have
+been shown to reduce food intake in rats (G.A. Kennett and G. Curzon, <i>Psychopharmacol</i>.,
+1988, 96, 93-100; G.A. Kennett, C.T. Dourish and G. Curzon, <i>Eur</i>. <i>J</i>. <i>Pharmacol</i>., 1987, <b>141</b>,
+429-435) and to accelerate the appearance of the behavioural satiety sequence (S.J.
+Kitchener and C.T. Dourish, <i>Psychopharmacol</i>., 1994, 113, 369-377). Recent findings from
+studies with mCPP in normal human volunteers and obese subjects have also shown
+decreases in food intake. Thus, a single dose of mCPP decreased food intake in female
+volunteers (A.E.S. Walsh <i>et al</i>., <i>Psychopharmacol</i>., 1994, <b>116</b>, 120-122) and decreased the
+appetite and body weight of obese male and female subjects during subchronic treatment
+for a 14 day period (P.A. Sargeant <i>et al</i>., <i>Psychopharmacol</i>., 1997, 133, 309-312). The
+anorectic action of mCPP is absent in 5-HT<sub>2C</sub> receptor knockout mutant mice (L.H.
+Tecott <i>et al</i>., <i>Nature,</i> 1995, <b>374</b>, 542-546) and is antagonised by the 5-HT<sub>2C</sub> receptor
+antagonist SB-242084 in rats (G.A. Kennett <i>et al</i>., <i>Neuropharmacol</i>., 1997, <b>36</b>, 609-620). It
+seems therefore that mCPP decreases food intake via an agonist action at the 5-HT<sub>2C</sub>
+receptor.</p><p num="0007">Other compounds which have been proposed as 5-HT<sub>2C</sub> receptor agonists for use in
+the treatment of obesity include the substituted 1-aminoethyl indoles disclosed in EP-A-0655440.
+CA-2132887 and CA-2153937 disclose that tricyclic 1-aminoethylpyrrole 
+derivatives and tricyclic 1-aminoethyl pyrazole derivatives bind to 5-HT<sub>2C</sub> receptors and
+may be used in the treatment of obesity. WO-A-98/30548 discloses aminoalkylindazole
+compounds as 5-HT<sub>2C</sub> agonists for the treatment of CNS diseases and appetite regulation
+disorders. 2-(2,3-Dihydro-1<i>H</i>-pyrrolo[1,2-a]indol-9-yl)ethylamine is disclosed in
+<i>J</i>.<i>Med</i>.<i>Chem</i>., 1965, <b>8</b>, 700. The preparation of pyrido[1,2-<i>a</i>]indoles for the treatment of
+cerebrovascular disorders is disclosed in EP-A-0252643 and EP-A-0167901. The
+preparation of 10-[(acylamino)ethyl]tetrahydropyrido[1,2-<i>a</i>]indoles as anti-ischemic
+agents is disclosed in EP-A-0279125.</p><p num="0008">It is an object of this invention to provide selective, directly acting 5HT<sub>2</sub>
+receptor ligands for use in therapy and particularly for use as anti-obesity agents. It is a
+further object of this invention to provide directly acting ligands selective for 5-HT<sub>2B</sub>
+and/or 5-HT<sub>2C</sub> receptors, for use in therapy and particularly for use as anti-obesity agents.
+It is a further object of this invention to provide selective, directly acting 5-HT<sub>2C</sub> receptor
+ligands, preferably 5-HT<sub>2C</sub> receptor agonists, for use in therapy and particularly for use as
+anti-obesity agents.</p><p num="0009">According to the present invention there is provided a chemical compound of
+formula (I):
+<img id="img-00030001" orientation="unknown" wi="72" img-format="tif" img-content="cf" file="00030001.tif" inline="no" he="50"/>
+   wherein
+<sl><li>n is 1, 2 or 3;</li><li>X<sup>1</sup> is nitrogen or CR<sup>4</sup>; X<sup>2</sup> is nitrogen or CR<sup>5</sup>; X<sup>3</sup> is nitrogen or CR<sup>6</sup>; X<sup>4</sup> is nitrogen or
+CR<sup>7</sup>; wherein one or two of the X<sup>1</sup>, X<sup>2</sup>, X<sup>3</sup> and X<sup>4</sup> groups are nitrogen;</li><li>R<sup>1</sup> and R<sup>2</sup> are independently selected from hydrogen and alkyl; </li><li>R3 is hydrogen or alkyl;</li><li>R<sup>4</sup> to R<sup>7</sup> are independently selected from hydrogen, halogen, hydroxy, alkyl, aryl,
+alkoxy, aryloxy, alkylthio, arylthio, alkylsulfoxyl, alkylsulfonyl, arylsulfoxyl,
+arylsulfonyl, amino, monoalkylamino, dialkylamino, nitro, cyano,
+carboxaldehyde, alkylcarbonyl, arylcarbonyl, aminocarbonyl,
+monoalkylaminocarbonyl, dialkylaminocarbonyl, alkoxycarbonylamino,
+aminocarbonyloxy, monoalkylaminocarbonyloxy, dialkylaminocarbonyloxy,
+monoalkylaminocarbonylamino and dialkylaminocarbonylamino, and
+wherein a carbon ring atom next to a nitrogen is not substituted by halogen;</li><li>and pharmaceutically acceptable salts and prodrugs thereof.</li></sl></p><p num="0010">As used herein, the term "alkyl" means a branched or unbranched, cyclic or acyclic,
+saturated or unsaturated (e.g. alkenyl or alkynyl) hydrocarbyl radical. Where cyclic, the
+alkyl group is preferably C<sub>3</sub> to C<sub>12</sub>, more preferably C<sub>5</sub> to C<sub>10</sub>, more preferably C<sub>5</sub>, C<sub>6</sub> or C<sub>7</sub>.
+Where acyclic, the alkyl group is preferably C<sub>1</sub> to C<sub>10</sub>, more preferably C<sub>1</sub> to C<sub>6</sub>, more
+preferably methyl, ethyl, propyl (n-propyl or isopropyl) or butyl (n-butyl, isobutyl or
+tertiary-butyl), more preferably methyl.</p><p num="0011">As used herein, the term "lower alkyl" means methyl, ethyl, propyl (n-propyl or
+isopropyl) or butyl (n-butyl, isobutyl or tertiary-butyl).</p><p num="0012">As used herein, the term "aryl" means an aromatic group, such as phenyl or
+naphthyl, or a heteroaromatic group containing one or more, preferably one, heteroatom,
+such as pyridyl, pyrrolyl, furanyl and thienyl.</p><p num="0013">The alkyl and aryl groups may be substituted or unsubstituted. Where substituted,
+there will generally be 1 to 3 substituents present, preferably 1 substituent. Substituents
+may include:
+<sl><li>carbon-containing groups such as
+<sl><li>alkyl,</li><li>aryl,</li><li>arylalkyl (e.g. substituted and unsubstituted phenyl, substituted and
+unsubstituted benzyl);</li></sl></li><li>halogen atoms and halogen-containing groups such as
+ 
+   haloalkyl (e.g. trifluoromethyl);</li><li>oxygen-containing groups such as
+<sl><li>alcohols (e.g. hydroxy, hydroxyalkyl, aryl(hydroxy)alkyl),</li><li>ethers (e.g. alkoxy, aryloxy, alkoxyalkyl, aryloxyalkyl),</li> <li>aldehydes (e.g. carboxaldehyde),</li><li>ketones (e.g. alkylcarbonyl, alkylcarbonylalkyl, arylcarbonyl,
+arylalkylcarbonyl, arylcarbonylalkyl),</li><li>acids (e.g. carboxy, carboxyalkyl),</li><li>acid derivatives such as esters (e.g. alkoxycarbonyl, alkoxycarbonylalkyl,
+alkylcarbonyloxy, alkylcarbonyloxyalkyl),
+<dl tsize="10"><dt>amides</dt><dd>(e.g. aminocarbonyl, mono- or di-alkylaminocarbonyl, aminocarbonylalkyl, mono- or
+di-alkylaminocarbonylalkyl, arylaminocarbonyl),</dd> <dt>carbamates</dt> <dd>(e.g. alkoxycarbonylamino, aryloxycarbonylamino,
+aminocarbonyloxy, mono- or di-alkylaminocarbonyloxy, arylaminocarbonyloxy)</dd> <dt>and ureas</dt><dd>(e.g. mono- or di-alkylaminocarbonylamino or
+arylaminocarbonylamino);</dd></dl></li></sl></li><li>nitrogen-containing groups such as
+<dl tsize="8"><dt>amines
+
+azides,</dt><dd>(e.g. amino, mono- or di-alkylamino, aminoalkyl,
+mono- or di-alkylaminoalkyl),</dd><dt>nitriles
+
+nitro;</dt><dd>(e.g. cyano, cyanoalkyl),</dd></dl></li><li>sulfur-containing groups such as
+ 
+   thiols, thioethers, sulfoxides and sulfones
+
+(e.g. alkylthio, alkylsuifinyl, alkylsulfonyl,
+alkylthioalkyl, alkylsulfinylalkyl, alkylsulfonylalkyl,
+arylthio, arylsulfinyl, arylsulfonyl, arylthioalkyl,
+arylsulfinylalkyl, arylsulfonylalkyl);</li><li>and heterocyclic groups containing one or more, preferably one, heteroatom,
+
+   (e.g. thienyl, furanyl, pyrrolyl, imidazolyl, pyrazolyl,
+thiazolyl, isothiazolyl, oxazolyl, oxadiazolyl,
+thiadiazolyl, aziridinyl, azetidinyl, pyrrolidinyl,
+pyrrolinyl, imidazolidinyl, imidazolinyl,
+pyrazolidinyl, tetrahydrofuranyl, pyranyl, pyronyl,
+pyridyl, pyrazinyl, pyridazinyl, piperidyl,
+hexahydroazepinyl, piperazinyl, morpholinyl,
+thianaphthyl, benzofuranyl, isobenzofuranyl, indolyl,
+oxyindolyl, isoindolyl, indazolyl, indolinyl, 7-azaindolyl,
+benzopyranyl, coumarinyl,
+isocoumarinyl, quinolinyl, isoquinolinyl,
+naphthyridinyl, cinnolinyl, quinazolinyl,
+pyridopyridyl, benzoxazinyl, quinoxalinyl,
+chromenyl, chromanyl, isochromanyl, phthalazinyl
+and carbolinyl).</li></sl></p><p num="0014">As used herein, the term "alkoxy" means adkyl-O- and "alkoyl" means alkyl-CO-.
+Alkoxy substituent groups or alkoxy-containing substituent groups may be
+substituted by one or more alkyl groups.</p><p num="0015">As used herein, the term "halogen" means a fluorine, chlorine, bromine or iodine
+radical, preferably a fluorine, chlorine or bromine radical.</p><p num="0016">As used herein the term "prodrug" means any pharmaceutically acceptable prodrug
+of the compound of formula (I). </p><p num="0017">As used herein, the term "pharmaceutically acceptable salt" means any
+pharmaceutically acceptable salt of the compound of formula (I). Salts may be prepared
+from pharmaceutically acceptable non-toxic acids and bases including inorganic and
+organic acids and bases. Such acids include acetic, benzenesulfonic, benzoic,
+camphorsulfonic, citric, ethenesulfonic, dichloroacetic, formic, fumaric, gluconic,
+glutamic, hippuric, hydrobromic, hydrochloric, isethionic, lactic, maleic, malic, mandelic,
+methanesulfonic, mucic, nitric, oxalic, pamoic, pantothenic, phosphoric, succinic, sulfuric,
+tartaric, oxalic, p-toluenesulfonic and the like. Particularly preferred are fumaric,
+hydrochloric, hydrobromic, phosphoric, succinic, sulfuric and methanesulfonic acids.
+Acceptable base salts include alkali metal (e.g. sodium, potassium), alkaline earth metal
+(e.g. calcium, magnesium) and aluminium salts.</p><p num="0018">In a preferred embodiment the present invention refers to compounds as defined
+above wherein in case two of the X<sup>1</sup>, X<sup>2</sup>, X<sup>3</sup> and X<sup>4</sup> groups are nitrogen these nitrogen
+atoms are in meta or para position to each other.</p><p num="0019">In a preferred embodiment the present invention refers to compounds as defined
+above wherein X<sup>1</sup> is nitrogen, X<sup>2</sup> is CR<sup>5</sup>, X<sup>3</sup> is CR<sup>6</sup>, and X<sup>4</sup> is CR<sup>7</sup>.</p><p num="0020">In a further preferred embodiment the present invention refers to compounds as
+defined above wherein X<sup>1</sup> is CR<sup>4</sup>; X<sup>2</sup> is nitrogen; X<sup>3</sup> is CR<sup>6</sup> and X<sup>4</sup> is CR<sup>7</sup>.</p><p num="0021">In a further preferred embodiment the present invention refers to compounds as
+defined above wherein X<sup>1</sup> is CR<sup>4</sup>, X<sup>2</sup> is CR<sup>5</sup>; X<sup>3</sup> is nitrogen and X<sup>4</sup> is CR<sup>7</sup>.</p><p num="0022">In a further preferred embodiment the present invention refers to compounds as
+defined above wherein X<sup>1</sup> is CR<sup>4</sup>, X<sup>2</sup> is CR<sup>5</sup>; X<sup>3</sup> is CR<sup>6</sup> and X<sup>4</sup> is nitrogen.</p><p num="0023">In a further preferred embodiment the present invention refers to compounds as
+defined above wherein X<sup>1</sup> is nitrogen, X<sup>2</sup> is CR<sup>5</sup>, X<sup>3</sup> is nitrogen and X<sup>4</sup> is CR<sup>7</sup>.</p><p num="0024">In a further preferred embodiment the present invention refers to compounds as
+defined above wherein X<sup>1</sup> is CR<sup>4</sup>, X<sup>2</sup> is nitrogen, X<sup>3</sup> is CR<sup>6</sup> and X<sup>4</sup> is nitrogen.</p><p num="0025">In a further preferred embodiment the present invention refers to compounds as
+defined above wherein X<sup>1</sup> is nitrogen, X<sup>2</sup> is CR<sup>5</sup>, X<sup>3</sup> is CR<sup>6</sup> and X<sup>4</sup> is nitrogen.</p><p num="0026">In a preferred embodiment, the compounds of formula (I) are selected from
+compounds in which n is 1. </p><p num="0027">Preferably, the compounds of formula (I) are selected from compounds in which R<sup>1</sup>
+is the same as R<sup>2</sup>. Preferably, R<sup>1</sup> and R<sup>2</sup> are both hydrogen. In an embodiment of the
+invention, R<sup>1</sup> is hydrogen and R<sup>2</sup> is alkyl (preferably lower alkyl and more preferably
+methyl) optionally substituted by an aryl (preferably a substituted or unsubstituted phenyl
+or thienyl group) or by a cycloalkyl group (preferably saturated and preferably selected
+from a C<sub>3</sub>, C<sub>4</sub>, C<sub>5</sub>, C<sub>6</sub> and C<sub>7</sub> cycloalkyl group).</p><p num="0028">Preferably, the compounds of formula (I) are selected from compounds in which R<sup>3</sup>
+is lower alkyl, preferably methyl or ethyl, preferably methyl.</p><p num="0029">R<sup>4</sup> to R<sup>7</sup> are independently selected from hydrogen, halogen, hydroxy, alkyl
+(including cycloalkyl, halo-alkyl (such as trifluoromethyl) and arylalkyl), aryl, alkoxy
+(including arylalkoxy), aryloxy, alkylthio, arylthio, alkylsulfoxyl, alkylsulfonyl, arylsulfoxyl,
+arylsulfonyl, amino, monoalkylamino, dialkylamino, nitro, cyano, carboxaldehyde,
+alkylcarbonyl, arylcarbonyl, aminocarbonyl, monoalkylaminocarbonyl,
+dialkylaminocarbonyl, alkoxycarbonylamino, aminocarbonyloxy,
+monoalkylaminocarbonyloxy, dialkylaminocarbonyloxy, monoalkylaminocarbonylamino
+and dialkylaminocarbonylamino.</p><p num="0030">In an embodiment of the invention, R<sup>4</sup> to R<sup>7</sup> are independently selected from
+hydrogen, halogen, hydroxy, alkyl (including cycloalkyl, halo-alkyl (such as
+trifluoromethyl) and arylalkyl), aryl, alkoxy (including arylalkoxy), aryloxy, alkylthio,
+alkylsulfoxyl and alkylsulfonyl.</p><p num="0031">It is preferred that R<sup>4</sup> is selected from hydrogen and halogen, preferably hydrogen.</p><p num="0032">It is preferred that R<sup>5</sup> is selected from a substituent group other than hydrogen, and
+preferably from halogen, alkyl, alkoxy, alkyltbio, alkylsulfonyl, monoalkylamino and
+dialkylamino, and more preferably from halogen (preferably fluoro, chloro and bromo),
+alkyl (preferably lower alkyl and preferably trifluoromethyl), alkoxy (preferably lower
+alkoxy) and alkylthio (preferably lower alkylthio). </p><p num="0033">It is preferred that R<sup>6</sup> is selected from halogen (preferably fluoro and chloro) and
+hydrogen. In an embodiment of the invention, R<sup>6</sup> is a substituent group other than
+hydrogen.</p><p num="0034">In an embodiment of the invention, two or three of R<sup>4</sup>, R<sup>5</sup>, R<sup>6</sup> and R<sup>7</sup>, preferably two
+or three of R<sup>4</sup>, R<sup>6</sup> and R<sup>7</sup> are hydrogen.</p><p num="0035">In a preferred embodiment, the compounds of formula (I) are selected from (R,S)-2-(2,3-dihydro-1H-3a,6-diaza-cyclopenta[a]inden-8-yl)-1-methyl-ethylamine
+and (R,S)-2-(2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]inden-8-yl)-1-methyl-ethylamine.
+Where the
+compounds of formula (I) are in salt form, the fumarate salts are preferred.</p><p num="0036">The compounds of the invention may contain one or more asymmetric carbon atoms,
+so that the compounds can exist in different stereoisomeric forms. The compounds can be,
+for example, racemates or optically active forms. The optically active forms can be
+obtained by resolution of the racemates or by asymmetric synthesis.</p><p num="0037">According to a further aspect of the invention, there is provided a compound of
+formula (I) for use in therapy.</p><p num="0038">The compounds of formula (I) may be used in the treatment (including prophylactic
+treatment) of disorders associated with 5-HT<sub>2</sub> receptor function. The compounds may act
+as receptor agonists or antagonists. Preferably, the compounds may be used in the
+treatment (including prophylactic treatment) of disorders associated with 5-HT<sub>2B</sub> and/or
+5-HT<sub>2C</sub> receptor function. Preferably, the compounds may be used in the treatment
+(including prophylactic treatment) of disorders where a 5-HT<sub>2C</sub> receptor agonist is
+required.</p><p num="0039">The compounds of formula (I) may be used in the treatment or prevention of central
+nervous disorders such as depression, atypical depression, bipolar disorders, anxiety
+disorders, obsessive-compulsive disorders, social phobias or panic states, sleep disorders,
+sexual dysfunction, psychoses, schizophrenia, migraine and other conditions associated
+with cephalic pain or other pain, raised intracranial pressure, epilepsy, personality
+disorders, age-related behavioural disorders, behavioural disorders associated with
+dementia, organic mental disorders, mental disorders in childhood, aggressivity, age-related
+memory disorders, chronic fatigue syndrome, drug and alcohol addiction, obesity,
+bulimia, anorexia nervosa or premenstrual tension; damage of the central nervous system 
+such as by trauma, stroke, neurodegenerative diseases or toxic or infective CNS diseases
+such as encephalitis or meningitis; cardiovascular disorders such as thrombosis;
+gastrointestinal disorders such as dysfunction of gastrointestinal motility; diabetes
+insipidus; and sleep apnea.</p><p num="0040">According to a further aspect of the invention, there is provided use of a compound
+of formula (I) in the manufacture of a medicament for the treatment (including
+prophylaxis) of the above-mentioned disorders. In a preferred embodiment, there is
+provided use of a compound of formula (I) in the manufacture of a medicament for the
+treatment (including prophylaxis) of obesity.</p><p num="0041">According to a further aspect of the invention, there is provided a method of
+treatment (including prophylaxis) of a disorder selected from the group consisting of the
+above-mentioned disorders comprising administering to a patient in need of such
+treatment an effective dose of a compound of formula (I). In a preferred embodiment,
+there is provided a method of treatment (including prophylaxis) of obesity.</p><p num="0042">According to a further aspect of the invention, there is provided a pharmaceutical
+composition comprising a compound of formula (I) in combination with a
+pharmaceutically acceptable carrier or excipient and a method of making such a
+composition comprising combining a compound of formula (I) with a pharmaceutically
+acceptable carrier or excipient.</p><p num="0043">According to a further aspect of the invention, there is provided a method of
+preparing a compound of formula (I), especially a method comprising reduction and/or
+reductive alkylation of a compound of formula (VI)
+<img id="img-00100001" orientation="unknown" wi="52" img-format="tif" img-content="cf" file="00100001.tif" inline="no" he="47"/>
+wherein X<sup>1</sup>, X<sup>2</sup>, X<sup>3</sup>, X<sup>4</sup> and R<sup>3</sup> are as defined above. </p><p num="0044">Compounds of the invention may be prepared according to Reaction Scheme 1
+below. R<sub>1</sub> to R<sub>7</sub> are as previously defined.</p><p num="0045">Compounds of formula (II) may be prepared by reaction of the corresponding
+protected amine with iodine (I<sub>2</sub>, nBuLi, TMEDA) and deprotection of the amino group.</p><p num="0046">Compounds of formula (II) may be reacted with compounds of formula (III) under
+palladium catalysed conditions to give to obtain compounds of formula (IV). The
+carboxaldehyde (V) may be obtained by reaction of compound (IV) with e.g. the Vilsmeier
+reagent prepared from DMF and phosphorus oxychloriode under standard conditions.
+The nitroalkene (VI) may be obtained by reaction of compound (V) with a nitroalkane.
+Compounds of formula (I) can be formed in the reaction of the nitroalkene (VI) with a
+reducing agent such as lithium aluminium hydride in an ethereal solvent. <img id="img-00120001" orientation="unknown" wi="164" img-format="tif" img-content="cf" file="00120001.tif" inline="no" he="155"/></p><p num="0047">The compounds of formula (I) (R<sup>1</sup> and/or R<sup>2</sup> = alkyl) may be prepared from
+compounds of formula (I) (R<sup>1</sup> = R<sup>2</sup> = H) by standard methods such as reductive alkylation
+with an appropriate aldehydc or ketone in the presence of a reducing agent such as sodium
+triacetoxyborohydride, formic acid or sodium cyanoborohydride.</p><p num="0048">If, in any of the processes mentioned herein, the substituent group R<sup>4</sup>, R<sup>5</sup>, R<sup>6</sup> or R<sup>7</sup> is
+other than the one required, the substituent group may be converted to the desired
+substituent by known methods, The substituents R<sup>4</sup>, R<sup>5</sup>, R<sup>6</sup> or R<sup>7</sup> may also need protecting
+against the conditions under which the reaction is carried out. In such a case, the
+protecting group may be removed after the reaction has been completed. </p><p num="0049">The processes described above may be carried out to give a compound of the
+invention in the form of a free base or as an acid addition salt. If the compound of the
+invention is obtained as an acid addition salt, the free base can be obtained by basifying a
+solution of the acid addition salt. Conversely, if the product of the process is a free base,
+an acid addition salt, particularly a pharmaceutically acceptable acid addition salt, may be
+obtained by dissolving the free base in a suitable organic solvent and treating the solution
+with an acid, in accordance with conventional procedures for preparing acid addition salts
+from basic compounds.</p><p num="0050">The compositions of the present invention may be formulated in a conventional
+manner using one or more pharmaceutically acceptable carriers. Thus, the active
+compounds of the invention may be formulated for oral, buccal, intranasal, parenteral
+(<i>e</i>.<i>g</i>., intravenous, intramuscular or subcutaneous) transdermal or rectal administration or
+in a form suitable for administration by inhalation or insufflation.</p><p num="0051">For oral administration, the pharmaceutical compositions may take the form of, for
+example, tablets or capsules prepared by conventional means with pharmaceutically
+acceptable excipients such as binding agents (<i>e</i>.<i>g</i>. pregelatinised maize starch,
+polyvinylpyrrolidone or hydroxypropylmethylcellulose); fillers (<i>e</i>.<i>g</i>. lactose,
+microcrystalline cellulose or calcium phosphate); lubricants (<i>e</i>.<i>g</i>. magnesium stearate, talc
+or silica); disintegrants (<i>e</i>.<i>g</i>. potato starch or sodium starch glycollate); or wetting agents
+(<i>e</i>.<i>g</i>. sodium lauryl sulfate). The tablets may be coated by methods well known in the art.
+Liquid preparations for oral administration may take the form of, for example, solutions,
+syrups or suspensions, or they maybe presented as a dry product for constitution with
+water or other suitable vehicle before use. Such liquid preparations may be prepared by
+conventional means with pharmaceutically acceptable additives such as suspending agents
+(<i>e</i>.<i>g</i>. sorbitol syrup, methyl cellulose or hydrogenated edible fats); emulsifying agents (<i>e</i>.<i>g</i>.
+lecithin or acacia); non-aqueous vehicles (<i>e</i>.<i>g</i>. almond oil, oily esters or ethyl alcohol);
+and preservatives (<i>e</i>.<i>g</i>. methyl or propyl p-hydroxybenzoates or sorbic acid).</p><p num="0052">For buccal administration the composition may take the form of tablets or lozenges
+formulated in conventional manner.</p><p num="0053">The active compounds of the invention maybe formulated for parenteral
+administration by injection, including using conventional catheterization techniques or
+infusion. Formulations for injection may be presented in unit dosage form e.g. in 
+ampoules or in multi-dose containers, with an added preservative. The compositions may
+take such forms as suspensions, solutions or emulsions in oily or aqueous vehicles, and
+may contain formulating agents such as suspending, stabilizing and/or dispersing agents.</p><p num="0054">Alternatively, the active ingredient may be in powder form for reconstitution with a
+suitable vehicle, <i>e</i>.<i>g</i>. sterile pyrogen-free water, before use.</p><p num="0055">The active compounds of the invention may also be formulated in rectal
+compositions such as suppositories or retention enemas, <i>e</i>.<i>g</i>., containing conventional
+suppository bases such as cocoa butter or other glycerides.</p><p num="0056">For intranasal administration or administration by inhalation, the active compounds
+of the invention are conveniently delivered in the form of a solution or suspension from a
+pump spray container that is squeezed or pumped by the patient or as an aerosol spray
+presentation from a pressurized container or a nebulizer, with the use of a suitable
+propellant, <i>e</i>.<i>g</i>. dichlorodifluoromethane, trichlorofluoromethane,
+dichlorotetrafluoroethane, carbon dioxide or other suitable gas. In the case of a
+pressurized aerosol, the dosage unit may be determined by providing a valve to deliver a
+metered amount. The pressurized container or nebulizer may contain a solution or
+suspension of the active compound. Capsules and cartridges (made, for example, from
+gelatin) for use in an inhaler or insufflator may be formulated containing a powder mix of
+a compound of the invention and a suitable powder base such as lactose or starch.</p><p num="0057">A proposed dose of the active compounds of the invention for oral, parenteral or
+buccal administration to the average adult human for the treatment of the conditions
+referred to above (<i>e</i>.<i>g</i>., obesity) is 0.1 to 500 mg of the active ingredient per unit dose
+which could be administered, for example, 1 to 4 times per day.</p><p num="0058">The invention will now be described in detail with reference to the following
+examples. It will be appreciated that the invention is described by way of example only
+and modification of detail may be made without departing from the scope of the
+invention. </p><heading><u style="single">EXPERIMENTAL</u></heading><heading><u style="single">Assay Procedures</u></heading><heading><b>1. Binding to serotonin receptors</b></heading><p num="0059">The binding of compounds of formula (I) to serotonin receptors was determined <i>in
+vitro</i> by standard methods. The preparations were investigated in accordance with the
+assays given hereinafter.</p><p num="0060">Method (a): For the binding to the 5-HT<sub>2C</sub> receptor the 5-HT<sub>2C</sub> receptors were
+radiolabeled with [<sup>3</sup>H]-5-HT. The affinity of the compounds for 5-HT<sub>2C</sub> receptors in a
+CHO cell line was determined according to the procedure of D. Hoyer, G. Engel and H.O.
+Kalkman, <i>European J</i>. <i>Pharmacol</i>., 1985, 118, 13-23.</p><p num="0061">Method (b); For the binding to the 5-HT<sub>2B</sub> receptor the 5-HT<sub>2B</sub> receptors were
+radiolabeled with [<sup>3</sup>H]-5-HT. The affinity of the compounds for human 5-HT<sub>2B</sub> receptors
+in a CHO cell line was determined according to the procedure of K. Schmuck, C. Ullmer,
+P. Engels and H. Lubbert, <i>FEBS Lett</i>., 1994, 342, 85-90.</p><p num="0062">Method (c): For the binding to the 5-HT<sub>2A</sub> receptor the 5-HT<sub>2A</sub> receptors were
+radiolabeled with [<sup>125</sup>I]-DOI. The affinity of the compounds for 5-HT<sub>2A</sub>receptors in a
+CHO cell line was determined according to the procedure of D. J. McKenna and S. J.
+Peroutka, <i>J</i>. <i>Neurosci</i>., 1989, 9, 3482-90.</p><heading><b>2. Functional activity</b></heading><p num="0063">The functional activity of compounds of formula (I) was assayed using a
+Fluorimetric Imaging Plate reader (FLIPR). CHO cells expressing the human 5-HT<sub>2C</sub> or
+human 5-HT<sub>2A</sub> receptors were counted and plated into standard 96 well microtitre plates
+on the day before testing to give a confluent monolayer. The cells were then dye loaded
+with the calcium sensitive dye, Fluo-3-AM. Unincorporated dye was removed using an
+automated cell washer to leave a total volume of 100 µL/well of assay buffer (Hanks
+balanced salt solution containing 20 mM Hepes and 2.5 mM probenecid). The drug
+(dissolved in 50 µL of the assay buffer) was added at a rate of 70 µL/sec to each well of the
+FLIPR 96 well plate during fluorescence measurements. The measurements were taken at
+1 sec intervals and the maximum fluorescent signal was measured (approx 10-15 secs after 
+drug addition) and compared with the response produced by 10 µM 5-HT (defined as
+100%) to which it was expressed as a percentage response (relative efficacy). Dose
+response curves were constructed using Graphpad Prism (Graph Software Inc.).</p><p num="0064">The compounds of formula (I) have activity at the h5-HT2c receptor in the range of
+10,000 to 0.1 nM. </p><heading><u style="single">Synthetic Examples</u></heading><heading>Example 1: (R,S)-2-(2,3-Dihydro-1H-3a,6-diaza-cyclopenta[a]inden-8-yl)-1-methylethylamine
+dihydrochloride</heading><p num="0065"><img id="img-00170001" orientation="unknown" wi="70" img-format="tif" img-content="cf" file="00170001.tif" inline="no" he="39"/></p><p num="0066">The compound was prepared according to methods known in the art: Xu, Lianhong;
+Lewis, lestyn R.; Davidsen, Steven K.; Summers, James B. Tetrahedron Lett. (1998),
+39(29), 5159-5162, for synthetic procedures for the preparation of 2-substituted 5-azaindoles;
+synthesis and cyclization reactions of acetylenic aminopyridines); Collini M D,
+Ellingboe J W, Tetrahedron Lett 38(46),7963-7966(1997, for Pd catalysed coupling of
+acetylenes to o-Iodoanilines); Iritani, K.; Matsubara, S.; Utimoto, K.; Tetrahedron Lett
+1988, 29 (15), 1799. (1988, for Pd catalysed cyclisation of o-amino phenylacetylenes to
+indoles); Chen H G, Hoechstetter C, Knochel P, Tetrahedron Lett 30(36),4795-4798(1989,
+for cyclisation of 2-(3-chloropropyl) indoles to 1H-pyrrolo[1,2-a]indoles).</p><heading><b>a) 2,3-Dihydro-1H-3a,6-diaza-cyclopenta[a]indene</b></heading><p num="0067">To a solution of 4-Amino-3-iodopyridine (2.2 g, 10.00 mMol) in acetonitrile (25ml),
+was added dropwise trifluoroacetic anhydride (2.53g, 1.674 ml) at 0 °C followed by
+addition of potassium carbonate (4.14g,30 mMol). The mixture was stirred at room
+temperature for 10 min. To the resulting suspension was added bis(triphenylphosphine)-palladium(II)chloride
+(0.175 g, 0.25mMol), copper(I)iodide (0.095g, 0.50 mMol) and 5-chloro-1-pentyne
+(1.23 g, 12.00 mMol) and the mixture was heated to reflux under argon
+for 3h. The mixture was cooled to room temperature and partitioned between water and
+ethyl acetate. The phases were separated. The organic phase was extracted with water at pH
+1.00. The acidic aqueous phase was mixed with dichloromethane and the pH was raised to
+10 by addition of 2N NaOH. The phases were separated and the organic phase was dried
+over sodium sulfate. The solvent was evaporated and the residue was taken up in
+acetonitrile (20 ml). To the brownish solution was added sodium iodide (3.00g, 20 mMol) 
+and sodium hydride (ca 55% 0.873 g, 20 mMol) and the mixture was stirred at room
+temperature for 2h. The mixture was poured onto ice and partitioned between water and
+ethyl acetate (100 ml water 100 ml ethyl acetate). The phases were separated. The organic
+phase was extracted with water at pH 1.00 (5x 50 ml). The combined acidic aqueous
+phases were mixed with dichloromethane (100 ml) and the pH was raised to 10 by
+addition of 2N NaOH. The phases were separated and the organic phase was dried over
+sodium sulfate. The solvent was evaporated and the title compound (0.81g, 51 % of
+theory) was obtained as a brownish solid. For analytical purposes a sample was
+recrystallised from t-butylmethylether to afford light brown crystals melting at 95-96 °C;
+Found C, 75.93; H, 6.32; N,17.80%, C<sub>10</sub>H<sub>10</sub>N<sub>2</sub> requires : C, 75.92; H, 6.37; N, 17.71%</p><heading><b>b) 2,3-Dihydro-1H-3a,6-diaza-cyclopenta[a]indene-8-carbaldehyde</b></heading><p num="0068">To dimethylformamide (0.3 ml) was added phosphorus oxychloride (0.33 ml)
+dropwise at 0°C. The mixture was allowed to stir for 10 min at room temperature. A
+solution of2,3-dihydro-1H-3a,6-diaza-cyclopenta[a]indene (0.10 g 0.63 mMol) in 0.1 ml
+dimethylformamide was added and the mixture was stirred at room temperature for 3h.
+The reaction was quenched with ice (ca 5g) and the pH was adjusted to 9 by addition of
+28% sodium hydroxide. The mixture was heated to reflux for 10 min. cooled to room
+temperature and extracted with ethyl acetate(3x 5 ml) The combined organic extracts were
+dried with sodium sulfate and evaporated to dryness to yield the title compound (0.115 g,
+97% Th). For analytical purposes a sample was recrystallised from ethyl acetate to afford
+slightly yellow crystals. mp 150-151 °C. Found C, 70.94; H, 5.56; N, 14.97%; C<sub>11</sub>H<sub>20</sub>N<sub>2</sub>O
+requires C, 70.95; H, 5.41; N, 15.04%</p><heading><b>c) 8-(2-Nitro-propenyl)-2,3-dihydro-1H-3a,6-diaza-cyclopenta[a]indene</b></heading><p num="0069">To a solution of 2,3-dihydro-1H-3a,6-diaza-cyclopenta[a]indene-8-carbaldehyde
+(0.30g 1.6 mMol) in nitroethane (3.00 ml) was added ammonium acetate (0.30 g 3.9
+mMol) and the mixture was heated to 100 °C for 4 h with stirring under argon. The
+mixture was cooled to room temperature and purified by chromatography on silicagel gel
+(ca 30 g) eluting first with ethyl acetate (ca 100 ml) then with a mixture of ethyl acetate (9
+parts) and methanol (1 part). The product fraction were combined, concentrated and the
+residue was recrystallised from ethyl acetate to yield the title compound (0.30 g, 77%) as 
+yellow crystals. mp 141-142 C Found C, 64.05; H, 5.51; N, 17.14%; C<sub>13</sub>H<sub>13</sub>N<sub>3</sub>O<sub>2</sub> requires C,
+64.19; H, 5.39; N, 17.27%.</p><heading><b>d) (R,S)-2-(2,3-Dihydro-1H-3a,6-diaza-cyclopenta[a]inden-8-yl)-1-methylethylamine
+dihydrochloride</b></heading><p num="0070">To a solution of 8-(2-nitro-propenyl)-2,3-dihydro-1H-3a,6-diazacyclopenta[a]indene
+(0.200g 0.82 mMol) in tetrahydrofuran (2 ml) was added dropwise a
+1M solution of lithium aluminum hydride (2ml, 2 mMol)in THF at 0°C with stirring
+under argon. The mixture was then heated to reflux for 4 h, was cooled to 0 °C and a 10%
+solution of sodium-potassium tartrate in water (5 ml) was added with stirring. The
+mixture was briefly heated to reflux cooled to room temperature and filtered through a
+pad of dicalite. The dear filtrate was extracted with dichloromethane. The organic phase
+was dried with sodium sulfate evaporated and the residue was purified by chromatography
+on silica gel eluting with dichloromethane: methanol: conc. ammonia=9:1:0.1 to yield the
+title compound as free base as a yellowish oil (90 mg; 51%). To a solution of this oil
+(80mg, 0.37 mMol) in tetrahydrofuran (3 ml) was added dropwise with stirring at room
+temperature a solution of hydrochloric acid in ether (0.2ml 5.5 M, 1.1mMol). The
+resulting suspension was stirred at room temperature for 30 min and the solid was
+collected by filtration and dried to constant weight under high vacuum at 40 °C to yield
+the title compound (100 mg, 93%) as a white powder melting above 280 °C. Found C,
+51.93; H 6.79; N,13.68 %; C<sub>13</sub>H<sub>19</sub>N<sub>3</sub> + 0.73 mol water requires C,51.81; H,6.84; N,13.94
+%.NMR δ<sub>H</sub> (400 MHz DMSO-<i>d</i><sub>6</sub>) 1.25(d,J=6.4Hz,3H); 2.63(m,2H); 3.10(m,4H); 3.50
+(m,1H); 4.27(t,J=7Hz,2H); 7.93(d,)=7Hz,1H); 8.0(s,broad,3H); 8.39(d,J=7Hz,1H); 9.30
+(s,1H); 15.0(s,1H)ppm. </p><heading>Example 2: (R,S)-2-(2,3-Dihydro-1H-3a,4-diaza-cyclopenta[a]inden-8-yl)-1-methylethylamine
+dihydrochloride</heading><p num="0071"><img id="img-00200001" orientation="unknown" wi="67" img-format="tif" img-content="cf" file="00200001.tif" inline="no" he="40"/></p><heading><b>a) 3-(5-Chloropent-1-ynyl)-pyridin-2-ylamine</b></heading><p num="0072">To a stirred solution of 2-amino-3-iodoaniline (13g) in triethylamine (260ml) were
+added bis(triphenylphosphine) palladium dichloride (2g) and copper (I) iodide (1.15g).
+The mixture was cooled to 5 °C before the addition of 5-chloro-1-pentyne (6.6ml). The
+mixture was heated to 50 °C and stirred 5h. The mixture was cooled to room temperature,
+filtered and evaporated. The residue was purified by column chromatography on silica gel
+(ethyl acetate/ hexane 1:1 to 5:1 eluant) to afford 3-(5-chloropent-1-ynyl)-pyridin-2-ylamine
+as a red oil (10.6g, 92%): MS (EI) 196,194 (M),159, 157, 131, 104; <sup>1</sup>H NMR (δ,
+CDCl<sub>3</sub>) 8.0 (dd,1H, J=2,5Hz), 7.47 (dd,1H, J=2,7Hz), 6.59 (dd,1H, J=5,7Hz), 4.94 (br s,
+1H), 3.72 (t,2H, J=6Hz), 2.68 (t,2H, J=7Hz), 2.07 (dt,2H, J=6,7Hz) ppm.</p><heading><b>b) 2-(3-Chloropropyl)-1H-pyrrolo[2,3-b]pyridine</b></heading><p num="0073">3-(5-Chloropent-1-ynyl)-pyridin-2-ylamine (10.2g) was dissolved in acetonitrile
+(120ml) and the solution cooled to 5°C under a stream of argon. Trifluoroacetic anhydride
+(14.1 ml) was added dropwise as a solution in acetonitrile (10ml). The mixture was stirred
+2h at 0 °C and 10min at room temperature. The solvent and excess reagent were
+evaporated under reduced pressure to afford the trifluoroacetate as a viscous oil (20g) that
+was used without further purification. The oil was dissolved in acetonitrile (120ml) and
+treated with palladium (II) chloride. The mixture was heated under argon 2h at 75 °C,
+cooled and evaporated under reduced pressure. The residue was taken up in ethyl acetate 
+and the solution washed with 5% aqueous sodium carbonate solution, brine, dried over
+sodium sulfate and evaporated. The residue was purified by column chromatography on
+silica gel (ethyl acetate/ hexane 1:2 to 1:1 eluant) to afford 2-(3-chloro-propyl)-1H-pyrrolo[2,3-b]pyridine
+as a yellow oil (5.6g, 55%) which solidified on standing. Mp: 75 °C;
+MS ; <sup>1</sup>H NMR (δ, CDCl<sub>3</sub>) 11.7 (s,1H), 8.25 (dd,lH, J=1.2,4.8Hz), 7.86 (dd,1H, J=1.2,8Hz),
+7.06 (dd,1H, J=4.8,8Hz), 6.25 (s,1H), 3.63 (t,2H, J=6.4Hz), 3.08 (t,2H, J=7.6Hz), 2.29
+(dt,2H, J=6.4,7.6Hz) ppm.</p><heading><b>c) 2,3-Dihydro-1H-3a,4-diaza-cyclopenta[a]indene</b></heading><p num="0074">2-(3-Chloro-propyl)-1H-pyrrolo[2,3-b]pyridine (5.6g) was dissolved in acetonitrile
+under a stream of argon. Potassium iodide (6g) was added, and sodium hydride in mineral
+oil (4.60g) added in small portions. After stirring 2h at room temperature, the mixture was
+poured onto a mixture of ice and saturated sodium hydrogencarbonate solution. The
+organics were extracted twice with ethyl acetate. The combined organic phases were
+washed with brine, dried over sodium sulfate and evaporated to afford 2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]indene
+as a crude pale brown solid (4.5g, 99%), which was used
+without further purification. MS (EI) 159 (M+H)<sup>+</sup>, 143, 100; <sup>1</sup>H NMR (δ, CDCl<sub>3</sub>) 8.19
+(dd,1H, J=1,5Hz), 7.80 (dd,1H, J=1,8Hz), 6.99 (dd,1H, J=5,8Hz), 6.12 (s,1H), 4.22 (t,2H,
+J=6 Hz), 3.05 (t,2H, J=8 Hz), 2.63 (dt,2H, J=6,8 Hz) ppm.</p><heading><b>d) 2,3-Dihydro-1H-3a,4-diaza-cyclopenta[a]indene-8-carbaldehyde</b></heading><p num="0075">Phosphorus oxychloride (3.85ml) was added dropwise to N,N-dimethylformamide
+(25ml) cooled in an ice-bath. The mixture was stirred 10min before the addition of 2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]indene
+(4.40g) in N,N-dimethylformamide (7ml).
+The mixture was stirred 45min at 40 °C, cooled to room temperature and concentrated
+aqueous sodium hydroxide added dropwise to pH10. The mixture was heated at 50°C
+10min, cooled to room temperature and poured onto crushed ice. The organics were
+extracted with ethyl acetate (2x), the combined organic phases washed with brine, dried
+over sodium sulfate and evaporated under reduced pressure. The residue was purified by
+column chromatography on silica gel (ethyl acetate /hexane 1:1 to 1:0) to afford 2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]indene-8-carbaldehyde
+(2.4g, 46%) as a light orange
+oil which solidified on standing. Mp. 137-141; MS (EI): 187 (M+H)<sup>+</sup>, 143, 100; <sup>1</sup>H NMR 
+(δ, CDCl<sub>3</sub>) 10.01 (s, 1H), 8.45 (dd, 1H, J=1,8Hz), 8.32 (dd, 1H, J=1,5Hz), 7.23 (dd, 1H,
+J=5,8Hz), 4.31 (t, 2H, J=6 Hz), 3.38 (t, 2H, J=8 Hz), 2.76 (dt, 2H, J=6,8 Hz) ppm.</p><heading><b>e) 8-(2-Nitropropenyl)-2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]indene</b></heading><p num="0076">A stirred solution of 2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]indene-8-carbaldehyde
+(2.3g) and ammonium acetate (1.05g) in nitroethane was heated to 100°C
+for 2.5h, cooled to room temperature, and evaporated under reduced pressure. The
+residue was partitioned between water and ethyl acetate, the phases separated, the aqueous
+phase re-extracted with ethyl acetate. The combined organic phases were dried over
+sodium sulfate and evaporated under reduced pressure. The residue was purified by
+column chromatography on silica gel (ethyl acetate/hexane 2:1 to 4:1) to afford 8-(2-nitropropenyl)-2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]indene
+as a yellow solid (2.4g,
+80%); MS (EI) 244 (M+H)<sup>+</sup>, 224, 195, 171; <sup>1</sup>H NMR (δ, CDCl<sub>3</sub>) 8.31 (dd, 1H, J=1,5Hz),
+8.29 (s, 1H), 7.92 (dd, 1H, J=1,8Hz), 7.16 (dd,1H, J=5,8Hz), 4.34 (t,2H, J=6 Hz), 3.18
+(t,2H, J=8 Hz), 2.72 (dt,2H, J=6,8 Hz), 2.45 (s,3H) ppm.</p><heading><b>f) (R,S)-2-(2,3-Dihydro-1H-3a,4-diaza-cyclopenta[a]inden-8-yl)-1-methylethylamine
+dihydrochloride</b></heading><p num="0077">To lithium aluminium hydride (30mg) in tetrahydrofuran (1ml) at room temperature was
+slowly added a solution of 8-(2-nitropropenyl)-2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]indene
+(98mg) in tetrahydrofuran (1ml). The mixture was heated at reflux
+for 3h, cooled to room temperature and 1M aqueous sodium hydroxide solution added
+dropwise. The mixture was stirred 30min, and poured into ethyl acetate. The phases were
+separated, the aqueous phase re-extracted with ethyl acetate. The combined organic phases
+were washed with brine, dried over sodium sulfate and evaporated under reduced
+pressure. The residue was purified by column chromatography on silica gel
+(dichloromethane/methanol/ammonia 9:1:0.1) to afford (R,S)-2-(2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]inden-8-yl)-1-methyl-ethylamine.
+This was treated with a solution of
+hydrochloric acid in ether. The mixture was stirred 15min at room temperature and the
+solvent evaporated under reduced pressure. The residue was recrystallised from
+ethanol/ether to afford (R,S)-2-(2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]inden-8-yl)-1-methylethylamine
+dihydrochloride as a white solid (18mg); MS (EI): 216 (M+H)<sup>+</sup>, 143,
+117, 100; <sup>1</sup>H NMR (δ, d6-DMSO) 8.42 (d, 1H, J=8Hz), 8.3 (d, 1H, J=5Hz), 8.15 (br s, 2H), 
+7.35 (dd, 1H, J=5,8Hz), 5.1 (br s), 4.25 (t, 2H, J=5Hz), 3.4 (m, 1H), 3.05 (m, 2H), 2.95
+(m,1H), 2.58 (t, 2H, J=6Hz), 1.24 (d, 3H, J=6Hz) ppm.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A chemical compound of formula (I):
+
+wherein
+<claim-text><claim-text>n is 1, 2 or 3;</claim-text><claim-text>X1 is nitrogen or CR4; X2 is nitrogen or CR5; X3 is nitrogen or CR6; X4 is nitrogen or
+CR7; wherein one or two of the X1, X2, X3 and X4 groups are nitrogen;</claim-text><claim-text>R1 and R2 are independently selected from hydrogen and alkyl;</claim-text><claim-text>R3 is hydrogen or alkyl;</claim-text><claim-text>R4 to R7 are independently selected from hydrogen, halogen, hydroxy, alkyl, aryl,
+alkoxy, aryloxy, alkylthio, arylthio, alkylsulfonyl, alkylsulfoxyl, arylsulfonyl,
+arylsulfoxyl, amino, monoalkylamino, dialkylamino, nitro, cyano,
+carboxaldehyde, alkylcarbonyl, arylcarbonyl, aminocarbonyl,
+monoalkylaminocarbonyl, dialkylaminocarbonyl, alkoxycarbonylamino,
+aminocarbonyloxy, monoalkylaminocarbonyloxy, dialkylaminocarbonyloxy,
+monoalkylaminocarbonylamino and dialkylaminocarbonylamino, and
+wherein a carbon ring atom next to a nitrogen is not substituted by halogen;</claim-text></claim-text>
+and pharmaceutically acceptable salts and prodrugs thereof.</claim-text></claim><claim num="2"><claim-text>A compound according to claim 1 wherein in case two of the X1, X2, X3 and X4
+groups are nitrogen these nitrogen atoms are in meta or para position to each
+other.</claim-text></claim><claim num="3"><claim-text>A compound according to claim 1 wherein X1 is nitrogen, X2 is CR5, X3 is CR6, and
+X4 is CR7.</claim-text></claim><claim num="4"><claim-text>A compound according to claim 1 wherein X1 is CR4; X2 is nitrogen; X3 is CR6 and
+X4 is CR7.</claim-text></claim><claim num="5"><claim-text>A compound according to claim 1 wherein X1 is CR4, X2 is CR5; X3 is nitrogen and
+X4 CR7.</claim-text></claim><claim num="6"><claim-text>A compound according to claim 1 wherein X1 is CR4, X2 is CR5; X3 is CR6 and X4 is
+nitrogen.</claim-text></claim><claim num="7"><claim-text>A compound according to claim 1 or 2 wherein X1 is nitrogen, X2 is CR5; X3 is
+nitrogen and X4 is CR7.</claim-text></claim><claim num="8"><claim-text>A compound according to claim 1 or 2 wherein X1 is CR4, X2 is nitrogen, X3 is CR6
+and X4 is nitrogen.</claim-text></claim><claim num="9"><claim-text>A compound according to claim 1 or 2 wherein X1 is nitrogen, X2 is CR5, X3 is CR6
+and X4 is nitrogen.</claim-text></claim><claim num="10"><claim-text>A compound according to any preceding claim wherein n=1.</claim-text></claim><claim num="11"><claim-text>A compound according to any preceding claim wherein R1 and R2 are hydrogen.</claim-text></claim><claim num="12"><claim-text>A compound according to any preceding claim wherein R1 is hydrogen and R2 is
+alkyl.</claim-text></claim><claim num="13"><claim-text>A compound according to any preceding claim wherein R1 is hydrogen and R2 is
+arylalkyl.</claim-text></claim><claim num="14"><claim-text>A compound according to any preceding claim wherein R3 is methyl.</claim-text></claim><claim num="15"><claim-text>A compound according to any preceding claim wherein R4 to R7 are selected from
+hydrogen, halogen, hydroxy, alkyl, aryl, alkoxy, aryloxy, alkylthio, alkylsulfoxyl and
+alkylsulfonyl.</claim-text></claim><claim num="16"><claim-text>A compound according to any preceding claim wherein R4 is hydrogen or halogen.</claim-text></claim><claim num="17"><claim-text>A claim according to any preceding claim wherein R5 is other than hydrogen.</claim-text></claim><claim num="18"><claim-text>A compound according to any preceding claim wherein R5 is selected from
+halogen, alkyl, alkoxy and alkylthio.</claim-text></claim><claim num="19"><claim-text>A compound according to any preceding claim wherein R6 is other than hydrogen.</claim-text></claim><claim num="20"><claim-text>A compound according to any preceding claim wherein R6 is selected from
+hydrogen and halogen.</claim-text></claim><claim num="21"><claim-text>A compound according to any preceding claim wherein two or three of R4, R5, R6
+and R7 are hydrogen.</claim-text></claim><claim num="22"><claim-text>A compound according to claim 1 wherein the compounds of formula (I) are
+selected from (R,S)-2-(2,3-dihydro-1H-3a,6-diaza-cyclopenta[a]inden-8-yl)-1-methyl-ethylamine
+and (R,S)-2-(2,3-dihydro-1H-3a,4-diaza-cyclopenta[a]inden-8-yl)-1-methyl-ethylamine.</claim-text></claim><claim num="23"><claim-text>A compound of formula (I) as set out in any one of claims 1 to 22 for use in
+therapy.</claim-text></claim><claim num="24"><claim-text>The use of a compound of formula (I) as set out in any of claims 1 to 22 in the
+manufacture of a medicament comprising a compound as defined in any of claim 1
+to 22 for the treatment of disorders of the central nervous system, damage to the
+central nervous system, cardiovascular disorders, gastrointestinal disorders,
+diabetes insipidus, and sleep apnoea.</claim-text></claim><claim num="25"><claim-text>A use according to claim 24 wherein the disorders of the central nervous system are
+selected from depression, atypical depression, bipolar disorders, anxiety disorders,
+obsessive-compulsive disorders, social phobias or panic states, sleep disorders,
+sexual dysfunction, psychoses, schizophrenia, migraine and other conditions
+associated with cephalic pain or other pain, raised intracranial pressure, epilepsy,
+personality disorders, age-related behavioural disorders, behavioural disorders
+associated with dementia, organic mental disorders, mental disorders in childhood,
+aggressivity, age-related memory disorders, chronic fatigue syndrome, drug and
+alcohol addiction, obesity, bulimia, anorexia nervosa and premenstrual tension.</claim-text></claim><claim num="26"><claim-text>A use according to claim 24 wherein the damage to the central nervous system is by
+trauma, stroke, neurodegenerative diseases or toxic or infective CNS diseases.</claim-text></claim><claim num="27"><claim-text>A use according to claim 26 wherein said toxic or infective CNS disease is
+encephalitis or meningitis.</claim-text></claim><claim num="28"><claim-text>A use according to claim 24 wherein the cardiovascular disorder is thrombosis.</claim-text></claim><claim num="29"><claim-text>A use according to claim 24 wherein the gastrointestinal disorder is dysfunction of
+gastrointestinal motility.</claim-text></claim><claim num="30"><claim-text>A use according to claim 24 wherein said medicament is for the treatment of
+obesity.</claim-text></claim><claim num="31"><claim-text>A method of treatment of any of the disorders set out in claims 24 to 30 comprising
+administering to a patient in need of such treatment an effective dose of a
+compound of formula (I) as set out in any one of claims 1 to 22.</claim-text></claim><claim num="32"><claim-text>A use or method according to any of claims 24 to 31 wherein said treatment is
+prophylactic treatment.</claim-text></claim><claim num="33"><claim-text>A method of preparing a compound of formula (I) as set out in any one of claims 1
+to 22.</claim-text></claim><claim num="34"><claim-text>The method according to claim 33 wherein a compound of formula (I) is prepared
+by reduction or reductive alkylation of a compound of formula (VI).
+
+wherein X1, X2, X3, X4 and R3 are as defined in claim 1.</claim-text></claim><claim num="35"><claim-text>A pharmaceutical composition comprising a compound of formula (I) as set out in
+any one of claims 1 to 22 in combination with a pharmaceutically acceptable carrier
+or excipient.</claim-text></claim><claim num="36"><claim-text>A method of making a composition according to claim 34 comprising combining a
+compound of formula (I) as set out in any one of claims 1 to 22 with a
+pharmaceutically acceptable carrier or excipient.</claim-text></claim><claim num="37"><claim-text>The invention as hereinbefore defined.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

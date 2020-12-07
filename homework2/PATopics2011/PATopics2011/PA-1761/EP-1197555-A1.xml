@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1197555-A1" country="EP" doc-number="1197555" kind="A1" lang="EN" family-id="16242522" status="new" date-produced="20090516" date="20020417"><bibliographic-data><publication-reference ucid="EP-1197555-A1" status="new" fvid="23425678"><document-id status="new" format="original"><country>EP</country><doc-number>1197555</doc-number><kind>A1</kind><date>20020417</date></document-id></publication-reference><application-reference ucid="EP-00940903-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00940903</doc-number><kind>A</kind><date>20000630</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-0004348-W" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>0004348</doc-number><kind>W</kind><date>20000630</date></document-id></priority-claim><priority-claim ucid="JP-18951299-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>18951299</doc-number><kind>A</kind><date>19990702</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C12N   9/12        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N   9/12        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/54        20060101A I20060521RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/54        20060101C I20060521RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C12N   9/12B1B</classification-symbol><classification-symbol scheme="ICO">M12N207:00</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">FÜR DAS SACCHAROSE-PTS-ENZYM KODIERENDE DNA</invention-title><invention-title load-source="ep" status="new" lang="EN">DNA ENCODING SUCROSE PTS ENZYME II</invention-title><invention-title load-source="ep" status="new" lang="FR">ADN CODANT UNE ENZYME II DE PTS DE SUCROSE</invention-title><citations><patent-citations><patcit ucid="EP-1108790-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1108790</doc-number><kind>A2</kind></document-id><sources><source category="E" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2001002583-A2" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2001002583</doc-number><kind>A2</kind></document-id><sources><source category="E" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>DATABASE  EMBL [Online] membran protein; sucrose transport protein, 13 October 1993 (1993-10-13) retrieved from EBI Database accession no. X69800 XP002240258</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DATABASE  EMBL [Online] Pediococcus pentosaceus raffinose operon genes, 3 May 1994 (1994-05-03) retrieved from EBI Database accession no. L32093 XP002240257</text><sources><source category="X" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>DOMINIQUEZ H ET AL:  "COMPLETE SUCROSE METABOLISM REQUIRES FRUCTOSE PHOSPHOTRANSFERASE ACTIVITY IN CORYNEBACTERIUM GLUTAMICUM TO ENSURE PHOSPHORYLATION OF LIBERATED FRUCTOSE" APPLIED AND ENVIRONMENTAL MICROBIOLOGY, WASHINGTON,DC, US, vol. 62, no. 10, October 1996 (1996-10), pages 3878-3880, XP000960659 ISSN: 0099-2240</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>KAWAHARA Y ET AL:  "EFFECT OF GLYCINE BETAINE ON THE SUCROSE CATABOLISM OF AN L-LYSINE PRODUCING MUTANT OF BREVIBACTERIUM LACTOFERMENTUM" APPLIED MICROBIOLOGY AND BIOTECHNOLOGY, SPRINGER VERLAG, BERLIN, DE, vol. 34, no. 3, 1 December 1990 (1990-12-01), pages 340-343, XP000571746 ISSN: 0175-7598</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>LEE J-K ET AL:  "NUCLEOTIDE SEQUENCE OF THE GENE ENCODING THE CORYNEBACTERIUM GLUTAMICUM MANNOSE ENZYME II AND ANALYSES OF THE DEDUCED PROTEIN SEQUENCE" FEMS MICROBIOLOGY LETTERS, AMSTERDAM, NL, vol. 119, no. 1-2, 1994, pages 137-146, XP000960685 ISSN: 0378-1097</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>MARTIN J F ET AL:  "CLONING SYSTEMS IN AMINO ACID-PRODUCING CORYNEBACTERIA" BIO/TECHNOLOGY, NATURE PUBLISHING CO. NEW YORK, US, vol. 5, 1 February 1987 (1987-02-01), pages 137-146, XP002034056 ISSN: 0733-222X</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>See also references of WO     0102584A1</text><sources><source name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>AJINOMOTO KK</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>AJINOMOTO CO., INC.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Ajinomoto Co., Inc.</last-name><address><street>15-1 Kyobashi 1-chome, Chuo-ku</street><city>Tokyo 104-8315</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>IZUI MASAKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>KURAHASHI OSAMU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NAKAMATSU TSUYOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SUGIMOTO MASAKAZU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>IZUI, MASAKO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KURAHASHI, OSAMU</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>NAKAMATSU, TSUYOSHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SUGIMOTO, MASAKAZU</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>IZUI, Masako Ajinomoto Co., Inc.</last-name><address><street>1-1, Suzuki-cho Kawasaki-ku</street><city>Kawasaki-shi Kanagawa 210-8681</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KURAHASHI, Osamu Ajinomoto Co., Inc.</last-name><address><street>1-1, Suzuki-cho Kawasaki-ku</street><city>Kawasaki-shi Kanagawa 210-8681</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NAKAMATSU, Tsuyoshi Ajinomoto Co., Inc.</last-name><address><street>1-1, Suzuki-cho Kawasaki-ku</street><city>Kawasaki-shi Kanagawa 210-8681</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SUGIMOTO, Masakazu Ajinomoto Co., Inc.</last-name><address><street>1-1, Suzuki-cho Kawasaki-ku</street><city>Kawasaki-shi Kanagawa 210-8681</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Strehl Schübel-Hopf Groening &amp;amp; Partner</last-name><address><street>Maximilianstrasse 54</street><city>80538 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><pct-or-regional-filing-data ucid="JP-0004348-W" status="new"><document-id status="new" format="original"><country>JP</country><doc-number>0004348</doc-number><kind>W</kind></document-id></pct-or-regional-filing-data><pct-or-regional-publishing-data ucid="WO-2001002584-A1" status="new"><document-id status="new" format="original"><country>WO</country><doc-number>2001002584</doc-number><kind>A1</kind><date>20010111</date></document-id></pct-or-regional-publishing-data><designated-states><ep-contracting-states><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A gene encoding a protein constituting sucrose PTS
+of coryneform bacterium is provided by amplifying a
+region existing downstream from sucrase gene in
+coryneform bacterium by the cassette-ligation mediated
+PCR to obtain DNA encoding sucrose PTS enzyme II, which
+is a protein defined in the following (A) or (B):
+<sl><li>(A) a protein which has the amino acid sequence of
+SEQ ID NO: 2 in Sequence Listing;</li><li>(B) a protein which has the amino acid sequence of
+SEQ ID NO: 2 in Sequence Listing including substitution,
+deletion, insertion, addition or inversion of one or
+several amino acids, and an activity for binding to
+sucrose.</li></sl></p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">Technical Field</u></heading><p num="0001">The present invention relates to a DNA encoding
+sucrose PTS enzyme II, which is a protein involved in
+uptake of sucrose into a cell of coryneform bacterium.</p><heading><u style="single">Background Art</u></heading><p num="0002">Bacteria can assimilate many carbon sources, and
+various specific systems exist for their cellular
+transmembrane transport. Moreover, most of bacteria can
+respond to environmental changes to survive under a
+limited nutritious condition. Their cells are provided
+with a detector for monitoring the environment to select
+their nutrition from various carbon sources. Examples
+of such transmembrane transport systems and detectors of
+sugars include PTS (phosphoenolpyruvate/carbohydrate
+phosphotransferase system or phosphoenolpyruvate-sugar
+transport system; as for PTS, refer to <i>Escherichia coli</i>
+and <i>Salmonella</i> Cellular and Molecular Biology, Second
+Edition, ASM (American Society for Microbiology) Press).</p> <p num="0003">PTS is involved in regulation of transmembrane
+transport and phosphorylation of various sugars (PTS
+sugars), movement towards these carbon sources and many
+metabolic pathways. PTS catalyzes the following 
+reaction. PEP refers to phosphoenolpyruvic acid.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">PEP (intracellular) + Sugar (extracellular) --&gt;<st32:break type="required"/>
+Pyruvic acid (intracellular) +<st32:break type="required"/>
+Phosphorylated sugar (intracellular)</st32:df></p><p num="0004">PTS catalyzes a reaction for generating a
+phosphorylated sugar and pyruvic acid by translocating a
+phosphate group of intracellular phosphoenolpyruvic acid
+(also referred to as "PEP" hereafter) to an
+extracellular sugar. The phosphorylation of a sugar is
+linked with cellular transmembrane transport of a sugar,
+and energies required for these processes are supplied
+from PEP, which is an intermediate of the glycolytic
+pathway.</p><p num="0005">In <i>Escherichia coil</i> and <i>Salmonella typhimurium</i>,
+proteins constituting PTS catalyze the following
+reactions.
+<st32:chr xmlns:st32="http://www.matrixware.com/ns/st32/">(1)   PEP + EI --&gt; P-EI + Pyruvic acid</st32:chr><st32:chr xmlns:st32="http://www.matrixware.com/ns/st32/">(2)   P-EI + Hpr --&gt; P-Hpr + EI</st32:chr><st32:chr xmlns:st32="http://www.matrixware.com/ns/st32/">(3)   P-Hpr + EIIA --&gt; P-EIIA + Hpr</st32:chr><st32:chr xmlns:st32="http://www.matrixware.com/ns/st32/">(4)   P-EIIA + EIIB --&gt; P-EIIB + EIIA</st32:chr><st32:chr xmlns:st32="http://www.matrixware.com/ns/st32/">(5)   P-EIIB + Sugar (extracellular) + EIIB + Sugar-P
+(intracellular)</st32:chr></p><p num="0006">Among proteins involved in the above reactions, EI
+(Enzyme I) and Hpr (histidine protein) are soluble
+cytoplasmic proteins involved in phosphorylation of all 
+PTS sugars and referred to as general PTS proteins.</p><p num="0007">On the other hand, EII (Enzyme II) is specific for
+PTS sugars and consists of several domains or proteins
+depending on the sugars. For example, the mannitol-specific
+EII is a membrane-bound protein consisting of
+three domains, A, B and C. The glucose-specific EII and
+sucrose-specific EII consist of IIB and IIC, which are
+membrane-bound proteins, and IIA, which is a soluble
+protein. In any case, translocation of a phosphate
+group from PEP to a sugar is mediated by EI, HPr, EIIA
+and EIIB. The EIIC domain, which is an intramembranous
+portion of EII, forms a translocation channel and is
+considered to be probably a specific binding site of a
+substrate.</p> <p num="0008">The third type of EII is observed in mannose PTS.
+Both of its domains A and B are fused in a single
+soluble polypeptide, and the two intramembranous
+proteins (IIC and IID) are involved in transmembrane
+transport of mannose.</p> <p num="0009">In <i>Escherichia coli</i> and <i>Salmonella typhimurium</i>,
+the gene encoding EI (ptsI) has been cloned and
+sequenced (Saffen, E.W. <i>et al., J. Biol. Chem., 262</i>,
+pp.16241-16253, 1987; De Reuse, H. and Danchin, A., <i>J.
+Bacteriol., 170</i>, pp.3827-3837, 1988). Further, EII
+specific for some sugars have also been cloned (Saffen,
+E.W. <i>et al., J. Biol. Chem., 262,</i> pp.16241-16253, 1987;
+Erni, B. and Zanolari, B., <i>J. Biol. Chem., 261</i>, 
+pp.16398-16403, 1986; Nelson, S.O. <i>et al., EMBO J., 3,</i>
+pp.1587-1593, 1984).</p> <p num="0010">It is known that some kinds of sugars are taken up
+by non-PTS, which do not require PEP, as a system for
+uptake into cells.</p><heading><u style="single">Disclosure of the Invention</u></heading><p num="0011">As described above, many studies about uptake of
+sugar into cells have been performed, but studies about
+PTS in industrially useful coryneform bacteria have not
+made much progress. Accordingly, an object of the
+present invention is to provide a gene encoding a
+protein constituting sucrose PTS in coryneform bacterium.</p><p num="0012">The inventors of the present application isolated
+a DNA fragment including a gene encoding sucrase
+(invertase) of coryneform bacterium and determined its
+structure. Further, they developed a method for
+producing an amino acid or a nucleic acid by using a
+coryneform bacterium containing the amplified sucrase
+gene (Japanese Patent Laid-open Publication (Kokai) Nos.
+5-244958 and 8-196280). In the DNA fragment, four open
+reading frames (ORF-F1, ORF-F2, ORF-F3 and ORF-F4) exist
+in a <i>Sma</i>I fragment of about 6 kb.</p><p num="0013">However, the inventors of the present invention
+considered based on comparison with other sucrase genes
+that the aforementioned ORF-F2 did not contain the
+sucrase gene in full length. That is, the number of 
+amino acid residues in sucrase estimated from known
+sucrase genes is 466 to 511 (Gunaseakren, P., <i>J.
+Bacteriol., 172</i> (12), pp.6727-35, 1990), whereas the
+amino acid sequence that can be encoded by ORF-F2
+contains 424 amino acid residues, which was relatively
+short. Therefore, a sequence existing downstream from
+ORF-F2 was cloned again and its nucleotide sequence was
+determined. As a result, it was revealed that the DNA
+fragment containing the aforementioned sucrase gene
+consisted of two independent cloned fragments ligated to
+each other, and it was found that a novel gene encoding
+sucrose PTS enzyme II existed downstream from the
+sucrase gene. Thus, the present invention was
+accomplished.</p><p num="0014">That is, the present invention provides a protein
+defined in the following (A) or (B):
+<sl><li>(A) a protein which has the amino acid sequence of
+SEQ ID NO: 2 in Sequence Listing;</li><li>(B) a protein which has the amino acid sequence of
+SEQ ID NO: 2 in Sequence Listing including substitution,
+deletion, insertion, addition or inversion of one or
+several amino acids, and an activity for binding to
+sucrose.</li></sl></p><p num="0015">The present invention also provides a DNA which
+encodes a protein defined in the following (A) or (B):
+<sl><li>(A) a protein which has the amino acid sequence of
+SEQ ID NO: 2 in Sequence Listing; </li><li>(B) a protein which has the amino acid sequence of
+SEQ ID NO: 2 in Sequence Listing including substitution,
+deletion, insertion, addition or inversion of one or
+several amino acids, and an activity for binding to
+sucrose.</li></sl></p><p num="0016">The aforementioned DNA includes a DNA defined in
+the following (a) or (b):
+<sl><li>(a) a DNA which contains the nucleotide sequence
+of the nucleotides 3779 to 5761 of SEQ ID NO: 1 in
+Sequence Listing;</li><li>(b) a DNA which is hybridizable with a nucleotide
+sequence containing the nucleotide sequence of the
+nucleotides 3779 to 5761 of SEQ ID NO: 1 in Sequence
+Listing under a stringent condition, and encodes a
+protein having an activity for binding to sucrose.</li></sl></p><heading><u style="single">Brief Description of the Drawings</u></heading><p num="0017"><sl><li>Fig. 1 shows a construction process of a plasmid
+for disrupting the sucrose PTS enzyme II gene.</li><li>Fig. 2 shows a construction process of pBCT4.</li></sl></p><heading><u style="single">Best Mode for Carrying out the Invention</u></heading><p num="0018">Hereafter, the present invention will be explained
+in detail.</p><p num="0019">The DNA of the present invention was obtained, in
+the examples described later, by amplifying a region
+existing downstream from the sucrase gene on chromosomal 
+DNA of <i>Brevibacterium lactofermentum</i> by PCR (polymerase
+chain reaction).</p><p num="0020">A region adjacent to a known region on a
+chromosomal DNA can be amplified by ligating a cassette
+to a DNA fragment containing the regions and performing
+PCR using a primer corresponding to the known region and
+a primer corresponding to the cassette. At this time,
+if the 5' end of the cassette is dephosphorylated
+beforehand, a nick is generated at a ligation site of
+the chromosomal DNA fragment and 5' end of the cassette.
+Therefore, DNA synthesis started from the cassette
+primer will be stopped at this ligation site, and only
+the DNA synthesized from a synthetic primer will serves
+as a template for synthesis starting from the cassette
+primer and a complementary chain will be formed. As a
+result, specific amplification becomes possible
+(cassette-ligation mediated PCR method (<i>Molecular and
+Cellular Probes, 6,</i> pp.467-475)). A kit utilizing this
+method is commercially available (TAKARA LA PCR™ in
+vitro Cloning Kit, Takara Shuzo) and can be utilized to
+obtain the DNA of the present invention.</p><p num="0021">Since the nucleotide sequences of the DNA of the
+present invention and the adjacent region thereof have
+been revealed, they can be directly amplified by PCR
+using oligonucleotides synthesized based on these
+nucleotide sequences as primers and chromosomal DNA of
+coryneform bacterium as a template. Examples of such 
+primers include oligonucleotides having the nucleotide
+sequences of SEQ ID NOS: 10 and 21. Further, the DNA of
+the present invention can also be isolated from a
+chromosomal DNA library by hybridization using an
+oligonucleotide synthesized based on these nucleotide
+sequences as a probe. The chromosomal DNA of coryneform
+bacterium can be obtained by, for example, the method of
+Saito <i>et al.</i> (described in <i>Biochim. Biophys. Acta, 72</i>,
+pp.619-629, 1963) or the method of K. S. Kirby (<i>Biochem.
+J., 64,</i> p.405, 1956).</p><p num="0022">Further, conventional methods well known to those
+skilled in the art can be employed for preparation of
+chromosomal DNA, preparation of chromosomal DNA library,
+hybridization, PCR, preparation of plasmid DNA,
+digestion and ligation of DNA, transformation, design of
+oligonucleotides used as primers and so forth. These
+methods are described in Sambrook, J., Fritsch, E. F.,
+and Maniatis, T., "Molecular Cloning A Laboratory Manual,
+Second Edition", Cold Spring Harbor Laboratory Press,
+1989 and so forth.</p><p num="0023">Plasmids used for cloning of the DNA of the
+present invention, preparation of a chromosomal DNA
+library or the like may be those that can replicate in
+microorganisms such as bacteria belonging to the genus
+<i>Escherichia</i>, and specific examples thereof include
+pBR322, pTWV228, pMW119, pUC19 and so forth.</p><p num="0024">An example of the nucleotide sequence of a DNA 
+fragment containing the DNA of the present invention
+obtained as described above is shown as SEQ ID NO: 1 in
+Sequence Listing. The region containing the nucleotide
+sequence of the nucleotides 3779 to 5761 in this
+nucleotide sequence encodes sucrose PTS enzyme II, which
+is the protein of the present invention. In the
+nucleotide sequence of SEQ ID NO: 1, the nucleotides 342
+to 1505 and the nucleotides 2338 to 3609 correspond to
+ORF-F1 and ORF-F2, respectively, in the DNA fragment
+containing the sucrase gene described in Japanese Patent
+Laid-open Publication (Kokai) No. 8-196280. Further,
+when the nucleotide sequence of SEQ ID NO: 1 and the
+nucleotide sequence described in Japanese Patent Laid-open
+Publication (Kokai) No. 8-196280 are compared, a
+region of the nucleotides 1 to 3687 in the nucleotide
+sequence of SEQ ID NO: 1 was identical to the nucleotide
+sequence described in Japanese Patent Laid-open
+Publication (Kokai) No. 8-196280. Accordingly, it was
+revealed that the DNA fragment containing the sucrase
+gene consisted of two independent cloned fragments.</p><p num="0025">The DNA of the present invention may be a DNA that
+encodes sucrose PTS enzyme II including substitution,
+deletion, insertion, addition or inversion of one or
+several amino acids at one or a plurality of sites so
+long as the activity for binding to sucrose of the
+encoded sucrose PTS enzyme II is not deteriorated. The
+number meant by the term "several" used herein may vary 
+depending on locations of amino acid residues in the
+three-dimensional structure of proteins and kinds of
+amino acid residues. This is due to the fact that there
+are highly analogous amino acids among amino acids such
+as isoleucine and valine, and difference among such
+amino acids does not substantially affect the three-dimensional
+structure of proteins. Therefore, the
+protein may be one having homology of 70% to 80% or
+higher, preferably, 90% to 95%, with respect to the
+whole amino acid sequence constituting sucrose PTS
+enzyme II and having an activity for binding to sucrose.
+Specifically, the term "several" means 2 to 180,
+preferably 2 to 60, more preferably 2 to 5.</p><p num="0026">Such a DNA encoding a protein which is
+substantially identical to sucrose PTS enzyme II as
+mentioned above can be obtained by modifying a
+nucleotide sequence so that the amino acid sequence at a
+particular site should include substitution, deletion,
+insertion, addition or inversion of an amino acid
+residue or residues through, for example, site-specific
+mutagenesis. Further, such a modified DNA as mentioned
+above may also be obtained by a conventional mutagenesis
+treatment. Examples of the mutagenesis treatment
+include an in vitro treatment of DNA encoding sucrose
+PTS enzyme II with hydroxylamine or the like, a
+treatment of microorganisms such as <i>Escherichia</i> bacteria
+containing the DNA encoding sucrose PTS enzyme II by UV 
+irradiation or with mutagenesis agents used for a usual
+mutagenesis treatment such as N-methyl-N'-nitro-N-nitrosoguanidine
+(NTG) and nitrous acid.</p><p num="0027">The aforementioned substitution, deletion,
+insertion, addition, inversion or the like of
+nucleotides includes naturally occurring mutations
+(mutant or variant) such as those observed depending on
+differences of strains, species or genera of
+microorganisms containing sucrose PTS enzyme II and so
+forth.</p><p num="0028">A DNA which encodes a protein substantially the
+same as sucrose PTS enzyme II can be obtained by, for
+example, isolating a DNA which is hybridizable with a
+DNA having the nucleotide sequence of the nucleotides
+3779 to 5761 of the nucleotide sequence of SEQ ID NO: 1
+in Sequence Listing or a probe prepared from DNA having
+the nucleotide sequence by PCR or the like under
+stringent conditions and encoding a protein containing
+sucrose PTS enzyme II having an activity for binding to
+sucrose from DNA encoding sucrose PTS enzyme II
+containing a mutation or a cell containing it. The
+"stringent conditions" referred to herein is a condition
+under which a so-called specific hybrid is formed, but a
+non-specific hybrid is not formed. It is difficult to
+clearly define this condition by using numerical values.
+However, for example, the stringent conditions include a
+condition under which two of DNAs having high homology, 
+for example, two of DNAs having homology of not less
+than 50% are hybridized with each other, but two of DNAs
+having homology lower than the above level are not
+hybridized with each other. Alternatively, the
+stringent conditions are exemplified by a hybridization
+condition represented by salt concentrations of 1 x SSC,
+0.1% SDS, preferably 0.1 x SSC, 0.1% SDS, at 60°C, which
+is an ordinary condition of washing in Southern
+hybridization. The homology used herein is represented
+with a value calculated by the method of Lipman-Pearson
+(<i>Science, 227</i>, pp.1435-1441, 1985) or the method of
+Takashi &amp; Gotoh (<i>J. Biochem., 92</i>, pp.1173-1177, 1984).
+The probe can be designed according to a method known to
+those skilled in the art.</p><p num="0029">Those genes hybridizable under the condition as
+described above include those having a stop codon
+generated in the genes, but such genes can be easily
+removed by ligating them to a commercially available
+expression vector to examine size of the expressed
+product.</p><p num="0030">The protein of the present invention is a protein
+encoded by the DNA of the present invention and has the
+amino acid sequence of SEQ ID NO: 2. The protein of the
+present invention may have an amino acid sequence
+corresponding to the amino acid sequence of SEQ ID NO: 2
+in Sequence Listing including substitution, deletion,
+insertion, addition or inversion of one or several amino 
+acids so long as it has an activity for binding to
+sucrose.</p><p num="0031">The DNA of the present invention can be utilized
+to improve sucrose uptake ability of coryneform bacteria
+or the like. Further, since PTS consumes PEP for uptake
+of a sugar into a cell, PTS is considered to be
+disadvantageous for synthesis of amino acids of which
+biosynthesis system include PEP in an upstream stage.
+Therefore, if sucrose PTS is disrupted and sucrose can
+be taken up by an uptake system which does not require
+PEP, it is considered advantageous in view of sucrose
+uptake rate or productivity of an amino acid or the like.
+In coryneform bacteria, non-PTS specific for sucrose is
+not known, but, for example, if sucrase is allowed to
+act extracellularly, glucose and fructose can be taken
+up by non-PTS.</p><p num="0032">Further, if the DNA of the present invention is
+modified so as to encode sucrose PTS enzyme II having an
+enhanced or suppressed function or so as to be ligated
+to an expression control sequence such as a promoter
+derived from other genes and introduced into a
+coryneform bacterium, a coryneform bacterium having an
+enhanced or suppressed sucrose uptake ability can be
+created. Specifically, a DNA encoding sucrose PTS
+enzyme II having an enhanced function is introduced into
+an autonomously replicable vector or chromosomal DNA in
+a cell of coryneform bacterium. Further, a DNA encoding 
+sucrose PTS enzyme II having a suppressed function is
+introduced into chromosomal DNA by gene substitution
+utilizing homologous recombination. Alternatively, a
+coryneform bacterium in which sucrose PTS functions at
+low temperature but does not function at high
+temperature can be created by gene substitution using a
+plasmid containing a temperature sensitive replication
+control region (see Japanese Patent Publication (Kokoku)
+No. 7-108228).</p><p num="0033">Coryneform bacteria to which the present invention
+is applicable include those bacteria having been
+hitherto classified into the genus <i>Brevibacterium</i> but
+united into the genus <i>Corynebacterium</i> at present (<i>Int. J.
+Syst. Bacteriol., 41,</i> 255 (1981)), and include bacteria
+belonging to the genus <i>Brevibacterium</i> closely relative
+to the genus <i>Corynebacterium.</i> Examples of such
+coryneform bacteria are mentioned below.
+<sl><li><i>Corynebacterium acetoacidophilum</i></li><li><i>Corynebacterium acetoglutamicum</i></li><li><i>Corynebacterium alkanolyticum</i></li><li><i>Corynebacterium callunae</i></li><li><i>Corynebacterium glutamicum</i></li><li><i>Corynebacterium lilium</i> (<i>Corynebacterium
+glutamicum</i>)</li><li><i>Corynebacterium melassecola</i></li><li><i>Corynebacterium thermoaminogenes</i></li><li><i>Corynebacterium herculis</i></li><li><i>Brevibacterium divaricatum</i> (<i>Corynebacterium
+glutamicum</i>)</li><li><i>Brevibacterium flavum</i> (<i>Corynebacterium glutamicum</i>)</li><li><i>Brevibacterium immariophilum</i></li><li><i>Brevibacterium lactofermentum</i> (<i>Corynebacterium
+glutamicum</i>)</li><li><i>Brevibacterium roseum</i></li><li><i>Brevibacterium saccharolyticum</i></li><li><i>Brevibacterium thiogenitalis</i></li><li><i>Brevibacterium ammoniagenes</i> (<i>Corynebacterium
+ammoniagenes</i>)</li><li><i>Brevibacterium album</i></li><li><i>Brevibacterium cerium</i></li><li><i>Microbacterium ammoniaphilum</i></li></sl></p><p num="0034">Examples of the vector autonomously replicable in
+a cell of coryneform bacterium include pAM330 (refer to
+Japanese Patent Laid-open (Kokai) No. 58-67699), pHM1519
+(refer to Japanese Patent Laid-open (Kokai) No. 58-77895)
+and so forth. Moreover, if a DNA fragment having
+an ability to make a plasmid autonomously replicable in
+coryneform bacterium is excised from these vectors and
+inserted into the vectors for <i>Escherichia coli</i>, they can
+be used as a so-called shuttle vector autonomously
+replicable in both of <i>Escherichia coil</i> and coryneform
+bacteria. Examples of such a shuttle vector include
+those mentioned below. There are also indicated
+microorganisms that harbor each vector, and accession 
+numbers thereof at international depositories are shown
+in the parentheses, respectively. Among these, pHSC4
+includes a temperature sensitive replication control
+region.
+<dl compact="compact" tsize="7"><dt>pAJ655</dt><dd><i>Escherichia coil</i> AJ11882 (FERM BP-136)
+<i>Corynebacterium glutamicum</i> SR8201 (ATCC39135)</dd><dt>pAJ1844</dt><dd><i>Escherichia coli</i> AJ11883 (FERM BP-137)
+<i>Corynebacterium glutamicum</i> SR8202 (ATCC39136)</dd><dt>pAJ611</dt><dd><i>Escherichia coil</i> AJ11884 (FERM BP-138)</dd><dt>pAJ3148</dt><dd><i>Corynebacterium glutamicum</i> SR8203 (ATCC39137)</dd><dt>pAJ440</dt><dd><i>Bacillus subtilis</i> AJ11901 (FERM BP-140)</dd><dt>pHC4</dt><dd><i>Escherichia coil</i> AJ12617 (FERM BP-3532)</dd><dt>pHSC4</dt><dd><i>Escherichia coil</i> AJ12571 (FERM BP-3524)</dd></dl></p><p num="0035">A recombinant vector containing the DNA of the
+present invention can be introduced into a coryneform
+bacterium according to a transformation method reported
+so far. For instance, there are a method of treating
+recipient cells with calcium chloride so as to increase
+the permeability of DNA, which has been reported for
+<i>Escherichia coil</i> K-12 (Mandel, M. and Higa, A., <i>J. Mol.
+Biol., 53</i>, 159, 1970); and a method of preparing
+competent cells from cells which are at the growth phase
+followed by introducing the DNA thereinto, which has
+been reported for <i>Bacillus subtilis</i> (Duncan, C.H.,
+Wilson, G.A. and Young, F.E., <i>Gene, 1,</i> 153, 1977). In 
+addition to these, also employable are a method of
+making DNA-recipient cells into protoplasts or
+spheroplasts, which can easily take up recombinant DNA,
+followed by introducing the recombinant DNA into the
+DNA-recipient cells, which method is known to be
+applicable to <i>Bacillus subtilis</i>, actinomycetes and
+yeasts (Chang, S. and Choen, S.N., <i>Molec. Gen. Genet.,
+168</i>, 111, 1979; Bibb, M.J., Ward, J.M. and Hopwood, O.A.,
+<i>Nature, 274,</i> 398, 1978; Hinnen, A., Hicks, J.B. and Fink,
+G.R., <i>Proc. Natl. Acad. Sci., USA, 75</i>, 1929, 1978) and
+the electric pulse method (see Japanese Patent Laid-open
+Publication (Kokai) No. 2-207791).</p><heading><u style="single">Examples</u></heading><p num="0036">Hereafter, examples of the present invention will
+be explained in detail.</p><heading><u style="single">Example 1: Isolation of gene encoding sucrose PTS enzyme
+II</u></heading><heading>&lt;1&gt; Analysis of chromosomal DNA of <i>Brevibacterium
+lactofermentum</i> AJ12036 (FERM BP-734) by Southern
+hybridization</heading><p num="0037">The <i>Brevibacterium lactofermentum</i> AJ12036 strain
+was cultured overnight in 4 ml of M-CM2S medium
+(containing 5 g/L of sucrose, 10 g/L of polypeptone, 10
+g/L of yeast extract; 5 g/L of NaCl and 0.1 g/L of DL-methionine)
+and microbial cells were collected. 
+Chromosomal DNA was extracted from the obtained
+microbial cells by using a Bacterial Geneomic DNA
+Purification Kit (Advanced Genetic Technologies). The
+chromosomal DNA was eluted with 50 µl of TE buffer
+(composition: 10 mM tris-HCl (pH 7.5), 1 mM EDTA-2Na).</p><p num="0038">The chromosomal DNA extracted as described above
+was subjected to Southern hybridization according to the
+method described in Molecular Cloning, A Laboratory
+Manual, Second Edition, Cold Spring Harbor Laboratory
+Press, 1989. The chromosomal DNA was separately
+digested with <i>Bam</i>HI and <i>Sma</i>I, which did not cleave
+regions on the C-terminus side of ORF-F2 and N-terminus
+side of ORF-F3 and subjected to agarose gel
+electrophoresis. As a probe, a fragment of about 3 kb
+was used that was excised from 6.9 kb fragment cloned on
+pSSM30 (Japanese Patent Laid-open Publication (Kokai) No.
+8-196280) with <i>Bam</i>HI to cover the regions on the C-terminus
+side of ORF-F2 and on the N-terminus side of
+ORF-F3 (Japanese Patent Laid-open Publication (Kokai) No.
+8-196280, the fragment of SEQ ID NO: 1649 to 4675 in
+Sequence Listing).</p><p num="0039">As a result of the hybridization, two bands were
+detected, and it was revealed that ORF-F2 and ORF-F3
+were not adjacent to each other on the chromosome.
+Therefore, it was attempted to confirm a sequence
+existing downstream from the sucrase gene again. </p><heading>&lt;2&gt; Determination of sequence of region existing
+downstream from sucrase gene</heading><p num="0040">To determine the nucleotide sequence of a region
+downstream from the sucrase gene, the downstream region
+was first amplified by PCR. PCR was performed by using
+a TAKARA LA PCR™ in vitro Cloning Kit (Takara Shuzo).
+Specifically, the PCR was performed as follows.</p><p num="0041">The chromosomal DNA was completely digested with
+10 kinds of restriction enzymes (<i>Spe</i>I, <i>Eco</i>T14I, <i>Nhe</i>I,
+<i>Pst</i>I, <i>Eco</i>T22I, <i>Bgl</i>II, <i>Bam</i>HI, <i>Xho</i>I, <i>Sal</i>I, <i>Ava</i>I), which
+produced the same cleavage ends as cassettes (SEQ ID
+NOS: 3 to 8 in Sequence Listing) attached to the
+aforementioned kit. PCR was performed by using each of
+these fragments as a template, Synthetic primer 1 shown
+in Table 1 and Cassette primer 1 (SEQ ID NO: 19). Since
+a phosphate group was not added to the 5' end of the
+cassette, a nick was generated at the ligation site of
+the chromosomal DNA fragment and the 5' end of the
+cassette. Therefore, the DNA synthesis starting from
+the cassette primer stopped at this ligation site, and
+only the DNA synthesized from the synthetic primer
+served as a template for synthesis starting from the
+cassette primer, and a complementary chain was formed.</p><p num="0042">Subsequently, PCR was performed out by using the
+amplification product obtained above as a template,
+Synthetic primer 2 and Cassette primer 2 (SEQ ID NO: 20).
+As a result, a fragment could be amplified when a DNA 
+obtained by digesting the chromosomal DNA with <i>Eco</i>T14I,
+<i>Pst</i>I, <i>Bgl</i>II, <i>Bam</i>HI, <i>Xho</i>I or <i>Ava</i>I was used as a template.
+The nucleotide sequence of a fragment of about 1.8 kb
+amplified by using the DNA fragment digested with <i>Bam</i>HI
+as a template was determined.
+<img id="img-00200001" orientation="unknown" wi="145" img-format="tif" img-content="tb" file="00200001.tif" inline="no" he="133"/></p><p num="0043">Synthetic primers 3 and 4 were synthesized based
+on the determined sequences. In the same manner as
+described above, the fragments were successively
+amplified by PCR using a combination of Synthetic primer
+3 and Cassette primer 1 and a combination of Synthetic 
+primer 4 and Cassette primer 2. As a result, a fragment
+could be amplified when a DNA obtained by digesting the
+chromosomal DNA with <i>Pst</i>I or <i>Bam</i>HI was used as a
+template. The nucleotide sequence of the fragment
+amplified based on the DNA fragment digested with <i>Pst</i>I
+was determined.</p><p num="0044">Synthetic primers 5 and 6 were synthesized based
+on the determined sequence. PCR was successively
+carried out by using a combination of Synthetic primer 5
+and Cassette primer 1 and a combination of Synthetic
+primer 6 and Cassette primer 2. As a result, an
+amplified fragment could be confirmed when the
+chromosomal DNA digested with <i>Eco</i>T14 or <i>Pst</i>I was used as
+a template. The nucleotide sequence of the fragment of
+the former case was determined.</p><p num="0045">Further, Synthetic primers 7 and 8 were
+synthesized and the same procedure as described above
+was performed. As a result, an amplified fragment could
+be confirmed when <i>Eco</i>T14-digested chromosomal DNA was
+used as a template. The nucleotide sequence of this
+amplified fragment was determined.</p><p num="0046">Primers 9 and 10 were synthesized based on the
+above sequence, and the same procedure as described
+above was performed. As a result, an amplified fragment
+could be confirmed when <i>Spe</i>I-digested chromosomal DNA
+was used as a template. The nucleotide sequence of this
+amplified fragment was determined. </p><p num="0047">As for the nucleotide sequence determination, a
+reaction was performed by using a sequencing kit
+produced by ABI according to its protocol, and then the
+nucleotide sequence of the amplified fragment was
+determined by the fluorescence labeling method.</p><p num="0048">The above results are shown in SEQ ID NO: 1 in
+Sequence Listing. It was found that a novel ORF existed
+after the nucleotide number 3684 in this nucleotide
+sequence. It was inferred that this ORF consisted of
+the nucleotide sequence of 1983 bp corresponding to the
+nucleotide numbers 3779 to 5761, and that a protein
+obtained by translating the determined nucleotide
+sequence consisted of 661 amino acids. As for the ORF,
+homology search was performed in the GENBANK CDS
+database. As a result, as shown in Table 2, the
+proteins that could be encoded by the ORF showed high
+homology with sucrose PTS enzyme II, a protein specific
+for sucrose uptake. Hereafter, this ORF is referred to
+as ptsIIsuc gene. <tables><table><tgroup cols="4"><tbody><row><entry nameend="4" namest="1">Results of homology search of novel ORF</entry></row><row><entry nameend="2" align="left" namest="1">Name of Bacterium and gene</entry><entry align="left" namest="3">Known protein showing homology</entry><entry align="center" namest="4">Homology (%)</entry></row><row><entry align="left"><i>P. pentsaceus</i></entry><entry align="left">scrA</entry><entry align="left">Enzyme IIscr</entry><entry align="center">48.8</entry></row><row><entry align="left"><i>B. subtilis</i></entry><entry align="left">treP</entry><entry align="left">Trehalose-specific enzyme IIBC</entry><entry align="center">43.4</entry></row><row><entry align="left"><i>S. xylosus</i></entry><entry align="left">scrA</entry><entry align="left">Enzyme IIscr</entry><entry align="center">52.2</entry></row><row><entry align="left"><i>S. mutans</i></entry><entry align="left">scrA</entry><entry align="left">Enzyme IIscr</entry><entry align="center">45.4</entry></row><row><entry align="left"><i>S. typhimurium</i> plasmid pUR400</entry><entry align="left">scrA</entry><entry align="left">Enzyme Iiscr</entry><entry align="center">37.6</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 2: Preparation of sucrose PTS enzyme II gene-disrupted
+strain</u></heading><p num="0049">A <i>Brevibacterium lactofermentum</i> strain with a
+disrupted ptsIIsuc gene was prepared. First of all, a
+plasmid for disrupting the gene was prepared (Fig. 1).
+A ptsIIsuc gene fragment amplified by PCR using the
+chromosome of <i>Brevibacterium lactofermentum</i> AJ12036 as a
+template, Primer 2 (SEQ ID NO: 10) and Primer 11 (SEQ ID
+NO: 21) having the nucleotide sequence shown below was
+cloned by using a TA cloning kit (Invitrogen), and the
+plasmid was designated as pCRS2.</p><heading>(Primer 11)</heading><heading>CGCTACTGCTGAACGAACATGTCC (corresponding to the
+nucleotide numbers 5947 to 5924 in SEQ ID NO: 1)</heading><p num="0050">A fragment excised from pCRS2 by digestion with
+<i>Xba</i>I and <i>Spe</i>I was ligated to the <i>Xba</i>I ends of pHSG399 to
+construct p399S2. This plasmid was digested with <i>Hpa</i>I
+and <i>Bam</i>HI, and the obtained fragment (corresponding to 
+the nucleotide numbers 4385 to 4798 in SEQ ID NO: 1) was
+ligated to pHSG299 digested with <i>Sma</i>I and <i>Bam</i>HI to
+prepare a plasmid pdSB. Subsequently, pdSB was digested
+with <i>Bam</i>HI and ligated to a temperature sensitive
+replication origin that was excised from plasmid pBCT4
+by digestion with <i>Bam</i>HI and could replicate in
+coryneform bacteria (refer to Japanese Patent
+Publication (Kokoku) No. 7-108228) to prepare a plasmid
+pdSBT. The plasmid included the ptsIIsuc gene having
+deleted 5'end and 3' ends. The pdSBT could autonomously
+replicate in coryneform bacteria at about 10°C to 32°C,
+but not at about 34°C or higher.</p><p num="0051">The pBCT4 was constructed as follows. A
+temperature sensitive vector pHSC4 described in Japanese
+Patent Publication (Kokoku) No. 7-108228 was digested
+with restriction enzymes, <i>Bam</i>HI and <i>Kpn</i>I, to obtain a
+DNA fragment of about 3 kb containing the obtained
+temperature sensitive replication origin. Both of the
+ends of the obtained DNA fragment were blunt-ended with
+T4 DNA polymerase. This DNA fragment was ligated with
+<i>Bam</i>HI linkers and digested with <i>Bam</i>HI again. Then, it
+was ligated to pHSG399 digested with <i>Bam</i>HI to obtain
+pBCT4 (Fig. 2).</p><p num="0052">The <i>Brevibacterium lactofermentum</i> AJ12036 strain
+was transformed with pdSBT and a transformant was
+selected by using a CM2S plate containing 25 µg/ml of
+kanamycin. The transformation was performed by the 
+electric pulse method (refer to Japanese Patent Laid-open
+Publication (Kokai) No. 2-207791). The obtained
+transformant was designated as AJ12036/pTSBT. The
+AJ12036/pTSBT strain was diluted and spread on M-CM2S
+plates containing 25 µg/ml of kanamycin at 10<sup>3</sup> to 10<sup>5</sup> cfu
+per plate. The transformants on the plates were
+cultured overnight at 34°C, and a strain showing drug
+resistance was obtained as a strain containing the
+plasmid incorporated into its chromosome. It was
+confirmed by PCR that the obtained strain had the vector
+plasmid incorporated into the pTSIIsuc gene of the host
+chromosome by homologous recombination. This integrated
+strain was designated as YdS1.</p><p num="0053">The YdS1 strain was cultured at 34°C in a minimal
+medium containing glucose or sucrose as a sugar source
+(20g/L of glucose or sucrose, 5 g/L of ammonium sulfate,
+2 g/L of urea, 1 g/L of KH<sub>2</sub>PO<sub>4</sub>, 0.5 g/L of MgSO<sub>4</sub>·7H<sub>2</sub>O,
+0.002 g/dl of FeSO<sub>4</sub>, 0.002 g/dl of MnSO<sub>4</sub>, 100 µg/L of
+biotin, 2000 µg/L of vitamin B1, 10 mg/dl of DL-methionine
+and 15 g/L of agar, pH 6.6). The results are
+shown in Table 3. Since the YdS1 strain could grow in
+the minimal medium containing only glucose as a carbon
+source, but not in the minimal medium containing only
+sucrose as a carbon source, it was confirmed that the
+ptsIIsuc gene is the gene encoding Enzyme II which is a
+protein specific for sucrose in sucrose uptake. <tables><table><tgroup cols="3"><tbody><row><entry nameend="3" namest="1">Growth on minimal medium</entry></row><row><entry align="center" namest="1">Bacterial strain</entry><entry nameend="3" align="center" namest="2">Carbon source</entry></row><row><entry align="center"/><entry align="center">Sucrose</entry><entry align="center">Glucose</entry></row><row><entry align="left">AJ12036</entry><entry align="left">Possible to grow</entry><entry align="left">Possible to grow</entry></row><row><entry align="left">YdS1</entry><entry align="left">Impossible to grow</entry><entry align="left">Possible to grow</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Industrial Applicability</u></heading><p num="0054">The present invention provides a gene encoding
+sucrose PTS enzyme II of coryneform bacterium and a
+strain of coryneform bacterium in which sucrose PTS does
+not function. These gene and bacterial strain can be
+utilized in breeding of strains with improved sugar
+uptake rate or improved productivity of an amino acid, a
+nucleic acid or the like. <img id="img-00270001" orientation="unknown" wi="144"  img-format="tif" img-content="tx" file="00270001.tif" inline="no" he="231"/><img id="img-00280001"  orientation="unknown"  wi="144"  img-format="tif" img-content="tx" file="00280001.tif" inline="no" he="232"/><img id="img-00290001" orientation="unknown" wi="139" img-format="tif" img-content="tx" file="00290001.tif" inline="no" he="231"/><img id="img-00300001" orientation="unknown" wi="144" img-format="tif" img-content="tx" file="00300001.tif" inline="no" he="232"/><img id="img-00310001" orientation="unknown" wi="139" img-format="tif" img-content="tx" file="00310001.tif" inline="no" he="231"/><img id="img-00320001" orientation="unknown" wi="133" img-format="tif" img-content="tx" file="00320001.tif" inline="no" he="229"/><img id="img-00330001" orientation="unknown" wi="127" img-format="tif" img-content="tx" file="00330001.tif" inline="no" he="230"/><img id="img-00340001" orientation="unknown" wi="133" img-format="tif" img-content="tx" file="00340001.tif" inline="no" he="229"/><img id="img-00350001" orientation="unknown" wi="135" img-format="tif" img-content="tx" file="00350001.tif" inline="no" he="230"/><img id="img-00360001" orientation="unknown" wi="139" img-format="tif" img-content="tx" file="00360001.tif" inline="no" he="231"/><img id="img-00370001" orientation="unknown" wi="127" img-format="tif" img-content="tx" file="00370001.tif" inline="no" he="230"/><img id="img-00380001" orientation="unknown" wi="136" img-format="tif" img-content="tx" file="00380001.tif" inline="no" he="230"/><img id="img-00390001" orientation="unknown" wi="133" img-format="tif" img-content="tx" file="00390001.tif" inline="no" he="231"/><img id="img-00400001" orientation="unknown" wi="146" img-format="tif" img-content="tx" file="00400001.tif" inline="no" he="156"/></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A protein defined in the following (A) or (B):
+<claim-text><claim-text>(A) a protein which has the amino acid sequence of
+SEQ ID NO: 2 in Sequence Listing;</claim-text><claim-text>(B) a protein which has the amino acid sequence of
+SEQ ID NO: 2 in Sequence Listing including substitution,
+deletion, insertion, addition or inversion of one or
+several amino acids, and an activity for binding to
+sucrose.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>A DNA which encodes a protein defined in the
+following (A) or (B):
+<claim-text><claim-text>(A) a protein which has the amino acid sequence of
+SEQ ID NO: 2 in Sequence Listing;</claim-text><claim-text>(B) a protein which has the amino acid sequence of
+SEQ ID NO: 2 in Sequence Listing including substitution,
+deletion, insertion, addition or inversion of one or
+several amino acids, and an activity for binding to
+sucrose.</claim-text></claim-text></claim-text></claim><claim num="3"><claim-text>The DNA according to Claim 2, which is a DNA
+defined in the following (a) or (b):
+<claim-text><claim-text>(a) a DNA which contains the nucleotide sequence
+of the nucleotides 3779 to 5761 of SEQ ID NO: 1 in
+Sequence Listing;</claim-text><claim-text>(b) a DNA which is hybridizable with a nucleotide
+sequence containing the nucleotide sequence of the
+nucleotides 3779 to 5761 of SEQ ID NO: 1 in Sequence.
+Listing under stringent conditions, and encodes a
+protein having an activity for binding to sucrose.</claim-text></claim-text></claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1340883-A2" country="EP" doc-number="1340883" kind="A2" lang="EN" family-id="22201998" status="new" date-produced="20090516" date="20030903"><bibliographic-data><publication-reference ucid="EP-1340883-A2" status="new" fvid="23847256"><document-id status="new" format="original"><country>EP</country><doc-number>1340883</doc-number><kind>A2</kind><date>20030903</date></document-id></publication-reference><application-reference ucid="EP-03004162-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03004162</doc-number><kind>A</kind><date>20030226</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-8696302-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>8696302</doc-number><kind>A</kind><date>20020228</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C09K   8/60        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09K   8/62        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09K   8/60D4B6</classification-symbol><classification-symbol scheme="EC">C09K   8/60D4B8</classification-symbol><classification-symbol scheme="EC">C09K   8/62</classification-symbol><classification-symbol scheme="EC">C09K   8/68</classification-symbol><classification-symbol scheme="EC">C09K   8/68B</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Aminocarbonsäure Brecherzusammensetzung für Aufbrechflüssigkeiten</invention-title><invention-title load-source="ep" status="new" lang="EN">Aminocarboxylic acid breaker compositions for fracturing fluids</invention-title><invention-title load-source="ep" status="new" lang="FR">Compositions d'agent de rupture à base d'acide aminocarboxylique, pour fluides de fracturation</invention-title><citations><patent-citations><patcit ucid="US-4968442-A" status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>4968442</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5223159-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5223159</doc-number><kind>A</kind></document-id><sources><source category="X"  name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="US-5624886-A"  status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5624886</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>BAKER HUGHES INC</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>BAKER HUGHES INCORPORATED</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>BAKER-HUGHES INCORPORATED</last-name><address><street>3900 Essex Lane Suite 1200 P.O. Box 4740</street><city>Houston Texas 77210-4740</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>CREWS JAMES B</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>CREWS, JAMES B.</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>CREWS, JAMES B.</last-name><address><street>5206 Sunshine Point</street><city>Willis, Texas 77318</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>von Füner, Nicolai</last-name><address><street>v. Füner Ebbinghaus Finck Hano Patentanwälte Mariahilfplatz 2&amp;amp;3</street><city>81541 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DK</country><country>GB</country><country>IT</country> </ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>It has been discovered that aminocarboxylic acids are effective breakers
+for polymer-gelled aqueous fracturing fluids, particularly in the temperature
+range between about 120°F (49°C) and about 280° F (138°C). The aminocarboxylic
+acids are believed to act directly on the polymer and not to any great
+extent or not to as an effective extent on a crosslinking agent, if present. The
+polymer may be a polysaccharide, and the aminocarboxylic acid may be
+selected from the group including, but not necessarily limited to, tetrasodium
+ethylenediaminetetraacetic acid (Na<sub>4</sub>EDTA), tetrasodium propylenediaminetetraacetic
+acid (Na<sub>4</sub>PDTA), trisodium hydroxyethylenediaminetetraacetic acid
+(Na4HEDTA), trisodium nitrilotriacetic acid (Na<sub>3</sub>NTA), salts of these acids, and
+mixtures thereof.
+<img id="img-00000001" orientation="unknown" wi="146" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="106"/></p> </abstract> <description load-source="ep" status="new" lang="EN"><heading><u style="single">Field of the Invention</u> </heading><p num="0001">The present invention relates to gelled treatment fluids used during
+hydrocarbon recovery operations, and more particularly relates, in one embodiment,
+to methods of "breaking" or reducing the viscosity of treatment fluids containing
+polymer gelling agents used during hydrocarbon recovery operations.</p><heading><u style="single">Background of the Invention</u></heading><p num="0002">Hydraulic fracturing is a method of using pump rate and hydraulic pressure
+to fracture or crack a subterranean formation. Once the crack or cracks
+are made, high permeability proppant, relative to the formation permeability, is
+pumped into the fracture to prop open the crack. When the applied pump rates
+and pressures are reduced or removed from the formations the crack or fracture
+cannot close or heal completely because the high permeability proppant keeps
+the crack open. The propped crack or fracture provides a high permeability
+path connecting the producing wellbore to a larger formation area to enhance
+the production of hydrocarbons.</p><p num="0003">The development of suitable fracturing fluids is a complex art because
+the fluids must simultaneously meet a number of conditions. For example, they
+must be stable at high temperatures and/or high pump rates and shear rates
+that can cause the fluids to degrade and prematurely settle out the proppant
+before the fracturing operation is complete. Various fluids have been
+developed, but most commercially used fracturing fluids are aqueous based
+liquids that have either been gelled or foamed. When the fluids are gelled,
+typically a polymeric gelling agent, such as a solvatable polysaccharide is used.
+The thickened or gelled fluid helps keep the proppants within the fluid. Gelling
+can be accomplished or improved by the use of crosslinking agents or
+crosslinkers that promote crosslinking of the polymers together, thereby
+increasing the viscosity of the fluid. However, crosslinking agents are not
+always necessary to obtain a suitable gel. </p><p num="0004">The recovery of fracturing fluids may be accomplished by reducing the
+viscosity of the fluid to a low value so that it may flow naturally from the formation
+under the influence of formation fluids. Polymer gels generally require viscosity
+breakers to be injected to reduce the viscosity or "break" the gel. Enzymes,
+oxidizers, and inorganic acids are known polymer viscosity breakers.
+Enzymes are effective within a pH range, typically a 2.0 to 10.0 range, with
+increasing activity as the pH is lowered towards neutral from a pH of 10.0.</p><p num="0005">Many viscosity-breaking technologies are most effective only over limited
+temperature ranges. For instance, persulfate oxidizers are generally too reactive
+to be properly used above about 140°F (60°C) and bromate oxidizers do
+not work until about 220°F (104°C) and above. Enzyme technology generally
+works between about 150 to 220°F (66 to 104°C).</p><p num="0006">It would be desirable if a viscosity breaking system could be devised to
+break fracturing fluids gelled with polymers, particularly over a temperature
+range of about 120°F (49°C) and about 280° F (138°C), as an alternative to
+enzyme technology.</p><heading><u style="single">Summary of the Invention</u></heading><p num="0007">Accordingly, it is an object of the present invention to provide a method
+for breaking the viscosity of aqueous treatment fluids gelled with polymers used
+in hydrocarbon recovery operations.</p><p num="0008">It is another object of the present invention to provide a composition and
+method for breaking gelled aqueous fluids over a temperature range of about
+120°F (49°C) and about 280° F (138°C).</p><p num="0009">Still another object of the invention is to provide a method and composition
+for breaking the viscosity of aqueous fluids gelled polymers using relatively
+inexpensive aminocarboxylic acids.</p><p num="0010">In carrying out these and other objects of the invention, there is provided,
+in one form, a method for breaking the viscosity of polymer gelled aqueous
+fluids comprising adding an effective amount of at least one aminocarboxylic
+acid to act directly break down the gel. </p><heading><u style="single">Brief Description of the Drawings</u></heading><p num="0011"><sl><li>FIG. 1 is a graph of the effects of different amounts of Na<sub>4</sub>EDTA on a
+BoraFRAQ® 30 borate crosslinked polymer gel at 150°F (66°C);</li><li>FIG. 2 is a graph of the effect of Na<sub>4</sub>EDTA on a BoraFRAQ® 30 borate
+crosslinked polymer gel at 175°F (79°C);</li><li>FIG. 3 is a graph of the effect of Na<sub>4</sub>PDTA on a BoraFRAQ® 30 borate
+crosslinked polymer gel at 175°F (79°C);</li><li>FIG. 4 is a graph of the effect of Na<sub>3</sub>HEDTA on a BoraFRAQ® 30 borate
+crosslinked polymer gel at 220°F (104°C);</li><li>FIG. 5 is a graph of the effects of different amounts of Na<sub>3</sub>NTA on a
+BoraFRAQ® 30 borate crosslinked polymer gel at 250°F (121°C);</li><li>FIG. 6 is a graph of the effects of different amounts of Na<sub>4</sub>EDTA (E39
+Breaker) on 80 pptg linear guar polymer gel (WG-1L) at 150°F (66°C); and</li><li>FIG. 7 is a graph of the effects of different amounts of Na<sub>4</sub>EDTA (E39
+Breaker) on 80 pptg linear guar polymer gel (WG-1 L) at 180°F (82°C).</li></sl></p><heading><u style="single">Detailed Description of the Invention</u></heading><p num="0012">Aminocarboxylic acids have been manufactured for several decades.
+Their primary use has been the chelation of cations. It has now been
+discovered that PDTA, EDTA, HEDTA and other aminocarboxylic acids and
+their salts can be used to directly break the polymer in gelled fracturing fluids,
+particularly at temperatures between about 120°F (49°C) and about 280°F
+(138°C). While these agents can be used to break the polymer gel in
+crosslinked polysaccharide fracturing fluids, they can also be used to break
+other polysaccharide polymer fluids that do not employ crosslinkers. As will be
+shown, it is believed that these aminocarboxylic acids act directly on the
+polymer itself, and not the crosslinking ion, although it is acceptable if the
+aminocarboxylic acids also act on the crosslinker. The gel breaking method of
+this invention is expected to be an attractive alternative to using enzyme
+technology or catalyzed oxidizer technology to break gels within this
+temperature range. </p><p num="0013">In order to practice the method of the invention, an aqueous fracturing
+fluid is first prepared by blending a hydratable polymer into an aqueous fluid.
+The aqueous fluid could be, for example, water, brine, aqueous based foams or
+water-alcohol mixtures. Any suitable mixing apparatus may be used for this
+procedure. In the case of batch mixing, the hydratable polymer and the
+aqueous fluid are blended for a period of time sufficient to form a hydrated
+solution. The hydratable polymer that is useful in the present invention can be,
+but are not necessarily limited to, any of the hydratable polysaccharides having
+galactose or mannose monosaccharide components and are familiar to those
+in the well service industry. These polysaccharides are capable of gelling in the
+presence of a crosslinking agent to form a gelled base fluid, although as noted
+it is not necessary that the polymer be crosslinked. For instance, suitable
+hydratable polysaccharides are the galactomannan gums, guars and derivatized
+guars, as non-limiting examples. Specific examples are guar gum and guar
+gum derivatives. The preferred gelling agents are guar gum, hydroxypropyl
+guar and carboxymethyl hydroxypropyl guar. The most preferred hydratable
+polymers for the present invention are guar gum and carboxymethyl
+hydroxypropyl guar and hydroxypropyl guar, in one non-limiting case.</p><p num="0014">The amount of polysaccharide included in the fracturing fluid is not particularly
+critical so long as the viscosity of the fluid is sufficiently high to keep
+the proppant particles suspended therein during the fluid injecting step. Thus,
+depending on the application, the hydratable polymer is added to the aqueous
+fluid in concentrations ranging from about 15 to 60 pounds per thousand
+gallons (pptg) by volume of the total aqueous fluid (1.8 to 7.2 kg/m<sup>3</sup>). The most
+preferred range for the present invention is about 20 to about 40 pptg (2.4 to
+4.8 kg/m<sup>3</sup>)<sub>.</sub></p><p num="0015">In addition to the hydratable polymer, the fracturing fluids of the invention
+include a borate crosslinking agent. The crosslinking agent can be any of
+the conventionally used borate crosslinking agents that are known to those
+skilled in the art. This includes any of the boron salts or boric acid as borate
+crosslinking agents. Guar and derivatized guar gels, which are crosslinked by
+the addition of borate ion donating materials are preferred within this 
+embodiment over other crosslinking agents because they clean up faster and
+yield higher sand pack permeability than guar gels crosslinked with other
+crosslinking agents. However, other crosslinking agents that can be used with
+this embodiment besides borate, may include, but are not limited to, titanate,
+zirconate, and other metallic and semi-metallic high pH crosslinkers.</p><p num="0016">In the case of borate crosslinkers, the crosslinking agent is any material
+that supplies borate ions in solution. The amount of borate ions in solution is
+dependent on pH. Thus, the crosslinking agent can be any convenient source
+of borate ions, for instance the alkali metal and the alkaline earth metal borates
+and boric acid. A preferred crosslinking additive is preferably a common type of
+borax present in the range from about 0.25 to in excess of 10.0 pptg of the total
+aqueous fluid (0.03 to in excess of 1.2 lb/m<sup>3</sup>). Preferably, the concentration of
+crosslinking agent is in the range from about 1.0 to about 3.0 pptg (0.12 to 0.34
+kg/m<sup>3</sup>) by volume of the total aqueous fluid. Similar considerations apply to the
+use of other crosslinkers.</p><p num="0017">Propping agents are typically added to the base fluid just prior to the
+addition of the crosslinking agent. Propping agents include, but are not limited
+to, for instance, quartz sand grains, glass and ceramic beads, bauxite grains,
+walnut shell fragments, aluminum pellets, nylon pellets, and the like. The
+propping agents are normally used in concentrations between about 1 to 14
+pounds per gallon (120-1700 kg/m<sup>3</sup>) of fracturing fluid composition, but higher
+or lower concentrations can be used as the fracture design requires. The base
+fluid can also contain other conventional additives common to the well service
+industry such as surfactants, biocides, non-emulsifiers and the like.</p><p num="0018">In general, and in one non-limiting embodiment of the invention, the
+method is conducted at a temperature between about 120°F (49°C) and about
+280° F (138°C), preferably between about 150°F (66°C) and about 260° F
+(127°C).</p><p num="0019">In one non-limiting embodiment of the invention, the suitable aminocarboxylic
+acids for use in the invention that are suitable include, but are not
+limited to, tetrasodium ethylenediaminetetraacetic acid (Na<sub>4</sub>EDTA), tetrasodium
+propylenediaminetetraacetic acid (Na<sub>4</sub>PDTA), trisodium 
+hydroxyethylenediaminetetraacetic acid (Na<sub>4</sub>HEDTA), trisodium nitrilotriacetic
+acid (Na<sub>3</sub>NTA), trisodium ethylenediaminetriacetic acid (Na<sub>3</sub>HEDTA), disodium
+ethylenediaminediacetic acid (Na<sub>2</sub>H<sub>2</sub>EDDA), disodium calcium dihydrate
+ethylenediaminediacetic acid (Na<sub>2</sub>Ca· 2H<sub>2</sub>O EDTA), tetraammonium
+ethylenediaminetetraacetic acid (NH<sub>4</sub>)<sub>4</sub>EDTA and potassium and ammonium
+and other salts of these acids, the acids alone, and mixtures thereof. When
+salts are employed, alkali metal and ammonium salts are preferred and
+sodium, potassium and ammonium salts are particularly preferred, in a non-limiting
+embodiment. Of course, any aminocarboxylic acid that performs the
+functions required of these breakers may be used within the scope of this
+invention. All of these aminocarboxylic acids were discovered to break polymer
+gels by themselves.</p><p num="0020">More particularly, and in non-limiting embodiments of the invention,
+Na<sub>4</sub>EDTA breaks borate crosslinked guar at from about 120°F (49°C) to about
+220°F (104°C); where the optimum temperature application is from about
+130°F (54°C) to about 200°F (93°C). Na<sub>4</sub>PDTA was found to break borate
+crosslinked guar at from about 140°F (60°C) to about 230°F (110°C); where the
+optimum temperature application is from about 150°F (66°C) to about 210°F
+(99°C). In turn, Na<sub>4</sub>HEDTA was found to break borate crosslinked guar at from
+about 180°F (82°C) to about 280°F (138°C); where the optimum temperature
+application is from about 190°F (88°C) to about 240°F (116°C).</p><p num="0021">It was discovered that pentasodium diethylenetriaminepentaacetic acid
+(Na<sub>5</sub>DTPA) and disodium hydroxyethyliminodiacetic acid (Na<sub>2</sub>HEIDA) did not
+effectively break polymer fluids by themselves.</p><p num="0022">Any or all of the above aminocarboxylic acids may be provided in an extended
+release form such as encapsulation by polymer or otherwise, pelletization
+with binder compounds, absorbed on a porous substrate, and a combination
+thereof. Specifically, the materials may be encapsulated to permit slow or
+timed release of the aminocarboxylic acid materials. In non-limiting examples,
+the coating material may slowly dissolve or be removed by any conventional
+mechanism, or the coating could have very small holes or perforations therein
+for the material within to diffuse through slowly. For instance, polymer encapsulation 
+coatings such as used in fertilizer technology available from Scotts
+Company, specifically POLY-S® product coating technology, or polymer encapsulation
+coating technology from Fritz Industries could possibly be adapted to
+the methods of this invention.</p><p num="0023">It is difficult, if not impossible, to specify with accuracy the amount of the
+aminocarboxylic acid that should be added to a particular polymer gelled aqueous
+fluid to fully break the gel, in general. For instance, a number of factors
+affect this proportion, including but not necessarily limited to, the particular
+polymer used to gel the fluid; the particular aminocarboxylic acid used to break
+the gel; the temperature of the fluid; the starting pH of the fluid; whether an
+enzyme breaker is also used; the particular nature of the enzyme breaker, if
+present; the concentration of the enzyme; the nature and the concentration of
+any pH buffers; and the complex interaction of these various factors. Nevertheless,
+in order to give an approximate feel for the proportions of the aminocarboxylic
+acid to be used in the method of the invention, the-amount of material
+added may range from about 0.01 to about 20.0 gptg (the same values apply
+for metric units, e.g. liters per thousand liters or m<sup>3</sup>/thousand m<sup>3</sup>), based on the
+total weight of the fluid; preferably from about 0.1 to about 5.0 gptg, most
+preferably from about 0.25 to about 2.0 gptg. Both solid and liquid forms of the
+aminocarboxylic acids may be employed in the compositions and methods of
+this invention. The aminocarboxylic acids may be applied in a water-based
+liquid form with up to 50 wt.% active aminocarboxylic acid content. Expressed
+in dry units, the amount of aminocarboxylic acid added to the polymer gelled
+aqueous fluids may range from about 0.1 to 30.0 pptg (pounds per thousand
+gallons) (0.01 - 3.4 kg/m<sup>3</sup>), preferably from about 0.5 to 10.0 pptg (0.06 - 1.2
+kg/m<sup>3</sup>).</p><p num="0024">As noted, and as will be shown with reference to the various Examples,
+it is believed that the aminocarboxylic acid breakers of this invention act directly
+on the polymer itself, and not on any crosslinker that may be present, in accordance
+with one non-limiting understanding of the invention. In another embodiment
+of the invention, the aminocarboxylic acid breakers may act both directly
+to break down the gel by acting upon the polymer itself, and by acting upon the 
+crosslinking ion, if present, although it should be understood that the primary
+breaking mechanism is the direct action of the aminocarboxylic acid on the
+polymer. This issue will be discussed further with reference to FIGS. 6 and 7.
+That is, over half of the effect of the gel breaking can be attributed to the direct
+action of the aminocarboxylic acid, rather than to any action upon the
+crosslinker, if any. In one particular non-limiting embodiment of the invention,
+the polymer is not crosslinked.</p><p num="0025">In one non-limiting embodiment of the invention, the polymer gel breaker
+system of this invention has an absence of chlorite compounds. Examples of
+chlorite compounds explicitly absent include, but are not necessarily limited to,
+alkali metal chlorite compounds and hypochlorite.</p><p num="0026">It is typically necessary to add pH buffers to the gelled aqueous fluid to
+increase the pH to generate active borate ion for crosslinking the polymers, if
+the polymer is crosslinked. Suitable buffers include, but are not necessarily
+limited to sodium hydroxide, potassium hydroxide, sodium carbonate, sodium
+sesquicarbonate, potassium carbonate, sodium bicarbonate, sodium
+sesquicarbonate, and mixtures thereof. The amount of the pH buffer may range
+from about 0.5 to about 30.0 pptg (about 0.06 to about 3.6 kg/m<sup>3</sup>), based on
+the total volume of the entire fluid, preferably from about 1 to about 20 pptg
+(about 0.12 to about 2.4 kg/m<sup>3</sup>)<sub>.</sub></p><p num="0027">In a typical fracturing operation, the fracturing fluid of the invention is
+pumped at a rate sufficient to initiate and propagate a fracture in the formation
+and to place propping agents into the fracture. A typical fracturing treatment
+would be conducted by hydrating a 20 lb to 30 lb/1000 gal water (weight/volume)
+(about 2.4 to about 3.6 kg/m<sup>3</sup>) glactomannan-based polymer, such as
+guar, in a 2% (w/v) (166 lb/1000 gal (19.9 kg/m<sup>3</sup>)) KCI solution at a pH ranging
+from about 6.0 to about 8.0. For crosslinking, this pH range may be from about
+8.8 to about 10.5. The aminocarboxylic acid (or its salt) is added at this stage. It
+should be understood throughout the specification and claims that more than
+one aminocarboxylic acid (or its salt) may be employed at a time. During the
+actual pumping, as described, the pH of the ambient temperature guar gel is
+raised by the addition of a buffer to about 9.5 to about 12.5, followed by the 
+addition of the aminocarboxylic acid breaker, crosslinking agent, proppant, and
+other additives, if required.</p><p num="0028">The present invention will be explained in further detail in the following
+non-limiting Examples that are only designed to additionally illustrate the
+invention but not narrow the scope thereof.</p><heading>GENERAL PROCEDURE FOR EXAMPLES 1-7</heading><p num="0029">Using a Waring blender, 4.8 mls of BoraFRAQ® fracturing fluid (borate
+crosslinked guar gum system available from Baker Hughes) was hydrated for
+15 minutes within 500 mls of distilled water containing 10 grams KCI salt. An
+aminocarboxylic acid such as 10.0 pptg of Na<sub>4</sub>EDTA (1.2 kg/m<sup>3</sup>) was added to
+the hydrated guar fluid. Control samples of the guar polymer fluid were mixed
+without adding any aminocarboxylic acid. Each sample was capped and
+shaken vigorously for 60 seconds. The samples were placed in a water bath at
+the indicated temperatures and visually observed every 30 minutes for viscosity
+reduction difference between the samples. The samples with aminocarboxylic
+acid (e.g. Na<sub>4</sub>EDTA) lost viscosity noticeably faster. Most gel breaking occurred
+over the first two hours. Modifications to this general procedure are indicated.</p><heading>EXAMPLE 1</heading><p num="0030">Example 1 tested Na<sub>4</sub>EDTA at 10.0 pptg (1.2 kg/m<sup>3</sup>) and 20.0 pptg (2.4
+kg/m<sup>3</sup>) levels in BoraFRAQ® 30 borate crosslinked polymer gel at 150°F (66°C).
+The results are compared against a fluid without using an aminocarboxylic acid
+as plotted in FIG. 1. It may be seen that the viscosity of the gel was broken
+quickly with this aminocarboxylic acid (about 0.5 hour), particularly at the 20.0
+pptg (2.4 kg/m<sup>3</sup>) dosage.</p><heading>EXAMPLE 2</heading><p num="0031">Example 2 tested Na<sub>4</sub>EDTA at the 5.0 pptg (0.6 kg/m<sup>3</sup>) level in Bora-FRAQ®
+30 borate crosslinked polymer gel at 175°F (79°C). The results are
+compared against a fluid without using an aminocarboxylic acid as plotted in 
+FIG. 2. It may be seen that the viscosity of the gel was broken quickly and
+substantially after about 1 hour with this aminocarboxylic acid salt.</p><heading>EXAMPLE 3</heading><p num="0032">Example 3 tested Na<sub>4</sub>PDTA at the 5.0 pptg (0.6 kg/m<sup>3</sup>) level in Bora-FRAQ®
+30 borate crosslinked polymer gel at 175°F (79°C). The results are
+compared against a fluid without using an aminocarboxylic acid salt as plotted
+in FIG. 3. It may be seen that the viscosity of the gel was broken quickly and
+substantially after about 1 hour with this aminocarboxylic acid salt.</p><heading>EXAMPLE 4</heading><p num="0033">Example 4 tested Na<sub>4</sub>HEDTA at the 5.0 pptg (0.6 kg/m<sup>3</sup>) level in Bora-FRAQ®
+30 borate crosslinked polymer gel at 220°F (104°C). The results are
+compared against a fluid without using an aminocarboxylic acid salt as plotted
+in FIG. 4. It may be seen that the viscosity of the gel was broken quickly and
+substantially in advance of 1 hour with this aminocarboxylic acid salt.</p><heading>EXAMPLE 5</heading><p num="0034">Example 5 tested Na<sub>3</sub>NTA at the 2.0 pptg (0.24 kg/m<sup>2</sup>) and 5.0 pptg (0.6
+kg/m<sup>3</sup>) levels in BoraFRAQ® 30 borate crosslinked polymer gel at 250°F
+(121°C). The results are compared against a fluid without using an aminocarboxylic
+acid salt as plotted in FIG. 5. It may be seen that the viscosity of the gel
+was broken quickly over the course of 2 hours with this aminocarboxylic acid
+salt at these dosages.</p><heading>EXAMPLE 6</heading><p num="0035">Example 6 tested the effects of E39 Breaker (39% bw aqueous solution
+of Na<sub>4</sub>EDTA, available from Akzo Nobel) at the 1.0 gptg and 2.0 gptg levels in
+80 pptg (9.6 kg/m<sup>3</sup>) WG-1L® non-crosslinked linear guar at 150°F (66°C). The
+results are compared against a fluid without using an aminocarboxylic acid salt
+as plotted in FIG. 6. It may be seen that the viscosity of the gel broke quickly
+and substantially over the course of the first 2 hours with this aminocarboxylic 
+acid at these dosages. Because this polymer gel was not crosslinked, this
+Example demonstrates that the aminocarboxylic acid acts directly and predominantly
+on the polymer itself, rather than only or substantially on any crosslinker
+that may be present.</p><heading>EXAMPLE 7</heading><p num="0036">Example 7 tested the effects of E39 Breaker at the 0.5 gptg, 1.0 gptg
+and 2.0 gptg levels in 80 pptg (9.6 kg/m<sup>3</sup>) WG-1L® non-crosslinked linear guar
+at 180°F (82°C). The results are compared against a fluid without using an
+aminocarboxylic acid as plotted in FIG. 7. It may be seen that the viscosity of
+the gel was broken quickly and substantially over the course of the first hour
+with this aminocarboxylic acid at these dosages. Because this polymer gel was
+not crosslinked, this Example also demonstrates that the aminocarboxylic acid
+acts directly and predominantly on the polymer itself, rather than only or
+substantially on any crosslinker that may be present.</p><p num="0037">In the foregoing specification, the invention has been described with
+reference to specific embodiments thereof, and has been demonstrated as
+effective in providing a method and composition for a polymer gelled fracturing
+fluid breaker mechanism. However, it will be evident that various modifications
+and changes can be made thereto without departing from the scope of the
+invention as set forth in the appended claims. Accordingly, the specification is
+to be regarded in an illustrative rather than a restrictive sense. For example,
+specific combinations or amounts of aminocarboxylic acids, crosslinkers,
+buffers, and other components falling within the claimed parameters, but not
+specifically identified or tried in a particular composition, are anticipated and
+expected to be within the scope of this invention. Further, the method of the
+invention is expected to work at other conditions, particularly temperature
+conditions, than those exemplified herein.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A method for breaking the viscosity of polymer gelled aqueous fluids
+comprising adding an effective amount of at least one aminocarboxylic acid to
+directly break down the gel.</claim-text></claim><claim num="2"><claim-text>The method of claim 1 where the aminocarboxylic acid acts directly on
+the polymer and not any crosslinking ion, if present.</claim-text></claim><claim num="3"><claim-text>The method of claim 1 where the polymer gel is not crosslinked.</claim-text></claim><claim num="4"><claim-text>The method of any of the above claims where the polymer is a
+polysaccharide.</claim-text></claim><claim num="5"><claim-text>The method of any of the above claims where the aminocarboxylic acid
+is selected from the group consisting of ethylenediaminetetraacetic acid
+(EDTA), propylenediaminetetraacetic acid (PDTA),
+hydroxyethylenediaminetetraacetic acid (HEDTA), nitrilotriacetic acid (NTA),
+ethylenediaminetriacetic acid (HEDTA), ethylenediaminediacetic acid
+(H2EDDA), dihydrate ethylenediaminediacetic acid (2H2O EDTA), salts of these
+acids, and mixtures thereof.</claim-text></claim><claim num="6"><claim-text>The method of any of the above claims where the aminocarboxylic acid
+is selected from the group consisting of the sodium salt, the potassium salt,
+and the ammonium salt of the acid.</claim-text></claim><claim num="7"><claim-text>The method of any of the above claims where the method is conducted
+at a temperature between about 120°F (49°C) and about 280° F (138°C).</claim-text></claim><claim num="8"><claim-text>The method of any of the above claims where in adding the
+aminocarboxylic acid, the amount of aminocarboxylic acid added ranges from
+about 0.1 to about 30.0 pptg (from about 0.01 to about 3.4 kg/m3) based on the
+total volume of fluid.</claim-text></claim><claim num="9"><claim-text>An aqueous fluid comprising
+   water;
+   at least one polymer forming an aqueous gel; and
+   at least one aminocarboxylic acid in an amount effective to directly break
+down the gel.</claim-text></claim><claim num="10"><claim-text>The fluid of claim 9 in the absence of a crosslinker.</claim-text></claim><claim num="11"><claim-text>The fluid of claim 9 or 10 where the polymer is a polysaccharide.</claim-text></claim><claim num="12"><claim-text>The fluid of any one of claims 9 through 11 where the aminocarboxylic
+acid is selected from the group consisting of ethylenediaminetetraacetic acid
+(EDTA), propylenediaminetetraacetic acid (PDTA), hydroxyethylenediaminetetraacetic
+acid (HEDTA), nitrilotriacetic acid (NTA), ethylenediaminetriacetic
+acid (HEDTA), ethylenediaminediacetic acid (H2EDDA), dihydrate ethylenediaminediacetic
+acid (2H2O EDTA), salts of these acids, and mixtures thereof.</claim-text></claim><claim num="13"><claim-text>The fluid of any one of claims 9 through 12 where the aminocarboxylic
+acid is selected from the sodium salt, the potassium salt, and the ammonium
+salt of the acid.</claim-text></claim><claim num="14"><claim-text>The fluid of any one of claims 9 through 13 where in adding the aminocarboxylic
+acid, the amount of aminocarboxylic acid added ranges from about
+0.1 to about 30.0 pptg (from about 0.01 to about 3.4 kg/m3) based on the total
+volume of fluid.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1443059-A1" country="EP" doc-number="1443059" kind="A1" lang="EN" family-id="32605299" status="new" date-produced="20090516" date="20040804"><bibliographic-data><publication-reference ucid="EP-1443059-A1" status="new" fvid="24128347"><document-id status="new" format="original"><country>EP</country><doc-number>1443059</doc-number><kind>A1</kind><date>20040804</date></document-id></publication-reference><application-reference ucid="EP-03002280-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03002280</doc-number><kind>A</kind><date>20030202</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-03002280-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>03002280</doc-number><kind>A</kind><date>20030202</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C08F   8/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F   8/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F   8/14        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D   5/03        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D   5/03        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08F   8/00+20/32</classification-symbol><classification-symbol scheme="EC">C08F   8/14</classification-symbol><classification-symbol scheme="EC">C09D   5/03</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Harze für Pulverbeschichtungszusammensetzung</invention-title><invention-title load-source="ep" status="new" lang="EN">Resins for powder coating compositions</invention-title><invention-title load-source="ep" status="new" lang="FR">Résines pour compositions de revêtements sous forme de poudre</invention-title><citations><patent-citations><patcit ucid="EP-0650978-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0650978</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="WO-1993025596-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1993025596</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1997038034-A1"  status="new"><document-id status="new"  format="epo"><country>WO</country><doc-number>1997038034</doc-number><kind>A1</kind></document-id><sources><source category="X"  name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>SOLUTIA ITALY S R L</name><address><country>IT</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>SOLUTIA ITALY S.R.L.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Solutia Italy S.r.l.</last-name><address><street>Via Matteo Bianchini, 62</street><city>36060 Romano d'Ezzelino</city><country>IT</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>CAVALIERI ROBERTO DR</name><address><country>IT</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>GAZZEA SERGIO</name><address><country>IT</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>CAVALIERI, ROBERTO, DR.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GAZZEA, SERGIO</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>CAVALIERI, ROBERTO, DR.</last-name><address><street>Via Giorgio Pullè 24/A</street><city>35136 Padova</city><country>IT</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GAZZEA, SERGIO</last-name><address><street>Via Raffaello Sanzio 13</street><city>36060 Romano d'Ezzelino</city><country>IT</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Deckers, Hellmuth, Dr.</last-name><address><street>Patentanwaltskanzlei Zounek, Industriepark Kalle-Albert, Rheingaustrasse 190-196</street><city>65174 Wiesbaden</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>HU</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>Resins for powder coatings which are thermally and radiation curable
+containing both olefinically unsaturated groups and at least one other
+reactive group in the same molecule selected from epoxide groups and
+acid or acid anhydride groups, a method for their preparation, and the
+use thereof in powder coating compositions.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to resins for powder coating compositions, especially thermally and
+radiation curable resins, a process for their production, and their application in powder coatings,
+especially for automotive topcoats.</p><p num="0002">In recent years, powder coatings have become increasingly popular in the coatings industry
+because these coatings are inherently low in volatile organic content, which significantly reduces
+emissions during the application process. Epoxy condensation polymers and acrylic resins (EP-A
+0 509 393) have been used as film forming polymers for these coatings.</p><p num="0003">The use of powder coating compositions based on solid unsaturated resins which are radiation
+or thermally curable has been described in EP-A 0 842 204. The use of unsaturated resins
+prepared from acrylic polymers and radiation or thermally curable is known from US 6 384 102.
+In both documents, just very few glycidyl groups are available for the curing reaction with
+anhydride or acid groups or by reaction among each other (homopolymerisation).</p><p num="0004">The use in powder coating compositions of solid epoxy resins based on bisphenol A and
+containing glycidyl groups, alone (leading to homopolymerisation) or in combination with resins
+containing acid or anhydride groups, optionally in the presence of catalysts is well known as
+state of the art.</p><p num="0005">The use in powder coating compositions of solid epoxidic cycloaliphatic hydroxyl group-containing
+resins, alone or in combination with acid or anhydride groups containing resins is
+reported in WO02/062867.</p><p num="0006">The use in powder coating compositions of solid saturated semi-crystalline polyanhydride resins
+in combination with resins containing glycidyl groups is known from EP-A 0 509 393. </p><p num="0007">The use of solid unsaturated semi-crystalline polyanhydrides based on unsaturated diacids is
+reported in US-A 5 019 379.</p><p num="0008">Coatings prepared from all such systems known from the prior art suffer from poor mar
+resistance. Likewise, their chemical resistance needs improvement.</p><p num="0009">It is the object of the present invention to overcome these known shortcomings of the prior art.</p><p num="0010">The present invention concerns resins for powder coating compositions comprising at least one
+resin containing olefinically unsaturated groups and in the same molecule further reactive groups
+which are either epoxide groups or acid and/or groups. These resins are thermally and radiation
+curable.</p><p num="0011">Resins containing olefinically unsaturated groups and epoxide groups are referred to hereinafter
+as "resins <b>A</b>", and resins containing olefinically unsaturated groups and acid and/or acid
+anhydride groups are referred to hereinafter as "resins <b>B</b>".</p><p num="0012">One object of this invention are resins for powder coating compositions comprising at least one
+resin <b>A</b>. This resin <b>A</b> which is preferably solid at room temperature, which is said of crystalline
+resins having a melting temperature of at least 30 °C, and of amorphous resins having a glass
+transition temperature of at least 30 °C, containing epoxide and unsaturated groups is preferably
+selected from the group consisting of:
+<sl><li>a) a solid acrylic resin <b>A1</b> with a glass transition temperature (measured by differential
+scanning calorimetry, second heat cycle, with a heating rate of 20 K/min) T<sub>g</sub> of at least 30 °C,
+preferably at least 35 °C, and particularly preferred at least 38 °C, having a specific epoxy group
+content of 0,2 to 3,4 mol/kg, preferably of 0,25 to 2,9 mol/kg, and particularly preferred, of 0,28
+to 2,5 mol/kg (corresponding to an "epoxy equivalent weight", molar mass divided by the
+number of epoxy groups per molecule, ranging from 300 to 4500 g/mol, preferably from 340
+to 4000 g/mol, and particularly preferred from 400 to 3570 g/mol), and having a specific content
+of olefinic double bonds of 0,2 to 3,4 mol/kg, preferably of 0,25 to 2,9 mol/kg, and particularly 
+preferred, of 0,28 to 2,5 mol/kg (corresponding to an "unsaturation weight", molar mass divided
+by number of olefinic double bonds per molecule, ranging from 300 to 4500 g/mol, preferably
+from 340 to 4000 g/mol, and particularly preferred from 400 to 3570 g/mol),</li><li>b) a solid cycloaliphatic hydroxyl group-containing resin <b>A2</b> with a glass transition
+temperature determined as defined above, T<sub>g</sub> of at least 30 °C, preferably at least 35 °C, and
+particularly preferred at least 38 °C, having a specific epoxy group content of 0,2 to 3,4 mol/kg,
+preferably of 0,25 to 2,9 mol/kg, and particularly preferred, of 0,28 to 2,5 mol/kg (corresponding
+to an "epoxy equivalent weight", molar mass divided by the number of epoxy groups per
+molecule, ranging from 300 to 4500 g/mol, preferably from 340 to 4000 g/mol, and particularly
+preferred from 400 to 3570 g/mol), and having a specific content of olefinic double bonds of 0,2
+to 3,4 mol/kg, preferably of 0,25 to 2,9 mol/kg, and particularly preferred, of 0,28 to 2,5 mol/kg
+(corresponding to an "unsaturation weight", molar mass divided by number of olefinic double
+bonds per molecule, ranging from 300 to 4500 g/mol, preferably from 340 to 4000 g/mol, and
+particularly preferred from 400 to 3570 g/mol), and</li><li>c) a resin <b>A3</b> based on bisphenol A or phenol or cresol novolaks with a T<sub>g</sub> of at least 30 °C,
+preferably at least 35 °C, and particularly preferred at least 38 °C, having a specific epoxy group
+content of 0,2 to 3,4 mol/kg, preferably of 0,25 to 2,9 mol/kg, and particularly preferred, of 0,28
+to 2,5 mol/kg (corresponding to an "epoxy equivalent weight", molar mass divided by the
+number of epoxy groups per molecule, ranging from 300 to 4500 g/mol, preferably from 340
+to 4000 g/mol, and particularly preferred from 400 to 3570 g/mol), and preferably having a
+specific content of olefinic double bonds of 0,2 to 3,4 mol/kg, preferably of 0,25 to 2,9 mol/kg,
+and particularly preferred, of 0,28 to 2,5 mol/kg (corresponding to an "unsaturation weight",
+molar mass divided by number of olefinic double bonds per molecule, ranging from 300 to
+4500 g/mol, preferably from 340 to 4000 g/mol, and particularly preferred from 400 to
+3570 g/mol).</li></sl></p><p num="0013">The specific epoxide group content "<b><i>SEC</i></b>" is defined as the ratio of the amount of substance of
+epoxide groups <b><i>n</i></b>(EP) and the mass <b><i>m</i></b><sub>B</sub> of the substance (and is therefore the reciprocal of the so-called
+"epoxide value" or "epoxide equivalent weight"); the SI unit is "mol/kg" <st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center"><st32:italic>SEC</st32:italic>= <st32:italic>n</st32:italic>(EP) / <st32:italic>m</st32:italic><st32:sub pos="post">B</st32:sub> .</st32:df></p><p num="0014">Similarly, the specific content of olefinic double bonds is defined as the ratio of the amount of
+substance of olefinic double bonds <b><i>n</i></b>(&gt;C=C&lt;) and the mass <b><i>m</i></b><sub>B</sub> of the substance (and is therefore
+the reciprocal of the so-called "unsaturation equivalent weight"); the SI unit is "mol/kg".</p><p num="0015">The solid acrylic resin <b>A1</b> containing epoxide and unsaturation groups can be obtained for
+example by the reaction of a solid acrylic resin <b>A11</b> containing glycidyl groups with an
+olefinically unsaturated monocarboxylic acid <b>A12</b> or an olefinically unsaturated acid anhydride
+<b>A13</b>, such as acrylic, methacrylic, crotonic, or vinyl acetic acid, or half esters A14 of olefinically
+unsaturated dicarboxylic acids like alkyl fumarate, maleate, or tetrahydro phthalate, with alkyl
+groups having from 1 to 20 carbon atoms, preferably from 1 to 8, and especially preferred, from
+1 to 4 carbon atoms, or acid anhydrides such as maleic or tetrahydro phthalic anhydrides. The
+glycidyl groups containing solid acrylic resin <b>A11</b> can be prepared in the first step by
+polymerisation of glycidyl methacrylate and other olefinically unsaturated monomers like for
+example alkyl acrylate, methacrylate, maleate, or styrene with the addition of the usual thermal
+initiators like peroxides or azo compounds with or without a solvent or other components. At the
+end of the polymerisation, the glycidyl groups containing acrylic resin in the molten state is set
+at a temperature of 120 to 190 °C and optionally, an antioxidant like phosphite or sterically
+hindered phenol or a sterically hindered amine and/or a polymerisation inhibitor like
+phenothiazine or a hydroquinone derivative (hydroquinone itself or its lower alkyl ethers) are
+added in a quantity corresponding to a mass fraction of from 0,01 to 1 % with respect to the total
+mass of the reactants of the second step. A catalyst of the reaction between glycidyl and acid or
+acid anhydride groups can optionally be added. Examples of such catalysts include amines (e.g.
+imidazoline), phosphines (e.g. triphenylphosphine), ammonium salts (e.g. tetrabutylammonium
+bromide), phosphonium salts (e.g. triphenylethylphosphonium bromide). These catalysts are
+preferably used in a mass fraction of from 0,05 to 1 % with respect to the total mass of the
+reactants of the second step. Then the acid or acid anhydride group containing unsaturated
+monomers selected from the group of compounds <b>A12</b> through <b>A14</b> are slowly added to the
+molten resin in the second step of the reaction. The progression of the reaction is monitored for
+example by determination of the acid number of the resulting polymer and of the other 
+parameters like viscosity and residual amount of epoxide groups.</p><p num="0016">The solid cycloaliphatic resin <b>A2</b> containing hydroxyl, epoxide and unsaturated groups can be
+obtained for example by the reaction of a solid hydroxyl and epoxide groups containing
+cycloaliphatic resin <b>A21</b> with an olefinically unsaturated monocarboxylic acid <b>A12</b> or an
+olefinically unsaturated acid anhydride <b>A13</b>, such as acrylic, methacrylic, crotonic, or vinyl
+acetic acid, or half esters <b>A14</b> of olefinically unsaturated dicarboxylic acids like alkyl fumarate,
+maleate, or tetrahydrophthalate, with alkyl groups having from 1 to 20 carbon atoms, preferably
+from 1 to 8, and especially preferred, from 1 to 4 carbon atoms, or acid anhydrides such as maleic
+or tetrahydrophthalic anhydrides.</p><p num="0017">The solid hydroxyl and epoxide group containing cycloaliphatic resin <b>A21</b> can be prepared in the
+first step of the reaction by polyesterification of a first carboxylic acid <b>A211</b>, or a mixture of
+such acids, or an anhydride, or a mixture of such anhydrides, selected from tetrasubstituted
+tetrahydrophthalic acid or its anhydride, with the substituents R1 through R4 being chosen in
+each case from H and CH<sub>3</sub>; a glycol <b>A212</b>, or a mixture of such glycols, of a general formula X-(OH)
+<sub>n</sub>, where X is a linear or branched alkyl with from 2 to 55 carbon atoms, a linear or
+branched alkenyl with from 2 to 55 carbon atoms, a linear or branched alkanediyl with from 2
+to 55 carbon atoms, or a cycloaliphatic residue with from 2 to 55 carbon atoms, or an aromatic
+radical with from 6 to 55 carbon atoms, and n is an integer between 2 and 4; and a second
+carboxylic acid <b>A213</b> which is different from <b>A211</b>, or a mixture of such acids, with the formula
+R- (C-OOH) <sub>m</sub> or an anhydride thereof, or a mixture of such anhydrides, where R is a linear or
+branched alkyl with from 1 to 36 carbon atoms, a cycloalkane with from 5 to 36 carbon atoms,
+a cycloalkene with from 5 to 36 carbon atoms or an aromatic residue with from 8 to 36 carbon
+atoms, and m is an integer between 2 and 4; and where the amount of substance ratio between
+<b>A211</b> and <b>A213</b> varies between 100 : 0 and 5 : 95 mol/mol, and in which the ratio of total
+number of hydroxyl groups contained in <b>A212</b> and the total number of carboxyl groups
+(anhydride groups being counted as two) in components <b>A211</b> and <b>A213</b> lies between 1,005 and
+1,5. This polyester is then epoxidised using a peroxide compound, preferably in a solvent. Either
+organic or inorganic peroxides can be used as suitable peroxide compounds. Peroxycarboxylic
+acids such as peroxide compounds are used preferably, since monoperphthalic acid is especially 
+preferred. Hydrogen peroxide was also found to be a preferred compound. The solvent is then
+removed by distillation.</p><p num="0018">At the end of the distillation step the molten resin is cooled to a temperature from 130 to 190 °C
+and optionally, an antioxidant like phosphite or sterically hindered phenol or a sterically hindered
+amine and/or a polymerisation inhibitor like phenothiazine or a hydroquinone derivative as
+defined supra are added in a quantity corresponding to a mass fraction of from 0,01 to 1 % with
+respect to the total mass of the reactants of the second step of the reaction. A catalyst of the
+reaction between epoxide and acid or acid anhydride groups can optionally be added. Examples
+of such catalysts include amines (e.g. imidazoline), phosphines (e.g. triphenylphosphine),
+ammonium salts (e.g. tetrabutylammonium bromide), phosphonium salts (e.g.
+triphenylethylphosphonium bromide). These catalysts are preferably used in a mass fraction of
+from 0,05 to 1 % with respect to the total mass of the reactants of the second step of the reaction.
+Then the acid or acid anhydride group containing unsaturated monomers selected from the group
+of compounds <b>A12</b> through <b>A14</b> are slowly added to the molten resin in the second step of the
+reaction. The progression of the reaction is monitored for example by determination of the acid
+number of the resulting polymer and of the other parameters like viscosity and residual amount
+of epoxide groups.</p><p num="0019">The resin <b>A3</b> containing epoxide and unsaturated groups is preferably the result of the reaction
+between a epoxy-phenoxy group containing resin <b>A31</b> with an olefinically unsaturated monocarboxylic
+acid <b>A12</b> or an olefinically unsaturated acid anhydride <b>A13</b>, such as acrylic,
+methacrylic, crotonic, or vinyl acetic acid, or half esters <b>A14</b> of olefinically unsaturated
+dicarboxylic acids like alkyl fumarate, maleate, or tetrahydrophthalate, with alkyl groups having
+from 1 to 20 carbon atoms, preferably from 1 to 8, and especially preferred, from 1 to 4 carbon
+atoms, or acid anhydrides such as maleic or tetrahydrophthalic anhydrides. The resin <b>A31</b> can
+be based on bisphenol A epoxy resins <b>A311</b>, and epoxy resins <b>A312</b> based on phenol novolaks,
+and epoxy resins <b>A313</b> based on cresol novolaks. The bisphenol A based epoxy resins <b>A311</b> can
+be prepared in the first step of the reaction via a TAFFY process from bisphenol A and
+epichlorohydrin, wherein the excess of epichlorohydrin determines the number average molar
+mass of the epoxy resin, or in the so-called advancement process where bisphenol A is reacted 
+with the diglycidyl ether of bisphenol A. The phenol and cresol novolaks <b>A321</b> and <b>A331</b> used
+as starting compounds can be prepared in a well-known manner by the acid-catalysed
+condensation of formaldehyde with either phenol or cresol, or mixtures thereof. Epoxy groups
+are introduced by reaction of the novolaks with epichlorohydrin. Commercially available epoxy
+resins, such as ®Epikote 3003 from Resolution Deutschland GmbH, ®DER 664 from DOW
+Chemical etc. are typical examples of epoxide group containing polyphenoxy resins <b>A31</b> that can
+be utilised for the preparation of the unsaturation containing polyphenoxy resins A3. For the
+preparation of the resin <b>A3</b> in the second step of the reaction, an epoxy resin selected from the
+group consisting of <b>A31</b> through <b>A33</b> is heated to a temperature of from 120 to 170 °C,
+optionally an antioxidant like a phosphite or a sterically hindered phenol or a sterically hindered
+amine and/or a radical polymerisation inhibitor like phenothiazine or a hydroquinone derivative
+as defined supra can be added in a quantity corresponding to a mass fraction of from 0,01 to 1 %
+with respect to the total mass of the reactants of the second reaction step. A catalyst of the
+reaction between epoxide and acid or acid anhydride groups can optionally be added. Examples
+of such catalysts include amines (e.g. imidazoline), phosphines (e.g. triphenylphosphine),
+ammonium salts (e.g. tetrabutylammonium bromide), and phosphonium salts (e.g. triphenylethylphosphonium
+bromide). These catalysts are preferably used in a mass fraction of from 0,05 to
+1 % with respect to the total mass of the reactants of the second step. Then, in the second step
+of the reaction, the acid or acid anhydride group containing unsaturated monomers selected from
+the group of compounds <b>A12</b> through <b>A14</b> are slowly added to the molten resin. The progression
+of the reaction is monitored for example by determination of the acid number of the resulting
+polymer and of the other parameters like viscosity and residual amount of epoxide groups.</p><p num="0020">A further object of the invention are resins for powder coating compositions which are thermally
+and radiation curable, comprising at least one resin <b>B</b> containing both olefinically unsaturated
+groups and acid and/or acid anhydride groups, having a melting temperature of at least 30 °C,
+preferably of at least 40 °C, and particularly preferred of at least 45 °C. Preferred resins <b>B</b> have
+a partial acid number of from 20 to 600 mg/g, preferably of from 50 to 550 mg/g, and particularly
+preferred from 150 to 500 mg/g, and a specific content of olefinic double bonds of 0,2 to 3,4
+mol/kg, preferably of 0,25 to 2,9 mol/kg, and particularly preferred, of 0,28 to 2,5 mol/kg
+(corresponding to an "unsaturation weight", molar mass divided by number of olefinic double 
+bonds per molecule, ranging from 300 to 4500 g/mol, preferably from 340 to 4000 g/mol, and
+particularly preferred from 400 to 3570 g/mol). Preferably, resin <b>B</b> is solid and semi-crystalline,
+and preferably partially end capped with unsaturated groups.</p><p num="0021">The acid number is defined according to DIN EN ISO 3682 (DIN 53 402) as the ratio of the mass
+<b><i>m</i></b><sub>KOH</sub> of potassium hydroxide which is needed to neutralise the sample in question, and the mass
+<b><i>m</i></b><sub>B</sub> of the sample (or mass of solids in the sample in the case of solutions or dispersions): the
+customary unit is "mg/g". A partial acid number is determined in a sample containing groups that
+hydrolyse under formation of acid groups, by reaction of the sample with a monofunctional
+alcohol, and subsequent neutralisation of the half ester formed with potassium hydroxide.</p><p num="0022">A resin is designated here as semi-crystalline if it has a mass fraction of at least 10 % which is
+crystalline, i. e which exhibits a change in density upon dilatometric analysis at the crystalline
+melting temperature.</p><p num="0023">The resin <b>B</b> containing olefinically unsaturated groups and acid groups, preferably also anhydride
+groups, can be prepared for example by reaction of a solid saturated semi-crystalline resin <b>B1</b>
+containing anhydride groups with a epoxide group-containing unsaturated monomer such as
+glycidyl(meth)acrylate.</p><p num="0024">The solid semi-crystalline polyanhydride resin precursor <b>B1</b> is preferably a polymeric anhydride
+of an aliphatic or cycloaliphatic polycarboxylic, preferably dicarboxylic, acid having a weight
+average molar mass of from 1000 to 5000 g/mol (measured by gel permeation chromatography
+using a polystyrene standard). It is also possible to use a polyol modified polymeric anhydride
+as described in EP-A 0 299 420 by reacting the polyanhydride with an aliphatic compound
+having at least two, preferably three or more, hydroxy groups per molecule. Preferred are
+trimethylolpropane, pentaerythritol, sorbitol, and resinous polyols such as polyester polyols,
+polyether polyols, polyurethane polyols, polyacrylate polyols, polycaprolactone polyol,
+preferably having on the average at least two, especially preferred at least 2,5, hydroxyl groups
+per molecule. The aliphatic dicarboxylic acids are preferably selected from the group consisting
+of malonic, succinic, glutaric, adipic, pimelic, suberic, azelaic, sebacic, and dodecanedioic acids. </p><p num="0025">Particularly preferred are adipic and dodecanedicarboxylic acid. The polyanhydrides can be
+prepared from these acids following EP-B 0 509 393 by reacting the said acids or a mixture of
+the said acids with acetic anhydride. The excess of acetic anhydride is removed by heating under
+reduced pressure until the reaction mass is virtually free of acetic anhydride. It is also possible
+to modify the polyanhydrides by adding hydroxycarboxylic acids which are incorporated into
+the polycondensate. Such hydroxycarboxylic acids preferably have a melting temperature of
+between 40 and 150 °C, such as 12-hydroxy stearic acid, 2-, 3-, or 10-hydroxy octadecanoic acid,
+and 2-hydroxy myristic acid.</p><p num="0026">A further object of the invention is a mixture of resins for powder coating compositions which
+is thermally and radiation curable, comprising at least one resin <b>A</b> containing epoxide and
+olefinically unsaturated groups, and at least one resin <b>B</b> containing unsaturated olefinically and
+acid and/or acid anhydride groups.</p><p num="0027">Powder coating compositions can be prepared from the resins <b>A</b> and <b>B</b> by adding the customary
+powder coating additives like photoinitiators, flow promoters, UV absorbers, light stabilisers,
+degassing agents, levelling agents, surface modifiers, pigments, fillers, or masterbatches
+containing one or more of the said additives, to a single resin <b>A,</b> a mixture of resins <b>A</b>, a single
+resin <b>B</b>, a mixture of resins <b>B</b>, or mixtures of one or more of resins <b>A</b> with one or more of resins
+<b>B.</b></p><p num="0028">It is also possible, in a preferred embodiment, to add the solid, semi-crystalline polyanhydride
+of an aliphatic dicarboxylic acid as described in EP-A 509 393, or acrylic resins containing
+glycidyl groups as described in EP-A 509 393, having a number average molar mass of from
+1000 to 10 000 g/mol and a glass transition temperature of from 30 to 90 °C, being a copolymer
+with a mass fraction of moieties derived from glycidyl (meth)acrylate of at least 20 %, to one or
+more of resins <b>A</b>, one or more of resins <b>B</b>, or to mixtures of one or more of resins <b>A</b> with one or
+more of resins <b>B</b> in any of the above formulations.</p><p num="0029">It is also possible, in a further preferred embodiment, to add the unsaturated and/or acrylated
+semi-crystalline or amorphous polyesters described, in e. g. EP-A 0 842 204, which are reaction 
+products of glycidyl (meth)acrylate and carboxyl group-containing saturated or unsaturated
+polyesters having glass transition temperatures of at least 46 °C, the urethane (meth)acrylates of
+EP-A 0 585 742, which are made by reaction of mass fractions of from 40 to 80 % of an organic
+isocyanate having at least two isocyanate groups, from 15 to 50 % of a monohydric alcohol
+carrying (meth)acryloyl groups, and from 2 to 20 % of a further compound having at least one
+group which is reactive towards isocyanate, but is free from (meth)acryloyl groups, or mixtures
+of these polyesters and urethane (meth)acrylates, to one or more of resins <b>A</b>, one or more of
+resins <b>B</b>, or to mixtures of one or more of resins <b>A</b> with one or more of resins <b>B</b> in any of the
+above formulations.</p><p num="0030">The acrylic resins containing glycidyl groups can be prepared by radically initiated
+polymerisation of glycidyl (meth)acrylate together with other vinyl monomers such as alkyl
+(meth)acrylates, hydroxyalkyl (meth)acrylates, dialkyl maleates or fumarate, styrene and
+substituted styrenes such as p-methyl styrene or chlorostyrene, and vinyl esters like vinyl acetate
+or vinyl versatate. Polymerisation is initiated by azo or peroxy compounds, and may be
+conducted in a solvent, or in the presence of reactive diluents such as epsilon-caprolactone or
+glycidyl neodecanoate. In the latter case, a minimum quantity of acid monomers like
+(meth)acrylic acid is needed to react with the diluent under ring-opening.</p><p num="0031">The preparation and application of the powder coating compositions is made on the state of the
+art base and the coating is applied on the most different substrates such as i.e. paper, cardboard,
+wood, fibre-board, textiles, metals, plastics etc.</p><p num="0032">Surprisingly, it has been found that the application properties of coatings based on simple
+physical mixtures of saturated resins containing epoxide groups or acid groups and resins
+containing unsaturated groups are different from the properties of the coatings prepared from the
+resins A and/or the resins <b>B</b> of this invention.</p><p num="0033">The surprising effect is that the mar and chemical resistance are improved in comparison with
+the standard resins containing acrylic glycidyl groups combined with a polyanhydride or
+polycarboxylic acid. </p><p num="0034">The invention is further explained and illustrated by the examples which are not limiting.</p><p num="0035">Glass transition temperatures stated in these examples, as in the specification supra, were
+determined according to the differential scanning calorimetry method using a heating rate of
+20 K/min, where the value determined during the second heating cycle is reported.</p><p num="0036">The iodine number is defined according to DIN 53 241-1 as the ratio of the mass of iodine <b><i>m</i></b><sub>I</sub>
+which is added under discolouration to the olefinic double bonds of a sample, and the mass <b><i>m</i></b><sub>B</sub>
+of that sample (mass of solids in the sample for solutions or dispersions); the customary unit is
+"g/(100 g)" or "cg/g".</p><heading><b>Example 1 (Resin 1)</b></heading><heading><b>Glycidyl and unsaturated groups containing acrylic resin</b></heading><p num="0037">A flask was charged with 900 g of pseudocumene and heated to 150 °C. At this temperature a
+mixture of 60 g of di-tert.-butyl peroxide, 1000 g of methyl methacrylate, 1200 g of styrene and
+800 g of glycidyl methacrylate were added over 8 hours. After 1 hour, 30 g of triphenylphosphite
+were added, and the solvent was flashed off at 160 °C under reduced pressure until a mass
+fraction of solids of 99,2 % was reached (specific epoxy group content: 1,82 mol/kg; "epoxy
+equivalent weight" or "EEW": 550 g/mol). 5 g of hydroquinone monomethylether and 1 g of
+phenothiazine (FTZ) were added. After homogenisation of the resultant mass 200 g of
+methacrylic acid were added dropwise over 10 minutes. After 10 minutes the acid number was
+1,0 mg/g. The temperature of 160 °C was maintained for another hour and finally the mixture
+was discharged. The following data were obtained:
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Acid number:</entry><entry align="left">0,5 mg/g</entry></row><row><entry align="left">Viscosity at 160 °C</entry><entry align="left">8000 mPa·s</entry></row><row><entry align="left">Glass transition temperature</entry><entry align="left">54 °C</entry></row><row><entry align="left">specific epoxide group content</entry><entry align="left">0,93 mol/kg</entry></row><row><entry align="left">("EEW"</entry><entry align="left">1200 g/mol)</entry></row><row><entry align="left">specific content of olefinic double bonds</entry><entry align="left">0,71 mol/kg</entry></row><row><entry align="left">("Unsaturation weight"</entry><entry align="left">ca. 1400 g/mol)</entry></row></tbody></tgroup></table></tables></p><heading><b>Example 2 (Resin 2)</b></heading><heading><b>Anhydride and unsaturated groups containing polyanhydride resin</b></heading><p num="0038">A flask was charged with 1950 g of dodecanedioic polyanhydride and melted at 140 °C. When
+the polyanhydride was melted, 3 g of hydroquinone monomethylether (HQMME) were added
+and homogenised, and over 10 minutes, 90 g of glycidyl methacrylate were added. After ten
+minutes no epoxy groups were detectable (specific epoxide groups content was less than
+0,2 mol/kg, "EEW" &gt; 5000 g/mol) and after further reaction during 1 hour at 140 °C the semi-crystalline
+modified polyanhydride was discharged. The following data were obtained from the
+product:
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Melting temperature</entry><entry align="left">82 °C</entry></row><row><entry align="left">Partial acid number</entry><entry align="left">400 mg/g</entry></row><row><entry align="left">specific content of olefinic double bonds</entry><entry align="left">0,31 mol/kg</entry></row><row><entry align="left">("Unsaturation weight"</entry><entry align="left">ca. 3200 g/mol)</entry></row><row><entry align="left">specific epoxide group content</entry><entry align="left">&lt; 0,2 mol/kg</entry></row><row><entry align="left">("EEW"</entry><entry align="left">not detectable (&gt; 5000 g/mol))</entry></row></tbody></tgroup></table></tables></p><heading><b>Example 3 (Resin 3)</b></heading><heading><b>Cycloaliphatic polyester containing hydroxyl, glycidyl and unsaturated groups</b></heading><p num="0039">Epoxide C of WO 02/062867 was synthesised in the following manner:
+
+A polyester (Polyester 5 of this document) was synthesised according to the following procedure:
+A reactor was charged with 760 g (5 mol) of 1, 2,3,6-tetrahydrophthalic anhydride (THPA),
+813 g (4,9 mol) of terephthalic acid and 1,145 g (11 mol) of neopentylglycol and 2,8 g
+monobutylstannoic acid. The mixture was heated and the temperature was gradually raised to
+240 °C. The esterification reaction was performed by distilling the water formed until the acid
+number of the mixture was less than 15 mg/g.</p><p num="0040">When subjected to a slightly reduced pressure, the reaction mixture then reached an acid number
+of less than 5 mg/g.</p><p num="0041">The reaction mixture was filtered and 2450 g of polyester were obtained with the following <tables><table><tgroup cols="2"><tbody><row><entry align="left">characteristics</entry></row><row><entry align="left">Iodine Number</entry><entry align="left">65 cg/g</entry></row><row><entry align="left">Acid Number</entry><entry align="left">1,6 mg/g.</entry></row><row><entry align="left">Viscosity at 200 °C</entry><entry align="left">3680 mPa·s</entry></row><row><entry align="left">Hydroxyl Number</entry><entry align="left">25,6 mg/g</entry></row><row><entry align="left">Glass Transition Temperature Tg</entry><entry align="left">29 °C</entry></row></tbody></tgroup></table></tables></p><p num="0042">This polyester was then epoxidised according to the general procedure outlined in the cited
+document:</p><p num="0043">The polyester was dissolved in 4400 g of ethyl acetate at 50 °C. Solid monoperphthalic acid
+(95 % purity, 1245 g) was added in portions over a period of 1 hr. The reaction mixture,
+continuously mixed, was maintained at 50 °C during this addition by immersing the reactor in
+cold water. The reactor was then immersed in hot water and the reaction mixture was maintained
+at 50 °C for further two hours when the exothermic reaction had ended.</p><p num="0044">The reaction mixture was filtered and the solid was washed with an aqueous solution of sodium
+carbonate and then with water after cooling to room temperature. The organic layer was
+concentrated by distillation under reduced pressure and dried by heating up to 220 °C at 13 hPa
+(13 mbar) to produce the epoxidised resin:
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Iodine number:</entry><entry align="left">0,03 cg/g</entry></row><row><entry align="left">Acid Number:</entry><entry align="left">0 mg/g</entry></row><row><entry align="left">Viscosity (cone and plate at 200 °C)</entry><entry align="left">1780 mPa·s</entry></row><row><entry align="left">Viscosity (at 160 °C)</entry><entry align="left">12000 mPa·s</entry></row><row><entry align="left">mass fraction of oxirane groups</entry><entry align="left">2,8 %</entry></row><row><entry align="left">specific epoxide group content</entry><entry align="left">1,75 mol/kg</entry></row><row><entry align="left">("EEW"</entry><entry align="left">ca. 570 g/mol)</entry></row><row><entry align="left">Hydroxyl number:</entry><entry align="left">26,5 mg/g</entry></row><row><entry align="left">Glass transition temperature T<sub>g</sub></entry><entry align="left">44 °C</entry></row></tbody></tgroup></table></tables></p><p num="0045">A flask was charged with 2000 g of this epoxy resin, and the material was melted at 170 °C. At
+this temperature, 5 g of HQMME and 1 g of FTZ were added. After homogenisation of the
+resultant mass, 172 g of methacrylic acid were added drop-wise over 20 minutes. After ten
+minutes the acid number was 2,5 mg/g. The temperature of 170 °C was maintained for another
+hour and finally the resin was discharged. The following data were obtained from a sample of
+the resin:
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Acid number:</entry><entry align="left">0,5 mg/g</entry></row><row><entry align="left">Viscosity at 160 °C:</entry><entry align="left">10600 mPa·s</entry></row><row><entry align="left">Glass transition temperature T<sub>g</sub></entry><entry align="left">40 °C</entry></row><row><entry align="left">specific epoxide group content</entry><entry align="left">0,77 mol/kg</entry></row><row><entry align="left">("EEW"</entry><entry align="left">1300 g/mol)</entry></row><row><entry align="left">specific content of olefinic double bonds</entry><entry align="left">1,0 mol/kg</entry></row><row><entry align="left">("Unsaturation weight</entry><entry align="left">ca. 1000 g/mol)</entry></row></tbody></tgroup></table></tables></p><heading><b>Example 4 (Resin 4)</b></heading><heading><b>Bisphenol A based epoxy resin containing glycidyl and unsaturated groups</b></heading><p num="0046">A flask was charged with 2000 g of ®Epikote 3003 (a bisphenol A polyphenoxy resin with a
+specific epoxide group content of approximately 1,3 mol/kg, or "EEW" of ca. 750 g/mol) and
+heated to 140 °C. At this temperature 10 g of HQMME, 2 g of FTZ and 2 g of
+triphenylethylphosphonium bromide were added.
+
+After homogenisation of the resultant mass 72 g of acrylic acid were added drop-wise over ten
+minutes and 86 g of crotonic acid were successively added. After 10 minutes the acid number
+was 2 mg/g.
+
+The temperature of 140 °C was maintained for another 30 minutes and finally the resin was
+discharged. The following data were obtained on a sample of this resin:
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Acid number:</entry><entry align="left">1,5 mg/g.</entry></row><row><entry align="left">Viscosity at 160 °C:</entry><entry align="left">9000 mPa·s</entry></row><row><entry align="left">glass transition temperature T<sub>g</sub></entry><entry align="left">48 °C</entry></row><row><entry align="left">specific epoxide group content</entry><entry align="left">0,30 mol/kg </entry></row><row><entry align="left">("EEW"</entry><entry align="left">3300 g/mol)</entry></row><row><entry align="left">specific content of olefinic double bonds</entry><entry align="left">0,91 mol/kg</entry></row><row><entry align="left">("Unsaturation weight"</entry><entry align="left">ca. 1100 g/mol)</entry></row></tbody></tgroup></table></tables></p><heading><b>Comparative Example A (Resin A)</b></heading><heading><b>Acrylic resin containing unsaturated groups</b></heading><p num="0047">A flask was charged with 900 g of pseudocumene and heated to 150 °C. At this temperature a
+mixture of 60 g of di-tert.-butyl peroxide, 1500 g of methyl methacrylate, 1000 g of styrene and
+500 g of glycidyl methacrylate were added over 8 hours. After 1 hour, 30 g oftriphenylphosphite
+were added and the solvent was flashed off at 160 °C under reduced pressure until a solid content
+of 99,2 % was reached (specific epoxide group content 1,18 mol/kg; "EEW": 850 g/mol). 5 g of
+HQMME and 1 g of FTZ were added. After homogenisation of the resultant mass, 275 g of
+crotonic acid were added over ten minutes. After further ten minutes the acid number was
+2,5 mg/g. The temperature of 160 °C was maintained for another hour and finally the mixture
+was discharged. The following data were obtained on a sample of the resin:
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Acid number:</entry><entry align="left">1,7 mg/g</entry></row><row><entry align="left">Viscosity at 200 °C:</entry><entry align="left">1530 mPa·s</entry></row><row><entry align="left">glass transition temperature Tg:</entry><entry align="left">51,6 °C</entry></row><row><entry align="left">specific epoxide group content</entry><entry align="left">&lt; 0,2 mol/kg</entry></row><row><entry align="left">("EEW" not detectable:</entry><entry align="left">&gt; 5000 g/mol)</entry></row><row><entry align="left">specific content of olefinic double bonds</entry><entry align="left">0,91 mol/kg</entry></row><row><entry align="left">("Unsaturation weight"</entry><entry align="left">ca. 1100 g/mol</entry></row></tbody></tgroup></table></tables></p><heading><b>Preparation of powder coating compositions and their application</b></heading><p num="0048">A series of powder coating tests were performed using the following powder coating
+compositions (the tables list the mass of the constituents in g, adding up in all cases to 1000 g
+of coating composition) </p><p num="0049">The powders of the above mentioned compositions were extruded using the following conditions:
+Twin screw extruder
+<tables><table><tgroup cols="2"><tbody><row><entry align="left">Temperatures (°C)</entry><entry align="left">60; 100; 130 (3 heating elements)</entry></row><row><entry align="left">Feeding ratio (%)</entry><entry align="left">10</entry></row><row><entry align="left">Rotation speed (rpm)</entry><entry align="left">300</entry></row></tbody></tgroup></table></tables></p><p num="0050">The applications of the powder paints are done with corona gun on steel panels and curing is
+performed in convection oven at 140 °C for 30 minutes and/or in IR-UV oven at 0,5 m/min (IR
+irradiation intensity 32 KW/m<sup>2</sup>; UV: ca. 100 W/cm; distance between the lamps and the panels
+ca. 15 cm). The film thickness was in each case ca. 85 µm.</p><heading>REFERENCE TEST 1</heading> <p num="0051"><tables><table><tgroup cols="2"><tbody><row><entry align="left">®Synthacryl VSC 1438</entry><entry align="left">667</entry></row><row><entry align="left">DDAPA</entry><entry align="left">270</entry> </row> <row><entry align="left">®Additol VXL 9827</entry> <entry align="left">30</entry></row><row><entry align="left">®Additol 03751</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">3</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven, 140 °C for 30 minutes </p><heading>REFERENCE TEST 2</heading><p num="0052"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin A</entry><entry align="left">967</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row><row><entry align="left">®Modaflow MP III</entry><entry align="left">8</entry></row><row><entry align="left">Benzoin</entry><entry align="left">5</entry></row></tbody></tgroup></table></tables>
+Curing conditions: IR and UV 0,5 m/min</p><heading>REFERENCE TEST 3</heading><p num="0053"><tables><table><tgroup cols="2"><tbody><row><entry align="left">®Synthacryl VSC 1438</entry><entry align="left">319</entry></row><row><entry align="left">DDAPA</entry><entry align="left">135</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">®Additol 03751</entry><entry align="left">15</entry></row><row><entry align="left">®Viaktin 03546</entry><entry align="left">487</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">5</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">5</entry></row><row><entry align="left">Benzoin</entry><entry align="left">4</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven 140 °C for 30 minutes, and IR and UV 0,5 m/min </p><heading>REFERENCE TEST 4</heading><p num="0054"><tables><table><tgroup cols="2"><tbody><row><entry align="left">®Synthacryl VSC 1438</entry><entry align="left">319</entry></row><row><entry align="left">DDAPA</entry><entry align="left">135</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">®Additol 03751</entry><entry align="left">15</entry></row><row><entry align="left">Resin A</entry><entry align="left">487</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">5</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">5</entry></row><row><entry align="left">Benzoin</entry><entry align="left">4</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven 140 °C for 30 minutes, and IR and UV 0,5 m/min</p><heading>TEST NUMBER 1</heading><p num="0055"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 1</entry><entry align="left">671</entry></row><row><entry align="left">®Viaktin 03546</entry><entry align="left">74</entry></row><row><entry align="left">DDAPA</entry><entry align="left">100</entry></row><row><entry align="left">®Viaktin 04058</entry><entry align="left">100</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">5</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven, 140 °C for 30 minutes </p><heading>TEST NUMBER 2</heading><p num="0056"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 1</entry><entry align="left">671</entry></row><row><entry align="left">®Viaktin 03546</entry><entry align="left">74</entry></row><row><entry align="left">DDAPA</entry><entry align="left">100</entry></row><row><entry align="left">®Viaktin 04058</entry><entry align="left">100</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">5</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row></tbody></tgroup></table></tables>
+Curing conditions: IR and UV 0,5 m/minutes</p><heading>TEST NUMBER 3</heading><p num="0057"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 1</entry><entry align="left">671</entry></row><row><entry align="left">®Viaktin 03546</entry><entry align="left">74</entry></row><row><entry align="left">DDAPA</entry><entry align="left">100</entry></row><row><entry align="left">®Viaktin 04058</entry><entry align="left">100</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">5</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven, 140 °C for 30 minutes; and IR and UV 0,5 m/min </p><heading>TEST NUMBER 4</heading><p num="0058"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 1</entry><entry align="left">592</entry></row><row><entry align="left">®Viaktin 03546</entry><entry align="left">253</entry></row><row><entry align="left">DDAPA</entry><entry align="left">100</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">5</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven, 140 °C for 30 minutes; and IR and UV 0,5 m/min</p><heading>TEST NUMBER 5</heading><p num="0059"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 1</entry><entry align="left">592</entry></row><row><entry align="left">®Viaktin 03546</entry><entry align="left">253</entry></row><row><entry align="left">Dodecanedicarboxylic acid</entry><entry align="left">100</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">5</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven, 140 °C for 30 minutes; and IR and UV 0,5 m/min </p><heading>TEST NUMBER 6</heading><p num="0060"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 1</entry><entry align="left">845</entry></row><row><entry align="left">®Additol VXL 9890</entry><entry align="left">100</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">5</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven 140 °C for 30 minutes; and IR and UV 0,5 m/min</p><heading>TEST NUMBER 7</heading><p num="0061"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 1</entry><entry align="left">647</entry></row><row><entry align="left">Resin 2</entry><entry align="left">300</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">3</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven 140 °C for 30 minutes; and IR and UV 0,5 m/min, 3 times </p><heading>TEST NUMBER 8</heading><p num="0062"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 1</entry><entry align="left">845</entry></row><row><entry align="left">DDAPA</entry><entry align="left">100</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row><row><entry align="left">Benzoin</entry><entry align="left">5</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven 140 °C for 30 minutes; and IR and UV 0,5 m/min, 3 times</p><heading>TEST NUMBER 9</heading><p num="0063"><tables><table><tgroup cols="2"><tbody><row><entry align="left">®Synthacryl VSC 1438</entry><entry align="left">607</entry></row><row><entry align="left">Resin 2</entry><entry align="left">340</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">3</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven 140 °C for 30 minutes; and IR and UV 0,5 m/min, 3 times </p><heading>TEST NUMBER 10</heading><p num="0064"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 3</entry><entry align="left">647</entry></row><row><entry align="left">Resin 2</entry><entry align="left">300</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">3</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven 140 °C for 30 minutes; and IR and UV 0,5 m/min, 3 times</p><heading>TEST NUMBER 11</heading><p num="0065"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 4</entry><entry align="left">647</entry></row><row><entry align="left">DDAPA</entry><entry align="left">300</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">30</entry></row><row><entry align="left">Benzoin</entry><entry align="left">3</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven 140 °C for 30 minutes; and IR and UV 0,5 m/min, 3 times </p><heading>TEST NUMBER 12</heading><p num="0066"><tables><table><tgroup cols="2"><tbody><row><entry align="left">Resin 1</entry><entry align="left">497</entry></row><row><entry align="left">Resin 2</entry><entry align="left">230</entry></row><row><entry align="left">®Additol VXL 9827</entry><entry align="left">50</entry></row><row><entry align="left">®Irgacure 2959</entry><entry align="left">10</entry></row><row><entry align="left">®Irgacure 819</entry><entry align="left">10</entry></row><row><entry align="left">Benzoin</entry><entry align="left">3</entry></row><row><entry align="left">®Kronos 2160</entry><entry align="left">200</entry></row></tbody></tgroup></table></tables>
+Curing conditions: oven 140 °C for 30 minutes; IR and UV 0,5 m/min, 3 times
+
+®Viaktin, ®Additol, ®Modaflow and ®Synthacryl are Solutia registered trademarks.
+
+®Viaktin 03546 is a urethane methacrylate resin,
+
+®Viaktin 04058 is a acrylated polyester resin,
+
+DDAPA is a polyanhydride of dodecanedioic acid
+
+®Additol VXL 9827 is a flow-promoter masterbatch
+
+®Additol VXL 9890 is a curing catalyst masterbatch
+
+®Additol 03751 is a UV-stabiliser mixture
+
+®Modaflow MP III is a silica supported flow-promoter
+
+®Synthacryl VSC 1438 is a glycidyl acrylic resin
+
+®Kronos 2160 is a trademark registered by NL Chemicals and corresponds to a form of titanium
+dioxide
+
+®Irgacure 819 and 2959 are trademarks registered by Ciba Specialties and correspond to
+photoinitiators for UV curing </p><p num="0067">In the following table, the results obtained are listed:
+<img id="img-00250001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00250001.tif" inline="no" he="169"/></p><heading>Evaluation; 1: excellent, 2: good, 3:sufficient, 4: poor, 5: total destruction of coating layer</heading><p num="0068">The combination of two kinds of functionalities, unsaturation and acid or epoxy groups, in the
+same resin leads to superior properties when compared to a mixture of two resins having only 
+one functionality each which is different from the functionality of the other.</p><p num="0069">Thus, a mixture of an epoxy functional resin and an unsaturated resin as binder (see reference test
+3 and 4) leads to poor performance of the coating when compared to a coating prepared with a
+binder having both functionalities in the same resin.</p><p num="0070">The powder coating compositions prepared with the powder coating resin compositions
+according to this invention are not only solid, but if compared with the only radiation or only
+thermally cured, see test number 1 and 2, in comparison to test number 3 radiation and thermally
+cured, are better in all the performances.</p><p num="0071">And if compared with mixture of unsaturated resin with glycidyl containing resins show
+improved mechanical and mar resistance see reference tests 3 and 4 in comparison to test number
+8.</p><p num="0072">While satisfactory results can be achieved in dual cure with mixtures of resins of different
+functionalities with regard to solvent resistance (see reference test 3 and 4), chemical resistance,
+mechanical properties and mar resistance are poor in these cases. Quite surprisingly, chemical
+resistance is markedly improved while retaining the favourable solvent resistance results if both
+functionalities are combined in the same molecule. A further improvement is possible especially
+with regard to the mechanical and mar resistance when the irradiation step in the dual cure is
+repeated, cf. tests 7 through 12.</p><p num="0073">That is a really surprising result, and because of the excellent and balanced properties in all of
+the four performance fields, the coating compositions prepared in accordance with the present
+invention can be advantageously used especially for automotive coating applications.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>Resins for powder coatings which are thermally and radiation curable containing both
+olefinically unsaturated groups and at least one other reactive group in the same molecule
+selected from epoxide groups and acid or acid anhydride groups.</claim-text></claim><claim num="2"><claim-text>The resin of claim 1 which is a resin A having olefinically unsaturated groups and
+epoxide groups.</claim-text></claim><claim num="3"><claim-text>The resin of claim 1 which is a resin B having olefinically unsaturated groups and acid
+and/or acid anhydride groups.</claim-text></claim><claim num="4"><claim-text>The resin A of claim 2 characterised in that it is a solid acrylic resin A1 with a glass
+transition temperature (measured by differential scanning calorimetry, second heating cycle, with
+a heating rate of 20 K/min) Tg of at least 35 °C, a specific epoxide group content of 0,2 to 3,4
+mol/kg, and a specific content of olefinic double bonds of 0,2 to 3,4 mol/kg.</claim-text></claim><claim num="5"><claim-text>The resin A of claim 2 characterised in that it is a solid cycloaliphatic hydroxyl group-containing
+resin A2 with a glass transition temperature Tg of at least 30 °C, a specific epoxide
+group content of 0,2 to 3,4 mol/kg, and a specific content of olefinic double bonds of 0,2 to 3,4
+mol/kg.</claim-text></claim><claim num="6"><claim-text>The resin A of claim 2 characterised in that it is a resin A3 based on bisphenol A or
+phenol or cresol novolacs with a glass transition temperature Tg of at least 30 °C, a specific
+epoxide group content of 0,2 to 3,4 mol/kg, and a specific content of olefinic double bonds of
+0,2 to 3,4 mol/kg.</claim-text></claim><claim num="7"><claim-text>The resin B of claim 3 characterised in that it is a solid polyanhydride resin with a melting
+temperature of at least 45 ° C and an acid value of between 20 and 600 mg/g and a specific
+content of olefinic double bonds of from 0,2 to 3,4 mol/kg.</claim-text></claim><claim num="8"><claim-text>Powder coating compositions comprising at least one of the resins of claim 1.</claim-text></claim><claim num="9"><claim-text>The powder coatings compositions of claim 8 which comprise at least one of the resins
+A and at least one of the resins B.</claim-text></claim><claim num="10"><claim-text>The powder coatings compositions of claim 8 which additionally comprise one or more
+of a semi-crystalline or amorphous unsaturated polyester, a polyanhydride of an aliphatic
+dicarboxylic acid, acrylic resins containing glycidyl groups, and urethane (meth)acrylates.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

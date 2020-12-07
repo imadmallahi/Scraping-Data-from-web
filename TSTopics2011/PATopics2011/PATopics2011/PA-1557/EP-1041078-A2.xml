@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1041078-A2" country="EP" doc-number="1041078" kind="A2" lang="EN" family-id="23093431" status="new" date-produced="20090516" date="20001004"><bibliographic-data><publication-reference ucid="EP-1041078-A2" status="new" fvid="22956691"><document-id status="new" format="original"><country>EP</country><doc-number>1041078</doc-number><kind>A2</kind><date>20001004</date></document-id></publication-reference><application-reference ucid="EP-00106026-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00106026</doc-number><kind>A</kind><date>20000328</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-28525099-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>28525099</doc-number><kind>A</kind><date>19990402</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B01J  31/16        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B01J  31/22        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C   6/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07C   6/04        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07F  15/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07F  15/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  61/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08G  61/08        20060101ALI20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B01J  31/22C</classification-symbol><classification-symbol scheme="EC">B01J  31/22D4</classification-symbol><classification-symbol scheme="EC">B01J  31/24B</classification-symbol><classification-symbol scheme="EC">C07C   6/04</classification-symbol><classification-symbol scheme="EC">C07F  15/00N2</classification-symbol><classification-symbol scheme="EC">C07F  15/00N4</classification-symbol><classification-symbol scheme="ICO">L01J231:14</classification-symbol><classification-symbol scheme="ICO">L01J231:54B</classification-symbol><classification-symbol scheme="ICO">L01J31:18</classification-symbol><classification-symbol scheme="ICO">L01J31:22B2</classification-symbol><classification-symbol scheme="ICO">L01J531:82B</classification-symbol><classification-symbol scheme="ICO">L01J531:82H</classification-symbol><classification-symbol scheme="ICO">M07C531:22</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Ruthenium- oder Osmium-enthlatender Katalysator für Metathesereaktionen</invention-title><invention-title load-source="ep" status="new" lang="EN">Ruthenium or osmium catalysts for olefin metathesis reactions</invention-title><invention-title load-source="ep" status="new" lang="FR">Catalyseurs à base de ruthénium ou osmium pour des réactions de métathèse d'olefines</invention-title></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>ZEON CHEMICALS L P</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ZEON CHEMICALS, L.P.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Zeon Chemicals, L.P.</last-name><address><street>4111 Bells Lane</street><city>Louisville, Kentucky 40233</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>KYLLINGSTAD VERNON L</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MUKERJEE SHAKTI L</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KYLLINGSTAD, VERNON L.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MUKERJEE, SHAKTI L.</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KYLLINGSTAD, VERNON L.</last-name><address><street>3105 Leidolf Court</street><city>Floyds Knobs, Indiana 47119</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MUKERJEE, SHAKTI L.</last-name><address><street>8908 Duxbury Road</street><city>Louisville, Kentucky 40242</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Teipel, Susanne, Dr.</last-name><address><street>Schwabe, Sandmair, Marx Patentanwälte Stuntzstrasse 16</street><city>81677 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>Penta-coordinated ruthenium or osmium catalysts for metathesis reactions of olefins,
+which are cationic complexes represented by formulas I, II or III:
+<img id="img-80000001" orientation="unknown" wi="157" img-format="tif" img-content="cf" file="80000001.tif" inline="no" he="53"/><sl><li>wherein M is ruthenium or osmium; each X<sup>1</sup> and X<sup>2</sup>, which may be the same or
+different, is an optionally substituted C<sub>3</sub>-C<sub>20</sub> hydrocarbon group having an allyl moiety as an end
+group banded to the central metal atom M, or X<sup>1</sup> and X<sup>2</sup> together form a group, optionally
+substituted, which results from dimerization of an alkene and has at each end an allyl moiety
+bonded to the central metal atom M, L<sup>1</sup> is a neutral electron donor ligand; L<sup>2</sup> is a carbene group;
+L<sup>3</sup> is a neutral electron donor ligand which may be the same as or different from L<sup>1</sup>, or L<sup>3</sup> is a
+halide group; L<sup>11</sup> is a neutral electron donor ligand; L<sup>12</sup> is a solvent molecule capable of
+coordination to the central metal atom M; L<sup>13</sup> is an alkyl group; L<sup>14</sup> is an alkyl, a carbene, a
+solvent molecule capable of coordination to the central metal atom M, or a halide; L ^ L is a
+bidentate ligand coordinated to the central metal atom M through two atoms which may be the
+same or different, each of which is independently selected from the group consisting of a
+phosphorus atom, a nitrogen atom and an arsenic atom; A is a counter anion coordinated to the
+central metal atom M but only weakly coordinated so that A is not bonded as a ligand to the
+central metal atom M; and n is 1 or 2.</li></sl></p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to highly active catalysts for olefin metathesis reactions, and
+the preparation of the catalysts. The invention also relates to the olefin metathesis reactions
+catalyzed with the catalysts of the invention.</p><heading>BACKGROUND OF THE INVENTION</heading><p num="0002">A number of catalysts have been developed recently for initiating olefin metathesis
+reactions, including ring-opening metathesis polymerization (ROMP) of cyclo-olefins, ring-closing
+metathesis (RCM) of dienes to form ring-closed products, depolymerization of
+unsaturated polymers to form the depolymerized products, synthesis of telechelic polymers by
+reaction of a cyclic olefin with a functionalized olefin, and synthesis of cyclic olefins by self-metathesis
+of an acyclic olefin or cross-metathesis of two acyclic olefins. Those well defined
+catalysts usually have a metal-carbon double bond (metal-carbene or -alkylidene) that can
+coordinate to the alkene moiety of the olefin and, for example, can initiate readily the ring
+opening of cyclo-olefin monomers. Most of the metals that exhibit remarkable activity in such
+catalysts are second-or third-row mid-to late- transition metals. Although the specific reason for
+their degree of activity has not been clearly established, many theories have been put forward, the
+most prevalent of which expounds that late transition metals exhibit greater robustness towards
+the impurities that may inherently be present within a reaction system and consequently resist
+degradation.</p><p num="0003">Among olefins, cyclic olefins like norbornene (NB) or endo-dicyclopentadiene (DCPD)
+which possess a strained double bond can readily undergo ring opening metathesis
+polymerization (ROMP) because the ring opened product is thermodynamically favored. The
+above-mentioned catalysts are particularly active in catalyzing the ROMP of such ring-strained
+cyclo-olefins.</p><p num="0004">The catalysts that have received the greatest exposure in the literature by far are those
+designed by Schrock et al., as reported in Schrock et al., <i>J. Am. Chem. Soc.</i>, <b>1990</b>, <i>112,</i> 3875, and
+by Grubbs's group, as reported in Nguyen et al., <i>J. Am. Chem. Soc.</i>, <b>1993</b>, <i>115,</i> 9858; Nguyen et
+al., <i>J. Am. Chem. Soc.</i>, <b>1992</b>, <i>114</i>, 3974; and Grubbs et al., WO98/21214 (<b>1998</b>). The Grubbs
+catalyst (a ruthenium carbene) is slightly more versatile than the Schrock catalyst (a molybdenum 
+alkylidene) because of its ease of synthesis as well as its utility from a commercial viewpoint.
+Recently, Cox and co-workers reported in Cox et al., <i>Inorg. Chem</i>., <b>1990</b>, <i>29,</i> 1360; Cox, et al., <i>J.
+Chem. Soc., Chem. Commun.</i>, <b>1988</b>, 951-953; and Porri et al, <i>Tetrahedron Letters,</i> No. 47.,
+<b>1965</b>, 4187-4189, the synthesis of a class of metal catalysts based on ruthenium metal. These
+catalysts consist primarily of a bis-allyl ligand wrapping the metal, along with two or three
+acetonitrile ligands. Additionally, these catalysts possess a mono- or di-anion that is virtually
+(i.e., almost) coordinated to the metal center, which is therefore considered to be formally in the
++4 oxidation state. These complexes in conjunction with a diazo ethyl acetate have been used by
+Herrmann's group, as reported in Herrmann et al., <i>Angew. Chem. Int'l. Ed. Engl.</i>, <b>1996</b>, <i>35</i>,
+1087, to investigate the polymerization (specifically the ROMP) of NB. Herrmann has
+conjectured that the active species in the catalyst system is a metal carbene generated <i>in situ</i>
+when the ruthenium reacts with the diazo alkyl compound (such as diazo ethyl acetate).</p><p num="0005">A disadvantage of the above catalysts is that for the ROMP of cyclic olefins these
+catalysts must be used with a co-catalyst such as a diazo alkyl compound, which requires special
+caution in handling because of the instability of the diazo group.</p><heading>SUMMARY OF THE INVENTION</heading><p num="0006">One aspect of the invention is to provide catalysts which are highly active in initiating
+metathesis reactions in olefins.</p><p num="0007">Another aspect of the invention is to provide catalysts which are highly active in the ring-opening
+polymerization (ROMP) of cyclo-olefin monomers without requiring the presence of a
+co-catalyst such as a diazo alkyl compound.</p><p num="0008">Another aspect of the invention is to provide methods for the preparation in good yield of
+the catalysts for metathesis reactions in olefins.</p><p num="0009">Yet another aspect of the invention is to provide a highly effective method for
+polymerizing olefins, in particular cyclo-olefins, using the catalysts of the invention. </p><heading><u style="single">DESCRIPTION OF THE INVENTION</u></heading><p num="0010">The catalysts of the present invention are cationic complexes represented by formulas (I),
+(II) and (III) below, wherein the central metal atom M, which may be ruthenium or osmium, is in
+the +4 oxidation state, has an electron count of 14, and is penta-coordinated, and the counter-anion
+A is virtually coordinated to the central metal atom M. That is, the anion A is almost
+coordinated to the central metal atom M without being bonded as a ligand thereto.
+<img id="img-00030001" orientation="unknown" wi="107" img-format="tif" img-content="cf" file="00030001.tif" inline="no" he="54"/><sl><li>wherein M is ruthenium or osmium;</li><li>each of X<sup>1</sup> and X<sup>2</sup>, which may be the same or different, is a C<sub>3</sub> - C<sub>20</sub> hydrocarbon group
+having an allyl moiety as an end group bonded to the central metal atom M, said hydrocarbon
+group being optionally substituted on its backbone with up to three substituents independently
+selected from the group consisting of a C<sub>1</sub>-C<sub>20</sub> alkyl, a C<sub>1</sub>-C<sub>20</sub> alkoxy, and a C<sub>6</sub>-C<sub>20</sub> aryl, and
+further optionally having up to three functional groups independently selected from the group
+consisting of hydroxyl; nitro, a halogen, thiol, thioether, ketone, aldehyde, ester, ether, amine,
+imine, amide, carboxylic acid, disulfide, carbonate, isocyanate, carbodiimide, carboalkoxy, and
+carbamate; or</li><li>X<sup>1</sup> and X<sup>2</sup> together constitute a group which results from dimerization of a C<sub>4</sub>-C<sub>10</sub> alkene
+and has at each end an allyl moiety bonded to the central metal atom M, said group resulting
+from the alkene dimerization being optionally substituted on its backbone with up to three
+substituents independently selected from the group consisting of a C<sub>1</sub>-C<sub>20</sub> alkyl, a C<sub>1</sub>-C<sub>20</sub> 
+alkoxy, and a C<sub>6</sub>-C<sub>20</sub> aryl, and further optionally having up to three functional groups
+independently selected from the group consisting of hydroxyl, nitro, a halogen, thiol, thioether,
+ketone, aldehyde, ester, ether, amine, imine, amide, carboxylic acid, disulfide, carbonate,
+isocyanate, carbodiimide, carboalkoxy, and carbamate;</li><li>L<sup>1</sup> is a neutral electron donor ligand;</li><li>L<sup>2</sup> is a carbene group represented by the formula
+<img id="img-00040001" orientation="unknown"  wi="18" img-format="tif" img-content="cf" file="00040001.tif" inline="no"  he="28"/>
+or the formula
+<img id="img-00040002"  orientation="unknown"  wi="28" img-format="tif" img-content="cf" file="00040002.tif" inline="no" he="28"/></li><li>wherein each of R and R<sup>1</sup> is independently selected from the group consisting of
+hydrogen, C<sub>1</sub>-C<sub>20</sub> alkyl, C<sub>2</sub>-C<sub>20</sub> alkenyl, C<sub>2</sub>-C<sub>20</sub> alkynyl, C<sub>6</sub>-C<sub>20</sub> aryl, C<sub>1</sub>-C<sub>20</sub> carboxylate,
+C<sub>1</sub>-C<sub>20</sub> alkoxy, C<sub>2</sub>-C<sub>20</sub> alkenyloxy, C<sub>2</sub>-C<sub>20</sub> alkynyloxy, C<sub>6</sub>-C<sub>20</sub> aryloxy, C<sub>2</sub>-C<sub>20</sub> alkoxycarbonyl,
+C<sub>1</sub>-C<sub>20</sub> alkylthio, C<sub>1</sub>-C<sub>20</sub> alkylsulfonyl, and C<sub>1</sub>-C<sub>20</sub> alkyl sulfinyl, wherein each of R
+and R<sup>1</sup> optionally may have up to three substituents selected from the group consisting of C<sub>1</sub>-C<sub>5</sub>
+alkyl, a halogen, C<sub>1</sub>-C<sub>5</sub> alkoxy, and C<sub>6</sub>-C<sub>10</sub> aryl;</li><li>L<sup>3</sup> is a neutral electron donor ligand which may be the same as or different from L<sup>1</sup>, or L<sup>3</sup>
+is a halide group;</li><li>A is a counter anion coordinated to the central metal atom M but only weakly coordinated
+so that A is not bonded as a ligand to the central metal atom M; and</li><li>n is 1 when L<sup>3</sup> is a halide, and n is 2 when L<sup>3</sup> is a neutral electron donor ligand;
+<img id="img-00040003" orientation="unknown" wi="98" img-format="tif" img-content="cf" file="00040003.tif" inline="no" he="54"/></li><li>wherein M, X<sup>1</sup>, X<sup>2</sup> and A are as defined above in formula (I);</li><li>L<sup>11</sup> is a neutral electron donor ligand;</li><li>L<sup>12</sup> is a solvent molecule capable of coordination to the central metal atom M; and</li><li>L<sup>13</sup> is a C<sub>1</sub>-C<sub>20</sub> alkyl;
+<img id="img-00050001" orientation="unknown" wi="109" img-format="tif" img-content="cf" file="00050001.tif" inline="no" he="57"/></li><li>wherein M, X<sup>1</sup>, X<sup>2</sup>, and A are as defined above in formula (I);</li><li>L ^ L is a neutral bidentate ligand coordinated to the central metal atom M through two
+atoms which may be the same or different, each of which is independently selected from the
+group consisting of a phosphorus atom, a nitrogen atom and an arsenic atom; and</li><li>L<sup>14</sup> is selected from the group consisting of a C<sub>1</sub>-C<sub>20</sub> alkyl, a C<sub>3</sub>-C<sub>20</sub> carbene neutral
+electron donor ligand, a solvent molecule capable of coordinating with the central metal M, and a
+halide; and</li><li>n is 1 when L<sup>14</sup> is a halide, and n is 2 when L<sup>14</sup> is an alkyl, a carbene ligand, or a solvent
+molecule.</li></sl></p><p num="0011">The neutral electron donor ligand in the complexes of the invention is any ligand which,
+when removed from the central metal atom in its closed shell electron configuration, has a
+neutral charge, i.e., is a Lewis base. Preferably, the neutral electron donor ligand is a sterically
+encumbered ligand. Examples of such sterically encumbered neutral electron donor ligands are
+phosphine, sulfonated phosphine, phosphite, phosphinite, phosphonite, arsine, stibine, ether,
+amine, amide, imine, sulfoxide, carboxyl, nitrosyl, pyridine, and thioether.</p><p num="0012">In a preferred embodiment, X<sup>1</sup> is an allyl group and X<sup>2</sup> is a C<sub>3</sub>-C<sub>20</sub> hydrocarbon group
+with an allyl moiety as an end group, the C<sub>3</sub>-C<sub>20</sub> hydrocarbon group with an allyl moiety as an 
+end group being optionally substituted on its backbone with up to three substituents
+independently selected from the group consisting of a C<sub>1</sub>-C<sub>20</sub> alkyl, a C<sub>1</sub>-C<sub>20</sub> alkoxy, and a
+C<sub>6</sub>-C<sub>12</sub> aryl, and further optionally having up to three functional groups independently selected
+from the group consisting of hydroxyl, nitro, a halogen, thiol, thioether, ketone, aldehyde, ester,
+ether, amine, imine, amide, carboxylic acid, disulfide, carbonate, isocyanate, carbodiimide,
+carboalkoxy, and carbamate.</p><p num="0013">In another preferred embodiment, X<sup>1</sup> and X<sup>2</sup> taken together constitute a group resulting
+from the dimerization of isoprene units, said group resulting from the dimerization of isoprene
+optionally having on its backbone up to three substituents as described above, and further
+optionally having up to three functional groups as described above.</p><p num="0014">L<sup>1</sup> and L<sup>3</sup> in the catalysts of formula (I) may be the same or different, and may be any
+neutral electron donor ligand. In a preferred embodiment, each of L<sup>1</sup> and L<sup>3</sup> is independently
+selected from the group consisting of phosphine, sulfonated phosphine, phosphite, phosphinite,
+phosphonite, arsine, stibine, ether, amine, amide, imine, sulfoxide, carboxyl, nitrosyl, pyridine,
+and thioether. In a more preferred embodiment, each of L<sup>1</sup> and L<sup>3</sup> is independently a phosphine
+of the formula PR<sup>1</sup>R<sup>2</sup> R<sup>3</sup>, wherein R<sup>1</sup> is a C<sub>3</sub>-C<sub>12</sub> secondary alkyl or a C<sub>5</sub>-C<sub>12</sub> cycloalkyl, and
+each of R<sup>2</sup> and R<sup>3</sup>, which may be the same or different, is independently selected from a C<sub>6</sub>-C<sub>12</sub>
+aryl, a C<sub>1</sub>-C<sub>12</sub> primary alkyl, a C<sub>3</sub>-C<sub>12</sub> secondary alkyl or a C<sub>5</sub>-C<sub>12</sub> cycloalkyl. In another
+preferred embodiment, L<sup>1</sup> and L<sup>3</sup>, which may be the same or different, are independently selected
+from P(cyclohexyl)<sub>3</sub>, P(cyclopentyl)<sub>3</sub>, P(isopropyl)<sub>3</sub>, and P(tertbutyl)<sub>3</sub>.</p><p num="0015">In another embodiment of the catalysts represented by formula (I), each of L<sup>1</sup> and L<sup>3</sup>,
+which may be the same or different, is independently selected from amines of the formula
+NR<sup>1</sup>R<sup>2</sup> R<sup>3</sup>, wherein R<sup>1</sup> is a C<sub>3</sub>-C<sub>12</sub> secondary alkyl, a C<sub>5</sub>-C<sub>12</sub> cycloalkyl, and each of R<sup>2</sup> and R<sup>3</sup>,
+which may be the same or different, is independently selected from the group consisting of a
+C<sub>6</sub>-C<sub>12</sub> aryl, a C<sub>1</sub>-C<sub>12</sub> primary alkyl, a C<sub>3</sub>-C<sub>12</sub> secondary alkyl or a C<sub>5</sub>-C<sub>12</sub> cycloalkyl.</p><p num="0016">In another preferred embodiment, each of L<sup>1</sup> and L<sup>3</sup>is independently selected from
+N(ethyl)<sub>3</sub> and N(methyl)<sub>3</sub>.</p><p num="0017">The L<sup>2</sup> group in formula (I) is a carbene which may be derived from, for example, tert-butyl
+acetylene, phenyl acetylene or tri-methyl-silyl acetylene. </p><p num="0018">In the complexes represented by formula (II), L<sup>11</sup> may be any neutral donor ligand, L<sup>12</sup> is a
+solvent molecule capable of coordinating to the central metal M, L<sup>13</sup> is an alkyl substituent as
+described above, and the anion A is as described above and in more detail below. L<sup>12</sup> is any
+solvent that has the capability of occupying one coordination site of the metal atom, such as a
+solvent having an oxygen, nitrogen, sulfur or selenium atom which possesses the ability to
+coordinate to the metal. Preferred examples of such solvent are tetrahydrofuran (THF),
+acetonitrile, pyridine, triethyl amine, thiophene and thiol.</p><p num="0019">In the complexes represented by formula (I) or (III), the halide may be chloride, bromide,
+iodide or fluoride.</p><p num="0020">In the complexes represented by formula (III), L and L together constitute a bidentate
+ligand coordinated to the central metal M through phosphorus, nitrogen, or arsenic atoms or a
+combination thereof. The bidentate ligand L ^ L preferably has up to 30 carbon atoms and up
+to10 heteroatoms selected from phosphorus, nitrogen and arsenic. Examples of the bidentate
+ligand L ^ L are 1,2- bis(diphenylphosphino)ethane, 1,2-bis(diphenylarsino)ethane, bis(diphenylphosphino)methane,
+ethylenediamine, propylenediamine, diethylenediamine, arphos (i.e., arsine
+phosphine), phen (i.e., phenanthroline), bpy (i.e., bipyridine), and α di-imine.</p><p num="0021">In the catalysts represented by formulas (I), (II) or (III), the anion A that is very weakly
+coordinated to the central metal atom may be derived from any tetra coordinated boron
+compound, or any hexa coordinated phosphorus compound. The weakly coordinated anion may
+be also any one of the following: BF<sub>4</sub>; PF<sub>6</sub>; ClO<sub>4</sub>; or fluorinated derivatives of BPh<sub>4</sub>. The anion
+may be also derived from Ph<sub>3</sub>BCNBPh<sub>3</sub> or a carba-<i>closo</i>-dodecaborate (CB<sub>11</sub>H<sub>12</sub>) and related
+compounds. The anion further may be derived from a pentafluorooxotellurate (OTeF<sub>5</sub>), or any
+one of HC(SO<sub>2</sub>CF<sub>3</sub>)<sub>2</sub>; C<sub>60</sub> (i.e., fullarene); B(<i>o</i>-C<sub>6</sub>H<sub>4</sub>O<sub>2</sub>)<sub>2</sub>; H(1,8-BMe<sub>2</sub>)<sub>2</sub>C<sub>10</sub>H<sub>6</sub>; or any of the
+anionic methyl aluminoxanes.</p><p num="0022">Some preferred examples of the catalysts of the invention are: <img id="img-00080001" orientation="unknown" wi="157" img-format="tif" img-content="cf" file="00080001.tif" inline="no" he="102"/></p><p num="0023">The catalysts of the invention are stable in the presence of a variety of functional groups
+including hydroxyl, thiol, ketone, aldehyde, ester, ether, amine, imine, amide, nitro, carboxylic
+acid, disulfide, carbonate, isocyanate, carbodiimide, carboalkoxy, and halogen. Hence, the
+starting materials and products of the reactions described below may contain any one or more of
+these functional groups without poisoning the catalyst. Furthermore, these catalysts are stable in
+aqueous, organic, or protic solvents, for example aromatic hydrocarbons, chlorinated hydrocarbons,
+ethers, aliphatic hydrocarbons, alcohols, water, or mixtures thereof. Therefore, the
+preparation of the catalysts may be carried out in one or more of these solvents without poisoning
+the catalyst product.</p><p num="0024">The present invention provides a simple synthetic procedure for a variety of ruthenium
+and osmium catalysts derived from the [(allyl)MCl<sub>2</sub>]<sub>2</sub> dimer complex represented by formula I'.
+The process results in good product yield without the need for expensive and sophisticated
+equipment. Furthermore, the method can produce catalysts in a form which does not require post
+purification of the synthesized materials. The complexes are robust and resist degradation in the 
+presence of air and/or moisture. Therefore polymerization experiments can easily be carried out
+in bottles using solvents that have been peripherally purged and degassed.
+<img id="img-00090001" orientation="unknown" wi="87" img-format="tif" img-content="cf" file="00090001.tif" inline="no" he="40"/></p><p num="0025">The syntheses are described below for a preferred catalyst wherein M is ruthenium, L<sup>1</sup>
+and L<sup>3</sup> are neutral donor electron ligands which are both tricyclohexyl phosphine ligands, or L<sup>1</sup>
+is tricyclohexyl phosphine and L<sup>3</sup> is a chloride; L<sup>2</sup> is also a neutral donor ligand which is a
+carbene; X<sup>1</sup> and X<sup>2</sup> together form the bidentate ligand 2,7-dimethyloctadienediyl; and A is the
+BF<sub>4</sub> anion. The formation of this catalyst can be accomplished by contacting a compound of
+formula I' with a solvent that has a capability for coordinating to the central metal atom. In this
+example, the solvent used is tetrahydrofuran. To the resultant product a compound of the
+formula B<sup>+</sup>A<sup>-</sup> is added to precipitate out the chloride salt. In this example of the invention silver
+tetrafluoroborate (AgBF<sub>4</sub>) is used as the salt to precipitate AgCl from the reaction. This step is
+critical because, depending on the stoichiometry of the compound added, various potential
+complexes can be made. The next step is the addition of the neutral donor ligand, i.e., the tri-cyclohexyl
+phosphine ligand. Addition of <i>tert</i>-butyl acetylene results in the formation of the
+active carbene complex.</p><p num="0026">In another aspect of the catalyst synthesis according to the present invention, a solvent
+wherein the donor atom is nitrogen, e.g., acetonitrile or pyridine, is brought in contact with the
+compound of formula I'. To the resulting solution a stoichiometric quantity of a compound of
+the formula B<sup>+</sup>A<sup>-</sup> is added to precipitate out the chloride salt. In an embodiment of the invention
+ammonium hexafluorophosphate (NH<sub>4</sub>PF<sub>6</sub>) or thallium hexafluorophosphate (TlPF<sub>6</sub>) is used as
+the salt to precipitate out NH<sub>4</sub>Cl or TlCl from the reaction. The neutral donor ligand possessing
+sterically encumbering substituents, e.g., tricyclohexyl phosphine, is added to the solution. 
+Following work up, addition of an alkyl lithium to the recovered product results in the formation
+of the active alkyl catalyst.</p><heading><u style="single">General Synthetic Schemes</u></heading><p num="0027">The catalysts of the invention may be synthesized using readily available stable starting
+materials. The formation of complexes described in detail below can be completed generally in a
+couple of days, and the percent yield obtained in most cases is good to excellent. Specifically,
+the complexes can be synthesized readily by adding the appropriate reagents in stoichiometric
+quantities starting from the [(allyl)MCl<sub>2</sub>]<sub>2</sub> dimer of formula I'.</p><p num="0028">The synthesis of the complexes of the invention does not require stringent methodologies
+typical of organometallic syntheses, and the formation of most of these complexes can be
+accomplished in approximately two days. The syntheses are generally carried out at room
+temperature with minimum constraints. The reactions are sufficiently clean with practically no
+side or competing reactions occurring simultaneously. Therefore, post purification of the isolated
+complexes is usually not required, and since the yield of these catalysts is typically greater than
+90% it is quite commercially viable.</p><p num="0029">We have discovered two routes for synthesizing these complexes, both of which result in
+practically quantitative yields. The reaction schemes are illustrated below for the preparation of
+ruthenium catalysts, which are currently more commercially attractive because they are less
+expensive than the corresponding osmium compounds. The synthesis of the osmium catalysts
+according to the invention may be carried out by processes similar to those illustrated below for
+ruthenium catalysts.</p><p num="0030">In both routes of synthesis for the ruthenium catalysts, the starting material is the
+[(allyl)RuCl<sub>2</sub>]<sub>2</sub> dimer complex, wherein the allyl in this example is the 2,7-dimethyloctadienediyl
+ligand. <img id="img-00110001" orientation="unknown" wi="156" img-format="tif" img-content="cf" file="00110001.tif" inline="no" he="153"/>
+   wherein Cy = cyclohexyl.</p><p num="0031">In the first route, Reaction Scheme A shown above, the [(allyl)RuCl<sub>2</sub>]<sub>3</sub> dimer
+complex is dissolved in THF and a stoichiometric amount of AgBF<sub>4</sub> (or alternatively NH<sub>4</sub>PF<sub>6</sub> or
+TlPF<sub>6</sub>) in two or four equivalents, depending upon which complex is sought, is added to the
+stirred solution. After the precipitation of halide salt is completed, the solution is filtered through
+a short column of diatomaceous earth (2 x 2 cm), and to the eluate the appropriate stoichiometric 
+quantity of the neutral electron donor ligand (for example, tricyclohexyl phosphine) is added.
+This addition of the neutral donor ligand can be regulated in such a way that when two molar
+equivalents are added, one forms the halogen-substituted complex <b>1</b>. On the other hand when
+four equivalents of the neutral donor ligand are added, the bis-phosphine-substituted complex <b>2</b>
+is formed. The reaction is allowed to continue for two hours at ambient temperature, preferably
+under a blanket of nitrogen or any inert gas. To this solution is added the tert-butylacetylene, or
+alternatively the trimethylsilyl acetylene, and the reaction is allowed to continue for 24 hours
+under ambient conditions. At the end of this period the carbene complex <b>3</b> or <b>4</b> is recovered
+from the reaction system.</p><p num="0032">In the alternate method, after dissolving the (allyl)RuCl<sub>2</sub> complex in the appropriate
+solvent and adding the silver tetrafluoroborate complex, the reaction is allowed to continue until
+complete precipitation of the silver halide has occurred. To this reaction mixture is added the
+appropriate neutral electron donating ligand and the reaction is allowed to continue further until
+the ligand-substituted complex is formed (this step can take anywhere between a few hours up to
+one day). Finally, the acetylene complex is added and the reaction allowed to continue for one
+day so that formation of the carbene complex takes place. In both methods described above the
+complexes can be recovered in very good yields.</p><p num="0033">For the formation of the alkyl-substituted ruthenium complexes, shown below in
+Reaction Scheme B, the initial procedure is almost the same as that described for the formation
+of the carbene complexes. <img id="img-00130001" orientation="unknown" wi="148" img-format="tif" img-content="cf" file="00130001.tif" inline="no" he="98"/></p><p num="0034">The alkyl complexes can also be prepared by following the two synthetic routes described
+above for the formation of the carbene complexes. In the first pathway, after the initial formation
+of the neutral electron donor ligand complexes, the reaction mixture is filtered and the
+appropriate alkyl lithium complex is added to procure the alkyl-substituted ruthenium complex.
+Alternatively, each of the compounds that make up the recipe for these complexes can be
+consecutively added to the reaction mixture (after the preceding reaction has gone to completion)
+until the final step, at which point the appropriate alkyl lithium complex is added and following
+work up the desired complexes are recovered.</p><p num="0035">The complex catalysts of the invention are effective in initiating metathesis reactions in
+olefins. In particular, they are highly effective catalysts for the polymerization of olefins which
+may be cyclic olefins or acyclic olefins, the latter having at least two double bonds in a molecule.
+The cyclic olefins may be monocyclic, bicyclic or tricyclic, and include ring-strained cyclic
+olefins such as norbornene and derivatives thereof, dicyclopentadiene and derivatives thereof, 
+and trans-cyclo octadiene and derivatives thereof, as well as unstrained cyclic olefins including
+those having at least five carbon atoms in the ring such as cyclopentene, cycloheptene, trans-cyclooctene,
+etc. These olefins, whether cyclic or acyclic, may optionally have one to three
+substituents. Examples of such substituents are alkyl or a functional moiety such as hydroxyl,
+nitro, a halogen, thiol, thioether, ketone, aldehyde, ester, ether, amine, imine, amide, carboxylic
+acid, disulfide, carbonate, isocyanate, carbodiimide, carboalkoxy, and carbamate.</p><p num="0036">In a preferred embodiment of the invention, the complexes of the invention can initiate
+the ring opening metathesis polymerization (ROMP) of ring strained cyclo-olefin monomers like
+NB or DCPD <i>without</i> the use of any co-catalyst (such as diazo ethyl acetate). The ROMP of NB
+is practically instantaneous, and monomer to catalyst ratios of 10,000 : 1 effortlessly produce
+quantitative conversions. Even at a very low ratio of catalyst such as 50,000 : 1 the conversion
+was extremely promising. For DCPD we have discovered that the experimental conditions must
+be controlled appropriately for obtaining higher conversions. For example, with a ruthenium
+carbene complex at ambient temperatures practically no conversion occurs. However, when the
+polymerization is carried out at elevated temperatures, i.e., 1 hour at 50 °C followed by 1 hour at
+100 °C, it was observed that the percent conversion is greater than 70% at monomer to catalyst
+ratios of 1000 : 1 or even 2000 : 1.</p><p num="0037">Most of the complexes of the invention can be used in the presence of air. However,
+when oxygen and moisture are excluded from the system the activity demonstrated by these
+catalysts increases.</p><p num="0038">The following examples further illustrate aspects of the invention but do not limit the
+invention. Unless otherwise indicated, all parts, percentages, ratios, etc., in the examples and the
+rest of the specification are on the basis of weight. </p><heading><b>EXAMPLES</b></heading><heading><b>Synthesis of catalysts</b></heading><heading>1) <u style="single">Formation of [(allyl)Ru(PCy<sub>3</sub>)<sub>2</sub>(=C=C(H)(<i>tert</i>-Bu)][BF<sub>4</sub>]<sub>2</sub></u> (<b>catalyst a</b>) or
+[<u style="single">(allyl)Ru(PCy<sub>3</sub>)(=C=C(H)(<i>tert</i>-Bu)Cl][BF<sub>4</sub></u>] (<b>catalyst b</b>):</heading><p num="0039">In two 50 mL Schlenk flasks equipped with a magnetic stirrer was placed approximately
+500 mg (0.8 mmoles) of the [(allyl)RuCl<sub>2</sub>]<sub>2</sub> dimer complex. The complex was dissolved in THF
+and after about 30 minutes 630 mg (3.2 mmoles), i.e., four molar equivalents of AgBF<sub>4</sub> were
+added to the first flask for the formation of complex (<b>a</b>) which is also the same as catalyst <b>3</b>
+shown in Scheme A above, and 315 mg (1.6 mmoles) were added to the second flask for the
+formation of complex (<b>b</b>)which is also the same as catalyst <b>4</b> shown in scheme A. The reaction
+was allowed to continue for about an hour by which time the entire amount of AgCl salt
+precipitated. The reaction mixtures were taken out of the glove-box and filtered through a short
+column of diatomaceous earth (2x2 cm) and returned to the flasks. Then, to the filtrate was
+added either 910mg (3.2 mmoles), i.e,. four molar equivalents of the neutral donor ligand (PCy<sub>3</sub>)
+for the formation of (<b>a</b>) or 455 mg (1.6 mmoles), i.e., two equivalents of PCy<sub>3</sub> for the formation
+of (<b>b</b>). These reactions were allowed to continue for approximately 6 hours at ambient
+temperatures, and at the end of this period the mixtures were once again filtered through a short
+column of diatomaceous earth to afford either the mono or the bis phosphine-substituted
+complexes. Finally, an excess amount of the <i>tert</i>-butylacetylene complex (∼1 mL) was added to
+the mixture and the reaction was allowed to proceed at ambient temperature for approximately
+one day. At the end of this period, the reaction flask was attached to the vacuum manifold and
+the solvent was stripped under reduced pressure. The crude product obtained this way was pure
+for most purposes. However, the complexes can also be very easily recrystallized from
+dichloromethane.</p><heading>2) <u style="single">One-pot Method:</u></heading><p num="0040">The synthesis of the complexes described above can also be readily accomplished by
+carrying out the procedure as a one-pot synthesis. In this method, the [(allyl)RuCl<sub>2</sub>]<sub>2</sub> dimer
+complex was initially reacted with the AgBF<sub>4</sub> salt in THF solvent and after complete 
+precipitation of the silver halide occurred, the neutral electron donor ligand
+(tricyclohexylphosphine) was added to the stirred solution. This reaction was then allowed to
+continue for several hours, and finally the <i>tert</i>-butylacetylene was added and the reaction was
+allowed to continue for another day. At the end of this period, the contents of the reaction were
+filtered and work up of the crude product was carried out as described above to afford the desired
+complex.</p><p num="0041">Characterization of the above carbene catalysts was carried out using <sup>1</sup>H NMR
+spectroscopy:
+<sl><li>[(allyl)Ru=C=C(H)(<i>tert</i>-Bu)(PCy<sub>3</sub>)(Cl)][BF<sub>4</sub>]</li><li>in C<sub>6</sub>D<sub>6</sub> (d ppm) = 3.25 {1H t =C(<i>H</i>)=C(t-Bu)}; 0.20 (s 9 H's t-butyl) 0.82 - 1.98 {36 H's
+<i>CH</i><sub>2</sub>'s from the cyclohexyl phosphine ligand}</li><li>[(allyl)Ru=C=C(H)(<i>tert</i>-Bu)(PCy<sub>3</sub>)<sub>2</sub>][BF<sub>4</sub>]<sub>2</sub></li><li>in C<sub>6</sub>D<sub>6</sub> (d ppm) = 3.25 {1H t=C(<i>H</i>)=C(t-Bu)}; 0.25 (s 9 H's t-butyl) 0.62-2.20 {72 H's
+<i>CH</i><sub>2</sub>'s from the cyclohexyl phosphine ligand}</li></sl></p><heading>3) <u style="single">Formation of [(allyl)Ru(N^N)(THF)][BF<sub>1</sub>]<sub>2</sub> wherein (N^N) is
+Ar-N=C(H)-(H)C=N-Ar, wherein Ar is 2,6 di-isopropylaniline:</u></heading><p num="0042">For the formation of this complex the [(allyl)RuCl<sub>2</sub>]<sub>2</sub> dimer complex was charged into a
+50 mL Schlenk equipped with a magnetic stirrer and dissolved in THF (∼30 mL). Subsequently,
+AgBF<sub>4</sub> and the (N^N) di-imine ligand were added and after work up the crude product was
+retrieved and recrystallized using dichloromethane. The total yield obtained for this reaction was
+approximately 90%. A small portion of this complex was then converted to the carbene complex
+by addition of <i>tert</i>-butylacetylene.</p><heading>4) <u style="single">Conversion to the carbene complex:</u></heading><p num="0043">The reaction of the di-imine substituted complex with tert-butylacetylene resulted in the
+formation of the carbene species by replacement of the THF by carbene. The procedure for the
+formation of this complex was the same as described for the other carbenes above. </p><heading>5) <u style="single">Formation of alkyl ruthenium complexes:[(allyl)Ru(PCy<sub>3</sub>)(S)(R)][BF<sub>1</sub>]
+wherein S = solvent (THF or NCMe) and R = Me or n-Bu</u>.</heading><p num="0044">For the formation of these complexes, in two 50 mL Schlenk flasks equipped with a
+magnetic stirrer was placed approximately 500 mg (0.8 mmoles) of the [(allyl)RuCl<sub>2</sub>]<sub>2</sub> dimer
+complex. This complex was dissolved in either THF or NCMe and after about 30 minutes 315
+mg (1.6 mmoles), i.e., two molar equivalents of AgBF<sub>4</sub> were added to them. The reaction was
+allowed to continue for about an hour by which time the entire AgCl salt precipitated. The
+reaction mixtures were taken out of the glove-box and filtered through a short column of
+diatomaceous earth (2x2 cm) and returned to the flask. Next, to the filtrate was added 455 mg
+(1.6 mmoles), i.e., two equivalents of the neutral electron donor ligand (tricyclohexylphosphine)
+and the reactions were allowed to continue for approximately 6 hours at ambient temperatures.
+At the end of this period the contents were once again filtered through a short column of
+diatomaceous earth to afford the mono phosphine-substituted complexes. To this reaction
+mixture was next added an amount slightly more than a one molar equivalent of the respective
+alkyl lithium complex (either MeLi or n-BuLi) and after allowing the reaction to continue for one
+day, the desired products were isolated.</p><heading><b>Polymerization of cyclo-olefins</b></heading><heading>1) <u style="single">General description of polymerization of DCPD using ruthenium carbene
+complexes</u></heading><p num="0045">The formation of poly-DCPD can be quite conveniently achieved by reacting the
+ruthenium carbenes with <i>endo</i>-dicyclopentadiene (the monomer). In a typical reaction,
+approximately 2 mg of the desired ruthenium carbene complex is charged into a polymerization
+bottle, capped with a rubber septum and purged with argon before being taken inside a glove-box.
+To this is then added, approximately 0.5 mL to 1 mL of the monomer and the bottle is
+introduced into a constant temperature bath maintained at 50° C. The bottle is left in this bath
+for about 1 hour and then placed inside an oven at 100°C for an additional hour. At the end of
+this period, the entire monomer component becomes very viscous portending the formation of 
+the polymer. The polymer obtained in this manner is not completely soluble in common
+solvents, which is an indication that conducting the reaction at such elevated temperatures
+initiates some cross-linking reactions. However, we have discovered that when the molar ratio of
+the dicyclopentadiene to the ruthenium carbene complex is kept at or below 2000 : 1 and the
+polymerization is conducted in the above manner, the percent yield of the polymer obtained is
+nearly 75%.</p><heading>2) <u style="single">General description of polymerization of NB using ruthenium complexes:</u></heading><p num="0046">Norbornene can be polymerized much more easily than dicyclopentadiene using any of
+the complexes described above. The reason for this enhanced reactivity of NB is because the
+catalyst has greater accessibility to coordinate to the double-bond (alkene moiety) of NB than
+DCPD and, therefore, formation of the metallo-cyclobutane ring in case of NB is much more
+facilitated. We have discovered that the ROMP of NB can occur practically quantitatively even
+when the molar ratios of the monomer to the catalyst are routinely kept above 10,000 : 1 and the
+reaction is carried out at ambient temperatures for less than one hour. The molecular weight of
+the polymer can be tailored effectively by the use of appropriate chain transfer agents, typically
+the use of long chained α-olefins like 1-hexene or 1-decene aid in the chain termination steps by
+acting as chain transfer agents and curtailing the molecular weights of the polymer.</p><heading>3) <u style="single">General description of co-polymerization of NB with a vinyl-monomer
+using the ruthenium alkyl complexes:</u></heading><p num="0047">The co-polymerization of NB with a vinyl-monomer like methyl acrylate (MA) can be
+carried out using the alkyl-substituted ruthenium complexes. In a representative experiment 0.5
+gm each of NB and MA are mixed together in a polymerization bottle which is capped with a
+rubber septum and purged with argon. The bottle is taken inside a glove-box and to this is added
+approximately 2 mg of the [(allyl)Ru(PCy<sub>3</sub>)(THF)(R)][BF<sub>4</sub>] complex (wherein R is either Me or
+n-Bu) dissolved in 1 mL dichloromethane. The solution begins to become viscous immediately
+upon the addition of the catalyst. The bottle is next placed in a constant temperature bath
+maintained at 60 °C for one hour; at the end of this period the entire reaction mixture is 
+practically solidified. The contents of the bottle are transferred to a Schlenk tube and attached to
+the vacuum line and subjected to evacuation overnight. The polymer obtained was weighed and
+found to be approximately 0.65 gm, which is an indication that some of the MA was also
+incorporated into the ROMP polymer. A <sup>1</sup>H NMR of the polymer revealed a peak at 3.40 ppm
+diagnostic of the methyl group of the methyl acrylate. The AB 2:1:2:1 pattern of the CH<sub>2</sub> and the
+CH group of the poly-MA that occur between 1.6 and 2.0 ppm were hidden below the poly NB
+peaks. An FT-IR spectrum of the polymer revealed a carbonyl stretching frequency at 1645 cm<sup>-1</sup>,
+which is an indication of the presence of a CO group within the polymer. The yield of the same
+polymerization when carried out with the NCMe solvent-coordinated molecule was lower than
+the one obtained with the THF coordinated complex.</p><heading><b>Specific examples of polymerization</b></heading><heading><u style="single">Example 1:</u><u style="single">ROMP of DCPD using [(allyl)Ru(PCy<sub>3</sub>)<sub>2</sub>(=C=C(H)(<i>tert</i>-Bu)][BF<sub>4</sub>]<sub>2</sub>and</u>
+[<u style="single">(allyl)Ru(PCy<sub>3</sub>)(=C=C(H)(<i>tert</i>-Bu)C][BF<sub>4</sub>]:</u></heading><p num="0048">Polymerization of DCPD was carried out using both of the ruthenium carbene complexes
+described in the above synthesis examples. In a typical procedure 2 mg of the appropriate
+carbene complex was charged into polymerization bottles that were stoppered by means of a
+rubber septum and purged with argon. The bottles were taken inside the glove-box and into each
+one the appropriate quantity of the monomer (DCPD) was added (Table 1). After carrying out
+the polymerization according to the procedure described above the reactions were quenched
+using acetone and methanol. The polymers were recovered and dried on the vacuum line to
+determine the percent yield. <tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1">Homo-polymerization of DCPD using ruthenium carbene complexes:</entry></row><row><entry align="center">Expt #</entry><entry align="center">Catalyst</entry><entry align="center">Monomer</entry><entry align="center">Ratio Cat : Monomer</entry><entry align="center">Temp °C</entry><entry align="center">Time (hr)</entry><entry align="center">Yield %</entry></row><row><entry align="right">1</entry><entry align="center">[(allyl)Ru{=C(H)C(t-Bu)(PCy<sub>3</sub>)<sub>2</sub>][BF<sub>4</sub>]<sub>2</sub></entry><entry align="center">DCPD</entry><entry align="left">1 : 1000</entry><entry align="center">50 / 100</entry><entry align="center">1 / 1</entry><entry align="right">78</entry></row><row><entry align="right">2</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="left">1 : 2000</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="right">75</entry></row> <row><entry align="right">3</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="left">1 : 5000</entry><entry align="center">↓</entry> <entry align="center">↓</entry> <entry align="right">30</entry> </row><row><entry align="right">4</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="left">1 : 10,000</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="right">11</entry></row><row><entry align="right">5</entry><entry align="center">[(allyl)Ru{=C(H)C(t-Bu)(PCy<sub>3</sub>)Cl][BF<sub>4</sub>]</entry><entry align="center">↓</entry><entry align="left">1 : 1000</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="right">20</entry></row><row><entry align="right">6</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="left">1 : 2000</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="right">18</entry></row><row><entry align="right">7</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="left">1 : 5000</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="right">25</entry></row><row><entry align="right">8</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="left">1 : 10,000</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="right">10</entry></row><row><entry><b>Initial conditions of the experiment</b>: [Ru] = 2 mg for each experiment. For the
+[(allyl)Ru{=C(H)C(t-Bu)(PCy<sub>3</sub>)<sub>2</sub>[BF<sub>4</sub>]<sub>2</sub> complex DCPD = 251 mg (1.89 x 10<sup>-3</sup> moles) for
+1000:1; 502 mg (3.79 x 10<sup>-3</sup> moles) for 2000:1; 1.25 gm (9.45 x 10<sup>-3</sup> moles) for 5000:1; and 2.51
+gm (18.90 x 10<sup>-3</sup> moles) for 10,000:1. For the (allyl)Ru{=C(H)C(t-Bu)(PCy<sub>3</sub>)Cl][BF<sub>4</sub>] complex
+DCPD = 366 mg (2.77 x 10<sup>-3</sup> moles) for 1000:1; 732 mg (5.54 x 10<sup>-3</sup> moles) for 2000:1; 1.83 gm
+(13.85 x 10<sup>-3</sup> moles) for 5000:1; and 3.66 gm (27.70 x 10<sup>-3</sup> moles) for 10,000:1. No solvent was
+used in this study. Reaction was quenched using acetone and MeOH.</entry></row></tbody></tgroup></table></tables></p><p num="0049">It should be noted that, although the polymer yield obtained with the chloride complex
+was less than with the bis phosphine complex, the yield of 20% obtained after 2 hours with the
+chloride complex at a catalyst:monomer ratio of 1:1000 to 1:5000 was nevertheless remarkable in
+view of the absence of a diazo co-catalyst. </p><heading><u style="single">Example 2: Co-polymerization of NB and DCPD using ruthenium complexes:</u></heading><p num="0050">Co-polymerization of NB and DCPD was carried out from the stand-point of trying to
+procure a more soluble polymer. Our previous experience had been that whenever the homo-polymerization
+of DCPD was carried out, the polymer obtained was partially soluble. Carrying
+out the polymerization in this manner incorporates the NB into the polymer chain and leads to a
+more pliable chain that has a greater tendency to go into solution. Thus all three carbene
+complexes described in detail herein were tested as catalysts. It was interesting to note that
+although the yields of the polymers were lower (about 50% as shown in Table 2) than those
+obtained previously for the homo-polymerization of DCPD, the yields were nevertheless
+acceptably high. Furthermore, the obtained polymers were far more soluble than those obtained
+earlier, which presents a process advantage.
+<tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1">Co-polymerization of NB and DCPD using ruthenium carbene complexes:</entry></row><row><entry align="center">Expt #</entry><entry align="center">Catalyst</entry><entry align="center">Monomer</entry><entry align="center">Ratio Cat : NB : DCPD</entry><entry align="center">Time (hr)</entry><entry align="center">Temp °C</entry><entry align="center">Yield %</entry></row><row><entry align="right">1</entry><entry align="left">[(allyl)Ru{=C=C(H)(t-BU)(PCy<sub>3</sub>)<sub>2</sub>][BF<sub>4</sub>]<sub>2</sub></entry><entry align="center">NB/DCPD</entry><entry align="center">1 : 100 : 2000</entry><entry align="center">1/1</entry><entry align="center">50/100</entry><entry align="center">∼50%</entry></row><row><entry align="right">2</entry><entry align="left">[(allyl)RU{=C=C(H)(t-Bu)(PCy<sub>3</sub>)Cl][BF<sub>4</sub>]</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="center">↓</entry></row><row><entry align="right">3</entry><entry align="left">[(allyl)Ru{=C=C(H)(t-Bu)(N^N)[BF<sub>4</sub>]<sub>2</sub></entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="center">↓</entry></row><row><entry><u style="single"><b>Initial Conditions of the experiment:</b></u> [Ru] =2 mgs for each expt; NB and DCPD were added
+according to the ratios shown in the table. No solvent was added, i.e., NB and DCPD were
+initially mixed and the catalyst was added to the mixture. The reaction was quenched with
+MeOH.</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 3: Co-polymerization of NB and MA using ruthenium alkyl complexes:</u></heading><p num="0051">Co-polymerization experiments for a cyclo-olefin monomer like NB and a vinyl
+monomer like MA were conducted to determine, if indeed, these two monomers could be
+incorporated into a single polymer. The alkyl ruthenium complexes (2 mg in each case) were
+dissolved in 1 mL CH<sub>2</sub>Cl<sub>2</sub> and charged into polymerization bottles which were stoppered by
+rubber septa and purged with argon, and the bottles were then taken inside the glove-box. Next,
+the monomers (0.5 gm each) were separately weighed out and mixed in a beaker inside the glove-box.
+Thus, into each polymerization bottle a 1.0 gm aliquot of the monomers was added via a
+syringe. Both of the alkyl complexes (Me and n-Bu) with THF as the coordinated molecule
+appeared to initiate the polymerization much more rapidly than the complexes with the NCMe
+coordinated molecule. The bottles were introduced into a constant temperature bath maintained
+at 60 °C and the reaction was allowed to proceed for one hour. At the end of this period, MeOH
+was added to each of the bottles to quench the reaction and the polymer that precipitated were
+collected on frits and dried on the vacuum line overnight. The polymer yields (of about 45-48%)
+obtained with the NCMe complexes were lower than the yields (of about 60-65%) obtained with
+the THF complexes, as shown in Table 3. However, even the yields obtained with the NCMe
+complexes were in the ranges considered to be acceptable. <tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1">Co-polymerization of NB and MA using ruthenium alkyl complexes:</entry></row><row><entry align="center">Expt #</entry><entry align="center">Catalyst</entry><entry align="center">Monomer</entry><entry align="center">Ratio Cat : NB : MA</entry><entry align="center">Temp °C</entry><entry align="center">Time (hr)</entry><entry align="center">Total Yield (%)</entry></row><row><entry align="right">1</entry><entry align="left">[(allyl)Ru(PCy<sub>3</sub>)(N CMe)(Me)][BF<sub>4</sub>]</entry><entry align="center">NB / MA</entry><entry align="center">1 : 2000 : 2000</entry><entry align="center">60</entry><entry align="right">1</entry><entry align="right">∼45</entry></row><row><entry align="right">2</entry><entry align="left">[(allyl)Ru(PCy<sub>3</sub>)(N CMe)(n-Bu)][BF<sub>4</sub>]</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="right">↓</entry><entry align="right">∼48</entry></row><row><entry align="right">3</entry><entry align="left">[(allyl)Ru(PCy<sub>3</sub>)(T HF)(Me)][BF<sub>4</sub>]</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="right">↓</entry><entry align="right">∼60</entry></row><row><entry align="right">4</entry><entry align="left">[(allyl)Ru(PCy<sub>3</sub>)(T HF)(n-Bu)][BF<sub>4</sub>]</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="center">↓</entry><entry align="right">↓</entry><entry align="right">∼65</entry></row><row><entry><u style="single"><b>Initial conditions of the experiment</b>:</u> [Ru] =2 mg for each experiment; NB and MA were
+initially mixed in a beaker and then syringed into the polymerization bottle under argon. The
+catalyst was dissolved in dichloromethane (1 mL) and syringed in. The reaction was quenched
+after 1 hour by adding MeOH.</entry></row></tbody></tgroup></table></tables></p><p num="0052">Other embodiments of the present invention will be apparent to those skilled in the art
+from consideration of the specification and practice of the invention disclosed herein. It is
+intended that the specification and examples be considered as illustrative only, with the true
+scope and spirit of the invention being indicated by the following claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A compound represented by formula I
+<claim-text><claim-text>wherein M is ruthenium or osmium;</claim-text><claim-text>each of X1 and X2, which may be the same or different, is a C3-C20 hydrocarbon group
+having an allyl moiety as an end group bonded to the central metal atom M, optionally
+substituted on its backbone with up to three substituents independently selected from the group
+consisting of a C1-C20 alkyl, a C1-C20 alkoxy, and a C6-C12 aryl, and further optionally having
+up to three functional groups independently selected from the group consisting of hydroxyl, nitro,
+a halogen, thiol, thioether, ketone, aldehyde, ester, ether, amine, imine, amide, carboxylic acid,
+disulfide, carbonate, isocyanate, carbodiimide, carboalkoxy, and carbamate; or</claim-text><claim-text>X1 and X2 together form a group which results from dimerization of a C4-C10 alkene and
+has at each end an allyl moiety bonded to the central metal atom M, said group resulting from the
+alkene dimerization being optionally substituted on its backbone with up to three substituents
+independently selected from the group consisting of a C1-C20 alkyl, a C1-C20 alkoxy, and a C6-C12
+aryl, and further optionally having up to three functional groups independently selected from
+the group consisting of hydroxyl, nitro, a halogen, thiol, thioether, ketone, aldehyde, ester, ether,
+amine, imine, amide, carboxylic acid, disulfide, carbonate, isocyanate, carbodiimide,
+carboalkoxy, and carbamate;</claim-text><claim-text>L1 is a neutral electron donor ligand;</claim-text><claim-text>L2 is a carbene group represented by the formula
+
+or the formula
+</claim-text><claim-text>wherein each of R and R1 is independently selected from the group consisting of
+hydrogen, C1-C20 alkyl, C2-C20 alkenyl, C2-C20 alkynyl, C6-C20 aryl, C1-C20 carboxylate,
+C1-C20 alkoxy, C2-C20 alkenyloxy, C2-C20 alkynyloxy, C6-C20 aryloxy, C2-C20 alkoxycarbonyl,
+C1-C20 alkylthio, C1-C20 alkylsulfonyl, and C1-C20 alkyl sulfinyl, wherein each of R
+and R1 optionally may have up to three substituents selected from the group consisting of C1-C5
+alkyl, a halogen, C1-C5 alkoxy, and C6-C10 aryl;</claim-text><claim-text>L3 is a neutral electron donor ligand which may be the same as or different from L1, or L3
+is a halide group;</claim-text><claim-text>A is a counter anion coordinated to the central metal atom M but only weakly coordinated
+so that A is not bonded as a ligand to the central metal atom M; and</claim-text><claim-text>n is 1 when L3 is a halide and n is 2 when L3 is a neutral electron donor ligand.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>A compound according to claim 1, wherein each of L1 and L3, which may be the same
+or different, is a neutral electron donor ligand.</claim-text></claim><claim num="3"><claim-text>A compound according to claim 2, wherein each of L1 and L3 is independently selected
+from the group consisting of phosphine, sulfonated phosphine, phosphite, phosphinite,
+phosphonite, arsine, stibine, ether, amine, amide, imine, sulfoxide, carboxyl, nitrosyl, pyridine,
+and thioether.</claim-text></claim><claim num="4"><claim-text>A compound according to claim 2, wherein each of L1 and L3 is independently selected
+from the group consisting of phosphines of the formula PR1R2 R3, wherein R1 is a C3-C12
+secondary alkyl or a C5-C12 cycloalkyl, and each of R2 and R3, which may be the same or
+different, is independently selected from the group consisting of a C6-C12 aryl, a C1-C12 primary
+alkyl, a C3-C12 secondary alkyl and a C5-C12 cycloalkyl.</claim-text></claim><claim num="5"><claim-text>A compound according to claim 4, wherein each of L1 and L3 is independently selected
+from the group consisting of N(ethyl)3 and N(methyl)3.</claim-text></claim><claim num="6"><claim-text>A compound according to claim 1, wherein A comprises a tetra coordinated boron
+atom or a hexa coordinated phosphorus atom.</claim-text></claim><claim num="7"><claim-text>A compound according to claim 1, wherein A is selected from the group consisting of
+BF4, PF6, ClO4, fluorinated derivatives of BPh4, Ph3BCNBPh3, derivatives of carba-closo-dodecaborate
+(CB11H12), pentafluorooxotellurate (OTeF5), HC(SO2CF3)2, C60, B(o-C6H4O2)2,
+H(18-BMe2)2C10H6, and anionic methylaluminoxanes.</claim-text></claim><claim num="8"><claim-text>A compound according to claim 1, wherein L3 is a halide.</claim-text></claim><claim num="9"><claim-text>A compound according to claim 1, wherein M is ruthenium.</claim-text></claim><claim num="10"><claim-text>A compound according to claim 1, wherein M is osmium.</claim-text></claim><claim num="11"><claim-text>A compound represented by any one of formula II or III
+<claim-text><claim-text>wherein M is ruthenium or osmium;</claim-text><claim-text>each of X1 and X2, which may be the same or different, is a C3-C20 hydrocarbon group
+having an allyl moiety as an end group bonded to the central metal atom M, said hydrocarbon
+group being optionally substituted on its backbone with up to three substituents independently
+selected from the group consisting of a C1-C20 alkyl, a C1-C20, alkoxy, and a C6-C12 aryl, and
+further optionally having up to three functional groups independently selected from the group
+consisting of hydroxyl, nitro, a halogen, thiol, thioether, ketone, aldehyde, ester, ether, amine,
+imine, amide, carboxylic acid, disulfide, carbonate, isocyanate, carbodiimide, carboalkoxy, and
+carbamate; or</claim-text><claim-text>X1 and X2 together constitute a group which results from dimerization of a C4-C10 alkene
+and has at each end an allyl moiety bonded to the central metal atom M, said group resulting
+from the alkene dimerization being optionally substituted on its backbone with up to three
+substituents independently selected from the group consisting of a C1-C20 alkyl, a C1-C20
+alkoxy, and a C6-C12 aryl, and further optionally having up to three functional groups
+independently selected from the group consisting of hydroxyl, nitro, a halogen, thiol, thioether,
+ketone, aldehyde, ester, ether, amine, imine, amide, carboxylic acid, disulfide, carbonate,
+isocyanate, carbodiimide, carboalkoxy, and carbamate;</claim-text><claim-text>L11 is a neutral electron donor ligand;</claim-text><claim-text>L12 is a solvent molecule capable of coordination to the central metal atom M;</claim-text><claim-text>L13 is a C1-C20 alkyl;</claim-text><claim-text>A is a counter anion coordinated to the central metal atom M but only weakly coordinated
+so that A is not bonded as a ligand to the central metal atom M;</claim-text><claim-text>wherein M, X1, X2 and A are as defined above in formula (II);</claim-text><claim-text>L ^ L is a bidentate ligand coordinated to the central metal atom M through two atoms
+which may be the same or different, each of which is independently selected from the group
+consisting of a phosphorus atom, a nitrogen atom and an arsenic atom;</claim-text><claim-text>L14 is selected from the group consisting of a C1-C20 alkyl, a C3-C20 carbene neutral
+electron donor ligand, a solvent molecule capable of coordination with the central metal M, and a
+halide; and</claim-text><claim-text>n is 1 when L14 is a halide, and n is 2 when L14 is an alkyl, a carbene or a solvent
+molecule.</claim-text></claim-text></claim-text></claim><claim num="12"><claim-text>A compound according to formula II in claim 11, wherein L11 is a neutral donor ligand
+containing phosphorus, nitrogen or arsenic.</claim-text></claim><claim num="13"><claim-text>A compound according to formula II in claim 11, wherein L12 is a solvent molecule
+containing oxygen, nitrogen, sulfur or selenium.</claim-text></claim><claim num="14"><claim-text>A compound according to claim 13, wherein L12 is selected from the group consisting
+of tetrahydrofuran, acetonitrile, pyridine, triethyl amine, thiophene and a thiol.</claim-text></claim><claim num="15"><claim-text>A compound according to claim 11, wherein A comprises a tetra coordinated boron
+atom or a hexa coordinated phosphorus atom.</claim-text></claim><claim num="16"><claim-text>A compound according to claim 11, wherein A is selected from the group consisting
+of BF4, PF6, ClO4, fluorinated derivatives of BPh4, Ph3BCNBPh3 derivatives of carba-closo-dodecaborate
+(CB11H12), pentafluorooxotellurate (OTeF5), HC(SO2CF3)2, C60, B(o-C6H4O2)2,
+H(1,8-BMe2)2C10H6, and anionic methylaluminoxanes.</claim-text></claim><claim num="17"><claim-text>A compound according to claim 11, wherein M is ruthenium.</claim-text></claim><claim num="18"><claim-text>A compound according to claim 11, wherein M is osmium.</claim-text></claim><claim num="19"><claim-text>A catalyst for the metathesis reactions of olefins, said catalyst comprising a complex
+cation represented by formula I*
+<claim-text><claim-text>wherein M is ruthenium or osmium;</claim-text><claim-text>each of X1 and X2, which may be the same or different, is a C3-C20 hydrocarbon group
+having an allyl moiety as an end group bonded to the central metal atom M, said hydrocarbon
+group being optionally substituted with up to three substituents independently selected from the
+group consisting of a C1-C20 alkyl, a C1-C20 alkoxy, and a C6-C12 aryl, and further optionally
+having up to three functional groups independently selected from the group consisting of
+hydroxyl; nitro; a halogen, thiol, thioether, ketone, aldehyde, ester, ether, amine, imine, amide,
+carboxylic acid, disulfide, carbonate, isocyanate, carbodiimide, carboalkoxy, and carbamate; or</claim-text><claim-text>X1 and X2 together form a group which results from dimerization of a C4-C10 alkene and
+has at each end an allyl moiety bonded to the central metal atom M, said group resulting from the
+alkene dimerization being optionally substituted with up to three substituents independently
+selected from the group consisting of a C1-C20 alkyl, a C1-C20 alkoxy, and a C6-C12 aryl, and
+further optionally having up to three functional groups independently selected from the group
+consisting of hydroxyl, nitro, a halogen, thiol, thioether, ketone, aldehyde, ester, ether, amine,
+imine, amide, carboxylic acid, disulfide, carbonate, isocyanate, carbodiimide, carboalkoxy, and
+carbamate;</claim-text><claim-text>L1 is a neutral electron donor ligand;</claim-text><claim-text>L2 is a carbene group represented by the formula
+
+or the formula
+</claim-text><claim-text>wherein each of R and R1 is independently selected from the group consisting of hydrogen,
+C1-C20 alkyl, C2-C20 alkenyl, C2-C20 alkynyl, C6-C20 aryl, C1-C20 carboxylate, C1-C20
+alkoxy, C2-C20 alkenyloxy, C2-C20 alkynyloxy, C6-C20 aryloxy, C2-C20 alkoxy-carbonyl, C1-C20
+alkylthio, C1-C20 alkylsulfonyl, and C1-C20 alkyl sulfinyl, wherein each of R and R1
+optionally may have up to three substituents selected from the group consisting of C1-C5 alkyl, a
+halogen, C1-C5 alkoxy, and C6-C10 aryl; and</claim-text><claim-text>L3 is a neutral electron donor ligand which may be the same as or different from L1, or L3
+is a halide group.</claim-text></claim-text></claim-text></claim><claim num="20"><claim-text>A catalyst for initiating an olefin metathesis reaction, said catalyst comprising a
+complex cation represented by any one of formula II* or III*<claim-text><claim-text>wherein M is ruthenium or osmium;</claim-text><claim-text>each of X1 and X2, which may be the same or different, is a C3-C20 hydrocarbon group
+having an allyl moiety as an end group bonded to the central metal atom M, said hydrocarbon
+group being optionally substituted on its backbone with up to three substituents independently
+selected from the group consisting of a C1-C20 alkyl, a C1-C20 alkoxy, and a C6-C12 aryl, and
+further optionally having up to three functional groups independently selected from the group
+consisting of hydroxyl, nitro, a halogen, thiol, thioether, ketone, aldehyde, ester, ether, amine,
+imine, amide, carboxylic acid, disulfide, carbonate, isocyanate, carbodiimide, carboalkoxy, and
+carbamate; or</claim-text><claim-text>X1 and X2 together form a group which results from dimerization of a C4-C10 alkene and
+has at each end an allyl moiety bonded to the central metal atom M, said group resulting from the
+alkene dimerization being optionally substituted on its backbone with up to three substituents
+independently selected from the group consisting of a C1-C20 alkyl, a C1-C20 alkoxy, and a C6-C12
+aryl, and further optionally having up to three functional groups independently selected from
+the group consisting of hydroxyl, nitro, a halogen, thiol, thioether, ketone, aldehyde, ester, ether,
+amine, imine, amide, carboxylic acid, disulfide, carbonate, isocyanate, carbodiimide, carboalkoxy,
+and carbamate;</claim-text><claim-text>L11 is a neutral electron donor ligand;</claim-text><claim-text>L12 is a solvent molecule capable of coordination to the central metal atom M; and</claim-text><claim-text>L13 is a C1-C20 alkyl;</claim-text><claim-text>wherein M, X1 and X2 are as defined above in formula (II); and</claim-text><claim-text>L ^ L is a bidentate ligand coordinated to the central metal atom M through two atoms
+which may be the same or different, each of which is independently selected from the group
+consisting of a phosphorus atom, a nitrogen atom and an arsenic atom; and</claim-text><claim-text>L14 is selected from the group consisting of a C1-C20 alkyl, a C3-C20 carbene neutral
+electron donor ligand, a solvent molecule capable of coordination with the central metal M, and a
+halide.</claim-text></claim-text></claim-text></claim><claim num="21"><claim-text>A method for initiating a metathesis reaction of an olefin, comprising conducting the
+reaction in the presence of a compound according to claim 1.</claim-text></claim><claim num="22"><claim-text>A method according to claim 21, wherein the olefin is a cyclic olefin and the
+metathesis reaction is ring-opening metathesis polymerization (ROMP).</claim-text></claim><claim num="23"><claim-text>A method according to claim 22, wherein the cyclic olefin is a norbornene monomer.</claim-text></claim><claim num="24"><claim-text>A method according to claim 22, wherein the cyclic olefin is a dicyclopentadiene
+monomer.</claim-text></claim><claim num="25"><claim-text>A method for initiating a metathesis reaction of an olefin, comprising conducting said
+reaction in the presence of a catalyst comprising a complex cation according to claim 19.</claim-text></claim><claim num="26"><claim-text>A method according to claim 25, wherein the olefin is a cyclic olefin and the reaction
+is ring-opening metathesis polymerization (ROMP).</claim-text></claim><claim num="27"><claim-text>A method according to claim 26, wherein the cyclic olefin is a norbornene monomer.</claim-text></claim><claim num="28"><claim-text>A method according to claim 26, wherein the cyclic olefin is a dicyclopentadiene
+monomer.</claim-text></claim><claim num="29"><claim-text>A method for initiating a metathesis reaction of an olefin, comprising conducting said
+reaction in the presence of a compound according to claim 11.</claim-text></claim><claim num="30"><claim-text>A method according to claim 29, wherein the olefin is a cyclic olefin and the reaction
+is ring-opening metathesis polymerization (ROMP).</claim-text></claim><claim num="31"><claim-text>A method according to claim 30, wherein the cyclic olefin is a norbornene monomer.</claim-text></claim><claim num="32"><claim-text>A method according to claim 30, wherein the cyclic olefin is a dicyclopentadiene
+monomer.</claim-text></claim><claim num="33"><claim-text>A method for initiating a metathesis reaction in an olefin, comprising conducting said
+reaction in the presence of a catalyst comprising a complex cation according to claim 20.</claim-text></claim><claim num="34"><claim-text>A method according to claim 33, wherein the olefin is a cyclic olefin and the reaction
+is ring-opening metathesis polymerization (ROMP).</claim-text></claim><claim num="35"><claim-text>A method according to claim 34, wherein the cyclic olefin is a norbornene monomer.</claim-text></claim><claim num="36"><claim-text>A method according to claim 34, wherein the cyclic olefin is a dicyclopentadiene
+monomer.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

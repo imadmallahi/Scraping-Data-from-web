@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1277775-A1" country="EP" doc-number="1277775" kind="A1" lang="EN" family-id="26618943" status="new" date-produced="20090516" date="20030122"><bibliographic-data><publication-reference ucid="EP-1277775-A1" status="new" fvid="23654946"><document-id status="new" format="original"><country>EP</country><doc-number>1277775</doc-number><kind>A1</kind><date>20030122</date></document-id></publication-reference><application-reference ucid="EP-02015683-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>02015683</doc-number><kind>A</kind><date>20020717</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2001218348-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2001218348</doc-number><kind>A</kind><date>20010718</date></document-id></priority-claim><priority-claim ucid="JP-2002032839-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002032839</doc-number><kind>A</kind><date>20020208</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C08G  18/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  18/08        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  18/40        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  18/48        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  18/63        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  18/76        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  65/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  65/26        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  65/28        20060101AFI20060101BMKR        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08G  18/08D2B5C</classification-symbol><classification-symbol scheme="EC">C08G  18/40A13</classification-symbol><classification-symbol scheme="EC">C08G  18/48M</classification-symbol><classification-symbol scheme="EC">C08G  18/76A</classification-symbol><classification-symbol scheme="EC">C08G  65/26R</classification-symbol><classification-symbol scheme="ICO">M08G101:00B</classification-symbol><classification-symbol scheme="ICO">M08G101:00K3</classification-symbol><classification-symbol scheme="ICO">M08G101:00P</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Verfahren zur Herstellung eines polymerdispergierten Polyols</invention-title><invention-title load-source="ep" status="new" lang="EN">Methods for producing a polymer dispersed polyol</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédé de production de polyol dispersé dans un polymère</invention-title><citations><patent-citations><patcit ucid="EP-0677543-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0677543</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0807651-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0807651</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0992523-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0992523</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1022300-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1022300</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5605939-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5605939</doc-number><kind>A</kind></document-id><sources><source category="XD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6066683-A" status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>6066683</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1991018909-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1991018909</doc-number><kind>A1</kind></document-id><sources><source category="A"  name="SEA"  created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new"  format="epo"><addressbook><name>ASAHI GLASS CO LTD</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ASAHI GLASS COMPANY LTD.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>ASAHI GLASS COMPANY LTD.</last-name><address><street>12-1, Yurakucho 1-chome, Chiyoda-ku</street><city>Tokyo 100-8405</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>AKAGI ETSUKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>HORIE AKIO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SUGIYAMA KAYOKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TOYOTA YOSHINORI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>WADA HIROSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>AKAGI, ETSUKO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HORIE, AKIO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SUGIYAMA, KAYOKO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TOYOTA, YOSHINORI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>WADA, HIROSHI</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>AKAGI, ETSUKO</last-name><address><street>19-30-204, Mitsuzawashimomachi, Kanagawa-ku</street><city>Yokohama-shi, Kanagawa</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Horie, Akio c/o Asahi Glass Urethane Co., Ldt.</last-name><address><street>25, Oaza-towada, Kamisu-machi</street><city>Kashima-gun, Ibaraki</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SUGIYAMA, KAYOKO</last-name><address><street>1-633-2-801, Marukodori, Nakahara-ku</street><city>Kawasaki-shi, Kanagawa</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Toyota, Yoshinori c/o Asahi Glass Com.,Ltd.</last-name><address><street>1150, Hazawa-cho, Kanagawa-ku</street><city>Yokohama-shi, Kanagawa</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Wada, Hiroshi c/o Asahi Glass Urethane Co., Ldt.</last-name><address><street>25, Oaza-towada, Kamisu-machi</street><city>Kashima-gun, Ibaraki</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Müller-Boré &amp;amp; Partner Patentanwälte</last-name><address><street>Grafinger Strasse 2</street><city>81671 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country><country>CH</country><country>CY</country><country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A method for producing a polyoxyalkylene polyol
+which comprises subjecting propylene oxide and ethylene
+oxide to ring-opening addition polymerization with an
+initiator in the presence of a catalyst,
+
+   wherein the polyoxyalkylene polyol is a
+polyoxyalkylene polyol obtained by subjecting propylene
+oxide to ring-opening addition polymerization with an
+initiator in the presence of a double metal cyanide
+complex catalyst to form an oxypropylene block chain,
+subjecting ethylene oxide and propylene oxide to ring-opening
+addition polymerization randomly to form an
+oxyalkylene random chain, changing the catalyst and
+subjecting ethylene oxide to ring-opening addition
+polymerization in the presence of an alkali metal
+catalyst to form an oxyethylene block chain,
+
+   and the polyoxyalkylene polyol is a polyoxyalkylene
+polyol having a hydroxyl value of from 5 to 56 mgKOH/g, a
+proportion of an initiator residue of at most 25 mass%, a
+proportion of the oxypropylene block chain of from 5 to
+50 mass%, a total oxyethylene group content of from 5 to
+60 mass%, and a ratio of primary hydroxyl groups among
+terminal hydroxyl groups of at least 60 mol%.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to methods for
+producing a polyoxyalkylene polyol and a polymer
+dispersed polyol. The polyoxyalkylene polyol and the
+polymer dispersed polyol obtained by the production
+methods of the present invention are widely used as a
+material of an elastomer, a synthetic resin, a coating
+and a sealing material, or as a surfactant, a lubricant,
+a diluent, a plasticizer, etc. Particularly when they
+are used as a material for producing a flexible
+polyurethane foam (hereinafter referred to as flexible
+foam), a flexible foam having improved mechanical
+properties such as hardness, moldability, vibrating
+property and durability can be obtained.</p><p num="0002">Heretofore, various studies have been conducted to
+improve properties of a flexible foam. For example, in
+order to improve comfort of a seat cushion of e.g. an
+automobile to sit on, improvement of e.g. impact
+resilience, vibrating property and durability has been 
+desired. Further, in recent years, along with a change
+in taste of users for comfort to sit on, a flexible foam
+having a low impact resilience coefficient has been
+desired. With regard to the vibrating property, it is
+considered to be effective to make decrement in a
+frequency region to which human is sensitive (considered
+to be from 4 to 8 Hz for example, or from 6 to 20 Hz)
+particularly significant. In order to improve such
+properties, it is considered to be effective to produce a
+seat cushion by employing a polyoxyalkylene polyol having
+a higher molecular weight.</p><p num="0003">A polyoxyalkylene polyol (hereinafter referred to as
+polyol) used as a material of a flexible foam is usually
+produced by subjecting an alkylene oxide such as
+propylene oxide to ring-open addition polymerization with
+e.g. a polyhydric alcohol as an initiator by using a
+sodium type catalyst such as sodium hydroxide or a
+potassium type catalyst such as potassium hydroxide. By
+this production method, a monool having unsaturated bonds
+(unsaturated monool) is formed as a by-product, and the
+formation amount of the unsaturated monool increases
+along with decrease in the hydroxyl value (increase in
+the molecular weight) of the polyol.</p> <p num="0004">In production of a polyol having a hydroxyl value at
+a level of 56 mgKOH/g which is widely used as a material
+of a flexible foam, the formation amount of the
+unsaturated monool is not so large as to be a serious 
+problem. However, in production of a polyol having a
+high molecular weight and a low hydroxyl value, the
+formation amount of the unsaturated monool tends to be
+problematic. In a case where a flexible foam is produced
+by using a polyol having a high degree of total
+unsaturation, problems such as decrease in hardness,
+deterioration of permanent compression set and
+deterioration of curing property at the time of molding
+tend to occur. Further, in a case where a polyol having
+a low hydroxyl value is produced by using a sodium type
+catalyst or a potassium type catalyst, the degree of
+total unsaturation tends to be remarkably high, and the
+production is very difficult.</p><p num="0005">As a method of producing a polyol having a low
+degree of total unsaturation and a low hydroxyl value, a
+production method of subjecting an alkylene oxide to
+ring-opening addition polymerization by using a double
+metal cyanide complex as a catalyst is proposed in JP-A-2-276821.
+Although comfort to sit on remarkably improves
+when a high molecular weight polyol obtained by this
+production method is used, there may be a problem in
+moldability such as air flow, required in addition to
+comfort to sit on, in some cases. Practically, such a
+polyol alone is used to produce a flexible foam, degree
+of closed-cell tends to be relatively high, thus leading
+to a defect at the time of crushing treatment in some
+cases. </p><p num="0006">As a method to overcome the problem of moldability,
+a method for producing a flexible foam by using as the
+material a polyol mixture comprising a polyol produced by
+using a double metal cyanide complex catalyst and a
+polyol produced by using potassium hydroxide is proposed
+in JP-A-8-231676. However, in this method, as the polyol
+produced by using a double metal cyanide complex
+catalyst, a polyoxyalkylene polyol produced by subjecting
+propylene oxide alone to ring-opening addition
+polymerization with an initiator and then subjecting
+ethylene oxide alone to ring-opening addition
+polymerization, is used, and further, the degree of
+unsaturation of the polyol produced by using a potassium
+hydroxide catalyst is high, and the degree of
+unsaturation of the entire polyol mixture is thereby
+high, whereby durability of the foam tends to be
+insufficient.</p><p num="0007">Further, as another method, a method of using a
+double metal cyanide complex catalyst, subjecting a
+mixture of ethylene oxide with another alkylene oxide to
+ring-opening addition polymerization reaction system with
+an initiator to produce a polyol having a random addition
+structure of ethylene oxide with another alkylene oxide
+in the molecule of the polyol, and using this polyol to
+form a flexible foam having favorable moldability, is
+proposed in U.S.P. 5,605,939 and U.S.P. 5,648,559.
+However, the present inventors have tried to produce a 
+flexible foam for an automobile seat by using a polyol in
+Examples as disclosed in the above patents, but a foam
+could not be produced as depressions (collapses) were
+formed in the inside and on the surface of the foam.</p><p num="0008">Under these circumstances, the present invention has
+been made to overcome the above problems, and it is an
+object of the present invention to provide methods for
+producing a material polyol and a polymer dispersed
+polyol, which provide, in production of a flexible foam
+using as the material a polyol produced by using a double
+metal cyanide complex catalyst, a flexible foam having
+favorable foam moldability maintained, having good
+physical properties such as hardness and vibrating
+property, and having favorable durability particularly
+heat and humidity permanent compression set.</p> <p num="0009">The present invention provides a method for
+producing a polyoxyalkylene polyol, which comprises
+subjecting propylene oxide and ethylene oxide to ring-opening
+addition polymerization with an initiator in the
+presence of a catalyst, wherein the polyoxyalkylene
+polyol is a polyoxyalkylene polyol obtained by subjecting
+propylene oxide to ring-opening addition polymerization
+with an initiator in the presence of a double metal
+cyanide complex catalyst to form an oxypropylene block
+chain, subjecting ethylene oxide and propylene oxide to
+ring-opening addition polymerization randomly to form an
+oxyalkylene random chain, changing the catalyst and 
+subjecting ethylene oxide to ring-opening addition
+polymerization in the presence of an alkali metal
+catalyst to form an oxyethylene block chain, and the
+polyoxyalkylene polyol is a polyoxyalkylene polyol having
+a hydroxyl value of from 5 to 56 mgKOH/g, a proportion of
+an initiator residue of at most 25 mass%, a proportion of
+the oxypropylene block chain of from 5 to 50 mass%, a
+total oxyethylene group content of from 5 to 60 mass%,
+and a ratio of primary hydroxyl groups among terminal
+hydroxyl groups of at least 60 mol%.</p> <p num="0010">The present invention further provides a method for
+producing a polymer dispersed polyol, which comprises
+polymerizing a monomer having polymerizable unsaturated
+groups employing the polyoxyalkylene polyol obtained by
+the above production method as a dispersion medium.</p> <p num="0011">Now, the present invention will be described in
+detail with reference to the preferred embodiment.</p><heading><u style="single">Structure of polyol (1)</u></heading><p num="0012">The polyoxyalkylene polyol (hereinafter referred to
+as polyol (1)) of the present invention is a
+polyoxyalkylene polyol obtained in such a manner that
+propylene oxide is subjected to ring-opening addition
+polymerization with an initiator in the presence of a
+double metal cyanide complex catalyst to form an
+oxypropylene block chain, ethylene oxide and propylene
+oxide are subjected to ring-opening addition
+polymerization randomly to form an oxyalkylene random 
+chain, then the catalyst is changed, and ethylene oxide
+is subjected to ring-opening addition polymerization in
+the presence of an alkali metal catalyst to form an
+oxyethylene block chain.</p><p num="0013">Namely, the polyol (1) has an initiator residue (i),
+an oxypropylene block chain (ii), an oxyalkylene random
+chain (iii) and an oxyethylene block chain (iv) in its
+molecule.</p><heading><u style="single">Initiator residue (i)</u></heading><p num="0014">As the initiator for the polyol (1) of the present
+invention, an active hydrogen compound such as a
+polyhydric alcohol, an amine or a condensed type compound
+may be used. Here, the initiator residue (i) is a moiety
+in the polyol (1) derived from the initiator. The
+proportion of the initiator residue (i) is preferably at
+most 25 mass% based on the entire polyol (1), preferably
+from 2 to 20 mass%.</p><p num="0015">Specific examples of the initiator include
+polyhydric alcohols such as ethylene glycol, propylene
+glycol, 1,4-butanediol, glycerol, trimethylolpropane,
+pentaerythritol, diglycerol, meso-erythritol, methyl
+glucoside, glucose, sorbitol and sucrose; amines such as
+ethylenediamine, diethylenediamine, triethylenediamine,
+diaminodiphenylmethane, hexamethylenediamine and
+propylenediamine; and condensed type compounds such as
+phenol resins and novolac resins.</p><p num="0016">Such active hydrogen compounds may be used in 
+combination of at least two. Among these active hydrogen
+compounds, preferred is a polyhydric alcohol.
+Particularly, an at least trivalent polyhydric alcohol is
+preferred in such a viewpoint that hardness of a flexible
+foam employing as the material a polyol produced by using
+such a polyhydric alcohol as the initiator is likely to
+be obtained.</p><p num="0017">Further, as the initiator, a compound obtained by
+subjecting an alkylene oxide in a small amount to ring-opening
+addition polymerization with the above compound
+may also be used. The alkylene oxide is preferably
+propylene oxide. The molecular weight of the obtained
+compound is preferably at least 650.</p><p num="0018">Most preferred as the initiator is a compound having
+a hydroxyl value of from 150 to 250 mgKOH/g, obtained by
+subjecting propylene oxide to ring-opening addition
+polymerization with an at least trivalent polyhydric
+alcohol.</p><heading><u style="single">Oxypropylene block chain (ii)</u></heading><p num="0019">The polyol (1) of the present invention has an
+oxypropylene block chain (ii) formed by using a double
+metal cyanide complex catalyst, adjacent to the initiator 
+residue (i). The proportion of the oxypropylene block
+chain (ii) is from 5 to 50 mass% based on the entire
+polyol (1), preferably from 10 to 40 mass%. The
+proportion of the oxypropylene block chain (ii) is
+particularly preferably from 20 to 30 mass%, whereby
+hardness of the flexible foam can be controlled high. If
+the oxypropylene block chain exceeds 50 mass%, degree of
+closed-cell of the flexible foam tends to be high,
+whereby moldability tends to deteriorate, and the curing
+property tends to deteriorate, whereby hardness is less
+likely to be obtained. Further, if the oxypropylene
+block chain (ii) is less than 5 mass%, hardness of the
+flexible foam is less likely to be obtained.</p><p num="0020">Here, in a case where a compound obtained by
+subjecting propylene oxide to ring-opening addition
+polymerization with an at least trivalent polyhydric
+alcohol is used as the initiator, the oxypropylene block
+chain in the initiator residue (i) and the oxypropylene
+block chain (ii) formed by using a double metal cyanide
+complex catalyst can not be distinguished even when the
+obtained polyol (1) is analyzed. Accordingly, in a case
+of verification as the polyol (1), the oxypropylene block
+chain of the initiator residue (i) and the oxypropylene
+block chain (ii) formed by using a double metal cyanide
+complex catalyst are not distinguished. Namely, the
+total proportion of the initiator residue (i) and the
+oxypropylene block chain (ii) is preferably from 5 to 75 
+mass%, more preferably from 12 to 60 mass%, based on the
+entire polyol (1).</p><p num="0021">Further, when the polyol (1) wherein the
+oxypropylene block chain (ii) is adjacent to the
+initiator residue (i) and another polyol are compared,
+the former is preferred, which has favorable moldability.
+Further, the oxypropylene block chain (ii) is produced by
+using the above double metal cyanide complex catalyst,
+whereas if another catalyst is used, an unsaturated
+monool is produced as a by-product, and durability of a
+flexible foam employing the obtained polyol as the
+material tends to deteriorate, such being unfavorable.</p><heading><u style="single">Oxyalkylene random chain (iii)</u></heading><p num="0022">The polyol (1) of the present invention has an
+oxyalkylene random chain (iii) formed by using a double
+metal cyanide complex catalyst adjacent to the
+oxypropylene block chain (ii). The oxyalkylene random
+chain is a structure obtained by supplying ethylene oxide
+and propylene oxide in a predetermined proportion to the
+reaction system, and subjecting to ring-opening addition
+polymerization randomly. The proportion of the
+oxyalkylene random chain (iii) is preferably from 5 to 90
+mass% based on the entire polyol (1), preferably from 10
+to 80 mass%.</p><p num="0023">The content of oxyethylene groups in the oxyalkylene
+random chain (iii) in the polyol (1) of the present
+invention is preferably from 3 to 35 mass%, more 
+preferably from 5 to 30 mass%, based on the oxyalkylene
+random chain (iii). Namely, the proportion of ethylene
+oxide to propylene oxide supplied to the reaction system
+is preferably from 3/97 to 35/65, more preferably from
+5/95 to 30/70, in a mass ratio (ethylene oxide/propylene
+oxide). In a case where the oxyethylene group in the
+oxyalkylene random chain (iii) is less than this range or
+exceeds this range, degree of closed-cell of the flexible
+foam tends to be high, and the moldability may
+deteriorate in some cases, such being unfavorable.</p><p num="0024">Further, when ethylene oxide and propylene oxide are
+supplied to the reaction system in a predetermined
+proportion, the proportion may be changed during the
+supplying. By such a method, the content of oxyethylene
+groups in the oxyalkylene random chain (iii) can be
+controlled in the desired portion of the molecule. For
+example, in a case where the proportion of ethylene oxide
+is increased in stages, a polyol (1) wherein the content
+of oxyethylene groups becomes high towards the terminal
+of the molecule of the polyol (1) can be produced.</p><heading><u style="single">Oxyethylene block chain (iv)</u></heading><p num="0025">The polyol (1) of the present invention has an
+oxyethylene block chain (iv) produced by using an alkali
+metal catalyst adjacent to the oxyalkylene random chain
+(iii) i.e. at the terminal of the molecule. The content
+of this oxyethylene block chain (iv) is preferably from 3
+to 40 mass%, more preferably from 5 to 30 mass%, based on 
+the entire polyol (1). If the oxyethylene block chain
+(iv) exceeds 40 mass%, shrinkage is likely to occur even
+after crushing treatment, such being unfavorable.
+Further, if the oxyethylene block chain (iv) is less than
+3 mass%, e.g. collapses of the foam are likely to occur
+in production of the flexible foam, and the production
+tends to be difficult.</p><heading><u style="single">Composite metal cyanide complex catalyst</u></heading><p num="0026">The polyol (1) of the present invention is obtained
+by subjecting the above-described specific alkylene
+oxides to ring-opening addition polymerization with an
+initiator in the presence of the double metal cyanide
+complex catalyst. As the double metal cyanide complex
+catalyst, compounds as disclosed in JP-B-46-27250 may,
+for example, be mentioned. Particularly, a complex
+containing zinc hexacyanocobaltate as the main component
+is preferred, and its ether and/or alcohol complexes are
+more preferred. By using such a double metal cyanide
+complex catalyst, the amount of by-product unsaturated
+monool can be suppressed, and durability of the flexible
+foam employing the obtained polyol as the material tends
+to improve.</p><p num="0027">Further, the above ether is not particularly
+limited, but is preferably a compound of the following
+formula (hereinafter referred to as compound (X)):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>1</sup>-C(CH<sub>3</sub>)<sub>2</sub>(OR<sup>0</sup>)<sub>n</sub>OH</st32:che>
+wherein R<sup>1</sup> is a methyl group or an ethyl group, R<sup>0</sup> is an 
+ethylene group or a group having a hydrogen atom of an
+ethylene group substituted with a methyl group or an
+ethyl group, and n is an integer of from 1 to 3. R<sup>0</sup> is
+particularly preferably a group selected from an ethylene
+group, a propylene group, an ethylethylene group, a 1,2-dimethylethylene
+group and a 1,1-dimethylethylene group.</p><p num="0028">As the compound (X), specifically, compounds as
+disclosed in WO00/02951 may be mentioned. Specifically,
+the following compounds are preferred.</p><p num="0029">In a case where n is 1, preferred are ethylene
+glycol mono-tert-butyl ether, propylene glycol mono-tert-butyl
+ether, ethylene glycol mono-tert-pentyl ether and
+propylene glycol mono-tert-pentyl ether. In a case where
+n is 2, diethylene glycol mono-tert-butyl ether and
+diethylene glycol mono-tert-pentyl ether are preferred.
+In a case where n is 3, triethylene glycol mono-tert-butyl
+ether and triethylene glycol mono-tert-pentyl ether
+are preferred. Further, as the compound (X), a compound
+wherein n is 1 is particularly preferred, and a compound
+wherein R<sup>1</sup> is a methyl group is most preferred. Further,
+as the compound (X), at least two compounds may be used
+together.</p><p num="0030">The above alcohol is not particularly limited and
+methanol, ethanol, 1-propanol, 2-propanol, 1-butanol, 2-butanol,
+tert-butyl alcohol, pentanol and octanol may,
+for example, be mentioned, and among them, it is
+preferred to use tert-butyl alcohol. </p><p num="0031">In a case where the compound (X) and another
+compound are used together as organic ligands, the
+compound to be used together is preferably one or at
+least two compounds selected from the group consisting of
+tert-butyl alcohol, 1-butanol, 2-butanol, tert-pentyl
+alcohol, isopentyl alcohol, N,N-dimethylacetoamide, glyme
+(ethylene glycol dimethyl ether), diglyme (diethylene
+glycol dimethyl ether) triglyme (triethylene glycol
+dimethyl ether), 2-propanol and dioxane. The dioxane may
+be either 1,4-dioxane or 1,3-dioxane, and 1,4-dioxane is
+preferred. As the compound to be used together, tert-butyl
+alcohol, tert-pentyl alcohol or glyme is
+particularly preferred, and tert-butyl alcohol is most
+preferred.</p><p num="0032">Namely, specific examples of the double metal
+cyanide complex to be used in the present invention
+include a zinc hexacyanocobaltate-ethylene glycol mono-tert-butyl
+ether complex, a zinc hexacyanocobaltate-ethylene
+glycol mono-tert-butyl ether/tert-butyl alcohol
+complex, a zinc hexacyanocobaltate-tert-butyl alcohol
+complex and a zinc hexacyanocobaltate-glyme complex.
+Among them, particularly preferred are a zinc
+hexacyanocobaltate-ethylene glycol mono-tert-butyl ether
+complex and a zinc hexacyanocobaltate-ethylene glycol
+mono-tert-butyl ether/tert-butyl alcohol complex.</p><heading><u style="single">Alkali metal catalyst</u></heading><p num="0033">The alkali metal catalyst to be used for formation 
+of the oxypropylene block chain (iv) may be a sodium type
+catalyst, a potassium type catalyst or a cesium type
+catalyst. The sodium type catalyst may, for example, be
+a sodium metal, a sodium alkoxide such as sodium
+methoxide, sodium hydroxide or sodium carbonate. The
+same applies to the potassium type catalyst and the
+cesium type catalyst.</p><p num="0034">In production of the polyol (1) of the present
+invention, as the method of changing the double metal
+cyanide complex catalyst to the alkali metal catalyst,
+the alkali metal catalyst may be added to the reaction
+system after the double metal cyanide complex catalyst is
+deactivated, or the alkali metal catalyst may be added to
+the reaction system without deactivation. In the latter
+case, the double metal cyanide complex catalyst is
+deactivated by addition of the alkali metal catalyst. As
+the deactivation method, a treatment by putting water, an
+acid or an alkali, or a treatment by putting an adsorbent
+may, for example, be mentioned.</p><heading><u style="single">Properties of polyol (1)</u></heading><p num="0035">The hydroxyl value of the polyol (1) of the present
+invention is from 5 to 56 mgKOH/g, more preferably from
+10 to 42 mgKOH/g. If the hydroxyl value exceeds 56
+mgKOH/g and the molecular weight is low, elasticity of
+the obtained flexible foam tends to be insufficient.
+Further, if the hydroxyl value is less than 5 mgKOH/g,
+hardness of the obtained flexible foam is less likely to 
+be obtained.</p><p num="0036">The number of hydroxyl groups in the polyol (1) of
+the present invention is preferably from 2 to 8, more
+preferably from 2.7 to 7, most preferably from 2.8 to
+5.2. Here, the number of hydroxyl groups is an average
+number of active hydrogen in the initiator. If the
+number of hydroxyl groups is less than 2, the obtained
+flexible foam tends to be soft, and the durability tends
+to deteriorate. If the number of hydroxyl groups exceeds
+8, the obtained flexible foam tends to be hard, and
+mechanical properties such as elongation tend to
+deteriorate.</p><p num="0037">The degree of unsaturation of the polyol (1) of the
+present invention is preferably at most 0.03 meq/g, more
+preferably at most 0.025 meq/g. If the degree of
+unsaturation exceeds 0.03 meq/g, i.e. if the amount of
+the unsaturated monool is large, durability and comfort
+to sit on of the obtained flexible foam tend to
+deteriorate. As the index of the durability of the
+flexible foam, dry heat permanent compression set and
+heat and humidity permanent compression set may be
+mentioned. The higher the degree of unsaturation, the
+higher the value of the permanent compression set, and
+the poorer the durability tends to be. Further, as the
+index of the comfort to sit on of the flexible foam, the
+resonance frequency may be mentioned. Such a correlation
+that as the resonance frequency decreases, 
+transmissibility at 6 Hz at which human feels most
+uncomfortable tends to decrease, and thus the resonance
+frequency is suitable as the index.</p><p num="0038">The total oxyethylene group content (i.e. the
+content of all oxyethylene groups contained in the
+initiator residue (i), oxyalkylene random chain (iii) and
+oxyethylene block chain (iv)) in the polyol (1) of the
+present invention is from 5 to 60 mass%, more preferably
+from 10 to 40 mass%. Further, the proportion of primary
+hydroxyl groups among terminal hydroxyl groups of the
+polyol, derived from the oxyethylene block chain (iv) at
+the terminal of the molecule of the polyol (1) of the
+present invention, i.e. the ratio of primary hydroxyl
+groups among terminal hydroxyl groups is preferably at
+least 60 mol%, more preferably from 80 to 95 mol%.</p><heading><u style="single">Polymer dispersed polyol</u></heading><p num="0039">The present invention further provides a method for
+producing a polymer dispersed polyol wherein polymer fine
+particles are stably dispersed in the polyol (1). The
+polymer dispersed polyol is a dispersion system wherein
+polymer fine particles (dispersoid) are stably dispersed
+in the base polyol (dispersion medium). Namely, the
+polymer dispersed polyol of the present invention is a
+polymer dispersed polyol wherein the above-described
+polyol (1) is employed as the base polyol.</p><p num="0040">The polymer as the polymer fine particles may be an
+addition polymerization type polymer or a condensation 
+polymerization type polymer. The addition polymerization
+type polymer may be obtained, for example, by
+homopolymerizing or copolymerizing a monomer such as
+acrylonitrile, styrene, a methacrylate ester or an
+acrylate ester. The condensation polymerization type
+polymer may, for example, be polyester, polyurea,
+polyurethane or melamine.</p><p num="0041">Presence of polymer fine particles in the polyol
+suppresses the hydroxyl value of the polyol low, and is
+effective to improve physical properties such as hardness
+and air flow of the flexible foam. The content of the
+polymer fine particles in the polymer dispersed polyol is
+not particularly limited, but is preferably at most 50
+mass%, more preferably from 3 to 40 mass%. In a case
+where the mass of the polyol is employed for calculation,
+the mass of the polymer fine particles is not included.</p><heading><u style="single">Use of polyol (1)</u></heading><p num="0042">The polyol (1) and the polymer dispersed polyol of
+the present invention are widely used as a material of a
+flexible foam, an elastomer, a synthetic resin, a coating
+and a sealing material, or as a surfactant, a lubricant,
+a diluent, a plasticizer, etc. They are particularly
+preferably used as a material for producing a flexible
+foam, whereby moldability of the foam, and vibrating
+property and physical properties such as hardness of the
+flexible foam to be obtained tend to improve. As a
+method for producing a flexible foam, a method may 
+usually be mentioned wherein a polyol compound and a
+polyisocyanate compound are reacted in the presence of a
+blowing agent and a catalyst, and in the presence of a
+foam stabilizer, a crosslinking agent or a cell opener as
+the case requires.</p><p num="0043">As the polyol compound (including a polymer
+dispersed polyol) to be reacted in production of the
+flexible foam, a polyol mixture containing the polyol (1)
+of the present invention and/or the polymer dispersed
+polyol of the present invention is preferably used. As
+the polyol mixture, the polyol (polyol (1) or polymer
+dispersed polyol) of the present invention alone may be
+used, or another polyol may be used together. The
+another polyol is not particularly limited so long as it
+is a polyol used for production of the flexible foam, but
+is preferably a polyoxyalkylene polyol, preferably a
+polyoxyalkylene polyol having a total oxypropylene group
+content of at least 40 mass%. Among polyols to be
+reacted in production of the flexible foam, the content
+of the polyol of the present invention is preferably at
+least 20 mass%, more preferably at least 30 mass%,
+particularly preferably at least 50 mass%. Further, at
+least two polyols of the present invention as mixed may
+be used. However, the polyol compound (mixture) does not
+include a crosslinking agent and a cell opener as
+mentioned hereinafter.</p><p num="0044">The hydroxyl value of the polyol mixture is 
+preferably from 5 to 56 mgKOH/g, more preferably from 10
+to 42 mgKOH/g. Further, the degree of total unsaturation
+of the polyol mixture is preferably at most 0.05 meq/g,
+more preferably at most 0.03 meq/g, most preferably at
+most 0.025 meq/g. Further, the average ratio of primary
+hydroxyl groups among terminal hydroxyl groups of the
+polyol mixture is preferably at least 60 mol%.</p><p num="0045">The polyisocyanate compound is not particularly
+limited, and aromatic, alicyclic and aliphatic
+polyisocyanates having at least two isocyanate groups; a
+mixture of at least two of the above polyisocyanates; and
+a modified polyisocyanate obtained by modification
+thereof may, for example, be mentioned. Specific
+examples thereof include polyisocyanates such as tolylene
+diisocyanate (TDI), diphenylmethane diisocyanate (MDI),
+polymethylene polyphenyl isocyanate (common name: crude
+MDI), xylylene diisocyanate (XDI), isophorone
+diisocyanate (IPDI) and hexamethylene diisocyanate
+(HMDI), and prepolymer type modified products,
+isocyanurate type modified products, urea type modified
+products and carbodiimide type modified products thereof.
+Among them, preferred are TDI, MDI, crude MDI and
+modified product thereof.</p><p num="0046">The amount of the polyisocyanate compound used is
+usually represented by isocyanate index (a value
+represented by 100 times the proportion of the number of
+isocyanate groups based on the total number of active 
+hydrogen of e.g. polyol, crosslinking agent, cell opener
+and water). The amount of the polyisocyanate compound
+used in the present invention is preferably from 80 to
+120, more preferably from 85 to 110, as represented by
+the isocyanate index.</p><p num="0047">The blowing agent is not particularly limited, but
+is preferably at least one member selected from water and
+inert gases. As the inert gas, the air, nitrogen or
+carbon dioxide gas may, for example, be mentioned. Among
+them, water is preferred. The amount of the blowing
+agent is not particularly limited, and in a case where
+water is used, it is preferably at most 10 parts by mass,
+more preferably from 0.1 to 8 parts by mass, per 100
+parts by mass of the polyol compound.</p><p num="0048">The above catalyst is not particularly limited so
+long as it is a catalyst which accelerates a urethanating
+reaction, and it may, for example, be a tertiary amine
+such as triethylenediamine, bis(2-dimethylaminoethyl)ether
+or N,N,N',N'-tetramethylhexamethylenediamine; a metal carboxylate such
+as potassium acetate or potassium 2-ethylhexanoate; or an
+organic metal compound such as dibutyltin dilaurate.</p><p num="0049">The foam stabilizer is not particularly limited, and
+it may, for example, be a silicone type foam stabilizer
+or a fluorine type foam stabilizer, and a silicone type
+foam stabilizer is preferred. By using such a foam
+stabilizer, homogeneous cell structure can be formed. </p><p num="0050">As the crosslinking agent, preferred is a compound
+having at least two functional groups having active
+hydrogen such as a hydroxyl group, a primary amino group
+or a secondary amino group. The hydroxyl value of the
+crosslinking agent is preferably at least 100 mgKOH/g,
+more preferably 150 mgKOH/g, particularly preferably at
+least 200 mgKOH/g. Further, at least two crosslinking
+agents may be used together.</p><p num="0051">Specific examples thereof include compounds such as
+ethylene glycol, propylene glycol, 1,4-butanediol,
+neopentyl glycol, 1,6-hexanediol, diethylene glycol,
+triethylene glycol, dipropylene glycol, glycerol,
+trimethylol propane, pentaerythritol, diglycerol,
+dextrose, sorbitol, sucrose, monoethanolamine,
+diethanolamine, triethanolamine, bisphenol A,
+ethylenediamine, 3,5-diethyl-2,4 (or 2,6)-diaminotoluene
+(DETDA), 2-chloro-p-phenylenediamine (CPA), 3,5-bis(methyithio)-2,4
+(or 2,6)-diaminotoluene, 1-trifluoromethyl-3,5-diaminobenzene,
+1-trifluoromethyl-4-chloro-3,5-diaminobenzene,
+2,4-toluenediamine, 2,6-toluenediamine,
+bis(3,5-dimethyl-4-aminophenyl)methane,
+4,4'-diaminodiphenylmethane, m-xylylenediamine, 1,4-diaminohexane,
+1,3-bis(aminomethyl)cyclohexane and
+isophorone diamine, and compounds obtained by adding a
+relatively small amount of an alkylene oxide thereto.</p><p num="0052">The cell opener is preferably a polyoxyalkylene
+polyol having a number of hydroxyl group of at least 2, a 
+hydroxyl value of from 20 to 180 mgKOH/g and an
+oxyethylene group content exceeding 60 mass%. By using
+such a cell opener, moldability of the flexible foam
+tends to be improved, specifically, the crushing load
+tends to be suppressed low. The amount of the cell
+opener used is preferably from 0.1 to 5 parts by mass per
+100 parts by mass of the polyol compound.</p><p num="0053">In production of the flexible foam, in addition to
+the above components, a surfactant such as an emulsifying
+agent or a foam stabilizer; an aging preventing agent
+such as an antioxidant or a ultraviolet ray absorbent; a
+filler such as calcium carbonate or barium sulfate; or a
+known additive or assistant such as a flame retardant, a
+plasticizer, a colorant or an antifungal agent, may be
+used as the case requires.</p><p num="0054">As the method of forming a flexible foam, a method
+of pouring a reactive mixture directly into a mold by
+means of a low pressure foaming machine or a high
+pressure foaming machine is preferred. Particularly
+preferred is a method of molding in a closed mold
+(molding method). In the present invention, the flexible
+foam may be produced either by a cold curing method or a
+hot curing method, but a cold curing method is preferred.</p><p num="0055">The flexible foam produced by using as the material
+the polyol (1) or the polymer dispersed polyol of the
+present invention, is useful for e.g. a cushion, a
+mattress or a seat. It is particularly suitable as a 
+seat for vehicles such as automobiles.</p><p num="0056">Now, the present invention will be described in
+further detail with reference to Examples. However, it
+should be understood that the present invention is by no
+means restricted to such specific Examples.</p><p num="0057">Values in foaming formulation in Examples and
+Comparative Examples represent parts by mass.</p><p num="0058">Examples X1 to X11 are Production Examples of
+polyoxyalkylene polyols of the present invention
+(Examples of the present invention), Examples X12 to X17
+are Production Examples of comparative polyoxyalkylene
+polyols (Comparative Examples), and Example X18 is a
+Production Example of a polyol used as a cell opener.</p><p num="0059">Properties of polyols obtained in Production
+Examples are shown in Table 1. As properties, the
+following items are shown. The proportion (unit: mass%)
+of an oxypropylene block chain adjacent to the initiator,
+(hereinafter referred to as "PO part (1)") the proportion
+(unit: mass%) of an oxypropylene block chain not directly
+connected to the initiator (hereinafter referred to as
+"PO part (2)"), the proportion (unit: mass%) of an
+oxyalkylene random chain (hereinafter referred to as
+"random portion (1), random portion (2)"), the
+oxyethylene group content (unit: mass%) at each of the
+random part (1) and the random part (2) (hereinafter
+referred to as EO amount), the proportion (unit: mass%)
+of the oxyethylene block chain at the terminal 
+(hereinafter referred to as "EO part"), the hydroxyl
+value (unit: mgKOH/g), the ratio of primary hydroxyl
+groups among terminal hydroxyl groups (unit: mol%) and
+the degree of unsaturation (unit: meq/g).</p><p num="0060">The hydroxyl value and the degree of unsaturation
+were measured by a method in accordance with JIS K-1557.
+In Production Examples, a DMC-METB complex catalyst is
+meant for a zinc hexacyanocobaltate-ethylene glycol mono-tert-butyl
+ether complex catalyst, a DMC-METB/TBA complex
+catalyst is meant for a zinc hexacyanocobaltate-ethylene
+glycol mono-tert-butyl ether/tert-butyl alcohol complex
+catalyst, a DMC-TBA complex catalyst is meant for a zinc
+hexacyanocobaltate-tert-butyl alcohol complex catalyst,
+and a DMC-glyme complex catalyst is meant for a zinc
+hexacyanocobaltate-glyme complex catalyst.</p><p num="0061">The initiator 1 is a compound having a hydroxyl
+value of 168 mgKOH/g obtained by adding propylene oxide
+to glycerol, and the initiator 2 is a compound having a
+hydroxyl value of 234 mgKOH/g obtained by adding
+propylene oxide to glycerol.</p><heading>POLYOL PRODUCTION EXAMPLES</heading><heading>EXAMPLE X1</heading><heading><u style="single">Production of polyol A1</u></heading><p num="0062">1,525 g of propylene oxide was subjected to a
+reaction by using a DMC-METB complex catalyst in the
+presence of 1,000 g of the initiator 1 at about 120°C,
+and then 2,833 g of an ethylene oxide/propylene oxide 
+mixture containing 11.6 mass% of ethylene oxide was
+reacted therewith at about 120°C. Then, potassium
+hydroxide was added to the reaction system to change the
+catalyst to potassium hydroxide, and using this potassium
+hydroxide catalyst, 1,097 g of ethylene oxide was reacted
+therewith at about 120°C, and the production was
+completed. After the reaction, a treatment with an
+adsorbent (synthetic magnesium silicate) and filtration
+were carried out to obtain polyol A1 having a hydroxyl
+value of 27.3 mgKOH/g.</p><heading>EXAMPLE X2</heading><heading><u style="single">Production of polyol A2</u></heading><p num="0063">Polyol A2 having a hydroxyl value of 27.8 mgKOH/g
+was obtained in the same manner as in the production of
+polyol A1 except that 2,833 g of an ethylene
+oxide/propylene oxide mixture having an ethylene oxide
+content of 23.2 mass% was used.</p><heading>EXAMPLE X3</heading><heading><u style="single">Production of polyol B1</u></heading><p num="0064">2,279 g of propylene oxide was subjected to a
+reaction by using a DMC-METB complex catalyst in the
+presence of 1,000 g of the initiator 1 at about 120°C,
+and then 2,278 g of an ethylene oxide/propylene oxide
+mixture containing 14.4 mass% of ethylene oxide was
+reacted therewith at about 120°C, then 905 g of ethylene
+oxide was reacted by using a sodium methoxide catalyst at
+about 120°C, and the production was completed. After the 
+reaction, a treatment with an adsorbent (synthetic
+magnesium silicate) and filtration were carried out to
+obtain polyol B1 having a hydroxyl value of 27.6 mgKOH/g.</p><heading>EXAMPLE X4</heading><heading><u style="single">Production of polyol B2</u></heading><p num="0065">Polyol B2 having a hydroxyl value of 27.8 mgKOH/g
+was obtained in the same manner as in the production of
+polyol B1 except that a DMC-METB/TBA complex catalyst was
+used instead of the DMC-METB complex catalyst.</p><heading>EXAMPLE X5</heading><heading><u style="single">Production of polyol B3</u></heading><p num="0066">Polyol B3 having a hydroxyl value of 27.7 mgKOH/g
+was obtained in the same manner as in the production of
+polyol B1 except that a DMC-glyme complex catalyst was
+used instead of the DMC-METB complex catalyst.</p><heading>EXAMPLE X6</heading><heading><u style="single">Production of polyol C</u></heading><p num="0067">2,473 g of propylene oxide was subjected to a
+reaction by using a DMC-METB complex catalyst in the
+presence of 1,000 g of the initiator 1 at about 120°C,
+and then 2,174 g of an ethylene oxide/propylene oxide
+mixture containing 14.4 mass% of ethylene oxide was
+reacted therewith at about 120°C, then 627 g of ethylene
+oxide was reacted therewith by using a sodium methoxide
+catalyst at about 120°C, and the production was
+completed. After the reaction, a treatment with an
+adsorbent (synthetic magnesium silicate) and filtration 
+were carried out to obtain polyol C having a hydroxyl
+value of 28.1 mgKOH/g.</p><heading>EXAMPLE X7</heading><heading><u style="single">Production of polyol D</u></heading><p num="0068">3,137 g of propylene oxide was subjected to a
+reaction by using a DMC-METB complex catalyst in the
+presence of 1,000 g of the initiator 1 at about 120°C,
+and then 1,259 g of an ethylene oxide/propylene oxide
+mixture containing 14.4 mass% of ethylene oxide was
+reacted therewith at about 120°C, then 878 g of ethylene
+oxide was reacted therewith by using a potassium
+hydroxide catalyst at about 120°C, and the production was
+completed. After the reaction, a treatment with an
+adsorbent (synthetic magnesium silicate) and filtration
+were carried out to obtain polyol D having a hydroxyl
+value of 28.3 mgKOH/g.</p><heading>EXAMPLE X8</heading><heading><u style="single">Production of polyol E</u></heading><p num="0069">630 g of propylene oxide was subjected to a reaction
+by using a DMC-METB complex catalyst in the presence of
+1,000 g of the initiator 1 at about 120°C, and then 4,014
+g of an ethylene oxide/propylene oxide mixture containing
+11 mass% of ethylene oxide was reacted therewith at about
+120°C, then 691 g of ethylene oxide was reacted therewith
+by using a potassium hydroxide catalyst at about 120°C,
+and the production was completed. After the reaction, a
+treatment with an adsorbent (synthetic magnesium 
+silicate) and filtration were carried out to obtain
+polyol E having a hydroxyl value of 27.8 mgKOH/g.</p><heading>EXAMPLE X9</heading><heading><u style="single">Production of polyol F1</u></heading><p num="0070">2,833 g of an ethylene oxide/propylene oxide mixture
+containing 11.6 mass% of ethylene oxide was subjected to
+a reaction by using a DMC-METB complex catalyst in the
+presence of 1,000 g of the initiator 1 at about 120°C,
+and then 1,525 g of propylene oxide was reacted therewith
+at about 120°C, then 1,097 g of ethylene oxide was
+reacted therewith by using a potassium hydroxide catalyst
+at about 120°C, and the production was completed. After
+the reaction, a treatment with an adsorbent (synthetic
+magnesium silicate) and filtration were carried out to
+obtain polyol F1 having a hydroxyl value of 27.9 mgKOH/g.</p><heading>EXAMPLE X10</heading><heading><u style="single">Production of polyol F2</u></heading><p num="0071">Polyol F2 having a hydroxyl value of 26.9 mgKOH/g
+was obtained in the same manner as in the production of
+polyol F1 except that 2,833 g of an ethylene
+oxide/propylene oxide mixture having an ethylene oxide
+content of 23.2 mass% was used.</p><heading>EXAMPLE X11</heading><heading><u style="single">Production of polyol G</u></heading><p num="0072">3,817 g of propylene oxide was subjected to a
+reaction by using a DMC-METB complex catalyst in the
+presence of 1,000 g of the initiator 1 at about 120°C, 
+and then 591 g of an ethylene oxide/propylene oxide
+mixture containing 21.4 mass% of ethylene oxide was
+reacted therewith at about 120°C, then 953 g of ethylene
+oxide was reacted therewith by using a potassium
+hydroxide catalyst at about 120°C, and the production was
+completed. After the reaction, a treatment with an
+adsorbent (synthetic magnesium silicate) and filtration
+were carried out to obtain polyol G having a hydroxyl
+value of 28.1 mgKOH/g.</p><heading>EXAMPLE X12</heading><heading><u style="single">Production of polyol H</u></heading><p num="0073">253 g of propylene oxide was subjected to a reaction
+by using a DMC-METB complex catalyst in the presence of
+1,000 g of the initiator 1 at about 120°C, and then 4,387
+g of an ethylene oxide/propylene oxide mixture containing
+11 mass% of ethylene oxide was reacted therewith at about
+120°C, then 695 g of ethylene oxide was reacted therewith
+by using a potassium hydroxide catalyst at about 120°C,
+and the production was completed. After the reaction, a
+treatment with an adsorbent (synthetic magnesium
+silicate) and filtration were carried out to obtain
+polyol H having a hydroxyl value of 27.9 mgKOH/g.</p><heading>EXAMPLE X13</heading><heading><u style="single">Production of polyol J</u></heading><p num="0074">252 g of propylene oxide was subjected to a reaction
+by using a DMC-TBA complex catalyst in the presence of
+720 g of the initiator 2 at about 120°C, and then 4,487 g 
+of an ethylene oxide/propylene oxide mixture containing
+13 mass% of ethylene oxide was reacted therewith at about
+120°C, then 813 g of an ethylene oxide/propylene oxide
+mixture containing 40 mass% of ethylene oxide was reacted
+therewith at about 120°C, and the production was
+completed. After the reaction, a treatment with an
+adsorbent (synthetic magnesium silicate) and filtration
+were carried out to obtain polyol J having a hydroxyl
+value of 27.9 mgKOH/g.</p><heading>EXAMPLE X14</heading><heading><u style="single">Production of polyol K</u></heading><p num="0075">5,550 g of propylene oxide was subjected to a
+reaction by using a DMC-METB complex catalyst in the
+presence of 1,000 g of the initiator 1 at about 120°C,
+and then 1,103 g of an ethylene oxide was reacted
+therewith by using a potassium hydroxide catalyst at
+about 120°C, and the production was completed. After the
+reaction, a treatment with an adsorbent (synthetic
+magnesium silicate) and filtration were carried out to
+obtain polyol K having a hydroxyl value of 23.9 mgKOH/g.</p><heading>EXAMPLE X15</heading><heading><u style="single">Production of polyol L1</u></heading><p num="0076">6,467 g of propylene oxide was subjected to a
+reaction by using a potassium hydroxide catalyst in the
+presence of 1,000 g of the initiator 1 at about 110°C,
+and then 1,423 g of ethylene oxide was reacted therewith
+at about 110°C, and the production was completed. After 
+the reaction, a treatment with an adsorbent (synthetic
+magnesium silicate) and filtration were carried out to
+obtain polyol L1 having a hydroxyl value of 24 mgKOH/g.</p><heading>EXAMPLE X16</heading><heading><u style="single">Production of polyol L2</u></heading><p num="0077">5,378 g of propylene oxide was subjected to a
+reaction by using a potassium hydroxide catalyst in the
+presence of 1,000 g of the initiator 1 at about 110°C,
+and then 1,257 g of ethylene oxide was reacted therewith
+at about 110°C, and the production was completed. After
+the reaction, a treatment with an adsorbent (synthetic
+magnesium silicate) and filtration were carried out to
+obtain polyol L2 having a hydroxyl value of 27.9 mgKOH/g.</p><heading>EXAMPLE X17</heading><heading><u style="single">Production of polyol L3</u></heading><p num="0078">4,416 g of propylene oxide was subjected to a
+reaction by using a potassium hydroxide catalyst in the
+presence of 1,000 g of the initiator 1 at about 110°C,
+and then 904 g of ethylene oxide was reacted therewith at
+about 110°C, and the production was completed. After the
+reaction, a treatment with an adsorbent (synthetic
+magnesium silicate) and filtration were carried out to
+obtain polyol L3 having a hydroxyl value of 35.5 mgKOH/g.</p><heading>EXAMPLE X18</heading><heading><u style="single">Production of polyol T</u></heading><p num="0079">5,000 g of an ethylene oxide/propylene oxide mixture
+containing 80 mass% of ethylene oxide was subjected to a 
+reaction by using a potassium hydroxide catalyst in the
+presence of 1,000 g of the initiator 1 at about 120°C,
+and the production was completed. After the reaction, a
+treatment with an adsorbent (synthetic magnesium
+silicate) and filtration were carried out to obtain
+polyol T having a hydroxyl value of 27.9 mgKOH/g. <img id="img-00340001" orientation="unknown" wi="159" img-format="tif" img-content="tb" file="00340001.tif" inline="no" he="230"/><tables><table><tgroup cols="2"><tbody><row><entry align="left">Crosslinking agent a1</entry><entry align="left">Propylene oxide/ethylene oxide addition product of sorbitol, hydroxyl value: 450 mgKOH/g</entry></row><row><entry align="left">Crosslinking agent a2</entry><entry align="left">Diethanolamine</entry></row><row><entry align="left">Catalyst b1</entry><entry align="left">Dipropylene glycol (DPG) solution of triethylenediamine (TEDA L-33, tradename, manufactured by TOSOH CORPORATION)</entry></row><row><entry align="left">Catalyst b2</entry><entry align="left">DPG solution of bis-[(2-dimethylamino)ethyl]ether (TOYOCAT ET, tradename, manufactured by TOSOH CORPORATION)</entry></row><row><entry align="left">Foam stabilizer c</entry><entry align="left">Silicone foam stabilizer (SRX-274C, tradename, manufactured by TORAY SILICONE)</entry></row><row><entry align="left">Cell opener</entry><entry align="left">Polyol T</entry></row><row><entry align="left">Blowing agent</entry><entry align="left">Water</entry></row><row><entry align="left">Polyol N</entry><entry align="left">Polymer dispersed polyol wherein acrylonitrile/styrene copolymer particles (20 mass%) are dispersed in polyol A1 (80 mass%) as a dispersion medium</entry></row><row><entry align="left">Polyol P</entry><entry align="left">Polymer dispersed polyol wherein acrylonitrile/styrene copolymer particles (20 mass%) are dispersed in polyol C (80 mass%) as a dispersion medium</entry></row><row><entry align="left">Polyol Q</entry><entry align="left">Polymer dispersed polyol wherein acrylonitrile/styrene copolymer particles (20 mass%) are dispersed in polyol K(80 mass%) as a dispersion medium</entry></row><row><entry align="left">Polyol R</entry><entry align="left">Polymer dispersed polyol wherein acrylonitrile/styrene copolymer particles (20 mass%) are dispersed in polyol L2 (80 mass%) as a dispersion medium</entry></row><row><entry align="left">Polyol S</entry><entry align="left">Polymer dispersed polyol wherein acrylonitrile/styrene copolymer particles (22 mass%) are dispersed in polyol L3 (78 mass%) as a dispersion medium</entry></row><row><entry align="left">Polyisocyanate</entry><entry align="left">Mixture of TDI-80 (mixture of 2,4-TDI/2,6-TDI=80/20 mass%)/crude MDI=80/20 mass%, isocyanate group content: 44.8 mass% (Coronate 1021, tradename, manufactured by NIPPON POLYURETHANE INDUSTRY CO., LTD.)</entry></row></tbody></tgroup></table></tables></p><p num="0080">A flexible polyurethane foam was produced by using
+materials shown in Table 2 in an amount shown in Table 3 
+or 4. A mixture of all the materials except for
+polyisocyanate (polyol system) and a polyisocyanate
+compound were respectively adjusted to have a liquid
+temperature of 25±1°C, the polyisocyanate compound was
+added to the polyol system, followed by mixing with
+stirring by a high-speed mixer for 5 seconds, and the
+mixture was immediately poured and closed in an aluminum
+mold in a size of 400 mm lengthwise and breadthwise and
+100 mm in height, heated to 60°C. After curing for 6
+minutes, a polyurethane foam was taken out and left to
+stand for at least 24 hours, and then various physical
+properties were measured. The results are shown in
+Tables 3 and 4.</p><p num="0081">The crushing property was evaluated as the
+characteristics of the moldability. The crushing
+property was evaluated by productivity when the foam was
+compressed up to 25% of the thickness of the foam and the
+foam cells were released, immediately after the foam was
+taken out from the mold (400 mm × 400 mm × 100 mm), and
+evaluated in accordance with such evaluation standards
+that ○: good, Δ: rather poor. Further, the load applied
+to the surface of 400 mm × 400 mm at the time of
+compression was evaluated as the crushing load (unit: N).
+Here, the measurement methods of the foam physical
+properties were in accordance with the following methods,
+and with regard to the core density, one cut into a size
+of 100 mm lengthwise and breadthwise and 50 mm in height, 
+having the skin portion removed from the center portion
+of the foam, was used for measurement.</p><p num="0082">With regard to the resonance frequency, there is a
+correlation between the molded foam for test piece having
+a size of 400 mm × 400 mm × 100 mm and an actual molded
+foam for a seat cushion, and the actual molded foam tends
+to have a resonance frequency higher than that of the
+test piece by from about 0.2 to about 1 Hz, depending
+upon e.g. the thickness and shape in general.</p><p num="0083">The degree of unsaturation in Tables 3 and 4 is the
+degree of total unsaturation (unit: meq/g) of the polyol
+or the base polyol in the polymer dispersed polyol.</p><p num="0084">Now, standards used for measurement of the physical
+properties of the flexible foam are shown below.</p><p num="0085">Overall density (unit: kg/m<sup>3</sup>), core density (unit:
+kg/m<sup>3</sup>), 25%-ILD hardness (unit: N/314 cm<sup>2</sup>), core impact
+resilience coefficient (unit: %), tear strength (N/cm),
+tensile strength (kPa), elongation (%), dry heat
+permanent compression set (unit: %) and heat and humidity
+permanent compression set (unit: %) were measured by
+methods in accordance with JIS K6400. Hysteresis loss
+(unit: %) was measured by a method in accordance with
+JASO B407-87. Resonance frequency (unit: Hz) and
+transmissibility at 6 Hz were measured by methods in
+accordance with JASO B407-87 (excitation amplitude: ±2.5
+mm, pressing plate: iron abrasive plate, load: 490 N). <img id="img-00380001" orientation="unknown" wi="164" img-format="tif" img-content="tb" file="00380001.tif" inline="no" he="229"/><img id="img-00390001" orientation="unknown" wi="163" img-format="tif" img-content="tb" file="00390001.tif" inline="no" he="232"/></p><p num="0086">Examples 1 to 11 in Tables 3 and 4 are Examples of
+the present invention. As the polyol (1) produced in
+such a manner that propylene oxide is subjected to a
+reaction continuously in an amount of from 5 to 50 mass%
+adjacent to the initiator by using the double metal
+cyanide complex catalyst, ethylene oxide and propylene
+oxide are randomly reacted therewith, and then ethylene
+oxide is reacted therewith by using an alkali metal
+catalyst, is used as the material, a foam having
+favorable moldability, favorable physical properties such
+as hardness and vibrating property, and favorable
+durability particularly heat and humid permanent
+compression set can be obtained. Particularly in
+Examples 10 and 11, as the polyol T is used as the cell
+opener, the crushing load can be suppressed low, and
+favorable moldability is obtained.</p><p num="0087">Examples 12 to 18 in Table 4 are Comparative
+Examples.</p><p num="0088">In Examples 12 and 18, puncture was formed on the
+foam at the time of crushing treatment, whereby physical
+properties could not be measured.</p><p num="0089">In Examples 13, in order to make up for failure in
+moldability caused by the polyol K used as the material
+produced by using the double metal cyanide complex
+catalyst not having an oxyalkylene random chain, the
+polyol L2 synthesized by using a potassium hydroxide
+catalyst is mixed and used as the material, whereby the 
+degree of total unsaturation of the polyol is high, and
+the durability is insufficient. Further, the moldability
+is not sufficient.</p><p num="0090">In Example 14, the polyol produced with a potassium
+hydroxide catalyst is used, whereby the durability is
+poor.</p><p num="0091">In Example 15, a polyol wherein the oxypropylene
+block chain adjacent to the initiator is 60 mass% based
+on the entire polyol is used, whereby the reactivity with
+the polyisocyanate is insufficient, and the hardness is
+low.</p><p num="0092">In Example 16, a polyol wherein the oxypropylene
+block chain adjacent to the initiator is 4 mass% based on
+the entire polyol is used, whereby the hardness is
+insufficient.</p><p num="0093">In Example 17, at the terminal of the polyol L
+produced by using the double metal cyanide complex
+catalyst, production was not terminated with the reaction
+of ethylene oxide, whereby collapses were generated and a
+foam could not be formed, and physical properties could
+not be measured.</p><p num="0094">By employing a polyol having a specific structure of
+the present invention, a flexible polyurethane foam
+having improved moldability, and favorable physical
+properties such as hardness and vibrating property can be
+obtained. Further, the polyol (1) of the present
+invention is produced by using a double metal cyanide 
+complex catalyst, whereby physical properties such as
+durability particularly heat and humidity permanent
+compression set are also excellent.</p><p num="0095">The entire disclosure of Japanese Patent Application
+No. 2001-218348 filed on July 18, 2001 and Japanese
+Patent Application No. 2002-32839 filed on February 8,
+2002 including specification, claims and summary are
+incorporated herein by reference in its entirety.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A method for producing a polyoxyalkylene polyol which
+comprises subjecting propylene oxide and ethylene oxide
+to ring-opening addition polymerization with an initiator
+in the presence of a catalyst,
+   wherein the polyoxyalkylene polyol is a
+polyoxyalkylene polyol obtained by subjecting propylene
+oxide to ring-opening addition polymerization with an
+initiator in the presence of a double metal cyanide
+complex catalyst to form an oxypropylene block chain,
+subjecting ethylene oxide and propylene oxide to ring-opening
+addition polymerization randomly to form an
+oxyalkylene random chain, changing the catalyst and
+subjecting ethylene oxide to ring-opening addition
+polymerization in the presence of an alkali metal
+catalyst to form an oxyethylene block chain,
+   and the polyoxyalkylene polyol is a polyoxyalkylene
+polyol having a hydroxyl value of from 5 to 56 mgKOH/g, a
+proportion of an initiator residue of at most 25 mass%, a
+proportion of the oxypropylene block chain of from 5 to
+50 mass%, a total oxyethylene group content of from 5 to
+60 mass%, and a ratio of primary hydroxyl groups among
+terminal hydroxyl groups of at least 60 mol%.</claim-text></claim><claim num="2"><claim-text>The method for producing a polyoxyalkylene polyol
+according to Claim 1, wherein in the formation of the
+oxyalkylene random chain, the proportion of ethylene
+oxide to propylene oxide to be subjected to the ring-opening
+addition polymerization is within a range of from
+3/97 to 35/65 in a mass ratio.</claim-text></claim><claim num="3"><claim-text>The method for producing a polyoxyalkylene polyol
+according to Claim 1 or 2, wherein the double metal
+cyanide complex catalyst has a compound of the following
+formula as at least part of organic ligands:
+R1-C(CH3)2(OR0)nOH
+wherein R1 is a methyl group or an ethyl group, R0 is an
+ethylene group or a group having a hydrogen atom of an
+ethylene group substituted with a methyl group or an
+ethyl group, and n is an integer of from 1 to 3.</claim-text></claim><claim num="4"><claim-text>The method for producing a polyoxyalkylene polyol
+according to Claim 1, 2 or 3, wherein the proportion of
+the oxyethylene block chain in the polyoxyalkylene polyol
+is from 3 to 40 mass%.</claim-text></claim><claim num="5"><claim-text>The method for producing a polyoxyalkylene polyol
+according to Claim 1, 2, 3 or 4, wherein the proportion
+of the oxyalkylene random chain in the polyoxyalkylene
+polyol is from 5 to 90 mass%.</claim-text></claim><claim num="6"><claim-text>A method for producing a polymer dispersed polyol,
+which comprises polymerizing a monomer having
+polymerizable unsaturated groups by employing the
+polyoxyalkylene polyol obtained by the production method
+as defined in any one of Claims 1 to 5 as a dispersion
+medium.</claim-text></claim><claim num="7"><claim-text>A method for producing a flexible polyurethane foam
+which comprises reacting a polyol compound and a
+polyisocyanate compound in the presence of a blowing
+agent and a catalyst, wherein as the polyol compound, a
+polyol mixture containing the polyoxyalkylene polyol
+obtained by the production method as defined in any one
+of Claims 1 to 5 and/or the polymer dispersed polyol
+obtained by the production method as defined in Claim 6,
+is used.</claim-text></claim><claim num="8"><claim-text>The method for producing a flexible polyurethane foam
+according to Claim 7, wherein the degree of total
+unsaturation of the polyol compound is at most 0.05 meq/g.</claim-text></claim><claim num="9"><claim-text>The method for producing a flexible polyurethane foam
+according to Claim 7 or 8, wherein a cell opener is added
+to produce the flexible polyurethane foam.</claim-text></claim><claim num="10"><claim-text>The method for producing a flexible polyurethane
+foam according to Claim 7, 8 or 9, wherein the flexible
+polyurethane foam is produced in a sealed mold.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

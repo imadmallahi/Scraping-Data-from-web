@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1426193-A1" country="EP" doc-number="1426193" kind="A1" lang="EN" family-id="32312241" status="new" date-produced="20090516" date="20040609"><bibliographic-data><publication-reference ucid="EP-1426193-A1" status="new" fvid="24080972"><document-id status="new" format="original"><country>EP</country><doc-number>1426193</doc-number><kind>A1</kind><date>20040609</date></document-id></publication-reference><application-reference ucid="EP-03013743-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03013743</doc-number><kind>A</kind><date>20030617</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-30952002-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>30952002</doc-number><kind>A</kind><date>20021203</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/01        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/01        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08L  79/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08L  79/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">B41M   5/00D</classification-symbol><classification-symbol scheme="EC">C08L  79/00</classification-symbol><classification-symbol scheme="EC">C09D  11/00C</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Eine Fixierflüssigkeit verwendendes Tintenstrahldruckverfahren</invention-title><invention-title load-source="ep" status="new" lang="EN">Ink-jet printing method using fixer fluid</invention-title><invention-title load-source="ep" status="new" lang="FR">Méthode d'impression à jet d'encre utilisant un liquide fixateur</invention-title><citations><patent-citations><patcit ucid="EP-1258510-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1258510</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-63299971-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>63299971</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="Y"/></sources></patcit><patcit ucid="US-6485139-B1" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6485139</doc-number><kind>B1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2001060961-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2001060961</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN vol. 013, no. 133 (M-809), 4 April 1989 (1989-04-04) -&amp; JP 63 299971 A (RICOH CO LTD), 7 December 1988 (1988-12-07)</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>HEWLETT PACKARD DEVELOPMENT CO</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Hewlett-Packard Development Company, L.P.</last-name><address><street>20555 S.H. 249</street><city>Houston, TX 77070</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>ANDERSON RICHARD</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MA ZEYING</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>ANDERSON, RICHARD</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MA, ZEYING</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>ANDERSON, RICHARD</last-name><address><street>749 Cody Lane</street><city>Escondido, CA 92025</city><country>US</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MA, ZEYING</last-name><address><street>11980 Ashley Place</street><city>San Diego, CA 92128</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Schoppe, Fritz, Dipl.-Ing.</last-name><address><street>Schoppe, Zimmermann, Stöckeler &amp;amp; Zinkler Patentanwälte Postfach 246</street><city>82043 Pullach bei München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country><country>NL</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep"  status="new" lang="EN"><p>An inkjet printing system for use in offset printing comprises a fixer fluid and
+an ink. The fixer fluid comprises a fixer polymer and a first fluorosurfactant package
+having a fluorosurfactant and a hydrocarbon surfactant. The ink comprises a
+charged dye and a second fluorosurfactant package. Methods for improving print
+quality in offset printing using the inkjet printing system and the fixer fluid are also
+disclosed.
+<img id="img-00000001" orientation="unknown" wi="157" img-format="tif"  img-content="ad"  file="00000001.tif"  inline="no" he="98"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading>FIELD OF THE INVENTION</heading><p num="0001">The present invention relates to an inkjet printing system and, more
+specifically, to a fixer fluid and an ink for use in offset printing.</p><heading>BACKGROUND OF THE INVENTION</heading><p num="0002">The use of inkjet printers in offices and homes has grown
+dramatically in recent years. The growth can be attributed to drastic reductions in
+cost of the inkjet printers and substantial improvements in print resolution and overall
+print quality of the printed images. With the success in home and office applications,
+inkjet printing is presently being adapted for commercial printing applications, such
+as for printing brochures, magazines, or catalogs. Currently, commercial printing is
+performed by a variety of techniques, such as rotogravure printing, screen printing,
+letterpress, or flexography. However, these printing techniques are time consuming
+and inefficient because they require individual templates, such as plates, to be
+produced. Therefore, it is generally only economical to commercially print an item
+when large volumes are needed, such as when more than 1000 items are needed.
+Commercial printing uses different print media than inkjet printing, which is typically
+done on plain paper. In contrast, commercial printing uses glossy, smooth print
+media.</p><p num="0003">Commercial print media are smooth and glossy due to a nonporous
+coating on the surface of the media. The nonporous coating is a hydrophobic
+material, such as a hydrophobic polymer. Since this coating is hydrophobic, inks
+used in commercial printing are typically oil-based. In contrast, the majority of inks
+used in inkjet printing are aqueous-based. These inkjet inks are generally not 
+compatible with the existing commercial print media because the aqueous-based
+inkjet inks do not penetrate into the nonporous coating. Therefore, in order to print
+commercial volumes using inkjet printing, modified inkjet inks for use on commercial
+print media have been developed. However, images printed with these inkjet inks
+have reduced resolution, durability, and print quality.</p><p num="0004">An aqueous inkjet ink that has been disclosed includes an ink
+colorant and at least one nonionic surfactant having a hydrophobic/lipophilic balance
+("HLB") value between 4 and 14. Nonionic surfactants used in the inks include
+TRITON®, SILWET®, SURFYNOL®, TERGITOL®, BRIJ®, FLUORAD®, and
+ZONYL® compounds.</p><p num="0005">Specialty print media have also been developed to solve the
+compatibility problems between hydrophobic media and aqueous based inks.
+However, these specialty print media are generally more expensive than plain paper
+or existing commercial print media.</p><p num="0006">Due to the cost and efficiency limitations of other printing techniques,
+commercial printing using inkjet printers is a rapidly developing area. The term
+"offset printing" or "offset market" is used herein to refer to commercial printing using
+inkjet printing, such as digital printing. Offset printing is used by businesses to print
+commercial volumes of printed materials, such as brochures, magazines, or
+catalogs. The print media used in offset printing, referred to herein as offset media,
+are nonporous in comparison to plain paper. The offset medium has a coating on its
+top surface, which provides smoothness, increased opacity, and ink penetration
+resistance.</p><p num="0007">The large volumes of items that are printed in offset printing require
+high speed of the printing process. Reliable printer pens that do not need frequent
+servicing are also necessary because they contribute to the overall speed of the
+printing process. To improve the reliability of the printer pens and improve the speed
+of the printing process, inkjet inks used in offset printing must not puddle on a
+surface of a printhead, such as the orifice plate. Puddling is related to the ink's
+viscosity, with low-viscosity inks tending to puddle on the orifice plate and cause
+drop misdirectionality, ink accumulations on the orifice plate, and service difficulties.
+To reduce puddling, solutions that increase the viscosity of the ink have been
+proposed. For example, adding high molecular weight surfactants, polymers, or 
+oligomers to the ink has been suggested. However, these additives typically have a
+deleterious effect on print quality and durability, such as waterfastness and smear.</p><p num="0008">To improve print quality and durability, some printing techniques
+have used a two-part printing system that utilizes a fixer fluid and an ink. In
+combination, the fixer fluid and ink improve the durability and image quality of the
+printed image. The fixer fluid and ink are deposited on the print medium by either
+under- or over-printing. In under-printing, the fixer fluid is deposited on the print
+medium before the desired image is printed with the ink. In over-printing, the fixer
+fluid is deposited over the ink. When the fixer fluid and ink are both present on the
+print medium, a charged dye in the ink combines with an oppositely charged fixer
+polymer in the fixer fluid, thereby fixing the dye to the print medium. For example, an
+anionic dye in the ink binds with a cationic fixer polymer in the fixer fluid. The
+cationic fixer polymer acts as a bulky, multivalent counterion to the anionic dye,
+thereby reducing the solubility and mobility of the dye. Inversely, a cationic dye in
+the ink binds with an anionic fixer polymer in the fixer fluid.</p><p num="0009">The use of a fixer fluid and an ink in inkjet printing is a relatively new
+concept. An inkjet ink printing system that utilizes an ink and a fixer fluid has been
+disclosed. The ink includes a water-soluble dye, a vesicle-forming surfactant, a
+polymeric binder, and, optionally, a spreading agent that is compatible with the dye-vesicle-binder
+system. The spreading agent is a fluorocarbon or silicon spreading
+agent or a hydrocarbon surfactant. The fixer fluid includes a polymer having a
+charge opposite to the charge of the vesicles in the ink and, optionally, spreading
+agents. The spreading agents are nonionic surfactants and include a mixture of a
+hydrocarbon surfactant and a fluorinated surfactant. By using this inkjet ink printing
+system, improved chroma, color-to-color bleed, and edge acuity properties are
+achieved.</p><p num="0010">Another process discloses an inkjet printing process to improve
+waterfastness. The process comprises applying a fixing composition and an ink to a
+substrate, such as a coated, offset type paper. The fixing composition includes
+polymonoguanides ("PMGs") or polyhexamethylene biguanide ("PHMB").
+Waterfastness was improved in those printing processes that utilized PMGs in the
+fixing composition relative to the fixing compositions that included PHMB. PMGs 
+have also been used in coating compositions for recording material, as disclosed in
+International Patent Application WO/0245970.</p><p num="0011">Another inkjet printing method using PHMB was disclosed. In the
+method, a substrate was treated with a PHMB-containing solution before, during, or
+after inkjet printing to improve the waterfastness of printed images. The PHMB-containing
+solution was applied to the substrate by dip coating, reverse roller
+coating, K-bar coating, spraying, or using an inkjet printer. The PHMB-containing
+solution included optional ingredients, such as crosslinkers, surfactants, or drying-time
+accelerants.</p><p num="0012">PHMB has also been used to fix concealed information to a
+substrate. The concealed information is subsequently detectable by treating or
+washing the substrate.</p><p num="0013">To improve the quality of images printed on offset media, it would be
+desirable to produce an inkjet printing system for use in offset printing. Specifically,
+it would be desirable to produce a fixer fluid and an ink having improved puddling,
+bloom, and bleed properties, in addition to providing improved durability and print
+quality.</p><heading>BRIEF SUMMARY OF THE INVENTION</heading><p num="0014">The present invention relates to an inkjet printing system for use in
+offset printing. The inkjet printing system comprises a fixer fluid and an inkjet ink.
+The fixer fluid comprises a fixer polymer and a first fluorosurfactant package.
+Preferably, the first fluorosurfactant package comprises a fluorosurfactant and a
+hydrocarbon surfactant. The ink comprises a charged dye and a second
+fluorosurfactant package. Preferably, the second fluorosurfactant package
+comprises a fluorosurfactant and one or two hydrocarbon surfactants.</p><p num="0015">A method for improving print quality in offset printing is also
+disclosed. The method comprises providing the fixer fluid, which comprises the fixer
+polymer and the first fluorosurfactant package, and providing the ink, which
+comprises the charged dye and the second fluorosurfactant package. The first
+fluorosurfactant package comprises a fluorosurfactant and a hydrocarbon surfactant 
+while the second fluorosurfactant package comprises a fluorosurfactant and two
+hydrocarbon surfactants. The ink and fixer fluid are deposited on an offset medium.</p><heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading><p num="0016">While the specification concludes with claims particularly pointing out
+and distinctly claiming that which is regarded as the present invention, the present
+invention can be more readily ascertained from the following description of the
+several embodiments of the invention when read in conjunction with the
+accompanying drawings in which:</p><p num="0017">FIG. 1A illustrates the puddling exhibited by a cyan ink lacking a
+second fluorosurfactant package;</p><p num="0018">FIG. 1 B illustrates the puddling exhibited by a cyan ink having a
+second fluorosurfactant package;</p><p num="0019">FIG. 2A illustrates the puddling exhibited by a magenta ink lacking
+the second fluorosurfactant package;</p><p num="0020">FIG. 2B illustrates the puddling exhibited by a magenta ink that
+includes a second fluorosurfactant package;</p><p num="0021">FIG. 3A illustrates the puddling exhibited by a yellow ink lacking the
+second fluorosurfactant package;</p><p num="0022">FIG. 3B illustrates the puddling exhibited by a yellow ink that has a
+second fluorosurfactant package;</p><p num="0023">FIG. 4A illustrates the optical density and edge acuity of an inkjet
+printing system lacking the first and second fluorosurfactant packages;</p><p num="0024">FIG. 4B illustrates the optical density and edge acuity of an inkjet
+printing system having the second fluorosurfactant package;</p><p num="0025">FIG. 4C illustrates the optical density and edge acuity of an inkjet
+printing system having the first fluorosurfactant package;</p><p num="0026">FIG. 5A illustrates the banding property of an ink lacking the second
+fluorosurfactant package; and</p><p num="0027">FIG. 5B illustrates the banding property of an ink having the second
+fluorosurfactant package. </p><heading>DETAILED DESCRIPTION OF THE INVENTION</heading><p num="0028">An inkjet printing system including a fixer fluid and an ink for use in
+offset printing is disclosed. The fixer fluid is used with the ink to achieve improved
+durability and print quality on an offset medium. The fixer fluid has a fixer polymer
+and at least one surfactant, which is referred to herein as a first fluorosurfactant
+package. Preferably, the first fluorosurfactant package has at least two surfactants,
+a fluorosurfactant and a hydrocarbon surfactant. The ink includes a charged dye
+and at least one surfactant, which is referred to herein as a second fluorosurfactant
+package. Preferably, the second fluorosurfactant package has a fluorosurfactant
+and at least two hydrocarbon surfactants. Preferably, the first and second
+fluorosurfactant packages have different fluorosurfactants and hydrocarbon
+surfactants. The ink exhibits improved puddling, bloom, and bleed properties in
+comparison to an ink lacking the second fluorosurfactant package. In addition,
+improved edge acuity and high resolution are achieved when the fixer fluid and ink
+are printed on an offset medium.</p><p num="0029">These improvements in puddling, bloom, bleed, edge acuity, and
+resolution are also achieved in the inkjet printing system when only one of the fixer
+fluid or ink has the first surfactant package or the second surfactant package,
+respectively. In other words, these improvements are achieved where either the
+fixer fluid has the first surfactant package or the ink has the second surfactant
+package.</p><p num="0030">The amounts of the components in the fixer fluid and ink are
+expressed in weight percent ("wt %") or in grams of the total weight of the ink
+composition. The purity of all components is that used in normal commercial
+practice for inkjet inks.</p><p num="0031">The inkjet printing system including the fixer fluid and ink described
+herein may be used to improve the print quality and durability of an image printed by
+offset printing. The inkjet printing system may be used to print on offset media.
+Since the fixer fluid controls bloom and bleed on offset media, ink formulations may
+be released from the constraints of solving these problems. </p><heading>Fixer Fluid</heading><p num="0032">The fixer fluid may be an aqueous-based, clear fluid that includes a
+fixer polymer and a first fluorosurfactant package. The first fluorosurfactant package
+has at least one surfactant. The fixer fluid may optionally have components known
+in the art, such as co-solvents, humectants, pH adjusting agents, antioxidants, and
+antibacterial agents, depending on the desired properties of the fixer fluid. The co-solvents
+may include, but are not limited to, aliphatic alcohols, aromatic alcohols,
+diols, glycol ethers, poly(glycol) ethers, cyclic amides, caprolactams, formamides,
+acetamides, and long chain alcohols. Examples of co-solvents employed in the
+practice of this invention include, but are not limited to, primary alcohols of 30
+carbons or less, primary aromatic alcohols of 30 carbons or less, secondary aliphatic
+alcohols of 30 carbons or less, secondary aliphatic alcohols of 30 carbons or less,
+1,3-alkyldiols of 30 carbons or less, alkyltriols of 30 carbons or less, 1,□-alcohols of
+30 carbons or less, ethylene glycol alkyl ethers, propylene glycol alkyl ethers,
+poly(ethylene glycol) alkyl ethers, higher homologs of poly(ethylene glycol) alkyl
+ethers, poly(propylene glycol) alkyl ethers, higher homologs of poly(propylene glycol)
+alkyl ethers, N-alkyl caprolactams, unsubstituted caprolactams, substituted
+formamides, unsubstituted formamides, substituted acetamides, and unsubstituted
+acetamides. For instance, the co-solvents used in the present invention may be 2-pyrrolidinone,
+1,2-hexanediol, N-methyl pyrrolidone, 1,5-pentanediol, diethylene
+glycol, 1,3-(2-methyl)-propanediol, 1,3,5-(2-methyl)-pentanetriol, tetramethylene
+sulfone, 3-methoxy-3-methylbutanol, glycerol, 3-pyridylcarbinol, pentaerythritol, or
+1,2-alkyldiols, or mixtures thereof.</p><p num="0033">The fixer polymer may be a charged polymer that binds with an
+oppositely charged dye in the ink. Preferably, the fixer polymer is cationic while the
+dye is anionic. The fixer polymer may be a cationic polymer, such as a polyamine.
+The cationic fixer polymer may include, but is not limited to, polyethylene imine
+("PEI"), polyallylamine, polyvinyl pyrrolidone, a polymer of hexamethylene guanide
+("HMG"), a polymer of hexamethylene biguanide ("HMB"), or poly(hexamethylene
+biguanide) ("PHMB"). Preferably, the fixer polymer is PEI, PHMB, or a copolymer of
+HMB and HMG. PHMB is available from Avecia Ltd. (Manchester, England). The
+fixer polymer may be present at a range of approximately 0.2-10 wt %. Preferably, 
+the fixer polymer is present at approximately 0.5-7 wt %. Most preferably, the fixer
+polymer is present at approximately 1-4 wt %.</p><p num="0034">The fixer fluid may also include an organic or inorganic acid, which
+may convert the fixer polymer into a quaternized form. Preferably, the organic acids
+are citric acid, succinic acid, phosphoric acid, or acetic acid and the inorganic acid is
+hydrochloric acid. The organic acid may be present at approximately 0.05-8 wt % of
+the total weight of the ink composition. The organic or inorganic acid may be a
+counterion to the fixer polymer. Preferably, the counterion is acetate, citrate,
+succinate, phosphate, chloride, or nitrate. The fixer fluid may also include both an
+organic and an inorganic acid.</p><p num="0035">The first fluorosurfactant package may have at least one surfactant
+such as a fluorosurfactant, a hydrocarbon surfactant, a mixture of fluorosurfactants,
+a mixture of hydrocarbon surfactants, or a mixture of at least one fluorosurfactant
+and at least one hydrocarbon surfactant. If more than one surfactant is present, the
+total amount of the first fluorosurfactant package present in the fixer fluid is the
+amount of fluorosurfactant and hydrocarbon surfactant. The total amount of the first
+fluorosurfactant package may be approximately 0.06-4 wt % of the total weight of the
+ink composition. Preferably, the total amount of the first fluorosurfactant package is
+approximately 1 wt %. The fluorosurfactant may be present at approximately 0.01-1.5
+wt % and the hydrocarbon surfactant may be present at approximately 0.05-2.5
+wt %. Preferably, the fluorosurfactant is present at approximately 0.2 wt % and the
+hydrocarbon surfactant is present at approximately 0.4-1.5 wt %. While the
+examples described below indicate that one fluorosurfactant and one hydrocarbon
+surfactant are used in the first fluorosurfactant package, it is also contemplated that
+more than one fluorosurfactant and/or more than one hydrocarbon surfactant may be
+used within the scope of the invention.</p><p num="0036">The fixer polymer and the first fluorosurfactant package may have
+the same charge or the first fluorosurfactant package may be of neutral charge
+(nonionic). Since the fixer polymer is preferably cationic (because the dye in the ink
+is preferably anionic), the first fluorosurfactant package is cationic or nonionic. If one
+surfactant is used in the first fluorosurfactant package, that surfactant may be
+cationic or nonionic. In addition, more than one surfactant may also be used in the
+first fluorosurfactant package. For example, additional surfactants may be used to 
+increase the solubility of a surfactant that is insoluble in solvents conventionally used
+in the fixer fluid. If more than one surfactant is used, each of the surfactants may be
+cationic or nonionic. While it is also contemplated that the solubility of the surfactant
+may be increased by changing the solvent, it is preferable that additional surfactants
+be used to increase the solubility.</p><p num="0037">When more than one surfactant is used in the first fluorosurfactant
+package, one of the surfactants may be a fluorosurfactant while the other surfactant
+may be a hydrocarbon surfactant. In this situation, either of the fluorosurfactant or
+the hydrocarbon surfactant may be cationic or nonionic. For example, if the fixer
+polymer in the fixer fluid is cationic and the fluorosurfactant is cationic, the
+hydrocarbon surfactant may be cationic or nonionic. If the fixer polymer is cationic
+and the fluorosurfactant is nonionic, the hydrocarbon surfactant may be cationic or
+nonionic. Preferably, the fluorosurfactant is cationic or nonionic and the hydrocarbon
+surfactant is nonionic.</p><p num="0038">Cationic and nonionic fluorosurfactants that may be used in the first
+fluorosurfactant package include, but are not limited to, cationic and nonionic
+fluoropolymers from the ZONYL® series of fluoropolymers. The ZONYL® series of
+fluoropolymers are available from DuPont (Wilmington, DE) and include
+polytetrafluoroethylene ("PTFE"). However, other cationic and nonionic
+fluorosurfactants known in the art may also be used.</p><p num="0039">In the ZONYL® series of fluoropolymers, ZONYL® FSO, ZONYL®
+FSN, and ZONYL® FS-300 are exemplary nonionic fluorosurfactants that may be
+used in the present invention and ZONYL® FSD is an exemplary cationic
+fluorosurfactant that may be used in the present invention. ZONYL® FSO is an
+ethoxylated nonionic fluorosurfactant having the structure RfCH<sub>2</sub>CH<sub>2</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub>x</sub>H,
+where Rf is F(CF<sub>2</sub>CF<sub>2</sub>)<sub>y</sub>, x is 0 to approximately 15, and y is 1 to approximately 7. As
+supplied, ZONYL® FSO has 50% solids. ZONYL® FSN is a water soluble,
+ethoxylated non-ionic fluorosurfactant that has the structure
+RfCH<sub>2</sub>CH<sub>2</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub>x</sub>H, where Rf is F(CF<sub>2</sub>CF<sub>2</sub>)<sub>y</sub>, x is 0 to approximately 25, and y
+is 1 to approximately 9. ZONYL® FSN is supplied having 40% solids. ZONYL® FS-300
+is a nonionic fluorosurfactant having the structure RfCH<sub>2</sub>CH<sub>2</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub>z</sub>H,
+where X&lt;Y&lt;Z. As supplied, ZONYL® FS-300 has 50% solids. ZONYL® FSD is a
+cationic fluorosurfactant and has the structure F(CF<sub>2</sub>CF<sub>2</sub>)<sub>1-7</sub>-alkyl-N<sup>+</sup>R<sub>3</sub>Cl<sup>-</sup>. ZONYL® 
+FSD is supplied having 30% solids. Preferably, the fluorosurfactant used in the fixer
+fluid is ZONYL® FSN.</p><p num="0040">The hydrocarbon surfactant used in the first fluorosurfactant package
+may be a cationic or nonionic surfactant. Preferably, the hydrocarbon surfactant is
+nonionic. The hydrocarbon surfactant may include a nonionic hydrocarbon
+surfactant from the TETRONIC® series available from BASF Canada (Toronto,
+Ontario), the TERGITOL® series available from Union Carbide Co. (Houston, TX),
+the BRIJ® series available from ICI Americas (Wilmington, DE), the SURFYNOL®
+series available from Air Products (Allentown, PA), or the TRITON® series available
+from Rohm &amp; Haas (Philadelphia, PA). The TETRONIC® surfactants are
+tetrafunctional block copolymers of propylene oxide, ethylene oxide, and ethylene
+diamine. The TERGITOL® surfactants are alkyl polyethylene oxides. The BRIJ®
+surfactants are polyethoxylated alcohols and esters. The SURFYNOL® surfactants
+are acetylenic polyethylene oxides. The TRITON® surfactants are alkyl phenyl
+polyethylene oxides.</p><p num="0041">TETRONIC® 701, TERGITOL® 15-S-5, TERGITOL®15-S-7, BRIJ®
+30, TRITON® X-45, or SURFYNOL® 440 may be used as the hydrocarbon
+surfactant in the first fluorosurfactant package. Preferably, BRIJ® 30, which has the
+structure CH<sub>3</sub>(CH<sub>2</sub>)<sub>10</sub>CH<sub>2</sub>(OCH<sub>2</sub>CH<sub>2</sub>)<sub>4</sub>OH and the chemical name polyoxyethylene
+lauryl ether, is used as the hydrocarbon surfactant.</p><p num="0042">The fixer fluid may be prepared by direct mixing of the fixer polymer,
+the fluorosurfactant, the hydrocarbon surfactant, and the other components of the
+fixer fluid, as known in the art. The pH of the fixer fluid may be adjusted to increase
+the solubility of the components of the fixer fluid.</p><heading>Ink</heading><p num="0043">The ink may have a charged dye and a second fluorosurfactant
+package. The charged dye may have a charge opposite to the charge of the fixer
+polymer in the fixer fluid. The charged dye may include Acid, Direct, Food, Mordant,
+and Reactive dyes, which are commonly used in inkjet inks. Preferably, the charged
+dye is anionic and the charge of the dye may be provided by a nitroso, nitro, azo,
+stilbene, triarylmethane, xanthene, quinoline, thiazole, azine, oxazine, thiazine, 
+aminoketone, anthraquinone, indigo, or phthalocyanine compound. The charged
+dye may include, but is not limited to, C.I. Food Black 2, C.I. Direct Black168, and
+C.I. Direct Black 22, C.I. Acid Red 18, C.I. Acid Red 27, C.I. Acid Red 52, C.I. Acid
+Red 289, C.I. Acid Yellow 23, and C.I. Direct Blue 199, C.I. Acid Blue 9, Direct Blue
+169, Direct Red 9, Direct Red 227, Direct Yellow 86, Direct Blue 86, Acid Blue 185,
+and their monovalent alkali ions such as Na<sup>+</sup>, Li<sup>+</sup>, Cs<sup>+</sup>, and their NH<sub>4</sub><sup>+</sup>, tetramethyl
+ammonium, and substituted ammonium salts.</p><p num="0044">The charged dye may be present in an amount sufficient to provide
+the desired color intensity of the printed ink. The charged dye may be present in a
+range from approximately 0.1 to 15 wt %, and preferably from approximately 0.5 to
+approximately 10 wt %. The amount of the anionic dye is not critical to the invention
+and, therefore, may vary depending on the desired color intensity. The ink may also
+include components known in the art, such as co-solvents, humectants, pH adjusting
+agents, antioxidants, and antibacterial agents depending on the desired properties of
+the ink. The ink may be optimized for print quality, throughput, durability, and pen
+reliability, as known in the art.</p><p num="0045">The second fluorosurfactant package may include at least one
+surfactant, which may be a fluorosurfactant, a hydrocarbon surfactant, a mixture of
+fluorosurfactants, a mixture of hydrocarbon surfactants, or a mixture of at least one
+fluorosurfactant and at least one hydrocarbon surfactant. Preferably, the second
+fluorosurfactant package has a fluorosurfactant and one or two hydrocarbon
+surfactants. The total amount of the second fluorosurfactant package present in the
+ink may be approximately 0.06-4 wt % of the total weight of the ink composition. The
+total amount of the second fluorosurfactant package is the amount of fluorosurfactant
+and hydrocarbon surfactant, if more than one surfactant is present. Preferably, the
+total amount of the second fluorosurfactant package is approximately 2.2 wt %. The
+fluorosurfactant may be present at approximately 0.06-2 wt % and the amount of the
+hydrocarbon surfactant(s) may be approximately 0.05-2.5 wt %. Preferably, the
+fluorosurfactant is present at approximately 0.2 wt % and the hydrocarbon
+surfactant(s) is present at approximately 0.4-1.5 wt %. While the examples
+described below illustrate that one fluorosurfactant and two hydrocarbon surfactants
+are used in the ink, it is also contemplated that more than one fluorosurfactant and
+more than two hydrocarbon surfactants may be used. </p><p num="0046">The second fluorosurfactant package may have the same charge as
+the charge of the dye or may be nonionic. Where the dye is preferably anionic, the
+second fluorosurfactant package is preferably anionic or nonionic. If one surfactant
+is used in the second fluorosurfactant package, that surfactant may be anionic or
+nonionic. For example, if a fluorosurfactant is used in the second fluorosurfactant
+package, the fluorosurfactant may be anionic or nonionic. The second
+fluorosurfactant package may also include more than one surfactant. For example, if
+the fluorosurfactant is insoluble in solvents conventionally used in the ink, it may be
+necessary to add at least one hydrocarbon surfactant to increase the
+fluorosurfactant's solubility. While it is contemplated that the solubility of the
+fluorosurfactant may be increased by changing the solvent, it is preferable that a
+hydrocarbon surfactant(s) be added to increase the solubility.</p><p num="0047">When more than one surfactant is used in the second
+fluorosurfactant package, the surfactants may be a fluorosurfactant and at least one
+hydrocarbon surfactant. In this situation, either of the fluorosurfactant and the
+hydrocarbon surfactant may be anionic or nonionic. For example, if the charged dye
+is anionic and the fluorosurfactant is anionic, the hydrocarbon surfactant may be
+anionic or nonionic. If the charged dye is anionic and the fluorosurfactant is
+nonionic, the hydrocarbon surfactant may be anionic or nonionic. Preferably, the
+fluorosurfactant is anionic and the hydrocarbon surfactant is nonionic.</p><p num="0048">The first and second fluorosurfactant packages may be the same
+fluorosurfactant(s) and hydrocarbon surfactant(s) or may be different
+fluorosurfactant(s) and hydrocarbon surfactant(s). Preferably, the first and second
+fluorosurfactant packages have different fluorosurfactant(s) and hydrocarbon
+surfactant(s).</p><p num="0049">If a fluorosurfactant is used in the second fluorosurfactant package,
+the fluorosurfactant may be an anionic or nonionic fluorosurfactant. The
+fluorosurfactant may be an anionic or nonionic fluoropolymer from the ZONYL®
+series of fluoropolymers. For instance, ZONYL® FSA, ZONYL® FSP, ZONYL®
+9361, ZONYL® FSE, ZONYL® FSJ, ZONYL® TBS, or ZONYL® FS-62 may be used
+as the anionic fluorosurfactant. ZONYL® FSA has the structure
+RfCH<sub>2</sub>CH<sub>2</sub>SCH<sub>2</sub>CH<sub>2</sub>COO<sup>-</sup>Li<sup>+</sup>, where Rf is CF<sub>3</sub>CF<sub>2</sub>(CF<sub>2</sub>CF<sub>2</sub>)<sub>x</sub>, wherein x is 2-4.
+ZONYL® FSA is supplied having 25% solids. Preferably, the anionic fluorosurfactant 
+is ZONYL® FSA. However, other anionic or nonionic fluorosurfactants known in the
+art may also be used.</p><p num="0050">If at least one hydrocarbon surfactant is used in the second
+fluorosurfactant package, the hydrocarbon surfactant may be anionic or nonionic.
+The hydrocarbon surfactant may be an anionic or nonionic hydrocarbon surfactant
+from the TETRONIC®, TERGITOL®, BRIJ®, SURFYNOL®, or TRITON® series of
+surfactants, which were previously discussed. The hydrocarbon surfactant may also
+be octanol, sodium xylene sulfonate ("SXS"), an anionic surfactant from the
+DOWFAX® series of surfactants (available from Dow Chemical Company (Midland,
+MI)), an anionic or nonionic surfactant from the AEROSOL® series of surfactants
+(available from Cytec Industries, Inc. (West Paterson, NJ)), or an anionic or nonionic
+surfactant from the NEODOL® series of surfactants (available from Shell Chemicals,
+LP (Houston, TX)).</p><p num="0051">The DOWFAX® series of surfactants are alkylated diphenyl oxide
+disulfonates and include numerous anionic compounds. Anionic or nonionic
+surfactants from the AEROSOL® series of surfactants include, but are not limited to,
+sulfosuccinate compounds. The anionic or nonionic surfactants from the NEODOL®
+series include, but are not limited to, high purity, high linearity primary alcohols.
+These primary alcohols typically have 75-85% by weight normal alcohols.</p><p num="0052">The hydrocarbon surfactant may include, but is not limited to,
+octanol, SXS, TETRONIC® 304, TETRONIC® 701, TERGITOL® 15-S-5,
+TERGITOL® 15-S-7, BRIJ® 30, TRITON® X-45, TRITON® X-200, AEROSOL® OT,
+SURFYNOL® 440, SURFYNOL® CT-111, SURFYNOL® SEF, DOWFAX® 2A1,
+DOWFAX® 8390, NEODOL® 1-9, NEODOL® 91-6, and NEODOL® 45-7.
+Preferably, the hydrocarbon surfactant is a mixture of AEROSOL® OT and
+TRITON® X-45. AEROSOL® OT is dioctyl sodium sulfosuccinate, which has the
+chemical structure of C<sub>20</sub>H<sub>37</sub>O<sub>7</sub>NaS and TRITON® X-45 is octoxynol-5.</p><p num="0053">The ink may be prepared by direct mixing of the charged dye, the
+fluorosurfactant, the at least one hydrocarbon surfactant, and the other components
+of the ink, as known in the art. The first and second fluorosurfactant packages of the
+fixer fluid and ink control puddling, thereby expanding freedom for ink formulation
+and pen architectural design. For example, solvents and fixer polymers that were
+known to contribute to puddling, but that had other desirable attributes, may be 
+reconsidered for use in fixer fluids. As previously discussed, the charge of the dye in
+the ink is of an opposite charge to the charge of the fixer polymer in the fixer fluid.
+For example, if the dye is anionic, the fixer polymer is cationic. Conversely, if the
+dye is cationic, the fixer polymer is anionic. Preferably, the dye is anionic while the
+fixer polymer is cationic. Without being tied to a single theory, it is believed that
+when the ink and fixer fluid are deposited on the offset medium, the cationic fixer
+polymer binds with the anionic dye, thereby fixing the dye to the offset medium.</p><p num="0054">By applying the fixer fluid and the ink to the offset medium, the print
+quality and durability of offset printing may be improved. The fixer fluid may be
+deposited on the offset medium using a conventional inkjet printer. In order to
+accommodate the fixer fluid, the inkjet printer may be modified to include an
+additional inkjet pen, referred to as a fixer pen, which is similar to a conventional
+inkjet pen used to print color or black inks. This modification is known in the art and,
+therefore, is not described herein. The fixer fluid may be under-printed or over-printed
+relative to the ink. Preferably, the fixer fluid is over-printed. It is also
+contemplated that the fixer fluid and ink may be deposited at approximately the same
+time or that multiple layers of each of the fixer fluid and the ink may be deposited.
+The ink may be deposited on the offset medium using a conventional inkjet pen.</p><p num="0055">The offset medium has a nonporous coating on a surface of the
+offset medium. The offset medium may include, but is not limited to, LUSTRO™
+Laser gloss (available from S.D. Warren), KROMCOTE™ (available from Champion
+Papers), UTOPIA™ Dull (available from Appleton Papers), CAROLINA™ Cover,
+Hammermill media, and Cascade media.</p><heading>Examples</heading><p num="0056">Inks and fixer fluids having various fluorosurfactant packages, dyes
+and/or polymers were formulated and different qualities of the formulated inks and
+fixer fluids were measured in an effort to assess the benefits attained in the practice
+of the invention, such as, puddling, dry time, area fill uniformity, optical density, water
+durability, cloud point, decap, banding, bloom, bleed edge acuity. Furthermore, the
+formulated inks and fixer fluids were evaluated to compare area fill uniformity of
+images when fixer fluids were over-printed and under-printed relative to the ink. </p><heading>Example 1</heading><heading>Fixer Fluids Having The First Fluorosurfactant Package And PHMB</heading><p num="0057">The components of the fixer fluids are shown in Table 1.
+<tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">Components Of The Fixer Fluids</entry></row><row><entry align="left">Ingredient</entry><entry align="left">Wt %</entry></row><row><entry align="left">DOWANOL® PnP</entry><entry align="left">5</entry></row><row><entry align="left">2-pyrrolidinone</entry><entry align="left">6</entry></row><row><entry align="left">Alkyl Diol</entry><entry align="left">6.5</entry></row><row><entry align="left">PHMB</entry><entry align="left">5</entry></row><row><entry align="left">First Fluorosurfactant Package Fluorosurfactant, as supplied Hydrocarbon surfactant, as supplied</entry><entry align="left">See Table 2</entry></row><row><entry align="left">DDI Water</entry><entry align="left">balance</entry></row><row><entry align="left">Total</entry><entry align="left">100</entry> </row><row><entry nameend="2" align="left" namest="1">Adjust pH to 4 with KOH or HCl</entry></row></tbody></tgroup> </table> </tables> </p><p num="0058">The only difference between the various formulated fixer fluids
+described in Table 1 was the surfactants used in the first fluorosurfactant package.
+The first fluorosurfactant package included a fluorosurfactant and a hydrocarbon
+surfactant. ZONYL® FSO, ZONYL® FSN, ZONYL® FS-300, or ZONYL® FSD was
+used as the fluorosurfactant while TETRONIC® 701, TERGITOL® 15-S-5,
+TERGITOL® 15-S-7, BRIJ® 30, TRITON® X-45, or SURFYNOL® 440 was used as
+the hydrocarbon surfactant. The first fluorosurfactant package was present at
+approximately 1 wt %, with the fluorosurfactant present at approximately 0.3-0.8 wt
+% and the hydrocarbon surfactant present at approximately 0.3-0.6 wt %. The
+combinations of fluorosurfactant and hydrocarbon surfactant that were formulated
+are shown in Table 2, along with the amounts of each component and identifying
+numbers FX-1 through FX-24. To act as controls, fixer fluids with no surfactants
+(FX-26), with PHMB as the fixer polymer and SILWET® L7607 as the surfactant (FX-25),
+and with PEI (20%) as the fixer polymer and SILWET® L7607 as the surfactant
+(FX-0) were also produced. <img id="img-00160001" orientation="unknown" wi="160" img-format="tif" img-content="tb" file="00160001.tif" inline="no" he="225"/><img id="img-00170001" orientation="unknown" wi="60" img-format="tif" img-content="tb" file="00170001.tif" inline="no" he="226"/></p><p num="0059">The components listed in Tables 1 and 2 were directly mixed to
+produce each fixer fluid.</p><heading>Example 2</heading><heading>Fixer Fluids Having The First Fluorosurfactant Package And Additional Fixer
+Polymers</heading><p num="0060">Fixer fluids having additional cationic polyamines as the fixer
+polymer are prepared. These fixer fluids have the components listed in Table 1,
+except that the fixer polymer is changed from PHMB to PEI or a copolymer of HMB
+and HMG.</p><heading>Example 3</heading><heading>Inks Having The Second Fluorosurfactant Package And An Anionic Dye</heading><p num="0061">The components of the inks are shown in Table 3. The inks also
+included an anionic dye that was present at approximately 0.5 to 10 wt %.
+<tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">Components Of The Inks</entry></row><row><entry align="left">Ingredient</entry><entry align="left">Wt %</entry></row><row><entry align="left">2-pyrrolidinone</entry><entry align="left">6</entry></row><row><entry align="left">DOWANOL® PnP</entry><entry align="left">5</entry></row><row><entry align="left">Alkyl Diol</entry><entry align="left">6.5</entry></row><row><entry align="left">Second Fluorosurfactant Package Fluorosurfactant, as supplied Hydrocarbon surfactant(s), as supplied</entry><entry align="left">See Table 4</entry></row><row><entry align="left">DDI Water</entry><entry align="left">Balance</entry></row><row><entry align="left">Total</entry><entry align="left">100</entry></row><row><entry nameend="2" align="left" namest="1">Adjust pH to 7.5 with NaOH or HNO<sub>3</sub></entry></row></tbody></tgroup></table></tables></p><p num="0062">The inks included the second fluorosurfactant package, which had
+a fluorosurfactant and at least one hydrocarbon surfactant. These inks were
+formulated with inks having a mixture of hydrocarbon surfactants. The only
+difference between the various formulated inks described in Table 3 was the
+mixture of surfactants used. Specifically, ZONYL® FSA, an anionic
+fluorosurfactant, was tested with various hydrocarbon surfactants including octanol,
+SXS, TETRONIC® 304, TETRONIC® 701, TERGITOL® 15-S-5, TERGITOL® 15-S-7, 
+BRIJ® 30, TRITON® X-45, TRITON® X-200, AEROSOL® OT, SURFYNOL®
+440, SURFYNOL® CT-111, SURFYNOL® SEF, DOWFAX® 2A1, DOWFAX®
+8390, NEODOL® 1-9, NEODOL® 91-6, and NEODOL® 45-7. In addition, mixtures
+of hydrocarbon surfactants were tested without a fluorosurfactant. The mixtures of
+fluorosurfactant and hydrocarbon surfactant that were formulated are shown in
+Table 4, with identifying numbers (SU1 through SU19) in the first column. The
+amounts of the fluorosurfactant and hydrocarbon surfactants used in each ink are
+also shown in Table 4. To act as controls, an ink having 1% SILWET L7607 (SU1),
+an ink having no surfactants (SU2), and an ink having one surfactant (SU3) were
+produced. The remaining inks (SU4-SU16 and SU19) included the fluorosurfactant
+package or a mixture of hydrocarbon surfactants listed in Table 4. <img id="img-00200001" orientation="unknown" wi="161" img-format="tif" img-content="tb" file="00200001.tif" inline="no" he="227"/><img id="img-00210001" orientation="unknown" wi="71" img-format="tif" img-content="tb" file="00210001.tif" inline="no" he="224"/></p><p num="0063">The components listed in Tables 3 and 4 were directly mixed to
+produce each ink.</p><heading>Example 4</heading><heading>Testing Performed On The Fixer Fluids And the Inks</heading><p num="0064">The fixer fluids having the first fluorosurfactant packages listed in
+Table 2 and the inks having the second fluorosurfactant packages listed in Table 4
+were tested for puddling, dry time, area fill uniformity, optical density, water
+durability, cloud point, decap, and/or banding.</p><p num="0065">Puddling was tested on an
+inkjet printer similar to the DeskJet® 2200C/2500C printer, manufactured by Hewlett-Packard
+Co. (Palo Alto, CA). The ink and fixer fluid were printed with inkjet pens
+similar to the pens used in the DeskJet® 2200C/2500C printer. Both high frequency
+puddling and low frequency puddling were examined. The pens were manually
+wiped clean before printing and then three pages were printed. The orifice
+cleanness was rated after printing the three pages. Photographs of the printhead
+were taken after printing to record the amount of puddling. In addition, visual
+observations of the printhead were monitored and recorded.</p><p num="0066">To determine the cloud point, each fixer fluid or ink was placed in an
+oven and stored for one hour at each temperature. The temperature of the oven was
+increased 10°C every hour, up to a temperature of 90°C. The cloudiness of the fixer
+fluid or ink was visually observed and recorded.</p><p num="0067">The decap time was tested with an inkjet pen (8 pl) similar to the
+inkjet pen used in a DeskJet® 2200C/2500C printer. The decap time was measured
+at 24°C, 49% relative humidity using an inkjet printer similar to the DeskJet®
+2200C/2500C printer. The decap time was also tested at 85°C. Short term decap
+was tested in a 21 °C, 55% relative humidity environment. The short term decap was
+measured with no heat and at 85°C.</p><p num="0068">The dry time was tested with the fixer fluid in an inkjet pen similar to
+the inkjet pen used in a DeskJet® 2200C/2500C printer and the ink in the default
+pen, which resulted in 120pl/300 dpi pixel. The dry time was tested by stacking eight
+sheets on top of the imaged area immediately after the printed image was ejected
+from the inkjet printer. Secondary color was printed with an inkjet pen similar to the 
+inkjet pen used in a DeskJet® 2200C/2500C printer at 128 pl density in a 21°C, 55%
+relative humidity environment. The dry times were tested at 2- and 3-pass
+printmodes, at an ink flux of 128 pl/300 dpi, and at temperatures of 0°C, 80°C, and
+85°C. While the 2- and 3-pass printmodes take longer to print the desired image
+than a 1-pass printmode, because each pass only prints a portion of the ink, the
+resulting print quality of the desired image is improved.</p><p num="0069">The wet durability was tested by printing an image on an inkjet
+printer similar to the DeskJet® 2000 printer, manufactured by Hewlett-Packard Co.
+(Palo Alto, CA). Fixer fluid was in the K pen and ink in the C pen. Area fill uniformity
+was tested by visually comparing the uniformity of print samples across various
+offset media. Depending on the weight and velocity of an inkjet drop, puddling may
+cause banding. The extent of banding was visually evaluated.</p><heading>Example 5</heading><heading>Performance Results Of The Fixer Fluids</heading><p num="0070">The puddling, dry time, area fill uniformity, optical density ("OD"),
+water durability, cloud point, and decap results for the fixer fluids described in
+Example 1 are reported in Table 2.</p><p num="0071">FX-0, which used SILWET® L7607 as the surfactant, exhibited
+heavy puddling. FX-26, the fixer fluid with no surfactants, also exhibited heavy
+puddling. All of the fixer fluids having ZONYL® FS-300 (FX-13 through FX-18)
+exhibited some or heavy puddling and, therefore, ZONYL® FS-300 was not optimal
+for use as the fluorosurfactant in the fixer fluid. The fixer fluids including the nonionic
+fluorosurfactants ZONYL® FSO (FX-1 through FX-6) and ZONYL® FSN (FX-7
+through FX-12) were clean of puddling or exhibited little or very little puddling. The
+fixer fluids having the cationic fluorosurfactant ZONYL® FSD (FX-19 through FX-24)
+were also clean of puddling or exhibited very little puddling.</p><p num="0072">The fixer fluids having ZONYL® FSD exhibited slower dry times than
+the other fixer fluids. The fixer fluids including ZONYL® FSN exhibited the fastest
+dry times. The fixer fluids having the remaining fluorosurfactants exhibited variable
+dry times, depending on the specific hydrocarbon surfactant that was used. </p><p num="0073">Fixer fluids having ZONYL® FSD exhibited poor area fill uniformity,
+probably due to the cationic fluorosurfactant reacting strongly with the ink.
+Therefore, ZONYL® FSD was not optimal for use as the fluorosurfactant in the fixer
+fluid.</p><p num="0074">The fixer fluids having ZONYL® FSO exhibited improved durability
+compared to the fixer fluids having ZONYL® FSN. However, the ZONYL® FSN fixer
+fluids exhibited improved area fill uniformity compared to the ZONYL® FSO.</p><p num="0075">The fixer fluids having TETRONIC® 701 as the hydrocarbon
+surfactant exhibited a low cloud point (40°C) and, therefore, TETRONIC® 701 was
+not optimal for use as the hydrocarbon surfactant in the fixer fluid. The remaining
+combinations of fluorosurfactants and hydrocarbon surfactants exhibited desirable
+cloud points of 85°C or greater than 90°C.</p><p num="0076">While the fixer fluids having ZONYL® FSO, ZONYL® FSN, or
+ZONYL® FSD exhibited improved puddling properties, the ZONYL® FSD fixer fluids
+exhibited less than optimal area fill uniformity. Therefore, both the ZONYL® FSD
+fixer fluid and the ZONYL® FS-300 fixer fluid, which exhibited heavy puddling, were
+not optimal for use in the fixer fluids. Of the other tested fluorosurfactants, the
+ZONYL® FSO fixer fluids exhibited improved durability while the ZONYL® FSN fixer
+fluids demonstrated improved area fill uniformity. However, the combination of
+ZONYL® FSN and BRIJ® 30 (FX-10) exhibited the best, overall performance across
+the various properties.</p><heading>Example 6</heading><heading>Fixer Fluids With Reduced Amounts of The Fixer Polymer</heading><p num="0077">Fixer fluids were produced according to Table 1, except that the
+amount of fixer polymer was decreased from 5% to 4%. These fixer fluids exhibited
+comparable results to those obtained with 5% fixer polymer. The lower amount of
+fixer polymer also had a large, desirable effect on the decap rate. Specifically, the
+fixer fluid having 4% fixer polymer exhibited a short term decap of 24 seconds in
+comparison to 96 seconds for the fixer fluid having 5% fixer polymer. </p><heading>Example 7</heading><heading>Performance Results Of The Inks</heading><p num="0078">The puddling, cloud point, decap, and dry time results for the inks
+described in Example 3 are shown in Table 4. Inks SU4, SU7, SU11-SU13, and
+SU19 were clean of puddling. SU4 utilized TETRONIC® 701, DOWFAX® 2A1, and
+ZONYL® FSA as the second surfactant package. For SU7, BRIJ® 30, DOWFAX®
+8390, and ZONYL® FSA were used as the second surfactant package. For SU11,
+SURFYNOL® 440, SXS, and ZONYL® FSA were used as the second surfactant
+package. For SU12, SURFYNOL® CT-111, DOWFAX® 2A1, and ZONYL® FSA
+were used as the second surfactant package. SU13 used SURFYNOL® SEF,
+DOWFAX® 8390, and ZONYL® FSA as the second surfactant package. For SU19,
+AEROSOL® OT, TRITON® X-45, and ZONYL® FSA were used as the second
+surfactant package. Based on these results, puddling of the ink appeared to be
+dramatically improved by using ZONYL® FSA in the second surfactant package.</p><p num="0079">As shown in FIGs. 1-3, cyan, magenta, and yellow SU19 inks
+exhibited a marked reduction in puddling compared to cyan, magenta, and yellow
+SU1 inks. FIGs. 1A, 2A, and 3A showed heavy puddling on the printhead when the
+cyan, magenta, and yellow SU1 inks were printed. In contrast, FIGs. 1B, 2B, and 3B
+show no puddling on the printhead when the cyan, magenta, and yellow SU19 inks
+were printed.</p><p num="0080">The cloud points of the inks are displayed in Table 4. All of the inks,
+except SU4, were clear of clouding up to a temperature of 90°C. SU4 exhibited
+clouding at 70°C.</p><p num="0081">The decap times of the inks with no heat and at 85°C are shown in
+Table 4. Only SU8 and SU15 exhibited decap times of greater than 24 seconds.
+Most of the remaining inks had decap times ranging from approximately 0 seconds
+to approximately 4+ seconds, except that SU19 had a decap of 8 seconds.</p><p num="0082">As shown in Table 5, the SU19 ink also exhibited improved decap
+across ink colors in comparison to the SU1 ink. <tables><table><tgroup cols="3"><tbody><row><entry nameend="3" namest="1">Decap of SU1 and SU19 Inks.</entry></row><row><entry align="left">Ink Color</entry><entry align="left">Decap (sec)</entry><entry align="left">Decap (sec)</entry></row><row><entry align="center"/><entry align="left">SU1</entry><entry align="left">SU19</entry></row><row><entry align="left">Cyan</entry><entry align="left">0</entry><entry align="left">8</entry></row><row><entry align="left">Magenta</entry><entry align="left">0</entry><entry align="left">8</entry></row><row><entry align="left">Yellow</entry><entry align="left">6</entry><entry align="left">8</entry></row></tbody></tgroup></table></tables></p><p num="0083">The dry times of the inks at 2-pass and 3-pass printmodes are
+shown in Table 4. In the 3-pass printmode, most of the inks exhibited acceptable dry
+times, except for SU12. In the 2-pass printmode, SU4 and SU10 had acceptable dry
+times on the LUSTRO® Laser and KROMCOTE® offset media. SU5, SU7, SU8,
+SU11, and SU13-SU15 exhibited acceptable dry times in the 2-pass printmode on
+the KROMCOTE® offset media. In general, the 3-pass printmode produced faster
+dry times than the 2-pass printmode, which is consistent with the longer print time in
+the 3-pass printmode</p><p num="0084">A direct comparison of the dry times of SU1 and SU19 are shown in
+Table 6 for 2-pass and 3-pass printmodes at various temperatures and at an ink flux
+of 128 pl/300 dpi. The temperatures tested (0°C, 80°C, and 85°C) were chosen to
+differentiate ink performances.
+<tables><table><tgroup cols="9"><tbody><row><entry nameend="9" namest="1">Dry times of SU1 and SU19 at 2-pass and 3-pass printmodes and at various temperatures</entry></row><row><entry align="left" namest="1">Offset Media</entry><entry nameend="3" align="left" namest="2">3-pass
+
+printmode, 85°C</entry><entry nameend="5" align="left" namest="4">3-pass
+
+printmode, 0°C</entry><entry nameend="7" align="left" namest="6">2-pass
+
+printmode, 85°C</entry><entry nameend="9" align="left" namest="8">2-pass
+
+printmode, 80°C</entry></row><row><entry align="center"/><entry align="center">SU1</entry><entry align="center">SU19</entry><entry align="center">SU1</entry><entry align="center">SU19</entry><entry align="center">SU1</entry><entry align="center">SU19</entry><entry align="center">SU1</entry><entry align="center">SU19</entry></row><row><entry align="left">LUSTRO
+
+Laser</entry><entry align="center">1</entry><entry align="center">1</entry><entry align="center">2</entry><entry align="center">1</entry><entry align="center">3</entry><entry align="center">3</entry><entry align="center">4</entry><entry align="center">4</entry></row><row><entry align="left">KROMCOT
+
+E</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">2</entry><entry align="center">2</entry><entry align="center">3</entry><entry align="center">3</entry></row><row><entry align="left">UTOPIA
+
+Dull</entry><entry align="center">2</entry><entry align="center">2</entry><entry align="center">2</entry><entry align="center">2</entry><entry align="center">4</entry><entry align="center">4</entry><entry align="center">4</entry><entry align="center">4</entry></row><row><entry>0=None; 1 =Tiny dot not objectionable; 2=Noticeable, unacceptable; 3=Significant blotting, unacceptable; 4=Heavy blotting, unacceptable</entry></row></tbody></tgroup></table></tables>
+Under these test conditions, the SU1 and SU19 exhibited substantially equivalent dry
+times. The 3-pass printmode produced a better dry time than the 2-pass printmode
+due to the longer print time. </p><heading>Example 8</heading><heading>Bloom, Bleed, 1-Pass Color OD, and Edge Acuity Performance and Results</heading><p num="0085">Bloom and bleed were eliminated when the first surfactant package,
+the second surfactant package, or both surfactant packages were used. In addition,
+color OD and edge acuity were improved when the first surfactant package, the
+second surfactant package, or both surfactant packages were used. As illustrated in
+Table 7, bloom and bleed were eliminated when the second fluorosurfactant in the
+ink included a fluorosurfactant and at least one hydrocarbon surfactant. Inks having
+ZONYL® FSA as the fluorosurfactant exhibited the best improvement in bloom and
+bleed.
+<tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">Bloom and Bleed of Inks</entry></row><row><entry align="left">Surfactant</entry><entry align="left">Secondary Color Bloom</entry></row><row><entry align="left"/><entry align="center">85°C</entry></row><row><entry align="left">SILWET® L7607 (SU1)</entry><entry align="center">5</entry></row><row><entry align="left">AEROSOL® OT/TRITON® X-45 (SU8)</entry><entry align="center">5</entry></row><row><entry align="left">AEROSOL® OT/TRITON® X-45/ZONYL® FSA (SU19)</entry><entry align="center">1</entry></row><row><entry align="left">TETRONIC® 304 (SU3)</entry><entry align="center">5</entry></row><row><entry align="left">DOWFAX®/SURFYNOL® CT-111</entry><entry align="center">5</entry></row><row><entry align="left">DOWFAX® 2A1/SURFYNOL® CT-111/ZONYL® FSA (SU12)</entry><entry align="center">1</entry></row><row><entry>1: best (no bloom)   5: worst (heavy bloom)</entry></row></tbody></tgroup></table></tables></p><p num="0086">Images were printed at one pass on LUSTRO™ Laser offset media
+with inkjet pens (7.5 pl) similar to those used in a DeskJet® 2200C/2500C printer.
+The fixer fluid was printed over the SU1 and SU19 inks. The printed images were
+compared to determine any differences in color OD and edge acuity.</p><p num="0087">A comparison of FIGs. 4A-4C shows that higher OD and sharper
+edges were achieved when either the ink or the fixer fluid included a fluorosurfactant
+package. FIG. 4A shows the edge acuity and color OD when neither the ink nor the
+fixer fluid have a fluorosurfactant package. FIG. 4B shows the edge acuity and color
+OD when the SU19 ink, which has AEROSOL® OT, TRITON® X-45, and ZONYL®
+FSA as the second fluorosurfactant package, is used with the FX-0 fixer fluid. FIG. 
+4C shows the edge acuity and color OD when the FX-10 fixer fluid, which has
+ZONYL® FSN and BRIJ 30® as the first fluorosurfactant package, is used with the
+SU1 ink.</p><heading>Example 9</heading><heading>Application Of The Fixer Fluid And Ink To Offset Media</heading><p num="0088">The fixer fluids described in Example 1 are printed on offset media
+with the inks, which are described in Example 3. The fixer fluid is deposited on the
+offset media using a fixer pen, while the ink is deposited using a conventional inkjet
+pen. The offset media that are tested include LUSTRO™ Laser gloss,
+KROMCOTE™, and UTOPIA™ Dull. The fixer fluid is over-printed relative to the ink.
+In additional tests, the fixer fluid is under-printed relative to the ink.</p><heading>Example 10</heading><heading>Banding Results</heading><p num="0089">Banding was compared between the SU1 and SU19 inks and is
+shown in FIGs. 5A and 5B. The SU1 ink showed increased banding as puddles built
+up. In contrast, the SU19 ink was more robust in banding performance.</p><p num="0090">While the invention may be susceptible to various modifications and
+alternative forms, specific embodiments have been shown by way of example in the
+drawings and have been described in detail herein. However, it should be
+understood that the invention is not intended to be limited to the particular forms
+disclosed. Rather, the invention is to cover all modifications, equivalents, and
+alternatives falling within the spirit and scope of the invention as defined by the
+following appended claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An inkjet printing system for use in offset printing comprising:
+<claim-text><claim-text>a fixer fluid comprising a cationic fixer polymer and a first fluorosurfactant package, the first
+fluorosurfactant package comprising a fluorosurfactant and a hydrocarbon surfactant, wherein
+the fluorosurfactant is a cationic or nonionic fluoropolymer and the hydrocarbon surfactant is
+cationic or nonionic; and</claim-text><claim-text>an ink comprising an anionic dye and a second fluorosurfactant package, the second fluorosurfactant
+package comprising an anionic fluorosurfactant and at least one anionic or nonionic
+hydrocarbon surfactant.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>A method of improving print quality in offset printing comprising:
+<claim-text><claim-text>providing a fixer fluid comprising a cationic fixer polymer and a first fluorosurfactant package, the first
+fluorosurfactant package comprising a cationic or nonionic fluorosurfactant and a cationic or
+nonionic hydrocarbon surfactant;</claim-text><claim-text>providing an ink comprising an anionic dye and a second fluorosurfactant package, the second
+fluorosurfactant package having an anionic fluorosurfactant and at least one anionic or
+nonionic hydrocarbon surfactant; and</claim-text><claim-text>depositing the ink and fixer fluid on an offset medium.</claim-text></claim-text></claim-text></claim><claim num="3"><claim-text>The inkjet printing system and method of claims 1 and 2, wherein the cationic fixer
+polymer is selected from the group consisting of polyethylene imine, a copolymer of hexamethylene
+guanide and hexamethylene biguanide, and poly(hexamethylene biguanide).</claim-text></claim><claim num="4"><claim-text>The inkjet printing system and method of claims 1-3, wherein the fluorosurfactant of
+the first fluorosurfactant package is selected from the group consisting of RfCH2CH2O(CH2CH2O)xH,
+wherein Rf is F(CF2CF2)y, x is 0 to approximately 25, and y is 1 to approximately 9;
+RfCH2CH2O(CH2CH2O)xH, wherein Rf is F(CF2CF2)y, x is 0 to approximately 15, and y is 1 to
+approximately 7; and F(CF2CF2)1-7-alkyl-N+R3Cl-.</claim-text></claim><claim num="5"><claim-text>The inkjet printing system and method of claims 1-4, wherein the hydrocarbon
+surfactant of the first fluorosurfactant package is selected from the group consisting of a
+tetrafunctional block copolymer of propylene oxide, ethylene oxide, and ethylene diamine, an alkyl
+polyethylene oxide, a polyethoxylated alcohol, a polyethoxylated ester, an acetylenic polyethylene
+oxide, and an alkyl phenyl polyethylene oxide.</claim-text></claim><claim num="6"><claim-text>The inkjet printing system and method of claims 1-5, wherein the cationic fixer
+polymer is poly(hexamethylene biguanide), the fluorosurfactant of the first fluorosurfactant package
+has the chemical structure of RfCH2CH2O(CH2CH2O)xH, wherein Rf is F(CF2CF2)y, x is 0 to
+approximately 25, and y is 1 to approximately 9, and the hydrocarbon surfactant of the first
+fluorosurfactant package is polyoxyethylene lauryl ether.</claim-text></claim><claim num="7"><claim-text>The inkjet printing system and method of claims 1-6, wherein the anionic
+fluorosurfactant of the second fluorosurfactant package has the chemical structure of
+RfCH2CH2SCH2CH2COO-Li+, wherein Rf is CF3CF2(CF2CF2)x and x is 2-4.</claim-text></claim><claim num="8"><claim-text>The inkjet printing system and method of claims 1-7, wherein the at least
+one hydrocarbon surfactant of the second fluorosurfactant package is selected from the group
+consisting of octanol, sodium xylene sulfonate, a tetrafunctional block copolymer of propylene oxide,
+ethylene oxide, and ethylene diamine, an alkyl polyethylene oxide, a polyethoxylated alcohol, a
+polyethoxylated ester, an acetylenic polyethylene oxide, an alkyl phenyl polyethylene oxide, an
+alkylated diphenyl oxide disulfonate, a sulfosuccinate, and a high purity, high linearity primary alcohol.</claim-text></claim><claim num="9"><claim-text>The inkjet printing system and method of claims 1-8, wherein the fluorosurfactant of
+the second fluorosurfactant package has the chemical structure of RfCH2CH2SCH2CH2COO-Li+,
+wherein Rf is CF3CF2(CF2CF2)x and x is 2-4, and the at least one hydrocarbon surfactant of the
+second fluorosurfactant package is a mixture of dioctyl sodium sulfosuccinate and octoxynol-5.</claim-text></claim><claim num="10"><claim-text>A fixer fluid for use in offset printing comprising:
+<claim-text><claim-text>a cationic fixer polymer comprising poly(hexamethylene biguanide) or a copolymer of hexamethylene
+guanide and hexamethylene biguanide; and</claim-text><claim-text>a first fluorosurfactant package comprising a fluorosurfactant and at least one hydrocarbon surfactant,
+wherein the fluorosurfactant is a cationic or nonionic fluoropolymer and the at least one
+hydrocarbon surfactant is cationic or nonionic.</claim-text></claim-text></claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

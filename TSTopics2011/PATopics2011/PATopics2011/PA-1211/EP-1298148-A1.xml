@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1298148-A1" country="EP" doc-number="1298148" kind="A1" lang="EN" family-id="8180972" status="new" date-produced="20090516" date="20030402"><bibliographic-data><publication-reference ucid="EP-1298148-A1" status="new" fvid="23731882"><document-id status="new" format="original"><country>EP</country><doc-number>1298148</doc-number><kind>A1</kind><date>20030402</date></document-id></publication-reference><application-reference ucid="EP-01203657-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01203657</doc-number><kind>A</kind><date>20010927</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-01203657-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>01203657</doc-number><kind>A</kind><date>20010927</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C08F   4/00        20060101C I20060521RMEP        </classification-ipcr><classification-ipcr status="new">C08F   4/64        20060101A I20060521RMWO        </classification-ipcr><classification-ipcr status="new">C08F   4/645       20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C08F   4/659       20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F   4/6592      20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C08F  10/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F  10/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08F  10/00+4/6592B4</classification-symbol><classification-symbol scheme="ICO">M08F4:659K</classification-symbol><classification-symbol scheme="ICO">M08F4:659L</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Katalysatorbestandteil, der ein Metallocen mit zwei Tetrahydroindenyl-Liganden enthält, zur Herstellung eines Polyolefins</invention-title><invention-title load-source="ep" status="new" lang="EN">Catalyst component comprising a metallocene with two tetrahydroindenyl ligands for producing a polyolefin</invention-title><invention-title load-source="ep" status="new" lang="FR">Composant de catalyseur comprenant un métallocène ayant deux ligands tetrahydroindényle pour la préparation d'une polyoléfine</invention-title><citations><patent-citations><patcit ucid="EP-0692505-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0692505</doc-number><kind>A2</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0697418-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0697418</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6143846-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6143846</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>ATOFINA RES S A</name><address><country>BE</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ATOFINA RESEARCH S.A.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Atofina Research S.A.</last-name><address><street>Zone Indusrielle C</street><city>7181 Seneffe (Feluy)</city><country>BE</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="original"><addressbook><last-name>The designation of the inventor has not yet been filed</last-name></addressbook></inventor></inventors></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep"  status="new" lang="EN"><p>Provided is a catalyst component for producing a polyolefin, which catalyst component
+comprises a metallocene catalyst having a structure according to a formulae (I):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">(THI)<sub>2</sub>R"MQ<sub>p</sub></st32:che>
+wherein each THI is a tetrahydroindenyl derivative which may be substituted or
+unsubstituted, provided that at least one of the tetrahydroindenyl derivatives is substituted
+at the 2-position or the 4-position; R" is a structural bridge to impart stereorigidity
+between the two THI groups; M is a metal from Group IIIB, IVB, VB or VIB; Q is a
+hydrocarbyl group having from 1-20 carbon atoms, or a halogen; and p is the valence of
+M minus 2.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to a catalyst component and catalyst system for use in
+preparing polyolefins, especially polyethylene having a high molecular weight and
+improved mechanical properties, whilst retaining good processing properties. The
+invention further relates to a process for producing polyolefins using the catalyst
+component or catalyst system.</p><p num="0002">Metallocene catalysts have been known to be useful in the production of polyolefins for
+some time. The first generation of metallocene catalysts were unbridged metallocenes.
+These catalysts provided a new route into polyolefin resins. However, polyolefin resins
+produced using unbridged metallocenes were found to have poor processibility, despite
+having good optical properties, such as high transparency and low haze.</p><p num="0003">In order to improve the properties of the resins, bridged metallocene catalysts were
+developed. Such bridged metallocene catalysts are disclosed in published PCT application
+number WO91/03500. Typical such supported bridged metallocenes are Et(IndH<sub>4</sub>)<sub>2</sub>ZrCl<sub>2</sub>
+and Et(Ind)<sub>2</sub>ZrCl<sub>2</sub> (IndH<sub>4</sub> is an unsubstituted tetrahydroindenyl (THI) group, and Ind is
+an unsubstituted indenyl group). Other such known bridged metallocenes comprise
+substituted cyclopentadienyl ligands, such as those disclosed in published patent
+US 4 892 851. In these metallocenes, the substitution pattern was designed with a view to
+controlling the stereochemistry of polypropylene produced from the catalysts.</p><p num="0004">Resins produced from this second generation of metallocene catalysts display improved
+mechanical properties due to their higher molecular weight. In addition, such resins have
+better processing properties due to the presence of different chain architecture and
+probably long chain branches. However, the processibility and the co-monomer content
+of such resins is still less than is desired.</p><p num="0005">Resins produced from Ziegler-Natta and chromium-based catalysts may have the same or
+similar processing and mechanical properties as compared with their counterparts formed 
+using metallocene catalysts. However, such resins display inferior optical and mechanical
+properties.</p><p num="0006">Thus, it is still desirable to produce high quality resins using metallocene catalysts that
+have more superior mechanical and processing properties.</p><p num="0007">It is an object of the present invention to overcome the problems associated with the
+above prior art catalysts. Accordingly, the present invention provides a catalyst
+component for producing a polyolefin, which catalyst component comprises a
+metallocene catalyst having a structure according to a formulae (I):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">(THI)<sub>2</sub>R"MQ<sub>p</sub></st32:che>
+wherein each THI is a tetrahydroindenyl derivative which may be substituted or
+unsubstituted, provided that at least one of the tetrahydroindenyl derivatives is substituted
+at the 2-position or the 4-position; R" is a structural bridge to impart stereorigidity
+between the two THI groups; M is a metal from Group IIIB, IVB, VB or VIB; Q is a
+hydrocarbyl group having from 1-20 carbon atoms, or a halogen; and p is the valence of
+M minus 2.</p><p num="0008">By substituted, in the context of the present invention it is meant that any of the positions
+on the tetrahydroindenyl group may comprise a substituent in place of a hydrogen atom.
+Thus, whilst each substituted THI group may be a tetrahydroindenyl group with the
+substituent present on the five-membered ring, it may alternatively be a group that
+comprises the same pattern of saturation as tetrahydroindenyl, but in which one or more
+of the hydrogen atoms on the six-membered ring has been replaced. Alternatively, and
+preferably, the substituents may be present on both the five-membered and the
+six-membered ring. </p><p num="0009">Each catalyst component comprises two THI derivative ligands. The two ligands may be
+different. However, it is preferred that the two THI ligands of the catalyst component are
+the same.</p><p num="0010">The present invention further provides a method for producing a polyolefin, which
+method comprises polymerising an olefin monomer (or an olefin monomer and a
+co-monomer) in the presence of a catalyst component (or catalyst system comprising the
+catalyst component) as defined above.</p><p num="0011">The substitution pattern of the THI ligands on the metallocene catalysts leads to the
+advantages of the present invention. The substitution pattern and numbering of the
+ligands of the present catalysts will be discussed in more detail below.</p><p num="0012">The ligand, THI, used in catalysts of formula (I) is a tetrahydroindenyl-type ligand, in
+which, in the context of the present invention, the substituent positions are numbered
+from 1-7 according to the system set out in the structure below:
+<img id="img-00030001" orientation="unknown"  wi="54"  img-format="tif"  img-content="cf" file="00030001.tif" inline="no" he="34"/></p><p num="0013">To distinguish substitution in the first THI ligand from the second, the second is
+numbered according to the same system, but from 1'-7', in accordance with convention. In
+this type of catalyst, the position of the bridge is not particularly limited, and is preferably
+a 1,1'-bridge, a 2,2'-bridge or a 1,2'-bridge, a 1,1'-bridge being most preferred.</p><p num="0014">The position of the substituent or substituents on the two THI ligands is not particularly
+limited, provided that at least one of the ligands is substituted in the 2-position and/or the
+4-position. Provided that this criterion is satisfied, the THI ligands may have any 
+substitution pattern, including being unsubstituted or fully substituted. In preferred
+embodiments both of the THI ligands are substituted. Typically, both of the THI ligands
+comprise substituents in the 2-position and/or in the 4-position. Most preferably both of
+the THI ligands comprise substituents in the 2-position and the 4-position. In these
+embodiments the other positions in the ring may also comprise substituents, or may be
+unsubstituted. Particularly preferred metallocene catalysts with a 1,1'-bridge have the
+following substitution patterns: 2; 4; 2,4; 2,2'; 4,4'; 2,4'; 2,4,2'; 2,4,4'; and 2,4,2',4'
+wherein only those positions indicated comprise a substituent. It should be noted that
+since the basic structures of both THI derivatives are identical, patterns such as 2,4' and
+4,2' are identical.</p><p num="0015">The use of a catalyst as defined above (in which the THI derivatives are substituted
+according to the above specific substitution patterns) to produce a polyolefin, leads to
+polyolefins that have improved physical and mechanical properties, are easily processed
+and have good optical properties.</p> <p num="0016">Thus, the polyolefin resins produced by the catalyst system of the present invention have
+improved processibility and solidification properties in injection blow moulding and
+injection moulding, whilst simultaneously showing high transparency and flexibility.</p><p num="0017">The substituent or substituents present on the THI ligands in the above-described
+catalysts are not particularly limited. The above ligands, when comprising more than one
+substituent, may be substituted with the same substituent throughout, or with different
+substituents. Typically the substituents are independently selected from an aryl group and
+a hydrocarbyl group having from 1-20 carbon atoms. The most preferred substituents are
+methyl groups. Other preferred substituents include phenyl (Ph), benzyl (Bz),
+naphthyl (Naph), indenyl (Ind) and benzindenyl (BzInd), as well as Et, n-Pr, i-Pr, n-Bu,
+t-Bu, Me<sub>3</sub>Si, alkoxy (preferably R-O, where R is C<sub>1</sub>-C<sub>20</sub> alkyl), cycloalkyl, and halogen.</p><p num="0018">Preferred THI derivatives include: 2-Me,4-PhTHI; 2-Me,4-NaphTHI; and
+2-Me,4,5-BzIndTHI. The most preferred catalyst components comprise at least one on 
+these ligands, and preferably two such ligands. It is particularly preferred that the two
+THI ligands of the catalyst components are the same.</p><p num="0019">The type of bridge present between the THI rings in the present catalyst components is
+not itself particularly limited. Typically R" comprises an alkylidene group having 1 to 20
+carbon atoms, a germanium group (e.g. a dialkyl germanium group), a silicon group (e.g.
+a dialkyl silicon group), a siloxane group (e.g. a dialkyl siloxane group), an alkyl
+phosphine group or an amine group. Preferably, the substituent comprises a hydrocarbyl
+radical having at least one carbon atom to form the bridge, such as a substituted or
+unsubstituted ethylenyl radical (e.g. Et, -CH<sub>2</sub>CH<sub>2</sub>-). Most preferably R" is Et or Me<sub>2</sub>Si.</p><p num="0020">The metal, M, in the metallocene catalyst is preferably a metal from Group IIIB, IVB, VB
+or VIB of the periodic table. Typically, M is Ti, Zr, Hf, or V and Q is preferably a
+halogen, typically Cl. Typically the valence of the metal is 4, such that p is 2.</p> <p num="0021">The most preferred catalyst components of the present invention are:
+<sl><li>Me<sub>2</sub>Si(2-MeTHI)<sub>2</sub>ZrCl<sub>2</sub> </li> <li>Et(2-MeTHI)<sub>2</sub>ZrCl<sub>2</sub></li><li>Me<sub>2</sub>Si(2-Me,4-PhTHI)<sub>2</sub>ZrCl<sub>2</sub></li><li>Et(2-Me,4-PhTHI)<sub>2</sub>ZrCl<sub>2</sub></li><li>Me<sub>2</sub>Si(2-Me,4-NaphTHI)<sub>2</sub>ZrCl<sub>2</sub></li><li>Et(2-Me,4-NaphTHI)<sub>2</sub>ZrCl<sub>2</sub></li><li>Me<sub>2</sub>Si(2-Me,4,5-BzIndTHI)<sub>2</sub>ZrCl<sub>2</sub></li><li>Et(2-Me,4,5-BzIndTHI)<sub>2</sub>ZrCl<sub>2</sub></li></sl></p><p num="0022">The catalyst system of the present invention is not particularly limited provided that it
+comprises at least one metallocene catalyst component as defined above. Thus the system
+may comprise further catalysts, if necessary, such as further metallocene catalysts
+according to the present invention, or other catalysts. </p><p num="0023">The catalyst system of the present invention comprises, in addition to the above catalyst
+component, one or more co-catalysts capable of activating the metallocene catalyst.
+Typically, the co-catalyst comprises an aluminium- or boron-containing co-catalyst.</p><p num="0024">Suitable aluminium-containing co-catalysts comprise an alumoxane, an alkyl aluminium
+compound and/or a Lewis acid.</p><p num="0025">The alumoxanes that can be used in the present invention are well known and preferably
+comprise oligomeric linear and/or cyclic alkyl alumoxanes represented by the formula
+(A):
+<img id="img-00060001" orientation="unknown" wi="50" img-format="tif" img-content="cf" file="00060001.tif" inline="no" he="23"/>
+for oligomeric linear alumoxanes; and formula (B)
+<img id="img-00060002" orientation="unknown" wi="41" img-format="tif" img-content="cf" file="00060002.tif" inline="no" he="24"/>
+for oligomeric cyclic alumoxanes,
+
+wherein n is 1-40, preferably 10-20; m is 3-40, preferably 3-20; and R is a C<sub>1</sub>-C<sub>8</sub> alkyl
+group, preferably methyl. Generally, in the preparation of alumoxanes from, for example,
+aluminium trimethyl and water, a mixture of linear and cyclic compounds is obtained.</p><p num="0026">Suitable boron-containing co-catalysts may comprise a triphenylcarbenium boronate,
+such as tetrakis-pentafluorophenyl-borato-triphenylcarbenium as described in
+EP-A-0427696: <img id="img-00070001" orientation="unknown" wi="82" img-format="tif" img-content="cf" file="00070001.tif" inline="no" he="36"/>
+or those of the general formula below, as described in EP-A-0277004 (page 6, line 30 to
+page 7, line 7):
+<img id="img-00070002" orientation="unknown" wi="71" img-format="tif" img-content="cf" file="00070002.tif" inline="no" he="29"/></p><p num="0027">The catalyst system may be employed in the gas phase or in a solution polymerisation
+process, which is homogeneous, or a slurry process, which is heterogeneous in a single or
+tandem reactor configuration. In a solution process, typical solvents include
+hydrocarbons having 4-7 carbon atoms such as heptane, toluene or cyclohexane. In a
+slurry process it is necessary to immobilise the catalyst system on an inert support,
+particularly a porous solid support such as talc, inorganic oxides and resinous support
+materials such as polyolefin. Preferably, the support material is an inorganic oxide in its
+finely divided form.</p><p num="0028">Suitable inorganic oxide materials which are desirably employed in accordance with this
+invention include group IIA, IIIA, IVA, or IVB metal oxides such as silica, alumina and
+mixtures thereof. Other inorganic oxides that may be employed either alone or in
+combination with the silica, or alumina are magnesia, titania, zirconia, and the like. Other
+suitable support materials, however, can be employed, for example, finely divided
+functionalised polyolefins such as finely divided polyethylene. </p><p num="0029">Preferably, the support is a silica support having a surface area of from 100-1000 m<sup>2</sup>/g,
+more preferably from 200-700 m<sup>2</sup>/g, and a pore volume of from 0.5-4 ml/g, more
+preferably from 0.5-3 ml/g.</p><p num="0030">The amount of alumoxane and metallocenes usefully employed in the preparation of the
+solid support catalyst can vary over a wide range. Generally the aluminium to transition
+metal mole ratio is in the range between 1:1 and 100:1, preferably in the range 5:1 and
+80:1 and more preferably in the range 5:1 and 50:1.</p><p num="0031">The order of addition of the catalyst and alumoxane to the support material can vary. In
+accordance with a preferred embodiment of the present invention alumoxane dissolved in
+a suitable inert hydrocarbon solvent is added to the support material slurried in the same
+or other suitable hydrocarbon liquid and thereafter the catalyst component is added to the
+slurry.</p><p num="0032">Preferred solvents include mineral oils and the various hydrocarbons which are liquid at
+reaction temperature and which do not react with the individual ingredients. Illustrative
+examples of the useful solvents include the alkanes such as pentane, iso-pentane, hexane,
+heptane, octane and nonane; cycloalkanes such as cyclopentane and cyclohexane, and
+aromatics such as benzene, toluene, ethylbenzene and diethylbenzene.</p><p num="0033">Preferably the support material is slurried in toluene and the catalyst component and
+alumoxane are dissolved in toluene prior to addition to the support material.</p><p num="0034">The polyolefins that the present catalyst is capable of producing are not particularly
+limited. It is particularly preferred that the catalyst is capable of producing polyethylene
+and/or polypropylene.</p><p num="0035">The catalyst component or catalyst system of the present invention are used in the method
+of the present invention to produce polyolefin resins. It is especially preferred that the 
+method of the present invention is a method of producing a polyethylene or a
+polypropylene.These polyolefins can be monomodal or multimodal.</p><p num="0036">The conditions employed for polymerisation in the method of the present invention are
+not particularly limited, provided they are sufficient to effectively polymerise the
+particular monomeric olefin used as a starting material. When the monomer to be
+polymerised in the present method is ethylene, the preferred polymerisation conditions
+are from 70-110°C, more preferably from 70-90°C (e.g. around 80°C) using a
+hydrocarbon solvent such as isobutane or hexane. Preferably polymerisation takes place
+in the presence of hydrogen and an alkene co-monomer such as 1-butene or 1-hexene.</p><p num="0037">The polymerisation process in which the catalyst systems of the present invention can be
+used is not particularly limited. Preferably the catalysts are employed in a process for
+polymerising ethylene. More preferably the process is a process for producing a
+polyethylene with a bimodal or multimodal molecular weight distribution. Such processes
+may employ a dual site catalyst to achieve bimodality and one or both of the catalytic
+sites may be provided by metallocene catalysts as described in the present invention.</p><p num="0038">The invention will now be described in further detail by way of example only, with
+reference to the following non-limiting specific embodiments.</p><heading><b>Examples</b></heading><heading><i>Catalyst preparation</i></heading><p num="0039">One catalyst component of the present invention, (Me<sub>2</sub>Si)(2-MeTHI)<sub>2</sub>ZrCl<sub>2</sub> (catalyst 1),
+was prepared in accordance with the method of W. Spalek; A. Antberg, J. Rohrmann, A.
+Winter, B. Bachmann, P. Kiprof, J. Behm, and W. A. Hermann, Angew. Chem. Int. Eng.
+Ed. 1992, 31, 1347. A further catalyst component of the present invention,
+(Et)(2-MeTHI)<sub>2</sub>ZrCl<sub>2</sub> (catalyst 2), was prepared in accordance with the method of H. H.
+Brintzinger, Journal of Organometallic Chemistry, 1982, 232, 233. For comparative
+purposes two similar catalysts, (Me<sub>2</sub>Si)(THI)<sub>2</sub>ZrCl<sub>2</sub> and (Et)(THI)<sub>2</sub>ZrCl<sub>2</sub> (catalysts 3 
+and 4 respectively) in which both THI ligands were unsubstituted, were prepared.
+Catalyst 4 was prepared according to F. R. W. P. Wild, M. Wasiucuinek, G. Huttner, and
+H. H. Brintzinger, Journal of Organometallic Chemistry, 1985, 288, 63.</p><p num="0040">The support used was silica having a total pore volume of 4.22 ml/g and a surface area of
+322 m<sup>2</sup>/g. This silica is further prepared by drying under a high vacuum on a schlenk
+line for three hours to remove physically absorbed water. 5 g of this silica were
+suspended in a round bottom flask equipped with a magnetic stirrer, a nitrogen inlet and a
+dropping funnel.</p><p num="0041">To produce activated catalyst, amounts of approximately 0.3 g of catalysts 1-4 were each
+reacted with 25 ml of methylalumoxane (MAO 30 wt. % in toluene), at a temperature of
+25°C for 10 minutes to give solutions of the corresponding metallocene cations and the
+anionic methylalumoxane oligomer.</p><p num="0042">Then the resulting solutions comprising the metallocene cations and the anionic
+methylalumoxane oligomer were added to the support under a nitrogen atmosphere via
+the dropping funnel, which was immediately replaced with a reflux condenser. The
+mixtures were each heated to 110°C for 90 minutes. The reaction mixtures were then
+cooled to room temperature, filtered under nitrogen and washed with toluene.</p><p num="0043">The catalyst systems obtained were then washed with pentane and dried under a mild
+vacuum.</p><p num="0044">The catalyst systems of the present invention comprising catalyst components 1 and 2,
+and the comparative catalyst systems comprising catalyst components 3 and 4, were used
+to polymerise ethylene. In each polymerisation reaction, the ethylene was polymerised in
+a 41 bench reactor at 80°C. An isobutane solvent (21) was used comprising 6 % wt.
+ethylene. A 1 hr residence time was used. The molecular weight (Mw) of the polymer
+products produced as well as their HLMI values are shown below in Table 1. <tables><table><tgroup cols="5"><tbody><row><entry align="center" namest="1"/><entry nameend="3" align="center" namest="2"><b>Substituted (invention)</b></entry><entry nameend="5" align="center" namest="4"><b>Unsubstituted (comparison)</b></entry></row><row><entry align="center"><b>Cat. &amp; bridge</b></entry><entry align="center">Catalyst 1 (Si)</entry><entry align="center">Catalyst 2 (Et)</entry><entry align="center">Catalyst 3 (Si)</entry><entry align="center">Catalyst 4 (Et)</entry></row><row><entry align="center"><b>M<sub>w</sub>/kDa</b></entry><entry align="center">399</entry><entry align="center">360</entry><entry align="center">329</entry><entry align="center">326</entry></row><row><entry align="center"><b>HLMI (g/10mins)</b></entry><entry align="center">0.15</entry><entry align="center">0.22</entry><entry align="center">0.27</entry><entry align="center">0.22</entry></row></tbody></tgroup></table></tables></p><p num="0045">Comparing the properties of the polyethylene products produced by the third generation
+catalysts (substituted catalysts of the present invention) with the closest second generation
+catalysts (unsubstituted), it is clear that the catalysts of the present invention give a much
+higher molecular weight product than the comparative catalysts whilst displaying a
+similar or reduced HLMI. This is particularly demonstrated by the M<sub>w</sub> and HLMI values
+for catalyst 1 which are 399k and 0.15 respectively, the highest and lowest values for the
+tested polymers. It is preferable that the molecular weight is as high as possible to benefit
+the mechanical properties of the polymer produced.</p><p num="0046">The HLMI measured in the above Examples is the high load melt index and is measured
+according to the procedures of ASTM D 1238 using a load of 21.6 kg at a temperature of
+190°C.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A catalyst component for producing a polyolefin, which catalyst component
+comprises a metallocene catalyst having a structure according to a formulae (I):
+(THI)2R"MQp
+wherein each THI is a tetrahydroindenyl derivative which may be substituted or
+unsubstituted, provided that at least one of the tetrahydroindenyl derivatives is substituted
+at the 2-position or the 4-position; R" is a structural bridge to impart stereorigidity
+between the two THI groups; M is a metal from Group IIIB, IVB, VB or VIB; Q is a
+hydrocarbyl group having from 1-20 carbon atoms, or a halogen; and p is the valence of
+M minus 2.</claim-text></claim><claim num="2"><claim-text>A catalyst component according to claim 1, which component comprises a
+metallocene catalyst of formula (I) in which both THI derivatives are substituted THI
+derivatives.</claim-text></claim><claim num="3"><claim-text>A catalyst component according to claim 1 or claim 2, which component
+comprises a metallocene catalyst of formula (I) in which one THI derivative comprises
+substituents at both the 2-position and the 4-position.</claim-text></claim><claim num="4"><claim-text>A catalyst component according to any preceding claim, which component
+comprises a metallocene catalyst of formula (I) in which both of the THI derivatives
+comprise substituents at both the 2-position and the 4-position.</claim-text></claim><claim num="5"><claim-text>A catalyst component according to any preceding claim, which component
+comprises a metallocene catalyst of formula (I) in which both of the THI derivatives have
+the same pattern of substitution.</claim-text></claim><claim num="6"><claim-text>A catalyst component according to any preceding claim, wherein the substituents
+on the THI derivatives are independently selected from aryl derivatives having from 1-20
+carbon atoms, hydrocarbyl derivatives having from 1-20 carbon atoms, cycloalkyl
+derivatives, silane derivatives, alkoxy derivatives and halogens.</claim-text></claim><claim num="7"><claim-text>A catalyst component according to claim 6, wherein the substituents on the THI
+derivatives are independently selected from Ph, Bz, Naph, Ind, BzInd, Me, Et, n-Pr, i-Pr,
+n-Bu, t-Bu, and Me3Si.</claim-text></claim><claim num="8"><claim-text>A catalyst component according to claim 7, wherein the substituents comprise
+methyl groups.</claim-text></claim><claim num="9"><claim-text>A catalyst component according to any preceding claim, wherein M is Ti, Zr, Hf,
+or V.</claim-text></claim><claim num="10"><claim-text>A catalyst component according to any preceding claim, wherein Q is Cl.</claim-text></claim><claim num="11"><claim-text>A catalyst component according to any preceding claim, wherein p is 2.</claim-text></claim><claim num="12"><claim-text>A catalyst component according to any preceding claim, wherein R" is substituted
+or unsubstituted and comprises a group selected from an alkylene derivative having from
+1-20 carbon atoms, a dialkyl germanium derivative, a dialkyl silicon derivative, a dialkyl
+siloxane derivative, an alkyl phosphine derivative or an amine derivative.</claim-text></claim><claim num="13"><claim-text>A catalyst component according to claim 12, wherein R" comprises an Me2Si
+derivative or an Et derivative.</claim-text></claim><claim num="14"><claim-text>A catalyst component according to any preceding claim, wherein the metallocene
+catalyst is immobilised on a solid support.</claim-text></claim><claim num="15"><claim-text>A catalyst system comprising a catalyst component as defined in any preceding
+claim, and further comprising an aluminium- or boron-containing co-catalyst capable of
+activating the catalyst component.</claim-text></claim><claim num="16"><claim-text>A method for producing a polyolefin, which method comprises polymerising an
+olefin monomer in the presence of a catalyst component or catalyst system as defined in
+any of claims 1-15.</claim-text></claim><claim num="17"><claim-text>A method according to claim 16, wherein the olefin monomer is ethylene or
+propylene.</claim-text></claim><claim num="18"><claim-text>A polyolefin, obtainable according to a method as defined in claim 16 or claim 17.</claim-text></claim><claim num="19"><claim-text>Use of a catalyst component or catalyst system as defined in any of claims 1-15
+for the preparation of a monomodal or multimodal polyolefin in a single or tandem
+reactor configuration.</claim-text></claim><claim num="20"><claim-text>Use according to claim 19 for the preparation of a monomodal or multimodal
+polyethylene or polypropylene in a single or tandem reactor configuration.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

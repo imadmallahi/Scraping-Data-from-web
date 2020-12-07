@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1418201-A1" country="EP" doc-number="1418201" kind="A1" lang="EN" family-id="32105494" status="new" date-produced="20090516" date="20040512"><bibliographic-data><publication-reference ucid="EP-1418201-A1" status="new" fvid="24056685"><document-id status="new" format="original"><country>EP</country><doc-number>1418201</doc-number><kind>A1</kind><date>20040512</date></document-id></publication-reference><application-reference ucid="EP-03024523-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03024523</doc-number><kind>A</kind><date>20031027</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2002325201-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002325201</doc-number><kind>A</kind><date>20021108</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C08J   5/00        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08J   5/00        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08K   5/00        20060101CFI20061208BHEP        </classification-ipcr><classification-ipcr status="new">C08K   5/16        20060101AFI20061208BHEP        </classification-ipcr><classification-ipcr status="new">C08K   5/17        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08K   5/29        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08K   5/3467      20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L  67/00        20060101ALI20061208BHEP        </classification-ipcr><classification-ipcr status="new">C08L  67/00        20060101CLI20061208BHEP        </classification-ipcr><classification-ipcr status="new">C08L 101/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L 101/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C08L 101/16        20060101ALI20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08K   5/16</classification-symbol><classification-symbol scheme="EC">C08K   5/29</classification-symbol><classification-symbol scheme="EC">C08L 101/16</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Biologisch abbaubare Plastikzusammensetzung, die damit hergestellten Gegenstände und eine Methode zur Kontrolle der biologischen Abbaurate</invention-title><invention-title load-source="ep" status="new" lang="EN">A biodegradable plastic composition, a molded article thereof and a method for controlling biodegradation rate using the same composition</invention-title><invention-title load-source="ep" status="new" lang="FR">Composition de matière plastique biodégradable, article moulé à partir de cette composition et méthode pour contrôler la vitesse de décomposition biologique</invention-title><citations><patent-citations><patcit ucid="DE-19630599-A1" status="new"><document-id status="new" format="epo"><country>DE</country><doc-number>19630599</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0890604-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0890604</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1193050-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1193050</doc-number><kind>A1</kind></document-id><sources><source category="X"  name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5484881-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5484881</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA"  created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>DATABASE  CA [Online] CHEMICAL ABSTRACTS SERVICE, COLUMBUS, OHIO, US; NAGANO, HIROTA ET AL: "Fire-, heat-, and hydrolysis-resistant polyester elastomer compositions" retrieved from STN Database accession no. 130:140381 XP002266309 &amp; JP 11 021436 A (TOYOBO CO., LTD., JAPAN) 26 January 1999 (1999-01-26)</text><sources><source category="X"  name="SEA"  created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>NISSHIN SPINNING</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>NISSHINBO INDUSTRIES INC.</last-name><address><street>31-11, Ningyocho 2-chome, Nihonbashi</street><city>Chuo-ku, Tokyo</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>IIDA HIROTAKA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NAKAMURA NORIMASA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TAKAHASHI IKUO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TAKEUCHI TSUYOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>YAMAZAKI YOSHIHIRO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>IIDA, HIROTAKA</last-name><address><street>R&amp;amp;D Center Nisshinbo Industries, Inc 1-2-3 Ohnodai</street><city>Midori-ku Chiba-shi Chiba</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NAKAMURA, NORIMASA</last-name><address><street>R&amp;amp;D Center Nisshinbo Industries, Inc 1-2-3 Ohnodai</street><city>Midori-ku Chiba-shi Chiba</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TAKAHASHI, IKUO</last-name><address><street>R&amp;amp;D Center Nisshinbo Industries, Inc 1-2-3 Ohnodai</street><city>Midori-ku Chiba-shi Chiba</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TAKEUCHI, TSUYOSHI</last-name><address><street>R&amp;amp;D Center Nisshinbo Industries, Inc 1-2-3 Ohnodai</street><city>Midori-ku Chiba-shi Chiba</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>YAMAZAKI, YOSHIHIRO</last-name><address><street>R&amp;amp;D Center Nisshinbo Industries, Inc 1-2-3 Ohnodai</street><city>Midori-ku Chiba-shi Chiba</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Müller-Boré &amp;amp; Partner Patentanwälte</last-name><address><street>Grafinger Strasse 2</street><city>81671 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A biodegradable plastic composition which can be
+stably adjusted in biodegradation rate, and has greatly
+improved resistance to hydrolysis and weather, in
+particular the former, and durability resulting from the
+improved resistances; a molded article thereof; and a method
+for controlling biodegradation rate using the same
+composition. The biodegradable plastic composition
+comprising (A) 100 parts by weight of biodegradable plastic,
+(B) 0.01 to 10 parts by weight of a carbodiimide compound
+and (C) 0.01 to 10 parts by weight of at least one compound
+selected from the group consisting of benzotriazole-,
+triazine- and hydroxylamine-based one; the molded article
+thereof; and the method for controlling biodegradation rate
+using the same composition.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to a biodegradable
+plastic composition, a molded article thereof and a method
+for controlling biodegradation rate using the same
+composition, in more detail, the present invention relates
+to a biodegradable plastic composition which exhibits
+greatly improved resistance to hydrolysis and weather, in
+particular the former, by compounding specified agents
+therein and excellent durability resulting from the
+improved resistances, applications of the composition such
+as a biodegradable molded article, and a method for
+controlling biodegradation rate of the biodegradable
+plastic.</p><p num="0002">Recently, researches and developments of the
+biodegradable plastic have been promoted on the background
+of increasing attention to a need and a significance of the
+environmental preservation, while problems such as
+environmental contamination caused by plastic wastes have
+been closed up. </p><p num="0003">The biodegradable plastics are roughly classified
+into aliphatic polyesters having polyester groups in a
+molecular backbone thereof (including those produced by
+microorganisms), natural macromolecule type polymers such
+as cellulose, polysaccharides produced by microorganisms,
+polyvinyl alcohol (PVA) and polyethers such as polyethylene
+glycol (PEG).</p><p num="0004">Among them, aliphatic polyesters have not been
+utilized as the biodegradable plastic because they have,
+in general, low melting points and poor heat stabilities
+in their production stages, and a sufficiently large
+molecular weight has not been obtained to provide physical
+properties suitable for practical molded articles. However,
+with technological developments to solve these problems,
+a high molecular weight of aliphatic polyester has come out,
+and started to be used in such fields as materials for
+agriculture, forestry and fishery (mulch film, plantation
+pot, fishing line, fishing net, and the like), materials
+for civil engineering work (water holding sheet, net for
+plants, sandbag, and the like) and packaging and containers
+field (those difficult to be recycled due to adhered soil,
+foods, and the like).</p><p num="0005">The biodegradable plastics including the above-described
+aliphatic type polyesters, however, should not
+only have the same level of functions to the conventional
+plastics (in characteristics such as strength, water
+resistance, formability and heat resistance) in use, but
+also be rapidly degradable by microorganisms generally 
+present in the nature in disposal thereof.</p><p num="0006">Based on these situations, several methods for
+controlling the degradation rate of the biodegradable
+plastic have been proposed, for example, a method aiming
+at shortening of degradation period by an addition of
+hydrolase (disclosed by, e.g., JP-A-4-168149 (refer to
+claims or the like)), and another method contrary aiming
+at an extension of the degradation period by reducing
+unreacted monomers and impurities in a polymer and low
+molecular weight compounds such as linear or cyclic
+oligomers (disclosed by, e.g., JP-A-9-12688 (refer to
+claims or the like)), are known.</p><p num="0007">Notwithstanding these proposals, however, the
+biodegradable plastic consisting of the aliphatic polyester
+according to the conventional arts has currently such
+problems as a hydrolysis reaction progressing in the
+aliphatic polyester induced by exposure to moisture in an
+ambient atmosphere or by being heated during a production
+process of pellets thereof, which are raw materials of
+plastic products, or in a production process of products
+from said pellets, leading to lowering or dispersion of
+initial properties of molded articles as well as an unstable
+biodegradability of products thereof, and thus adjustment
+of the biodegradability, that is, biodegradation rate, is
+not yet sufficient.</p><p num="0008">The present inventors proposed, as disclosed by,
+e.g., JP-A-11-80522 (refer to claims or the like), a 
+biodegradable plastic composition with an adjusted
+biodegradation rate by compounding a carbodiimide compound
+into the biodegradable plastic. Although this proposal
+improved a hydrolysis resistance or a function for adjusting
+biodegradability, although not to a sufficient extent. The
+proposal also had another problem of loosing transparency
+of product, in particular, in a polylactic acid based
+biodegradable plastic product with an increased compounding
+amount of the carbodiimide compound to enhance the
+hydrolysis resistance.</p><p num="0009">JP-A-2001-525473 (refer to claims or the like), for
+example, also proposes a method aiming at an extension of
+the degradation period by compounding an aromatic
+carbodiimide as a hydrolysis stabilizer to the
+biodegradable polymer. This method, however, involve
+problems, because the biodegradable polymer it gives shows
+hydrolysis resistance still insufficient, although
+improved, decreased transparency irrespective of addition
+amount of the stabilizer, and insufficient weather
+resistance.</p><p num="0010">Moreover, JP-A-6-184417 (refer to claims or the
+like), for example, proposes a lactic-based composition
+
+characterized by a lactic-based polymer as a biodegradable
+polymer compounded with at least one type of additive
+selected from the group consisting of ultraviolet absorber
+and light stabilizer at 0.001 to 5 parts by weight per 100
+parts by weight of the polymer. However, this invention is
+aimed at controlling decomposition of the polymer by solar 
+rays but not at controlling hydrolysis.</p><p num="0011">Still more, JP-A-2002-114893 (refer to claims or
+the like), for example, proposes a thermoplastic polyester
+resin composition, although not biodegradable,
+characterized by a thermoplastic polyester resin compounded
+with a resin-based ultraviolet absorber and aliphatic-based
+polycarbodiimide compound to improve resistances of the
+resin, which has relatively high heat resistance, to weather,
+alkali and hydrolysis. However, the resin-based ultraviolet
+absorber disclosed by the document involves a problem of
+being not compatible with a biodegradable plastic.</p><p num="0012">Therefore, it is an object of the present invention
+to solve the problems of the conventional arts and to provide
+a biodegradable plastic composition capable of adjusting
+its biodegradation rate, greatly improved in resistance to
+hydrolysis and weather, in particular the former, and
+excellent in durability resulting from the improved
+resistances. It is another object of the present invention
+to provide a molded article of the composition. It is still
+another object of the present invention to provide a method
+for controlling biodegradation rate of the biodegradable
+plastic.</p><p num="0013">The present inventors, after an extensive study to
+solve the above-described problems of the conventional arts,
+found that compounding specified amounts of a carbodiimide
+compound (including a polycarbodiimide compound) having at 
+least one carbodiimide group in the molecule and a specified
+compound in a biodegradable plastic, in particular, an
+aliphatic polyester, could improve the resulting
+biodegradable plastic composition in resistance to
+hydrolysis and weather, in particular in hydrolysis
+resistance resulting from the synergistic effect by the
+carbodiimide compound and specified compound, and thereby
+could adjust biodegradation rate of the biodegradable
+plastic. The present invention was thus accomplished based
+on these findings.</p><p num="0014">The first aspect of the present invention provides
+a biodegradable plastic composition comprising (A) 100
+parts by weight of biodegradable plastic, (B) 0.01 to 10
+parts by weight of a carbodiimide compound, and (C) 0.01
+to 10 parts by weight of at least one compound selected from
+the group consisting of benzotriazole-, triazine- and
+hydroxylamine-based one.</p><p num="0015">The second aspect of the present invention provides
+the biodegradable plastic composition of the first aspect,
+characterized in that the benzotriazole-based compound is
+a benzotriazole-based ultraviolet absorber.</p><p num="0016">The third aspect of the present invention provides
+the biodegradable plastic composition of the first aspect,
+characterized in that the triazine-based compound is a
+triazine-based ultraviolet absorber or triazine derivative
+having at least one amino group in the molecule.</p><p num="0017">The fourth aspect of the present invention provides
+the biodegradable plastic composition of the first aspect, 
+characterized in that the hydroxylamine-based compound is
+N-hydroxybenzotriazole, N-hydroxysuccinimide or a
+derivative thereof.</p><p num="0018">The fifth aspect of the present invention provides
+the biodegradable plastic composition of the first aspect,
+characterized in that the biodegradable plastic (A) is an
+aliphatic-based polyester.</p><p num="0019">The sixth aspect of the present invention provides
+the biodegradable plastic composition of the first aspect,
+characterized in that the carbodiimide compound (B) is
+aliphatic polycarbodiimide.</p><p num="0020">The seventh aspect of the present invention
+provides the biodegradable plastic composition of the sixth
+aspect, characterized in that the aliphatic
+polycarbodiimide compound has an isocyanate terminal.</p><p num="0021">The eighth aspect of the present invention provides
+a molded article of a biodegradable plastic obtained by
+molding the biodegradable plastic composition of any one
+of the first to seventh aspects.</p><p num="0022">The ninth aspect of the present invention provides
+the molded article of the biodegradable plastic of the
+eighth aspect, which is in the form of molded article,
+extrudate, blow-molded article, thermally molded article,
+fiber, non-woven fabric, film or sheet.</p><p num="0023">The tenth aspect of the present invention provides
+a method for controlling biodegradation rate of a
+biodegradable plastic, characterized in that a 
+biodegradable plastic (A) is compounded with a carbodiimide
+compound (B) and at least one compound (C) selected from
+the group consisting of benzotriazole-, triazine- and
+hydroxylamine-based one in such a way to adjust its
+biodegradability.</p><p num="0024">As described above, the present invention relates
+to a biodegradable plastic composition and the like,
+characterized in that a biodegradable plastic (A) is
+compounded with specified amounts of a carbodiimide
+compound (B) and specified compound (C), and the preferred
+embodiments thereof include the followings:
+<sl><li>(1) The biodegradable plastic composition of the first
+aspect, characterized in that it comprises 100 parts by
+weight of the biodegradable plastic (A) ; 0. 1 to 5 parts by
+weight of the carbodiimide compound (B); and 0.1 to 5 parts
+by weight of the compound (C).</li><li>(2) The biodegradable plastic composition of the third
+aspect, characterized in that the triazine-based compound
+is a triazine-based ultraviolet absorber.</li><li>(3) The biodegradable plastic composition of the fourth
+aspect, characterized in that the hydroxylamine-based
+compound is N-hydroxybenzotriazole.</li><li>(4) The biodegradable plastic composition of the fifth
+aspect, characterized in that the aliphatic-based polyester
+is a polylactic acid-based polyester.</li></sl></p><p num="0025">Hereinbelow, the present invention will be 
+described in detail for each element.
+
+   The biodegradable plastic composition of the
+present invention comprises (A) a biodegradable plastic
+compounded with (B) a carbodiimide compound and (C) at least
+one compound selected from the group consisting of
+benzotriazole-, triazine- and hydroxylamine-based one.</p><heading>1. Biodegradable plastic (A)</heading><p num="0026">The examples of the biodegradable plastic as a main
+component used in the biodegradable plastic compound of the
+present invention include those derived from polyesters
+metabolized by microorganisms, of which aliphatic-polyesters
+are more preferable because they are easily
+metabolized by microorganisms.</p><p num="0027">In general, the biodegradable plastic is believed
+to undergo biodegradation through the following processes.</p><p num="0028">Namely, in a decomposition of a polymer material
+(biodegradable plastic) discharged into an environment, (i)
+a polymer degrading enzyme is adsorbed on the surface of
+the polymer material. This enzyme is a substance secreted
+extracellularly by a certain kind of microorganism. (ii)
+The enzyme, then, breaks such chemical bonds of polymer
+chains as ester, glycosidic and peptide linkages by a
+hydrolysis reaction. (iii) As a result, the polymermaterial
+is reduced in molecular weight and decomposed even to a
+monomer unit by a degrading enzyme. (iv) Finally, decomposed
+products are further metabolized and utilized by various
+microorganisms and converted into carbon dioxide, water and 
+bacterial cell components.</p><p num="0029">On the other hand, poly (α-oxyacid) represented by
+polylactic acid, is believed to undergo biodegradation in
+2 stages.</p><p num="0030">In the primary stage, a high-molecular-weight
+polylactic acid is decomposed mainly by simple hydrolysis
+involving no microorganisms, because it is difficult to
+decompose by microorganisms. When decomposed to have a
+number-average molecular weight (Mn) of the order of 10,000
+to 20, 000, it will undergo the secondary decomposition stage
+proceeding in the presence of a microbial polymer degrading
+enzyme, in addition to the simple hydrolysis. The second
+stage decomposes the polylactic acid even to a monomer unit.
+The decomposed products are further metabolized and
+utilized by various microorganisms and converted into
+carbon dioxide, water and bacterial cell components.</p><p num="0031">The aliphatic polyesters which are easily
+metabolized and hydrolyzed by microorganisms include:
+<sl><li>(1) polylactic acid (polylactide) type aliphatic polyester;</li><li>(2) aliphatic polyester as a product of condensation
+reaction of polyvalent alcohol and polybasic acid;</li><li>(3) aliphatic polyester produced by microorganisms such as
+polyhydroxybutylate (PHB); and</li><li>(4) polycaprolactone (PCL) type aliphatic polyester. Any of
+the above aliphatic polyesters can be preferably used as
+the biodegradable plastic for the present invention.</li></sl></p><p num="0032">Further, in the present invention, the
+biodegradable plastic is not limited to the above-described 
+aliphatic polyesters but any types thereof can be used as
+long as they have such chemical bonds as ester, glycosidic
+and peptide linkages which facilitate a scission of polymer
+chain in the biodegradable plastic by the hydrolysis
+reaction. Such type of polymers include, for example, a
+carbonate copolymer of the aliphatic polyester produced by
+randomly introducing a carbonate structure into a molecular
+chain backbone of the aliphatic polyester, and a copolymer
+of the aliphatic polyester having amide bonds and a
+polyamide produced by introducing nylon into a molecular
+chain backbone of the aliphatic polyester.</p><p num="0033">Next, the aliphatic polyesters will be further
+described in more detail.</p><heading>(1) Polylactic acid (polylactide) type aliphatic polyester</heading><p num="0034">The polylactic acid (polylactide) type aliphatic
+polyesters include polylactides, and specifically polymers
+of oxyacids such as lactic acid, malic acid and glycolic
+acid and copolymers thereof including, for example,
+polylactic acid, poly(α- malic acid), polyglycolic acid and
+a copolymer of glycolic acid and lactic acid, in particular,
+a hydroxycarboxylic acid type aliphatic polyesters,
+typically represented by polylactic acid.</p><p num="0035">The above-described polylactic acid type aliphatic
+polyester can be obtained, in general, by a ring-opening
+polymerization method of lactide, as a cyclic diester, and
+corresponding lactone (so to speak a lactide method), as 
+well as a direct dehydration condensation method of lactic
+acid and a polycondensation method of formalin and carbon
+dioxide, as a method other than the lactide method.</p><p num="0036">Further, examples of the catalyst for producing the
+above-described polylactic acid type aliphatic polyester
+include tin, antimony, zinc, titanium, iron and aluminum
+compounds. Among them, a tin-based or aluminum-based
+catalyst is more preferable, and tin octoate and aluminum
+acetylacetonato are particularly preferable.</p> <p num="0037">Among the above-described polylactic acid type
+aliphatic polyesters, poly(L-lactic acid) obtained by the
+ring-opening polymerization of the lactide is preferable,
+because poly (L-lactic acid) is hydrolyzed to L-lactic acid,
+whose safety has already been confirmed. However, the
+polylactic acid type aliphatic polyesters useful for the
+present invention are not limited to the above type
+polyesters, and therefore the lactide used for producing
+the polylactic acid is also not limited to L-type.</p><heading>(2) Aliphatic polyester as a product of condensation
+reaction of polyvalent alcohol and polybasic acid.</heading><p num="0038">Examples of the aliphatic polyester as a product
+of condensation reaction of polyvalent alcohol and
+polybasic acid include an aliphatic glycol/polybasic acid
+type polyester obtained by reacting an aliphatic glycol with
+aliphatic polybasic acid (or anhydride thereof) in the
+presence of a catalyst, or a high-molecular-weight 
+aliphatic glycol/polybasic acid type polyester obtained in
+the presence of a small amount of coupling agent, if
+necessary.</p><p num="0039">The aliphatic glycols for producing the aliphatic
+glycol/polybasic acid type polyesters useful for the
+present invention include, for example, ethylene glycol,
+1,4-butandiol, 1,6-hexanediol, decamethylene glycol,
+neopentyl glycol and 1,4-cyclohexanedimethanol. Ethylene
+oxide can be also used. These glycols may be used in
+combination.</p><p num="0040">Examples of the aliphatic polybasic acid or
+anhydride thereof to form the aliphatic glycol/polybasic
+acid type polyester by the reaction with the above-described
+aliphatic glycol include succinic acid, adipic acid,
+suberic acid, sebacic acid, dodecanic acid, and succinic
+anhydride and adipic anhydride, which are generally
+available in the market, and can be used for the present
+invention. These polybasic acids and anhydrides thereof may
+be used in combination.</p> <p num="0041">The above-described glycols and polybasic acids
+are of aliphatic type. They may be compounded with a small
+amount of another component, such as aromatic glycol or
+aromatic polybasic acid (terephthalic acid, trimellitic
+anhydride, pyromellitic anhydride or the like).</p> <p num="0042">In addition, examples of the catalyst to produce 
+the above-described aliphatic glycol/polybasic acid type
+polyester are salts of organic acids, alkoxides and oxides
+of such metals as titanium, tin, antimony, cerium, zinc,
+cobalt, iron, lead, manganese, aluminum, magnesium and
+germanium, and among them, a tin-based or aluminum-based
+compound is more preferable.</p> <p num="0043">The above-described aliphatic glycol/polybasic
+acid type polyester may be produced by reacting an
+equivalent amount of the aliphatic glycol and aliphatic
+polybasic acid together with the catalyst by heating, using
+a solvent appropriately selected depending on raw material
+.compounds, if necessary, and a prepolymer with a low degree
+of polymerization can be produced by controlling progress
+of the reaction.</p><p num="0044">In the production of the above-described aliphatic
+glycol/polybasic acid type polyester, a coupling agent can
+be used, in particular, for the prepolymer with low degree
+of polymerization, to further increase its number-average
+molecular weight. Examples of the coupling agent include
+diisocyanate, oxazoline, diepoxy compounds and acid
+anhydrides, and particularly diisocyanate is preferably
+used.</p><p num="0045">The diisocyanate as the above-described coupling
+agent is not specifically limited in type. They include
+2,4-tolylene diisocyanate, a mixture of 2,4-tolylene
+diisocyanate and 2,6-tolylene diisocyanate, 
+diphenylmethane diisocyanate, 1,5-naphthalene
+diisocyanate, xylylene diisocyanate, hydrogenated
+xylylene diisocyanate, hexamethylene diisocyanate,
+isophorone diisocyanate and 4,4'-dicyclohexylmethane
+diisocyanate. Hexamethylene diisocyanate is particularly
+preferable in view of a hue of the aliphatic
+glycol/polybasic acid type polyester obtained and
+reactivity while being compounded into the above-described
+prepolymer.</p><p num="0046">Amount of the above-described coupling agent is 0. 1
+to 5 parts by weight, preferably 0.5 to 3 parts by weight
+based on 100 parts by weight of the above-described
+prepolymer. An amount less than 0.1 parts by weight results
+in an insufficient extent of the coupling reaction, whereas
+an amount above 5 parts by weight tends to cause gelation.</p><p num="0047">Moreover, the above-described aliphatic
+glycol/polybasic acid type polyester may have a terminal
+hydroxyl group capped by another compound via a double bond,
+urethane bond or urea bond, or a modified one.</p><p num="0048">Typical examples of the aliphatic polyester on the
+markets, as a condensation product of polyvalent alcohol
+and polybasic acid, are polybutylene succinate (PBS) and
+polyethylene succinate (PES).
+
+   Examples of the polybutylene succinate (PBS) type
+aliphatic polyester are, for example, polybutylene
+succinate (PBS) made from butanediol and succinic acid, an 
+adipate copolymer (PBSA) obtained by copolymerizing adipic
+acid to accelerate biodegradability, and
+adipate/terephthalate copolymer obtained by
+copolymerizing terephthalic acid. The commercial products
+include "Bionolle®, "EnPol®", "Ecoflex®" and "BioMax®"
+supplied by Showa Highpolymer, Ire Chemical, BASF and Du
+Pont, respectively.
+
+   In addition, poly(ethylene succinate) (PES) is also
+commercially available, and a commercial product such as
+"Lunarle SE®" is supplied by Nippon Shokubai.</p><heading>(3) Aliphatic polyester produced by microorganisms</heading><p num="0049">Certain kind of microorganisms accumulates a
+polyester in their cells. The polyester produced by
+microorganisms is a thermoplastic polymer with a melting
+point derived from the organisms. Such a polyester is
+decomposed by an enzyme secreted extracellularly by a
+microorganism in natural environment and completely
+disappears because decomposition products are consumed by
+the microorganism.
+
+   Such (aliphatic) polyesters produced by
+microorganisms include polyhydroxybutyrate (PHB),
+poly(hydroxybutyric acid - hydroxypropionic
+acid)copolymer and poly(hydroxybutyric acid
+hydroxyvaleric acid) copolymer.</p><heading>(4) Polycaprolactone (PCL) type aliphatic polyester</heading><p num="0050">Polycaprolactone, a kind of aliphatic polyester,
+is obtained by a ring-opening polymerization of ε-caprolactone, 
+and can be decomposed by various bacteria,
+although it is a water-insoluble polymer.</p><p num="0051">Polycaprolactone is an aliphatic polyester
+expressed by a general formula: -(O(CH<sub>2</sub>)<sub>5</sub>CO)<sub>n</sub>-, and as a
+commercial product of the polycaprolactone type aliphatic
+polyester, for example, "Tone®" supplied from Nippon Unicar
+is known.</p><heading>2. Carbodiimide compound (B)</heading><p num="0052">As the carbodiimide compounds (including
+polycarbodiimide compounds) having at least one
+carbodiimide group in the molecule, useful for the present
+invention, those synthesized by commonly well known methods
+may be used. The compound can be obtained, for example, by
+conducting a decarboxylation condensation reaction of
+various polyisocyanates in the presence of an
+organophosphorus or organometallic compound as a catalyst
+at a temperature not lower than about 70°C, without using
+any solvent or using an inert solvent.</p><p num="0053">Examples of the monocarbodiimide compound included
+in the above-described carbodiimide compounds are
+dicyclohexylcarbodiimide, diisopropylcarbodiimide,
+dimethylcarbodiimide, diisobutylcarbodiimide,
+dioctylcarbodiimide, t-butylisopropylcarbodiimide,
+diphenylcarbodiimide, di-t-butylcarbodiimide and di-β-naphthylcarbodiimide,
+and among them,
+dicyclohexylcarbodiimide and diisopropylcarbodiimide are
+particularly preferable because of their industrial 
+availability.</p><p num="0054">Further, as the polycarbodiimide compound included
+in the above-described carbodiimide compounds, those
+produced by various methods may be used, but basically those
+produced by conventional production methods for
+polycarbodiimide [for example, the methods disclosed in USP
+No. 2941956, JP-B-47-33279, J. Org. Chem. 28, 2069-2075
+(1963) and Chemical Review 1981, Vol. 81, No.4, p619-621]
+can be used.</p><p num="0055">Examples of organic diisocyanate, as a raw material
+for producing a polycarbodiimide compound include, for
+example, aromatic diisocyanate, aliphatic diisocyanate,
+alicyclic diisocyanate and a mixture thereof, and
+specifically include 1,5-naphthalene diisocyanate,
+4,4'-diphenylmethane diisocyanate, 4,4'-diphenyldimethylmethane
+diisocyanate, 1,3-phenylene
+diisocyanate, 1,4-phenylene diisocyanate, 2,4-tolylene
+diisocyanate, 2,6-tolylene diisocyanate, a mixture of
+2,4-tolylene diisocyanate and 2,6-tolylene diisocyanate,
+hexamethylene diisocyanate, cyclohexane-1,4-diisocyanate,
+xylylene diisocyanate, isophorone diisocyanate,
+dicyclohexylmethane-4,4'- diisocyanate,
+methylcyclohexane diisocyanate, tetramethylxylylene
+diisocyanate, 2,6-diisopropylphenyl isocyanate and
+1,3,5-triisopropylbenzene-2,4-diisocyanate.</p><p num="0056">In addition, in the case of the above-described 
+polycarbodiimide compound, its degree of polymerization can
+be controlled to an appropriate level by terminating the
+polymerization reaction before it is completed by cooling
+or the like. In such a case, it has isocyanate at the terminal.
+Moreover, the remaining isocyanate at the terminal may be
+capped totally or partly by use of a compound such as
+monoisocyanate capable of reacting with the terminal
+isocyanate group of the polycarbodiimide compound, in order
+to control its degree of polymerization at an appropriate
+level. Controlling its degree of polymerization is
+preferable for improved quality, resulting from improved
+compatibility with the polymer and storage stability.</p><p num="0057">Examples of the monoisocyanate for controlling
+degree of polymerization of the polycarbodiimide compound
+by capping its terminal group include phenyl isocyanate,
+tolyl isocyanate, dimethylphenyl isocyanate, cyclohexyl
+isocyanate, butyl isocyanate and naphthyl isocyanate.</p><p num="0058">Further, the terminal capping agents for
+controlling degree of polymerization of the
+polycarbodiimide compound by capping its terminal group are
+not limited to the above-described monoisocyanates, and
+include compounds having active hydrogen capable of
+reacting with isocyanate. These compounds include (i)
+aliphatic, aromatic or alicyclic compounds having -OH group,
+such as methanol, ethanol, phenol, cyclohexanol, N-methylethanolamine,
+polyethylene glycol monomethyl ether
+and polypropylene glycol monomethyl ether; (ii) compounds 
+having a =NH group, such as diethylamine and
+dicyclohexylamine; (iii) compounds having a -NH<sub>2</sub> group, such
+as butylamine and cyclohexylamine; (iv) compounds having
+a -COOH group, such as succinic acid, benzoic acid and
+cyclohexanoic acid; (v) compounds having a -SH group, such
+as ethylmercaptan, allylmercaptan and thiophenol; (vi)
+compounds having an epoxy group; and (vii) acid anhydrides,
+such as acetic anhydride, methyltetrahydrophthalate
+anhydride, and methylhexahydrophthalic anhydride.</p><p num="0059">The decarboxylation condensation reaction of the
+above-described organic diisocyanate is performed in the
+presence of a suitable carbodiimidation catalyst. The
+carbodiimidation catalysts preferable for the present
+invention include an organophosphorus compound, and
+organometallic compound [expressed by the general formula
+M- (OR)<sub>4</sub>, wherein M is titanium (Ti) , sodium (Na) , potassium
+(K), vanadium (V), tungsten (W), hafnium (Hf), zirconium
+(Zr), lead (Pb), manganese (Mn) , nickel (Ni), calcium (Ca),
+barium (Ba) or the like, and R is an alkyl or aryl group
+having carbon atoms of 1 to 20], of which phospholeneoxide
+as the organophosphorus compound and alkoxide of titanium,
+hafnium or zirconium as the organometallic compound are
+particularly preferable from the viewpoint of activity.</p><p num="0060">The above-described phospholeneoxides include
+specifically 3-methyl-1-phenyl-2-phospholene-1-oxide,
+3-methyl-1-ethyl-2-phospholene-1-oxide, 1,3-dimethyl-2-phospholene-1-oxide,
+1-phenyl-2-phospholene-1-oxide, 1-ethyl-2-phospholene-1-oxide, 
+1-methyl-2-phospholene-1-oxide
+and double bond isomers thereof, of which 3-methyl-1-phenyl-2-phospholene-1-oxide
+is particularly
+preferable because of its industrial availability.</p><p num="0061">The inventors of the present invention consider
+that the carbodiimide compound (B) in the biodegradable
+plastic composition of the present invention has the
+following functions: first, it reacts with the residual
+hydroxyl or carboxyl group in the biodegradable compound,
+which is considered to accelerate the hydrolysis, during
+the initial stage after it is compounded, to control the
+hydrolysis, and then it is added to the bonds in the
+biodegradable plastic cleaved by the hydrolysis to
+recombine them.</p><p num="0062">The carbodiimide compound useful for the present
+invention is not limited so long as it has at least one
+carbodiimide group to realize the above functions. However,
+an aliphatic polycarbodiimide compound is preferable
+because of its safety, stability and compatibility with the
+biodegradable plastic.</p><p num="0063">An aliphatic carbodiimide compound having
+isocyanate group at the terminal is particularly preferable
+because of its hydrolysis resistance.</p><p num="0064">Moreover, an aliphatic carbodiimide compound is
+more preferable than an aromatic carbodiimide compound
+viewed from its resistance to hydrolysis and weather, and
+compatibility with the biodegradable plastic. </p><p num="0065">Amount of the carbodiimide compound (B) is
+preferably 0.01 to 10 parts by weight, more preferably 0.1
+to 5 parts by weight, particularly preferably 0.1 to 3 parts
+by weight based on 100 parts by weight of the biodegradable
+plastic. An amount less than 0.01 parts by weight may give
+no effect on adjustment or control of the biodegradation
+rate of the biodegradable plastic composition, whereas the
+amount over 10 parts by weight may reduce the
+biodegradability of the biodegradable plastic, and
+furthermore may deteriorate its transparency, which may
+cause problems for those purposes in which transparency is
+required.</p><heading>3. Compound (C)</heading><p num="0066">The biodegradable plastic composition of the
+present invention includes at least one compound (Compound
+(C)) selected from the group consisting of benzotriazole-,
+triazine- and hydroxylamine-based one.</p><p num="0067">The compound (C) imparts a notable effect of
+hydrolysis resistance to the biodegradable plastic
+composition by preventing hydrolysis of the biodegradable
+plastic, when used in combination with the carbodiimide
+compound (B).</p><heading>(1) Benzotriazole-based compound</heading><p num="0068">Examples of the benzotriazole-based compound as
+one of those for the compound (C) to be compounded in the
+biodegradable plastic composition of the present invention
+include those normally used as organic ultraviolet 
+absorbers and for peptide condensation. It may be merely
+benzotriazole or its derivative.</p><p num="0069">The benzotriazole-based compound used as an
+ultraviolet absorber (UVA) is not limited, so long as it
+is normally used as an ultraviolet absorber. They include
+2-(2'-hydroxy-5'-methylphenyl)benzotriazole, 2-(2'-hydroxy-5'-t-butylphenyl)benzotriazole,
+2-(2'-hydroxy-3'-t-butyl-5'-methylphenyl)-5-chlorobenzotriazole,
+2-(3,5-di-t-butyl-2-hydroxyphenyl)-5-chlorobenzotriazole,
+2-[2'-hydroxy-3',5'-bis (α, α-dimethylbenzyl)phenyl]benzotriazole
+and 2-(2'-hydroxy-3',5'-di-t-butylphenyl)benzotriazole.</p><p num="0070">More specifically, the commercial products include
+"TINUVIN 234®," "TINUVIN 320®," "TINUVIN 326®," "TINUVIN
+327®," "TINUVIN 328®" and "TINUVIN P®" supplied by Ciba
+Specialty Chemicals, and "Sumisorb 340®" supplied by
+Sumitomo Chemical.</p><p num="0071">Examples of the benzotriazole-based compound for
+peptide condensation include N-hydroxybenzotriazole (or
+1-hydroxybenzotriazole) and its derivative.</p><heading>(2) Triazine-based compound</heading><p num="0072">Examples of the triazine-based compound as one of
+those for the compound (C) to be compounded in the
+biodegradable plastic composition of the present invention
+include those normally used as organic ultraviolet
+absorbers and those having at least one amino group in the 
+molecule.</p><p num="0073">The triazine-based compound used as an ultraviolet
+absorber (UVA) is not limited, so long as it is normally
+used as an ultraviolet absorber. They include 2-(4,6-diphenyl-1,3,5-triazin-2-yl)-5-[(hexyl)oxy]phenol
+and
+2-[4,6-bis(2,4-dimethylphenyl)-1,3,5-triazin-2-yl]-5-[(octyl)oxy]phenol.
+More specifically, the commercial
+products include "TINUVIN 1577®" supplied by Ciba Specialty
+Chemicals, and "Cyasorb UV-1164®" supplied by Cytec
+Industries.</p><p num="0074">The triazine derivatives having at least one amino
+group in the molecule include 2,4,6-triamino-1,3,5-triazine
+(or melamine), 2,4-diamino-6-phenyl-1,3,5-triazine
+(or benzoguanamine), 2,4-diamino-6-methyl-1,3,5-triazine,
+2,4-diamino-6-(2-(dodecasylamino)ethyl)-1,3,5-triazine,
+2,4-diamino-6-(o-methoxyphenyl)-1,3,5-triazine,
+4,6-diamino-1,2-dihydro-2,2-dimethyl-1-(2,6-xylyl)-1,3,5-triazine,
+2,4-diamino-6-(2-methoxyethyl)-1,3,5-triazine,
+2-amino-4-ethyl-1,3,5-triazine,
+2-amino-4-phenyl-1,3,5-triazine,
+2-amino-4-ethyl-6-methyl-1,3,5-triazine, 2-amino-4-ethyl-6-phenyl-1,3,5-triazine,
+2-amino-4-methyl-6-phenyl-1,3,5-triazine
+and 2,4-bis-(n-octylthio)-6-(4-hydroxy-3,5-di-t-butylanilino)-1,3,5-triazine.
+More
+specifically, the commercial products include
+"IRGANOX565®" and "CHIMASSORB119 FL®, supplied by Ciba
+Specialty Chemicals. The triazine derivative useful for the 
+present invention is not limited to the above, and any
+triazine derivative may be used so long as it has at least
+one amino group in the molecule.</p><heading>(3) Hydroxylamine-based compound</heading><p num="0075">Examples of the hydroxylamine-based compound as
+one of those for the compound (C) to be compounded in the
+biodegradable plastic composition of the present invention
+include those used for peptide condensation. They include
+N-hydroxybenzotriazole (1-hydroxybenzotriazole), N-hydroxysuccinimide
+and a derivative thereof. N-hydroxybenzotriazole
+is also cited as one of the
+benzotriazole-based compounds described above.</p><p num="0076">The compound (C) is compounded in the biodegradable
+plastic composition of the present invention at a content
+at which it can exhibit, when used in combination with the
+carbodiimide compound (B), an effect of improving
+resistance to hydrolysis and weather, in particular a
+synergistic effect of improving hydrolysis resistance.</p><p num="0077">Amount of the compound (C) is preferably 0.01 to
+10 parts by weight, more preferably 0.1 to 5 parts by weight,
+particularly preferably 0.1 to 3 parts by weight based on
+100 parts by weight of the biodegradable plastic. An amount
+less than 0.01 parts by weight may neither give an effect
+on adjustment or control of the biodegradation rate of the
+biodegradable plastic composition nor a synergistic effect
+with the carbodiimide compound (B), whereas an amount over
+10 parts by weight may reduce the biodegradability of the 
+biodegradable plastic, and furthermore may not produce the
+effect which reflects the amount.</p><p num="0078">In the present invention, the biodegradable
+plastic (A) may be incorporated with the carbodiimide
+compound (B) and compound (C) by dissolving these compounds
+in an organic solvent and then distilling off the solvent.
+It is preferable that the organic solvent can dissolve the
+biodegradable plastic, needless to say, and is free of
+nonpolymerizable, active hydrogen. More specifically, the
+organic solvents useful for the present invention include
+chloroform and tetrahydrofuran (THF).</p><p num="0079">In the present invention, mixing of the above-described
+carbodiimide compound (B) and compound (C) with
+the biodegradable plastic (A) can be performed by melt
+mixing using an extruder, or adding the carbodiimide
+compound (B) and compound (C) after the termination of
+synthesis of the biodegradable plastic.</p><p num="0080">The melt mixing may be performed by one of the
+following methods:
+<sl><li>(1) Mix the carbodiimide compound (B) and compound (C) , into
+which the biodegradable plastic (A) is mixed.</li><li>(2) Mix the biodegradable plastic (A) and any one of the
+carbodiimide compound (B) and compound (C), into which the
+remainder is mixed.</li><li>(3) Mix the biodegradable plastic (A) and carbodiimide
+compound (B), into which a mixture of the biodegradable
+plastic (A) and compound (C) is mixed. </li><li>(4) Simultaneously mix the biodegradable plastic (A),
+carbodiimide compound (B) and compound (C).</li></sl></p><p num="0081">Biodegradation rate of the biodegradable plastic
+of the present invention can be adjusted by type and amount
+of the carbodiimide compound (B) and the compound (C) to
+be compounded, and the type and the amount of the above to
+be compounded may be determined depending on a specific
+purpose of the biodegradable plastic composition.</p><heading>4. Other additives and the like</heading><p num="0082">The biodegradable plastic composition of the
+present invention may be further compounded with one or more
+additives within a range not to impair the effects of the
+present invention. These additives include reinforcing
+agent, clay, inorganic or organic filler, amine-, phenol-or
+phosphorus-based antioxidant, heat stabilizer, hindered
+amine type light stabilizer and UV absorber, as well as flame
+retardant, lubricant, wax, colorant, crystallization
+promoter and degradable organic substances such as starch,
+if necessary.</p><p num="0083">The biodegradable plastic composition of the
+present invention can be stably adjusted in biodegradation
+rate, and has greatly improved resistance to hydrolysis and
+weather, in particular the former, and durability resulting
+from the improved resistances. Therefore it can be suitably
+used in such fields as materials for agriculture, forestry
+and fishery (mulch film, mulch sheet, plantation pot, 
+fishing line, fishing net, and the like); materials for
+civil engineering works (water-holding sheet, net for
+plants, sandbag, and the like); and molded article,
+extrudate, blow-molded article, thermally molded article,
+fiber, non-woven fabric, film for packing/container fields,
+in particular, molded articles of the biodegradable plastic
+such as film, sheet, fiber, bottle and tray.</p><heading>EXAMPLES</heading><p num="0084">Hereinbelow, the present invention will be
+explained in more detail using Examples, which by no means
+limit the present invention. Physical properties in
+Examples and Comparative Examples were measured and
+evaluated by the following methods.</p><heading>[Hydrolysis resistance]</heading><p num="0085">Each test sample piece was left in an air-conditioned
+chamber maintained at 80°C and 90%RH for a fixed
+period (200, 150 or 100 hours), and ratios (%) of tensile
+strength and elongation after the test to the values before
+the test were calculated. Hydrolysis resistance was ranked
+as "good" for the sample with high ratios (%) of tensile
+strength and elongation.</p><heading>[Weather resistance]</heading><p num="0086">Each test sample piece was exposed to light from
+a xenon lamp under the conditions of BPT 50C°×60% for 2000
+hours, and ratios (%) of tensile strength and elongation
+after the test to the values before the test were calculated. 
+Weather resistance was ranked as "good" for the sample with
+high ratios (%) of tensile strength and elongation.</p><p num="0087">Before describing Examples and Comparative
+Examples, synthesis methods for carbodiimide compounds will
+be described first.</p><heading>[Synthesis Example 1 for a carbodiimide compound]</heading><p num="0088">4,4'-dicyclohexylmethane diisocyanate was
+treated for carbodiimidation at 185°C for 24 hours in the
+presence of 3-methyl-1-phenyl-2-phospholene-1-oxide as a
+carbodiimidation catalyst, incorporated at 0.5 parts by
+weight based on 100 parts by weight of the diisocyanate.
+The resulting carbodiimide compound with isocyanate group
+at the terminal had an NCO% of 2.4 and average polymerization
+degree of 15.</p><heading>[Examples 1 to 3]</heading><p num="0089">An aliphatic polyester resin as the biodegradable
+plastic (A), mainly composed of polybutylene
+succinate/adipate, carbodiimide compound (B) and compound
+(C) were dry blended, followed by mixing in a twin screw
+extruder to prepare a film with a thickness of 200 µm through
+T-die, where the compounds (B) for Examples 1 to 3 were 1
+part of "Carbodilite HMV-10B®" as an aliphatic carbodiimide
+compound supplied by Nisshinbo Industries, Inc.,
+"Carbodilite HMV-8CA®" supplied by Nisshinbo Industries,
+Inc. and "Stabaxol P" supplied by Bayer AG, respectively,
+and the compound (C) for Examples 1 to 3 was 0.5 parts of 
+2-[2'-hydroxy-3',5'-bis(α,α-dimethylbenzyl)phenyl]benzotriazole
+as a benzotriazole-based
+compound ("TINUVIN 234®" supplied by Ciba Specialty
+Chemicals), all part(s) by weight based on 100 parts by
+weight of the component (A) . Each film was punched by a JIS
+No. 4 dumbbell to prepare the test piece, which was evaluated
+for its resistance to weather and hydrolysis (test period:
+200 hours). Table 1 gives the compositions and evaluation
+results.</p><heading>[Comparative Examples 1 to 3]</heading><p num="0090">A film was prepared in each of Comparative Examples
+1 to 3 in the same manner as in each of Examples 1 to 3,
+except that the compound (C) was not compounded, to evaluate
+its resistance to weather and hydrolysis (test period: 200
+hours). Table 1 gives the compositions and evaluation
+results. <tables><table><tgroup cols="7"><tbody><row><entry align="center"/><entry align="center">Example 1</entry><entry align="center">Example 2</entry><entry align="center">Example 3</entry><entry align="center">Comparative Example 1</entry><entry align="center">Comparative Example 2</entry><entry align="center">Comparative Example 3</entry></row><row><entry align="left">1. Composition (parts by weight)</entry></row><row><entry align="left">(A) Biodegradable plastic</entry></row><row><entry align="left">Polybutylene succinate/adipate</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100</entry></row><row><entry align="left">· Polylactic acid</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">-</entry></row><row><entry align="left">(B) Carbodiimide compound</entry></row><row><entry align="left">· Carbodilite HMV-10B</entry><entry align="center">1</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">1</entry><entry align="center">-</entry><entry align="center">-</entry></row><row><entry align="left">· Carbodilite HMV-8CA</entry><entry align="center">-</entry><entry align="center">1</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">1</entry><entry align="center">-</entry></row><row><entry align="left">· Stabaxol P</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">1</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">1</entry></row><row><entry align="left">(C) Specified compound</entry></row><row><entry align="left">· TINUVIN 234 (ultraviolet absorber)</entry><entry align="center">0.5</entry><entry align="center">0.5</entry><entry align="center">0.5</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">-</entry></row><row><entry align="left">2. Evaluation results</entry></row><row><entry align="left">(1) Weather resistance Strength ratio (%)</entry><entry align="center">93</entry><entry align="center">91</entry><entry align="center">73</entry><entry align="center">48</entry><entry align="center">42</entry><entry align="center">17</entry></row><row><entry align="left">Weather resistance Elongation ratio (%)</entry><entry align="center">91</entry><entry align="center">92</entry><entry align="center">81</entry><entry align="center">35</entry><entry align="center">30</entry><entry align="center">5</entry></row><row><entry align="left">(2) Hydrolysis resistance<!--footnotes removed-->1 Strength ratio (%)</entry><entry align="center">93</entry><entry align="center">91</entry><entry align="center">91</entry><entry align="center">43 43</entry><entry align="center">31</entry><entry align="center">27</entry></row><row><entry align="left">Hydrolysis resistance<!--footnotes removed-->1 Elongation ratio (%)</entry><entry align="center">91</entry><entry align="center">92</entry><entry align="center">88</entry><entry align="center">35</entry><entry align="center">20</entry><entry align="center">24<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0091">As shown in Table 1, which compares the results of
+Examples 1 to 3 with those of Comparative Examples 1 to 3,
+it is apparent that the carbodiimide compound (B) and
+compound (C) produce a synergistic effect for improving
+resistance to hydrolysis and weather.</p><heading>[Examples 4 to 11]</heading><p num="0092">A film was prepared in Example 4 in the same manner
+as in Example 1, except that an aliphatic polyester resin
+as the biodegradable plastic (A), mainly composed of
+polylactic acid, the carbodiimide compound prepared in
+Synthesis Example 1 to have isocyanate group at the terminal 
+as the compound (B) and benzotriazole-based compound (C)
+(2-(2'-hydroxy-3'-t-butyl-5'-methylphenyl)-5-chlorobenzotriazole,
+"TINUVIN 326®" supplied by Ciba
+Specialty Chemicals) were compounded, to evaluate its
+resistance to weather and hydrolysis (test period: 150
+hours). Table 2 gives the composition and evaluation
+results.</p><p num="0093">A film was prepared in each of Examples 5 to 11 in
+the same manner as in Example 1, except that a different
+composition was used, to evaluate its resistance to weather
+and hydrolysis (test period: 150 hours) . Table 2 gives the
+compositions and evaluation results.</p><p num="0094">The compound (C) used in Examples 10 and 11 was
+2-[4,6-bis(2,4-dimethylphenyl)-1,3,5-triazin-2-yl]-5-[(octyl)oxy]phenol
+as a triazine-based compound ("Cyasorb
+UV-1164®" supplied by Cytec Industries).</p><heading>[Comparative Examples 4 to 8]</heading><p num="0095">A film was prepared in each of Comparative Examples
+4 to 8 in the same manner as in Example 1, except that a
+different composition was used, to evaluate its resistance
+to weather and hydrolysis (test period: 150 hours) . Table
+2 gives the composition and evaluation results.
+
+   A film was prepared in the absence of specified
+compound (C) in each of Comparative Examples 4 to 6, and
+in the absence of carbodiimide compound in Comparative
+Example 8. Comparative Example 7 used an oxazoline-based
+compound in place of specified compound (C) and carbodiimide 
+compound (B). <img id="img-00340001" orientation="unknown" wi="121" img-format="tif" img-content="tb" file="00340001.tif" inline="no" he="231"/></p><heading>[Examples 12 and 13]</heading><p num="0096">A film was prepared in Example 12 in the same manner
+as in Example 1, except that a polyester resin mainly
+composed of polybutylene succinate/adipate/terephthalate
+("EnPol G 8002®" supplied by Ire Chemical), aliphatic
+carbodiimide compound ("Carbodilite HMV-8CA®" supplied by
+Nisshinbo Industries) and benzotriazole were used as the
+biodegradable plastic (A), carbodiimide compound (B) and
+compound (C), respectively, to evaluate its hydrolysis
+resistance (test period: 100 hours). Table 3 gives the
+composition and evaluation results.</p><p num="0097">A film was prepared in Example 13 in the same manner
+as in Example 1, except that a polyester resin mainly
+composed of polybutylene succinate/adipate/terephthalate,
+aliphatic carbodiimide compound ("Carbodilite HMV-8CA®"
+supplied by Nisshinbo Industries) and benzotriazole (2-(3,5-di-t-butyl-2-hydroxyphenyl)-5-
+chlorobenzotriazole,
+"TINUVIN 327®" supplied by Ciba Specialty Chemicals) were
+used as the biodegradable plastic (A), carbodiimide
+compound (B) and compound (C), respectively, to evaluate
+its hydrolysis resistance (test period: 100 hours). Table
+3 gives the composition and evaluation results.</p><heading>[Comparative Examples 9 to 12]</heading><p num="0098">A film was prepared in each of Comparative Examples
+9 to 12 in the same manner as in Example 1, except that a
+different composition was used, to evaluate its hydrolysis
+resistance (test period: 100 hours). Table 3 gives the 
+composition and evaluation results.</p><p num="0099">Comparative Example 9 used an epoxy compound in
+place of a specified compound (C) and carbodiimide compound
+(B) . Comparative Example 10 used an epoxy compound in place
+of a carbodiimide compound (C) . Comparative Example 11 used
+2,2'-dihydroxy-4-methoxybenzophenone ("Cyasorb UV-24®"
+supplied by Cytec Industries) as a benzophenone-based
+ultraviolet absorber in place of a specified compound (C) .
+Comparative Example 12 used 2-(3,5-di-t-butyl-2-hydroxyphenyl)-5-
+chlorobenzotriazole ("TINUVIN 327®"
+supplied by Ciba Specialty Chemicals) as a
+benzotriazole-based compound (C), but no carbodiimide
+compound (B) as was the case with Comparative Example 8. <img id="img-00370001" orientation="unknown" wi="140" img-format="tif" img-content="tb" file="00370001.tif" inline="no" he="230"/></p><p num="0100">As obvious from the results of Examples and
+Comparative Examples shown in Table 1 - 3, it was found that
+the biodegradable plastic composition of the present
+invention comprising a biodegradable plastic (A) compounded
+with a carbodiimide compound (B) and specified compound (C)
+exhibited much higher resistance to hydrolysis and weather,
+in particular resistance to biodegradation induced by
+hydrolysis, than the composition free of compound (B) or
+(C), e.g., those prepared in Comparative Examples 1 to 6,
+8 and 12.</p><p num="0101">It was also found that the biodegradable plastic
+composition of the present invention compounded with a
+varying content of carbodiimide compound had hydrolysis
+resistance improving roughly in proportion to carbodiimide
+content (Examples 5 to 8), by which is meant that
+biodegradation rate can be stably controlled by its content.</p><p num="0102">On the other hand, the compositions prepared in
+Comparative Examples to contain a compound similar to a
+carbodiimide compound (B) or specified compound (C) was
+found to show no improvement in hydrolysis resistance, where
+an oxazoline compound was used in Comparative Example 7,
+epoxy compound in Comparative Examples 9 and 10, and
+benzophenone-based ultraviolet absorber in Comparative
+Example 11. It is particularly noted that the composition
+prepared in Example 13 to contain a specified
+benzotriazole-based ultraviolet absorber as the compound
+(C) is much more resistant to hydrolysis than the one
+prepared in Comparative Example 11 to contain a
+benzophenone-based ultraviolet absorber. </p><p num="0103">The biodegradable plastic composition of the
+present invention, characterized in that it comprises a
+biodegradable plastic (A) compounded with specified amounts
+of a carbodiimide compound (B) and compound (C), shows
+notable advantages because it can be stably adjusted in
+biodegradation rate, and has greatly improved resistance
+to hydrolysis and weather, in particular the former, and
+durability resulting from the improved resistances.</p><p num="0104">Therefore it can be suitably used in such fields
+as materials for agriculture, forestry and fishery (mulch
+film, mulch sheet, plantation pot, fishing line, fishing
+net, and the like); materials for civil engineering works
+(water-holding sheet, net for plants, sandbag, and the
+like); and molded article, extrudate, blow-molded article,
+thermally molded article, fiber, non-woven fabric, film for
+packing/container fields, in particular, molded articles
+of the biodegradable plastic such as film, sheet, fiber,
+bottle and tray.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A biodegradable plastic composition comprising (A) 100
+parts by weight of biodegradable plastic, (B) 0.01 to 10
+parts by weight of a carbodiimide compound, and (C) 0.01
+to 10 parts by weight of at least one compound selected from
+the group consisting of benzotriazole-, triazine- and
+hydroxylamine-based one.</claim-text></claim><claim num="2"><claim-text>The biodegradable plastic composition according to
+claim 1, characterized in that said benzotriazole-based
+compound is a benzotriazole-based ultraviolet absorber.</claim-text></claim><claim num="3"><claim-text>The biodegradable plastic composition according to
+claim 1, characterized in that said triazine-based compound
+is a triazine-based ultraviolet absorber or triazine
+derivative having at least one amino group in the molecule.</claim-text></claim><claim num="4"><claim-text>The biodegradable plastic composition according to
+claim 1, characterized in that said hydroxylamine-based
+compound is N-hydroxybenzotriazole, N-hydroxysuccinimide
+or a derivative thereof.</claim-text></claim><claim num="5"><claim-text>The biodegradable plastic composition according to
+anyone of claims 1 to 4, characterized in that said biodegradable plastic
+(A) is an aliphatic-based polyester.</claim-text></claim><claim num="6"><claim-text>The biodegradable plastic composition according to
+anyone of claims 1 to 5, chracterized in that said carbodiimide compound
+(B) is aliphatic polycarbodiimide.</claim-text></claim><claim num="7"><claim-text>The biodegradable plastic composition according to
+claim 6, characterized in that said aliphatic
+polycarbodiimide compound has an isocyanate terminal.</claim-text></claim><claim num="8"><claim-text>A molded article of a biodegradable plastic obtained
+by molding the biodegradable plastic composition according
+to any one of claims 1 to 7.</claim-text></claim><claim num="9"><claim-text>The molded article of the biodegradable plastic
+according to claim 8, which is in the form of molded article,
+extrudate, blow-molded article, thermally molded article,
+fiber, non-woven fabric, film or sheet.</claim-text></claim><claim num="10"><claim-text>A method for controlling biodegradation rate of a
+biodegradable plastic, characterized in that a
+biodegradable plastic (A) is compounded with a carbodiimide
+compound (B) and at least one compound (C) selected from
+the group consisting of benzotriazole-, triazine- and
+hydroxylamine-based one in such a way to adjust its
+biodegradability.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

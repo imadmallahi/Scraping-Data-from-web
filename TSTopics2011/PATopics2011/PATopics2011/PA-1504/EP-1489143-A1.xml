@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1489143-A1" country="EP" doc-number="1489143" kind="A1" lang="EN" date="20041222" family-id="33422178" date-produced="20090516" status="new"><bibliographic-data><publication-reference fvid="24245708" ucid="EP-1489143-A1" status="new"><document-id status="new" format="original"><country>EP</country><doc-number>1489143</doc-number><kind>A1</kind><date>20041222</date></document-id></publication-reference><application-reference ucid="EP-04253696-A" status="new" is-representative="NO"><document-id format="epo" status="new"><country>EP</country><doc-number>04253696</doc-number><kind>A</kind><date>20040621</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2003176272-A" status="new"><document-id format="epo" status="new"><country>JP</country><doc-number>2003176272</doc-number><kind>A</kind><date>20030620</date></document-id></priority-claim><priority-claim ucid="JP-2003176273-A" status="new"><document-id format="epo" status="new"><country>JP</country><doc-number>2003176273</doc-number><kind>A</kind><date>20030620</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C09B  67/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09B  67/12        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09B  67/22        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09B  67/50        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09B  67/00B5D</classification-symbol><classification-symbol scheme="EC">C09B  67/00C2</classification-symbol><classification-symbol scheme="EC">C09B  67/00M1B</classification-symbol></classification-ecla><invention-title lang="DE" load-source="ep" status="new">Verfahren zur Herstellung von einem Phthalocyaninpigment des beta-Typs und dessen Verwendung</invention-title><invention-title lang="EN" load-source="ep" status="new">Process for the production of beta type copper phthalocyanine pigment and a use thereof</invention-title><invention-title lang="FR" load-source="ep" status="new">Procédé de production d'un pigment de phtalocyanine de cuivre sous forme béta et l'utilisation de ce pigment</invention-title><citations><patent-citations><patcit ucid="EP-0392334-A2" status="new"><document-id format="epo" status="new"><country>EP</country><doc-number>0392334</doc-number><kind>A2</kind></document-id><sources><source name="SEA" category="A" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0803545-A2" status="new"><document-id format="epo" status="new"><country>EP</country><doc-number>0803545</doc-number><kind>A2</kind></document-id><sources><source name="SEA" category="Y" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0808878-A2" status="new"><document-id format="epo" status="new"><country>EP</country><doc-number>0808878</doc-number><kind>A2</kind></document-id><sources><source name="SEA" category="A" created-by-npl="N"/></sources></patcit><patcit ucid="FR-2076889-A5" status="new"><document-id format="epo" status="new"><country>FR</country><doc-number>2076889</doc-number><kind>A5</kind></document-id><sources><source name="SEA" category="Y" created-by-npl="N"/></sources></patcit><patcit ucid="FR-2265826-A1" status="new"><document-id format="epo" status="new"><country>FR</country><doc-number>2265826</doc-number><kind>A1</kind></document-id><sources><source name="SEA" category="Y" created-by-npl="N"/></sources></patcit><patcit ucid="JP-7310024-A"  status="new"><document-id format="epo" status="new"><country>JP</country><doc-number>7310024</doc-number><kind>A</kind></document-id><sources><source name="SEA" category="YD" created-by-npl="Y"/></sources></patcit><patcit ucid="US-5492563-A" status="new"><document-id format="epo"  status="new"><country>US</country><doc-number>5492563</doc-number><kind>A</kind></document-id><sources><source name="SEA"  category="A"  created-by-npl="N"/></sources></patcit><patcit ucid="WO-2001066650-A2" status="new"><document-id format="epo" status="new"><country>WO</country><doc-number>2001066650</doc-number><kind>A2</kind></document-id><sources><source name="SEA" category="A" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN vol. 1996, no. 03, 29 March 1996 (1996-03-29) -&amp; JP 07 310024 A (DAINIPPON INK &amp; CHEM INC), 28 November 1995 (1995-11-28)</text><sources><source name="SEA" category="YD" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant format="epo" status="new"><addressbook><name>TOYO INK MFG CO</name><address><country>JP</country></address></addressbook></applicant><applicant format="intermediate" status="new"><addressbook><name>TOYO INK MFG. CO., LTD.</name></addressbook></applicant><applicant format="original" status="new"><addressbook><last-name>TOYO INK MFG. CO., LTD.</last-name><address><street>3-13, Kyobashi 2-chome, Chuo-ku</street><city>Tokyo</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor format="epo" status="new"><addressbook><name>IDE YUSAKU</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>KOTANI TAKUYA</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>OSHIBA TOSHIO</name><address><country>JP</country></address></addressbook></inventor><inventor format="epo" status="new"><addressbook><name>SHIROMARU OSAMA</name><address><country>JP</country></address></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>IDE, YUSAKU</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>KOTANI, TAKUYA</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>OSHIBA, TOSHIO</name></addressbook></inventor><inventor format="intermediate" status="new"><addressbook><name>SHIROMARU, OSAMA</name></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>Ide, Yusaku, c/o Toyo INK MFG. CO., LTD</last-name><address><street>3-13 Kyobashi 2-chome Chuo-ku</street><city>Tokyo 104-0031</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>Kotani, Takuya, c/o Toyo INK MFG. CO., LTD</last-name><address><street>3-13 Kyobashi 2-chome Chuo-ku</street><city>Tokyo 104-0031</city><country>JP</country></address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>Oshiba, Toshio, c/o Toyo INK MFG. CO., LTD</last-name><address><street>3-13 Kyobashi 2-chome Chuo-ku</street><city>Tokyo 104-0031</city><country>JP</country> </address></addressbook></inventor><inventor format="original" status="new"><addressbook><last-name>Shiromaru, Osama, c/o Toyo INK MFG. CO., LTD</last-name><address><street>3-13 Kyobashi 2-chome Chuo-ku</street> <city>Tokyo 104-0031</city> <country>JP</country> </address></addressbook></inventor></inventors><agents><agent format="original" status="new"><addressbook><last-name>Srinivasan, Ravi Chandran</last-name><address><street>J.A. KEMP &amp;amp; CO. 14 South Square Gray's Inn</street><city>LONDON WC1R 5JJ</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract lang="EN" load-source="ep" status="new"><p>A process for the production of a β type copper phthalocyanine pigment,
+comprising dry-milling a crude copper phthalocyanine having a purity of 97 to
+100 % and a primary crystal diameter of 0.5 to 100 µm at a temperature of 180 to 50
+°C, to prepare an α/β mixed crystal type copper phthalocyanine having an α ratio of
+5 to 35 %, and treating the dry-milled product with a water-miscible organic solvent,
+
+   wherein 0.1 to 20 % by weight of at least one compound selected from the
+group consisting of a compound of the formula (1), a compound of the formula (2)
+and a compound of the formula (3) is added to the dry-milled product before, during
+or after the step (B).
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">MePc-{X-(CH<sub>2</sub>)<sub>k</sub>NR<sub>1</sub>R<sub>2</sub>}<sub>n</sub></st32:che><img file="80000001.tif" id="img-80000001" he="22" wi="73" img-format="tif" img-content="cf" orientation="unknown" inline="no"/><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">MePc-(SO<sub>3</sub><sup>-</sup>N<sup>+</sup>R<sub>5</sub>R<sub>6</sub>R<sub>7</sub>R<sub>8</sub>)<sub>p</sub></st32:che></p></abstract><description lang="EN" load-source="ep" status="new"><heading>Field of the Invention</heading><p num="0001">The present invention relates to a process for the
+production of a β type copper phthalocyanine pigment according
+to a dry-milling method and a use thereof.</p><heading>Prior Arts of the Invention</heading><p num="0002">Generally, a copper phthalocyanine after synthesis
+is called a crude copper phthalocyanine, and it is formed of
+large particles having a primary crystal diameter of 0.5 to
+100 µm. For this reason, it is impossible to directly use the
+above crude copper phthalocyanine as a pigment for a printing
+ink. The step of decreasing the size of primary crystals of
+the above crude copper phthalocyanine to about 100 ± 50 nm,
+which is a size usable as a printing ink, is called pigmentation.
+There are a variety of methods for the pigmentation.</p><p num="0003">Most general is a method which is called a solvent
+salt milling method. In this method, a milling assistant such
+as a common salt and an organic solvent, which promotes the
+conversion of crystals to β type, are added to the crude copper
+phthalocyanine and the mixture is milled. A β type copper
+phthalocyanine pigment obtained according to the above method
+has an average primary crystal diameter of 80 ± 40 nm and a
+primary crystal aspect ratio of 2.0 ± 0.5, that is, the size
+and shape of primary crystals are uniform. The above
+characteristics in physical properties advantageously reflect
+on its aptitude, so that the β type copper phthalocyanine pigment
+is suitable for a printing ink in terms of fluidity and tinting
+strength and is thus widely used. However, the above method 
+uses a milling assistant in an amount several times as large
+as that of the pigment and it uses a high boiling solvent which
+is a high environmental loading substance, so that numerous
+amounts of time and energy are required for the step of recovering
+the milling assistant or the organic solvent. In addition, the
+above method has a significant problem in that inorganic salts
+as a milling assistant corrode equipment, i.e., the load on
+the equipment is high.</p><p num="0004">In contrast, there is known a method in which the crude
+copper phthalocyanine is dry-milled and then the dry-milled
+phthalocyanine is treated with an organic solvent or the like.
+Since the steps of this method are simplified when compared
+with those of the above-mentioned solvent salt milling method,
+this method is very effective means for providing a low-price
+β type copper phthalocyanine pigment.</p><p num="0005">Crystals of a β type copper phthalocyanine converts
+into α type crystals, which is thermodynamically unstable, by
+means of a mechanical impact force such as that in dry-milling.
+It is known that, when a β type crude copper phthalocyanine
+is dry-milled at a milling temperature of 80 to 90 °C, generally,
+the α ratio in the dry-milled copper phthalocyanine becomes
+60 % or more (JP-A-7-310024).</p><p num="0006">On the other hand, when the milling is carried out
+by a small impact force, naturally, the ratio of α type crystals
+can be controlled to be small. For example, JP-A-2-294365
+discloses that, when the milling is carried out at a milling
+temperature of 100 °C, the content of α type crystals in the
+dry-milled product is 21 %. However, the milling by such a degree
+of impact force cannot achieve the size distribution of pigment
+particles obtained by the solvent salt milling method.</p><p num="0007">The solvent salt milling method is characterized by
+applying a powerful frictional force to a dough composed of 
+a crude copper phthalocyanine of huge primary crystals, an
+organic solvent and a milling assistant.</p><p num="0008">On the other hand, the method in which the dry-milled
+product is treated with an organic solvent or the like is
+characterized in that α type crystals are converted into β type
+crystals and, simultaneously, a strong aggregation of fine
+primary crystals is deflocculated to obtain an intended
+dispersed particle diameter. However, it is known that primary
+crystals grow into a needle form in the step of converting the
+α type crystals in the dry-milled product into β type crystals
+and the aspect ratio becomes large when compared with that of
+the solvent salt milling method.</p><p num="0009">The method, in which the crude copper phthalocyanine
+is dry-milled and then treated with an organic solvent or the
+like, is advantageous in that the step of recovering the milling
+assistant required in the solvent salt milling method is
+unnecessary, and it is also advantageous in view of a powder
+treatment amount since the dry-milling is effectively carried
+out. On the other hand, the above method has a defect in that
+β type crystals are converted into α type crystals at the time
+of applying a mechanical force. In addition, when α type crystals
+are made to convert into β type crystals by the function of
+the organic solvent, pigment primary crystals grow into a needle
+form and the aspect ratio becomes larger as compared with that
+of the solvent salt milling method. Therefore, there arise a
+problem of reddening in hue based on the orientation of dispersed
+particles and a problem of a decrease in fluidity based on the
+structural viscosity. Further, there is a method in which the
+crude copper phthalocyanine is dry-milled in the presence of
+a small amount of an organic solvent for preventing the formation
+of α type crystals. However, this method has a quality problem
+of difficulty in controlling the α ratio based on an 
+inhomogeneous treatment and a cost problem of investment in
+equipment such as an explosion-proof apparatus suitable for
+the solvent treatment.</p><p num="0010">The present inventors have focused attention on that
+the α ratio in the above α/β mixed crystal type copper
+phthalocyanine obtained by dry-milling exerts an influence upon
+the aspect ratio of a pigment as an end product, and found that
+the aspect ratio of pigment particles obtained by treatment
+with an organic solvent or the like decreases with a decrease
+in the α ratio in the milled product.</p><p num="0011">Further, the present inventors have found that the
+deflocculation properties of the dry-milled product, which is
+a strong aggregate, depend on the α ratio and that when the
+α ratio is smaller than 5 %, the deflocculation properties
+decrease extremely.</p><p num="0012">As the mechanical impact force or the milling time
+increases, the α ratio in the dry-milled product obtained by
+dry-milling increases. This phenomenon can be explained as
+follows. The bonding of a copper atom, which is a β type
+phthalocyanine center metal, to a nitrogen atom at a
+meso-position in an adjacent phthalocyanine molecule oriented
+in a longitudinal direction by the Jahn-Teller effect, is cut
+by mechanical stress, so that the internal energy increases.
+As a result thereof, the crystals convert into
+thermodynamically-unstable α type crystals. It is thus supposed
+that the crystals are again converted from α type into β type
+by a function which aims at thermodynamical stabilization, such
+as a function of heat or a nonacidic organic solvent, with
+releasing an enthalpy of ΔH<sub>β ← α</sub> = -10.8 kJ/mol, i.e., releasing
+10.8kJ/mol.</p><p num="0013">In the dry-milling step, it is sufficient, for
+increasing the α ratio by decreasing the re-conversion of α 
+type crystals into β type crystals, to jointly use a substance
+which suppresses a lattice contraction in the c axis direction
+of α type crystal. Conversely, it is inferred on the basis of
+crystal structure analysis, that it is sufficient for obtaining
+a dry-milled product having a low α ratio to use a crude copper
+phthalocyanine having a less amount of the substance which
+suppresses a lattice contraction in the c axis direction.</p><p num="0014">From the above inference, it is deduced that a
+dry-milled product having a low α ratio can be more easily
+obtained by dry-milling a high-purity crude copper
+phthalocyanine. This point has been verified by an experiment.</p><p num="0015">From the above theoretical backgrounds, so long as
+the crude copper phthalocyanine is high-purity, crystals are
+not easily converted into α type crystals even when a mechanical
+impact force is applied. Therefore, the degree of heating during
+the dry-milling can be decreased.</p><p num="0016">The dry-milling conditions for obtaining an α/β mixed
+crystal type copper phthalocyanine having an α ratio of 5 to
+35 % are clarified as follows. The α/β mixed crystal type copper
+phthalocyanine having an α ratio of 5 to 35 % is obtained by
+dry-milling a crude copper phthalocyanine having a purity of
+97 to 100 % at a dry-milling temperature of 180 to 50 °C, preferably
+160 to 80 °C.</p><heading>Summary of the Invention</heading><p num="0017">It is an object of the present invention to maintain
+a pigment quality equivalent to a pigment quality obtained by
+a solvent salt milling method and, at the same time, overcome
+problems that the solvent salt milling method has.</p><p num="0018">According to the present invention, there is provided
+a process for the production of a β type copper phthalocyanine
+pigment having an average primary crystal diameter of 80 ± 40 
+nm and a primary crystal aspect ratio of 2.0 ± 1.0 and having
+a crystallite diameter of 22 ± 5 nm in the direction perpendicular
+to a monoclinic β (200) plane, a crystallite diameter of 27
+± 5 nm in the direction perpendicular to a β (001) plane and
+a crystallite diameter of 15 ± 5 nm in the direction perpendicular
+to a β (010) plane,
+
+   which process comprises the step (A) of dry-milling
+a crude copper phthalocyanine having a purity, based on a
+sulfuric acid dissolution method, of 97 to 100 % and a primary
+crystal diameter of 0.5 to 100 µm at a temperature of 180 to
+50 °C, to prepare an α/β mixed crystal type copper phthalocyanine
+having an α ratio of 5 to 35 %, and the step (B) of treating
+the dry-milled product obtained in the step (A) in an organic
+solvent or a mixed liquid of organic solvent and water, to convert
+α type crystals into β type crystals, wherein 0.1 to 20 % by
+weight of at least one compound selected from the group
+consisting of a compound of the formula (1) , a compound of the
+formula (2) and a compound of the formula (3) is added to the
+dry-milled product before, during or after the step (B),
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">MePc-{X-(CH<sub>2</sub>)<sub>k</sub>NR<sub>1</sub>R<sub>2</sub>}<sub>n</sub></st32:che>
+   in which Me represents H<sub>2</sub>, Cu, Fe, Co, Ni, Zn, AlOH
+or FeOH, Pc represents a phthalocyanine residue, X represents
+CH<sub>2</sub>, CH<sub>2</sub>NHCOCH<sub>2</sub>, CO, SO<sub>2</sub>, CH<sub>2</sub>NH, CH<sub>2</sub>NHCOCH<sub>2</sub>NH, CONH or SO<sub>2</sub>NH, k
+is an integer of 0 to 6, R<sub>1</sub> and R<sub>2</sub> are each independently a hydrogen
+atom or an substituted or non-substituted alkyl or alkenyl group
+having 1 to 18 carbon atoms or R<sub>1</sub> and R<sub>2</sub> together form a
+five-membered or six-membered ring which may further contain
+a nitrogen atom, and n is an integer of 1 to 4, <img file="00070001.tif" id="img-00070001" he="32" wi="100" img-format="tif" img-content="cf" orientation="unknown" inline="no"/>
+   in which Me and Pc have the same meanings as those
+in the formula (1), Y is a halogen atom, an alkyl group, a nitro
+group, an amino group, a sulfone group or a carboxylic group,
+q is an integer of 1 to 3 and m is an integer of 0 to 4,
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">MePc- (SO<sub>3</sub><sup>-</sup>N<sup>+</sup>R<sub>5</sub>R<sub>6</sub>R<sub>7</sub>R<sub>8</sub>)<sub>p</sub></st32:che>
+   in which Me and Pc have the same meanings as those
+in the formula (1), R<sub>5</sub>, R<sub>6</sub>, R<sub>7</sub> and R<sub>8</sub> are each independently
+a hydrogen atom, a substituted or non-substituted alkyl or
+alkenyl group having 1 to 30 carbon atoms or a polyoxy lower
+alkyl or alkenyl group, provided that at least one of R<sub>5</sub>, R<sub>6</sub>,
+R<sub>7</sub> and R<sub>8</sub> an alkyl or alkenyl group having at least 10 carbon
+atoms or a polyoxy lower alkyl or alkenyl group, and p is an
+integer of 1 to 8.</p><p num="0019">In the present invention, the compound represented
+by the formula (1), the formula (2) or the formula (3) can be
+added before, during or after the step (B) , while it is preferred
+to add it before or during the step (B). The reason therefor
+is because it is assumed that the compound of the formula (1) ,
+the formula (2) or the formula (3) contributes to dispersion
+stabilization of a copper phthalocyanine pigment dispersion
+in an organic solvent and accelerates deflocculation of an
+aggregate. A remarkable increase in the fluidity of the
+dispersion substantiates the above assumption.</p><p num="0020">According to the present invention, further, there
+are provided a printing ink, a coating composition and a colored
+resin composition each of which uses the β type copper 
+phthalocyanine pigment provided by the process of the present
+invention.</p><heading>Detailed Description of the Invention</heading><p num="0021">The present invention will be explained in detail
+hereinafter. The dry-milling of the present invention
+pulverizes a crude copper phthalocyanine with a milling
+apparatus containing milling media, such as beads,
+substantially without a liquid substance. The milling is carried
+out by utilizing a milling force or destructive force due to
+a collision between the millingmedia. The dry-milling apparatus
+can be selected from known milling apparatuses such as a dry-type
+attritor, a ball mill, a vibrating mill, etc. Further, the
+dry-milling may be carried out in a deoxidation atmosphere after
+the atmosphere in the dry-milling apparatus is replaced with
+the deoxidation atmosphere by supplying a nitrogen gas, etc.,
+as required.</p><p num="0022">The dry-milling apparatus can be selected from known
+dry-type milling apparatuses heatable with steam, oil or the
+like, such as a dry-type attritor, a ball mill, a vibrating
+mill, etc. The milling time can be freely set depending upon
+the milling apparatus used or depending upon a desired
+milled-particle diameter. In a general dry-milling, the inside
+of the milling apparatus heats up, so that, in most cases, the
+dry-milling is carried out with cooling the temperature down
+to 80 to 100 °C. In the present invention, a milled product
+having an intended α ratio is obtained by adjusting the inside
+temperature to 180 to 50 °C, preferably 160 to 80 °C. When the
+temperature exceeds 180 °C, undesirably, an influence is exerted
+upon the quality of the pigment.</p><p num="0023">As the crude copper phthalocyanine, there is used a
+crude copper phthalocyanine having a purity, based on a sulfuric 
+acid dissolution method, of 97 to 100 %. When the above purity
+is smaller than 97 %, a milled product having a high α ratio
+is obtained.</p><p num="0024">In the present invention, the purity of the crude
+copper phthalocyanine based on the sulfuric acid dissolution
+method is measured as follows.</p><p num="0025">5 g of a sample is little by little added to 100 g
+of 98 % sulfuric acid at room temperature with stirring. After
+the completion of the addition, the mixture is stirred for 2
+hours, and then it is poured into 500 ml of distilled water
+with stirring. The resultant mixture is stirred under heat at
+90 °C and, 0.5 hour later, it is dried at 100 °C to a constant
+weight. Then, it is filtered under suction with a 17G4 glass
+filter, which have been weighed, and washed with water until
+the filtrate becomes free from acid. Then, the washed product
+remaining on the glass filter is dried at 100 °C to a constant
+weight, and then weighed. The purity can be obtained by the
+following expression.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">Purity/% = weight after treatment × 100 / weight before<st32:break type="required"/>
+treatment</st32:df></p><p num="0026">The α ratio of the milled product is 5 to 35 %, preferably
+10 to 30 %. A limitation is imposed upon the upper limit of
+the α ratio by an increase in the aspect ratio of pigment primary
+crystals. Further, a limitation is imposed upon the lower limit
+by deflocculation properties of a strong aggregate.</p><p num="0027">The solvent treatment of the milled product obtained
+is carried out with an organic solvent alone or a mixture of
+the organic solvent with water.</p><p num="0028">The kind of the solvent is a water-miscible organic
+solvent. Examples thereof include alcohol compounds such as
+isopropanol, butanol, isobutanol, ethyl cellosolve, butyl
+cellosolve and cyclohexanol and ketone compounds such as acetone 
+or methyl ethyl ketone. These solvents may be used alone or
+in combination.</p><p num="0029">In the solvent treatment step, there may be used a
+bead mill such as an Eiger mill, a sand mill, a ball mill, a
+pearl mill ("DCP mill" supplied by EIRICH, etc.), a cosmo mill,
+a Z mill, a dispermat or a basket mill.</p><p num="0030">In the solvent treatment step, there may be used a
+medialess disperser such as a wet type jet mill ("GENUS PY"
+supplied by Genus, "Nanomizer" supplied by Nanomizer) or a
+homomixer.</p><p num="0031">In the present invention, the pigment may be treated
+with a resin for giving an aptitude suitable to an application
+thereof. This treatment can be carried out during the step (A)
+or the step (B). The resin may be added during the dry-milling
+or during the solvent treatment. The resin can be freely selected
+from resins suitable for a printing ink, a coating composition
+or a colored resin, such as rosins typified by polymerized rosin,
+hydrogenated rosin or disproportionated rosin, or a
+rosin-modified phenol resin.</p><p num="0032">In the present invention, the pigment may be treated
+with a surfactant for giving an aptitude suitable to an
+application thereof. This treatment can be carried out during
+the step (A) or during the step (B). The surfactant can be
+freely selected from nonionic surfactants, anionic surfactants
+and cationic surfactants so long as it is suitable for a printing
+ink, a coating composition or a colored resin.</p><p num="0033">An offset ink, a coating composition and a colored
+resin composition are provided by using the copper
+phthalocyanine pigment produced by the process of the present
+invention. The vehicle therefor is not specially limited and
+it may contain an adjuvant or an extender pigment. For example,
+the vehicle for the offset ink is composed of a resin, a plant 
+oil and a solvent. Examples of the resin include a rosin-modified
+phenol resin, a petroleum resin, an alkyd resin and a resin
+obtained by modifying any one of these resins with a drying
+oil. Examples of the plant oil include linseed oil, tung oil
+and soybean oil. Examples of the solvent include n-paraffin,
+I-paraffin, aromatic, naphthene, α-olefin and water.</p><p num="0034">For example, the vehicle for the coating composition
+is composed of a resin and a solvent. Examples of the resin
+include an acrylic resin, an alkyd resin, an epoxy resin,
+chlorinated rubber, vinyl chloride, a synthetic resin emulsion,
+a silicone resin, a polyurethane resin, a polyester resin, a
+melamine resin, a urea resin, a mixture of at least two of these,
+or a water-soluble resin or emulsion resin prepared by
+solubilizing any one of the above resins in water. Examples
+of the solvent include a hydrocarbon, an alcohol, a ketone,
+an ether alcohol, an ether, an ester and water.</p><p num="0035">For example, the vehicle for a gravure printing ink
+is composed of a resin and a solvent. Examples of the resin
+include gum rosin, wood rosin, tall oil rosin, lime rosin, rosin
+ester, a maleic resin, a polyamide resin, a vinyl resin,
+cellulose nitrate, cellulose acetate, ethyl cellulose,
+chlorinated rubber, cyclized rubber, an ethylene-vinylacetate
+copolymer resin, a polyurethane resin, a polyester resin, an
+alkydresin, anacrylicresin, gilsonite, dammar, shellac, etc.,
+a mixture of at least two of these, and a water-soluble resin
+or emulsion resin prepared by solubilizing any one of the above
+resins or the mixture in water. Examples of the solvent include
+a hydrocarbon, an alcohol, a ketone, an ether alcohol, an ether,
+an ester and water.</p><p num="0036">A resin for a molding plastic, used for the colored
+resin composition, includes polyethylene, polypropylene, an
+ethylene/propylene copolymer, an ethylene/acrylic acid 
+copolymer, an ethylene/maleic acid copolymer, an
+α-olefin/acrylic acid copolymer, an α-olefin/maleic acid
+copolymer, an ethylene/vinyl acetate copolymer, polyvinyl
+chloride, polyvinyl acetate, polyvinyl formal, polybutylal,
+polyacrylonitrile, polymethacryl, polystyrene, an
+acrylonitrile/butadiene/styrene copolymer, polyethylene
+terephthalate, polyurethane, polycarbonate, 6-Nylon,
+6,6-Nylon, unsaturated polyester, an epoxy resin, a urea resin,
+a melamine resin, a cellulose resin, etc.</p><p num="0037">The printing ink, the coating composition or the
+colored resin composition, provided by the present invention,
+can be produced by mixing or dispersing the above copper
+phthalocyanine pigment or a mixture of the copper phthalocyanine
+pigment with a phthalocyanine derivative with/in the
+corresponding vehicle with a dispersing apparatus. The
+dispersing apparatus includes a dissolver, a high-speed mixer,
+a homomixer, a kneader, a flusher, a roll mill, a sand mill,
+an attritor and a single-spindle or multi-spindle rotary screw
+extruder.</p><heading>Effect of the Invention</heading><p num="0038">The present invention can produce the β type copper
+phthalocyanine pigment of which the primary crystal aspect ratio
+is small. Further, the above β type copper phthalocyanine pigment
+has quality, in terms of tinting strength, gloss, fluidity,
+etc., equivalent to the quality of a pigment of the
+generally-used solvent salt milling method, but gives less
+loading to equipment and environment since salts as a milling
+assistant and a high-boiling solvent having a high COD value
+are not used.</p><heading>Examples</heading><p num="0039">The present invention will be explained concretely
+with reference to Examples and Comparative Examples hereinafter.
+Standard pigments used in the Examples were prepared as follows.</p><p num="0040">For a gravure ink or coating composition test
+evaluation, a β type copper phthalocyanine pigment was prepared
+from a crude copper phthalocyanine by a solvent salt milling
+method (a common salt in five times amount), and the β type
+copper phthalocyanine pigment and a compound of the formula
+(1) were mixed in a weight ratio of 96:4.</p><p num="0041">For an offset printing ink or colored resin test
+evaluation, a β type copper phthalocyanine pigment was prepared
+from a crude copper phthalocyanine by a solvent salt milling
+method (a common salt in five times amount), and the β type
+copper phthalocyanine pigment and a compound of the formula
+(2) were mixed in a weight ratio of 96:4. The aspect ratio of
+pigment particles was about 2.0. The aspect ratio of primary
+crystal was calculated from a photograph taken with a
+transmission electron microscope.</p><p num="0042">Test methods were as follows. In the tests, a pigment
+used was obtained by adding a predetermined pigment derivative
+into each pigment of Examples and Comparative Examples as
+required.</p><heading>Offset printing ink test</heading><p num="0043">100 parts by weight of a pigment was dispersed in 400
+parts by weight of a vehicle for an offset ink comprising a
+rosin-modified phenol resin and a solvent with a three roll
+and then the vehicle for an offset ink and the solvent were
+further added to prepare an offset ink. The offset ink was printed
+with a simple printer, to obtain a color sample.</p><heading>Colored resin test</heading><p num="0044">0.8 part by weight of a pigment and 1.2 parts by weight
+of a plasticizer were dispersed to obtain a color paste. 0.5 
+part by weight of the color paste and 50 parts by weight of
+a transparent vinyl chloride compound were mixed with a two
+roll adjusted at 155 °C, to obtain a deep color sheet. Further,
+0.1 part by weight of the color paste and 50 parts by weight
+of an opaque vinyl chloride compound were mixed similarly to
+obtain a light color sheet. The deep color sheet and the light
+color sheet were pressed under heat to obtain color samples.</p><heading>Coating composition test</heading><p num="0045">6 parts by weight of a pigment and an amino alkyd resin
+varnish for a baking coating composition containing 56 parts
+by weight of an alkyd resin varnish having a solid content of
+60 %, 28 parts by weight of a melamine resin varnish having
+a solid content of 50 % and 10 parts by weight of xylene were
+dispersed using glass beads as dispersing media, to prepare
+a coating composition. As a coating composition for a tinting
+strength comparison, 1 part by weight of a pigment and a white
+coating composition containing 10 parts by titanium dioxide
+were mixed to prepare a light color coating composition. Each
+of the coating compositions was applied onto an art paper with
+a six-mil applicator and baked at 130 °C for 30 minutes, to
+obtain color samples.</p><heading>Gravure test</heading><p num="0046">20 parts by weight of a pigment and a flexo ink varnish
+containing 14 parts by weight of cellulose nitrate, 10 parts
+by weight of ethyl acetate, 53 parts by weight of ethanol and
+3 parts by weight of a plasticizer were dispersed using glass
+beads as dispersing media, to obtain a gravure ink. The gravure
+ink was applied onto a triacetate film with a bar coater No.3,
+to obtain a color sample.</p><p num="0047">The α ratio and the diameter of a crystallite were
+obtained from an X-ray diffraction profile. </p><p num="0048">The α ratio was calculatedby the following expression.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">α ratio/% = { (integrated intensity at a diffraction<st32:break type="required"/>
+angle of 14.3° - 16.0°) - (integrated intensity at a diffraction<st32:break type="required"/>
+angle of 13.8°) } × 100 / {(total of integrated intensities at<st32:break type="required"/>
+diffraction angles of 12.2°, 14.3° - 16.0°, and 18.0°) -<st32:break type="required"/>
+(integrated intensity at a diffraction angle of 13.8°)}</st32:df></p><p num="0049">The diameter of a crystallite was calculated by the
+Scherrer expression from an integral width value based on
+diffraction planes of β(001), β(200) and β(010) at diffraction
+angles of 7.0°, 10.5° and 18.5°.</p><heading>Example 1</heading><p num="0050">500 parts by weight of a crude copper phthalocyanine
+having a purity of 99 %, based on a sulfuric acid dissolution
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 115 °C for 1 hour, to obtain a
+milled product containing 15 % of α type crystals. 48 parts
+by weight of the milled product was added to 100 parts by weight
+of isobutanol and 50 parts by weight of water, and the mixture
+was stirred with a high-speed mixer at 80 °C for 1 hour. It
+was confirmed that the α ratio decreased to 1 % or less by the
+above pre-mixing procedure. The confirmation of the α ratio
+was carried out using a sample obtained by adding the slurry
+after the pre-mixing treatment to an equal amount of methanol,
+filtering the resultant mixture with a filter paper No.5C
+supplied by TOYO ROSHI KAISHA, LTD., further dashing 3 times
+amount of isobutanol over a material remaining on the filter
+paper to wash the material, and air-drying the washed material.</p><p num="0051">Then, 200 parts by weight of isobutanol, 100 parts
+by weight of water and 2 parts by weight of a phthalimide
+methylated copper phthalocyanine (the number of substitutes 
+of a phthalimide methyl group was 1/mol) were further added,
+and the resultant mixture was circulatively dispersed with an
+Eiger mill having a mill volume of 200 ml using 0.8 mm  steal
+beads at 50 °C for 1 hour. Then, 200 parts by weight of water
+was added, and the resultant mixture was distilled and then
+spray-dried, to obtain a pigment. The aspect ratio of particles
+of the pigment was 2.2, and the α ratio was 1 % or less. The
+crystallite diameter was 22 nm in the direction perpendicular
+to a monoclinic β (200) plane, it was 30 nm in the direction
+perpendicular to a β (001) plane and it was 16 nm in the direction
+perpendicular to a β (010) plane. The pigment was compared with
+a standard pigment using the above crude copper phthalocyanine
+as a raw material. An offset printing ink of the pigment of
+the present Example had a quality at least equivalent to the
+quality of an offset printing ink of the standard pigment in
+terms of tinting strength, fluidity, etc., and the hue thereof
+was greenish. Further, a colored resin of the pigment of the
+present Example had a quality at least equivalent to the quality
+of a colored resin of the standard pigment in terms of color
+development, tinting strength, etc.</p><heading>Example 2</heading><p num="0052">500 parts by weight of a crude copper phthalocyanine
+having a purity of 97 %, based on a sulfuric acid dissolution
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 90 °C for 1 hour, to obtain a milled
+product containing 27 % of α type crystals. 48 parts by weight
+of the milled product was added to 150 parts by weight of
+isobutanol, 50 parts by weight of water and 0.7 part by weight
+of PELEX OT-P (anionic surfactant supplied by KAO Corporation)
+and the mixture was stirred with a high-speed mixer at 80 °C 
+for 1.5 hours. It was confirmed that the α ratio decreased to
+1 % or less. Then, 225 parts by weight of isobutanol, 75 parts
+by weight of water and 2 parts by weight of a phthalimide
+methylated copper phthalocyanine (the number of substitutes
+of a phthalimide methyl group was 1/mol) were further added,
+and the resultant mixture was circulatively dispersed with an
+Eiger mill having a mill volume of 200 ml using 0.8 mm  steal
+beads at 60 °C for 1 hour. Then, 260 parts by weight of water
+was added, and the resultant mixture was distilled and then
+spray-dried, to obtain a pigment. The aspect ratio of particles
+of the pigment was 2.6, and the α ratio was 1 % or less. The
+crystallite diameter was 20 nm in the direction perpendicular
+to a monoclinic β (200) plane, it was 25 nm in the direction
+perpendicular to a β (001) plane and it was 18 nm in the direction
+perpendicular to a β (010) plane. The pigment was compared with
+a standard pigment using the above crude copper phthalocyanine
+as a raw material. An offset printing ink of the pigment of
+the present Example had a quality at least equivalent to the
+quality of an offset printing ink of the standard pigment in
+terms of tinting strength, fluidity, etc., and the hue thereof
+was greenish. Further, a colored resin of the pigment of the
+present Example had a quality at least equivalent to the quality
+of a colored resin of the standard pigment in terms of color
+development, tinting strength, etc.</p><heading>Example 3</heading><p num="0053">500 parts by weight of a crude copper phthalocyanine
+having a purity of 98 %, based on a sulfuric acid dissolution
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 140 °C for 1 hour, to obtain a
+milled product containing 8 % of α type crystals. 48 parts by 
+weight of the milled product was added to 75 parts by weight
+of isobutanol, 175 parts by weight of water and 0.5 part by
+weight of ESTER GUMAT (rosin ester type resin supplied by Arakawa
+Chemical Industries, Ltd.), and the mixture was stirred with
+a high-speed mixer at 80 °C for 1 hour. It was confirmed that
+the α ratio decreased to 1 % or less. Then, 175 parts by weight
+of isobutanol, 75 parts by weight of water and 2 parts by weight
+of CuPc-CH<sub>2</sub>NHCOCH<sub>2</sub>NH(CH<sub>2</sub>)<sub>3</sub>N(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub> were further added, and the
+resultant mixture was circulatively dispersed with an Eiger
+mill having a mill volume of 200 ml using 0.8 mm  steal beads
+at 60 °C for 1.5 hours. Then, 75 parts by weight of water was
+added and the resultant mixture was distilled and then
+spray-dried, to obtain a pigment. The aspect ratio of particles
+of the pigment was 2.1, and the α ratio was 1 % or less. The
+crystallite diameter was 23 nm in the direction perpendicular
+to a monoclinic β (200) plane, it was 24 nm in the direction
+perpendicular to a β (001) plane and it was 16 nm in the direction
+perpendicular to a β (010) plane. The pigment was compared with
+a standard pigment using the above crude copper phthalocyanine
+as a raw material. A coating composition of the pigment of the
+present Example had a quality at least equivalent to the quality
+of a coating composition of the standard pigment in terms of
+tinting strength, fluidity, etc.</p><heading>Example 4</heading><p num="0054">500 parts by weight of a crude copper phthalocyanine
+having a purity of 99 %, based on a sulfuric acid dissolution
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 115 °C for 1 hour, to obtain a
+milled product containing 15 % of α type crystals. 48 parts
+by weight of the milled product was added to 75 parts by weight 
+of ethyl cellosolve and 75 parts by weight of water, and the
+mixture was stirred with a high-speed mixer at 80 °C for 1 hour.
+It was confirmed that the α ratio decreased to 1 % or less.
+Then, 150 parts by weight of ethyl cellosolve, 150 parts by
+weight of water and 2 parts by weight of CuPc-SO<sub>2</sub>NH (CH<sub>2</sub>)<sub>3</sub>N(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>
+were further added, and the resultant mixture was circulatively
+dispersed with an Eiger mill having a mill volume of 200 ml
+using 0.8 mm  steal beads at 50 °C for 1 hour. Then, 70 parts
+by weight of water was added and the resultant mixture was
+distilled and then spray-dried, to obtain a pigment. The aspect
+ratio of particles of the pigment was 2.3, and the α ratio was
+1 % or less. The crystallite diameter was 23 nm in the direction
+perpendicular to a monoclinic β (200) plane, it was 26 nm in
+the direction perpendicular to a β (001) plane and it was 14
+nm in the direction perpendicular to a β (010) plane. The pigment
+was compared with a standard pigment using the above crude copper
+phthalocyanine as a raw material. A gravure ink of the pigment
+of the present Example had a quality at least equivalent to
+the quality of a gravure ink of the standard pigment in terms
+of tinting strength, gloss, fluidity, etc.</p><heading>Comparative Example 1</heading><p num="0055">500 parts by weight of a crude copper phthalocyanine
+having a purity of 93%, based on a sulfuric acid dissolution
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 130 °C for 1 hour, to obtain a
+milled product containing 45 % of α type crystals. 48 parts
+by weight of the milled product was added to 100 parts by weight
+of isobutanol and 50 parts by weight of water, and the mixture
+was stirred with a high-speed mixer at 80 °C for 2 hours. It
+was confirmed that the α ratio decreased to 1 % or less. Then, 
+200 parts by weight of isobutanol, 100 parts by weight of water
+and 2 parts by weight of a phthalimide methylated copper
+phthalocyanine (the number of substitutes of a phthalimide
+methyl group was 1/mol) were further added, and the resultant
+mixture was circulatively dispersed with an Eiger mill having
+a mill volume of 200 ml using 0.8 mm  steal beads at 50 °C
+for 1 hour. Then, 200 parts by weight of water was added and
+the resultant mixture was distilled and then spray-dried, to
+obtain a pigment. The aspect ratio of particles of the pigment
+was 4.0, and the α ratio was 1 % or less. The crystallite diameter
+was 21 nm in the direction perpendicular to a monoclinic β (200)
+plane, it was 26 nm in the direction perpendicular to a β (001)
+plane and it was 16 nm in the direction perpendicular to a β
+(010) plane. The pigment was compared with the standard pigment
+prepared in Example 1. An offset printing ink of the pigment
+of the present Comparative Example was poor in terms of tinting
+strength, fluidity, etc., when compared with an offset printing
+ink of the standard pigment of the solvent salt milling method.</p><heading>Comparative Example 2</heading><p num="0056">500 parts by weight of a crude copper phthalocyanine
+having a purity of 98 %, based on a sulfuric acid dissolution
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled in the presence of 15 parts by weight
+of xylene at 120 °C for 1 hour, to obtain a milled product
+containing 3 % of α type crystals. 48 parts by weight of the
+milled product was added to 75 parts by weight of isobutanol
+and 175 parts by weight of water, and the mixture was stirred
+with a high-speed mixer at 80 °C for 1 hour. It was confirmed
+that the α ratio decreased to 1 % or less. Then, 175 parts by
+weight of isobutanol, 75 parts by weight of water and 2 parts 
+by weight of CuPc-SO<sub>2</sub>NH(CH<sub>2</sub>)<sub>3</sub>N(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub> were further added, and
+the resultant mixture was circulatively dispersed with an Eiger
+mill having a mill volume of 200 ml using 0.8 mm  steal beads
+at 60 °C for 1.5 hours. Then, 75 parts by weight of water was
+added and the resultant mixture was distilled and then
+spray-dried, to obtain a pigment. The aspect ratio of particles
+of the pigment was 2.0, and the α ratio was 1 % or less. The
+crystallite diameter was 20 nm in the direction perpendicular
+to a monoclinic β (200) plane, it was 27 nm in the direction
+perpendicular to a β (001) plane and it was 14 nm in the direction
+perpendicular to a β (010) plane. The pigment was compared with
+the standard pigment prepared in Example 4. A gravure ink of
+the pigment of the present Comparative Example was poor in terms
+of tinting strength, fluidity, etc. , when comparedwith a gravure
+ink of the standard pigment of the solvent salt milling method.</p><heading>Comparative Example 3</heading><p num="0057">500 parts by weight of a crude copper phthalocyanine
+having a purity of 99 %, based on a sulfuric acid dissolution
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 115 °C for 1 hour, to obtain a
+milled product containing 15 % of α type crystals. 50 parts
+by weight of the milled product was added to 100 parts by weight
+of isobutanol and 50 parts by weight of water, and the mixture
+was stirred with a high-speed mixer at 80 °C for 1 hour. It
+was confirmed that the α ratio decreased to 1 % or less by the
+above pre-mixing procedure. Then, 200 parts by weight of
+isobutanol and 100 parts by weight of water were further added,
+and the resultant mixture was circulatively dispersed with an
+Eiger mill having a mill volume of 200 ml using 0.8 mm  steal
+beads at 50 °C for 1 hour. Then, 200 parts by weight of water 
+was added, and the resultant mixture was distilled and then
+spray-dried, to obtain a pigment. The aspect ratio of particles
+of the pigment was 2.3, and the α ratio was 1 % or less. The
+crystallite diameter was 23 nm in the direction perpendicular
+to a monoclinic β (200) plane, it was 26 nm in the direction
+perpendicular to a β (001) plane and it was 15 nm in the direction
+perpendicular to a β (010) plane. The pigment was compared with
+a pigment (1) prepared by adding a phthalimide methylated copper
+phthalocyanine into the above pigment in the same weight ratio
+as that of a standard pigment. An offset printing ink of the
+pigment of the present Comparative Example was poor in terms
+of tinting strength, gloss, fluidity, etc., when compared with
+an offset printing ink of the pigment (1).</p><p num="0058">Standard pigments used in Examples 5 to 8 were prepared
+as follows. A β type copper phthalocyanine pigment was prepared
+from a crude copper phthalocyanine by a solvent salt milling
+method (a common salt in five times amount), and the β type
+copper phthalocyanine pigment and a compound of the formula
+(3) were mixed in a weight ratio of 92:8. The aspect ratio of
+pigment particles was about 2.0. The aspect ratio of primary
+crystal was calculated from a photograph taken with a
+transmission electron microscope.</p><heading>Example 5</heading><p num="0059">500 parts by weight of a crude copper phthalocyanine
+having a purity of 99 %, based on a sulfuric acid dissolution
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 115 °C for 1 hour, to obtain a
+milled product containing 15 % of α type crystals. 46 parts
+by weight of the milled product was added to 100 parts by weight 
+of isobutanol and 50 parts by weight of water, and the mixture
+was stirred with a high-speed mixer at 80 °C for 1 hour. It
+was confirmed that the α ratio decreased to 1 % or less by the
+above pre-mixing procedure. The confirmation of the α ratio
+was carried out using a sample obtained by adding the slurry
+after the pre-mixing treatment to an equal amount of methanol,
+filtering the resultant mixture with a filter paper No.5C
+supplied by TOYO ROSHI KAISHA, LTD., further dashing 3 times
+amount of isobutanol over a material remaining on the filter
+paper to wash the material, and air-drying the washed material.</p><p num="0060">Then, 200 parts by weight of isobutanol, 100 parts
+by weight of water and 4 parts by weight of CuPc-SO<sub>3</sub><sup>-</sup>N<sup>+</sup>H<sub>3</sub>(C<sub>12</sub>H<sub>25</sub>)
+were further added, and the resultant mixture was circulatively
+dispersed with an Eiger mill having a mill volume of 200 ml
+using 0.8 mm  steal beads at 50 °C for 1 hour. Then, 200 parts
+by weight of water was added, and the resultant mixture was
+distilled and then spray-dried, to obtain a pigment. The aspect
+ratio of particles of the pigment was 2.3, and the α ratio was
+1 % or less. The crystallite diameter was 22 nm in the direction
+perpendicular to a monoclinic β (200) plane, it was 29 nm in
+the direction perpendicular to a β (001) plane and it was 16
+nm in the direction perpendicular to a β (010) plane. The pigment
+was compared with a standard pigment using the above crude copper
+phthalocyanine as a raw material. A gravure ink of the pigment
+of the present Example had a quality at least equivalent to
+the quality of a gravure ink of the standard pigment in terms
+of tinting strength, gloss, fluidity, etc., and the hue thereof
+was greenish.</p><heading>Example 6</heading><p num="0061">500 parts by weight of a crude copper phthalocyanine
+having a purity of 97 %, based on a sulfuric acid dissolution 
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 90 °C for 1 hour, to obtain a milled
+product containing 27 % of α type crystals. 46 parts by weight
+of the milled product was added to 150 parts by weight of
+isobutanol, 50 parts by weight of water and 0.7 part by weight
+of PELEX OT-P (anionic surfactant supplied,by KAO Corporation)
+and the mixture was stirred with a high-speed mixer at 80 °C
+for 1.5 hours. It was confirmed that the α ratio decreased to
+1 % or less. Then, 225 parts by weight of isobutanol, 75 parts
+by weight of water and 4 parts by weight of
+CuPc-SO<sub>3</sub><sup>-</sup>N<sup>+</sup>(CH<sub>3</sub>)<sub>3</sub>(C<sub>12</sub>H<sub>25</sub>) were further added, and the resultant
+mixture was circulatively dispersed with an Eiger mill having
+a mill volume of 200 ml using 0.8 mm  steal beads at 60 °C
+for 1 hour. Then, 260 parts by weight of water was added, and
+the resultant mixture was distilled and then spray-dried, to
+obtain a pigment. The aspect ratio of particles of the pigment
+was 2.7, and the α ratio was 1 % or less. The crystallite diameter
+was 21 nm in the direction perpendicular to a monoclinic β (200)
+plane, it was 27 nm in the direction perpendicular to a β (001)
+plane and it was 14 nm in the direction perpendicular to a β
+(010) plane. The pigment was compared with a standard pigment
+using the above crude copper phthalocyanine as a raw material
+and the above phthalocyanine derivative. A gravure ink of the
+pigment of the present Example had a quality at least equivalent
+to the quality of a gravure ink of the standard pigment in terms
+of tinting strength, gloss, fluidity, etc., and the hue thereof
+was greenish.</p><heading>Example 7</heading><p num="0062">500 parts by weight of a crude copper phthalocyanine
+having a purity of 98 %, based on a sulfuric acid dissolution 
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 140 °C for 1 hour, to obtain a
+milled product containing 8 % of α type crystals. 46 parts by
+weight of the milled product was added to 75 parts by weight
+of isobutanol, 175 parts by weight of water and 0.5 part by
+weight of ESTERGUMAT (rosin ester type resin suppliedbyArakawa
+Chemical Industries, Ltd.), and the mixture was stirred with
+a high-speed mixer at 80 °C for 1 hour. It was confirmed that
+the α ratio decreased to 1 % or less. Then, 175 parts by weight
+of isobutanol, 75 parts by weight of water and 4 parts by weight
+of CuPc-SO<sub>3</sub><sup>-</sup>N<sup>+</sup>H<sub>2</sub>(C<sub>18</sub>H<sub>37</sub>)<sub>2</sub> were further added, and the resultant
+mixture was circulatively dispersed with an Eiger mill having
+a mill volume of 200 ml using 0.8 mm  steal beads at 60 °C
+for 1.5 hours. Then, 75 parts by weight of water was added and
+the resultant mixture was distilled and then spray-dried, to
+obtain a pigment. The aspect ratio of particles of the pigment
+was 2.1, and the α ratio was 1 % or less. The crystallite diameter
+was 23 nm in the direction perpendicular to a monoclinic β (200)
+plane, it was 26 nm in the direction perpendicular to a β (001)
+plane and it was 15 nm in the direction perpendicular to a β
+(010) plane. The pigment was compared with a standard pigment
+using the above crude copper phthalocyanine as a raw material
+and the above phthalocyanine derivative. A gravure ink of the
+pigment of the present Example had a quality at least equivalent
+to the quality of a gravure ink of the standard pigment in terms
+of tinting strength, gloss, fluidity, etc., and the hue thereof
+was greenish.</p><heading>Example 8</heading><p num="0063">500 parts by weight of a crude copper phthalocyanine
+having a purity of 99 %, based on a sulfuric acid dissolution 
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 115 °C for 1 hour, to obtain a
+milled product containing 15 % of α type crystals. 46 parts
+by weight of the milled product was added to 75 parts by weight
+of ethyl cellosolve and 75 parts by weight of water, and the
+mixture was stirred with a high-speed mixer at 80 °C for 1 hour.
+It was confirmed that the α ratio decreased to 1 % or less.
+Then, 150 parts by weight of ethyl cellosolve, 150 parts by
+weight of water and 4 parts by weight of
+CuPc-SO<sub>3</sub><sup>-</sup>N<sup>+</sup>(CH<sub>3</sub>) (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>{[CH<sub>2</sub>CH(CH<sub>3</sub>)O]<sub>11</sub>H} were further added, and
+the resultant mixture was circulatively dispersed with an Eiger
+mill having a mill volume of 200 ml using 0.8 mm  steal beads
+at 50 °C for 1 hour. Then, 70 parts by weight of water was added
+and the resultant mixture was distilled and then spray-dried,
+to obtain a pigment. The aspect ratio of particles of the pigment
+was 2.3, and the α ratio was 1 % or less. The crystallite diameter
+was 22 nm in the direction perpendicular to a monoclinic β (200)
+plane, it was 27 nm in the direction perpendicular to a β (001)
+plane and it was 18 nm in the direction perpendicular to a β
+(010) plane. The pigment was compared with a standard pigment
+using the above crude copper phthalocyanine as a raw material
+and the above phthalocyanine derivative. A gravure ink of the
+pigment of the present Example had a quality at least equivalent
+to the quality of a gravure ink of the standard pigment in terms
+of tinting strength, gloss, fluidity, etc., and the hue thereof
+was greenish.</p><heading>Comparative Example 4</heading><p num="0064">500 parts by weight of a crude copper phthalocyanine
+having a purity of 93%, based on a sulfuric acid dissolution
+method, and a primary crystal diameter of 1 to 10 µm was charged 
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled at 130 °C for 1 hour, to obtain a
+milled product containing 45 % of α type crystals. 46 parts
+by weight of the milled product was added to 100 parts by weight
+of isobutanol and 50 parts by weight of water, and the mixture
+was stirred with a high-speed mixer at 80 °C for 2 hours. It
+was confirmed that the α ratio decreased to 1 % or less. Then,
+200 parts by weight of isobutanol, 100 parts by weight of water
+and 4 parts by weight of CuPc-SO<sub>3</sub><sup>-</sup>N<sup>+</sup>H<sub>3</sub>(C<sub>12</sub>H<sub>23</sub>) were further added,
+and the resultant mixture was circulatively dispersed with an
+Eiger mill having a mill volume of 200 ml using 0.8 mm  steal
+beads at 50 °C for 1 hour. Then, 200 parts by weight of water
+was added and the resultant mixture was distilled and then
+spray-dried, to obtain a pigment. The aspect ratio of particles
+of the pigment was 4.0, and the α ratio was 1 % or less. The
+crystallite diameter was 23 nm in the direction perpendicular
+to a monoclinic β (200) plane, it was 29 nm in the direction
+perpendicular to a β (001) plane and it was 14 nm in the direction
+perpendicular to a β (010) plane. The pigment was compared with
+the standard pigment used in Example 5. A gravure ink of the
+pigment of the present Comparative Example was poor in terms
+of tinting strength, clarity, fluidity, etc., when compared
+with a gravure ink of the standard pigment of the solvent salt
+milling method.</p><heading>Comparative Example 5</heading><p num="0065">500 parts by weight of a crude copper phthalocyanine
+having a purity of 98 %, based on a sulfuric acid dissolution
+method, and a primary crystal diameter of 1 to 10 µm was charged
+into a 5-liter dry-type attritor, and the crude copper
+phthalocyanine was milled in the presence of 15 parts by weight
+of xylene at 120 °C for 1 hour, to obtain a milled product 
+containing 3 % of α type crystals. 46 parts by weight of the milled product was
+added to 75 parts by weight of isobutanol and 175 parts by weight of water, and the
+mixture was stirred with a high-speed mixer at 80 °C for 1 hour. It was confirmed
+that the α ratio decreased to 1 % or less. Then, 175 parts by weight of isobutanol, 75
+parts by weight of water and 4 parts by weight of CuPc-SO<sub>3</sub><sup>-</sup>N<sup>+</sup>H<sub>3</sub>(C<sub>18</sub>H<sub>37</sub>) were
+further added, and the resultant mixture was circulatively dispersed with an Eiger
+mill having a mill volume of 200 ml using 0.8 mm  steal beads at 60 °C for 1.5
+hours. Then, 75 parts by weight of water was added and the resultant mixture was
+distilled and then spray-dried, to obtain a pigment. The aspect ratio of particles of the
+pigment was 2.0, and the α ratio was 1 % or less. The crystallite diameter was 20 nm
+in the direction perpendicular to a monoclinic β (200) plane, it was 25 nm in the
+direction perpendicular to a β (001) plane and it was 16 nm in the direction
+perpendicular to a β (010) plane. The pigment was compared with a standard
+pigment using the above crude copper phthalocyanine as a raw material and the
+above phthalocyanine derivative. A gravure ink of the pigment of the present
+Comparative Example was poor in terms of tinting strength, clarity, gloss, etc., when
+compared with a gravure ink of the standard pigment of the solvent salt milling
+method.</p><p num="0066">Typically in the β-type pigment prepared by the process of the present
+invention, substantially all of the primary pigment particles have the average primary
+crystal diameter, primary crystal aspect ratio and crystallite diameters set out above.</p><p num="0067">Typically, said substituents on said substituted alkyl and alkenyl R<sub>1</sub> and R<sub>2</sub>
+groups in the formula (1) are selected from C<sub>1</sub>-C<sub>4</sub> alkyl and C<sub>2</sub>-C<sub>4</sub> alkenyl groups.</p><p num="0068">When R<sub>1</sub> and R<sub>2</sub>, together with the N atom to which they are attached, form a
+5 or 6 membered ring, said ring is aromatic or non-aromatic. Preferably, it is
+non-aromatic. Said non-aromatic rings are saturated or unsaturated. Preferably, the
+ring is saturated. In addition to the N atom to which R<sub>1</sub> and R<sub>2</sub> are attached, the 5-or
+6- membered ring typically contains 0, 1 or 2 further heteroatoms selected from N,
+O and S. Preferably, it contains 0 or 1 further heteroatoms which are N atoms.</p><p num="0069">Typically said substituents on the 5- or 6- membered ring are selected from
+C<sub>1</sub>-C<sub>4</sub> alkyl and C<sub>2-4</sub> alkenyl groups.</p><p num="0070">Most preferably, said 5- or 6- membered ring is a piperidine, piperazine or</p></description><claims lang="EN" load-source="ep" status="new"><claim num="1"><claim-text>A process for the production of a β type copper phthalocyanine pigment
+having an average primary crystal diameter of 80 ± 40 nm and a primary crystal
+aspect ratio of 2.0 ± 1.0 and having a crystallite diameter of 22 ± 5 nm in the
+direction perpendicular to a monoclinic β (200) plane, a crystallite diameter of 27 ± 5
+nm in the direction perpendicular to a β (001) plane and a crystallite diameter of 15 ±
+5 nm in the direction perpendicular to a β (010) plane,
+   which process comprises,
+<claim-text><claim-text>(A) dry-milling a crude copper phthalocyanine having a purity, based on a
+sulfuric acid dissolution method, of 97 to 100 % and a primary crystal diameter of
+0.5 to 100 µm at a temperature of 180 to 50 °C, to prepare an α/β mixed crystal type
+copper phthalocyanine having an α ratio of 5 to 35 %, and</claim-text><claim-text>(B) treating the dry milled product with a water-miscible organic solvent,
+wherein 0.1 to 20 % by weight of at least one compound of the formulae (1),
+(2) or (3) is added to the dry-milled product before, during or after the step (B),
+MePc-{X-(CH2)kNR1R2}n
+   wherein Me represents H2, Cu, Fe, Co, Ni, Zn, AIOH or FeOH, Pc represents
+a phthalocyanine residue, X represents CH2, CH2NHCOCH2, CO, SO2, CH2NH,
+CH2NHCOCH2NH, CONH or SO2NH, k is an integer of 0 to 6, R1 and R2 are the
+same or different and each represent a hydrogen atom or an substituted or
+non-substituted alkyl or alkenyl group having 1 to 18 carbon atoms or R1 and R2,
+together with the N atom to which they are attached, form a substituted or
+unsubstituted five-membered or six-membered ring, and n is an integer of 1 to 4,
+</claim-text></claim-text>
+   wherein Me and Pc are as defined in the formula (1), Y is a halogen atom, an
+alkyl group, a nitro group, an amino group, a sulfone group or a carboxylic group, n
+is an integer of 1 to 4 and m is an integer of 0 to 4,
+MePc-(SO3-N+R5R6R7R8)p
+   wherein Me and Pc are as defined in the formula (1), R5, R6, R7 and R8 are the
+same or different and each represent a hydrogen atom, a substituted or
+non-substituted alkyl or alkenyl group having 1 to 30 carbon atoms or a polyoxy
+C1-C12 alkyl or C2-C12 alkenyl group, provided that at least one of R5, R6, R7 and R8
+is an alkyl or alkenyl group having at least 10 carbon atoms or a polyoxy C1-C12
+alkyl or C2-C12 alkenyl group, and p is an integer of 1 to 8.</claim-text></claim><claim num="2"><claim-text>A process according to claim 1, wherein the water-miscible organic solvent is
+a liquid mixed with water.</claim-text></claim><claim num="3"><claim-text>A process according to claim 1 or 2, wherein step (B) is carried out by using a
+bead mill.</claim-text></claim><claim num="4"><claim-text>A process according to any one of the preceding claims, wherein, in the
+formula (I), k is from 1 to 6 when X is -CH2-NH-, -CH2NHCOCH2-NH-, -CO-NH-
+or -SO2-NH-.</claim-text></claim><claim num="5"><claim-text>A process according to any one of the preceding claims, wherein, when Y in
+the formula (2) is an alkyl group it is a C1-C4 alkyl group.</claim-text></claim><claim num="6"><claim-text>A printing ink comprising a β type copper phthalocyanine pigment produced
+by a process according to any one of claims 1 to 5 and a vehicle for the printing ink.</claim-text></claim><claim num="7"><claim-text>A coating composition comprising a β type copper phthalocyanine pigment
+produced by a process according to any one of claims 1 to 5, and a vehicle for the
+coating composition.</claim-text></claim><claim num="8"><claim-text>A process for preparing a printing ink or a coating composition, which process
+comprises:
+<claim-text><claim-text>(a) preparing a phthalocyanine pigment by a process according to any one
+of claims 1 to 5; and</claim-text><claim-text>(b) dispersing the thus obtained pigment in a vehicle.</claim-text></claim-text></claim-text></claim><claim num="9"><claim-text>A colored resin composition comprising a β type copper phthalocyanine
+pigment produced by a process according to any one of claims 1 to 5, and a resin for
+a molding plastic.</claim-text></claim><claim num="10"><claim-text>A process for preparing a colored resin composition, which process
+comprises:
+<claim-text><claim-text>(a) preparing a phthalocyanine pigment by a process according to any one
+of claims 1 to 5; and</claim-text><claim-text>(b) dispersing the thus obtained pigment in a resin.</claim-text></claim-text></claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

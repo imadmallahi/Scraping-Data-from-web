@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1352910-A1" country="EP" doc-number="1352910" kind="A1" lang="EN" family-id="28051821" status="new" date-produced="20090516" date="20031015"><bibliographic-data><publication-reference ucid="EP-1352910-A1" status="new" fvid="23864073"><document-id status="new" format="original"><country>EP</country><doc-number>1352910</doc-number><kind>A1</kind><date>20031015</date></document-id></publication-reference><application-reference ucid="EP-02076420-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>02076420</doc-number><kind>A</kind><date>20020410</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-02076420-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>02076420</doc-number><kind>A</kind><date>20020410</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A61K  31/519       20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/52        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/7042      20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61K  31/7076      20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   9/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P   9/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  25/04        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  29/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  29/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  43/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">A61P  43/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07D 473/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 473/38        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 519/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07D 519/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07H  19/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07H  19/16        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07H  19/167       20060101ALI20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C07D 473/38</classification-symbol><classification-symbol scheme="EC">C07D 519/00+498/00+473/00</classification-symbol><classification-symbol scheme="EC">C07H  19/16E</classification-symbol><classification-symbol scheme="ICO">M07D473:38</classification-symbol><classification-symbol scheme="ICO">M07D519:00</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Neue Analoga von Nitrobenzylthioinosine</invention-title><invention-title load-source="ep" status="new" lang="EN">New analogs of nitrobenzylthioinosine</invention-title><invention-title load-source="ep" status="new" lang="FR">Nouveaux derives d'analogues de nitrobenzylthioinosine</invention-title><citations><patent-citations><patcit ucid="DE-2524284-A1" status="new"><document-id status="new" format="epo"><country>DE</country><doc-number>2524284</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0421819-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0421819</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-3948886-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>3948886</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5780450-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5780450</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1989011274-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1989011274</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1993014103-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1993014103</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1996040165-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1996040165</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1997030713-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1997030713</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1999045935-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1999045935</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>GRUENENTHAL GMBH</name><address><country>DE</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>GRUENENTHAL GMBH</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Grünenthal GmbH</last-name><address><street>Zieglerstrasse 6</street><city>52078 Aachen</city><country>DE</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>IJZERMANN ADRIAAN PIETER PROF</name><address><country>NL</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>PUETZ CLAUDIA DR</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SUNDERMANN BERND DR</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SUNDERMANN CORINNA DR</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TROMP REYNIER DR</name><address><country>NL</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>VON FRIJTAG DRABBE KUENZEL JAC</name><address><country>NL</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>IJZERMANN, ADRIAAN PIETER PROF.DR.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>PUETZ, CLAUDIA DR.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SUNDERMANN, BERND DR.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SUNDERMANN, CORINNA DR.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TROMP, REYNIER DR.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>VON FRIJTAG DRABBE KUENZEL, JACOBIEN</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>IJZERMANN, ADRIAAN PIETER PROF.DR.</last-name><address><street>Park Oosterspaarn 6</street><city>2036 MB Haarlem</city><country>NL</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Pütz, Claudia Dr.</last-name><address><street>Holzstrasse 15</street><city>52349 Düren</city><country>DE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SUNDERMANN, BERND DR.</last-name><address><street>Oppenhoffallee 83</street><city>52066 Aachen</city><country>DE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SUNDERMANN, CORINNA DR.</last-name><address><street>Oppenhoffallee 83</street><city>52066 Aachen</city><country>DE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TROMP, REYNIER DR.</last-name><address><street>Rijnsburgersingel 26</street><city>2036 NB Leiden</city><country>NL</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>VON FRIJTAG DRABBE KUENZEL, JACOBIEN</last-name><address><street>Berkenrodestraat 24</street><city>2012 LB Haarlem</city><country>NL</country></address></addressbook></inventor></inventors></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>This invention relates to new analogs or derivatives of
+nitrobenzylthioinosine, use of these new analogs of nitrobenzylthioinosine
+for the treatment of pain and various other diseases as well as
+pharmaceuticals comprising at least on new analog of
+nitrobenzylthioinosine.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">This invention relates to new analogs or derivatives of
+nitrobenzylthioinosine, use of these new analogs of nitrobenzylthioinosine
+for the treatment of pain and various other diseases as well as
+pharmaceuticals comprising at least on new analog of
+nitrobenzylthioinosine.</p><p num="0002">The treatment of pain conditions is of great importance in medicine. There
+is currently a world-wide need for additional pain therapy. The pressing
+requirement for a target-oriented treatment of pain conditions which is right
+for the patient, which is to be understood as the successful and satisfactory
+treatment of pain for the patients, is documented in the large number of
+scientific works which have recently and over the years appeared in the
+field of applied analgesics or on basic research on nociception.</p><p num="0003">The facilitated, carrier-mediated transport of nucleosides across
+<img id="img-00010001" orientation="unknown" wi="30" img-format="tif" img-content="cf" file="00010001.tif" inline="no" he="33"/>
+mammalian cell membranes can be inhibited by a number
+of ligands including nucleoside derivatives such as
+nitrobenzylthioinosine (NBTI, <b>1</b>)<sup>i</sup>, and non-nucleoside
+compounds including marketed substances such as
+dipyridamole and dilazep.<sup>ii,iii</sup> Such compounds contribute
+to the physiological actions of adenosine. Through their blockade of the
+transport protein they increase the extracellular concentration of adenosine.
+This increase in adenosine levels causes a more profound occupancy of
+adenosine receptors through which adenosine exerts many of its
+physiological effects. The high hydrophilicity of NBTI and other transport
+inhibitors, however, may hinder their penetration into the CNS, where
+adenosine is involved in e.g., counteracting neuropathic pain. </p><p num="0004">An earlier study indicated that a nitro group preferably at the 4-position of
+the benzyl moiety in NBTI is a prime factor in determining the potency of
+inhibition of nucleoside transport in human erythrocytes.<sup>iv,v</sup> To gain further
+information on the interaction of NBTI with the nucleoside transporter-associated
+binding site we systematically replaced a number of
+substituents at C6 and N9. Also the 1-deaza-2-chloro analog of NBTI was
+prepared. The prime aim was to provide substances with reduced polarity
+while maintaining substantial affinity for the transport protein.</p><p num="0005">Still, the underlying main object of the present invention was to find a
+substance useful in the treatment of pain but also other indications as well
+as pharmaceutical compositions for this treatment.</p><p num="0006">It has now been found that new derivatives of nitrobenzylthioinosine are
+surprisingly useful in the treatment of pain but also other indications.</p><p num="0007">The main object of the invention is therefore a derivative of
+nitrobenzylthioinosine according to formula I
+<img id="img-00020001" orientation="unknown" wi="69" img-format="tif" img-content="cf" file="00020001.tif" inline="no" he="33"/>
+   , wherein
+
+   X is selected from C or N;
+
+   Y is selected from H, OH, SH, F, Cl, Br, I, -CF<sub>3</sub>, -CHF<sub>2</sub>, -CH<sub>2</sub>F, -OCH<sub>3</sub>,-OC<sub>2</sub>H<sub>5</sub>,
+-CH<sub>3</sub>, -C<sub>2</sub>H<sub>5</sub>;
+ 
+   R is selected from phenyl, benzyl, heteroaryl, or phenyl condensed with
+a heteroaryl, mono-or multisubstituted or unsubstituted respectively;
+
+   R' is selected from ribose, mono-or multisubstituted or unsubstituted;
+C<sub>1-6</sub>-alkyl saturated or unsaturated, mono-or multisubstituted or
+unsubstituted; C<sub>3-8</sub>-cycloalkyl or C<sub>3-8</sub>-cycloalkyl containing 1 or 2
+heteroatoms selected from S, O or N in the ring, mono-or
+multisubstituted or unsubstituted respectively; phenyl or benzyl,
+mono-or multisubstituted or unsubstituted respectively; or C<sub>1-6</sub>-alkyl-O-R"
+with alkyl saturated or unsaturated, mono-or multisubstituted or
+unsubstituted and R" selected from phenyl, heteroaryl, C<sub>3-8</sub>-cycloalkyl
+or C<sub>3-8</sub>-cycloalkyl containing 1 or 2 heteroatoms selected
+from S, O or N in the ring, mono-or multisubstituted or unsubstituted
+respectively.
+
+   optionally in the form of its racemate, pure stereoisomers, especially
+enantiomers or diastereomers or in the form of mixtures of
+stereoisomers, especially enantiomers or diastereomers, in any
+suitable ratio;
+
+   in the form shown or in form of the acid or base or in form of a salt,
+especially a physiologically acceptable salt, or in form of a solvate,
+especially a hydrate.</p><p num="0008">These derivatives of nitrobenzylthioinosine are surprisingly effective in the
+treatment of pain and in other indications.</p><p num="0009">In the context of this invention, alkyl and cycloalkyl
+radicals are understood as meaning saturated and
+unsaturated (but not aromatic), branched, unbranched and
+cyclic hydrocarbons, which can be unsubstituted or mono- or
+polysubstituted. In these radicals, C<sub>1-2</sub>-alkyl represents
+C1- or C2-alkyl, C<sub>1-3</sub>-alkyl represents C1-, C2- or C3-alkyl, 
+C<sub>1-4</sub>-alkyl represents C1-, C2-, C3- or C4-alkyl, C<sub>1-5</sub>-alkyl
+represents C1-, C2-, C3-, C4-, or C5-alkyl, C<sub>1-6</sub>-alkyl
+represents C1-, C2-, C3-, C4-, C5- or C6-alkyl, C<sub>1-7</sub>-alkyl
+represents C1-, C2-, C3-, C4-, C5-, C6- or C7-alkyl, C<sub>1-8</sub>-alkyl
+represents C1-, C2-, C3-, C4-, C5-, C6-, C7- or C8-alkyl,
+C<sub>1-10</sub>-alkyl represents C1-, C2-, C3-, C4-, C5-, C6-,
+C7-, C8-, C9- or C10-alkyl and C<sub>1-18</sub>-alkyl represents C1-,
+C2-, C3-, C4-, C5-, C6-, C7-, C8-, C9-, C10-, C11-, C12-,
+C13-, C14-, C15-, C16-, C17- or C18-alkyl. Furthermore,
+C<sub>3-4</sub>-cycloalkyl represents C3- or C4-cycloalkyl, C<sub>3-5</sub>-cycloalkyl
+represents C3-, C4- or C5-cycloalkyl, C<sub>3-6</sub>-cycloalkyl
+represents C3-, C4-, C5- or C6-cycloalkyl, C<sub>3-7</sub>-cycloalkyl
+represents C3-, C4-, C5-, C6- or C7-cycloalkyl,
+C<sub>3-8</sub>-cycloalkyl represents C3-, C4-, C5-, C6-, C7- or C8-cycloalkyl,
+C<sub>4-5</sub>-cycloalkyl represents C4- or C5-cycloalkyl,
+C<sub>4-6</sub>-cycloalkyl represents C4-, C5- or C6-cycloalkyl, C<sub>4-7</sub>-cycloalkyl
+represents C4-, C5-, C6- or C7-cycloalkyl, C<sub>5-6</sub>-cycloalkyl
+represents C5- or C6-cycloalkyl and C<sub>5-7</sub>-cycloalkyl
+represents C5-, C6- or C7-cycloalkyl. In
+respect of cycloalkyl, the term also includes saturated
+cycloalkyls in which one or 2 carbon atoms are replaced by
+a heteroatom, S, N or O. However, mono- or
+polyunsaturated, preferably monounsaturated, cycloalkyls
+without a heteroatom in the ring also in particular fall
+under the term cycloalkyl as long as the cycloalkyl is not
+an aromatic system. The alkyl and cycloalkyl radicals are
+preferably methyl, ethyl, vinyl (ethenyl), propyl, allyl
+(2-propenyl), 1-propinyl, methylethyl, butyl, 1-methylpropyl,
+2-methylpropyl, 1,1-dimethylethyl, pentyl,
+1,1-dimethylpropyl, 1,2-dimethylpropyl, 2,2-dimethylpropyl,
+hexyl, 1-methylpentyl, cyclopropyl, 2-methylcyclopropyl,
+cyclopropylmethyl, cyclobutyl, cyclopentyl,
+cyclopentylmethyl, cyclohexyl, cycloheptyl, cyclooctyl, and
+also adamantyl, CHF<sub>2</sub>, CF<sub>3</sub> or CH<sub>2</sub>OH as well as pyrazolinone,
+oxopyrazolinone, [1,4]-dioxane or dioxolane. </p><p num="0010">Here, in connection with alkyl and cycloalkyl - unless
+expressly defined otherwise - the term substituted in the
+context of this invention is understood as meaning
+replacement of at least one hydrogen radical by F, Cl, Br,
+I, NH<sub>2</sub>, SH or OH, "polysubstituted" radicals being
+understood as meaning that the replacement takes effect
+both on different and on the same atoms several times with
+the same or different substituents, for example three times
+on the same C atom, as in the case of CF<sub>3</sub>, or at different
+places, as in the case of -CH(OH)-CH=CH-CHCl<sub>2</sub>. Particularly
+preferred substituents here are F, Cl and OH. In respect
+of cycloalkyl, the hydrogen radical can also be replaced by
+OC<sub>1-3</sub>-alkyl or C<sub>1-3</sub>-alkyl (in each case mono- or
+polysubstituted or unsubstituted), in particular methyl,
+ethyl, n-propyl, i-propyl, CF<sub>3</sub>, methoxy or ethoxy.</p><p num="0011">The term (CH<sub>2</sub>)<sub>3-6</sub> is to be understood as meaning -CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-,
+-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-, -CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>- and -CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-,
+(CH<sub>2</sub>)<sub>1-4</sub> is to be understood as meaning -CH<sub>2</sub>-,
+-CH<sub>2</sub>-CH<sub>2</sub>-, -CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>- and -CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-, (CH<sub>2</sub>)<sub>4-5</sub> is to
+be understood as meaning -CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>- and -CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-,
+etc.</p><p num="0012">An aryl radical is understood as meaning ring systems with
+at least one aromatic ring but without heteroatoms even in
+only one of the rings. Examples are phenyl, naphthyl,
+fluoranthenyl, fluorenyl, tetralinyl or indanyl, in
+particular 9H-fluorenyl or anthracenyl radicals, which can
+be unsubstituted or monosubstituted or polysubstituted. </p><p num="0013">A heteroaryl radical is understood as meaning heterocyclic
+ring systems which have at least one unsaturated ring and
+can contain one or more heteroatoms from the group
+consisting of nitrogen, oxygen and/or sulfur and can also
+be mono- or polysubstituted. Examples which may be
+mentioned from the group of heteroaryls are furan,
+benzofuran, thiophene, benzothiophene, pyrrole, pyridine,
+pyrimidine, pyrazine, quinoline, isoquinoline, phthalazine,
+benzo-1,2,5-thiadiazole, benzothiazole, indole,
+benzotriazole, benzodioxolane, benzodioxane, carbazole and
+quinazoline.</p><p num="0014">Here, in connection with aryl and heteroaryl, substituted
+is understood as meaning substitution of the aryl or
+heteroaryl by R<sup>23</sup>, OR<sup>23</sup>, a halogen, preferably F and/or Cl, a
+CF<sub>3</sub>, a CN, an NO<sub>2</sub>, an NR<sup>24</sup>R<sup>25</sup>, a C<sub>1-6</sub>-alkyl (saturated), a
+C<sub>1-6</sub>-alkoxy, a C<sub>3-8</sub>-cycloalkoxy, a C<sub>3-8</sub>-cycloalkyl or a C<sub>2-6</sub>-alkylene.</p><p num="0015">Here, the radical R<sup>23</sup> represents H, a C<sub>1-10</sub>-alkyl, preferably
+a C<sub>1-6</sub>-alkyl, an aryl or heteroaryl radical, or represents
+an aryl or heteroaryl radical bonded via a C<sub>1-3</sub>-alkylene
+group, where these aryl and heteroaryl radicals may not be
+substituted themselves by aryl or heteroaryl radicals,</p><p num="0016">the radicals R<sup>24</sup> and R<sup>25</sup>, which are identical or different,
+denote H, a C<sub>1-10</sub>-alkyl, preferably a C<sub>1-6</sub>-alkyl, an aryl, a
+heteroaryl radical or an aryl or heteroaryl radical bonded
+via a C<sub>1-3</sub>-alkylene group, where these aryl and heteroaryl
+radicals may not be substituted themselves by aryl or
+heteroaryl radicals,
+
+or the radicals R<sup>24</sup> and R<sup>25</sup> together denote CH<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>2</sub>,
+CH<sub>2</sub>CH<sub>2</sub>NR<sup>26</sup>CH<sub>2</sub>CH<sub>2</sub> or (CH<sub>2</sub>)<sub>3-6</sub>, and
+ 
+the radical R<sup>26</sup> represents H, a C<sub>1-10</sub>-alkyl, preferably a
+C<sub>1-6</sub>-alkyl, an aryl or heteroaryl radical or represents an
+aryl or heteroaryl radical bonded via a C<sub>1-3</sub>-alkylene group,
+where these aryl and heteroaryl radicals may not be
+substituted themselves by aryl or heteroaryl radicals.</p><p num="0017">The term salt is to be understood as meaning any form of
+the active compound according to the invention in which
+this assumes an ionic form or is charged and is coupled
+with a counter-ion (a cation or anion) or is in solution.
+By this are also to be understood complexes of the active
+compound with other molecules and ions, in particular
+complexes which are complexed via ionic interactions.</p><p num="0018">The term of the physiologically tolerated salt with cations
+or bases in the context of this invention is understood as
+meaning salts of at least one of the compounds according to
+the invention - usually a (deprotonated) acid - as an anion
+with at least one, preferably inorganic, cation which are
+physiologically tolerated - especially if used on humans
+and/or mammals. The salts of the alkali metals and
+alkaline earth metals are particularly preferred, and also
+those with NH<sub>4</sub><sup>+</sup>, but in particular (mono)- or (di)sodium,
+(mono)- or (di)potassium, magnesium or calcium salts.</p><p num="0019">The term of the physiologically tolerated salt with anions
+or acids in the context of this invention is understood as
+meaning salts of at least one of the compounds according to
+the invention - usually protonated, for example on the
+nitrogen - as the cation with at least one anion which are
+physiologically tolerated - especially if used on humans
+and/or mammals. By this is understood in particular, in
+the context of this invention, the salt formed with a
+physiologically tolerated acid, that is to say salts of the 
+particular active compound with inorganic or organic acids
+which are physiologically tolerated - especially if used on
+humans and/or mammals. Examples of physiologically
+tolerated salts of particular acids are salts of:
+hydrochloric acid, hydrobromic acid, sulfuric acid,
+methanesulfonic acid, formic acid, acetic acid, oxalic
+acid, succinic acid, malic acid, tartaric acid, mandelic
+acid, fumaric acid, lactic acid, citric acid, glutamic
+acid, 1,1-dioxo-1,2-dihydrolb6-benzo[d]isothiazol-3-one
+(saccharin acid), monomethylsebacic acid, 5-oxo-proline,
+hexane-1-sulfonic acid, nicotinic acid, 2-, 3- or 4-aminobenzoic
+acid, 2,4,6-trimethyl-benzoic acid, α-lipoic
+acid, acetylglycine, acetylsalicylic acid, hippuric acid
+and/or aspartic acid. The hydrochloride salt is
+particularly preferred. </p><p num="0020">In a preferred embodiment of a derivative according to the invention R is
+selected from phenyl, benzyl or phenyl condensed with a heteroaryl, mono-or
+multisubstituted or unsubstituted respectively,
+
+   preferably selected from phenyl, benzyl or phenyl condensed with a
+heteroaryl, unsubstituted or mono- or disubstituted with OH, F, Cl, Br, I,
+-CF<sub>3</sub>, -OCH<sub>3</sub>, -OC<sub>2</sub>H<sub>5</sub>, -CH<sub>3</sub>, -C<sub>2</sub>H<sub>5</sub>;
+
+   especially selected from p-nitrophenyl, 4-nitrobenzyl, unsubstituted
+benzyl, unsubstituted phenyl, m-trifluoromethylphenyl, p-trifluoromethylphenyl;
+or phenyl, unsubstituted or monosubstituted with
+Cl, condensed with =N-O-N=, =N-O-CH=, =N-S-CH=, =N-S-CBr=,-N=CH-NH-
+or -N=CH-S-.</p><p num="0021">In a preferred embodiment of a derivative according to the invention R' is
+selected from
+
+   ribose, mono-or multisubstituted or unsubstituted; C<sub>1-6</sub>-alkyl saturated
+or unsaturated, mono-or multisubstituted or unsubstituted; C<sub>3-8</sub>-cycloalkyl
+or C<sub>3-8</sub>-cycloalkyl containing 1 or 2 heteroatoms selected
+from S, O or N in the ring, mono-or multisubstituted or unsubstituted
+respectively; benzyl, mono-or multisubstituted or unsubstituted; or C<sub>4-6</sub>-alkyl-O-R"
+with alkyl saturated and unsubstituted and R" selected from
+C<sub>3-8</sub>-cycloalkyl or C<sub>3-8</sub>-cycloalkyl containing 1 or 2 heteroatoms selected
+from S, O or N in the ring, mono-or multisubstituted or unsubstituted
+respectively;
+
+   preferably selected from ribose, mono- or disubstituted or
+unsubstituted; C<sub>3-6</sub>-alkyl, saturated and unsubstituted or substituted
+with F, Cl, Br, I or OH; C<sub>5-7</sub>-cycloalkyl or C<sub>5-7</sub>-cycloalkyl containing 1 or 2
+heteroatoms selected from S, O or N in the ring, mono-or disubstituted
+or unsubstituted respectively; benzyl, mono- or disubstituted or 
+unsubstituted; or C<sub>4-6</sub>-alkyl-O-R" with alkyl saturated and unsubstituted
+and R" selected from C<sub>3-8</sub>-cycloalkyl containing 1 or 2 heteroatoms
+selected from S, O or N in the ring, mono-or disubstituted or
+unsubstituted respectively;
+
+   especially selected from ribose, unsubstituted; n-butyl or butan-4-ol;
+cyclopentyl, tetrahydrofuranyl or tetrahydropyranyl, unsubstituted
+respectively; benzyl, unsubstituted or mono- or disubstituted with NO<sub>2</sub>,
+F, phenyl, I, Cl, trifluoromethoxy, trifluoromethyl or methoxy; or -butyl-O-tetrahydropyranyl.</p><p num="0022">In a preferred embodiment of a derivative according to the invention Y is
+selected from H or Cl.</p><p num="0023">In a preferred embodiment of a derivative according to the invention X is
+selected from N.</p><p num="0024">In a preferred embodiment the derivative is selected from the following
+group:
+<ul list-style="bullet"><li>2-[6-(Benzo[c]isothiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(3-Bromo-benzo[c]isothiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(Benzo[1,2,5]oxadiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(Benzo[1,2,5]oxadiazol-4-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(5-Chloro-benzo[1,2,5]oxadiazol-4-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(Benzo[c]isoxazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(Benzo[c]isoxazol-7-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(Benzo[c]isothiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(3-Bromo-benzo[c]isothiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol </li><li>2-[6-(3-Bromo-benzo[c]isothiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(3H-Benzoimidazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(3H-Benzoimidazol-4-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[6-(Benzothiazol-6-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyltetrahydro-furan-3,4-diol</li><li>6-(4-Nitro-benzylsulfanyl)-9-(tetrahydro-furan-2-yl)-9H-purine</li><li>6-(4-Nitro-benzylsulfanyl)-9-(tetrahydro-pyran-2-yl)-9H-purine</li><li>6-(4-Nitro-benzylsulfanyl)-9-[4-(tetrahydro-pyran-2-yloxy)-butyl]-9H-purine</li><li>4-[6-(4-Nitro-benzylsulfanyl)-purin-9-yl]-butan-1-ol</li><li>9-Cyclopentyl-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-Butyl-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>6-(Benzo[1,2,5]oxadiazol-4-ylmethylsulfanyl)-9-butyl-9H-purine</li><li>6-(Benzo[c]isothiazol-5-ylmethylsulfanyl)-9-butyl-9H-purine</li><li>6-(3-Bromo-benzo[c]isothiazol-5-ylmethylsulfanyl)-9-butyl-9H-purine</li><li>2-(7-Benzylsulfanyl-5-chloro-imidazo[4,5-b]pyridin-3-yl)-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>2-[5-Chloro-7-(4-nitro-benzylsulfanyl)-imidazo[4,5-b]pyridin-3-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</li><li>3-[6-(4-Nitro-benzylsulfanyl)-purin-9-yl]-propan-1-ol</li><li>9-Benzyl-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>2-Hydroxymethyl-5-(6-phenethylsulfanyl-purin-9-yl)-tetrahydro-furan-3,4-diol</li><li>6-(3-Trifluoromethoxy-benzylsulfanyl)-9H-purine</li><li>9-Benzyl-6-(3-trifluoromethoxy-benzylsulfanyl)-9H-purine</li><li>6-(4-Trifluoromethoxy-benzylsulfanyl)-9H-purine</li><li>9-Benzyl-6-(4-trifluoromethoxy-benzylsulfanyl)-9H-purine</li><li>9-(4-Nitro-benzyl)-6-(4-trifluoromethoxy-benzylsulfanyl)-9H-purine</li><li>9-(2,3-Difluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(2,4-Difluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(2,5-Difluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(2,6-Difluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-Biphenyl-2-ylmethyl-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(4-Iodo-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(3,4-Difluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(3,5-Difluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(3-Fluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(2-Fluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(2,6-Dichloro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>6-(4-Nitro-benzylsulfanyl)-9-(4-trifluoromethoxy-benzyl)-9H-purine</li><li>9-(4-Fluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(2-Chloro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine </li><li>6-(4-Nitro-benzylsulfanyl)-9-(3-trifluoromethyl-benzyl)-9H-purine</li><li>9-(4-Chloro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(4-Methoxy-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(3-Methoxy-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</li><li>9-(3,5-Dimethoxy-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine.</li></ul></p><p num="0025">The derivatives of nitrobenzylthioinosine according to the invention are
+nontoxic and are surprisingly effective in the treatment of pain and in other
+indications. Therefore, a further object of the invention is a pharmaceutical
+composition comprising at least one derivative of nitrobenzylthioinosine
+according to the invention as active ingredient as well as optionally at least
+one auxiliary material and/or additive.</p><p num="0026">The auxiliary material and/or additive can be selected from carrier,
+excipient, support materials, glidants, fillers, solvents, diluents, colorants,
+taste conditioners like sugars, antioxidants and/or binders. In the case of a
+suppository this might involve waxes or fatty acid esters or conserving
+agents, emulsifiers and/or carriers for parenteral application. The selection
+of these auxiliary materials and/or additives and of the amounts to be used
+depends upon how the pharmaceutical composition is to be applied.</p><p num="0027">Examples include here oral or parenteral like pulmonal, nasal, rectal and/or
+intravenous application. Therefore the pharmaceutical composition
+according to the invention can be adapted for topical or systemical
+application, especially dermal, subcutaneous, intramuscular, intra-articular
+and/or intraperitoneal, pulmonal, buccal, sublingual, nasal, percutaneous,
+vaginal, oral or parenteral, pulmonal, nasal, rectal and/or intravenous
+application.</p><p num="0028">For treatment the pharmaceutical composition according to the invention
+might preferrably be in the form of a plaster and/or gauze providing an
+occlusion of the burned or wounded skin. </p><p num="0029">For oral application preparations in the form of tablets, chewable tablets,
+dragees, capsules, granules, drops, juices and syrups are suitable.
+Solutions, suspensions, readily reconstitutable dry preparations and sprays
+are suitable i.a. for parenteral application. The compounds according to the
+invention as a deposit in a dissolved form or in a patch, optionally with the
+addition of agents which promote dermal penetration, are examples of
+suitable percutaneous forms of application. Dermal applications include i.a.
+an ointment, a gel, a cream, a lotion, a suspension, an emulsion whereas
+the preferred form for rectal application is a suppository. Therefore, in a
+preferred object of the invention the pharmaceutical composition according
+to the invention is in the form of an ointment, a gel, a cream, a lotion, a
+suspension, an emulsion, a suppository, a solution, a tablet, a chewable
+tablet, a dragee, a capsule, a granules, drops, a juice and/or a syrup.</p><p num="0030">The compounds according to the invention can be released in a delayed
+manner from forms of preparations which can be applied as mentioned
+above, especially orally, rectally or percutaneously. Retard formulations are
+preferred objects of the invention.</p><p num="0031">The amount of active ingredient to be administered to the patient varies
+depending on the weight of the patient, on the type of application, on the
+indication and on the severity of the illness. 1 to 500 mg of the active
+ingredient are usually applied per kg.</p><p num="0032">A further preferred object of the invention are pharmaceutical compositions
+containing at least 0,05 bis 90,0 % of active ingredient.</p><p num="0033">The derivatives of nitrobenzylthioinosine according to the invention are
+surprisingly effective in the treatment of pain and in other indications.
+Therefore a further embodiment of the invention comprises the use of a
+derivatives of nitrobenzylthioinosine according to the invention for the
+treatment of pain, especially acute, chronic and/or neuropathic pain. </p><p num="0034">A further embodiment of the invention comprises the use of a derivatives of
+nitrobenzylthioinosine according to the invention for the treatment of
+epilepsy and other CNS-related disorders as well as for neuroprotection or
+cardioprotection.</p><p num="0035">Furthermore the invention relates to a method of treatment using
+derivatives of nitrobenzylthioinosine according to the invention especially
+for the treatment of pain, especially acute, chronic and/or neuropathic pain;
+the treatment of epilepsy and other CNS-related disorders as well as for
+neuroprotection or cardioprotection.</p><p num="0036">The Annex I following is a full part of the description and examples for this
+invention.</p><p num="0037">The following examples shall further illustrate the invention without
+restricting the object of the invention.</p><heading><b>Examples and Drawing</b></heading><heading><b>Example 0) Basic Synthesis</b></heading><heading><b>Remark:</b></heading><p num="0038">All examples 1 to 25 and 27 were done according to Annex I or Example
+53. Examples 26 and 28 to 51 werde done according to or in variation of
+the following synthesis A to C.</p><heading><b>Synthesis A:</b></heading><p num="0039">Synthesis of 9-benzyl-6-(4-nitrobenzylthio)-purine, two steps.</p><heading>6-(4-Nitrobenzylthio)-purine</heading><p num="0040">After stirring a mixture of 30 mmol of 6-mercaptopurine monohydrate (5.12
+9) 
+and 30 mmol of water-free K2CO3 (4.12 g) in 25 mL of dry DMF for 5
+minutes,</p><p num="0041">30 mmol of 4-nitrobenzylbromide (6.48 g) was added. After stirring for 4 h,</p><p num="0042">200 mL of H2O was added. The obtained solid was filtered off and washed
+with</p><p num="0043">EtOAc and CH2Cl2, followed by drying in vacuo. Yield: 91%. - White
+powder.</p><p num="0044">M.p. 239°C (Dec.), Lit.: 244-247°C [1]; 262°C [2]. - 1H NMR (DMSO-d6) d =
+4.80 (s, 2H, CH2S), 7.76 (d, J = 8.8, 2H, CH Ph), 8.18 (d, J = 8.8, 2H, CH
+Ph), 8.48 (s, 1H, H-2), 8.74 (s, 1H, H-8). - 13C NMR (DMSO-d6) d = 30.7,
+123.5, 129.2, 130.2, 143.7, 146.5, 146.6, 150.5, 151.4, 156.5.</p><heading>9-Benzyl-6-(4-nitrobenzylthio)-purine</heading><p num="0045">To a suspension of 1 mmol of NaH (60% dispersion in mineral oil; 40 mg)
+in 4
+
+mL of dry DMF was added 1 mmol of 6-(4-nitrobenzylthio)-purine (0.29 g).</p><p num="0046">After addition of 1.2 mmol of benzylbromide (205 mg; 143 mL), the reaction
+was left to stir overnight. After addition of 15 mL of H2O, the product was
+extracted with EtOAc (3 x 15 mL). The combined organic layers were dried
+(MgSO4) and the solvent was evaporated. The crude product was purified
+by
+
+column chromatography (silica; pet. ether 40-60/EtOAc 1/1, v/v).</p><heading><b>Synthesis B:</b></heading><p num="0047">Synthesis of 6-(3-Trifluoromethoxybenzylsulfanyl)-purine.</p><heading>6-(3-Trifluoromethoxybenzylsulfanyl)-purine</heading><p num="0048">After stirring a mixture of 30 mmol of 6-mercaptopurine monohydrate (5.12
+g)
+
+and 30 mmol of water-free K2CO3 (4.12 g) in 25 mL of dry DMF for 5
+minutes,</p><p num="0049">30 mmol of 4-trifluormethoxybenzylbromide (6.48 g) was added. After
+stirring for 4 h,</p><p num="0050">200 mL of H2O was added. The obtained solid was filtered off and washed
+with</p><p num="0051">EtOAc and CH2Cl2, followed by drying in vacuo.</p><heading><b>Synthesis C:</b></heading><p num="0052">Synthesis of 6-Benzyl-(3-Trifluoromethoxybenzylsulfanyl)-purine, two steps.</p><heading>6-(3-Trifluoromethoxybenzylsulfanyl)-purine</heading><p num="0053">After stirring a mixture of 30 mmol of 6-mercaptopurine monohydrate (5.12
+g)
+ 
+and 30 mmol of water-free K2CO3 (4.12 g) in 25 mL of dry DMF for 5
+minutes,</p><p num="0054">30 mmol of 4-trifluormethoxybenzylbromide (6.48 g) was added. After
+stirring for 4 h,</p><p num="0055">200 mL of H2O was added. The obtained solid was filtered off and washed
+with</p><p num="0056">EtOAc and CH2Cl2, followed by drying in vacuo.</p><heading>9-Benzyl-6-(3-Trifluoromethoxybenzylsulfanyl)-purine</heading><p num="0057">To a suspension of 1 mmol of NaH (60% dispersion in mineral oil; 40 mg)
+in 4
+
+mL of dry DMF was added 1 mmol of 6-(3-Trifluoromethoxybenzylsulfanyl)-purine
+(0.29 g).</p><p num="0058">After addition of 1.2 mmol of benzylbromide (205 mg; 143 mL), the reaction
+was left to stir overnight. After addition of 15 mL of H2O, the product was
+extracted with EtOAc (3 x 15 mL). The combined organic layers were dried
+(MgSO4) and the solvent was evaporated. The crude product was purified
+by
+
+column chromatography (silica; pet. ether 40-60/EtOAc 1/1, v/v).</p><heading><b>Example1)</b></heading><p num="0059"><img id="img-00160001" orientation="unknown" wi="112" img-format="tif" img-content="cf" file="00160001.tif" inline="no" he="50"/></p><p num="0060">Done according to Annex I.</p><heading><b>Example 2)</b></heading><p num="0061"><img id="img-00160002" orientation="unknown" wi="100" img-format="tif" img-content="cf" file="00160002.tif" inline="no" he="65"/></p><p num="0062">Done according to Annex I.</p><heading><b>Example 3)</b></heading><p num="0063"><img id="img-00170001" orientation="unknown" wi="111" img-format="tif" img-content="cf" file="00170001.tif" inline="no" he="48"/></p><p num="0064">Done according to Annex I.</p><heading><b>Example 4)</b></heading><p num="0065"><img id="img-00170002" orientation="unknown" wi="116" img-format="tif" img-content="cf" file="00170002.tif" inline="no" he="48"/></p><p num="0066">Done according to Annex I.</p><heading><b>Example 5)</b></heading><p num="0067"><img id="img-00170003" orientation="unknown" wi="115" img-format="tif" img-content="cf" file="00170003.tif" inline="no" he="56"/></p><p num="0068">Done according to Annex I.</p><heading><b>Example 6)</b></heading><p num="0069"><img id="img-00180001" orientation="unknown" wi="136" img-format="tif" img-content="cf" file="00180001.tif" inline="no" he="53"/></p><p num="0070">Done according to Annex I.</p><heading><b>Example 7)</b></heading><p num="0071"><img id="img-00180002" orientation="unknown" wi="123" img-format="tif" img-content="cf" file="00180002.tif" inline="no" he="46"/></p><p num="0072">Done according to Annex I.</p><heading><b>Example 8)</b></heading><p num="0073"><img id="img-00180003" orientation="unknown" wi="125" img-format="tif" img-content="cf" file="00180003.tif" inline="no" he="46"/></p><p num="0074">Done according to Annex I.</p><heading><b>Example 9)</b></heading><p num="0075"><img id="img-00190001" orientation="unknown" wi="150" img-format="tif" img-content="cf" file="00190001.tif" inline="no" he="59"/></p><p num="0076">Done according to Annex I.</p><heading><b>Example 10)</b></heading><p num="0077"><img id="img-00190002" orientation="unknown" wi="151" img-format="tif" img-content="cf" file="00190002.tif" inline="no" he="52"/></p><p num="0078">Done according to Annex I.</p><heading><b>Example 11)</b></heading><p num="0079"><img id="img-00190003" orientation="unknown" wi="135" img-format="tif" img-content="cf" file="00190003.tif" inline="no" he="49"/></p><p num="0080">Done according to Annex I.</p><heading><b>Example 12)</b></heading><p num="0081"><img id="img-00200001" orientation="unknown" wi="153" img-format="tif" img-content="cf" file="00200001.tif" inline="no" he="51"/></p><p num="0082">Done according to Annex I.</p><heading><b>Example 13)</b></heading><p num="0083"><img id="img-00200002" orientation="unknown" wi="147" img-format="tif" img-content="cf" file="00200002.tif" inline="no" he="52"/></p><p num="0084">Done according to Annex I.</p><heading><b>Example 14)</b></heading><p num="0085"><img id="img-00200003" orientation="unknown" wi="114" img-format="tif" img-content="cf" file="00200003.tif" inline="no" he="36"/></p><p num="0086">Done according to Annex I.</p><heading><b>Example 15)</b></heading><p num="0087"><img id="img-00200004" orientation="unknown" wi="117" img-format="tif" img-content="cf" file="00200004.tif" inline="no" he="42"/></p><p num="0088">Done according to Annex I. </p><heading><b>Example 16)</b></heading><p num="0089"><img id="img-00210001" orientation="unknown" wi="134" img-format="tif" img-content="cf" file="00210001.tif" inline="no" he="46"/></p><p num="0090">Done according to Annex I.</p><heading><b>Example 17)</b></heading><p num="0091"><img id="img-00210002" orientation="unknown" wi="107" img-format="tif" img-content="cf" file="00210002.tif" inline="no" he="40"/></p><p num="0092">Done according to Annex I.</p><heading><b>Example 18)</b></heading><p num="0093"><img id="img-00210003" orientation="unknown" wi="99" img-format="tif" img-content="cf" file="00210003.tif" inline="no" he="41"/></p><p num="0094">Done according to Annex I.</p><heading><b>Example 19)</b></heading><p num="0095"><img id="img-00210004" orientation="unknown" wi="90" img-format="tif" img-content="cf" file="00210004.tif" inline="no" he="36"/></p><p num="0096">Done according to Annex I.</p><heading><b>Example 20)</b></heading><p num="0097"><img id="img-00220001" orientation="unknown" wi="117" img-format="tif" img-content="cf" file="00220001.tif" inline="no" he="40"/></p><p num="0098">Done according to Annex I.</p><heading><b>Example 21)</b></heading><p num="0099"><img id="img-00220002" orientation="unknown" wi="110" img-format="tif" img-content="cf" file="00220002.tif" inline="no" he="37"/></p><p num="0100">Done according to Annex I.</p><heading><b>Example 22)</b></heading><p num="0101"><img id="img-00220003" orientation="unknown" wi="124" img-format="tif" img-content="cf" file="00220003.tif" inline="no" he="45"/></p><p num="0102">Done according to Annex I.</p><heading><b>Example 23)</b></heading><p num="0103"><img id="img-00230001" orientation="unknown" wi="149" img-format="tif" img-content="cf" file="00230001.tif" inline="no" he="52"/></p><p num="0104">Done according to Annex I.</p><heading><b>Example 24)</b></heading><p num="0105"><img id="img-00230002" orientation="unknown" wi="160" img-format="tif" img-content="cf" file="00230002.tif" inline="no" he="53"/></p><p num="0106">Done according to Annex I.</p><heading><b>Example 25)</b></heading><p num="0107"><img id="img-00230003" orientation="unknown"  wi="104" img-format="tif" img-content="cf" file="00230003.tif" inline="no"  he="38"/></p><heading><b>Example 26)</b></heading><p num="0108"><img id="img-00230004"  orientation="unknown"  wi="99" img-format="tif" img-content="cf" file="00230004.tif" inline="no" he="52"/> 
+- Yellowish solid. M.p. 139°C. - 1H NMR (CDCI3) d = 4.73 (s, 2H, CH2S),
+5.41
+
+(s, 2H, CH2N), 7.26-7.39 (m, 5H, CH Ph), 7.66 (d, J = 8.8, 2H, CH Ph),
+7.95
+
+(s, 1H, H-2), 8.15 (d, J = 8.8, 2H, CH Ph), 8.77 (s, 1H, H-8). - 13C NMR
+(CDCl3) d = 31.6, 47.3, 123.5, 127.7, 128.6, 129.0, 129.9, 130.9, 134.9,
+142.8, 145.7, 146.9, 148.7, 151.8, 159.0. - HRMS (ESI) m/z Found:
+378.0981</p><heading><b>Example 27)</b></heading><p num="0109"><img id="img-00240001" orientation="unknown" wi="134" img-format="tif" img-content="cf" file="00240001.tif" inline="no" he="51"/></p><p num="0110">Done according to Annex I.</p><heading><b>Example 28)</b></heading><p num="0111"><img id="img-00240002" orientation="unknown" wi="92" img-format="tif" img-content="cf" file="00240002.tif" inline="no" he="32"/></p><p num="0112">Done according to Example 0 synthesis B.</p><heading><b>Example 29)</b></heading><p num="0113"><img id="img-00250001" orientation="unknown" wi="130" img-format="tif" img-content="cf" file="00250001.tif" inline="no" he="52"/></p><p num="0114">Done according to Example 0 synthesis C.</p><heading><b>Example 30)</b></heading><p num="0115"><img id="img-00250002" orientation="unknown" wi="101" img-format="tif" img-content="cf" file="00250002.tif" inline="no" he="33"/></p><p num="0116">Done according to Example 0 synthesis B; only modified by adding 3-trifluormethoxybenzylbromide
+instead of 4-trifluormethoxybenzylbromide.</p><heading><b>Example 31)</b></heading><p num="0117"><img id="img-00250003" orientation="unknown" wi="121" img-format="tif" img-content="cf" file="00250003.tif" inline="no" he="40"/></p><p num="0118">Done according to Example 0 synthesis C; only modified by adding 3-trifluormethoxybenzylbromide
+instead of 4-trifluormethoxybenzylbromide.</p><heading><b>Example 32)</b> </heading><p num="0119"><img id="img-00260001" orientation="unknown" wi="149" img-format="tif" img-content="cf" file="00260001.tif" inline="no" he="44"/></p><p num="0120">Done according to Example 31; only modified by adding 4-nitrobenzylbromide
+instead of benzylbromide.</p><heading><b>Example 33)</b></heading> <p num="0121"><img id="img-00260002" orientation="unknown" wi="120" img-format="tif" img-content="cf" file="00260002.tif" inline="no" he="42"/></p> <p num="0122">Done according to Example 0; Synthesis A; only modified by adding
+2,3.difluoro-benzylbromide instead of benzylbromide.</p> <heading><b>Example 34)</b></heading><p num="0123"><img id="img-00260003" orientation="unknown" wi="124" img-format="tif" img-content="cf" file="00260003.tif" inline="no" he="40"/></p><p num="0124">Done according to Example 0; Synthesis A; only modified by adding 2,4-difluoro-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 35)</b></heading><p num="0125"><img id="img-00260004" orientation="unknown" wi="125" img-format="tif" img-content="cf" file="00260004.tif" inline="no" he="44"/></p><p num="0126">Done according to Example 0; Synthesis A; only modified by adding 2,5-difluoro-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 36)</b></heading><p num="0127"><img id="img-00270001" orientation="unknown" wi="123" img-format="tif" img-content="cf" file="00270001.tif" inline="no" he="47"/></p><p num="0128">Done according to Example 0; Synthesis A; only modified by adding
+2,6.difluoro-benzylbromide instead of benzylbromide.</p><heading><b>Example 37)</b></heading><p num="0129"><img id="img-00270002" orientation="unknown" wi="118" img-format="tif" img-content="cf" file="00270002.tif" inline="no" he="55"/></p><p num="0130">Done according to Example 0; Synthesis A; only modified by adding 2-phenyl-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 38)</b></heading><p num="0131"><img id="img-00270003" orientation="unknown" wi="120" img-format="tif" img-content="cf" file="00270003.tif" inline="no" he="48"/></p><p num="0132">Done according to Example 0; Synthesis A; only modified by adding 4-iodobenzylbromide
+instead of benzylbromide.</p><heading><b>Example 39)</b></heading><p num="0133"><img id="img-00280001" orientation="unknown" wi="120" img-format="tif" img-content="cf" file="00280001.tif" inline="no" he="49"/></p><p num="0134">Done according to Example 0; Synthesis A; only modified by adding 3,4-difluoro-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 40)</b></heading><p num="0135"><img id="img-00280002" orientation="unknown" wi="117" img-format="tif" img-content="cf" file="00280002.tif" inline="no" he="42"/></p><p num="0136">Done according to Example 0; Synthesis A; only modified by adding 3,5-difluoro-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 41)</b></heading><p num="0137"><img id="img-00280003" orientation="unknown" wi="125" img-format="tif" img-content="cf" file="00280003.tif" inline="no" he="44"/></p><p num="0138">Done according to Example 0; Synthesis A; only modified by adding 3-fluoro-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 42)</b></heading><p num="0139"><img id="img-00290001" orientation="unknown" wi="140" img-format="tif" img-content="cf" file="00290001.tif" inline="no" he="48"/></p><p num="0140">Done according to Example 0; Synthesis A; only modified by adding 2-fluoro-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 43)</b></heading><p num="0141"><img id="img-00290002" orientation="unknown" wi="120" img-format="tif" img-content="cf" file="00290002.tif" inline="no" he="46"/></p><p num="0142">Done according to Example 0; Synthesis A; only modified by adding 2,6-dichloro-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 44)</b></heading><p num="0143"><img id="img-00290003" orientation="unknown" wi="129" img-format="tif" img-content="cf" file="00290003.tif" inline="no" he="41"/></p><p num="0144">Done according to Example 0; Synthesis A; only modified by adding 4-trifluoromethoxy-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 45)</b></heading><p num="0145"><img id="img-00300001" orientation="unknown" wi="126" img-format="tif" img-content="cf" file="00300001.tif" inline="no" he="45"/></p><p num="0146">Done according to Example 0; Synthesis A; only modified by adding 4-fluoro-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 46)</b></heading><p num="0147"><img id="img-00300002" orientation="unknown" wi="117" img-format="tif" img-content="cf" file="00300002.tif" inline="no" he="46"/></p><p num="0148">Done according to Example 0; Synthesis A; only modified by adding 2-chloro-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 47)</b></heading><p num="0149"><img id="img-00300003" orientation="unknown" wi="152" img-format="tif" img-content="cf" file="00300003.tif" inline="no" he="44"/></p><p num="0150">Done according to Example 0; Synthesis A; only modified by adding 3-trifluormethyl-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 48)</b></heading><p num="0151"><img id="img-00310001" orientation="unknown" wi="122" img-format="tif" img-content="cf" file="00310001.tif" inline="no" he="45"/></p><p num="0152">Done according to Example 0; Synthesis A; only modified by adding 4-chloro-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 49)</b></heading><p num="0153"><img id="img-00310002" orientation="unknown" wi="122" img-format="tif" img-content="cf" file="00310002.tif" inline="no" he="42"/></p><p num="0154">Done according to Example 0; Synthesis A; only modified by adding 4-methoxy-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 50)</b></heading><p num="0155"><img id="img-00310003" orientation="unknown" wi="121" img-format="tif" img-content="cf" file="00310003.tif" inline="no" he="43"/></p><p num="0156">Done according to Example 0; Synthesis A; only modified by adding 3-methoxy-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 51)</b></heading><p num="0157"><img id="img-00320001" orientation="unknown" wi="132" img-format="tif" img-content="cf" file="00320001.tif" inline="no" he="49"/></p><p num="0158">Done according to Example 0; Synthesis A; only modified by adding 3,5-dimethoxy-benzylbromide
+instead of benzylbromide.</p><heading><b>Example 52): Assay and Data
+Assay</b></heading><p num="0159">All final products according to examples 1-51 were tested in the following
+radioligandbinding assay: Human erythrocyte membranes were used as a
+rich source of the nuleoside transport protein with <sup>[3H]</sup>NBTI as the
+radioligand (K<sub>D</sub> value: 0.59 ± 0.07 nM).
+<ul list-style="bullet"><li>100 ml compound or buffer</li><li>100 ml [<sup>3</sup>H]NBTI 1.5 nM</li><li>100 ml buffer
+(50 mM Tris.HCl,pH 7.4)</li><li>100 ml erythrocyte membranes</li></ul><i>After 30' incubation at 25 ° C:</i><ul list-style="bullet"><li>filtration over Whatman GF/C filters
+(50 mM Tris.HCI used for washing)</li><li>filters in vials</li><li>3.5 ml scintillation fluid</li><li>counting in beta counter after 2 hr <tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1"><b>Data</b>:</entry></row><row><entry align="left"><b>Example</b></entry><entry align="left"><b>Binding (Nucleosid Transporter (Ki)</b></entry></row><row><entry align="left"><b>1</b></entry><entry align="left"><b>108 nM</b></entry></row><row><entry align="left"><b>2</b></entry><entry align="left"><b>42 nM</b></entry></row><row><entry align="left"><b>3</b></entry><entry align="left"><b>10 nM</b></entry></row><row><entry align="left"><b>4</b></entry><entry align="left"><b>1.5 nM</b></entry></row><row><entry align="left"><b>5</b></entry><entry align="left"><b>9.7 nM</b></entry></row><row><entry align="left"><b>6</b></entry><entry align="left"><b>25 nM</b></entry></row><row><entry align="left"><b>7</b></entry><entry align="left"><b>96 nM</b></entry></row><row><entry align="left"><b>8</b></entry><entry align="left"><b>666 nM</b></entry></row><row><entry align="left"><b>9</b></entry><entry align="left"><b>108 nM</b></entry></row><row><entry align="left"><b>10</b></entry><entry align="left"><b>42 nM</b></entry></row><row><entry align="left"><b>11</b></entry><entry align="left"><b>191 nM</b></entry></row><row><entry align="left"><b>12</b></entry><entry align="left"><b>42% (10 µM)</b></entry></row><row><entry align="left"><b>13</b></entry><entry align="left"><b>165 nM</b></entry></row><row><entry align="left"><b>14</b></entry><entry align="left"><b>937 nM</b></entry></row><row><entry align="left"><b>15</b></entry><entry align="left"><b>1200 nM</b></entry></row><row><entry align="left"><b>16</b></entry><entry align="left"><b>488 nM</b></entry></row><row><entry align="left"><b>17</b></entry><entry align="left"><b>1140 nM</b></entry></row><row><entry align="left"><b>18</b></entry><entry align="left"><b>736 nM</b></entry></row><row><entry align="left"><b>19</b></entry><entry align="left"><b>238 nM</b></entry></row><row><entry align="left"><b>20</b></entry><entry align="left"><b>5600 nM</b></entry></row><row><entry align="left"><b>21</b></entry><entry align="left"><b>3100 nM</b></entry></row><row><entry align="left"><b>22</b></entry><entry align="left"><b>682 nM</b></entry></row><row><entry align="left"><b>23</b></entry><entry align="left"><b>670 nM</b></entry></row><row><entry align="left"><b>24</b></entry><entry align="left"><b>47 nM</b></entry></row><row><entry align="left"><b>25</b></entry><entry align="left"><b>130 nM</b></entry></row><row><entry align="left"><b>26</b></entry><entry align="left"><b>135 nM</b></entry></row><row><entry align="left"><b>27</b></entry><entry align="left"><b>12 nM</b></entry></row></tbody></tgroup></table></tables></li></ul></p><heading><b>Example 53): Further examples according to Annex I</b></heading><heading><b>Chemical synthesis-</b></heading><p num="0160"><img id="img-00340001" orientation="unknown" wi="27" img-format="tif" img-content="cf" file="00340001.tif" inline="no" he="31"/></p><p num="0161">The first modification was conversion
+of the nitro group in the 4-nitrobenzyl moiety to a
+benzoxadiazole ring system (compounds <b>14-16</b>, Scheme
+1). This is a cyclic functionality, which resembles the nitro
+group. Cyclocondensation of the appropriate azide (compounds <b>2-4)</b> in
+boiling toluene gave benzofuroxanes (compounds <b>5-7)</b>.<sup>vi</sup></p><p num="0162">Refluxing in ethanol in the presence of triethyphosphite resulted in
+deoxygenation to benzofurazan <b>8</b>. Benzylic bromination of this compound
+was done in the presence of <i>N</i>-bromosuccinimide and benzoyl peroxide.<sup>vii</sup>
+Finally coupling of the resulting bromide with 6-mercaptopurine riboside
+was achieved in DMF at rt.<sup>viii</sup><img id="img-00350001" orientation="unknown" wi="163" img-format="tif" img-content="cf" file="00350001.tif" inline="no" he="172"/></p><p num="0163">The next series of analogs of NBTI were compounds <b>23</b> and <b>24</b> (Scheme
+2). These deaza analogs of the benzoxadiazole substituents were obtained
+by coupling bromomethyl-2,1-benzisoxazole with 6-mercaptopurine
+riboside. This bromide was prepared by ring closure of the proper <i>ortho</i>-nitrobenzaldehyde
+<b>(17-18)</b> in the presence of tin(II)chloride and subsequent
+bromination with NBS.<sup>ix</sup><img id="img-00360001" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00360001.tif" inline="no" he="145"/>
+2,1-Benzoisothiazole analogs were prepared by a general procedure, which
+involves cyclization of o-toluidines by N-sulfinylmethane sulfonamide
+(Scheme 3).<sup>x</sup> Again standard benzylic bromination with NBS afforded the 5-bromo-methyl-benz-2,1-isothiazole
+<b>(27).</b> Subsequent treatment of <b>26</b> with
+n-BuLi and bromine gave bromide <b>29</b>. Di-bromide <b>30</b> was obtained after
+benzylic bromination of <b>29</b>. <img id="img-00370001" orientation="unknown" wi="156" img-format="tif" img-content="cf" file="00370001.tif" inline="no" he="130"/><img id="img-00370002" orientation="unknown" wi="159" img-format="tif" img-content="cf" file="00370002.tif" inline="no" he="92"/><img id="img-00380001" orientation="unknown" wi="149" img-format="tif" img-content="cf" file="00380001.tif" inline="no" he="17"/></p><p num="0164">Benzimidazole analogs were synthesized by a Mitsunobu coupling<sup>xi</sup> of 6-mercaptopurine
+riboside with benzimidazole-methyl alcohol<sup>xii</sup>, in the
+presence of (cyanomethyl)trimethylphosphonium iodide <b>(36)</b> and
+diisopropylethylamine (DIPEA) in propionitrile (Scheme 4). After refluxing of
+this mixture for 18 hr, water was added and the product precipitated. The
+direct use of alcohol <b>34</b> and <b>35</b> is an advantage of this method compared to
+the previous reactions.<sup>viii</sup> These alcohols were prepared from reduction of
+the appropriate esters <i>via</i> standard procedures.<sup>xiii</sup><img id="img-00380002" orientation="unknown" wi="155" img-format="tif" img-content="cf" file="00380002.tif" inline="no" he="136"/></p><p num="0165">The benzothiazole derivative was prepared as shown in Scheme 5. Ethyl
+benzothiazole-6-carboxylate <b>39</b> was prepared by ring closure of ethyl-4-amino-3-mercaptobenzoate.<sup>xiv</sup> 
+Reduction of this ester under standard
+conditions at 0°C gave alcohol <b>40</b>.<sup>xv</sup> Again Mitsunobu coupling of 6-mercaptopurine
+riboside with <b>40</b> gave nucleoside <b>41</b> in 56% yield.</p><heading><b>Scheme 5.</b> Preparation of benzothiazole analogs.</heading><p num="0166">i) LiAlH4/THF, overnight; ii) 6-mercaptopurine riboside, DIPEA, propionitrile,
+reflux, 18 h.</p><p num="0167">For the alkylation of the N9 position three methods were used. Reaction
+of 6-substituted mercaptopurine <b>42</b> with 2,3-dihydrofuran or 2,3-dihydro-4<i>H</i>-pyran
+in the presence of a catalytic amount of <i>p</i>-toluenesulfonic acid led
+to <b>43</b> and <b>44</b>, respectively (Scheme 6). Such compounds have been
+described as purine deoxynucleosides.<sup>xvi</sup><img id="img-00400001" orientation="unknown" wi="161" img-format="tif" img-content="cf" file="00400001.tif" inline="no" he="87"/></p><p num="0168">Direct introduction of an alkyl moiety to purine bases at the N9 position was
+achieved by a Mitsunobu reaction of the proper alcohol and 6-substituted
+purine <b>42</b>.<sup>xvii</sup> One example of such alkylation is illustrated in Scheme 7.
+Diethyl azodicarboxylate was added in portions to a mixture of purine,
+alcohol <b>45</b>,<sup>xviii</sup> and triphenylphosphine in THF. Since the substituent on C6
+is large the main product is the N9 substituted purine <b>46.</b> Deprotection of
+the resulting compound with standard procedures gave compound <b>47</b>. The
+same method was used for preparation of the N9-cyclopentyl substituted
+<b>48</b>. <img id="img-00410001" orientation="unknown" wi="152" img-format="tif" img-content="cf" file="00410001.tif" inline="no" he="90"/>
+i) DEAD, PPh<sub>3</sub>, THF (dry); ii) pTSOH, rt, 2h.</p><p num="0169">For substitution of N9 with an n-butyl group, a solution of the appropriate
+nucleobase in dry DMF was added dropwise to a suspension of sodium
+hydride in DMF (Scheme 8). After 30 min, to ensure the complete formation
+of the anion, n-butyl bromide was added in excess to give the desired N9-butylated
+derivatives <b>(53-56)</b> with small amounts of the N7 isomers, which
+were removed by column chromatography.
+<img id="img-00410002" orientation="unknown" wi="138" img-format="tif" img-content="cf" file="00410002.tif" inline="no" he="81"/></p><p num="0170">Modification of N1 in the purine ring system was achieved by preparing the
+1-deaza-2-chloropurine analog of NBTI. The synthesis of 1-deaza-2-chloropurine
+has been previously reported.<sup>xix</sup> Acetate-protected 2,6-dichloro-1-deazapurine
+riboside <b>57</b> was coupled with benzyl mercaptan in
+the presence of triethylamine. Deprotection of the sugar with a saturated
+solution of ammonia in methanol gave the proper nucleoside (Scheme 9).</p><heading><b>Scheme 8.</b> Synthesis of N9-butylated compounds.</heading><p num="0171">i) Benzyl bromide, K<sub>2</sub>CO<sub>3</sub>, DMF, rt; ii) NaH, BuBr, DMF, 18 h, rt.
+<img id="img-00420001" orientation="unknown" wi="150" img-format="tif" img-content="cf" file="00420001.tif" inline="no" he="125"/></p><heading><b>Biological studies.</b></heading><p num="0172">All final products were tested in a radioligand binding assay.<sup>iii,xx</sup> Human
+erythrocyte membranes were used as a rich source of the nucleoside
+transport protein, with [<sup>3</sup>H]NBTI as the radioligand (K<sub>D</sub> value: 0.59 ± 0.07
+nM).</p><heading><b>Results and discussion.</b></heading><p num="0173">In Table 1 the results are shown for the inhibition by the various NBTI
+derivatives of the equilibrium binding of [<sup>3</sup>H]NBTI to human erythrocytes.</p><p num="0174">The aim of the first series of modifications was conversion of the 4-nitrobenzyl
+group on NBTI to a substituent with a lower hydrophilicity. The
+oxadiazole functionality instead of a nitro group in compounds <b>14-16</b>
+showed high activity, comparable to NBTI itself. This ring system was then
+systematically modified to yield 2,1-isoxazole (compounds <b>23</b> and <b>24),</b> 2,1-isothiazole
+(compounds <b>28</b> and <b>31),</b> imidazole <b>(37, 38)</b> and thiazole <b>(41)</b>
+derivatives, respectively.</p><p num="0175">Compound <b>23</b> showed reduced activity compared to <b>14</b>. Apparently,
+replacement of one N with C as in compound <b>23</b> is not very favorable,
+although such manipulation substantially decreases the compound's
+hydrophilicity. In a further effort to reduce polarity, S was introduced instead
+of O in the isoxazole ring to produce isothiazole <b>28.</b> Also this compound
+showed a decline in affinity, with both compounds displaying K<sub>i</sub> values of
+approx. 100 nM.</p><p num="0176">Further modification of the oxadiazole functionalities in <b>14</b> and <b>15</b> to
+imidazoles (<b>37</b> and <b>38</b>) had a negative effect on affinity. The free NH group
+in the imidazole group may have a profound effect on the compound's
+basicity. Therefore, thiazole <b>41</b> with S instead of NH was prepared. This
+substantially less polar derivative had appreciable affinity for the nucleoside
+transport protein (K<sub>i</sub> = 165 nM), although quite comparable to imidazole
+derivative <b>37</b>. </p><p num="0177">In the C6-substituted compounds we also studied the effect of the
+position of substitution with respect to the -SCH2- bridge between
+nucleobase and ring substituent (pairs of compounds <b>14-15, 23-24</b> and <b>37-38).</b>
+All <i>'ortho'</i> substituted nucleosides <b>(15, 24</b> and <b>38)</b> showed a reduced
+affinity when compared to their counterparts. A similar conclusion was
+drawn in another study in which the nitro functionality was shifted from the
+para position to other positions in the ring.<sup>iv</sup> Further modification of
+compound <b>15</b> by introduction of chlorine in the benzyl ring system did not
+improve the binding affinity in <b>16</b>. An analogous approach, bromination of
+<b>28</b> to yield <b>31</b>, resulted in a 2.6-fold affinity gain from 108 to 42 nM.</p><p num="0178">Next the effect of N9 substitution was studied. Since the ribose group with
+three hydroxyl groups is very hydrophilic, the N9 position was substituted
+with different alkyl and modified alkyl groups. Introduction of a hydroxyl
+group at C4 in a butyl substituent (<b>47</b>) had a negative effect on the binding
+affinity, whereas the protected alcohol showed a higher affinity (<b>46</b>).
+Compound <b>48</b> with a cyclopentyl group on N9 showed a decrease in
+activity compared to a simple n-butyl substituent (<b>53</b>). Compounds <b>43</b> and
+<b>44</b> bearing a tetrahydrofuran and tetrahydropyran N9-substituent,
+respectively, were designed as deoxy sugar analogs. They also showed a
+decrease in activity compared to compound <b>53</b> with the n-butyl substituent.
+From these data an n-butyl at N9 was chosen as a less polar substituent,
+although the ribose group itself (as in NBTI) led to much higher affinity. This
+became further apparent when synthesizing <b>54</b>-<b>56</b>, since in all cases a
+substantial reduction in affinity (16 - 577-fold) was observed when
+compared to the ribose-substituted analogs. This huge decrease in affinity
+had not been observed when comparing similar series of compounds on
+the actual transport in intact erythrocytes. In this typical assay the
+compounds need to enter the cells first, which is more easily achieved with
+the N9-butyl derivatives. Differences in activity were negligible in this case.<sup>iv</sup></p><p num="0179">Finally in case of substitution of N1 with a carbon atom (1-deazapurines)
+the resulting nucleosides show a decrease in affinity (compound <b>60</b> and <b>61</b> 
+vs NBTI). Introduction of a nitro group in nucleoside <b>61</b> increased the
+affinity approx. tenfold relative to <b>60</b>. <img id="img-00460001" orientation="unknown" wi="154" img-format="tif" img-content="tb" file="00460001.tif" inline="no" he="232"/></p><heading><b>Experimental Section</b></heading><heading><b>Chemistry</b>.</heading><p num="0180"><sup>1</sup>H and <sup>13</sup>C NMR spectra were recorded on a Bruker AC-200
+instrument. Samples were measured in CDCl<sub>3</sub>, CD<sub>3</sub>OD and/or d<sub>6</sub>-DMSO,
+with Me<sub>4</sub>Si as an internal standard; δ in ppm, <i>J</i> in Hz. Thin-layer
+chromatography (TLC) was performed by using plastic sheets precoated
+with silica gel 60 F254 (0.2 mm) type E (Merck). Chromatographic spots
+were visualized by UV light. Column chromatography was conducted on
+silica gel 60 (0.040-0.063 mm) unless otherwise noted. Melting points
+(uncorrected) were determined in open glass capillaries on an
+electrothermal apparatus. Mass spectra and accurate mass measurements
+were performed using a Finnigan MAT 900 spectrometer equipped with an
+electrospray interface. All commercial chemicals were used without further
+purification.</p><heading><b>General procedure (A): Coupling of the alkyl bromide with 6-mercaptopurine
+(riboside).</b></heading><p num="0181">A mixture of 6-mercaptopurine riboside (1 eq.)
+or 6-mercaptopurine (1 eq.), anhydrous potassium carbonate (1 eq.), and
+1.1 eq of alkyl bromide in DMF was stirred at rt for 30 min to 18 h. The
+mixture was poured in water and the solution was adjusted to pH = 7 with
+concentrated HCI. The mixture was extracted several times with ethyl
+acetate and the organic layer was dried (MgSO<sub>4</sub>), filtered and evaporated.
+The product was purified by column chromatography eluting with
+EtOAc/MeOH, or recrystallization.</p><heading><b>General method (B): Alkylation of N9 position in purines by
+Mitsunobu reaction.</b></heading><p num="0182">Diethyl azodicarboxylate (0.05 mL, 0.15 mmol) was
+added in portions to a mixture of 6-substituted purine (0.15 mmol), triphenyl
+phosphine (79 mg, 0.3 mmol) and the proper alcohol (0.3 mmol) in dry THF
+(2.7 mL). The mixture was stirred at 0 °C for 1 hr, and then at rt for 10 h.
+After removal of the solvent <i>in vacuo,</i> the product was separated by flash
+column chromatography.</p><heading><b>General method (C): N9-Substitution of 6-mercaptopurine by
+tetrahydropyranyl or tetrahydrofuranyl ring.</b></heading><p num="0183">To 60 mL of anhydrous 
+ethyl acetate warmed to 50 °C were added
+6-(4-nitrobenzyl)mercaptopurine (1 eq.) and <i>p</i>-toluene-sulfonic acid (0.1
+eq.). The mixture was vigorously stirred and 2,3-dihydropyran or 2,3-dihydrofuran
+(3 eq.) added dropwise. The solution was stirred for 1 hr and
+cooled to rt. Concentrated aqueous ammonia was added and the solution
+stirred for 5 min. It was extracted twice with water. The ethyl acetate layer
+was dried over anhydrous sodium sulfate and removed under reduced
+pressure. Recrystallization from petroleum ether (40-60 °C) gave the
+product.</p><heading><b>General method (D): Coupling of the 6-substituted mercaptopurine
+with butyl bromide.</b></heading><p num="0184">6-Substituted mercaptopurine (1 eq.) was suspended
+in DMF. Sodium hydride (60% dispersion in mineral oil, 1.2 eq.) was added
+and the mixture was stirred at rt for 1 h. under N<sub>2</sub> atmosphere. Then butyl
+bromide (1 eq.) was added and the stirring was continued at rt for 18 h.
+under N<sub>2</sub> atmosphere. The reaction mixture was poured into water and extracted with ethyl acetate. The organic layer was dried (K<sub>2</sub>CO<sub>3</sub>) and
+evaporated, to give a mixture of N9- and N7-butylated purines. The product
+was purified by column chromatography, while eluting with EtOAc/PE. In all
+cases the first fraction was N9-substituted material.</p><heading><b>6-(Benzo[1,2,5]oxadiazol-5-ylmethylsulfanyl-9-β-D-ribofuranosyl-9<i>H</i>-purine
+(14).</b></heading><p num="0185">This compound was prepared by coupling 6-mercapto purine
+riboside with bromide <b>11</b><sup>vii</sup> by the general method <b>A,</b> in 46% yield. <sup>1</sup>H
+NMR (CD<sub>3</sub>OD): 8.74 (s, 1H), 8.62 (s, 1H), 7.97 (s, 1H,), 7.82 (d, 1H, <i>J</i> = 9.51 Hz),
+7.62 (dd, 1H, <i>J</i> = 8.04, 1.09 Hz), 6.08 (d, 1H, <i>J</i> = 5.85 Hz), 4.79 (s, 2H),
+4.15 (m, 1H), 4.34 (m, 1H), 3.82 (m, 2H), 4.71 (m, 1H); <sup>13</sup>CNMR (CD<sub>3</sub>OD):
+δ 160.80, 152.75, 149.42, 144.84, 144.07, 135.36, 117.37, 115.84, 90.91,
+87.70, 75.76, 72.19, 63.01, 33.11; HRMS calc. for C<sub>17</sub>H<sub>17</sub>N<sub>6</sub>O<sub>5</sub>S m/z =
+417.098 (M + H), found 417.1038.</p><heading><b>6-(Benzo[1,2,5]oxadiazol-4-ylmethylsulfanyl-9-β-D-ribofuranosyl-9<i>H</i>-purine
+(15).</b></heading><p num="0186">This compound was prepared by coupling the alkyl bromide
+<b>12</b><sup>vii</sup> with mercaptopurine riboside using general method <b>A,</b> in 78% yield. <sup>1</sup>H 
+NMR (CD<sub>3</sub>OD): δ 8.73 (s, 1H), 8.61 (s, 1H), 7.78 (d, 1H, <i>J</i> = 8.77 Hz), 7.65
+(d, 1H, <i>J</i> = 6.58 Hz), 7.43 (dd, 1H, <i>J</i> = 8.78, 6.58 Hz), 6.08 (d, 1H, <i>J</i> = 5.85
+Hz), 5.07 (s, 2H), 4.72 (m, 1H), 4.35 (dd, 1H, <i>J</i> = 5.12, 3.65 Hz), 4.16 (m,
+1H), 3.82 (m, 2H); <sup>13</sup>C NMR (CD<sub>3</sub>OD): δ 160.5, 156.9, 153.9, 152.6, 146.0,
+136.3, 135.2, 133.4, 128.9, 117.4, 90.2, 88.1, 84.2, 76.2, 72.6, 63.6, 30.1.
+Mp 154-155 °C, decomp.; HRMS calc. for C<sub>17</sub>H<sub>17</sub>N<sub>6</sub>O<sub>5</sub>S m/z = 417.0981
+(M+H), found 417.004.</p><heading><b>6-(6-Chloro-benzo[1,2,5]oxadiazol-4-ylmethylsulfanyl-9-β-D-ribofuranosyl-9<i>H</i>-purine
+(16).</b></heading><p num="0187">Coupling the alkyl bromide <b>13</b><sup>vii</sup> with
+mercaptopurine riboside by general method <b>A,</b> gave <b>16</b> in 70% yield. <sup>1</sup>H
+NMR (CD<sub>3</sub>OD): δ 8.74 (s, 1H), 8.62 (s, 1H), 7.91 (s, 1H), 7.64 (s, 1H), 6.08
+(d, 1H, <i>J</i> = 5.85 Hz), 5.07 (s, 2H), 4.72 (dd, 1H, <i>J</i> = 5.85, 5.11 Hz), 4.35
+(dd, 1H, <i>J</i> = 5.12, 3.65 Hz), 4.16 (m, 1H), 3.82 (m, 2H); <sup>13</sup>C NMR (CD<sub>3</sub>OD):
+δ 177.40, 151.42, 149.34, 143.58, 137.17, 132.24, 128.93, 113.79, 95.37,
+87.84, 85.65, 73.74, 70.15, 61.13, 27.36 and 11.87; Mp: 214-215 °C;
+HRMS calc. for C<sub>17</sub>H<sub>16</sub>N<sub>6</sub>O<sub>5</sub>SCl m/z = 451.0591 (M+H), found 451.0572.</p><heading><b>6-(Benzo[<i>c</i>]isoxazol-5-ylmethylsulfanyl-9-β-D-ribofuranosyl-9<i>H</i>purine (23).</b></heading><p num="0188">Coupling of <b>21</b><sup>ix</sup> with mercaptopurine riboside was performed
+by general method <b>A.</b> The product was formed in 54% yield. <sup>1</sup>H NMR
+(CD<sub>3</sub>OD): δ 9.36 (s, 1H), 8.72 (s, 1H), 8.59 (s, 1H), 7.75 (s, 1H), 7.75 (d,
+1H, <i>J</i> = 2.9 Hz), 7.51 (d, 1H, <i>J</i> = 2.9 Hz), 6.06 (d, 1H, <i>J</i> = 5.1 Hz), 4.70 (s,
+2H), 4.35 (dd, 1H, <i>J</i> = 5.1, 5.9 Hz), 4.28 (m, 1H); 3.91 (m, 1H), 3.86 (m,
+2H); <sup>13</sup>C NMR (CD<sub>3</sub>OD): δ 156.9, 152.4, 144.4, 134.5, 130.2, 129.6, 120.0,
+115.4, 113.1, 90.7, 87.5, 75.5, 71.2, 62.8, 33.6; Mp: 213-214°C; HRMS
+calc. for C<sub>18</sub>H<sub>18</sub>N<sub>5</sub>O<sub>5</sub>S m/z = 416.1029 (M+H), found 416.1022.</p><heading><b>6-(Benzo[<i>c</i>]isoxazol-7-ylmethylsulfanyl-9-β-D -ribofuranosyl-9<i>H</i>-purine
+(24).</b></heading><p num="0189">Coupling of bromide <b>22</b><sup>ix</sup> with 6-mercaptopurine riboside was achieved by general method <b>A.</b><sup>1</sup>H NMR (CD<sub>3</sub>OD): δ 9.47 (s, 1H), 8.74 (s,
+1H), 8.58 (s, 1H), 7.58 (d, 1H, <i>J</i> = 8.8 Hz), 7.52 (d, 1H, <i>J</i> = 6.6 Hz), 6.99
+(dd, 1H, <i>J</i> = 8.8, 6.6 Hz), 6.07 (d, 1H, <i>J</i> = 5.8 Hz), 4.96 (s, 2H), 4.71 (dd,
+1H, <i>J</i> = 5.3, 4.5 Hz), 4.32 (m, 1H); 4.14 (m, 1H); 3.89-3.72 (m, 2H); <sup>13</sup>C 
+NMR (d<sub>6</sub>-DMSO): δ 157.8, 152.72, 144.60, 131.80, 125.69, 120.56, 90.93,
+87.74, 75.72, 72.24, 63.07, 29.15; Mp: 200-201 °C; HRMS calc. for
+C<sub>18</sub>H<sub>18</sub>N<sub>5</sub>O<sub>5</sub>S<sub>2</sub> m/z = 416.1029 (M+H), found 416.1024.</p><heading><b>6-(Benzo[<i>c</i>]isothiazol-5-ylmethylsulfanyl-9-β-D-ribofuranosyl-9<i>H</i>-purine
+(28).</b></heading><p num="0190">This compound was prepared from bromide <b>27</b><sup>x</sup> (187 mg,
+0.82 mmol) and 6-mercaptopurine riboside (214 mg, 0.75 mmol) by general
+method <b>A.</b> The solvent was decanted from the white precipitate and after
+washing with water and drying over silica blue <i>in vacuo</i><b>28</b> (81 mg, 25%) was obtained as an off white solid. <sup>1</sup>H NMR (d<sub>6</sub>- DMSO): δ 9.73 (s, 1H),
+8.84 (s, 1H), 8.75 (s, 1H), 8.00 (s, 1H), 7.78 (d, 1H, <i>J</i> = 9.5 Hz), 7.59 (d,
+1H, <i>J</i> = 9.5 Hz), 6.03 (d, 1H, <i>J</i> = 5.1 Hz), 5.30 (broad, 3H, 3 x OH), 4.82 (s,
+2H), 4.62 (dd, 1H, <i>J</i> = 5.1, 5.9 Hz), 4.20 (m, 1H); 3.99 (m, 1H), 3.66 (m,
+2H); <sup>13</sup>C NMR (d<sub>6</sub>-DMSO): δ 160.4, 158.9, 151.5, 148.3, 147.0, 143.4,
+134.1, 133.6, 131.1, 130.6, 121.8, 121.3, 87.8, 85.7, 74.0, 70.2, 61.2, 31.6;
+Mp: 183-186 °C; HRMS calc. for C<sub>18</sub>H<sub>18</sub>N<sub>5</sub>O<sub>4</sub>S<sub>2</sub> m/z = 432.0800 (M+H),
+found 432.0835.</p><heading><b>3-Bromo-5-methyl-2,1-benzisothiazole (29).</b></heading><p num="0191">To a solution of compound
+<b>26</b><sup>x</sup> (1.49 g, 10.0 mmol) in dry THF (50 ml) at - 80 °C was added n-BuLi
+(11.2 mmol, 7.0 ml of a 1.6 M solution in n-hexane) dropwise. The black
+solution was stirred at -75 °C for 20 min after which bromine (1.0 ml, 19.9
+mmol) was added. The mixture was slowly warmed to rt and poured into a
+1 N HCI (100 mL) solution. Extraction with diethyl ether (3 x 50 ml), drying
+(MgSO<sub>4</sub>), evaporation of the solvent and purification by silicagel column
+chromatography (petroleum ether (40-60) /EtOAc = 95/5) gave <b>29</b> (1.55 g,
+68%) as a red oil. <sup>1</sup>H NMR (CDCl<sub>3</sub>): δ 7.66 (d, 1H, <i>J</i> = 9.5 Hz), 7.33 (d, 1H,
+<i>J</i> = 9.5 Hz), 7.30 (s, 1H), 2.46 (s, 3H); <sup>13</sup>C NMR (CDCl<sub>3</sub>): δ 160.1, 134.6,
+134.1, 131.8, 130.0, 121.2, 118.0, 21.3.</p><heading><b>3-Bromo-5-bromomethyl-2,1-benzisothiazole (30).</b></heading><p num="0192">This compound was
+prepared as <b>11</b> by benzylic bromination in the presence of <i>N</i>-
+bromosuccinimide<sup>vii</sup> in 84% yield. <sup>1</sup>H NMR (CDCl<sub>3</sub>): δ 4.61 (s, 2H); 7.49 (d, 
+1H, <i>J</i> = 9.5 Hz); 7.61 (s, 1H); 7.78 (d, 1H, <i>J</i> = 9.5 Hz); <sup>13</sup>C NMR (CDCl<sub>3</sub>): δ
+160.9, 134.8, 134.0, 133.2, 130.7, 122.9, 120.0, 33.2.</p><heading><b>6-(3-Bromo-benzo[c]isothiazol-5-ylmethyl sulfanyl-9-β-Dribofuranosyl-9<i>H</i>-purine (31).</b></heading><p num="0193">This compound was prepared from bromide
+<b>30</b> (169 mg, 0.55 mmol) and 6-mercaptopurine riboside (141 mg, 0.50
+mmol) by general method <b>A</b> in 86% yield as a white solid. <sup>1</sup>H NMR (d<sub>6</sub>-DMSO):
+δ 8.85 (s, 1H), 8.76 (s, 1H), 7.67 (d, 1H, <i>J</i> = 9.5 Hz); 7.79 (m, 2H),
+6.03 (d, 1H, <i>J</i> = 5.5 Hz), 5.34 (b, m, 3H), 4.87 (s, 2H), 4.62 (dd, 1H, <i>J</i> = 5.1,
+5.5 Hz), 4.21 (m, 1H), 4.00 (m, 1H), 3.69 (m, 2H); <sup>13</sup>C NMR (d<sub>6</sub>-DMSO) δ
+160.4, 158.7, 151.5, 148.4, 143.5, 135.7, 133.8, 132.8, 131.6, 131.1,
+122.0, 119.6, 87.9, 85.7, 73.8, 70.2, 61.2, 31.3; Mp: 129-131 °C; HRMS
+calc. for C<sub>18</sub>H<sub>17</sub>BrN<sub>5</sub>O<sub>4</sub>S<sub>2</sub> m/z = 509.9905 (M+H), found 509.9918.</p><heading><b>(Benzimidazol-5-yl)-methanol (34).</b></heading><p num="0194">To a suspension of LiAlH<sub>4</sub> (2.393 g, 63.15 mmol) in 73 mL of dry THF
+was added dropwise a solution of ester <b>32</b><sup>xiii</sup> (4.0 g, 21.05 mmol) in 22 mL
+of dry THF. The mixture was refluxed. The excess of LiAlH<sub>4</sub> was destroyed
+cautiously by a saturated solution of NH<sub>4</sub>Cl. The organic layer was removed
+and the water layer was extracted with ethyl acetate. The organic extract
+was dried (K<sub>2</sub>CO<sub>3</sub>) and evaporated to give <b>34</b> as a yellow oil that
+crystallised spontaneously (Yield 70%). <sup>1</sup>H NMR (CD<sub>3</sub>OD): δ 8.13 (s, 1H),
+7.61 (s, 1H), 7.57 (d, 1H, <i>J</i> = 8.04 Hz), 7.26 (d, 1H, <i>J</i> = 8.77 Hz), 5.07 (s,
+2H).</p><heading><b>6-(3-<i>H</i>--Benzimidazol-5-yl)methylsulfanyl-9-β-D-ribofuranosyl-9<i>H</i>purine (37).</b></heading><p num="0195">(Cyanomethyl)trimethyl-phosphonium iodide <b>36</b> (299 mg, 1.23
+mmol) was added to a mixture of alcohol <b>35</b> (200 mg, 1.35 mmol), 6-mercaptopurine
+riboside (284 mg, 1.00 mmol), and DIPEA (0.25 mL) in
+propionitrile (3 mL). The mixture was heated at 90°C and some drops of
+DMF were added to obtain a clear solution. The mixture was stirred
+overnight at 90°C, cooled to rt and water was added. Upon standing at rt,
+<b>37</b> was formed as a pale brown precipitate collected by filtration and dried
+in <i>vacuo</i> (65% yield). <sup>1</sup>H NMR (d<sub>6</sub>-DMSO): δ 8.83, 8.72 (2x s, 2H), 8.21 (s, 
+1H), 7.70 (s, 1H), 7.54 (d, 1H, <i>J</i> = 8.04 Hz), 7.31 (d, 1H, <i>J</i> = 8.04 Hz), 6.01
+(d, 1H, <i>J</i> = 5.85 Hz), 5.57 (d, 1H, <i>J</i> = 5.85 Hz), 5.27 (d, 1H, <i>J</i> = 5.11 Hz),
+5.16 (m, 1H), 4.81 (s, 2H), 4.62 (m, 1H), 4.19 (m, 2H), 3.99 (m, 1H); <sup>13</sup>C
+NMR (d<sub>6</sub>-DMSO): δ 162.0, 152.8, 149.5, 144.5, 133.7, 132.6, 125.2, 90.5,
+87.6, 75.7, 72.2, 63.0, 33.9; Mp: 196-198°C; HRMS calc. for C<sub>18</sub>H<sub>19</sub>N<sub>6</sub>O<sub>4</sub>S
+m/z = 415.1200 (M+H), found 415.1155.</p><heading><b>(Benzimidazol-4-yl)-methanol (35).</b></heading><p num="0196">The same reduction reaction as for
+ester <b>32</b> was performed on ester <b>33;</b> in this case the yield was 88%. <sup>1</sup>H
+NMR (CD<sub>3</sub>OD): δ 8.15 (s, 1H), 7.53 (m, 1H), 7.24 (m, 2H), 4.98 (s, 2H).</p><heading><b>6-(3-<i>H</i>--Benzimidazol-4-yl)methylsulfanyl-9-β-D-ribofuranosyl-9<i>H</i>purine (38).</b></heading><p num="0197">Starting from alcohol <b>35</b> and the same reaction condition as
+<b>37</b> gave the coupled product <b>38</b> in 44% yield. <sup>1</sup>H NMR (CD<sub>3</sub>OD): δ 8.76,
+8.58 (2 x s, 2H), 8.20 (s, 1H), 7.54 (m, 1H), 7.41 (d, 1H, <i>J</i> = 7.31 Hz), 7.20
+(m, 1H), 6.08 (d, 1H, <i>J</i> = 5.84 Hz), 5.03 (s, 2H), 4.72 (m, 1H), 4.35 (m, 1H),
+4.15 (m, 2H), 3.83 (m, 1H); Mp = decomp. 136-138°C;
+
+13C-NMR = SENT TO NMR-DEPARTMENT
+
+MS: SENT TO MASS-DEPARTMENT.</p><heading><b>(Benzothiazol-6-yl)-methanol (40).</b></heading><p num="0198">To a suspension of 76 mg of LiAlH<sub>4</sub>
+in dry THF (20 mL) under N<sub>2</sub> was added dropwise and at 0°C a solution of
+ester <b>39</b> (207 mg, 1 mmol) in dry THF (6.7 ml). After 2 h. the ice bath was
+removed and the mixture was stirred overnight at rt, then cooled to 0°C.
+The excess of LiAlH<sub>4</sub> was destroyed very cautiously by a saturated solution
+of NH<sub>4</sub>Cl. The organic layer was removed and the aqueous layer was
+extracted with EtOAc. The combined organic extracts were dried (Na<sub>2</sub>CO<sub>3</sub>)
+and evaporated, obtaining an orange oil that was purified by column
+chromatography, eluting with EtOAc/MeOH (90/10). <sup>1</sup>H NMR (CD<sub>3</sub>OD): δ
+9.20 (s, 1H), 8.02 (m, 2H), 7.53 (d, 1H, <i>J</i> = 8.04 Hz), 4.76 (s, 2H).</p><heading><b>6-(Benzothiazol-6-yl)methylsulfanyl-9-(β-D-ribofuranosyl)purine (41).</b></heading><p num="0199">(Cyanomethyl)trimethylphosphonium iodide (45 mg) was added to a
+mixture of <b>40</b><sup>xiv</sup> (33 mg, 0.2 mmol), 6-mercaptopurine riboside (42 mg, 0.2
+mmol) and DIPEA (0.04 ml) in 0.43 ml of propionitrile. The mixture was 
+heated at 90°C and few drops of DMF were added to obtain a clear
+solution. Stirring was continued overnight at 90°C. The mixture was cooled
+to rt, water was added and slowly a pale brown precipitate was formed. The
+solid was collected and dried in <i>vacuo.</i><sup>1</sup>H NMR (CD<sub>3</sub>OD): δ 9.20, 8.74
+(2x s, 2H), 8.59 (s, 1), 8.18 (s, 1H), 7.98 (d, 1H, <i>J</i> = 8.78 Hz), 7.67 (d, 1H, <i>J</i>
+= 8.77 Hz), 6.07 (d, 1H, <i>J</i> = 5.11 Hz), 4.84 (s, 2H), 4.72 (m, 1H), 4.35 (m,
+1H), 4.17 (m, 2H), 3.83 (m, 1H); <sup>13</sup>C- NMR (CDCl<sub>3</sub>/d6-DMSO): δ 161.5,
+157.1, 153.5, 152.8, 149.5, 144.6, 137.4, 135.2, 129.0, 124.0, 123.7, 90.6,
+87.6, 75.7, 72.2, 63.0, 33.2, 19.4; Mp = decomp. 140 °C; HRMS calc. for
+C<sub>18</sub>H<sub>18</sub>N<sub>5</sub>O<sub>4</sub>S<sub>2</sub> m/z = 432.5100 (M+H), found 432.0787.</p><heading><b>6-(4-Nitrobenzylsulfanyl)-9-(tetrahydro-furan-2-yl)-9<i>H</i> -purine (43).</b></heading><p num="0200">This compound was prepared from <b>42</b> by general method <b>C</b> in 67 % yield.
+<sup>1</sup>H NMR (CDCl<sub>3</sub>): δ 8.75 (s, 1H), 8.15 (s, 1H), 7.62 (d, 1H, <i>J</i> = 8.9 Hz), 5.52
+(d, 1H, <i>J</i> = 8.9 Hz), 4.75 (m, 1H), 4.44(m, 2H), 2.19 (m, 2H); <sup>13</sup>CNMR
+(CDCl<sub>3</sub>): δ 158.59, 151.17, 148.46, 145.88, 141.217, 129.89, 128.58,
+127.88, 126.54, 123.11, 121.12, 97.14, 64.79, 61.25, 56.12, 32.111, 23.15;
+HRMS calc for C<sub>16</sub>H<sub>166</sub>N<sub>5</sub>O<sub>3</sub>S m/z = 358.3919 (M+H), found 358.3911.</p><heading><b>6-(4-Nitrobenzylsulfanyl)-9-(tetrahydro-pyran-2-yl)-9<i>H</i> -purine (44).</b></heading><p num="0201">This compound was obtained from <b>42</b> by general method <b>A</b> in 62 % yield.
+<sup>1</sup>H NMR (CDCl<sub>3</sub>): δ 8.74 (s, 1H), 8.18 (d, 1H, <i>J</i> = 9.2 Hz), 8.13 (s, 1H), 7.65
+(d, 1H, <i>J</i> = 9.2 Hz), 5.74 (m, 1H), 4.72 (s, 2H), 4.15 (m, 2H), 3.78 (m, 3H),
+2.29 (m, 3H); <sup>13</sup>C NMR (CDCl<sub>3</sub>): δ 158.59, 151.13, 148.43, 145.64, 141.21,
+129.72, 128.08, 127.02, 126.65, 123.35, 121.47, 97.93, 64.64; HRMS calc.
+for C<sub>17</sub>H<sub>18</sub>N<sub>5</sub>O<sub>3</sub>S m/z = 372.1131 (M+H), found 372.1104.</p><heading><b>6-(4-Nitrobenzylsulfanyl)-9-purine-9-yl)-butan-1-ol (47).</b></heading><p num="0202">Compound <b>46</b>
+was made from <b>42</b> by general method <b>B</b> in 86 % yield. <sup>1</sup>H NMR (CDCl<sub>3</sub>): δ
+8.65 (s, 1H), 8.05 (d, 1H, <i>J</i> = 9.2 Hz), 7.97 (s, 1H), 7.70 (d, 1H, <i>J</i> = 9.2 Hz),
+4.65 (s, 2H), 4.42 (m, 1H), 4.21 (m, 3H), 3.72 (m, 3H), 3.33 (m, 3H), 2.12
+(m, 3H), 1.51 (m, 4H).</p><p num="0203">Deprotection of <b>46</b> was done with <i>p</i>-toluene sulfonic acid to give <b>47</b> in
+65% yield. <sup>1</sup>H NMR (CDCl<sub>3</sub>): δ 8.70 (s, 1H), 8.36 (s, 1H), 8.10 (d, 1H, <i>J</i> = 
+9.2 Hz), 7.70 (d, 1H, <i>J</i> = 9.2 Hz), 4.74 (s, 2H), 4.43 (m, 2H), 4.57 (m, 2H),
+1.97 (m, 2H), 1.51 (m, 2H); <sup>13</sup>C NMR (CDCl<sub>3</sub>): δ 159.22, 151.71, 148.89,
+147.15, 145.77, 143.02, 132.14, 131.94, 129.98, 128.56, 123.68, 62.09,
+43.95, 31.81, 29.19, 26.98; Mp: 128-130 °C; HRMS calc. for C<sub>16</sub>H<sub>19</sub>N<sub>5</sub>O<sub>3</sub>S
+m/z = 360.1130 (M+H), found 360.1123.</p><heading><b>6-(4-Nitrobenzylsulfanyl)-9-cyclopentyl-9<i>H</i>-purine (48).</b></heading><p num="0204">This
+compound was obtained from <b>42</b> by method <b>B</b> in 56 % yield. <sup>1</sup>H NMR
+(CD<sub>3</sub>OD): δ 8.73 (s, 1H), 8.16 (d, 1H, <i>J</i> = 9.2 Hz), 8.14 (s, 1H), 7.65 (d, 1H,
+<i>J</i> = 9.2 Hz), 4.96 (m, 1H), 4.72 (s, 2H), 4.12 (m, 1H), 2.29 (m, 2H), 1.97-1.80
+(m, 3H); <sup>13</sup>C NMR (CDCl<sub>3</sub>): δ 158.60, 151.13, 148.43, 145.64, 141.21,
+129.72, 126.66, 123.35, 56.09, 32.31, 31.04, 23.55; Mp: 92-94 °C; HRMS
+calc. for C<sub>17</sub>H<sub>18</sub>N<sub>5</sub>O<sub>2</sub>S m/z = 356.1181 (M+H), found 356.1179.</p><heading><b>9-Butyl-6-(4-nitrobenzylsulfanyl)-9H-purine (53).</b></heading><p num="0205">This compound was
+made by general method <b>A</b> from <b>42</b> in 98% yield. <sup>1</sup>H NMR (d<sub>6</sub>-DMSO):
+δ 8.76 (s, 1H), 8.52 (s, 1H), 8.18 (d, <i>J</i> = 8.77 Hz), 7.76 (d, <i>J</i> = 8.77 Hz),
+4.79 (s, 2H), 4.25 (t, 2H, <i>J</i> = 7.31 Hz), 1.82 (tt, 2H, <i>J</i> = 7.31 Hz), 1.24 (tq,
+2H, <i>J</i> = 7.31 Hz), 0.89 (t, 3H, <i>J</i> = 7.31 Hz); <sup>13</sup>C NMR, HRMS calc. for
+C<sub>16</sub>H<sub>18</sub>N<sub>5</sub>O<sub>2</sub>S m/z = 344.1181 (M+H), found 344.1148.</p><heading><b>6-(Benzo[1,2,5]oxadiazol-4-ylmethylsulfanyl-9H-purine (50).</b></heading><p num="0206">This
+compound was prepared by general method <b>A,</b> from <b>49</b> and bromide <b>12</b> in
+88% yield. <sup>1</sup>H NMR (CD<sub>3</sub>OD): δ 8.77 (s, 1H), 8.13 (s, 1H), 7.72 (d, 1H, <i>J=</i>
+8.77 Hz), 7.57 (d, 1H, <i>J</i> = 6.58 Hz), 7.32 (dd, 1H, <i>J</i> = 8.77, 5.84 Hz), 5.07
+(s, 2H).</p><heading><b>6-(Benzo[1,2,5]oxadiazol-4-ylmethylsulfanyl-purine-9-yl-butane (54).</b></heading><p num="0207">This compound was made by general method <b>D</b> from <b>50</b> and butyl bromide
+in 63% yield. <sup>1</sup>H NMR (CD<sub>3</sub>OD): δ 8.76 (s, 1H), 7.93 (s, 1H), 7.63 (d, 1H, J
+= 8.77 Hz), 7.52 (d, 1H, J = 6.58 Hz), 7.26 (dd, 1H, J = 6.58, 8.78 Hz), 4.97
+(s, 2H), 4.20 (t, 2H, J = 7.31 Hz), 1.83 (t, 2H, J = 7.31 Hz), 1.28 (t, 2H, J =
+7.31 Hz), 0.89 (t, 3H, J = 7.31 Hz); <sup>13</sup>C NMR (CDCl<sub>3</sub>): δ 151.49, 145.61,
+142.67, 129.75, 123.38, 121.32, 98.08, 43.60, 31.71, 31.43, 19.58, 13.21;
+HRMS calc. for C<sub>16</sub>H<sub>17</sub>N<sub>6</sub>OS (M+H), 341.42 found 341.1184. </p><heading><b>6-(Benzo-2,1-isothiazol-5-yl)methylsulfanyl-9-butyl-9<i>H</i>-purine (55).</b></heading><p num="0208">This compound was made by stirring a mixture of <b>55</b> (315 mg, 1.38 mmol),
+6-mercaptopurine (245 mg, 1.55 mmol) and K<sub>2</sub>CO<sub>3</sub> (228 mg, 1.65 mmol) in
+DMF (5 mL) at rt for 3 h. (general method <b>A).</b> After addition of water (30 ml)
+the mixture was allowed to stand at 5 °C for 4 days. An oily residue
+separated from the water layer. After removal of the water layer, toluene
+(20 ml) was added and evaporated <i>in vacuo.</i> This procedure was repeated
+twice after which the remaining residue was dissolved in DMF (10 ml). At 0
+°C NaH (60% dispersion in mineral oil, 70 mg, 1.75 mmol) was added. After
+30 min n-butylbromide (200 I, 1.85 mmol) was added. The reaction was
+stirred overnight at rt and poured into water (40 ml). Extraction with EtOAc
+(3 x 20 ml), drying (MgSO<sub>4</sub>) and concentration <i>in vacuo</i> gave an orange oil
+that was purified by silicagel column chromatography (n-heptane/EtOAc =
+2/1) to afford <b>55</b> (245 mg, 50%) as a white solid. <sup>1</sup>H NMR (CDCl<sub>3</sub>): δ 9.11
+(s, 1H), 8.77 (s, 1H), 7.95 (s, 1H), 7.86 (s, 1H), 7.79 (d, 1H, <i>J</i> = 9.5 Hz),
+7.55 (d, 1 H, J = 9.5 Hz), 4.77 (s, 2H), 4.28 (t, 2H, J = 6.6 Hz), 1.89 (m, 2H),
+1.33 (m, 2H), 0.95 (t, 3H, <i>J=</i> 7.3 Hz); <sup>13</sup>C NMR (CDCl<sub>3</sub>): δ 160.6, 159.5,
+151.4, 148.4, 143.9, 142.6, 134.2, 133.5, 130.9, 130.3, 121.4, 121.2, 43.4,
+32.3, 31.6, 19.5, 13.1; Mp: 93-94 °C; HRMS calc. for C<sub>17</sub>H<sub>17</sub>N<sub>5</sub>BrS<sub>2</sub> m/z =
+434.0109 (M+H), found 434.0080.</p><heading><b>6-(3-Bromo-benzo-2,1-isothiazol-5-yl)methylsulfanyl-9<i>H</i>-purine (52).</b></heading><p num="0209">This compound was made by general method <b>A,</b> from bromide <b>30</b> in 90%
+yield as a white solid. <sup>1</sup>H NMR (d<sub>6</sub>-DMSO): δ 8.79 (s, 1H), 8.48 (s, 1H), 7.79
+(m, 2H), 7.67 (d, 1 H, <i>J</i> = 9.5 Hz), 4.85 (s, 2H), 3.33 (b, s, 1H, NH); <sup>13</sup>C NMR
+(d<sub>6</sub>-DMSO) δ 160.3, 156.9, 151.3, 150.6, 143.7, 135.9, 133.8, 132.7, 131.7,
+129.2, 122.0, 119.5, 31.3.</p><heading><b>6-(3-Bromo-benzo[<i>c</i>]isothiazol-5-yl) methylsulfanyl-purine-9-ylbutane (56).</b></heading><p num="0210">This compound was prepared by the general method D from
+<b>52</b> and n-butylbromide in 69% yield. <sup>1</sup>H NMR (CDCl<sub>3</sub>): δ 8.78 (s, 1H), 7.95
+(s, 1H), 7.71 (m, 2H), 7.57 (d, 1H, <i>J</i> = 9.5 Hz), 4.78 (s, 2H), 4.25 (t, 2H, <i>J</i> =
+6.6 Hz), 1.89 (m, 2H), 1.34 (m, 2H), 0.96 (t, 3H, <i>J</i> = 7.3 Hz); <sup>13</sup>C NMR 
+(CDCl<sub>3</sub>): δ 160.7, 159.3, 151.4, 148.5, 142.6, 134.9, 134.0, 131.9, 131.1,
+130.9, 122.1, 119.7, 43.5, 32.3, 31.7, 19.6, 13.2; Mp: 118-119 °C; HRMS
+calc for C<sub>17</sub>H<sub>18</sub>N<sub>5</sub>S<sub>2</sub> m/z = 356.1003 (M+H), found 356.0927.</p><heading><b>5-Chloro-7-benzylsulfanyl-3-β-D-ribofuranosyl-3<i>H</i>-imidazo[4,5b]pyridine (60).</b></heading><p num="0211">A mixture of <b>57</b> (0.1662 g, 0.37 mmol), benzylthiol (0.065
+g, 0.6 mmol) and 0.02mL of Et<sub>3</sub>N in 2 mL of DMF was stirred at rt for 18 h.
+under N<sub>2</sub> atmosphere. The solution was extracted with ether, dried and
+purified by flash chromatography (PE/EA, 1:1), yielding 5-chloro-7-(benzylsulfanyl)-3-(2',
+3', 5'-tri-<i>O</i>-acetyl-β-D-ribofuranosyl)-3H-imidazo[4,5-b]pyridine
+<b>58</b> (168 mg) in 85 % yield. <sup>1</sup>H NMR (CDCl<sub>3</sub>): δ 8.13 (s, 1H), 7.42-7.31
+(m, 5H), 7.08 (s, 1H), 6.23 (d, 1H, <i>J</i> = 5.1 Hz), 5.85 (dd, 1H, <i>J</i> = 5.1,
+5.9 Hz), 5.65 (dd, 1H, <i>J</i> = 5.1, 5.9 Hz), 4.43 (s, 2H), 4.38 (m, 2H), 2.28,
+2.12, 1.90 (3x s, 3H).</p><p num="0212">Deprotection of <b>58</b> with a saturated solution of ammonia in methanol at 0
+°C for 18 h. gave 83 mg of <b>60</b> (65%). <sup>1</sup>H NMR (CD<sub>3</sub>OD): δ 8.60 (s, 1H),
+7.40-7.29 (m, 5H), 7.25 (s, 1H), 6.04 (d, 1H, <i>J</i> = 5.1 Hz), 4.69 (dd, 1H, <i>J</i> =
+5.1, 5.9 Hz), 4.43 (s, 2H), 4.36 (dd, 1H, <i>J</i> = 5.1, 5.9 Hz), 4.15(m, 1H), 3.94-3.80
+(m, 2H); <sup>13</sup>C NMR (CD<sub>3</sub>OD): δ 147.15, 145.80, 145.101, 144.324,
+137.180, 130.02, 129.81, 128.53, 126.77, 115.19, 90.65, 87.17, 75.19,
+71.82, 62.75, 35.70; Mp: 154-156 °C; HRMS calc. for C<sub>18</sub>H<sub>19</sub>N<sub>3</sub>O<sub>4</sub>SCl m/z =
+408.0784 (M+H), found 408.0678.</p><heading><b>5-Chloro-7-(4-nitro-benzylsulfanyl)-3-β-D-ribofuranosyl-3<i>H</i>imidazo[4,5-b]pyridine (61).</b></heading><p num="0213">A mixture of <b>57</b> (75 mg, 0.17 mmol), p-nitro-benzylthiol
+(0.85 g, 0.5 mmol) and 0.1 mL of Et<sub>3</sub>N in 5 mL of DMF was
+stirred at rt for 18 h. under N<sub>2</sub> atmosphere. The solution was extracted with
+ether, dried and purified by flash chromatography (PE/EA. 1:1), yielding 72
+mg of 5-chloro-7-(4-nitrobenzylsulfanyl)-3-(2', 3', 5'-tri-O-acetyl-β-D-ribofuranosyl)-3H-imidazo[4,5-b]pyridine
+<b>59</b> (75%). <sup>1</sup>H NMR (CDCl<sub>3</sub>): δ 8.19
+(d, 2H, <i>J=</i> 8.0), 8.15(s, 1H), 7.60(s, 1H), 755 (d, 2H, <i>J=</i> 8.0, 2H), 6.21 (d,
+1H, <i>J</i> = 5.1 Hz), 5.83 (dd, 1H, <i>J</i> = 5.1, 5.9 Hz), 5.64 (dd, 1H, <i>J</i> = 5.1, 5.9
+Hz), 4.63 (s, 2H), 4.38 (m, 2H), 2.14, 2.12, 2.08 (3x s, 3H). Deprotection of <b>59</b> with saturated solution of ammonia in methanol at 0 °C for 18 h, gave
+50 mg <b>61</b> (88 %). <sup>1</sup>H NMR (CDCl<sub>3</sub>): δ 8.74 (s, 1H), 8.14 (d, 2H, <i>J=</i> 8.0),
+7.66 (d, 2H, <i>J=</i> 8.0, 2H), 7.18(s, 1H), 6.03 (d, 1H, <i>J</i> = 5.1 Hz), 4.89 (s, 2H),
+4.69 (dd, 1H, <i>J</i> = 5.1, 5.9 Hz), 4.43 (m 1H), 3.88-3.78 (m, 2H). <sup>13</sup>C NMR
+(CD<sub>3</sub>OD): 147.15, 145.80, 145.101, 144.324, 137.180, 130.02, 129.78,
+128.75, 115.495, 90.91, 87.49, 75.46, 72.16, 63.13, 36.07; Mp: 162-165
+°C; HRMS calc. for C<sub>18</sub>H<sub>18</sub>N<sub>4</sub>O<sub>6</sub>ClS m/z = 453.0635 (M+H), found
+453.0614.</p><heading><b>Erythrocytes and membrane preparation.</b></heading><p num="0214">Whole human blood (Blood
+Bank, Leiden University Medical Center) was stirred in lysis buffer (1/2 v/v,
+10 mM MgCl<sub>2</sub> in 10 mM TrisHCl, pH 8.0 at 25 °C) for 1 h. After
+homogenization it was centrifuged for 50 min at 19,000 rpm. The
+supernatant was removed and the pellet was dissolved in ice-cold water
+and centrifuged again for 50 min. This procedure was repeated two more
+times. After removal of the last supernatant 25 mL of buffer (50 mM
+TrisHCl, pH 7.4 at 25 °C) was added to the final pink pellet. This
+suspension was homogenized and the ghosts were collected. Aliquots were
+stored at -80 °C until further use.
+<b>[<sup>3</sup>H]NBTI binding assay.</b> Saturation and displacement equilibrium NBTI
+binding to membranes prepared from human erythrocytes (ghosts) was
+determined at 25 °C based on a method previously described. <sup>iii</sup></p><heading><b>Conclusion.</b></heading><p num="0215">Inhibitors of nucleoside transport may have potential as drugs enhancing
+adenosine's actions in the CNS. As such their use may be in the treatment
+of chronic and/or neuropathic pain, epilepsy and other CNS-related
+disorders. Currently available ligands are often very hydrophilic, preventing
+substantial passage of the blood-brain barrier. In this study we addressed
+this issue by synthesizing and testing derivatives of NBTI with decreased
+hydrophilicity by focussing on both C6- and N9-substitution.
+
+Many compounds proved to have affinities in the nanomolar range,
+although less active than NBTI itself. The substantial reduction in polarity 
+achieved in some of the compounds is promising; they may have more
+favorable characteristics in aspects of absorption and distribution </p><heading><b>Literatur:</b></heading><p num="0216"><sl><li>1) Plagemann, P. G. W.; Wohlhueter, R. M.; Woffendin, C. <i>Biochim
+Biophys Acta</i><b>1988,</b><i>947</i>, 405-443.</li><li>2) Thorn, J. A.; Jarvis, S. M. <i>Gen. Pharmac.</i><b>1996,</b> 27, 613-620.</li><li>3) IJzerman, A. P.; Voorschuur, A. H. <i>Naunyn-Schmiedeberg's Arch
+Pharmacol</i><b>1990,</b><i>342</i>, 336-341 (and refs there in).</li><li>4) Paul, B.; Chen, M. F.; Paterson, A. R. P. <i>J. Med. Chem.</i><b>1975,</b><i>18,</i> 968-973.</li><li>5) Baldwin, S. A.; Mackey, J. R.; Cass, C. E.; Young, J. D. <i>Molecular
+Medicine Today</i><b>1999,</b><i>5</i>, 216-224.</li><li>6) Johnston, T. P.; Holum, L. B.; Momtgomery, J. A. <i>J. Amer. Chem.Soc.</i><b>1985,</b><i>80,</i> 6265-6272.</li><li>7) a) Ghosh, P. B.; Ternai, B.; Whitehouse; M.W. <i>J. Med. Chem.</i><b>1972,</b> 15,
+255-260. b) Ghosh, P. B.; Whitehouse, M. W. <i>J. Med. Chem.</i><b>1968,</b><i>11,</i>
+305-311.</li><li>8) Temple, C.; Kussner, C. L.; Montgomery, J. A. <i>J. Org. Chem.</i><b>1968,</b><i>11,</i>
+41-43.</li><li>9) Phillips, B. T.; Hartman, G. D. <i>J. Heterocyclic Chem.</i><b>1986,</b> 23, 897-899.</li><li>10)Singerman, G. M. <i>J. Heterocyclic Chem</i><b>1975,</b> 12, 877-882.</li><li>11)a) Zaragoza, F. <i>Tetrahedron</i><b>2001,</b> 57, 5451-5454. b) Zaragoza, F.;
+Stephensen, H. <i>J. Org. Chem.</i><b>2001,</b> 66, 2518-2521</li><li>12)Kimura, T.; Takase, Y.; Hayashi, K.; Tanaka, H.; Ohtsuka, I.; Saeki, T.;
+Kogushi, M.;Yamada, T.; Fujimori, T.; Saitou, I.; Akasaka, K. <i>J. Med.
+Chem.</i><b>1993,</b><i>36</i>, 1630-1640.</li><li>13)Sun,Q.; Gatto, B.; Yu, C.; Liu, A.; Liu, L. F.; LaVoie, E. J. <i>J. Med.</i> Chem.
+<b>1995,</b> 38, 3638-3644.</li><li>14)Burger, A.; Sawhney, S. N. <i>J. Med. Chem</i>. <b>1968,</b><i>11</i>, 270-273.</li><li>15)Yadagiri, B.; Lown, J. W. <i>Synth. Commun.</i><b>1990,</b> 20, 955-963.</li><li>16)Robins, R. K.; Godefroi, E. F.; Taylor, E. C.; Lewis, R.L; Jackson, A. <i>J.
+Am. Chem.</i> Soc. <b>1960,</b> 83, 2574-79.</li><li>17)Toyota, A.; Katagiri, N.; Kaneko, C. <i>Synth. Commun.</i><b>1993,</b> 23, 1295-1305.</li><li>18)De Vries, E. F. J.; Steenwinkel, P.; Brussee, J.; Kruse, C. G.; Van der
+Gen, <i>J. Org. Chem.</i><b>1993,</b><i>58</i>, 4315-4325.</li><li>19)Cristalli, G.; Grifantini, M.; Vittori, S. <i>Nucleosides &amp; Nucleotides</i><b>1985,</b><i>4</i>,
+621-639.</li><li>20) Jarvis, S. M. Mol. Pharmacol. 1986, 30, 659-665</li></sl></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>Derivative of nitrobenzylthioinosine according to formula I
+
+, wherein
+X is selected from C or N;
+Y is selected from H, OH, SH, F, Cl, Br, I, -CF3, -CHF2, -CH2F, -OCH3,-OC2H5,
+-CH3, -C2H5;
+R is selected from phenyl, benzyl, heteroaryl, or phenyl condensed with
+a heteroaryl, mono-or multisubstituted or unsubstituted respectively;
+R' is selected from ribose, mono-or multisubstituted or unsubstituted;
+C1-6-alkyl saturated or unsaturated, mono-or multisubstituted or
+unsubstituted; C3-8-cycloalkyl or C3-8-cycloalkyl containing 1 or 2
+heteroatoms selected from S, O or N in the ring, mono-or
+multisubstituted or unsubstituted respectively; phenyl or benzyl,
+mono-or multisubstituted or unsubstituted respectively; or C1-6-alkyl-O-R"
+with alkyl saturated or unsaturated, mono-or multisubstituted or
+unsubstituted and R" selected from phenyl, heteroaryl, C3-8-cycloalkyl
+or C3-8-cycloalkyl containing 1 or 2 heteroatoms selected
+from S, O or N in the ring, mono-or multisubstituted or unsubstituted
+respectively.
+optionally in the form of its racemate, pure stereoisomers, especially
+enantiomers or diastereomers or in the form of mixtures of
+stereoisomers, especially enantiomers or diastereomers, in any
+suitable ratio;
+in the form shown or in form of the acid or base or in form of a salt,
+especially a physiologically acceptable salt, or in form of a solvate,
+especially a hydrate.</claim-text></claim><claim num="2"><claim-text>Derivative according to claim 1 characzterized in that R is selected from
+phenyl, benzyl or phenyl condensed with a heteroaryl, mono-or
+multisubstituted or unsubstituted respectively,
+preferably selected from phenyl, benzyl or phenyl condensed with a
+heteroaryl, unsubstituted or mono- or disubstituted with OH, F, Cl, Br, I,
+-CF3, -OCH3, -OC2H5, -CH3, -C2H5;
+especially selected from p-nitrophenyl, 4-nitrobenzyl, unsubstituted
+benzyl, unsubstituted phenyl, m-trifluoromethylphenyl, p-trifluoromethylphenyl;
+or phenyl, unsubstituted or monosubstituted with
+Cl, condensed with =N-O-N=, =N-O-CH=, =N-S-CH=, =N-S-CBr=,-N=CH-NH-
+or -N=CH-S-.</claim-text></claim><claim num="3"><claim-text>Derivative according to any of claims 1 or 2 characterized in that R' is
+selected from
+ribose, mono-or multisubstituted or unsubstituted; C1-6-alkyl saturated
+or unsaturated, mono-or multisubstituted or unsubstituted; C3-8-cycloalkyl
+or C3-8-cycloalkyl containing 1 or 2 heteroatoms selected
+from S, O or N in the ring, mono-or multisubstituted or unsubstituted
+respectively; benzyl, mono-or multisubstituted or unsubstituted; or C4-6-alkyl-O-R"
+with alkyl saturated and unsubstituted and R" selected from
+C3-8-cycloalkyl or C3-8-cycloalkyl containing 1 or 2 heteroatoms selected
+from S, O or N in the ring, mono-or multisubstituted or unsubstituted
+respectively;
+preferably selected from ribose, mono- or disubstituted or
+unsubstituted; C3-6-alkyl, saturated and unsubstituted or substituted
+with F, Cl, Br, I or OH; C5-7-cycloalkyl or C5-7-cycloalkyl containing 1 or 2
+heteroatoms selected from S, O or N in the ring, mono-or disubstituted
+or unsubstituted respectively; benzyl, mono- or disubstituted or
+unsubstituted; or C4-6-alkyl-O-R" with alkyl saturated and unsubstituted
+and R" selected from C3-8-cycloalkyl containing 1 or 2 heteroatoms
+selected from S, O or N in the ring, mono-or disubstituted or
+unsubstituted respectively;
+especially selected from ribose, unsubstituted; n-butyl or butan-4-ol;
+cyclopentyl, tetrahydrofuranyl or tetrahydropyranyl, unsubstituted
+respectively; benzyl, unsubstituted or mono- or disubstituted with NO2,
+F, phenyl, I, Cl, trifluoromethoxy, trifluoromethyl or methoxy; or -butyl-O-tetrahydropyranyl.</claim-text></claim><claim num="4"><claim-text>Derivative according to any of claims 1 to 3 characterized in that Y is
+selected from H or Cl.</claim-text></claim><claim num="5"><claim-text>Derivative according to any of claims 1 to 4 characterized in that X is
+selected from N.</claim-text></claim><claim num="6"><claim-text>Derivative according to any of claims 1 to 5 characterized in that it is
+selected from the following group:
+<claim-text><claim-text>2-[6-(Benzo[c]isothiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(3-Bromo-benzo[c]isothiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(Benzo[1,2,5]oxadiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(Benzo[1,2,5]oxadiazol-4-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(5-Chloro-benzo[1,2,5]oxadiazol-4-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(Benzo[c]isoxazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(Benzo[c]isoxazol-7-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(Benzo[c]isothiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(3-Bromo-benzo[c]isothiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(3-Bromo-benzo[c]isothiazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(3H-Benzoimidazol-5-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(3H-Benzoimidazol-4-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[6-(Benzothiazol-6-ylmethylsulfanyl)-purin-9-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>6-(4-Nitro-benzylsulfanyl)-9-(tetrahydro-furan-2-yl)-9H-purine</claim-text><claim-text>6-(4-Nitro-benzylsulfanyl)-9-(tetrahydro-pyran-2-yl)-9H-purine</claim-text><claim-text>6-(4-Nitro-benzylsulfanyl)-9-[4-(tetrahydro-pyran-2-yloxy)-butyl]-9H-purine</claim-text><claim-text>4-[6-(4-Nitro-benzylsulfanyl)-purin-9-yl]-butan-1-ol</claim-text><claim-text>9-Cyclopentyl-6-(4-nitro-benzylsulfanyl)-9H-purine</claim-text><claim-text>9-Butyl-6-(4-nitro-benzylsulfanyl)-9H-purine</claim-text><claim-text>6-(Benzo[1,2,5]oxadiazol-4-ylmethylsulfanyl)-9-butyl-9H-purine</claim-text><claim-text>6-(Benzo[c]isothiazol-5-ylmethylsulfanyl)-9-butyl-9H-purine</claim-text><claim-text>6-(3-Bromo-benzo[c]isothiazol-5-ylmethylsulfanyl)-9-butyl-9H-purine</claim-text><claim-text>2-(7-Benzylsulfanyl-5-chloro-imidazo[4,5-b]pyridin-3-yl)-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>2-[5-Chloro-7-(4-nitro-benzylsulfanyl)-imidazo[4,5-b]pyridin-3-yl]-5-hydroxymethyl-tetrahydro-furan-3,4-diol</claim-text><claim-text>3-[6-(4-Nitro-benzylsulfanyl)-purin-9-yl]-propan-1-ol</claim-text><claim-text>9-Benzyl-6-(4-nitro-benzylsulfanyl)-9H-purine</claim-text><claim-text>2-Hydroxymethyl-5-(6-phenethylsulfanyl-purin-9-yl)-tetrahydro-furan-3,4-diol</claim-text><claim-text>6-(3-Trifluoromethoxy-benzylsulfanyl)-9H-purine</claim-text><claim-text>9-Benzyl-6-(3-trifluoromethoxy-benzylsulfanyl)-9H-purine</claim-text><claim-text>6-(4-Trifluoromethoxy-benzylsulfanyl)-9H-purine</claim-text><claim-text>9-Benzyl-6-(4-trifluoromethoxy-benzylsulfanyl)-9H-purine</claim-text><claim-text>9-(4-Nitro-benzyl)-6-(4-trifluoromethoxy-benzylsulfanyl)-9H-purine</claim-text><claim-text>9-(2,3-Difluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</claim-text><claim-text>9-(2,4-Difluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</claim-text><claim-text>9-(2,5-Difluoro-benzyl)-6-(4-nitro-benzylsulfanyl)-9H-purine</claim-text></claim-text></claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

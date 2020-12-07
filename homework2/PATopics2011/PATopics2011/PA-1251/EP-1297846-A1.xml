@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1297846-A1" country="EP" doc-number="1297846" kind="A1" lang="EN" family-id="11004431" status="new" date-produced="20090516" date="20030402"><bibliographic-data><publication-reference ucid="EP-1297846-A1" status="new" fvid="23732497"><document-id status="new" format="original"><country>EP</country><doc-number>1297846</doc-number><kind>A1</kind><date>20030402</date></document-id></publication-reference><application-reference ucid="EP-02018963-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>02018963</doc-number><kind>A</kind><date>19960515</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="IB-9600461-W" status="new"><document-id status="new" format="epo"><country>IB</country><doc-number>9600461</doc-number><kind>W</kind><date>19960515</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A61K  39/00        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  39/00        20060101C N20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  39/395       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  39/395       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61P  35/00        20060101A I20060521RMEP        </classification-ipcr><classification-ipcr status="new">A61P  35/00        20060101C I20060521RMEP        </classification-ipcr><classification-ipcr status="new">C07K  16/18        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07K  16/30        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">A61K  39/395C3+M</classification-symbol><classification-symbol scheme="EC">C07K  16/30P</classification-symbol><classification-symbol scheme="ICO">K61K39:00</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Verfahren und Zusammensetzung zur Rekonformierung multi-epitopischer Antigenen zur Induktion einer Immunantwort</invention-title><invention-title load-source="ep" status="new" lang="EN">Method and composition for reconforming multi-epitopic antigens to initiate an immune response</invention-title><invention-title load-source="ep" status="new" lang="FR">Procédé et composition pour réconformer des antigènes à plusieurs épitopes pour induire une réponse immunologique</invention-title><citations><patent-citations><patcit ucid="US-5084396-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5084396</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>B. SCHULTES ET AL.:  "Induction of CA125-specific B and T cell responses in MAb-43.13 injected patients depends on complex formation of the MAb with circulating antigen in vivo." THE FASEB JOURNAL, vol. 14, no. 6, 20 April 2000 (2000-04-20), page A1003 XP002202309 Bethesda, MD, USA</text><sources><source category="T" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>R. MADIYALAKAN ET AL.:  "Antiidiotype induction therapy: Evidence for the induction of immune response through the idiotype network in patients with ovarian cancer after administration of anti-CA125 murine monoclonal antibody B43.13." HYBRIDOMA, vol. 14, no. 2, April 1995 (1995-04), pages 199-203, XP001064580 New York, NY, USA</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><related-documents status="new"><relation type="division"><child-doc ucid="EP-02018963-A"><document-id status="new" format="original"><country>EP</country><doc-number>02018963</doc-number><kind>A</kind><date>19960515</date></document-id></child-doc><parent-doc ucid="EP-96913660-A" psta="unknown"><document-id status="new" format="original"><country>EP</country><doc-number>96913660</doc-number><kind>A</kind><date>19971120</date></document-id></parent-doc></relation></related-documents><parties><applicants><applicant status="new" format="epo"><addressbook><name>ALTAREX INC</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ALTAREX CORPORATION</name></addressbook></applicant><applicant status="new"  format="original"><addressbook><last-name>Altarex Corporation</last-name><address><street>610 Lincoln Street</street><city>Waltham, MA 02154</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>BAUM RICHARD P</name><address><country>DE</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MADIYALAKAN RAGUPATHY</name><address><country>CA</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NOUJAIM ANTOINE A</name><address><country>CA</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SCHULTES BIRGIT</name><address><country>US</country></address></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>BAUM, RICHARD P.</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>MADIYALAKAN, RAGUPATHY</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>NOUJAIM, ANTOINE A.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SCHULTES, BIRGIT</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>BAUM, RICHARD P.</last-name><address><street>Theodor-Stern-Kai 7</street><city>60590 Frankfurt</city><country>DE</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MADIYALAKAN, RAGUPATHY</last-name><address><street>9741-89 Avenue</street><city>Edmonton, Alberta T6E 2S1</city><country>CA</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NOUJAIM, ANTOINE A.</last-name><address><street>58 Wilkin Road</street><city>Edmonton, Alberta T6M 2K4</city><country>CA</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SCHULTES, BIRGIT</last-name><address><street>12 Monadnock Road</street><city>Arlington, MA 02476</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Gates, Marie Christina Esther</last-name><address><street>c/o Tomkins &amp;amp; Co. 5 Dartmouth Road</street><city>Dublin 6</city><country>IE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The invention concerns methods and compositions for initiating and/or enhancing an
+immune response by contacting monoclonal antibody B43.13 with a multi-epitopic
+in vivo antigen present in the serum of a host wherein the monoclonal antibody
+B43.13-antigen pair elicits an effective host immune response against a second
+epitope on the antigen.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">Technical Field</u></heading><p num="0001">The invention concerns methods and compositions for initiating and/or
+enhancing an immune response <i>in vivo</i>.</p><heading><u style="single">Background Art</u></heading><p num="0002">All vertebrates have an immune system. The ability of vertebrates to
+protect themselves against infectious microbes, toxins, viruses, or other foreign
+macromolecules is referred to as immunity. Immunity is highly specific; such
+specificity is a fundamental characteristic of immune responses. Many of the
+responses of the immune system initiate the destruction and elimination of
+invading organisms and any toxic molecules produced by them. Because the
+nature of these immune reactions is inherently destructive, it is essential that the
+response is precisely limited to the foreign molecules and not to those of the host
+itself. This ability to distinguish between foreign molecules and self molecules is
+another fundamental feature of the immune system.</p><p num="0003">The art distinguishes between natural and acquired or specific immunity.
+Natural immunity is comprised of defense mechanisms which are active before
+exposure to microbes or foreign macromolecules, are not enhanced by such
+exposure, and do not distinguish among most substances foreign to the body.
+Effectors of natural immunity are physical barriers such as skin or mucous
+membranes, phagocytic cells such as macrophages or neutrophils, a class of
+lymphocytes termed natural killer cells, and the complement system. Complement
+is a serum protein complex that is destructive to certain bacterial and other cells
+sensitized by specific, complement-fixing antibodies; its activity is effected by a 
+series of interactions resulting in proteolytic cleavages and which can follow one or
+the other of at least two pathways.</p><p num="0004">In vertebrates, the mechanisms of natural and specific immunity cooperate
+within a system of host defenses, the immune system, to eliminate foreign
+invaders. In addition to microbes, cancer cells, parasites and virus-infected cells,
+the immune system also recognizes and eliminates cells or tissues transplanted into
+a subject from a genetically different individual of the same species (allografts) or
+from a different species (xenografts).</p><p num="0005">Acquired or specific immunity comprises defense mechanisms which are
+induced or stimulated by exposure to foreign substances. The events by which the
+mechanisms of specific immunity become engaged in the defense against foreign
+substances are termed immune responses. Vertebrates have two broad classes of
+immune responses: antibody responses, or humoral immunity, and cell-mediated
+immune responses, or cellular immunity. Humoral immunity is provided by B
+lymphocytes, which, after proliferation and differentiation, produce antibodies
+(proteins also known as immunoglobulins) that circulate in the blood and
+lymphatic fluid. These antibodies specifically bind to the antigen that induced
+them. Binding by antibody inactivates the foreign substance, e.g., a virus, by
+blocking the substance's ability to bind to receptors on a target cell. The humoral
+response primarily defends against the extracellular phases of bacterial and viral
+infections. In humoral immunity, serum alone can transfer the response, and the
+effectors of the response are soluble protein molecules called antibodies.</p><p num="0006">The second class of immune responses, cellular immunity, involve the
+production of specialized cells, e.g., T lymphocytes, that react with foreign
+antigens on the surface of other host cells. The cellular immune response is
+particularly effective against fungi, parasites, intracellular viral infections, cancer
+cells and other foreign matter. In fact, the majority of T lymphocytes play a
+regulatory role in immunity, acting either to enhance or suppress the responses of
+other white blood cells. These cells, called helper T cells and suppressor T cells,
+respectively, are collectively referred to as regulatory cells. Other T lymphocytes, 
+called cytotoxic T cells, kill virus-infected cells. Both cytotoxic T cells and B
+lymphocytes are involved directly in defense against infection and are collectively
+referred to as effector cells.</p><p num="0007">The time course of an immune response is subdivided into the cognitive or
+recognition phase, during which specific lymphocytes recognize the foreign
+antigen; the activation phase, during which specific lymphocytes respond to the
+foreign antigen; and the effector phase, during which antigen-activated
+lymphocytes mediate the processes required to eliminate the antigen.
+Lymphocytes are immune cells that are specialized in mediating and directing
+specific immune responses. T cells and B cells become morphologically
+distinguishable only after they have been stimulated by an antigen.</p><p num="0008">The immune system has evolved so that it is able to recognize surface
+features of macromolecules that are not normal constituents of the host. As noted
+above, a foreign molecule which is recognized by the immune system (i.e., bound
+by antibodies), regardless of whether it can itself elicit a response is called an
+"antigen", and the portion of the antigen to which an antibody binds is called the
+"antigenic determinant", or "epitope". Some antigens, e.g., tumor-associated
+antigens such as ovarian cancer or breast cancer antigens, have multiple antibody
+binding sites. These antigens are termed "multi-epitopic" antigens. When the
+antigen is a polypeptide, it is customary to classify epitopes as being linear (i.e.,
+composed of a contiguous sequence of amino acids repeated along the polypeptide
+chain) or nonlinear (i.e., composed of amino acids brought into proximity as a
+result of the folding of the polypeptide chain). Nonlinear epitopes are also called
+"conformational" because they arise through the folding of the polypeptide chain
+into a particular conformation, i.e., a distinctive 3-D shape. Because of the highly
+specific nature of the antibody-antigen bond, a primary means of distinguishing
+between antigens, or between different epitopes on the same antigen, is by
+antibody binding properties.</p><p num="0009">To cope with the immense variety of epitopes encountered, the immune
+system of a mammalian individual contains an extremely large repertoire of 
+lymphocytes, approximately 2 x 10<sup>12</sup>. Each lymphocyte clone of the repertoire
+contains surface receptors specific for one epitope. It is estimated that the
+mammalian immune system can distinguish at least 10<sup>8</sup> distinct antigenic
+determinants. Even a single antigenic determinant will, in general, activate many
+clones, each of which produces an antigen-binding site with its own characteristic
+affinity for the determinant. Antigens that stimulate the production of hundreds
+of species of antibodies, each made by a different B cell clone, are said to produce a
+polyclonal response. When only a few clones respond, the response is said to be
+oligoclonal; when the total response is made by a single B or T cell clone, the
+response is said to be monoclonal. The response to most antigens are polyclonal.</p><p num="0010">An initial or primary immune response to a foreign antigen enhances the
+ability of the immune system to respond again to that antigen. This feature of
+specific immunity is called immunologic memory, or a secondary immune
+response. Secondary immune responses are often more effective than primary
+responses.</p><p num="0011">The conventional definition of an antigen is a substance that can elicit in a
+vertebrate host the formation of a specific antibody or the generation of a specific
+population of lymphocytes reactive with the substance. As frequently occurs in
+science, however, it is now known that this definition, although accurate, is not
+complete. For example, it is now known that some disease conditions suppress or
+inactivate the host immune response. Under these conditions, a tumor antigen
+does not elicit an antibody or generate specific lymphocytes. Thus, not all antigens
+are capable of eliciting a human immune response.</p><p num="0012">The failure in the definition centers on a two-part aspect of the immune
+response: the first step in the immune response is the <u style="single">recognition</u> of the presence
+of a foreign entity; the second step is a complex array or cascade of reactions, i.e.,
+the <u style="single">response</u>. In the tumor antigen example given above, the immune system can
+recognize the presence of a foreign antigen, but it cannot respond. In another
+example, a failure in the immune system's ability to distinguish between self and
+non-self appears to be at the origin of many autoimmune diseases. Again, this is a 
+failure in recognition, not response.</p><p num="0013">As used herein, therefore, if an antigen can be recognized by the immune
+system, it is said to be antigenic. If the immune system can also mount an active
+response against the antigen, it is said to be immunogenic. Antigens which are
+immunogenic are usually macromolecules (such as proteins, nucleic acids,
+carbohydrates and lipids) of at least 5000 Daltons molecular weight. Smaller
+nonimmunogenic molecules, e.g., haptens and small antigenic molecules, can
+stimulate an immune response if associated with a carrier molecule of sufficient
+size.</p><p num="0014">Antibodies, the effectors of humoral immunity, are secreted by plasma cells,
+and are among the most abundant components of the blood. Plasma cells are
+mature end stage cells that appear to have a relatively short life span. They are
+produced when an antigen enters the human immune system and, in a complex
+series of cell interactions, activates B lymphocytes. B lymphocytes then proliferate
+and differentiate to form plasma cells. Each B lymphocyte is programmed by its
+DNA to make an antibody molecule of a single specificity. B lymphocytes make
+two special forms of this molecule, one that remains anchored to the outer surface
+of the cell membrane as a membrane receptor, typically for binding antigen to the
+B cell, and one that is secreted.</p><p num="0015">Antibodies, also known as immunoglobulins, are proteins. They have two
+principal functions. The first is to recognize (bind) foreign antigens. The second is
+to mobilize other elements of the immune system to destroy the foreign entity.</p><p num="0016">The antigen recognition structures of an antibody are variable domains, and
+are responsible for antigen binding. The immune system mobilization structures,
+the second function of the antibody, are constant domains; these regions are
+charged with the various effector functions: stimulation of B cells to undergo
+proliferation and differentiation, activation of the complement cell lysis system,
+opsonization, attraction of macrophages to ingest the invader, etc. Antibodies of
+different isotypes have different constant domains and therefore have different
+effector functions. The best studied isotypes are IgG and IgM. </p><p num="0017">The antibody itself is an oligomeric molecule, classified, according to its
+structure, into a class (e.g., IgG) and subclass (e.g., IgG1). IgG molecules are the
+most important component of the humoral immune response and are composed of
+two heavy (long) and two light (short) chains, joined by disulfide bonds into a "Y"
+configuration. The molecule has two variable regions (at the arms of the "Y").
+
+The regions are so named because antibodies of a particular subclass, produced by a
+particular individual in response to different antigens, will differ in the variable
+region but not in the constant regions. The variable regions themselves are
+composed of both a relatively invariant framework, and of hypervariable loops,
+which confer on the antibody its specificity for a particular epitope. An antibody
+binds to an epitope of an antigen as a result of molecular complementarity. The
+portions of the antibody which participate directly in the interaction is called
+"antigen binding site", or "paratope". The antigens bound by a particular antibody
+are called its "cognate antigens".</p><p num="0018">An antibody of one animal will be seen as a foreign antigen by the immune
+system of another animal, and will therefore elicit an immune response. Some of
+the resulting antibodies will be specific for the unique epitopes (idiotype) of the
+variable region of the immunizing antibody, and are therefore termed anti-idiotypic
+antibodies. These often have immunological characteristics similar to
+those of an antigen cognate to the immunizing antibody. Anti-isotypic antibodies,
+on the other hand, bind epitopes in the constant region of the immunizing
+antigen.</p><p num="0019">As noted above, the cells that regulate cell-mediated immunity are a class of
+lymphocytes called T lymphocytes. They arise ultimately from the same stem cell
+as B lymphocytes, however, they follow a very different pathway of development
+in which the thymus plays an important role. T lymphocytes also express antigen
+specific surface receptors although the way in which they recognize antigens is
+rather different than for B cells. T cells exist in 2 functional categories: those with
+a specific effector function (cytotoxic T lymphocytes or "CTL") and those with
+regulatory function. Regulatory T cells are required for the development of plasma 
+cells from B cells. T helper cells (TH) produce an antigen specific up-regulation of
+the immune response. Immune responses can also undergo active antigen specific
+down regulation. A large body of evidence from studies with animals and tissue
+culture describes the presence of a suppressor T cell population (TS) that provides
+this inhibitory regulation.</p><p num="0020">The lymphocytes in an individual specifically respond to foreign antigens
+but are usually unresponsive to the potentially antigenic substances native to that
+individual. Immunologic unresponsiveness is referred to as tolerance. Self-tolerance
+is acquired at an early developmental stage when potentially self-recognizing
+lymphocytes come into contact with self-antigens and are prevented
+from developing to a stage at which they would be able to respond positively to
+self antigens.</p><p num="0021">The immune system has two cytokine-mediated regulatory pathways that
+determine whether the response to antigenic challenge will be principally a cellular
+response (TH1 pathway) or principally a humoral response (TH2 pathway). The
+cellular pathway is characterized by the T helper cell production of interleukin-2
+(IL-2) or interferon-γ. This pathway mediates the delayed type hypersensitivity
+(DTH) response, the generation of cytotoxic T cells, and macrophage activation.
+The TH2 response promotes the production by T cells of a variety of cytokines,
+such as interleukin-4 (IL-4) and interleukin-10 (IL-10). This response is identified
+by the production of specific antibodies in high titre.</p><p num="0022">The tendency for either the cell-mediated or humoral immune response to
+predominate is believed to be a consequence of cross-regulation. Thus TH1 cells
+would inhibit the elicitation of TH2 responses, e.g., by secretion of interferon-γ.
+Conversely, TH2-cells could inhibit the generation of TH1-responses by producing
+cytokines such as IL-4 and IL-10.</p><p num="0023">TH2 responses might actually exacerbate the development of certain
+diseases. It is well known in the art that injections of small amounts of
+immunizing antigens will preferentially elicit delayed-type hypersensitivity
+responses, indicative of cell-mediated immunity, whereas vaccination with larger 
+amounts of antigen will result in a more pronounce humoral immune response as
+reflected by high antibody titer. However, it is difficult to avoid a high IgG
+response, and achieve a high and prolonged cellular response, by this method, and
+depending on the antigen, small doses may be insufficient to elicit a sufficiently
+strong CMI response to be useful.</p><p num="0024">Normally, an immune response progresses toward effector mechanisms
+characteristic of both B and T-lymphocytes. However, in the course of most
+immune responses, either B or T lymphocytes assume a dominant role, with less
+substantial participation of the respective other type of lymphocyte. Immune
+responses whose effector mechanisms are mediated preponderantly through B-cells
+and antibodies are humoral immune responses. Those responses wherein T-cells
+mediate the more important effector functions are cell-mediated or cellular
+immune responses.</p><p num="0025">As noted above, the cells that regulate humoral immunity are a class of
+lymphocytes called B-cells. Each done of B-lymphocytes expresses membrane
+immunoglobulins (membrane Ig's, surface-bound antibody molecules) that
+function as antigen receptors having one unique epitope for one B-lymphocyte
+done. These membrane Ig molecules are the sole source of B-cell specificity.
+Antigens that contain an epitope complementary to the membrane Ig will bind to
+the antigen receptor. Such antigens are also referred to as cognate antigens of the
+antibody. Binding to the antigen receptor (membrane Ig) will result in
+differentiation and clonal proliferation of the B-lymphocyte. Some of its progeny
+will differentiate into mature plasma cells which are specialized in the synthesis of
+antibodies corresponding in epitope specificity to the membrane Ig by which the B-lymphocyte
+had initially bound the antigen.</p><p num="0026">The binding of an antigen to an antibody is reversible. It is mediated by the
+sum of many relatively weak non-covalent forces, including hydrophobic and
+hydrogen bonds, van der Waals forces, and ionic interactions. These weak forces
+are effective only when the antigen molecule is close enough to allow some of its
+atoms to fit into complementary recesses on the surface of the antibody. The 
+complementary regions of a four-chain antibody unit are its two identical antigen-binding
+sites; the corresponding region on the antigen is an antigenic determinant.
+Many antigenic macromolecules have many different antigenic determinants.</p><p num="0027">For many years, live, attenuated vaccines have been used to induce
+immunity against viral infections such as influenza and polio. These preparations
+contain live virions which cause mild, subclinical infections of the vaccinated
+individuals. In the course of such infections, viral vectors will enter certain host
+cells and code for the synthesis of virus-specific proteins. These endogenously
+produced antigenic proteins are processed into smaller peptides and presented in
+the context of MHC Class I and II antigens, thereby recruiting TH1 cells and
+eliciting cell-medicated immune responses.</p><p num="0028">Tumor cells express certain cell surface antigens ("tumor-associated
+antigens"). Tumor-associated antigens are antigens that are present in the serum
+and tissues of cancer patients. Many such antigens are also expressed in embryonic
+tissues, and, at low levels, in the tissue and serum of healthy individuals. Many of
+the tissue-associated antigens are glycoproteins, glycolipids, or
+mucopolysaccharides. Most tumor antigens are produced by differentiated cells.
+They are produced in much larger quantities by tumor cells than by differentiated
+normal cells. The human immune system recognizes the tumor antigens as native
+antigens and does not respond ("self-tolerance"). The mechanisms leading to self-tolerance
+are only partly understood, but it is now dear that it is largely
+established during development of the immune system. If immature B cells or T
+cells are stimulated through their antigen specific receptors at a critical stage (e.g.,
+just after expressing their receptors on the cell surface but before becoming
+mature), they are induced to die rather than to become activated. This stage occurs
+in the bone marrow for B cells and in the thymus for T cells. Tolerance thus will
+be induced to self-antigens expressed in these environments, but not to those that
+are not expressed. It has been shown that normal individuals have mature B cells
+capable of recognizing some self-antigens but that these B cells are not activated.
+The appropriate T helper cells (TH) appear to be missing. </p><p num="0029">For tumors that have antigens, there are at least four theories why the
+immune response may fail to destroy a tumor: 1) there are no B cells or cytotoxic
+T lymphocytes (CTL) capable of recognizing the tumor; 2) there are no TH cells
+capable of recognizing the tumor; 3) TS cells become activated before TH cells,
+thus preventing B-cell and CTL activation; and 4) the genes regulating tumor
+proliferation may be present from birth, so the host does not treat the gene
+products as "foreign."</p><heading><u style="single">EXISTING SOLUTIONS</u></heading><p num="0030">Where tumor antigens appear with sufficient selectivity on a tumor (i.e., the
+tumor antigens are absent from or present only in small amounts on their normal
+cellular counterparts), the tumor antigen may serve as a possible target for an
+immunotherapeutic agent.</p><p num="0031">Many of these selective tumor antigens are carbohydrate or glycoprotein
+(mucin) in nature. For example, most adenocarcinoma cells abundantly express and
+secrete mucins. This is due in part to defects in glycosylation in cancer cells.
+Carcinoma cell surface mucins can physically block immune effector mechanisms
+from reaching the tumor cell surface and, therefore, the tumor antigen. That is,
+the host fails to recognize the tumor antigen.</p><p num="0032">In many diseases, the causative pathogens or toxins (e.g., influenza, polio,
+and rabies viruses; pneumococcus bacteria; diphtheria and tetanus toxins) can be
+effectively targeted and neutralized in the extracellular fluid by the mechanisms of
+humoral immunity through antibodies that bind to the pathogens or toxins and
+thereby lead to their inactivation of destruction. In these cases, vaccination with
+preparations that elicit a humoral immune response, presumably mediated by TH2
+cells, is generally sufficient for protection. On the other hand, for many
+intracellular infections, for recovery from viral infections, and for targeted killing
+of cancer cells, it is cell-mediated immunity that protects the organism against the
+invaders.</p><p num="0033">Three classes of immunotherapy are currently under investigation: 1) 
+passive immunotherapy; 2) active immunotherapy with antigens; and 3) active
+immunotherapy with antibodies. Unfortunately, each has met with limited
+success. Immunotherapy, however, is preferred over antiproliferative
+chemotherapeutic agents, such as pyrimidine or purine analogs, in certain stages of
+cancer. The analogs compete with pyrimidine and purine as building blocks used
+during a cell's growth cycle. The analogs are ineffective where growth is non-cycling
+or dormant. The majority of micrometastatic cells appear to be non-cycling
+or dormant. The cytotoxic effect of immunotherapy operates independently of cell
+cycle.</p><p num="0034">"Passive immunotherapy" involves the administration of antibodies to a
+patient. Antibody therapy is conventionally characterized as passive since the
+patient is not the source of the antibodies. However, the term passive is
+misleading because the patient can produce anti-idiotypic secondary antibodies
+which in turn can provoke an immune response which is cross-reactive with the
+original antigen. "Active immunotherapy" is the administration of an antigen, in
+the form of a vaccine, to a patient, so as to elicit a protective immune response.
+Genetically modified tumor cell vaccines transfected with genes expressing
+cytokines and co-stimulatory molecules have also been used to alleviate the
+inadequacy of the tumor specific immune response.</p><heading>I. <u style="single">Passive Immunotherapy (with Antibodies)</u></heading><p num="0035">A tumor antigen can serve as a reactive site to which antibodies can become
+bound. Numerous antibodies have been raised against tumor antigens.</p><p num="0036">Conventional effector methods include complement dependent cytolysis
+("CDC"), antibody dependent cellular cytotoxicity ("ADCC") and phagocytosis
+(clearance by reticuloendothelial system after the target cell is coated with
+immunoglobulin).</p><p num="0037">A relatively large quantity of antibody is required to initiate CDC, ADCC
+and opsonization. Furthermore, sources of human antibodies are limited to people
+already suffering from the tumor of interest; it is unethical to introduce a disease 
+into a person merely to initiate production of antibodies which may be harvested.
+As a result of these difficulties, antibodies of non-human origin, such as mouse
+antibodies, have been used.</p><p num="0038">The administration to humans of mouse antibodies, because they are
+recognized as "foreign," can provoke a human anti-mouse antibody response
+("HAMA") directed against mouse-specific and mouse isotype-specific portions of
+the primary antibody molecule. This immune reaction occurs because of
+differences in the primary amino add sequences in the constant regions of the
+immunoglobulins of mice and humans. Both IgG and IgM subclasses of HAMA
+have been detected. The IgG response appears later, is longer-lived than the typical
+IgM response, and is more resistant to removal by plasmapheresis.</p><p num="0039">Clinically, however, HAMA: 1) increases the risk of anaphylactic or serum
+sickness-like reactions to subsequent administration of mouse antibodies; 2) can
+interfere with the immunotherapeutic effect of subsequently injected mouse
+antibodies by complexing with those antibodies, increasing clearance from the
+body, reducing tumor localization, enhancing uptake into the liver and spleen,
+and/or hiding the tumor from therapeutic agents; and 3) can interfere with
+immunodiagnostic agents and thereby hinder monitoring of the progress of the
+disease and course of treatment.</p><p num="0040">Various clinical trials have used antibodies as therapeutic agents against
+solid tumors. No consistent pattern of response or improved survival has yet
+emerged. By contrast, antibody therapy has more often induced complete and long-lasting
+remissions in B-cell or T-cell lymphomas or leukemias. Explanations for
+solid tumor failures include antigenic heterogeneity and insufficient accessibility of
+epithelial cells to the injected antibodies as well as to secondary effector molecules
+like complement or effector cells.</p><p num="0041">As an example of passive immunity, mouse monoclonal antibody 17-1A
+(isotype IgG2a) was used to target minimal residual disease in patients with Duke's
+stage C colorectal cancer who had undergone curative surgery and were free of
+manifest residual tumor. Although the treatment improved survival and led to 
+reduced recurrence rates, the results were less favorable than treatment with
+chemotherapy alone, or in combination with radiation.</p><p num="0042">It is important to note that the target antigen for 17-1A is not shed from
+the membrane and is not detectable in serum. See Riethmüller, et al.,
+"Randomized trial of monoclonal antibody for adjuvant therapy of resected Dukes'
+C colorectal carcinoma", <i>Lancet,</i> 343:1177-83 (1994).</p><heading><u style="single">II.</u><u style="single">Active Specific Immunotherapy ("ASI") with Tumor Antigens</u></heading><p num="0043">ASI is defined as immunization with a defined antigen, presented in an
+appropriate manner, to actively induce an immune response specifically to that
+antigen. In the context of cancer, ASI attempts to stimulate a human immune
+response, both humoral and cell-mediated, to attack the tumor antigen.</p><p num="0044">The humoral response and the conventional effector methods of CDC,
+ADCC and phagocytosis (clearance by reticuloendothclial system after the target
+cell is coated with immunoglobulin) were discussed above.</p><p num="0045">Over the past 5 years, considerable progress has been made in the
+characterization of the molecular complex recognized by the specific antigen
+receptor of T lymphocytes. Crystal structures of class I major histocompatibility
+complex ("MHC") molecules revealed not only a putative peptide binding groove
+but also the actual presence in this groove of a peptide. After phagocytosis,
+proteins synthesized within the cells apparently are degraded into peptides by
+cellular enzymes, transported into the endoplasmic reticulum, and there, combine
+with the heavy chain of a class I MHC molecule. Such peptide-MHC complexes
+are stabilized by the addition of β2-microglobulin and transported to the cell
+surface where they can be recognized by the receptor of CTL. In theory, an
+antigenic peptide can be derived from any intracellular protein specifically
+expressed by tumor cells. See, for example, Van Der Bruggen, Pierre, "The LongStanding
+Quest for Tumor Rejection Antigens," <i>Clinical Immunology and
+Immunopathology</i>, 71; 3:248-252 (1994). </p><heading><u style="single">III.</u><u style="single">Active Specific Immunotherapy with Antibodies</u></heading><p num="0046">If a specific antibody from one animal is injected as an immunogen into a
+suitable second animal, the injected antibody will elicit an immune response (e.g.,
+produced antibodies against the injected antibodies - "anti-antibodies"). Some of
+these anti-antibodies will be specific for the unique epitopes (idiotopes) of the
+variable domain of the injected antibodies. These epitopes are known collectively as
+the idiotype of the primary antibody; the secondary (anti-) antibodies which bind
+to these epitopes are known as anti-idiotypic antibodies. The sum of all idiotopes
+present on the variable portion of an antibody is referred to as its idiotype.
+Idiotypes are serologically defined, since injection of a primary antibody that binds
+an epitope of the antigen may induce the production of anti-idiotypic antibodies.
+When binding between the primary antibody and an anti-idiotypic antibody is
+inhibited by the antigen to which the primary antibody is directed, the idiotype is
+binding site or epitope related. Other secondary antibodies will be specific for the
+epitopes of the constant domains of the injected antibodies and hence are known as
+anti-isotypic antibodies. As used herein, anti-idiotype, anti-idiotypic antibody,
+epitope, or epitopic are used in their art-recognized sense.</p><p num="0047">The "network" theory states that antibodies produced initially during an
+immune response will carry unique new epitopes to which the organism is not
+tolerant, and therefore will elicit production of secondary antibodies (Ab2) directed
+against the idiotypes of the primary antibodies (Ab1). These secondary antibodies
+likewise will have an idiotype which will induce production of tertiary antibodies
+(Ab3) and so forth.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">Ab<st32:sub pos="post">1</st32:sub> - Ab<st32:sub pos="post">2</st32:sub> - Ab<st32:sub pos="post">3</st32:sub></st32:df></p><p num="0048">The network theory also suggests that some of these secondary antibodies
+(Ab2) will have a binding site that is the complement of the complement of the
+original antigen and thus will reproduce the "internal image" of the original
+antigen. In other words, an anti-idiotypic antibody may be a surrogate antigen. </p><p num="0049">A traditional approach to cancer immunotherapy has been to administer
+anti-tumor antibodies, i.e., antibodies which recognize an epitope on a tumor cell,
+to patients. However, the development of the "network" theory led investigators
+to suggest the direct administration of exogenously produced anti-idiotype
+antibodies, that is, antibodies raised against the idiotype of an anti-tumor
+antibody. Such an approach is disclosed in U.S. Patent 5,053,224 (Koprowski, et
+al.) Koprowski assumes that the patient's body will produce anti-antibodies that
+will not only recognize these anti-idiotype antibodies, but also the original tumor
+epitope.</p><p num="0050">There are four major types of anti-idiotypic antibodies. The alpha-type binds
+an epitope remote from the paratope of the primary antibody. The beta-type is
+one whose paratope always mimics the epitope of the original antigen. The
+gamma-type binds near enough to the paratope of the primary antibody to
+interfere with antigen binding. The epsilon-type recognizes an idiotypic
+determinant that mimics a constant domain antigenic structure. Moreover, anti-isotypic
+antibodies may be heavy chain-specific or light chain-specific.</p><p num="0051">Two therapeutic applications arose from the network theory: 1) administer
+Ab1 which acts as an antigen inducing Ab2 production by the host; and 2)
+administer Ab2 which functionally imitates the tumor antigen.</p><p num="0052">Active immunization of ovarian cancer patients with repeated intravenous
+applications of the F(Ab')<sub>2</sub> fragments of the monoclonal antibody OC125 was
+reported to induce remarkable anti-idiotypic antibody (Ab2) responses in some of
+the patients. Preliminary results suggested that patients with high Ab2 serum
+concentrations had better survival rates compared to those where low or no Ab2
+serum levels were detected. See Wagner, U. et al., "Clinical Course of Patients
+with Ovarian Carcinomas After Induction of Anti-idiotypic Antibodies Against a
+Tumor-Associated Antigen," <i>Tumor Diagnostic &amp; Therapie</i>, 11:1-4, (1990).</p><p num="0053">A human anti-idiotypic monoclonal antibody (Ab2) has been shown to
+induce anti-tumor cellular responses in animals and appears to prolong survival in
+patients with metastatic colorectal cancer. See Durrant, L.G. et al., "Enhanced 
+Cell-Mediated Tumor Killing in Patients Immunized with Human Monoclonal
+Anti-Idiotypic Antibody 105AD7," <i>Cancer Research,</i> 54:4837-4840 (1994). The use
+of anti-idiotypic antibodies (Ab2) for immunotherapy of cancer is also reviewed by
+Bhattacharya-Chatterje, et al; <i>Cancer Immunol. Immunother.</i> 38:75-82 (1994).</p><heading><u style="single">Disclosure of the Invention</u></heading><p num="0054">Vaccines are preparations administered to animals or humans to effect the
+prophylaxis, cure or alleviation of disease states through induction of specific
+immunity. Prophylactic vaccines are given to healthy individuals with the
+intention of preparing or priming the immune system for more effective defense
+against infections in the future. In the event of an infection or infestation, the
+immune system of vaccinated individual can mount a secondary immune response
+and can more rapidly recognize and eliminate the respective pathogens.
+Therapeutic vaccines are given to diseased individuals with the intent of
+stimulating or modulating the immune system which of itself has either mounted
+an insufficiently effective immune response or has altogether failed to respond. In
+the design of prophylactic or therapeutic vaccines, it is important to choose
+preparations that will elicit the type of immune response most capable of either
+providing first-line protection, or effecting speedy recovery.</p><p num="0055">The first step in initiating an immune response is generating host
+recognition of the tumor antigen as a foreign antigen. For example, although
+CA125 expression is associated with ovarian cancer, the patient's immune system
+fails to recognize it as foreign. The present invention involves contacting a
+soluble antigen with a composition of the invention, and reacting a binding agent
+in the composition with the soluble antigen. In accordance with the invention,
+binding the antigen with the binding agent generates host recognition of the
+antigen. In turn, generating host recognition leads to initiating an immune
+response against the antigen.</p><p num="0056">The present invention involves the discovery that binding a binding agent
+to a pre-determined epitope of a multi-epitopic tumor-associated antigen alters the 
+antigen in a manner so that the host immune system can recognize and initiate an
+immune response to the previously unrecognized antigen. In one embodiment of
+the invention, a binding agent binds to a soluble tumor associated antigen,
+allowing the host immune system to generate a response against the antigen. For
+example, illustrative of the present invention is B43.13, an antibody binding agent
+that binds specifically to ovarian cancer antigen CA 125 at the 43.13 epitope. Once
+B43.13 binds to the CA 125 antigen, either the conformation of the antigen is
+altered or the antigen is processed and/or delivered differently to that it is
+recognized by the host's immune system. Other examples include, but are not
+limited to a binding agent that binds specifically to CA19.9, a gastrointestinal
+antigen associated with gastrointestinal cancer; and to a binding agent that binds
+specifically to CA15.3, an antigen associated with breast cancer.</p><p num="0057">In accordance with the present invention, a binding agent(s) and
+compositions comprising such binding agents are provided, wherein the binding
+agent binds selectively to a pre-determined soluble antigen, and wherein such
+binding event results in the presentation of a different epitope on the antigen, said
+different epitope resulting in an immune response that inhibits or kills the cells
+that produced the antigen.</p><p num="0058">In a preferred embodiment of the invention, a composition comprising a
+pre-determined antibody that specifically binds to a pre-determined tumor
+associated antigen is used to bind a soluble antigen produced by the tumor. Once
+the soluble antigen is bound, the immune system recognizes the antigen as
+"foreign," and mounts an immune response against the antigen or against the
+binding agent bound to the antigen. Antigens that can be made immunogenic are
+potentially useful to induce or activate an immune response, leading to therapeutic
+and possibly prophylactic benefits.</p><p num="0059">For diseases that can be characterized in part by having a tumor-associated
+antigen that is multi-epitopic, the present invention involves contacting a soluble
+antigen with a binding reagent that specifically binds to a single epitope on the
+multi-epitopic tumor-associated antigen. </p><p num="0060">The binding agent may be directed against any antigen of clinical
+significance, but preferably is directed against a tumor-associated antigen (TAA).
+In the case of TAA, the cancer may include, but is not limited to lung, colon,
+rectum, breast, ovary, prostate gland, head, neck, bone, immune system, or any
+other anatomical location. The subject may be a human or animal subject.
+Illustrative tumors and tumor markers are listed in U.S. Patent 5,075,218.</p><p num="0061">The methods of the present invention involve any cancer that produces a
+soluble multi-epitopic TAA. As used herein soluble is used to describe any antigen
+that is detectable in a body fluid, i.e., blood, serum, ascites, saliva, or the like. In
+accordance with the present invention, the preferred tumors are those that: shed
+soluble tumor antigens, e.g., tumor antigens shed into the bloodstream, as opposed
+to a surface antigen or an intracellular antigen; exhibit a multi-epitopic tumor
+associated antigen, preferably of carbohydrate or glycoprotein (e.g., mucin) nature;
+and can be found at a concentration in the patient's body fluid more than is
+normally present in healthy controls and such a high level signifies a poor
+prognosis for the patient, yet has not initiated an immune response. As is wdl
+known by one skilled in the art, one method of determining whether the
+concentration of the TAA is greater than is predictive of recurrence of the disease
+is by comparing the patient's concentration to that of a healthy control. If the
+concentration of the TAA is higher than the healthy control, then the patient's
+concentration is predictive of poor prognosis of the disease.</p><p num="0062">A binding agent (BA), as used herein, refers to one member of an
+immunologic pair, e.g., a binding moiety that is capable of binding to a single
+epitope expressed on the tumor antigen. Exemplary binding agents include, but
+are not limited to: monoclonal antibodies ("MAb"); chimeric monoclonal
+antibodies ("C-MAb"); genetically engineered monoclonal antibodies ("G-MAb");
+fragments of monoclonal antibodies (including but not limited to "F(Ab)<sub>2</sub>",
+"F(Ab)" and "Dab"); single chains representing the reactive portion of monoclonal
+antibodies ("SC-MAb"); tumor-binding peptides; any of the above joined to a
+molecule that mediates an effector function; and mimics of any of the above. The 
+antibody may be a polyclonal antibody or a monoclonal antibody. When the
+subject is a human subject, the antibody may be obtained by immunizing any
+animal capable of mounting a usable immune response to the antigen, such as a
+mouse, rat, goat sheep, rabbit or other suitable experimental animal. In the case of
+a monoclonal antibody, antibody producing cells of the immunized animal may be
+fused with "immortal" or "immortalized" human or animal cells to obtain a
+hybridoma which produces the antibody. If desired, the genes encoding one or
+more of the immunoglobulin chains may be cloned so that the antibody may be
+produced in different host cells, and if desired, the genes may be mutated so as to
+alter the sequence and hence the immunological characteristics of the antibody
+produced. Fragments, or fragments of binding agents, may be obtained by
+conventional techniques, such as by proteolytic digestion of the binding agent
+using pepsin, papain, or the like; or by recombinant DNA techniques in which
+DNA encoding the desired fragment is cloned and expressed in a variety of hosts.
+Irradiating any of the foregoing entities, e.g., by ultraviolet light will enhance the
+immune response to a multi-epitopic antigen under similar conditions. In a
+preferred embodiment of the invention, effector functions that mediate CDC or
+ADCC are not required.</p><p num="0063">In an embodiment of the invention, a suitable composition for an ovarian
+tumor associated antigen contains a binding agent that binds the CA 125 antigen.
+In another embodiment of the invention, a suitable composition for
+gastrointestinal cancer contains a binding agent that binds the CA 19.9 antigen.
+In yet another embodiment of the invention, a suitable composition for breast
+cancer contains a binding agent that binds the CA 15.3 antigen. Various binding
+agents, antibodies, antigens, and methods for preparing, isolating, and using the
+antibodies are described in U.S. Patent 4,471,057 (Koprowski) and U.S. Patent
+5,075,218 (Jette, et al.), both incorporated herein by reference. Furtehrmore, many
+of these antibodies are commercially available from Centocor, Abbott Laboratories,
+Commissariat a L'Energie Atomique, Hoffman-LaRoche, Inc., Sorin Biomedica,
+and FujiRebio. </p><p num="0064">Any composition that includes a binding agent according to the invention
+may be used to initiate an <i>in vivo</i> immune response. The composition may include
+one or more adjuvants, one or more carriers, one or more excipients, one or more
+stabilizers, one or more imaging reagents, and/or physiologically acceptable saline.
+Generally, adjuvants are substances mixed with an immunogen in order to clicit a
+more marked immune response. Control vaccinations without the adjuvant
+resulted in humoral immune responses. The composition may also include
+pharmaceutically acceptable carriers. Pharmaceutically accepted carriers include
+but are not limited to saline, sterile water, phosphate buffered saline, and the like.
+Other buffering agents, dispersing agents, and inert non-toxic substances suitable
+for delivery to a patient may be included in the compositions of the present
+invention. The compositions may be solutions suitable for administration, and are
+typically sterile and free of undesirable particulate matter. The compositions may
+be sterilized by conventional sterilization techniques.</p><p num="0065">In accordance with a method of the invention, the binding agent must
+contact and bind the tumor associated antigen, may be administered to the patient
+by any immunologically suitable route. For example, the binding agent may be
+introduced into the patient by an intravenous, subcutaneous, intraperitoneal,
+intradermal, intramuscular, or intralymphatic routes, in solution, tablet, or aerosol
+form. Liposomes, biodegradable microspheres, micelles, or the like may also be
+used as a carrier, vehicle, or delivery system. Furthermore, using <i>ex vivo</i>
+procedures well known in the art, blood or serum from the patient may be
+removed from the patient; optionally, it may be desirable to purify the antigen in
+the patient's blood; the blood or serum may then be mixed with a composition that
+includes a binding agent according to the invention; and the treated blood or
+serum is returned to the patient. The clinician may compare the anti-idiotypic and
+anti-isotypic responses associated with these different routes in determining the
+most effective route of administration. The invention should not be limited to any
+particular method of introducing the binding agent into the patient.</p><p num="0066">In accordance with the present invention, the BA-antigen interaction 
+effectively presents the remaining epitopes to the patient's immune system to
+generate: 1) a humoral response resulting in human anti-tumor antibodies that
+may or may not be inhibitable by the injected antibody but are definitely
+inhibitable by an antibody which binds to an epitope different from the epitope
+reactive with the injected BA; and 2) a cell-mediated response resulting in the
+production of antigen-specific cytotoxic T-cells.</p><p num="0067">The binding agents of the present invention bind the multi-epitopic tumor
+antigen of interest, and the resulting immunogenic pair may be used to prime or
+initiate an immune response to another epitope on the antigen. As noted in more
+detail elsewhere in this disclosure, it is believed that the binding event between the
+binding agent and the multi-epitopic antigen changes the conformation of the
+antigen sufficiently to provide access to another previously unrecognizable epitope
+on the antigen. The previously unrecognizable epitope, once recognized by agents
+of the immune system, initiates the immune system cascade that results in an
+immune response to the whole antigen.</p><p num="0068">In accordance with an embodiment of the invention, a cancer patient with
+body fluid having endogenous, soluble multi-epitopic antigen is treated by
+injecting an exogenous binding agent directed to a single epitope of the
+endogenous soluble antigen. After binding, the antigen reconforms or is processed
+and/or delivered differently allowing a different epitope on the antigen to be
+presented to the patient's immune system. Upon presentation, the patient's
+immune system initiates and develops a humoral, cellular, or combined
+humoral/cellular response, leading to tumor killing and/or stasis. Evidence of the
+success of the present invention is shown in the Examples as improved survival
+times.</p><p num="0069">Without intending to be bound thereby, it is believed that a mechanism of
+action for the methods of the present invention involve a conformational
+alteration on the part of the soluble antigen bound by a binding agent according to
+the present invention. It is further believed that binding the antigen with a
+binding agent directed to a first epitope on the antigen changes the conformation 
+of the antigen sufficiently to present or activate a second epitope. It is against this
+second epitope that the patient's immune system can respond. Alternatively, the
+binding agent - antigen interaction may lead to differential metabolic processing or
+delivery to the immune system in such a way to activate a second epitope.</p><heading>DOSAGE</heading><p num="0070">In accordance with the methods of the present invention, a composition
+comprising a binding agent may be administered in an amount sufficient to
+recognize and bind the pre-determined tumor associated antigen. In a preferred
+embodiment of the invention, the dosage is sufficient to generate or elicit an
+immune response against the TAA. An immunologically or therapeutically
+effective or acceptable amount of binding agent is an amount sufficient to bind a
+pre-determined antigen <i>in vivo or ex vivo</i>, and is capable of eliciting an immune
+response to the antigen. The response inhibits or kills tumor cells that carry and
+present a newly accessible epitope, thereby ameliorating or eliminating the disease
+or condition that produces the antigen. The immune response may take the form
+of a humoral response, a cell-mediated response, or both. In a preferred
+embodiment of the invention, the dosage of the monoclonal antibody is less than
+the dosage required to elicit ADCC or CDC.</p><p num="0071">The concentration or dosage of the binding agent or active agent in the
+composition can vary widely, e.g., from less than about .01% to about 15 to 20% by
+weight. As noted above, the composition is administered in an amount sufficient
+to stimulate an immune response against the antigen. Amounts effective for this
+use will depend in part on the severity of the disease and the status of the patient's
+immune system. Generally, the composition will include about 0.1 µg to about 2
+mg or more of binding agent per kilogram of body weight, more commonly
+dosages of about 1 µg to about 200 µg per kilogram of body weight. The
+concentration will usually be at least 0.5%; any amount may be selected primarily
+based on fluid volume, viscosity, antigenicity, etc., in accordance with the
+particular mode of administration. </p><p num="0072">Administration may be more than once, preferably three times over a
+prolonged period. As the compositions of this invention may be used for patient's
+in a serious disease state, i.e., life-threatening or potentially life-threatening,
+excesses of the binding agent may be administered if desirable. Actual methods
+and protocols for administering pharmaceutical compositions, including dilution
+techniques for injections of the present compositions, are well known or will be
+apparent to one skilled in the art. Some of these methods and protocols are
+described in <i>Remington's Pharmaceutical Science,</i> Mack Publishing Co. (1982).</p><p num="0073">A binding agent may be administered in combination with other binding
+agents, or may be administered in combination with other treatment protocols or
+agents, e.g., chemotherapeutic agents.</p><p num="0074">The effectiveness of the binding agents of the present invention may be
+monitored <i>in vitro</i> or <i>in vivo.</i> Humoral responses may be monitored in vitro by
+conventional immunoassays, where the anti-tumor activity of the response may be
+determined by complement-mediated cellular cytotoxicity and/or antibody-dependent
+cellular cytotoxicity (ADCC) assays. The assay methodologies are well
+know, and are described in <i>Handbook of Experimental Immunology</i>, Vol. 2,
+Blackwell Scientific Publications, Oxford (1986). Other assays may be directed to
+determining the level of the antigen in the patient or tissue. Cell-mediated
+immunity may be monitored <i>in vivo</i> by the development of delayed-type
+hypersensitivity reactions, or other <i>in vivo</i> or <i>in vitro</i> means known to those
+skilled in the art, including but not limited to the skin test reaction protocol,
+lymphocyte stimulation assays, measuring the toxicity of a subject's lymphocytes
+to tumor cells by using a standard radioactive release assay, by a limiting dilution
+assay, or by measuring plasma levels of IL-2 using standard ELISA assays.</p><heading><u style="single">EXAMPLES</u></heading><heading><u style="single">Example 1.</u> Experimental Verification Of The Generation Of Antibody
+Response Against Multiple Epitopes Present In An Antigen By Injecting An
+Antibody Against A Single Epitope</heading><p num="0075">Cancer antigen CA125, which is expressed on more than 80% of epithelial
+ovarian cancers, is used as an example to demonstrate the present invention.</p><p num="0076">CA125 has multiple epitopes recognized by different antibodies such as
+OC125, M11, B43.13, B27.1, among others. In the present invention, MAb-B43.13
+was used to generate a CA125 specific immune response which included
+recognition of the B27.1 epitope.
+<u style="single">Method</u>: 86 ovarian cancer patients with active disease were tested for the presence
+of antibodies against CA125. None of the patients had antibodies against CA125
+before injection of MAb-B43.13. The patients were injected with 2 mg of MAb-B43.13
+at varying time intervals (e.g., see Table 1 for some of the patients). Sera
+from these patients were analyzed for the presence of human anti-CA125
+antibodies by their ability to bind to the CA125 [R. Madiyalakan et al, <i>Hybridoma</i>,
+14:199-203 1995)]. Such anti-CA125 antibodies were further classified to be against
+the B43.13 epitope or B27.1 epitope by their ability to inhibit the corresponding
+antibodies. The rationale for the classification comes from the fact that anti-CA125
+antibodies in these patients would have been generated by either of the
+following two pathways:
+<sl><li>1) If the anti-CA125 antibodies were generated in the manner suggested
+by the network theory noted above, the pathway would follow Ab1 - Ab2 - Ab3.
+Following this scheme, MAb-B43.13 (Ab1) would generate an anti-idiotype against
+MAb-B43.13 (Ab2), which would in turn generate an anti-anti-idiotype against
+MAb-B43.13 (Ab3; or anti-CA125 antibody). Furthermore, the Ab3 antibodies
+generated under this pathway would bind and be inhibited <u style="single">only</u> by MAb-B43.13,
+because the B43.13 epitope is the only epitope present.</li><li>2) If the anti-CA125 antibodies were generated in a manner suggested
+by the present invention, the pathway would follow Ab1 + soluble antigen - Ab3'.
+Following this scheme, MAb-B43.13 (Ab1) would bind the CA125 serum antigen, 
+which would in turn generate an anti-CA125 antibody (Ab3'). Furthermore, the
+Ab3' antibodies generated under this pathway would bind and be inhibited by
+B27.1 antibodies, because, as noted above, CA125 is multi-epitopic and B43.13 and
+B27.1 epitopes are distinct; also, Ab3' will not bind to anti-MAb-B43.13 antibodies.</li></sl></p><p num="0077">Thus, if the patients serum contained anti-CA125 antibodies that were
+inhibitable by MAb-B43.13 only, it was classified as containing Ab3; those
+inhibitable by MAb-B27.1 were classified as Ab3'.</p><heading><u style="single">Results</u></heading><p num="0078">Fourteen patients developed anti-CA125 antibodies in their sera (Table 1) in
+response to MAb-B43.13 injection. 10 of these 14 patients had Ab3' while only two
+patients had Ab3 antibodies in their sera. Two patients also had both the
+antibodies. The presence of Ab3 in their sera was also confirmed by the ability of
+these antibodies to bind to the purified rabbit anti-MAb-B43.13 antibody. There
+were two patients (#2 and #7) who had anti-CA125 antibodies, but were not
+inhibitable by MAb-B43.13 or MAb B27.1, thereby suggesting that they may have
+antibodies against CA125, which recognizes epitopes other than B43.13 or B27.1.</p><p num="0079">These results clearly indicate that when an antibody against a single epitope
+(B43.13) was injected into a patient an antibody response against the whole antigen
+is generated which recognizes different epitopes present in the antigen. The
+presence of Ab3 in some patients could be explained by the likely presence of excess
+B43.13 epitope in the CA125 due to insufficient binding of the antibody to that
+epitope or idiotype induction through Pathway I. Nevertheless, the predominant
+mechanism of the response seems to be through Pathway II. In other words,
+injecting a monoclonal antibody to a soluble multi-epitopic antigen into a patient
+having a functioning immune system generates an antibody to the antigen, where
+the generated antibody is inhibited by antibodies to different epitopes. <tables><table><tgroup cols="9"><tbody><row><entry nameend="9" namest="1">Characterization of Anti-CA125 Antibodies in Patients Injected with MAb-B43.13</entry></row><row><entry align="left" namest="1">Patient</entry><entry align="left" namest="2">Inj.<!--footnotes removed--></entry><entry align="left" namest="3">Days Elapsed After Injection</entry><entry align="left" namest="4">Anti-CA125 Ab levels</entry><entry align="left" namest="5">Binding Anti-MAb-B43.13 to (Ab2)†</entry><entry nameend="8" align="center" namest="6">Inhibition [%]<!--footnotes removed--></entry><entry align="left" namest="9">Classification</entry></row><row><entry align="center"/><entry align="center"/><entry align="center"/><entry align="center"/><entry align="center"/><entry align="left">CA125 10000 U/mL</entry><entry align="left">B43.13 s. chain<!--footnotes removed--> 10 µg/mL</entry><entry align="left">B27.1 F(ab')<!--footnotes removed-->
+
+1
+
+µg/mL</entry></row><row><entry align="center">1</entry><entry align="center">3</entry><entry align="center">0</entry><entry align="center">14.8</entry><entry align="center">+</entry><entry align="center">62.3</entry><entry align="center">42.6</entry><entry align="center">5.8</entry><entry align="center">Ab3</entry></row><row><entry align="center">2</entry><entry align="center">1</entry><entry align="center">185</entry><entry align="center">9.5</entry><entry align="center">-</entry><entry align="center">21.6</entry><entry align="center">-46.9</entry><entry align="center">-86.9</entry><entry align="center">Ab3'</entry></row><row><entry align="center">3</entry><entry align="center">3</entry><entry align="center">86</entry><entry align="center">25.4</entry><entry align="center">+</entry><entry align="center">80.2</entry><entry align="center">84.4</entry><entry align="center">-0.5</entry><entry align="center">Ab3</entry></row><row><entry align="right"/><entry align="center">3</entry><entry align="center">207</entry><entry align="center">48.7</entry><entry align="center">+</entry><entry align="center">91.4</entry><entry align="center">94.0</entry><entry align="center">-9.1</entry><entry align="center">Ab3</entry></row><row><entry align="right"/><entry align="center">4</entry><entry align="center">144</entry><entry align="center">79.7</entry><entry align="center">+</entry><entry align="center">77.1</entry><entry align="center">93.0</entry><entry align="center">3.5</entry><entry align="center">Ab3</entry></row><row><entry align="right"/><entry align="center">4</entry><entry align="center">270</entry><entry align="center">30.9</entry><entry align="center">+</entry><entry align="center">79.2</entry><entry align="center">83.0</entry><entry align="center">-55.8</entry><entry align="center">Ab3</entry></row><row><entry align="right"/><entry align="center">4</entry><entry align="center">309</entry><entry align="center">16.7</entry><entry align="center">+</entry><entry align="center">77.0</entry><entry align="center">83.0</entry><entry align="center">-55.8</entry><entry align="center">Ab3</entry></row><row><entry align="right"/><entry align="center">5</entry><entry align="center">134</entry><entry align="center">64.1</entry><entry align="center">+</entry><entry align="center">89.1</entry><entry align="center">83.3</entry><entry align="center">-37.3</entry><entry align="center">Ab3</entry></row><row><entry align="center">4</entry><entry align="center">2</entry><entry align="center">15</entry><entry align="center">23.6</entry><entry align="center">-</entry><entry align="center">62.3</entry><entry align="center">-84.8</entry><entry align="center">-101.9</entry><entry align="center">Ab3'</entry></row><row><entry align="right"/><entry align="center">2</entry><entry align="center">41</entry><entry align="center">21.6</entry><entry align="center">-</entry><entry align="center">56.9</entry><entry align="center">20.2</entry><entry align="center">-7.0</entry><entry align="center">Ab3'</entry></row><row><entry align="right"/><entry align="center">2</entry><entry align="center">76</entry><entry align="center">23.1</entry><entry align="center">-</entry><entry align="center">63.6</entry><entry align="center">29.4</entry><entry align="center">4.5</entry><entry align="center">Ab3'</entry></row><row><entry align="right"/><entry align="center">3</entry><entry align="center">28</entry><entry align="center">11.1</entry><entry align="center">-</entry><entry align="center">24.2</entry><entry align="center">4.7</entry><entry align="center">11.1</entry><entry align="center">Ab3'</entry></row><row><entry align="center">5</entry><entry align="center">1</entry><entry align="center">16</entry><entry align="center">15.5</entry><entry align="center">+</entry><entry align="center">74.8</entry><entry align="center">78.3</entry> <entry align="center">39.9</entry><entry align="center">Ab3'/A b3</entry></row><row><entry align="center">6</entry><entry align="center">3</entry> <entry align="center">0</entry> <entry align="center">10.3</entry> <entry align="center">+</entry><entry align="center">54.0</entry><entry align="center">60.2</entry><entry align="center">22.7</entry><entry align="center">Ab3'/A b3</entry></row><row><entry align="center">7</entry><entry align="right"/><entry align="right"/><entry align="center">14.9</entry><entry align="center">-</entry><entry align="center">29.7</entry><entry align="center">-70.2</entry><entry align="center">-358.9</entry><entry align="center">Ab3'</entry></row><row><entry align="center">8</entry><entry align="center">1</entry><entry align="center">7</entry><entry align="center">59.1</entry><entry align="center">-</entry><entry align="center">77.1</entry><entry align="center">87.1</entry><entry align="center">34.9</entry><entry align="center">Ab3'</entry></row><row><entry align="right"/><entry align="center">1</entry><entry align="center">17</entry><entry align="center">46.9</entry><entry align="center">-</entry><entry align="center">78.4</entry><entry align="center">86.5</entry><entry align="center">40.7</entry><entry align="center">Ab3'</entry></row><row><entry align="center">9</entry><entry align="center">3</entry><entry align="center">112</entry><entry align="center">9.2</entry><entry align="center">-</entry><entry align="center">-66.4</entry><entry align="center">16.0</entry><entry align="center">20.2</entry><entry align="center">Ab3'</entry></row><row><entry align="right"/><entry align="center">3</entry><entry align="center">166</entry><entry align="center">8.5</entry><entry align="center">-</entry><entry align="center">-18.4</entry><entry align="center">42.5</entry><entry align="center">56.5</entry><entry align="center">Ab3'</entry></row><row><entry align="center">10</entry><entry align="center">3</entry><entry align="center">0</entry><entry align="center">41.5</entry><entry align="center">-</entry><entry align="center">30.8</entry><entry align="center">39.2</entry><entry align="center">20.0</entry><entry align="center">Ab3'</entry></row><row><entry align="center">11</entry><entry align="center">5</entry><entry align="center">134</entry><entry align="center">8.8</entry><entry align="center">-</entry><entry align="center">19.0</entry><entry align="center">24.4</entry><entry align="center">3.5</entry><entry align="center">Ab3'</entry></row><row><entry align="right"/><entry align="center">6</entry><entry align="center">134</entry><entry align="center">8.7</entry><entry align="center">-</entry><entry align="center">18.0</entry><entry align="center">39.0</entry><entry align="center">46.0</entry><entry align="center">Ab3'</entry></row><row><entry align="right"/><entry align="center">9</entry><entry align="center">26</entry><entry align="center">13.4</entry><entry align="center">-</entry><entry align="center">54.5</entry><entry align="center">19.3</entry><entry align="center">11.1</entry><entry align="center">Ab3'</entry></row><row><entry align="right"/><entry align="center">9</entry><entry align="center">65</entry><entry align="center">13.3</entry><entry align="center">-</entry><entry align="center">56.1</entry><entry align="center">24.4</entry><entry align="center">3.7</entry><entry align="center">Ab3'</entry></row><row><entry align="right"/><entry align="center">10</entry><entry align="center">40</entry><entry align="center">9.4</entry><entry align="center">-</entry><entry align="center">61.4</entry><entry align="center">37.0</entry><entry align="center">33.4</entry><entry align="center">Ab3'</entry></row><row><entry align="center">12</entry><entry align="center">2</entry><entry align="center">14</entry><entry align="center">10.6</entry><entry align="center">-</entry><entry align="center">24.5</entry><entry align="center">-54.4</entry><entry align="center">19.9</entry><entry align="center">Ab3'</entry></row><row><entry align="center">13</entry><entry align="center">1</entry><entry align="center">15</entry><entry align="center">11.5</entry><entry align="center">-</entry><entry align="center">30.8</entry><entry align="center">47.4</entry><entry align="center">55.8</entry><entry align="center">Ab3'</entry></row><row><entry align="center">14</entry><entry align="center">2</entry><entry align="center">17</entry><entry align="center">10.1</entry><entry align="center">-</entry><entry align="center">30.3</entry><entry align="center">-51.2</entry><entry align="center">1.2</entry><entry align="center">Ab3'<!--footnotes removed--><!--footnotes removed--><!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 2.</u></heading><p num="0080">In pharmaceutical studies, blood samples were analyzed for CA125 levels
+before and at selected intervals after MAb-B43.13 injection. In patients with
+elevated CA125 levels before injection, a significant drop in circulating CA125 
+levels could be seen immediately after MAb-B43.13 injection (Table 2). This clearly
+demonstrated that the binding agent upon introduction into the body interacts
+and removes the circulating CA125.
+<tables><table><tgroup cols="8"><tbody><row><entry nameend="8" namest="1">CA125 Clearance after MAb-B43.13 Injection</entry></row><row><entry nameend="8" align="center" namest="1">Patient # (CA 125 levels are givven in U/mL)</entry></row><row><entry align="center"/><entry align="center">002</entry><entry align="center">003</entry><entry align="center">004</entry><entry align="center">006</entry><entry align="center">007</entry><entry align="center">008</entry><entry align="center">010</entry></row><row><entry align="left">Time (min) after MAb</entry></row><row><entry align="left">0</entry><entry align="center">760</entry><entry align="center">68</entry><entry align="center">65</entry><entry align="center">72</entry><entry align="center">90</entry><entry align="center">269</entry><entry align="center">431</entry></row><row><entry align="left">30</entry><entry align="center">210</entry><entry align="center">2</entry><entry align="center">7</entry><entry align="center">21</entry><entry align="center">16</entry><entry align="center">47</entry><entry align="center">141</entry></row><row><entry align="left">60</entry><entry align="center">144</entry><entry align="center">3</entry><entry align="center">0</entry><entry align="center">22</entry><entry align="center">16</entry><entry align="center">60</entry><entry align="center">79</entry></row><row><entry align="left">240</entry><entry align="center">240</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">11</entry><entry align="center">15</entry><entry align="center">52</entry><entry align="center">97</entry></row><row><entry align="left">1440</entry><entry align="center">277</entry><entry align="center">5</entry><entry align="center">3</entry><entry align="center">6</entry><entry align="center">23</entry><entry align="center">59</entry><entry align="center">96</entry></row><row><entry align="left">2880</entry><entry align="center">404</entry><entry align="center">-</entry><entry align="center">5</entry><entry align="center">1</entry><entry align="center">23</entry><entry align="center">67</entry><entry align="center">93</entry></row><row><entry align="left">4320</entry><entry align="center">429</entry><entry align="center">-</entry><entry align="center">7</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">-</entry><entry align="center">-</entry></row></tbody></tgroup></table></tables></p><p num="0081">Furthermore, antigen complexed with antibody is presented efficiently to
+the immune system and generates better antigen-specific humoral and cellular
+response. This was demonstrated by the following experiments shown in Examples
+3 and 4.</p><heading><u style="single">Example 3.</u></heading><p num="0082">Balb/c mice were immunized either with 10 µg of MAb-B43.13 in PBS, i.v.;
+10,000 units of CA125 in PBS, i.v.; or 10 µg of MAb-B43.13 and 10,000 units of
+CA125 in PBS, i.v., every three weeks for a total of 3 injections. The ratio in the
+B43.13/CA125 injection was similar to that observed in patients with elevated
+CA125 levels as determined based on the pharmacokinetics data given in Table 2.
+When the mice sera were analyzed for anti-CA125 antibody levels, the mice
+injected with the antigen-antibody complex had the highest titre. Anti-idiotype 
+induction in these balb/c mice are shown graphically in Figure 1. This supports
+the observation that binding agent - antigen interaction leads to better antigen
+specific humoral immune response compared to binding agent or antigen alone.</p><heading><u style="single">Example 4.</u></heading><p num="0083">Similarly, better cellular immune response was observed when the binding
+agent was presented in association with the antigen to the T-cells. Thus,
+macrophages isolated from mouse peritoneal cavities were stimulated with MAb-B43.13
+alone; CA125 alone, a MAb-B43.13-CA125 complex; or control MAb-CA125
+and presented to CA125 specific mouse T-cells (isolated from mice injected
+with CA125). When the proliferation of T-cells as monitored by [<sup>3</sup>H]-Thymidine
+uptake was followed, optimal stimulation index was observed in macrophages
+stimulated with antibody-antigen complex (Figure 2).</p><heading><u style="single">Example 5.</u></heading><p num="0084">The conclusion in Example 1 was further supported by finding a correlation
+between serum CA125 levels in patients injected with MAb-B43.13 and human
+anti-CA125 antibody generation. The findings are shown in Table 3, and support
+the conclusion that the antigen should be present in the serum for the binding
+agent to interact; such interaction leads to an antigen-specific humoral response.
+<tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">Correlation between Serum CA125 Levels and Antibody Levels in Patients Injected with MAb-B43.13.</entry></row><row><entry align="left">Pre-injection Serum CA125 Level</entry><entry align="center">Anti-CA125 Antibody Titre (No. of Positive/Total Patients)</entry></row><row><entry align="left">&lt;100 U/mL</entry><entry align="center">3/29</entry></row><row><entry align="left">&gt; 100 U/mL</entry><entry align="center">15/46</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 6.</u></heading><p num="0085">The role of serum antigen in inducing multi-epitopic antibody response as a
+consequence of an antibody injection was further confirmed in rabbit studies.
+Rabbits that do not contain any serum CA125, when injected with MAb B43.13,
+produced anti-CA125 antibodies that were not inhibitable by B27.1. In contrast,
+ovarian cancer patients with high serum antigen CA125 levels produce anti-CA125
+antibodies that are inhibitable by B27.1 in response to MAb-B43.13 injection.</p><heading><u style="single">Example 7.</u> Experimental Verification Of Induction Of Antigen Specific AntiTumor
+Response By Antibody Injection</heading><p num="0086">Human anti-CA125 antibody causes tumor cell lysis through antibody
+dependent cellular cytotoxicity ("ADCC"). Although the injected MAb-B43.13
+does not cause by itself an ADCC and/or complement dependent cytolysis
+("CDC") mediated lysis of ovarian tumor cells, the generation of anti-CA125
+antibodies in patients injected with MAb-B43.13, leads to tumor cell lysis (see
+Figure 3). This was studied in a <sup>51</sup>Chromium release assay by incubating the
+labeled ovarian tumor cells with effector cells, and sera of six patients injected with
+MAb-B43.13. This supports the conclusion that the injection of a binding agent
+leads to its interaction with the antigen, with a specific humoral response
+resulting in anti-CA125 antibodies that cause tumor cell lysis through ADCC.
+
+The results clearly demonstrated the generation of antigen specific anti-tumor
+response after injection of the antibody.</p><heading><u style="single">Example 8.</u> Generation of CA125 specific cytotoxic T-lymphocytes in patients
+injected with MAb-B43.13.</heading><p num="0087">Similarly injection of the binding agent to the cancer patient containing CA125
+lead to antigen specific CTL's. Peripheral Blood Mononuclear Cells (PBMC) from 
+eight patients injected with MAb-B43.13 were tested for cytotoxicity against
+CA125 positive or CA125 negative ovarian tumor cells in a chromium release
+assay. The results are shown in Table 4. The specificity of the lysis was confirmed
+by the ability of MAb-B43.13 to inhibit such lysis, as well as the inability to kill
+CA125 negative tumor cells. Of the 8 patients who received MAb-B43.13, at least
+four patients (#5 to #8) were determined to have CA125 specific cytotoxic T
+lymphocytes (CTL's ) in their blood. The generation of CA125 specific CTL's are
+likely to kill ovarian tumor cells in patients. <tables><table><tgroup cols="8"><tbody><row><entry nameend="8" namest="1">Cytotoxicity In Patients Injected With A Vaccine Containing MAb-B43.13</entry></row><row><entry align="center" namest="1">PATIENT ID</entry><entry nameend="3" align="center" namest="2">SAMPLE</entry><entry nameend="6" align="center" namest="4">PERCENT LYSIS</entry><entry align="center" namest="7">PERCENT INHIBITION BY MAb-B43.13 (5 µg)</entry><entry align="center" namest="8">PERCENT DIFFERENC BETWEEN CA 125 +ve &amp; CA 125 -ve CELLS</entry></row><row><entry align="center"/><entry align="center">Injection Number</entry><entry align="center">Days Post Injection</entry><entry align="center">CAOV-4</entry><entry align="center">SK-OV-3</entry><entry align="center">K562</entry></row><row><entry align="center">1</entry><entry align="center">2</entry><entry align="center">17</entry><entry align="center">2.0</entry><entry align="center">0.0</entry><entry align="center">3.7</entry><entry align="center">ND<!--footnotes removed--></entry><entry align="center">insignificant</entry></row><row><entry align="center">2</entry><entry align="center">2</entry><entry align="center">0</entry><entry align="center">9.8</entry><entry align="center">7.5</entry><entry align="center">33.5</entry><entry align="center">ND</entry><entry align="center">31</entry></row><row><entry align="center">3</entry><entry align="center">3</entry><entry align="center">0</entry><entry align="center">22.8</entry><entry align="center">20.4</entry><entry align="center">64.3</entry><entry align="center">ND</entry><entry align="center">12</entry></row><row><entry align="center">4</entry><entry align="center">3</entry><entry align="center">0</entry><entry align="center">25.8</entry><entry align="center">20.2</entry><entry align="center">44.5</entry><entry align="center">4.7</entry><entry align="center">28</entry></row><row><entry align="center">5</entry><entry align="center">3</entry><entry align="center">0</entry><entry align="center">65.1</entry><entry align="center">45.4</entry><entry align="center">80.7</entry><entry align="center">ND</entry><entry align="center">43</entry></row><row><entry align="center">6</entry><entry align="center">3
+
+3</entry><entry align="center">0
+
+6</entry><entry align="center">23.1
+
+7.4</entry><entry align="center">20.0
+
+5.2</entry><entry align="center">42.0
+
+10.2</entry><entry align="center">19.2
+
+53.0</entry><entry align="center">16
+
+42</entry></row><row><entry align="center">7</entry><entry align="center">4</entry><entry align="center">355</entry><entry align="center">10.3</entry><entry align="center">3.1</entry><entry align="center">18.9</entry><entry align="center">ND</entry><entry align="center">23</entry></row><row><entry align="center">8</entry><entry align="center">10</entry><entry align="center">425</entry><entry align="center">25.5</entry><entry align="center">18.2</entry><entry align="center">39.2</entry><entry align="center">15.4</entry><entry align="center">40<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 9.</u></heading><p num="0088">Tumor killing either through an anti-CA125 antibody-mediated ADCC
+mechanism or through CA125-specific CLTs, lead to increased survival in patients
+injected with MAb-B43.13. Although high levels of serum CA125 have been
+suggested to be a poor prognostic indicator, they seem to have a beneficial effect in
+combination with the injection of anti-CA125 antibody in such patients. For
+example, when the CA125 levels were more than 100 units/mL, immune response
+against CA 125 increased by more than 20% which in turn increased the median 
+survival in those patients from 39.1 months to 54.5 months (Table 5). Thus the
+injection of a binding agent to a patient containing elevated levels of multiepitopic
+soluble antigen leads to antigen specific humoral and cellular response which in
+turn leads to tumor killing followed by improved survival.
+<tables><table><tgroup cols="3"><tbody><row><entry nameend="3" namest="1">Correlation between Serum CA125 Levels, Human Anti-CA125 (Ab<sub>1</sub>') Response and Survival in Patients Injected with MAb-B43.13</entry></row><row><entry align="center">Preinjection Serum CA125 Level</entry><entry align="center">%-age of Patients with Human Anti-CA125 Response</entry><entry align="center">Mean Survival in Month</entry></row><row><entry align="center">&lt;100 U/mL</entry><entry align="center">10.3%</entry><entry align="center">39.1</entry></row><row><entry align="center">&gt;100 U/mL</entry><entry align="center">32.6%</entry><entry align="center">54.5</entry></row></tbody></tgroup></table></tables></p><heading><u style="single">Example 10.</u></heading><p num="0089">One pancreatic cancer patient diagnosed with metastatic disease was
+repeatedly injected with a composition including an anti-CA 19.9 antibody. The
+patient received no other treatment, and survived for 22 months after the original
+diagnosis (19 months after surgery and the injection) This is compared to the
+current survival period estimate of six months survival after initial diagnosis.</p><heading><u style="single">Example 11</u>.</heading><p num="0090">Those with skill in the art recognize that the administered dosage can
+vary widely based on a wide set of different circumstances. The following provides 
+preliminary dosage guidelines.</p><p num="0091">Retrospective analysis of more than 100 patients who have been injected
+up to ten times with a 2mg dose of MAb-B43.13 indicated that some of these
+patients experienced: a) an unusual course of their disease, characterized by
+unexpectedly long survival times; and b) no significant adverse reaction or toxicity.</p><p num="0092">Immunological studies were conducted to understand and evaluate the
+<i>in vivo</i> mechanism of action of MAb-B43.13. These studies indicated that the
+extent of anti-idiotypic induction in patients injected with a 2mg dose of MAb-B43.13
+was unrelated to the number of injections or the clinical stage of their
+disease. However, anti-idiotypic induction is dependent on the levels of the
+circulating CA 125 present in the patient's sera. Additional experiments
+demonstrated that the injection of MAb-B43.13 into patients with measurable
+serum CA 125 led to the formation of antigen-antibody complexes, resulting in
+antigen epitope presentation and antigen-specific humoral and cellular response to
+the tumor.</p><p num="0093">These studies indicate that an effective dose requires only enough
+antibody to optimally deliver and present all possible circulating CA 125 antigen
+to the immune system. <i>In vitro</i> studies indicated that 1 ng of MAb-B43.13 can
+bind 10 units of CA 125. Assuming 40 mL of plasma per kg of body weight, the
+injection of 2 mg of MAb-B43.13 into a 60 kg patient can bind approximately 8333
+U/mL of CA 125 in serum. Since all of the ovarian cancer patients tested to date
+have had far less than 8333 U/mL of CA 125 in their serum, an injection of 2 mg
+of MAb-B43.13 is more than sufficient to induce the required immune response.
+Additionally, in patients that received radiolabeled MAB-B43.13 for
+immunoscintographic confirmation of the disease, the results of imaging were
+excellent in spite of high serum CA 125, suggesting that there is excess MAB-B43.13
+for specific tumor uptake.</p><p num="0094">Furthermore, multiple injections at selected intervals appear to provide
+optimal benefits to patients, since CA 125 is generated throughout the course of 
+the disease.</p><p num="0095">Finally, the retrospective analysis showed that the 2 mg dose appears to
+have therapeutic efficacy; none of the patients (&gt; 100) have developed any serious
+side effects or adverse reactions. If the total HAMA response is an indication of
+anti-idiotypic induction, a 2 mg dose generates significant levels of anti-idiotypic
+antibodies to product the desired therapeutic benefit. Multiple injections of 2 mg
+of MAb-B43.13 at selected intervals appears to maintain the anti-idiotypic
+antibodies at the desired therapeutic level without causing any isotypic HAMA-induced
+toxicity.</p><p num="0096">A range of effective doses or a therapeutically acceptable amount of
+MAb-B43.13 therefore includes, but is not limited to, 2 mg.</p><heading><u style="single">Brief Description of the Drawings</u></heading><p num="0097"><sl><li>Figure 1 shows the superior results obtained after immunizing mice
+with a composition of the present invention, compared to other compositions.</li><li>Figure 2 shows superior macrophage stimulation caused by a
+composition of the present invention, compared to other compositions.</li><li>Figure 3 shows tumor cell lysis caused by administering a composition of
+the present invention.</li></sl></p><heading><u style="single">Industrial Applicability</u></heading><p num="0098">The compositions comprising a binding agent according to this
+invention are particularly useful in compositions containing an immunogenic or
+therapeutic amount of at least one of the binding agents of the invention. An
+immunogenic or therapeutic amount is an amount that stimulates an immune
+response of a humoral, cellular, or combined humoral and cellular nature in the
+host. The host immune response comprises increased activity against an epitope on 
+a tumor-associated antigen that is different than the epitope to which the binding
+agent binds. The compositions of the present invention are administered as anti-tumor
+vaccines to subjects at risk for the development of a malignancy, or to
+subjects showing a diagnosis of the malignancy. These compositions may be used
+to prepare a pharmaceutical composition that elicits an immune response.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A therapeutic composition comprising a binding agent specific for a first epitope on a
+multi-epitopic invivo antigen present in the host's serum, which antigen does not
+elicit an effective host immune system, characterised in that the binding agent present
+in the composition is the monoclonal antibody B43.13 which specifically binds to a
+first epitope on the antigen, forming a binding agent/antigen pair, whereby an
+effective host immune response is elicited against a second epitope on the antigen.</claim-text></claim><claim num="2"><claim-text>A therapeutic composition as claimed in claim 1 wherein B43.13 is to be present in the
+composition in an amount of from 0.1µg to 2mg per kilogram of body weight of the
+host, more possibly of from 1µg to 200 µg per kilogram of body weight of the host.</claim-text></claim><claim num="3"><claim-text>The therapeutic composition of any preceding claim wherein the antigen is CA125,
+preferably wherein the level of CA125 in the host's serum is greater than 100U/mL.</claim-text></claim><claim num="4"><claim-text>The therapeutic composition of any preceding claim wherein the binding agent has
+been exposed to radiation, preferably ultraviolet radiation.</claim-text></claim><claim num="5"><claim-text>The therapeutic composition of any preceding claim wherein the composition further
+comprises one or more adjuvants, one or more carriers, one or more excipients, one
+or more stabilisers, one or more imaging reagents, one or more pharmaceutically
+acceptable carriers and/or physiologically acceptable saline.</claim-text></claim><claim num="6"><claim-text>Use of the therapeutic composition of any preceding claim for the manufacture of a
+medicament for the treatment of human cancer.</claim-text></claim><claim num="7"><claim-text>A therapeutic composition as claimed in any of claims 1 to 5 adapted to be
+administered to the host by any immunologically suitable route, preferably
+intravenous, subcutaneous, intraperitoneal, intrademal, intramuscular and/or
+intralymphatic routes.</claim-text></claim><claim num="8"><claim-text>A therapeutic composition as claimed in any of claims 1 to 5 and 7 wherein the
+composition is to be administered in solution, tablet and/or aerosol form.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

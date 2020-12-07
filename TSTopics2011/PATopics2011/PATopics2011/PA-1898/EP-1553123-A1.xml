@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1553123-A1" country="EP" doc-number="1553123" kind="A1" lang="EN" family-id="32105129" status="new" date-produced="20090516" date="20050713"><bibliographic-data><publication-reference ucid="EP-1553123-A1" status="new" fvid="24378766"><document-id status="new" format="original"><country>EP</country><doc-number>1553123</doc-number><kind>A1</kind><date>20050713</date></document-id></publication-reference><application-reference ucid="EP-03756674-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03756674</doc-number><kind>A</kind><date>20031017</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-0313313-W" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>0313313</doc-number><kind>W</kind><date>20031017</date></document-id></priority-claim><priority-claim ucid="JP-2002304641-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002304641</doc-number><kind>A</kind><date>20021018</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A61K  31/075       20060101C I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61K  31/08        20060101A I20051110RMEP        </classification-ipcr><classification-ipcr status="new">C08G  65/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08G  65/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10M 107/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10M 107/38        20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08G  65/00B2F</classification-symbol><classification-symbol scheme="EC">C10M 107/38</classification-symbol><classification-symbol scheme="ICO">M10M213:04B</classification-symbol><classification-symbol scheme="ICO">M10M213:06B</classification-symbol><classification-symbol scheme="ICO">M10N240:204</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">PERFLUORPOLYETHERDERIVATE</invention-title><invention-title load-source="ep" status="new" lang="EN">PERFLUOROPOLYETHER DERIVATIVES</invention-title><invention-title load-source="ep" status="new" lang="FR">DERIVES DE PERFLUOROPOLYETHER</invention-title><citations><patent-citations><patcit ucid="US-6132860-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6132860</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1992012199-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1992012199</doc-number><kind>A1</kind></document-id><sources><source category="X"  name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-2002068353-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>2002068353</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA"  created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>See also references of WO  2004035656A1</text><sources><source name="SEA"  created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new"  format="epo"><addressbook><name>ASAHI GLASS CO LTD</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ASAHI GLASS COMPANY LTD.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>ASAHI GLASS COMPANY LTD.</last-name><address><street>12-1, Yurakucho 1-chome, Chiyoda-ku</street><city>Tokyo 100-8405</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>KAWAHARA KENGO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MURATA KOICHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>OHARU KAZUYA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>OKAZOE TAKASHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SHIRAKAWA DAISUKE</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>WANG SHU-ZHONG</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KAWAHARA, KENGO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MURATA, KOICHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>OHARU, KAZUYA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>OKAZOE, TAKASHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SHIRAKAWA, DAISUKE</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>WANG, SHU-ZHONG</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>KAWAHARA, Kengo Asahi Glass Company, Limited</last-name><address><street>1150, Hazawa-cho, Kanagawa-ku</street><city>Yokohama-shi, Kanagawa 221-8755</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MURATA, Koichi Asahi Glass Company, Limited</last-name><address><street>1150, Hazawa-cho, Kanagawa-ku</street><city>Yokohama-shi, Kanagawa221 -8755</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>OHARU, Kazuya Asahi Glass Company, Limited</last-name><address><street>1150, Hazawa-cho, Kanagawa-ku</street><city>Yokohama-shi, Kanagawa 221-8755</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>OKAZOE, Takashi Asahi Glass Company, Limited</last-name><address><street>1150, Hazawa-cho, Kanagawa-ku</street><city>Yokohama-shi, Kanagawa 221-8755</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SHIRAKAWA, Daisuke Asahi Glass Company, Limited</last-name><address><street>1150, Hazawa-cho, Kanagawa-ku</street><city>Yokohama-shi, Kanagawa 221-8755</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>WANG, Shu-zhong Asahi Glass Company, Limited</last-name><address><street>1150, Hazawa-cho, Kanagawa-ku</street><city>Yokohama-shi, Kanagawa 221-8755</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Müller-Boré &amp;amp; Partner Patentanwälte</last-name><address><street>Grafinger Strasse 2</street><city>81671 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><pct-or-regional-filing-data ucid="JP-0313313-W" status="new"><document-id status="new" format="original"><country>JP</country><doc-number>0313313</doc-number><kind>W</kind></document-id></pct-or-regional-filing-data><pct-or-regional-publishing-data ucid="WO-2004035656-A1" status="new"><document-id status="new" format="original"><country>WO</country><doc-number>2004035656</doc-number><kind>A1</kind><date>20040429</date> </document-id></pct-or-regional-publishing-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>BG</country> <country>CH</country> <country>CY</country> <country>CZ</country><country>DE</country><country>DK</country><country>EE</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>HU</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>RO</country><country>SE</country><country>SI</country><country>SK</country><country>TR</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A novel perfluoropolyether derivative which is less
+likely to undergo decomposition, which is free from a
+problem of deterioration during its use, and which is
+useful as a lubricating oil or a coating agent, is
+provided.</p><p>A compound represented by the following formula (1):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HO-(CH<sub>2</sub>CH<sub>2</sub>O)<sub>r</sub>·(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)<sub>p</sub>-CH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>CF<sub>2</sub>CH<sub>2</sub>O-
+
+-(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)<sub>q</sub>·(CH<sub>2</sub>CH<sub>2</sub>O)<sub>s</sub>-H</st32:che>
+wherein m represents an integer of from 3 to 200, and
+each of p, q, r and s which are independent of one
+another, represents an integer of from 0 to 100, provided
+that when each of p, q, r and s which are independent of
+one another, is an integer of at least 1, the arrangement
+of -(CH<sub>2</sub>CH<sub>2</sub>O)- and -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units is not
+particularly limited, and when one of r and p is an
+integer of at least 2 and the other is an integer of at
+least 1, or when one of q and s is an integer of at least
+2 and the other is an integer of at least 1, these units
+may be arranged in a block form or at random.</p></abstract><description load-source="ep" status="new" lang="EN"><heading>TECHNICAL FIELD</heading><p num="0001">The present invention relates to a compound
+represented by the formula (1), i.e. a novel
+perfluoropolyether derivative, useful as a lubricant, a
+coating agent, etc.</p><heading>BACKGROUND ART</heading><p num="0002">Perfluorinated polyether compounds are compounds
+widely used as a lubricating oil, a coating agent, etc.
+Among such compounds, a derivative of which the terminal
+group is -CH<sub>2</sub>OH is known to be particularly useful. For
+example, a compound represented by the following formula
+(A) (in the formula (A), each of a and b represents an
+integer of at least 1) has been known (e.g. JP-A-6-44557
+(page 2), C. Tonelli et al, J. Fluorine Chem., vol. 95,
+1999, pages 51 to 70):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HOCH<sub>2</sub>CF<sub>2</sub>O-(CF<sub>2</sub>CF<sub>2</sub>O)<sub>a</sub>·(CF<sub>2</sub>O)<sub>b</sub>-CF<sub>2</sub>CH<sub>2</sub>OH</st32:che></p><p num="0003">However, the compound represented by the formula (A)
+has -OCF<sub>2</sub>O- units derived from -(CF<sub>2</sub>O)- units as an
+essential component in its molecular structure, and thus
+it undergoes decomposition due to the above units, which
+may cause deterioration (e.g. W. Fong et al, IEEE
+Transactions on Magnetics, vol. 35, No. 2, March 1999,
+pages 911 to 912, J. Scheirs, Modern Fluoropolymers, John 
+Wiley &amp; Sons Ltd., 1997, pages 466 to 468, P.H. Kasai,
+Macromolecules, vol. 25, 1992, page 6791).</p><p num="0004">As a compound having no -OCF<sub>2</sub>O- units, a compound
+wherein the terminal groups (-CH<sub>2</sub>OH) in the formula (A)
+are -COOH groups, has been known. However, the compound
+wherein the terminals are -COOH groups has such a
+drawback that when it is exposed under high temperature
+conditions, the polar terminal groups (-COOH) easily
+undergo decarbonylation and are lost, and thus such
+properties that the surface coating properties repair in
+short time (also called self-repair properties) decrease.
+Further, it has such a drawback that it may cause
+corrosion since the -COOH groups have high acidity.</p><p num="0005">Further, there is a literature which discloses a
+compound represented by the following formula (B) as a
+surface active agent (JP-A-9-111286 (page 1)). However,
+the literature does not disclose a compound represented
+by the formula (B) wherein q is 0. Further, specifically
+disclosed compounds are all known perfluoropolyether
+surface active agents, and they correspond to compounds
+wherein q is at least 1:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>1</sup>-CF<sub>2</sub>(O-CFR<sup>2</sup>-CF<sub>2</sub>)<sub>e</sub>-(O-CF<sub>2</sub>)<sub>f</sub>-R<sup>3</sup></st32:che>
+wherein R<sup>1</sup> represents F or a hydrophilic group, R<sup>2</sup>
+represents F or CF<sub>3</sub>, R<sup>3</sup> represents a hydrophilic group,
+each of e and f is an integer of from 0 to 1,000, and one
+of them may be 0, the oxyperfluoro groups in the brackets
+may not necessarily be arranged in this order, and may be 
+randomly polymerized, or may be alternately polymerized
+so that the oxyperfluoro groups are alternately arranged.</p><heading>DISCLOSURE OF THE INVENTION</heading><p num="0006">The present invention has been made to overcome the
+above problems, and it is an object of the present
+invention to provide a compound represented by the
+formula (1), i.e. a novel perfluoropolyether derivative,
+which is less likely to be decomposed, which is free from
+a problem of deterioration during its use, and which is
+useful as a lubricating oil or a coating agent.</p><p num="0007">The present invention provides a compound
+represented by the following formula (1) and a
+perfluoropolyether derivative composition comprising at
+least two types of the compounds:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HO-(CH<sub>2</sub>CH<sub>2</sub>O)<sub>r</sub>·(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)<sub>p</sub>-CH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>CF<sub>2</sub>CH<sub>2</sub>O-
+
+-(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)<sub>q</sub>·(CH<sub>2</sub>CH<sub>2</sub>O)<sub>s</sub>-H</st32:che>
+wherein m represents the number of -(CF<sub>2</sub>CF<sub>2</sub>O)- units and
+is an integer of from 3 to 200, each of r and s which are
+independent of each other, represents the number of
+-(CH<sub>2</sub>CH<sub>2</sub>O)- units and is an integer of from 0 to 100, and
+each of p and q which are independent of each other,
+represents the number of -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units and is
+an integer of from 0 to 100, provided that when each of r
+and p which are independent of each other, is an integer
+of at least 1, or when each of q and s which are
+independent of each other, is an integer of at least 1, 
+the arrangement of -(CH<sub>2</sub>CH<sub>2</sub>O)- and -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units
+is not particularly limited, and when one of r and p is
+an integer of at least 2 and the other is an integer of
+at least 1, or when one of q and s is an integer of at
+least 2 and the other is an integer of at least 1,
+-(CH<sub>2</sub>CH<sub>2</sub>O)- and -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units may be arranged in
+a block form or at random.</p><p num="0008">The present invention further provides a compound
+represented by the following formula (1-1) and a
+perfluoropolyether derivative composition comprising at
+least two types of the derivatives:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HOCH<sub>2</sub>CF<sub>2</sub>O-(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>-CF<sub>2</sub>CH<sub>2</sub>OH</st32:che>
+(wherein m represents the number of -(CF<sub>2</sub>CF<sub>2</sub>O)- units and
+is an integer of from 3 to 200).</p><p num="0009">The present invention further provides a solution
+composition containing a compound represented by the
+following formula (1) and an organic solvent:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HO-(CH<sub>2</sub>CH<sub>2</sub>O)<sub>r</sub>·(CH<sub>2</sub>CH (OH)CH<sub>2</sub>O)<sub>p</sub>-CH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>CF<sub>2</sub>CH<sub>2</sub>O-
+
+-(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)<sub>q</sub>·(CH<sub>2</sub>CH<sub>2</sub>O)<sub>s</sub>-H</st32:che>
+wherein the symbols are as defined above.</p><p num="0010">According to the present invention, a novel
+perfluoropolyether derivative which is less likely to be
+decomposed, which is free from a problem of deterioration
+or corrosion during its use, and which is useful as a
+lubricating oil or a coating agent, is provided. The
+perfluoropolyether derivative of the present invention is
+a compound which can be produced from a material easily 
+available at a low cost. Further, according to the
+present invention, a solution composition containing the
+perfluoropolyether derivative and an organic solvent is
+provided. The solution composition is useful as e.g. a
+surface treating agent. On the surface of a treated base
+material obtained by coating the surface treating agent
+on the surface of a base material, followed by drying, a
+coating film free from defects such as pinholes, being
+transparent, having a low refractive index and excellent
+in heat resistance and chemical resistance, is formed.</p><heading>BEST MODE FOR CARRYING OUT THE INVENTION</heading><p num="0011">In the following explanation in the present
+specification, explanation regarding the compound
+represented by the formula (1) is similarly applied to
+the compound represented by the formula (1-1), unless
+otherwise specified.</p><p num="0012">The present invention provides a compound
+represented by the following formula (1) and a compound
+represented by the formula (1-1):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HO-(CH<sub>2</sub>CH<sub>2</sub>O)<sub>r</sub>·(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)<sub>p</sub>-CH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>CF<sub>2</sub>CH<sub>2</sub>O-
+
+-(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)<sub>q</sub>·(CH<sub>2</sub>CH<sub>2</sub>O)<sub>s</sub>-H</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HOCH<sub>2</sub>CF<sub>2</sub>O-(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>-CF<sub>2</sub>CH<sub>2</sub>OH</st32:che>
+wherein m represents the number of -(CF<sub>2</sub>CF<sub>2</sub>O)- units and
+is an integer of from 3 to 200, each of r and s which are
+independent of each other, represents the number of
+-(CH<sub>2</sub>CH<sub>2</sub>O)- units and is an integer of from 0 to 100, and 
+each of p and q which are independent of each other,
+represents the number of -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units and is
+an integer of from 0 to 100, provided that when each of r
+and p which are independent of each other, is an integer
+of at least 1, or when each of q and s which are
+independent of each other, is an integer of at least 1,
+the arrangement of -(CH<sub>2</sub>CH<sub>2</sub>O)- units and -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)-units
+is not particularly limited, and when one of r and
+p is an integer of at least 2 and the other is an integer
+of at least 1, or when one of q and s is an integer of at
+least 2 and the other is an integer of at least 1,
+-(CH<sub>2</sub>CH<sub>2</sub>O)- and -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units may be arranged in
+a block form or at random.</p><p num="0013">In the compound represented by the formula (1), if a
+structure in which the -(CH<sub>2</sub>CH<sub>2</sub>O)- and -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)-units
+are connected is present, the arrangement of these
+units is not particularly limited. For example, when r
+and p are 1 (or when q and s are 1), the unit present on
+the terminal hydroxide group side may be either the
+-(CH<sub>2</sub>CH<sub>2</sub>O)- unit or the -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- unit.</p><p num="0014">Further, when one of r and p is at least 2 and the
+other is at least 1, -(CH<sub>2</sub>CH<sub>2</sub>O)- and -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)-units
+may be arranged in a block form or at random.
+Similarly, when one of q and s is at least 2 and the
+other is 1, -(CH<sub>2</sub>CH<sub>2</sub>O)- and -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units may be
+arranged in a block form or at random.</p><p num="0015">In the compound represented by the formula (1) and 
+the compound represented by the formula (1-1), m is
+preferably an integer of from 3 to 100, particularly
+preferably an integer of from 3 to 70, especially
+preferably an integer of from 5 to 50.</p><p num="0016">The compound represented by the formula (1) can be
+classified into a compound in which -(CH<sub>2</sub>CH<sub>2</sub>O)- and/or
+-(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units are present, and a compound
+represented by the formula (1-1) wherein no such units
+are present.</p><p num="0017">In the compound represented by the formula (1)
+wherein -(CH<sub>2</sub>CH<sub>2</sub>O)- and/or -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units are
+present, each of r and s which are independent of each
+other, is an integer of from 1 to 100, and/or each of p
+and q which are independent of each other, is an integer
+of from 1 to 100.</p><p num="0018">Each of r and s which represents the number of
+-(CH<sub>2</sub>CH<sub>2</sub>O)- units, which are independent of each other,
+is preferably an integer of from 1 to 10, particularly
+preferably an integer of from 1 to 2, especially
+preferably 1. Each of p and q which represents the
+number of -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units, which are independent
+of each other, is preferably an integer of from 1 to 10,
+particularly preferably an integer of from 1 to 2,
+especially preferably 1.</p><p num="0019">The compound represented by the formula (1) wherein
+-(CH<sub>2</sub>CH<sub>2</sub>O)- and/or -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units are present is
+preferably a compound represented by the following 
+formula (1c) wherein -(CH<sub>2</sub>CH<sub>2</sub>O)- units alone are present,
+or a compound represented by the following formula (1d)
+wherein -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units alone are present:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HO(CH<sub>2</sub>CH<sub>2</sub>O)<sub>r</sub>CH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>CF<sub>2</sub>CH<sub>2</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub>s</sub>H</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HO (CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)<sub>p</sub>CH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>CF<sub>2</sub>CH<sub>2</sub>O(CH<sub>2</sub>CH(OH)
+
+CH<sub>2</sub>O)<sub>q</sub>H</st32:che>
+wherein m, r, s, p and q are as defined above, and the
+preferred modes are also as defined above. The compound
+of the formula (1c) is preferably a compound wherein r
+and s are simultaneously 1, and the compound of the
+formula (1d) is preferably a compound wherein p and q are
+simultaneously 1.</p><p num="0020">The compound represented by the formula (1-1)
+wherein no -(CH<sub>2</sub>CH<sub>2</sub>O)- nor -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units are
+presents is preferably a compound wherein m is within the
+above preferred range.</p><p num="0021">The compound represented by the formula (1) of the
+present invention may be present as a single compound but
+may be present as a composition comprising at least two
+types of compounds wherein the values of m, r, s, p and q
+are different, and the latter is preferred in view of
+easiness of availability.</p><p num="0022">Namely, the present invention provides a
+perfluoropolyether derivative composition comprising at
+least two types of the compounds represented by the
+formula (1). The composition may be represented by an 
+average molecular formula represented by the following
+formula (1b).</p><p num="0023">Further, a composition comprising at least two types
+of the compounds represented by the formula (1-1) may be
+represented by an average molecular formula represented
+by the following formula (1-1b):
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HO-(CH<sub>2</sub>CH<sub>2</sub>O)<sub>j</sub>·(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)<sub>x</sub>-CH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>w</sub>CF<sub>2</sub>CH<sub>2</sub>O
+
+-(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)<sub>y</sub>·(CH<sub>2</sub>CH<sub>2</sub>O)<sub>k</sub>-H</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>t</sub>CF<sub>2</sub>CH<sub>2</sub>OH</st32:che></p><p num="0024">In the formula (1b), w represents the average of the
+number of -(CF<sub>2</sub>CF<sub>2</sub>O)- units and is a positive number of
+from 3 to 200, preferably a positive number of from 3 to
+100. Each of j and k which are independent of each
+other, represents the average of the number of
+-(CH<sub>2</sub>CH<sub>2</sub>O)- units and is a positive number of from 0 to
+100, preferably a positive number of from 1 to 10,
+particularly preferably a positive number of from 1 to 2.
+Each of x and y which are independent of each other,
+represents the average of the number of -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)-units
+and is a positive number of from 0 to 100,
+preferably a positive number of from 1 to 10,
+particularly preferably a positive number of from 1 to 2.
+Further, if the compound of the formula (1b) has a
+structure in which -(CH<sub>2</sub>CH<sub>2</sub>O)- and -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units
+are connected, the arrangement of these units is not
+particularly limited. Further, when the number of either
+-(CH<sub>2</sub>CH<sub>2</sub>O)- units or -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- units is at least 
+2, and the number of the other units is at least 1, these
+units may be arranged in a block form or at random.</p><p num="0025">In the formula (1-1b), t represents the average of
+the number of -(CF<sub>2</sub>CF<sub>2</sub>O)- units and is a positive number
+of higher than 3 and less than 200. t is preferably a
+positive number of higher than 3 and at most 100,
+particularly preferably a positive number of higher than
+3 and at most 70, especially preferably a positive number
+of from 5 to 50.</p><p num="0026">The compound represented by the formula (1) of the
+present invention is a compound having substantially no
+units represented by -OCF<sub>2</sub>O-. The compound having
+substantially no units represented by -OCF<sub>2</sub>O- is a
+compound having practically no -(OCF<sub>2</sub>O)- units in the
+structure of the compound represented by the formula (1),
+or a compound having such units, if any, in an
+undetectable amount by quantitative determination by
+means of conventional analysis means (such as <sup>19</sup>F-NMR)
+which may detect the -(OCF<sub>2</sub>O)- units.</p><p num="0027">The compound represented by the formula (1-1) may be
+produced by the same process as a method as disclosed in
+e.g. WO02/4397 by the present inventors from a
+polyethylene glycol having a carbon skeleton
+corresponding to the compound. Polyethylene glycols
+having various molecular weights are commercially
+available at a low cost and easily available. Further,
+compounds represented by the formula (1) wherein each of 
+r, p, q and s which are independent of one another, is at
+least 1, can be produced by a process as described
+hereinafter from the compound represented by the formula
+(1-1).</p><p num="0028">Namely, as the process for producing the compound
+represented by the formula (1-1), a polyethylene glycol
+represented by the following formula (a) is reacted with
+a perfluoroacyl fluoride represented by the following
+formula (b) to obtain a partially fluorinated ester
+represented by the following formula (c), which is
+reacted with fluorine in a liquid phase to obtain a
+compound represented by the formula (d), and the ester
+linkages of the compound represented by the formula (d)
+are decomposed to obtain a compound represented by the
+following formula (e). Then, the compound represented by
+the formula (e) is esterified to obtain a compound
+represented by the formula (f) wherein r is an alkyl
+group. Otherwise, the compound represented by the
+formula (e) is hydrolyzed to obtain a compound
+represented by the formula (f) wherein r is a hydrogen
+atom. Then, the compound represented by the formula (f)
+obtained by the above process is reduced. The compound
+(1-1) produced by the above process is a compound having
+substantially no -OCF<sub>2</sub>O- units.
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HOCH<sub>2</sub>CH<sub>2</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub>k</sub>CH<sub>2</sub>CH<sub>2</sub>OH</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>f</sup>COF</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>f</sup>COOCH<sub>2</sub>CH<sub>2</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub>k</sub>CH<sub>2</sub>CH<sub>2</sub>OCOR<sup>f</sup></st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sup>f</sup>COOCF<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>CF<sub>2</sub>CF<sub>2</sub>OCOR<sup>f</sup></st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">FCOCF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>CF<sub>2</sub>COF</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">ROCOCF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>CF<sub>2</sub>COOR</st32:che><st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>m</sub>CF<sub>2</sub>CH<sub>2</sub>OH</st32:che></p><p num="0029">In the above formulae, m is as defined above, k
+represents an integer of at least m, R<sup>f</sup> represents a
+monovalent perfluorinated organic group and is preferably
+a perfluoroalkyl group or a perfluoroalkyl group
+containing an ethereal oxygen atom, and R represents an
+alkyl group or a hydrogen atom.</p><p num="0030">Further, the compound represented by the formula (f)
+wherein R is an alkyl group may be obtained by a process
+of subjecting the compound represented by the formula (d)
+obtained by the above process and an alcohol compound
+represented by the formula R<sup>1</sup>-OH (wherein R<sup>1</sup> represents
+an alkyl group corresponding to R) to ester exchange.</p><p num="0031">In fluorination of the compound represented by the
+formula (c), the carbon-carbon linkage may be broken, and
+thus the number (k) of -(CH<sub>2</sub>CH<sub>2</sub>O)- units in the formulae
+(a) and (c) is an integer equal to m or an integer higher
+than m.</p><p num="0032">As the compound represented by the formula (a) as a
+starting material in this production process, a mixture
+of at least two types wherein the numbers of the
+-(CH<sub>2</sub>CH<sub>2</sub>O)- units are different is easily available in
+usual case, and accordingly the compound represented by
+the formula (1-1) is also preferably produced as 
+corresponding at least two types of compounds wherein the
+numbers of -(CF<sub>2</sub>CF<sub>2</sub>O)- units are different, in view of
+easiness of production.</p><p num="0033">In the above reaction, esterification of the
+compound represented by the formula (a), fluorination of
+the compound represented by the formula (b) and
+decomposition of the ester linkages of the compound
+represented by the formula (c) can be carried out in
+accordance with a method as disclosed in e.g. WO02/4397.
+Further, conversion of the compound represented by the
+formula (e) to the compound represented by the formula
+(f) (esterification, hydrolysis) may be carried out in
+accordance with a known method.</p><p num="0034">The reduction of the compound (f) may be carried out
+in accordance with a method as disclosed in e.g. JP-A-10-72568.
+The reduction is carried out preferably by using
+a reducing agent such as NaBH<sub>4</sub>, borane-THF or lithium
+aluminum hydride.</p><p num="0035">Further, the compound represented by the formula (1)
+wherein each of r and s which are independent of each
+other, is at least 1, may be produced by adding ethylene
+carbonate or ethylene oxide to the compound represented
+by the formula (1-1). Further, the compound represented
+by the formula (1) wherein each of p and q which are
+independent of each other, is at least 1, may be produced
+by adding 2,3-epoxy-1-propanol to the compound
+represented by the formula (1-1). Addition of ethylene 
+carbonate, ethylene oxide or 2,3-epoxy-1-propanol may be
+carried out by adding such a compound in an optional
+amount in an optional order depending upon the structure
+of the aimed compound.</p><p num="0036">Such addition may be carried out in accordance with
+a known method. The addition may be carried out in the
+presence or absence of a solvent, and it is preferably
+carried out in the presence of a solvent since
+compatibility of the compound represented by the formula
+(1-1) with ethylene carbonate, ethylene oxide or 2,3-epoxy-1-propanol
+will be improved. The solvent is
+preferably a hydrocarbon ether or a
+hydrochlorofluorocarbon, particularly preferably (t-butyl)
+methyl ether. The hydrochlorofluorocarbon may be
+a known hydrochlorofluorocarbon, and it may, for example,
+be 1,1-dichloro-1-fluoroethane, 2,2,2-trifluoro-1,1-dichloroethane
+or dichloropentafluoropropane.</p><p num="0037">By the above addition, a product having one
+-(CH<sub>2</sub>CH<sub>2</sub>O)- unit or -(CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)- unit added to each
+of the hydroxyl groups on both terminals of the compound
+represented by the formula (1-1) can be obtained with
+high efficiency. The reason is considered to be because
+the hydroxyl groups in the compound represented by the
+formula (1-1) and the hydroxyl groups formed by the
+addition (i.e. the hydroxyl groups present as -CH<sub>2</sub>CH<sub>2</sub>OH
+or -CH<sub>2</sub>CH(OH)CH<sub>2</sub>OH) have different properties such as
+acidity, and thus no further addition is likely to occur 
+on the hydroxyl groups formed by the addition.</p><p num="0038">The compound represented by the formula (1) produced
+by the above process is preferably subjected to a
+purification treatment in accordance with the purpose of
+use and used for the aimed application in usual case.</p><p num="0039">The compound represented by the formula (1) provided
+by the present invention is a compound useful for
+application as e.g. a lubricating oil or a surface
+treating agent to impart to the surface of a base
+material functions such as low refractive index
+properties, heat resistance, lubricating properties,
+adhesive properties, antiglare properties, moisture
+resistance, stain resistance, water and oil repellency,
+chemical resistance, abrasion resistance and
+electrostatic resistance.</p><p num="0040">When used for the above application, usually the
+compound represented by the formula (1) is preferably
+used as a solution composition with an organic solvent.
+Namely, the present invention provides a solution
+composition containing the compound represented by the
+formula (1) and an organic solvent. The compound
+represented by the formula (1) contained in the
+composition may be one type or at least two types,
+preferably at least two types. The organic solvent is
+not particularly limited and may be an organic solvent
+capable of forming a dispersion, a suspension, an
+emulsion or a solution of the derivative, and preferably 
+an organic solvent capable of forming a solution from
+reasons as described hereinafter.</p><p num="0041">As the organic solvent, preferably a fluorine-containing
+organic solvent is essentially used.
+Specifically, the fluorine-containing organic solvent
+may, for example, be a fluorine-containing benzene such
+as 1,3-bis(trifluoromethyl)benzene; a perfluoroalkane
+such as perfluoromethyldecalin or
+perfluoromethylcyclohexane (tradename: Fluorinert FC-72,
+etc.); a (poly or per)fluoromonoether such as (poly or
+per)fluorodialkyl ether or alkyl (perfluoroalkyl) ether
+(tradename: Fluorinert FC-75, Fluorinert FC-77, etc.); a
+perfluoropolyether (tradename: Krytox, FOMBLIN, Galden,
+DEMNUM, etc.); a chlorofluorocarbon; a
+hydrochlorofluorocarbon; a hydrofluorocarbon; a
+chlorofluoropolyether; a hydrochlorofluoropolyether; a
+hydrofluoropolyether; or a perfluoroalkylamine such as
+perfluorotrialkylamine (such as perfluoro(t-butyl)amine
+or perfluoro(t-propyl)amine). Further, the organic
+solvent is preferably a fluorine-containing benzene, a
+perfluoroalkane, a perfluoroalkylamine, a
+perfluoropolyether or a perfluoromonoether, particularly
+preferably a perfluoroalkylamine.</p><p num="0042">Further, when the compound represented by the
+formula (1) has -(CH<sub>2</sub>CH<sub>2</sub>O)- units and/or (CH<sub>2</sub>CH(OH)CH<sub>2</sub>O)-
+units, when the number of these units increases, the
+solubility in a solvent, the acidity of the hydroxyl 
+groups at molecular terminals, the viscosity of the
+compound, the boiling point of the compound, etc. change.
+For example, a compound having a large number of these
+units tends to have increased solubility in a non-fluorine
+organic solvent. Accordingly, when a solution
+composition is formed, it is preferred to add a non-fluorine
+solvent to the above fluorine-containing organic
+solvent to adjust the solubility of the compound
+represented by the formula (1). The non-fluorine organic
+solvent may be a hydrocarbon solvent (e.g. an alkane such
+as hexane) or a hydrocarbon ether such as (t-butyl)
+methyl ether.</p><p num="0043">The solution composition containing the compound
+represented by the formula (1) and an organic solvent may
+be used also as a surface treating agent such as a
+coating agent. A treated base material having a coating
+film formed from the solution composition formed on its
+surface may have the above functions imparted to its
+surface.</p><p num="0044">The material of the base material may be an
+inorganic material, an organic material, a combination
+thereof or the like. The inorganic material and the
+organic material may be composed of one type or at least
+two types.</p><p num="0045">The inorganic material may, for example, be a metal,
+a ceramic or glass, and the organic material may, for
+example, be a resin (such as polyamide, polyimide, 
+polyester, polycarbonate, polyvinyl alcohol,
+polyacrylonitrile, polyvinyl chloride, polyethylene or
+polypropylene). The combination of an inorganic material
+and an organic material may be a composite material or a
+laminated material of an inorganic material and an
+organic material.</p><p num="0046">When the solution composition is used as a surface
+treating agent, the concentration of the compound
+represented by the formula (1) in the composition is
+preferably from 0.01 to 50 mass%, particularly preferably
+from 0.01 to 20 mass%.</p><p num="0047">The organic solvent is preferably a solvent which
+dissolves the compound represented by the formula (1)
+well and forms a solution, and specifically, it may be
+perfluoro(t-butyl)amine, perfluoro(t-propyl)amine, 1,3-bis(trifluoromethyl)benzene,
+perfluoromethyldecalin or
+perfluoromethylcyclohexane. When such a solvent is used,
+a uniform coating film without an irregularity in
+thickness can be formed on the surface of the base
+material.</p><p num="0048">The surface treating agent may contain a component
+other than the compound represented by the formula (1)
+and the organic solvent (hereinafter referred to as other
+component). The other component may optionally be
+selected in accordance with the purpose of use of the
+solution composition. For example, a silane, epoxy,
+titanium or aluminum coupling agent may be blended so as 
+to improve the adhesive properties between the base
+material and the compound represented by the formula (1).
+Further, when it is used as a lubricant, a radical
+scavenger (X-1p, tradename, manufactured by Dow
+Chemicals) may be contained as the other component.</p><p num="0049">When it is used as a surface treating agent,
+treatment is carried out preferably by coating the
+solution composition on the surface of the base material
+by various methods, followed by drying. Further, another
+surface treating agent may be preliminarily applied to
+the surface of the base material, or a physical treatment
+may be applied. The treatment method is preferably a
+coating method, and it may, for example, be roll coating,
+cast coating, dip coating, spin coating, water cast
+coating, die coating or Langmuir Blodgett. When the
+treatment is carried out by coating, physical properties
+(such as boiling point and viscosity) of the organic
+solvent in the solution composition are preferably
+selected optionally considering easiness of treatment and
+easiness of drying. For example, when dip coating is
+employed, the organic solvent is preferably perfluoro(t-propyl)amine
+or perfluoro(t-butyl)amine.</p><p num="0050">On the surface of the base material on which the
+surface treating agent is applied by the above method and
+dried, a coating film obtained by drying the surface
+treating agent is formed. When the surface treating
+agent prepared to have the above preferred concentration 
+is coated, the thickness of the coating film is at a
+level of from 0.001 to 50 µm in usual case. The
+thickness of the coating film is optionally changed in
+accordance with the purpose of use.</p><p num="0051">The present invention further provides a treated
+base material having such a coating film formed on its
+surface. The treated base material may be used for
+various applications. Further, a thin film obtained by
+peeling the coating film from the treated base material may
+be used for various applications.</p><p num="0052">The solution composition provided by the present
+invention may be used for the following applications to
+provide a useful treated base material or thin film. It
+may, for example, be a lubricant such as a lubricating
+film for a hard disk recording medium; an adhesive such
+as an adhesive for a semiconductor device (an adhesive
+for lead on chip (LOC) tape, an adhesive for a die
+bonding or an adhesive for fixation of a pellicle
+membrane); an optical material such as a coating agent
+for an optical waveguide material, for a lens material or
+for an antireflection film for a display, or a
+composition for formation of a pellicle membrane (e.g.
+for KrF or for ArF) or formation of an antireflection
+film for a resist; or an electrical and electric material
+such as an ink repellency agent (e.g. for coating or for
+a printing device such as an ink jet printer), a
+composition for a wire coating material, a composition 
+for formation of a protective film for a semiconductor
+(such as a buffer coating film, a passivation film, a
+semiconductor device α-ray shielding film or a
+moistureproof coating agent), or a composition for
+formation of an interlayer insulating film (e.g. for a
+semiconductor device, for a liquid crystal display or for
+a multilayer wiring board).</p><p num="0053">When the solution composition containing the
+compound represented by the formula (1) and an organic
+solvent is used as the surface treating agent, an effect
+of imparting a function stable for a long term to a base
+material will be obtained.</p><heading>EXAMPLES</heading><p num="0054">Now, the present invention will be explained in
+detail. However, the present invention is by no means
+restricted thereto. In the following, tetramethylsilane
+will be referred to as TMS, CCl<sub>2</sub>FCClF<sub>2</sub> will be referred
+to as R-113, CClF<sub>2</sub>CF<sub>2</sub>CCl<sub>2</sub>F will be referred to as R-215ca,
+dichloropentafluoropropane will be referred to as R-225,
+CClF<sub>2</sub>CF<sub>2</sub>CFHCl will be referred to as R-225cb, and
+CClF<sub>2</sub>CF<sub>2</sub>CCl<sub>2</sub>CF<sub>2</sub>CF<sub>3</sub> will be referred to as R-419.</p><p num="0055">Further, the average molecular weight is represented
+by the number average molecular weight (Mn) or the mass
+average molecular weight (Mw), and measured by gel
+permeation chromatography (hereinafter referred to as
+GPC). The measuring method by GPC was in accordance with
+a method as disclosed in JP-A-2001-208736. Specifically, 
+ASAHIKLIN AK-225SEC grade 1 (tradename, manufactured by
+Asahi Glass Company, Limited) was used as a mobile phase,
+and two PL gel MIXED-E columns (tradename, manufactured
+by Polymer Laboratories Ltd.) were connected in series to
+obtain a column for analysis. As standard samples for
+molecular weight measurement, four perfluoropolyethers
+having a molecular weight distribution represented by
+Mw/Mn of less than 1.1 and having molecular weights of
+from 2,000 to 10,000 and one perfluoropolyether having a
+molecular weight distribution of at least 1.1 and having
+a molecular weight of 1,300 were used. The mobile phase
+flow rate was 1.0 mL, the column temperature was 37°C,
+and as a detector, a differential refractometer or an
+evaporative light scattering detector was used.</p><heading>EXAMPLE 1</heading><p num="0056">Example for production of
+CF<sub>3</sub>CF<sub>2</sub>CF<sub>2</sub>OCF(CF<sub>3</sub>)CF<sub>2</sub>OCF(CF<sub>3</sub>)C(O)OCH<sub>2</sub>CH<sub>2</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub>p</sub>CH<sub>2</sub>CH<sub>2</sub>OCOCF
+(CF<sub>3</sub>)OCF<sub>2</sub>CF(CF<sub>3</sub>)OCF<sub>2</sub>CF<sub>2</sub>CF<sub>3</sub> (the average of p: 20.4)</p><p num="0057">Commercially available polyethylene glycol (10 g)
+(HOCH<sub>2</sub>CH<sub>2</sub>O(CH<sub>2</sub>CH<sub>2</sub>O)<sub>p</sub>CH<sub>2</sub>CH<sub>2</sub>OH (the average of p: 20.4), R-225
+(20 g), NaF (1.2 g) and pyridine (1.6 g) were put in
+a flask and vigorously stirred while keeping the internal
+temperature at 25°C, and a nitrogen gas was bubbled.
+FCOCF(CF<sub>3</sub>)OCF<sub>2</sub>CF(CF<sub>3</sub>)OCF<sub>2</sub>CF<sub>2</sub>CF<sub>3</sub> (15 g) was dropwise added
+thereto over a period of 1.0 hour while keeping the
+internal temperature at 25°C or higher. After completion
+of the dropwise addition, stirring was carried out at 
+50°C for 12 hours and then at room temperature for 24
+hours, and a crude liquid was recovered. The crude
+liquid was subjected to filtration under reduced
+pressure, and then the recovered liquid was dried by a
+vacuum dryer (100°C, 666.5 Pa) for 12 hours. The crude
+liquid thus obtained was dissolved in R-225 (100 mL) and
+washed with a saturated baking soda solution (1,000 mL)
+three times, and the organic phase was recovered. Then,
+magnesium sulfate (1.0 g) was added to the recovered
+organic phase, followed by stirring for 12 hours. Then,
+filtration under pressure was carried out to remove
+magnesium sulfate, and R-225 was distilled off by an
+evaporator to obtain a polymer (18.5 g) which was liquid
+at room temperature. As a result of <sup>1</sup>H-NMR and <sup>19</sup>F-NMR,
+it was confirmed that the obtained polymer was the title
+compound and Mn was 1,960.
+
+   <sup>1</sup>H-NMR (300.4 MHz, solvent: CDCl<sub>3</sub>, standard: TMS) δ
+(ppm): 3.4 to 3.8, 4.5
+
+   <sup>19</sup>F-NMR (282.7 MHz, solvent: CDCl<sub>3</sub>, standard: CFCl<sub>3</sub>) δ
+(ppm): -76.0 to -81.0, -81.0 to -82.0, -82.0 to -82.5,
+-82.5 to -85.0, -128.0 to -129.2, -131.1, -144.7</p><heading>EXAMPLE 2</heading><p num="0058">Example for production of
+CF<sub>3</sub>CF<sub>2</sub>CF<sub>2</sub>OCF(CF<sub>3</sub>)CF<sub>2</sub>OCF(CF<sub>3</sub>)C(O)OCF<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CF<sub>2</sub>OCOCF
+(CF<sub>3</sub>)OCF<sub>2</sub>CF(CF<sub>3</sub>)OCF<sub>2</sub>CF<sub>2</sub>CF<sub>3</sub></p><heading>EXAMPLE 2-1</heading><p num="0059">Production Example employing R-113 as reaction 
+solvent</p><p num="0060">R-113 (312 g) was added to a 500 mL autoclave made
+of hastelloy, stirred and kept at 25°C. At the autoclave
+gas outlet, a condenser kept at 20°C, a NaF pellet packed
+bed and a condenser kept at -20°C were disposed in
+series. A liquid return line which returns the condensed
+liquid to the autoclave was disposed from the condenser
+kept at -20°C. After a nitrogen gas was blown for 1.0
+hour, a fluorine gas diluted to 10% with a nitrogen gas
+(hereinafter referred to as 10% fluorine gas) was blown
+at a flow rate of 19.2 L/h for 1 hour.</p><p num="0061">Then, while blowing the 10% fluorine gas at the same
+flow rate, a solution having the product (3.0 g) obtained
+in Example 1 dissolved in R-113 (150 g) (hereinafter
+referred to as R-113 solution) was injected over a period
+of 5 hours.</p><p num="0062">Then, while blowing the 10% fluorine gas at the same
+flow rate, 6 mL of the R-113 solution was injected, then
+the reaction was continued while blowing the nitrogen gas
+for 1.0 hour.</p><p num="0063">After completion of the reaction, the solvent was
+distilled off by vacuum drying (60°C, 6.0 h) to obtain a
+product (4.85 g) which was liquid at room temperature.
+As a result of analysis of the product, formation of the
+title compound was confirmed. The average molecular
+weight (Mn) as obtained from GPC was 3,650. q in the
+title compound is a value with which Mn measured under 
+conditions of the present Example can be 3,690. Further,
+it was confirmed that the product obtained in Example 2
+was a compound having at lest 99.9 mol% of hydrogen atoms
+in the product obtained in Example 1 substituted by
+fluorine atoms.
+
+   <sup>1</sup>H-NMR (300.4 MHz, solvent: R-113, standard: TMS) δ
+(ppm): 5.9 to 6.4
+
+   <sup>19</sup>F-NMR (282.7 MHz, solvent: R-113, standard: CFCl<sub>3</sub>)
+5 (ppm): -77.5 to -86.0, -89.5, -90.0 to -92.0, -120.0 to
+-139.0, -142.0 to -146.0</p><heading>EXAMPLE 2-2</heading><heading>Production Example employing R-419 as reaction
+solvent</heading><p num="0064">The reaction was carried out in the same manner as
+in Example 2 except that R-419 was used instead of R-113.
+As a result of analysis of the product, formation of the
+same product as the product of Example 2-1 was confirmed.</p><heading>EXAMPLE 3</heading><p num="0065">Example for production of FC(O)CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>COF</p><p num="0066">The interior of a 50 mL round flask in which a
+stirrer chip was charged, was adequately flushed with
+nitrogen. 1,1,3,4-tetrachlorohexafluorobutane (13.4 g),
+KF (0.13 g) and the product (3.7 g) obtained in Example
+2-1 were added to the round flask, vigorously stirred and
+kept at 120°C. At the outlet of the round flask, a
+condenser kept at 20°C and a dry ice/ethanol cooling tube
+were disposed in series to carry out nitrogen sealing. </p><p num="0067">8 Hours later, the internal temperature was
+decreased to room temperature, and then a vacuum pump was
+disposed to the condenser to keep the interior of the
+system under reduced pressure, and the solvent and
+reaction by-products were distilled off. 3 Hours later,
+a product (2.7 g) which was liquid at room temperature
+was obtained.</p><p num="0068">As a result of analysis of the product, it was
+confirmed that at least 99% of the total number of ester
+linkages in the product obtained in Example 2-1 were
+substituted by -COF, and the title compound (wherein q is
+as defined above) was formed.
+
+   <sup>1</sup>H-NMR (300.4 MHz, solvent: R-113, standard: TMS) δ
+(ppm): 5.9 to 6.4
+
+   <sup>19</sup>F-NMR (282.7 MHz, solvent: R-113, standard: CFCl<sub>3</sub>)
+δ (ppm): 12.7, -78.1, -89.5, -90.0 to -92.0, -135.0 to -
+139.0</p><heading>EXAMPLE 4</heading><p num="0069">Example for production of
+CH<sub>3</sub>OC(O)CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>COOCH<sub>3</sub></p><heading>EXAMPLE 4-1</heading><heading>Production Example by esterification</heading><p num="0070">R-113 (1.0 g) was charged in a round flask in which
+the product of Example 3 was put, and vigorously stirred
+while keeping the internal temperature at 25°C. Further,
+methanol (6.0 g) was dropwise added slowly while keeping
+the internal temperature at 25°C or higher. </p><p num="0071">8 Hours later, stirring was terminated, the crude
+liquid was subjected to filtration by a pressure filter,
+and KF was removed. Then, R-113 and excess methanol were
+completely removed by an evaporator to obtain a product
+(2.1 g) which was liquid at room temperature.</p><p num="0072">As a result of analysis, it was confirmed that all
+the -COF groups present in the product obtained in
+Example 3 were converted into methyl ester, and the title
+compound was formed. The product had an average
+molecular weight (Mn) of 2,484.
+
+   <sup>1</sup>H-NMR (300.4 MHz, solvent: R-113, standard: TMS) 5
+(ppm): 3.95, 5.9 to 6.4
+
+   <sup>19</sup>F-NMR (282.7 MHz, solvent: R-113, standard: CFCl<sub>3</sub>)
+δ (ppm): -78.3, -89.5, -90.0 to -92.0, -135.0 to -139.0</p><heading>EXAMPLE 4-2</heading><heading>Production Example by esterification</heading><p num="0073">The interior of a 50 mL round flask in which a
+stirrer chip was charged, was adequately flushed with
+nitrogen. The product (3.6 g) obtained in the same
+method as in Example 2-1 and methanol (7.1 g) were added
+and vigorously stirred while bubbling at room
+temperature. Nitrogen sealing was carried out on the
+round flask outlet.</p><p num="0074">8 Hours later, excess methanol and reaction by-products
+were distilled off while keeping the interior of
+the system under reduced pressure by disposing a vacuum
+pump to the condenser. 3 Hours later, a product (2.4 g) 
+which was liquid at room temperature was obtained.</p><p num="0075">As a result of analysis of the product, it was
+confirmed that 99.8% of the number of the ester linkages
+present in the product obtained in Example 2 were
+converted to methyl ester, and the title compound was
+formed. The product had an average molecular weight (Mn)
+of 2,200.
+
+   <sup>1</sup>H-NMR (300.4 MHz, solvent: R-113, standard: TMS) δ
+(ppm): 3.95, 5.9 to 6.4
+
+   <sup>19</sup>F-NMR (282.7 MHz, solvent: R-113, standard: CFCl<sub>3</sub>)
+δ (ppm): -78.3, -89.5, -90.0 to -92.0, -135.0 to -139.0</p><heading>EXAMPLE 5</heading><p num="0076">Example for production of HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH</p><p num="0077">CH<sub>3</sub>OC(O)CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>COOCH<sub>3</sub> (40.0 g, q is as
+defined above) obtained by the process of Example 4-1, R-225
+(240 mL) and tetrahydrofuran (200 mL) were mixed, and
+a borane/tetrahydrofuran complex (40 mL) was added in a
+stream of nitrogen, followed by stirring at room
+temperature overnight. The solvent was distilled off by
+an evaporator, 2 mol/L hydrochloric acid was added to the
+rest, extraction with R-225 was carried out, and the
+extract was concentrated to obtain a crude product (35.02
+g). The crude product was purified by a silica gel
+column (eluent: R-225/hexafluoroisopropyl alcohol) to
+obtain HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH (15.5 g). It was
+confirmed by <sup>19</sup>FNMR that the compound contained
+substantially no -(CF<sub>2</sub>O)- units. As a result of 
+measurement by GPC, the average molecular weight (Mn) was
+1,241. The NMR spectrum of the product is shown below.
+
+   <sup>1</sup>H-NMR (300.4 MHz, solvent: R-113, standard: TMS) δ
+(ppm): 3.94
+
+   <sup>19</sup>F-NMR (282.65 MHz, solvent: R-113, standard: CFCl<sub>3</sub>)
+δ (ppm): -80.1, -88.2</p><heading>EXAMPLE 6</heading><p num="0078">Example for production of
+HOCH<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>2</sub>OH</p><heading>EXAMPLE 6-1</heading><heading>Production Example by addition of ethylene carbonate</heading><p num="0079">HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH (8.0 g, q is as defined
+above) obtained in Example 5, R-419 (10 mL) obtained in
+Reference Example 2 and ethylene carbonate (1.3 g) were
+put in a round flask (50 mL) and stirred. Then,
+potassium fluoride (0.8 g) was added in an atmosphere of
+nitrogen, a reflux apparatus cooled at 20°C was disposed
+at the upper portion of the flask, the apparatus outlet
+was flushed with nitrogen, and stirring was carried out
+for 36 hours in such a state while heating at 150°C to
+obtain a reaction crude liquid. The liquid was subjected
+to filtration under pressure by means of a filter (pore
+size 0.1 µm, made of PTFE), and the solvent in the
+obtained filtrate was distilled off by an evaporator, to
+obtain a pale yellow compound (8.4 g) which was liquid at
+25°C.</p><p num="0080">As a result of <sup>1</sup>H-NMR and <sup>19</sup>F-NMR analyses of the 
+compound, formation of
+HOCH<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>2</sub>OH was confirmed. The
+product was a mixture of at least two types, and 85% of
+the hydroxyl groups in the material
+(HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH) underwent ethylene carbonate
+addition. Further, it was confirmed by <sup>19</sup>F-NMR that the
+compound contained substantially no -(OCF<sub>2</sub>O)- units. As
+a result of measurement of the compound by GPC, the
+average molecular weight (Mn) was 1,300.
+
+   <sup>1</sup>H-NMR (300.4 MHz, solvent: R-113., standard: TMS) δ
+(ppm): 4.31, 3.9, 3.76
+
+   <sup>19</sup>F-NMR (282.65 MHz, solvent: R-113, standard: CFCl<sub>3</sub>)
+δ (ppm): -77.0, -88.2</p><heading>EXAMPLE 6-2</heading><p num="0081">Example by addition of ethylene oxide</p><p num="0082">HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH (10.0 g, q is as defined
+above) obtained in the same process as in Example 5 and
+t-butanol (8.2 g) were charged in an autoclave (100 ml)
+in an atmosphere of nitrogen and stirred until they were
+uniformly mixed. A reflux tube of 20°C the outlet of
+which was flushed with a nitrogen gas was disposed at the
+autoclave. Then, potassium t-butoxide (0.22 g) was
+charged in the autoclave, and the autoclave was heated at
+70°C, followed by stirring for 30 minutes. Further,
+while keeping the internal temperature at 70°C, ethylene
+oxide (2.1 g) was dropwise added over a period of 2
+hours, followed by stirring for 12 hours. The autoclave 
+was cooled to 25°C and the interior thereof was flushed
+with a nitrogen gas, and then 0.2 g/L hydrochloric acid
+(50 mL) was dropwise added to obtain a liquid which was
+separated into two layers. The organic layer was
+recovered and R-225 (50 mL) was added thereto, and the
+resulting solution was washed with distilled water (500
+mL) twice and dehydrated with magnesium sulfate, and the
+solvent was distilled off by an evaporation to obtain a
+pale yellow compound (10.5 g) which was liquid at 25°C.</p><p num="0083">As a result of <sup>1</sup>H-NMR and <sup>19</sup>F-NMR analyses of the
+compound, formation of
+HOCH<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>2</sub>OH was confirmed. The
+product was a mixture of at least two types, and 95% of
+the hydroxyl groups in the material
+(HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH) underwent ethylene oxide
+addition. Further, it was confirmed by <sup>19</sup>F-NMR that the
+compound contained substantially no -(OCF<sub>2</sub>O)- units. As
+a result of measurement of the compound by GPC, the
+average molecular weight (Mn) was 1,300.
+
+   <sup>1</sup>H-NMR (300.4 MHz, solvent: R-113, standard: TMS) δ
+(ppm): 4.31, 3.9, 3.76
+
+   <sup>19</sup>F-NMR (282.65 MHz, solvent: R-113, standard: CFCl<sub>3</sub>)
+5 (ppm): -77.0, -88.2</p><heading>EXAMPLE 7</heading><p num="0084">Example for production of
+HOCH<sub>2</sub>CH(OH)CH<sub>2</sub>OCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CH(OH)CH<sub>2</sub>OH</p><p num="0085">HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH (10 g, q is as defined 
+above) obtained in the same process as in Example 5 and
+2-methyl-2-propanol (5.0 g) were charged in a round flask
+(250 mL) in an atmosphere of nitrogen and stirred until
+they were uniformly mixed. A reflux tube of 20°C the
+outlet of which was flushed with a nitrogen gas was
+disposed at the outlet of the round flask. Then,
+potassium t-butoxide (0.22 g) was charged in the
+autoclave, and the autoclave was heated at 70°C, followed
+by stirring for 30 minutes. Then, while keeping the
+internal temperature at 70°C, 2,3-epoxy-1-propanol (1.62
+g) was dropwise added over a period of 2 hours, followed
+by stirring for 12 hours. The round flask was cooled to
+25°C and the interior thereof was flushed with a nitrogen
+gas, and then 0.2 g/L hydrochloric acid (50 mL) was
+dropwise added to obtain a liquid which was separated
+into two layers. The organic layer of the liquid was
+recovered and R-225 (50 mL) was added thereto, and the
+resulting solution was washed with distilled water (500
+mL) twice and dehydrated with magnesium sulfate, and the
+solvent was distilled off by an evaporator to obtain a
+pale yellow compound (9.7 g) which was liquid at 25°C.</p><p num="0086">As a result of <sup>1</sup>H-NMR and <sup>19</sup>F-NMR analyses of the
+compound, formation of
+HOCH<sub>2</sub>CH(OH)CH<sub>2</sub>OCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CH(OH)CH<sub>2</sub>OH was
+confirmed. The product was a mixture of at least two
+types, and 90% of the hydroxyl groups in the material
+(HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH) underwent addition of 2,3-epoxy-1-propanol. 
+Further, it was confirmed by <sup>19</sup>F-NMR
+that the compound contained substantially no -(OCF<sub>2</sub>O)-units.
+As a result of measurement of the compound by
+GPC, the average molecular weight (Mn) was 1,350.
+
+   <sup>1</sup>H-NMR (300.4 MHz, solvent: R-113, standard: TMS) δ
+(ppm): 3.45, 3.67, 4.67
+
+   <sup>19</sup>F-NMR (282.65 MHz, solvent: R-113, standard: CFCl<sub>3</sub>)
+δ (ppm): -77.1, -88.2</p><heading>EXAMPLE 8</heading><p num="0087">Example of coating of HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH</p><p num="0088">HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH (1 g) obtained in Example 5
+and perfluoro(t-butyl)amine (99 g, IL-263, manufactured
+by TOKUYAMA Corp.) were charged in a glass flask and
+stirred for 2 hours to obtain a colorless and transparent
+uniform solution. The solution was spin-coated on the
+surface of an aluminum plate at a spin rate of 700 rpm
+for 20 seconds, followed by heat treatment at 80°C for 1
+hour. A transparent film with a thickness of 0.05 µm was
+formed on the surface of the aluminum plate. The
+coefficient of friction on the aluminum plate surface
+remarkably decreased.</p><heading>EXAMPLE 9</heading><p num="0089">Test Example for stability of
+HOCH<sub>2</sub>CF<sub>2</sub>O(CF<sub>2</sub>CF<sub>2</sub>O)<sub>q</sub>CF<sub>2</sub>CH<sub>2</sub>OH</p><p num="0090">The mass reduction of the title compound (25 mg, q
+is as defined above) when heated from 25°C to 500°C at a
+rate of 10°C/min in an atmosphere of nitrogen (100 
+mL/min), was measured on a differential thermal balance.
+The mass reduction profile was constant, and excellent
+stability was exhibited.</p><p num="0091">Further, the stability test of the title compound
+(25 mg) when γ-alumina fine powder (0.5 g, N-611N,
+manufactured by Nikki Chemical Co., Ltd) was present was
+carried out. The mass reduction profile was constant,
+and excellent stability was exhibited.</p><p num="0092">As a Comparative Example, using known
+perfluoropolyether (FOMBLIN Z DiOL4000 manufactured by
+Ausimont), the stability test was carried out by the same
+method and as a result, the whole of the ether momentally
+decomposed at 250°C when γ-alumina was present, was
+converted into low molecular weight compounds and
+vaporized.</p><heading>EXAMPLE 10</heading><p num="0093">Example for production of R-215ca (Reference Example
+1)</p><p num="0094">An U-form reaction tube (inner diameter 2.54 cm,
+length 600 cm, made of inconel 600) filled with an
+activated carbon catalyst (250 mL, ash content 1.2 mass%,
+Shirasagi C2X manufactured by Takeda Pharmaceutical
+Company, Limited) was immersed in an oil bath, and the
+oil bath was kept at 200°C. A water trap was disposed at
+the outlet of the reaction tube. A nitrogen gas at 100
+mL/min and a chlorine gas at 600 mL/min were supplied to
+the reaction tube for 6 hours to remove unnecessary 
+functional groups in the activated carbon. Then, the oil
+bath was heated to 250°C, and gasified R-225cb at 240
+mL/min and a chlorine gas at 360 mL/min were supplied to
+the reaction tube to carry out catalyst reaction, to
+obtain a reaction gas which passed through the water trap
+and of which the acid contents were thereby removed. The
+composition of the gas was analyzed by FID gas
+chromatography and as a result, formation of 99.9 mol% of
+R-215ca was confirmed. The degree of conversion of R-225cb
+was 97%.</p><heading>EXAMPLE 11</heading><p num="0095">Example for production of R-419 (Reference Example
+2)</p><p num="0096">An U-form reaction tube (inner diameter 2.54 cm,
+length 600 cm, made of inconel 600) filled with an
+activated carbon catalyst (250 mL, ash content 1.2 mass%,
+Shirasagi C2X manufactured by Takeda Pharmaceutical
+Company, Limited) was immersed in an oil bath, and the
+oil bath was kept at 200°C. In order to remove the acid
+content and excess chlorine, an alkaline water trap in
+which KOH was dissolved and a glass trap cooled at -78°C
+were disposed to the reaction tube. A nitrogen gas at
+100 mL/min and a chlorine gas at 600 mL/min were supplied
+to the reaction tube for 6 hours to remove unnecessary
+functional groups in the activated carbon.</p><p num="0097">Then, the oil bath was heated to 250°C, and R-225cb
+at 120 g/h and a chlorine gas at 360 mL/min were supplied 
+to the reaction tube for 20 hours to carry out catalyst
+reaction and as a result, a liquid which was separated
+into two layers of an aqueous layer and an organic layer
+was collected in the water trap, and a liquid comprising
+an organic layer was collected in the glass trap.</p><p num="0098">The organic layer in the water trap and the organic
+layer in the glass trap were recovered and put together
+to obtain a reaction crude liquid (2,660 g). The
+reaction crude liquid was analyzed by FID gas
+chromatography and as a result, formation of 90 mol% of
+R-215ca was confirmed. The degree of conversion of R-225cb
+was 97%. The reaction crude liquid was purified by
+distillation to obtain R-215ca (2,530 g).</p><p num="0099">Then, AlCl<sub>3</sub> (20 g) was added to an autoclave
+(internal volume 2L, made of hastelloy C), followed by
+deaeration, and then R-215ca (2,500 g) was added, and the
+autoclave was heated at 65°C. While keeping the
+temperature at 65°C and the pressure under 0.8 MPa (gauge
+pressure), tetrafluoroethylene (hereinafter referred to
+as TFE) was continuously supplied to carry out the
+reaction. 870 g (8.7 mol) of TFE was added and then the
+supply was terminated, and stirring was further continued
+for 1 hour and then the reaction was completed. After
+the reaction liquid was cooled to 25°C, the catalyst was
+separated by filtration from the reaction liquid to
+obtain a reaction crude liquid (3,250 g). The
+composition of the reaction crude liquid was analyzed by 
+FID gas chromatography and <sup>19</sup>F-NMR and as a result, it
+was confirmed that the rate of reaction of R-215ca was
+90%, and the selectivity of R-419 was 53%. The reaction
+crude liquid was distilled and as a result, 99.9 mol% R-419
+(1,300 g) was obtained.
+<sup>   19</sup>F-NMR (282.65 MHz, solvent: R-113, standard: CFCl<sub>3</sub>)
+δ (ppm): -61.6, -76.1, -105.4, -112.3</p><heading>INDUSTRIAL APPLICABILITY</heading><p num="0100">A perfluoropolyether derivative provided by the
+present invention is a compound useful as a lubricating
+oil or a coating material. For example, it is useful as
+a lubricant for magnetic disks. Further, it is useful as
+a surface treating agent, and it imparts to the surface
+of a base material functions such as low refractive index
+properties, heat resistance, lubricating properties,
+adhesive properties, antiglare properties, moisture
+resistance, stain resistance, water and oil repellency,
+chemical resistance, abrasion resistance and
+electrostatic resistance. Further, the present invention
+provides a thin film having such properties.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A compound represented by the following formula (1):
+HO-(CH2CH2O)r·(CH2CH(OH)CH2O)p-CH2CF2O(CF2CF2O)mCF2CH2O-
+-(CH2CH(OH)CH2O)q·(CH2CH2O)s-H
+wherein m represents the number of -(CF2CF2O)- units and
+is an integer of from 3 to 200, each of r and s which are
+independent of each other, represents the number of
+-(CH2CH2O)- units and is an integer of from 0 to 100, and
+each of p and q which are independent of each other,
+represents the number of -(CH2CH(OH)CH2O)- units and is
+an integer of from 0 to 100, provided that when each of r
+and p which are independent of each other, is an integer
+of at least 1, or when each of q and s which are
+independent of each other, is an integer of at least 1,
+the arrangement of -(CH2CH2O)- and -(CH2CH(OH)CH2O)- units
+is not particularly limited, and when one of r and p is
+an integer of at least 2 and the other is an integer of
+at least 1, or when one of q and s is an integer of at
+least 2 and the other is an integer of at least 1,
+-(CH2CH2O)- and -(CH2CH(OH)CH2O)- units may be arranged in
+a block form or at random.</claim-text></claim><claim num="2"><claim-text>The compound according to Claim 1, wherein each of r
+and s which are independent of each other, is an integer
+of from 1 to 100, or each of p and q which are
+independent of each other, is an integer of from 1 to
+100.</claim-text></claim><claim num="3"><claim-text>The compound according to Claim 1 or 2, wherein r
+and s are 1 and p and q are 0, or p and q are 1 and r and
+s are 0.</claim-text></claim><claim num="4"><claim-text>The compound according to Claim 1, which is a
+compound represented by the following formula (1-1):
+HOCH2CF2O(CF2CF2O)mCF2CH2OH
+wherein m represents the number of -(CF2CF2O)- units and
+is an integer of from 3 to 200.</claim-text></claim><claim num="5"><claim-text>The compound according to any one of Claims 1 to 4,
+wherein m is an integer of from 3 to 100.</claim-text></claim><claim num="6"><claim-text>A perfluoropolyether derivative composition
+comprising at least two types of compounds represented by
+the following formula (1):
+HO-(CH2CH2O)r·(CH2CH(OH)CH2O)p-CH2CF2O(CF2CF2O)mCF2CH2O-
+-(CH2CH(OH)CH2O)q·(CH2CH2O)s-H
+wherein m represents the number of -(CF2CF2O)- units and
+is an integer of from 3 to 200, each of r and s which are
+independent of each other, represents the number of
+-(CH2CH2O)- units and is an integer of from 0 to 100, and
+each of p and q which are independent of each other,
+represents the number of -(CH2CH(OH)CH2O)- units and is
+an integer of from 0 to 100, provided that when each of r
+and p which are independent of each other, is an integer
+of at least 1, or when each of q and s which are
+independent of each other, is an integer of at least 1,
+the arrangement of -(CH2CH2O)- and -(CH2CH(OH)CH2O)- units
+is not particularly limited, and when one of r and p is
+an integer of at least 2 and the other is an integer of
+at least 1, or when one of q and s is an integer of at
+least 2 and the other is an integer of at least 1, the
+-(CH2CH2O)- and -(CH2CH(OH)CH2O)- units may be arranged in
+a block form or at random.</claim-text></claim><claim num="7"><claim-text>The perfluoropolyether derivative composition
+according to Claim 6, wherein the at least two types of
+the compounds represented by the formula (1) are at least
+two types of compounds represented by the following
+formula (1-1):
+HOCH2CF2O(CF2CF2O)mCF2CH2OH
+wherein m represents the number of -(CF2CF2O)- units and
+is an integer of from 3 to 200.</claim-text></claim><claim num="8"><claim-text>The perfluoropolyether derivative composition
+according to Claim 6 or 7, wherein m is an integer of
+from 3 to 100.</claim-text></claim><claim num="9"><claim-text>A solution composition containing a compound
+represented by the following formula (1) and an organic
+solvent:
+HO-(CH2CH2O)r·(CH2CH(OH)CH2O)p-CH2CF2O(CF2CF2O)mCF2CH2O-
+-(CH2CH(OH)CH2O)q·(CH2CH2O)s-H
+wherein m represents the number of -(CF2CF2O)- units and
+is an integer of from 3 to 200, each of r and s which are
+independent of each other, represents the number of
+-(CH2CH2O)- units and is an integer of from 0 to 100, and
+each of p and q which are independent of each other,
+represents the number of -(CH2CH(OH)CH2O)- units and is
+an integer of from 0 to 100, provided that when each of r
+and p which are independent of each other, is an integer
+of at least 1, or when each of q and s which are
+independent of each other, is an integer of at least 1,
+the arrangement of -(CH2CH2O)- and -(CH2CH(OH)CH2O)- units
+is not particularly limited, and when one of r and p is
+an integer of at least 2 and the other is an integer of
+at least 1, or when one of q and s is an integer of at
+least 2 and the other is an integer of at least 1,
+-(CH2CH2O)- and -(CH2CH(OH)CH2O)- units may be arranged in
+a block form or at random.</claim-text></claim><claim num="10"><claim-text>The solution composition according to Claim 9,
+wherein the concentration of the compound represented by
+the formula (1) in the solution composition is from 0.01
+to 50 mass%.</claim-text></claim><claim num="11"><claim-text>The solution composition according to Claim 9 or 10,
+wherein a fluorine-containing organic solvent is
+essential as the organic solvent.</claim-text></claim><claim num="12"><claim-text>A surface treating agent comprising the solution
+composition as defined in any one of Claims 9 to 11.</claim-text></claim><claim num="13"><claim-text>A treated base material obtained by coating the
+surface treating agent as defined in Claim 12 on the
+surface of a base material, followed by drying.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

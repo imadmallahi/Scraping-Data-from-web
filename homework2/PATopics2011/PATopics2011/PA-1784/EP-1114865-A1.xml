@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1114865-A1" country="EP" doc-number="1114865" kind="A1" lang="EN" family-id="25445824" status="new" date-produced="20090516" date="20010711"><bibliographic-data><publication-reference ucid="EP-1114865-A1" status="new" fvid="23164028"><document-id status="new" format="original"><country>EP</country><doc-number>1114865</doc-number><kind>A1</kind><date>20010711</date></document-id></publication-reference><application-reference ucid="EP-01107746-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01107746</doc-number><kind>A</kind><date>19871007</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-87906915-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>87906915</doc-number><kind>A</kind><date>19871007</date></document-id></priority-claim><priority-claim ucid="EP-93112644-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>93112644</doc-number><kind>A</kind><date>19871007</date></document-id></priority-claim><priority-claim ucid="US-92168486-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>92168486</doc-number><kind>A</kind><date>19861022</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">A61K  38/00        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  38/00        20060101C N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07K  14/435       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07K  14/575       20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07K  14/635       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N   1/19        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   1/19        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   1/21        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N   1/21        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N  15/00        20060101A I20051110RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/00        20060101C I20051110RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/09        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N  15/09        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12N  15/16        20060101A I20060521RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/16        20060101C I20060521RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/64        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/64        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/66        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/66        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/67        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/67        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/70        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/70        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/81        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/81        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12P  21/02        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12P  21/02        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12R   1/19        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">C12R   1/865       20060101ALN20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C07K  14/635</classification-symbol><classification-symbol scheme="EC">C12N  15/64</classification-symbol><classification-symbol scheme="EC">C12N  15/66</classification-symbol><classification-symbol scheme="EC">C12N  15/67</classification-symbol><classification-symbol scheme="EC">C12N  15/70</classification-symbol><classification-symbol scheme="EC">C12N  15/81</classification-symbol><classification-symbol scheme="ICO">K61K38:00</classification-symbol><classification-symbol scheme="ICO">M07K207:00</classification-symbol><classification-symbol scheme="ICO">M07K319:00</classification-symbol><classification-symbol scheme="ICO">M07K319:02</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Herstellung von humanem Parathormon</invention-title><invention-title load-source="ep" status="new" lang="EN">Production of human parathyroid hormone</invention-title><invention-title load-source="ep" status="new" lang="FR">Production d'une hormone humaine de parathyroide</invention-title><citations><patent-citations><patcit ucid="US-4546082-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4546082</doc-number><kind>A</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1984001173-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1984001173</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>CHEMICAL ABSTRACTS, vol. 102, no. 7, 18 February 1985 (1985-02-18) Columbus, Ohio, US; abstract no. 56590j, H.M. KRONENBERG ET AL.: "Studies of parathyroid hormone secretion using recombinant DNA technology" page 109; column l; XP002167179 &amp; INT. CONGR. SER.- EXERPTA MED. 619 (ENDOCR. CONTROL BONE CALCIUM METAB.), vol. 8A, 1994, pages 217-220,</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>E. BREYEL ET AL.: "Synthesis of mature human parathyroid hormone in Escherichia coli" EUROPEAN CONGRESS OF BIOTECHNOLOGY, vol. 3, 1984, pages III363-III369, XP002167175 Verlag Chemie GmbH,Weinheim; FRG</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>G.N. HENDY ET AL.: "Nucleotide sequence of cloned cDNAs encoding human preproparathyroid hormone" PROC. NATL. ACAD. SCI., vol. 78, no. 12, December 1981 (1981-12), pages 7365-7369, XP001002007 NATL. ACAD. SCI.,WASHINGTON,DC,US;</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>SUNG W L ET AL: "HYBRID GENE SYNTHESIS ITS APPLICATION TO THE ASSEMBLY OF DNA SEQUENCES ENCODING THE HUMAN PARATHYROID HORMONES AND ANALOGUES" CANADIAN JOURNAL OF BIOCHEMISTRY AND CELL BIOLOGY, vol. 64, no. 2, 1986, pages 133-138, XP001002005 ISSN: 0714-7511</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>VASICEK T J ET AL: "NUCLEOTIDE SEQUENCE OF THE HUMAN PARATHYROID HORMONE GENE" PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES, vol. 80, no. 8, 1983, pages 2127-2131, XP002167177 1983 ISSN: 0027-8424</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>W. BORN ET AL.: "Expression and processing of human preproparathyroid hormone in Escherichia coli" EXPERIENTIA, vol. 39, 1983, page 659 XP002167176 BIRKH[USER VERLAG, BASEL, CH</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><related-documents status="new"><relation type="division"><child-doc ucid="EP-01107746-A"><document-id status="new" format="original"><country>EP</country><doc-number>01107746</doc-number><kind>A</kind><date>19871007</date></document-id></child-doc><parent-doc ucid="EP-93112644-A" psta="unknown"><document-id status="new" format="original"><country>EP</country><doc-number>93112644</doc-number><kind>A</kind><date>19930806</date></document-id></parent-doc></relation></related-documents><parties><applicants><applicant status="new"  format="epo"><addressbook><name>ALLELIX BIOPHARMA</name><address><country>CA</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ALLELIX BIOPHARMACEUTICALS INC.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Allelix Biopharmaceuticals Inc.</last-name><address><street>6850 Goreway Drive</street><city>Mississauga, Ontario, L4V 1V7</city><country>CA</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>ALESTROM PETER DR</name><address><country>NO</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>GAUTVIK KAARE M DR</name><address><country>NO</country></address></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>ALESTROM, PETER DR.</name></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>GAUTVIK, KAARE M., DR.</name></addressbook></inventor><inventor status="new"  format="original"><addressbook><last-name>ALESTROM, PETER DR.</last-name><address><street>Bregnevn-21A</street><city>0875 Oslo</city><country>NO</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GAUTVIK, KAARE M., DR.</last-name><address><street>Bregnev-3</street> <city>0875 Oslo</city><country>NO</country></address></addressbook></inventor> </inventors> <agents><agent status="new" format="original"><addressbook><last-name>Dost, Wolfgang, Dr. rer.nat., Dipl.-Chem.</last-name> <address><street>Bardehle, Pagenberg &amp;amp; Partner, Galileiplatz 1</street><city>81679 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>BE</country><country>CH</country><country>DE</country><country>FR</country><country>GB</country><country>IT</country><country>LI</country><country>LU</country><country>NL</country><country>SE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The invention provides recombinant plasmids
+containing in DNA sequences coding for human
+preproparathyroid hormone. The invention further
+provides microorganisms, for example E. coli,
+transformed by these plasmids. Finally, the invention
+also provides a plasmid for insertion into yeast and a
+transformed yeast in which the plasmid contains DNA
+coding for parathyroid hormone. Parathyroid
+hormone is then secreted by the transformed yeast.
+<img id="img-00000001" orientation="unknown" wi="100" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="92"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">FIELD</u><u style="single">OF</u><u style="single">THE</u><u style="single">INVENTION</u></heading><p num="0001">This invention relates to genetically engineered
+microorganisms containing DNA coding for human
+preproparathyroid hormone.</p><heading><u style="single">BACKGROUND</u><u style="single">OF</u><u style="single">THE</u><u style="single">INVENTION</u></heading><p num="0002">A number of proteins and peptides that are normally
+synthesized by mammalian cells have proven to have
+medical, agricultural and industrial utility. These
+proteins and peptides may be of different molecular size
+and have a number of different functions, for example,
+they may be enzymes, structural proteins, growth factors
+and hormones. In essence both proteins and peptides are
+composed of linear sequences of amino acids which form
+secondary and tertiary structures that are necessary to
+convey the biological activity. Human parathyroid
+hormone has a relatively small molecular weight, which
+has made it possible to synthesize the peptide chemically
+by the sequential addition of amino acids. Thus,
+parathyroid hormone is commercially available, but in
+very small quantities at high cost. As a result, there
+is no human parathyroid hormone available at a reasonable
+price to supply the many potential medical, agricultural
+and industrial applications.</p><p num="0003">During the past ten years, microbiological
+techniques employing recombinant DNA have made it
+possible to use microorganisms for the production of
+species-different peptides. The microorganism is capable
+of rapid and abundant growth and can be made to 
+synthesize the foreign product in the same manner as
+bacterial peptides. The utility and potential of this
+molecular biological approach has already been proven by
+microbiological production of a number of human proteins
+that are now available for medical and other uses.</p><p num="0004">Parathyroid hormone (PTH) is one of the most
+important regulators of calcium metabolism in mammals and
+is also related to several diseases in humans and
+animals, e.g. milk fever, acute hypocalsemia and
+otherwise pathologically altered blood calcium levels.
+This hormone therefore will be important as a part of
+diagnostic kits and will also have potential as a
+therapeutic in human and veterinary medicine.</p><p num="0005">The first synthesis of DNA for human
+prepropacathyroid hormone was described by Hendy, G.N.,
+Kronenberg, H.M., Potts, Jr. J.T. and Rich, A., 78 Proc.
+Natl. Acad. Sci. 7365-7369 (1981). DNA complementary in
+sequence to PTH mRNA was synthesized and made double
+stranded (Hendy et al., <u style="single">supra</u>). This cDNA was cloned in
+pBR 322 DNA and E. coli 1776 was transfected. Of the
+colonies with correct antibiotic resistance, 23 out of
+200 clones were identified as containing specific human
+PTH cDNA inserts. However, none of the 23 human PTH
+clones contained the full length insert (Hendy et al.,
+<u style="single">supra</u>). Later Breyel, E.; Morelle, G., Auf'mkolk, B.,
+Frank, R., Blocker, H. and Mayer, H., <u style="single">Third European
+Congress on</u><u style="single">Biotechnology,</u> 10-14 September 1984, Vol. B,
+363-369, described the presence of the human PTH gene in
+a fetal liver genomic DNA library constructed in the
+phage Charon 4A. A restriction enzyme fragment of the
+PTH gene was recloned and transfected into E. coli.</p><p num="0006">However, the work of Breyel et al., <u style="single">supra,</u>
+demonstrated that E. coli degrades human PTH. Thus, a
+microorganism which shows a stable production of intact
+human parathyroid hormone has so far not been described.
+Further, parathyroid hormone has never before been
+isolated from yeast. </p><heading><u style="single">SUMMARY</u><u style="single">OF</u><u style="single">THE</u><u style="single">INVENTION</u></heading><p num="0007">Accordingly, it is an object of the present
+invention to provide a plasmid containing DNA coding
+for human preproparathyroid hormone (HPTH) for
+insertion in Escherichia coli. It is another object
+of the present invention to provide a genetically
+engineered E. coli containing DNA coding for human
+preproparathyroid hormone.</p><p num="0008">A further object of the present invention is to
+provide a plasmid for insertion in yeast containing
+DNA coding for parathyroid hormone. It is also an
+object of the present invention to provide a
+transformed yeast containing DNA coding for
+parathyroid hormone, including human parathyroid
+hormone, and from which transformed yeast, parathyroid
+hormone may be obtained.</p><p num="0009">Other objects and advantages of the present
+invention will become apparent as the description
+thereof proceeds.</p><p num="0010">In satisfaction of the foregoing objects and
+advantages, there is provided by the present invention
+a novel plasmid for insertion in E. coli, containing
+DNA coding for human preproparathyroid hormone. The
+plasmid, when inserted into E. coli, functions to
+transform the E. coli such that the E. coli then
+produces multiple copies of the plasmid, and thus of
+the cDNA coding for human preproparathyroid hormone.
+The plasmid for insertion into E. coli of the present
+invention and thus the transformed E. coli are
+distinguishable over prior art plasmids and
+microorganisms, for example as described in Hendy et
+al., <u style="single">supra,</u> in that the plasmid of the present
+invention contains a double start codon at the 5' end
+of the DNA coding for preproparathyroid hormone. The
+presence of the double start codon may cause a
+production microorganism transformed with a plasmid 
+containing this cDNA to produce preproparathyroid
+hormone at an increased rate and in an improved yield
+over prior art transformed microorganisms.</p><p num="0011">There is further provided by the present
+invention a plasmid for insertion in yeast containing
+DNA coding for parathyroid hormone. In a preferred
+embodiment, this plasmid is prepared by recloning the
+plasmid for insertion in E. coli described above.
+Finally, the invention provides a yeast transformed by
+said plasmid for insertion in yeast such that the
+yeast produces and secretes parathyroid hormone.
+Thus, the invention provides a method by which
+parathyroid hormone may be isolated from yeast culture
+medium. In a preferred embodiment, the transformed
+yeast is Saccharomyces cerevisiae. In another
+preferred embodiment, the parathyroid hormone is human
+parathyroid hormone.</p><p num="0012">Samples of pSSHPTH-10, E. coli transformed
+therewith, pSSαLX5-HPTH1 and Saccharomyces cerevisiae
+transformed therewith were deposited in the American
+Type Culture Collection in Rockville, Maryland on
+September 29, 1986, under the provisions of the
+Budapest Treaty. The samples have been accorded the
+following deposit numbers:
+<sl><li>Transformed E. coli containing pSSHPTH-10: ATCC
+67223.</li><li>pSSHPTH-10: ATCC 40267.</li><li>Transformed S. cerevisiae containing</li><li>pSSαLXS-HPTH1: ATCC 20821.</li></sl></p><p num="0013">Figure 1 shows the composition of the recombinant
+plasmid pSSHPTH-10.</p><p num="0014">Figure 2 shows a map of pALX4.</p><p num="0015">Figure 3 shows the construction of pαLX5 from pL4
+and pMFα1-1.</p><p num="0016">Figure 4 shows the construction and schematic
+drawing of pSSαLX5-HPTH1.</p><p num="0017">Figure 5 shows an electrophoresis plate showing
+the human parathyroid hormone produced and secreted by
+yeast and recovered from the yeast culture medium.</p><heading><u style="single">DETAILED</u><u style="single">DESCRIPTION</u><u style="single">OF</u><u style="single">THE</u><u style="single">PREFERRED</u><u style="single">EMBODIMENTS</u></heading><p num="0018">As indicated above, the present invention is
+directed to a plasmid for insertion in E. coli
+containing DNA coding for human preproparathyroid 
+hormone. The invention is also directed to the
+resulting transformed E. coli.</p><p num="0019">The invention further is directed to a plasmid
+for insertion into yeast which contains DNA coding for
+parathyroid hormone and which is derived from the
+plasmid for insertion into E. coli. Finally, the
+invention is directed to a transformed yeast from
+which parathyroid hormone may be recovered.</p><p num="0020">The invention further provides methods of
+producing and isolating the plasmids and transformed
+microorganisms. Poly(A) selected RNA was isolated
+from human parathyroid adenomas collected immediately
+after surgery. The poly(A) RNA was enriched for
+correct size mRNA by ultracentrifugation through
+sucrose gradients. Preproparathyroid hormone of
+correct molecular weight was translated <u style="single">in</u><u style="single">vitro</u> from
+this size fractionated poly(A) RNA as judged by sodium
+dodecylsulphate polyacrylamide gel electrophoresis
+after immuno precipitation with antiparathyroid
+antiserum. The specific messenger RNA for the human
+PTH was used as template for complementary DNA
+synthesis using oligo d(T)18 as a primer and avian
+myoblastosis virus reverse transcriptase. After
+removal of the RNA templates by alkali hydrolysis,
+the second strand complementary DNA was synthesized by
+incubating the purified first strand DNA in the
+presence of the Klenow fragment of E. coli DNA
+polymerase I. The double stranded complementary DNA
+was made blunt ended by the action of Aspergillus
+oryzae single strand specific endonuclease Sl and
+complementary DNA longer than 500 base pairs was
+isolated after neutral sucrose gradient
+centrifugation. Approximately 20 bases long d(C)-tail
+protrusions were enzymatically added to the 3' ends of
+the cDNA. This modified complementary DNA was
+annealed to restriction endonuclease PstI cleaved and
+d(G)-tailed vector pBR 322. Resulting recombinant 
+plasmid DNA's were transformed into E. coli KI2 BJ
+5183. Positive transformants were analysed for by
+colony hybridization using two different synthetic
+deoxyribo-oligonucleotides which covered the
+N-terminal coding region as well as the 3' noncoding
+part of the hormone mRNA sequence, respectively. Six
+out of 66 clones that were positive for both probes
+were submitted for detailed analysis by restriction
+endonuclease mapping showing that they all were
+identical except for some size heterogenity at the
+regions flanking the start codon and the XbaI site 3'
+for the stop codon. One clone, pSSHPTH-10, was
+subjected to DNA sequence analysis revealing a 432
+nucleotide long human parathyroid hormone
+complementary DNA sequence inserted in the PstI site
+of pBR 322. The entire cDNA sequence was found to be
+identical to the sequence previously described by
+Hendy, et al., <u style="single">supra,</u> except for a five base pair
+deletion in front of the start codon.</p><p num="0021">The invention further provides a plasmid for
+insertion into yeast containing DNA coding for
+parathyroid hormone. The parathyroid hormone may be
+human or animal parathyroid hormone, for example pig
+or bovine parathyroid hormone. The plasmid for
+insertion in yeast of the present invention may be
+recloned from plasmids containing DNA coding for human
+or animal parathyroid hormone. In a preferred 
+embodiment, the plasmid for insertion in yeast
+contains DNA coding for human parathyroid hormone. As
+shown in the following examples, the HPTH sequence
+from pSSHPTH-10 has been recloned and inserted in
+specially designed vectors for expression in
+Saccharomyces cerevisiae.
+
+   pSSHPTH-10 was digested to form a 288 bp
+BglII-XbaI fragment. This fragment was then subcloned
+into pUC19 between the BamHI and XbaI sites. The
+subclone was then digested with Don I, and the largest
+resulting fragment was isolated. The said fragment
+was then digested with Sall.</p><p num="0022">The plasmid pSSαLXS-HPTH1 that in yeast MATα
+cells leads to the expression and secretion of PTH
+was constructed in three stages:
+<sl><li>1. Construction of the yeast shuttle vector pL4
+(which replicates in both E. coli and
+Saccharomyces cerevisiae).</li><li>2. Cloning of a DNA fragment containing the
+yeast mating pheromone MFα1 gene and its
+insertion into the yeast shuttle vector to
+make the pαLX5 vector.</li><li>3. Insertion of a DNA fragment from the coding
+region of the HPTH gene of pSSHPTH-10 into
+pαLX5 in reading frame with the prepro part
+of the MFα1 gene, thereby producing the
+vector pSSαLX5-HPTH1.</li></sl></p><p num="0023">The shuttle vector pL4 was constructed by
+inserting into pJDB207, an EcoRI-AvaII fragment
+containing the ADHI promoter isolated from pADH040. A
+SphI fragment was then deleted, resulting in a plasmid
+pALX1. The PstI site in the β-lactamase gene was
+deleted and the plasmid was partially digested with
+PvuI and BglI and ligated to a PvuI BglI fragment of
+pUC8, to form pALX2. After a further oligonucleotide
+insertion, the plasmid was digested with HindIII and
+religated to form pALX4. </p><p num="0024">Total yeast DNA from the Y288C strain was
+digested with EcoRI, and the 1.6-1.8 kb fragments
+isolated. These were ligated to EcoRI-cleaved pBR322,
+and E. coli was transformed. The clones were screened
+for MFαI inserts by oligonucleotide hybridization.
+The DNA selected thereby was then used to transform E.
+coli. The resulting plasmid pMFα1-1 was digested with
+EcoRI, made blunt ended by Klenow enzyme, and then
+digested with BglII. The MFα1 fragment was isolated,
+and ligated to pL5 (digested with BamHI, made blunt
+ended with Klenow enzyme, and digested with BglII) to
+yield pαLX5.</p><p num="0025">In order to insert the human PTH cDNA fragment
+into pαLX5, the pαLX5 was digested with HindIII,
+creating sticky ends and the site was made blunt ended
+with the DNA polymerase I Klenow fragment and dNTP.
+The pαLX5 was then digested with SalI to create a
+sticky ended DNA complementary to the Sail digested
+human PTH fragment described above.</p><p num="0026">The SalI digested human PTH fragment was then
+inserted into the SalI digested pαLX5. The resulting
+plasmid pSSαLX5-PTH is shown in Figure 4.</p><p num="0027">pSSαLX5-PTE was then inserted into yeast,
+thereby transforming yeast so that the yeast produces
+and secretes human parathyroid hormone. In a
+preferred embodiment, the transformed yeast is
+Sacchromyces cerevisiae. An electrophoresis plate
+showing the human parathyroid hormone from the yeast
+culture medium is shown at Figure 5.</p><p num="0028">Although the method for making the plasmid for
+insertion in yeast by recloning pSSHPTH-10 is shown in
+detail, this method is shown to illustrate the
+invention, and the invention is not limited thereto.
+The method may be applied to a variety of other
+plasmids containing DNA coding for human or animal PTH
+to produce the plasmid for insertion in yeast of the
+present invention. </p><p num="0029">The plasmids of the present invention and
+transformed microorganisms were produced as set forth
+in the following examples.</p><heading>EXAMPLE I</heading><heading><u style="single">Isolation of mRNA and synthesis of complementary DNA
+(cDNA) of human parathyroid hormone.</u></heading><p num="0030">Starting material for the invention was
+parathyroid adenomas obtained from patients by
+surgery. The parathyroid tissue was placed on dry ice
+directly after removal and transported to a laboratory
+for preparation of RNA. The frozen tissue was
+homogenized with an ultra Turax homogenizer in the
+presence of 4 M Guanidinium thiocyanate and the RNA
+content was recovered by serial ethanol precipitations
+as described by Chirgwin, J.M., Przybyla, A.E.,
+MacDonald, R.J. and Rutter, W.J., 18 <u style="single">Biochemistry</u>
+5294-5299 (1979). The RNA preparation was applied to
+oligo d(T) cellulose affinity chromatography column in
+order to enrich for poly(A) containing mRNA. The
+poly(A) rich RNA was further enriched for parathyroid
+hormone (PTH) mRNA sized RNA by ultracentrifugation
+through a 15-30% linear sucrose gradient. The
+resulting gradient was divided into 25 fractions and
+every third fraction was assayed for PTH mRNA content
+by <u style="single">in</u><u style="single">vitro</u> translation followed by
+immunoprecipitation with anti PTH antiserum (Gautvik,
+K.M., Gautvik, V.T. and Halvorsen, J.F., <u style="single">Scand. J.
+Clin. Lab. Invest.</u> 43, 553-564 (1983)) and
+SDS-polyacrylamide gel electrophoresis (Laemmeli,
+U.K., 227 <u style="single">Nature</u> 680 (1970)). The RNA from the
+fractions containing translatable PTH mRNA was
+recovered by ethanol precipitation.
+
+This RNA, enriched for PTH mRNA, was used as a
+template for cDNA synthesis using oligo d(T)18 as a
+primer and avian myoblastosis virus reverse
+transcriptase for catalysis of the reaction (Maniatis,
+T., Fritsch, E.F. and Sambtook, J., <u style="single">Molecular Cloning</u> 
+pp. 230-243 (1982)). After first strand synthesis,
+the RNA templates were removed by alkali hydrolysis.
+The second strand cDNA was synthesized by incubating
+the purified first strand cDNA in the presence of the
+Klenow fragment of E. coli DNA polymerase I (Maniatis,
+<u style="single">supra).</u> This <u style="single">in</u><u style="single">vitro</u> synthesized double stranded
+cDNA was made blunt ended by the action of Aspergillus
+oryzae single strand specific endonuclease S1
+(Maniatis, <u style="single">supra</u>). The blunt ended double stranded
+cDNA was size fractionated over a 15-30% neutral
+sucrose gradient. The size distribution of each
+fraction was estimated by agarose gel electrophoresis
+together with known DNA fragment markers. Fractions
+containing cDNA larger than approximately 500 base
+pairs were pooled and the cDNA content was collected
+by ethanol precipitation.</p><heading><u style="single">EXAMPLE 2</u></heading><heading><u style="single">Cloning of cDNA PTH in plasmid pBR 322 and
+transformation of E. coli K12 BJ5183.</u></heading><p num="0031">An approximate 20 base long d(C)-tail protrusion
+was enzymatically added to the 3' ends of the cDNA by
+the action of terminal deoxynucleotidyl transferase
+(Maniatis, <u style="single">supra</u>). The d(C)-tailed cDNA was annealed to
+restriction endonuclease PstI cleaved and d(G)-tailed
+vector pBR322 and the resulting recombinant plasmid
+DNA's were transformed into E. coli K12 BJ 5183 cells
+which were made competent by the method of Hanahan,
+D., 166 <u style="single">J. Mol. Biol.</u> 557-580 (1983). A total of
+33,000 transformants were analyzed for PTH cDNA
+content by colony hybridization (Hanahan, D. and
+Meselson, 10 <u style="single">Gene</u> 63 (1980)).</p><p num="0032">Two to three thousand transformants were plated
+directly on each 82 mm diameter nitrocellulose filter,
+placed on top of rich medium agar plates containing
+tetracycline, and incubated at 37 degrees Centigrade
+until approximately 0.1 mm diameter colonies
+appeared. Duplicate replicas of each filter was 
+obtained by serial pressing of two new filters against
+the original filter. The replica filters were placed
+on top of new tetracycline containing agar plates and
+incubated at 37 degrees Centigrade until approximately
+0.5 mm diameter colonies appeared. The master filter
+with bacterial colonies was kept at 4 degrees
+Centigrade placed on top of the agar plate and the
+duplicate replica filters were removed from the agar
+plates and submitted to the following colony
+hybridization procedure.</p><heading>EXAMPLE 3</heading><heading><u style="single">Characterization of bacterial clones containing
+recombinant PTH cDNA and of the DNA sequence of clone
+pSSHPTH-10.</u></heading><p num="0033">The cells in the respective colonies were
+disrupted in situ with alkali and sodium chloride
+leaving the DNA content of each bacterial clone
+exposed. The procedure allows the DNA to bind to the
+filter after which it was neutralized with Tris-buffer
+and dried at 80 degrees Centigrade. The majority of
+cell debris was removed by a 65 degree Centigrade wash
+with the detergent sodium dodecylsulphate (SDS) and
+sodium chloride leaving the DNA bound to the filters
+at the position of the former bacterial colonies. The
+filters were presoaked in 6xSSC (0.9M NaCl, 0.09M
+Na-citrate), lx Denhart's solution (0.1 g/ml Ficoll,
+0.1 g/ml polyvinyl pyrrolidone, 0.1 g/ml bovine serum
+albumin),
+100 g/ml herring sperm DNA,
+0.5% SDS and 0.05% sodium pyrophosphate for two hours
+at 37 degrees Centigrade (Woods, D.E., 6 <u style="single">Focus</u> No. 3.
+(1984)).</p><p num="0034">The hybridization was carried out at 42 degrees
+Centigrade for 18 hours in a hybridization solution
+(6x SSC, lx Denhart's solution, 20 g/ml tRNA and 0.05%
+sodium pyrophosphate) supplemented with 32P-labelled
+DNA probe (Woods, <u style="single">supra</u>). </p><p num="0035">The DNA used as a hybridization probe was one of
+two different synthetic deoxyribo oligonucleotides of
+which the sequences were deduced from the published
+human PTH cDNA sequence of Hendy, et al., <u style="single">supra.</u> The
+first probe was a 24-mer oligonucleotide originating
+from the start codon region of the human preproPTH
+coding sequence having a nucleotide sequence reading
+<img id="img-00130001" orientation="unknown" wi="67" img-format="tif" img-content="dn" file="00130001.tif" inline="no" he="5"/>
+The second oligonucleotide
+was a 24-mer spanning over a cleavage site for the
+restriction endonuclease XbaI located 31 nucl
+downstream of the termination codon and consisted of
+the nucleotide sequence
+<img id="img-00130002" orientation="unknown" wi="64" img-format="tif" img-content="dn" file="00130002.tif" inline="no" he="5"/></p><p num="0036">Labelling was carried out by transfer of 32 P
+from 32 P-γ-ATP to the 5' end of the oligonucleotides
+by the action of polynucleotide kinase (Maxam, A.M.
+and Gilbert, W., 65 <u style="single">Methods Enzymol.</u> , 499 (1980)).</p><p num="0037">The hybridized filters were washed in 6xSSC,
+0.05% sodium pyrophosphate at 42 degrees Centigrade
+prior to autoradiography. Sixty-six clones were found
+to be positive for both probes as judged from
+hybridization to both copies of the duplicate replica
+filters. All those were picked from the original
+filters with the stored cDNA library and amplified for
+indefinitive storage at -70 decrees Centigrade. Six
+of these were chosen for plasmid preparation and a
+more detailed analysis by restriction endonuclease
+mapping, showing that all were identical except-for
+some size heterogenity at the regions flanking the
+start codon and XbaI site, respectively.</p><heading>EXAMPLE 4</heading><heading><u style="single">Clone pSSHPTH-10.</u></heading><p num="0038">One clone, pSSHPTH-10, was subjected to DNA
+sequence analysis according to the method of Maxam and
+Gilbert, <u style="single">supra</u>. The complete structure of pSSHPTH-10
+is shown in Figure 1. This clone consists of a 432
+base pair long PTH cDNA sequence inserted in the PstI 
+site of pBR322 having 27 G/C base pairs at the 5' end
+and 17 G/C base pairs at the 3' end.</p><p num="0039">It is identical to the sequence of Hendy,
+et al., <u style="single">supra,</u> except for a five base pair deletion
+right in front of the start codon, changing the
+published (Hendy, et al., <u style="single">supra</u>) start-stop
+<img id="img-00140001" orientation="unknown" wi="27" img-format="tif" img-content="dn" file="00140001.tif" inline="no" he="7"/>
+signal (deletion is underlined) preceding the used
+start codon (ATG) to a double start signal (ATGATG).</p><heading>EXAMPLE 5</heading><heading><u style="single">Construction of the yeast shuttle vector pL4.</u></heading><p num="0040">Before the HPTH-yeast-expression project was
+initiated, a family of general yeast expression
+vectors were developed. One of these, pL4, later was
+used to make pSSαLX5-HPTH1, as described below:</p><p num="0041">The plasmid pJDB207, constructed by Beggs, J.D.,
+"Multiple-copy yeast plasmid vectors," Von Wettstein,
+D., Friis, J., Kielland-Brandt, M. and Stenderup, A.
+(Eds) <u style="single">Molecular Genetics in Yeast</u> (1981), Alfred
+Benzon Symposium Vol., 16, 383-390, was chosen as the
+basis for the general expression vectors. It contains
+an EcoRI fragment of the yeast 2 micron DNA inserted
+into the pBR322 derivative pAT153. It also contains
+the yeast LEU2 gene. The copy number of pJDB207 in
+yeast cir<sup>+</sup> cells is very high relative to that of
+other plasmids and it is unusually stable after
+non-selective growth in a cir<sup>+</sup> strain. Parent,
+S.A., Fenimore, C.M., and Bostian, K.A. "Vector
+Systems for the Expression, Analysis and Cloning of
+DNA Sequences in S. cerevisiae," 1 <u style="single">Yeast</u> 83-138
+(1985); Erhart, E. and Hollenberg, C.P., "The Presence
+of a Defective LEU2 Gene on 2 Micron DNA Recombinant
+Plasmids of Saccharomyces cerevisiae is Responsible
+for Curing and High Copy Number," 156 <u style="single">J. Bacteriol</u>
+625-635 (1983). These properties are related to a
+partial defective promoter in the selective marker
+gene LEU2 (often named LEU2d, d for defective), Erhart 
+et al., <u style="single">supra,</u> which is not changed in the following
+constructs.</p><p num="0042">A 1260 base pair EcoRI-AvaII fragment containing
+the ADHI promoter was isolated from the plasmid
+pADH040. After a fill in reaction with the Klenow
+fragment of DNA polymerase I and all four dNTPs, BamHI
+linkers were attached and the fragment was cloned into
+the unique BamHI site of pJDB207. From the plasmid
+with the promoter in a counterclockwise direction, a
+1050 base pair SphI fragment was then deleted (from
+the SphI site in pJDB207 to the SphI site in the
+promoter fragment) leaving only a single BamHI site.
+This plasmid was designated pALXl.</p><p num="0043">The PstI site in the <i>β</i>-lactamase gene of pALX1
+then was eliminated without inactivating the gene.
+pALX1 was digested to completion with PstI and
+nuclease S1 to destroy the PstI site, and then
+subjected to a partial digestion with PvuI and BglI.
+At the same time, a 250 base pair PvuI BglI fragment
+was isolated from pUC8, Vieira, J. and Messing, J., 19
+<u style="single">Gene</u> 259 (1982), that contains the corresponding part
+of a β-lactamase gene without a PstI site. This was
+ligated to the partially digested pALX1. In all the
+ampicillin resistant clones isolated the
+<i>β</i>-lactamase gene had been restored by incorporating
+the pUC8 fragment. This plasmid was called pALX2.</p><p num="0044">The following oligonucleotide was purchased from
+Prof. K. Kleppe, University of Bergen, and inserted
+into the BamHI site of pALX2:
+<img id="img-00150001" orientation="unknown" wi="159" img-format="tif" img-content="dn" file="00150001.tif" inline="no" he="21"/></p><p num="0045">Plasmids with the proper orientation were isolated and
+designated pALX3. </p><p num="0046">Finally the pALX3 was digested with HindIII and
+religated to delete a HindIII fragment of 480 base
+pairs. The resulting vector is called pALX4. A map
+of pALX4 is shown in Figure 2.</p><p num="0047">pL4 is a derivative of pALX4 in which the ADHI
+promoter is deleted. pL4 was used as basis for the
+insertion of other promoters. pALX4 was first
+digested with BglII and SalI. The resulting sticky
+ends were filled in with the Klenow fragment of DNA
+polymerase I and 4 dNTPs, followed by religation. By
+this treatment, the ADHI promoter is eliminated and
+the BglII site regenerated to give the vector pL4.</p><heading>EXAMPLE 6</heading><heading><u style="single">Construction of pαLX5.</u></heading><p num="0048">The gene for the yeast mating pheromone MF 1 was
+first cloned by Kurjan, J. and Herskowitz, I.,
+"Structure of a Yeast Pheromone Gene (MF ): A
+Putative α-Factor Precursor Contains Four Tandem
+Copies of Mature α-Factor", 30 <u style="single">Cell,</u> 933-943 (1982).
+The published sequence was used to reclone the MF 1
+gene. Total yeast DNA from the strain Y288C was
+digested with EcoRI and digestion products in the size
+range from 1.6 to 1.8 kb were isolated from a
+preparative agarose gel. These were then ligated to
+dephosphorylated EcoRI cleaved pBR322 and used to
+transform E. coli BJ5183. The resulting clones were
+screened for MFα1 gene inserts by hybridization to a
+labeled oligonucleotide of the following composition:
+<img id="img-00160001" orientation="unknown" wi="70" img-format="tif" img-content="dn" file="00160001.tif" inline="no" he="7"/>
+DNA from purified positive clones was then used to
+transform E. coli JA221 from which plasmid DNA was
+prepared. The plasmid used in the following
+constructs, pMFα1-1, is shown in Figure 3. </p><p num="0049">pMFα1-1 was digested with EcoRI, filled in with
+the Klenow fragment of DNA polymerase I and 4 dNTPs,
+phenol extracted and digested with BglII. The 1.7 kb
+MFα1 gene fragment was isolated from an agarose gel.
+Before inserting it into the yeast shuttle vector, the
+HindIII site of pL4 was eliminated by HindIII
+digestion, Klenow fill-in reaction and religation to
+give the pL5 shuttle vector. pL5 was digested with
+BamHI, filled in with the Klenow fragment of DNA
+polymerase I and 4 dNTPs, phenol extracted and
+digested with BglII. After purification on gel it was
+ligated to the MFα1 fragment to give the expression
+vector pαLX5 as shown in Figure3.</p><heading>EXAMPLE 7</heading><heading><u style="single">Construction of pSSαLX5-HPTH1</u></heading><p num="0050">A 288 base pair BglII XbaI fragment from the
+pSSHPTH-10 plasmid was isolated and subcloned in pUC19
+using the BamHI and XbaI site of this vector. This
+subclone designated pUC-HPTH, was digested with DpnI
+and the largest fragment isolated. This fragment was
+then digested with SalI and the smallest of the two
+resulting fragments was again isolated, yielding a
+sticky end on the SalI cut side and a blunt end at the
+DpnI cut side.</p><p num="0051">pαLX5 was digested with HindIII, filled in with
+the Klenow fragment of DNA polymerase I and 4 dNTPs,
+phenol extracted and digested with SalI. After
+purication from gel, it was ligated to the HPTH
+fragment described above. The resulting clones had
+the HindIII site regenerated verifying that the
+reading frame was correct. This plasmid called pSSα
+LX5-HPTH1 is shown in Figure 4. </p><heading>EXAMPLE 8</heading><heading><u style="single">Expression And Secretion Of HPTH In Yeast</u></heading><p num="0052">The yeast strain FL200 (α, ura3, leu2) was
+transformed with the plasmids pαLX5 and pSSαLX5-HPTH1
+using the spheroplast method. One transformant of
+each kind was grown up in leu<sup>-</sup> medium and aliquots
+of the cell-free medium were analysed by SDS-PAGE
+developed by silver-staining (Fig. 5 ). Two major
+bands were seen in the medium from the pSSαLX5-HPTH1
+transformant that were not present in the medium from
+the pαLX5 transformant: one band of approximately
+9000 daltons, the expected size of HPTH, and one band
+of approximately 16000 daltons that could correspond
+to an unprocessed MFα1-HPTH fusion product. Both
+polypeptides reacted with antibodies against human PTH
+in a manner identical to the native hormone.</p><p num="0053">The examples are included by way of illustration,
+but the invention is not limited thereto. While the
+above examples are directed to providing a S.
+cerevisiae which produces and excretes human
+parathyroid hormone, the method of the present
+invention may be applied to produce a plasmid
+containing DNA coding for parathyroid hormone from any
+species. Further, said plasmid may be inserted into
+any species of yeast. The invention thus is not
+limited to S. cerevisiae.</p><p num="0054">The cloned human parathyroid hormone produced by
+the yeast of the present invention has a variety of
+known and potential uses. For example, it is current
+medical theory that human parathyroid hormone will be
+highly effective in treating osteoporosis.
+Genetically engineered parathyroid hormone may be
+useful in an analytical kit for measuring parathyroid
+hormone levels in humans and animals. Human
+parathyroid hormone or fragments thereof may also be
+used for treatment of humans or animals displaying
+reduced or pathologically altered blood calcium
+levels. It is anticipated that many other uses will 
+be discovered when genetically engineered parathyroid
+hormone is available in large quantities, for example
+as a result of the present invention.</p><p num="0055">The invention has been described herein with
+reference to certain preferred embodiments. However,
+as obvious variations thereon will become apparent to
+those skilled in the art, the invention is not to be
+considered limited thereto.</p><p num="0056">The following are specific embodiments of the invention
+and are part of the description of the present application.</p><p num="0057">1. A plasmid for insertion into Escherichia coli
+comprising a nucleotide sequence coding for human
+preproparathyroid hormone having a double start codon
+at the 5' terminal end of said nucleotide sequence.</p><p num="0058">6. A microorganism containing the above plasmid.</p><p num="0059">7. A microorganism according to 6 wherein
+said microorganism is Escherichia coli.</p><p num="0060">16. The method of making the plasmid of 1.</p><p num="0061">17. The method of making the microorganism of 6.</p><p num="0062">18. A plasmid for insertion in yeast comprising a
+nucleotide sequence coding for parathyroid hormone.</p><p num="0063">19. The plasmid of 18 wherein the
+parathyroid hormone is human parathyroid hormone.</p><p num="0064">22. A microorganism containing the plasmid of 18.</p><p num="0065">23. A microorganism containing the plasmid of 19.</p><p num="0066">24. The microorganism of claim 22, wherein the
+microorganism is yeast. </p><p num="0067">25. The yeast of 24, wherein the yeast is
+Sacchromyces cerevisiae.</p><p num="0068">26. The microorganism of 23, wherein the
+microorganism is yeast.</p><p num="0069">27. The yeast of 26, wherein the yeast is
+Sacchromyces cerevisiae.</p><p num="0070">28. The method of making the plasmid of 18.</p><p num="0071">29. The method of making the microorganism of 22.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A plasmid for insertion into a microorganism comprising (1) the coding
+region of hPTH, and, fused 5' thereof, (2) a heterologous sequence coding
+for an N-terminal peptide cleavable from the hPTH, wherein the expressed
+hPTH reacts with antibodies against hPTH in a manner identical to the
+native protein.</claim-text></claim><claim num="2"><claim-text>A microorganism transformed with the plasmid of claim 1.</claim-text></claim><claim num="3"><claim-text>A method for producing hPTH comprising the cultivation of the
+microorganism according to claim 2.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

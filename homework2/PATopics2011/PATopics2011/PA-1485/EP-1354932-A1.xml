@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1354932-A1" country="EP" doc-number="1354932" kind="A1" lang="EN" family-id="11449715" status="new" date-produced="20090516" date="20031022"><bibliographic-data><publication-reference ucid="EP-1354932-A1" status="new" fvid="23860836"><document-id status="new" format="original"><country>EP</country><doc-number>1354932</doc-number><kind>A1</kind><date>20031022</date></document-id></publication-reference><application-reference ucid="EP-03008436-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03008436</doc-number><kind>A</kind><date>20030411</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="IT-MI20020804-A" status="new"><document-id status="new" format="epo"><country>IT</country><doc-number>MI20020804</doc-number><kind>A</kind><date>20020417</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C07C  43/00        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07C  43/225       20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07C 205/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C07C 205/38        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 105/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 105/54        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 107/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 107/38        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 131/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 131/10        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 133/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 133/32        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 147/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10M 147/04        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10M 149/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 149/12        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 169/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10M 169/04        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10N  20/04        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10N  30/08        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10N  30/10        20060101ALN20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C10M 147/04</classification-symbol><classification-symbol scheme="EC">C10M 169/04B</classification-symbol><classification-symbol scheme="ICO">M10M211:06B</classification-symbol><classification-symbol scheme="ICO">M10M213:04</classification-symbol><classification-symbol scheme="ICO">M10N220:021</classification-symbol><classification-symbol scheme="ICO">M10N230:08</classification-symbol><classification-symbol scheme="ICO">M10N230:10</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Stabilisatoren für Perfluoropolyetherölen</invention-title><invention-title load-source="ep" status="new" lang="EN">Stabilisers for perfluoropolyether oils</invention-title><invention-title load-source="ep" status="new" lang="FR">Stabilisateurs pour les huiles perfluoropolyetheriques</invention-title><citations><patent-citations><patcit ucid="EP-0597369-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0597369</doc-number><kind>A1</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4681693-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4681693</doc-number><kind>A</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5326910-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5326910</doc-number><kind>A</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5550277-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5550277</doc-number><kind>A</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1995017481-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1995017481</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1999051612-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1999051612</doc-number><kind>A1</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>JUHL, HANS JUERGEN ET AL:  "Fluorinated gels for gel permeation chromatography" MAKROMOLEKULARE CHEMIE, vol. 194, no. 3, 1993, pages 963-972, XP009012533 ISSN: 0025-116X</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>SKOBLIKOVA, V. I. ET AL:  "Reaction of fluorocarbon epoxides with alkali metal pentafluorophenoxides" JOURNAL OF ORGANIC CHEMISTRY OF THE USSR, vol. 12, no. 9, 1976, pages 1847-1850, XP009012539 ISSN: 0022-3271</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>SU, DEBAO ET AL:  "Perfluoro and polyfluorosulfonic acids. IX. Some chemical transformations of 5-halo-3-oxaperfluoropentanesulfonyl fluoride" HUAXUE XUEBAO - ACTA CHIMICA SINICA, vol. 41, no. 10, 1983, pages 946-959, XP009012538 ISSN: 0567-7351</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>WEBSTER, J. A. ET AL:  "Synthesis and properties of imide and isocyanurate-linked fluorocarbon polymers" ADVANCES IN CHEMISTRY SERIES, no. 129, 1973, pages 61-79, XP001152972 ISSN: 0065-2393</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>SOLVAY SOLEXIS SPA</name><address><country>IT</country></address></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Solvay Solexis S.p.A.</last-name><address><street>Via Turati, 12</street><city>20121 Milano</city><country>IT</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>MACCONE PATRIZIA</name><address><country>IT</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NAVARRINI WALTER</name><address><country>IT</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MACCONE, PATRIZIA</last-name><address><street>Via Deruta 3</street><city>20100 Milano</city><country>IT</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NAVARRINI, WALTER</last-name><address><street>Via Aldo Moro 46/48</street><city>20010 Boffalora Ticino</city><country>IT</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Sama, Daniele, Dr.</last-name><address><street>Sama Patents, Via G.B. Morgagni, 2</street><city>20129 Milano</city><country>IT</country></address></addressbook></agent></agents></parties></bibliographic-data><abstract load-source="ep"  status="new" lang="EN"><p>Use as stabilizers of perfluoropolyether oils at high temperatures,
+higher than 200°C, of compounds not containing phosphor
+and having the general formula (A):
+<img id="img-80000001" orientation="unknown" wi="95" img-format="tif"  img-content="cf"  file="80000001.tif"  inline="no" he="40"/>
+wherein:
+<sl><li>X, Y, X', Y', equal to or different, are indenpendently the one from
+the other H; NO<sub>2</sub>; C<sub>1</sub>-C<sub>4</sub> alkyl;
+C<sub>1</sub>-C<sub>4</sub> alkoxy, preferably methoxy group;</li><li>Z = -CH<sub>2</sub>-; &gt; C=0 (carbonyl);</li><li>m and n are integers such that m is in the range 0-80, extremes
+included; n is in the range 0-20, extremes included, m+n being &gt; 1;</li><li>the molecular weight of the perfluoropolyether part</li></sl>
+(units with indexes m and n)
+being from 500 to 10,000, preferably from 1,000 to 4,000.</p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to the use of fluorinated
+compounds as stabilizing additives of perfluoropolyether oils
+for their use at high temperatures.</p><p num="0002">More specifically the present invention relates to the
+use of fluorinated compounds as stabilizing additives of perfluoropolyether
+oils for their use at high temperatures, in
+oxidizing environment and in the presence of metals.</p><p num="0003">It is known that perfluoropolyether fluids are lubricating
+oils used also at high temperatures. However, said
+fluids show the drawback that in oxidizing environment (for
+example oxygen, air) and in the presence of metals they have
+a limited thermal stability.</p><p num="0004">It is also known in the prior art that said drawback can
+be reduced by adding to perfluoropolyether fluids stabilizing
+additives. Said stabilizing additives are generally phosphor
+compounds wherein substituents of perfluoroalkyl, perfluorooxyalkyl
+and aromatic type are present. The synthesis of said
+compounds is generally complex or uses reactants at a high
+cost. The following patents can for example be mentioned. USP
+4,681,693 describes stabilizers for perfluoropoly-ether
+fluids having a structure formed by arylphosphines, or derivatives
+thereof, linked to PFPE radicals through one oxygen
+or sulphur atom. Said compounds are synthesized by a more
+step process which includes intermediates difficult to be
+prepared. EP 597,369 describes stabilizers for perfluoropolyether 
+fluids based on substituted phosphazene derivatives,
+where on the phosphazene ring both aromatic and
+(per)fluoropolyether radicals are contemporaneously present.
+The synthesis of said additives requires a double substitution
+on the phosphazene ring. Besides the starting phosphazene
+product has a high cost. This represents a further
+drawback from the industrial point of view.</p><p num="0005">USP 5,326,910 describes perfluoropolyether phosphotriazine
+derivatives as stabilizers for perfluoropolyether oils.
+Said derivatives are synthesized with several steps, using
+reactants of difficult preparation, such for example perfluorinated
+epoxides.</p><p num="0006">USP 5,550,277 describes stabilizers for perfluoropolyether
+fluids based on aromatic phosphates or phosphonates substituted
+by perfluoropolyether groups. The synthesis process
+is very complicated, it requires more steps and furthermore
+it employes the use of metallo-organic reactants, such for
+example butyl lithium, which are of difficult industrial use
+for the problems related to the plant safety.</p><p num="0007">Patent application WO 99/51,612 describes new phosphoric
+esters, in particular substituted arylphosphates, where at
+least one of the substituents is a radical of perfluoropolyether
+type.</p><p num="0008">In the preparation method of said additives, aromatic
+phosphoric chloroesters, having a high cost, are used. As described 
+in the Examples of the patent application, said
+esters are obtained by reacting aromatic alcohols with POC1<sub>3</sub>,
+which is a toxic and scalding substance, requiring specific
+equipments for the use in an industrial scale.</p><p num="0009">According to the prior art the substances used as stabilizing
+additives for perfluoropolyether oils contain phosphor
+and are obtained by using, as seen, synthesis processes comprising
+various steps or, alternatively, using expensive reactants.</p><p num="0010">The Applicant has surprisingly found additives which
+even not containing phosphor in the molecule can be suitably
+used as perfluoropolyether oil stabilizers at high temperatures,
+even in oxidizing environment and in the presence of metals.
+Furthermore said additives can be obtained with simplified
+synthesis methods using cheap reactants.</p><p num="0011">An object of the present invention is the use as stabilizers
+of perfluoropolyether lubricating oils at high temperatures,
+higher than 200°C, of compounds having the following
+general formula (A):
+<img id="img-00030001" orientation="unknown" wi="121" img-format="tif" img-content="cf" file="00030001.tif" inline="no" he="37"/>
+wherein:
+<ul list-style="bullet"><li>X, Y, X', Y', equal or different, are independently the 
+one from the other H; NO<sub>2</sub>; C<sub>1</sub>-C<sub>4</sub> alkyl; C<sub>1</sub>-C<sub>4</sub> alkoxy,
+preferably methoxy group;</li><li>Z = -CH<sub>2</sub>-; &gt;C=O (carbonyl);</li><li>m and n are integers such that m is in the range 0-80,
+extremes included; n is in the range 0-20, extremes included;
+m+n being &gt;1;</li></ul>
+the molecular weight of the perfluoropolyether part (units
+with indexes m and n respectively) being from 500 to 10,000,
+preferably from 1,000 to 4,000.</p><p num="0012">Also mixtures of one or more formula (A) additives can
+be used.</p><p num="0013">Preferably the general formula (A) products are selected
+from the following:
+<img id="img-00040001" orientation="unknown" wi="144" img-format="tif" img-content="cf" file="00040001.tif" inline="no" he="30"/><img id="img-00040002" orientation="unknown" wi="132" img-format="tif" img-content="cf" file="00040002.tif" inline="no" he="39"/><img id="img-00040003" orientation="unknown" wi="118" img-format="tif" img-content="cf" file="00040003.tif" inline="no" he="41"/> 
+wherein m is in the range 0-80, extremes included; n is in
+the range 0-20, extremes included, m/n preferably being from
+0.5 to 4 when n is different from zero and m+n is such to give
+the above molecular weight.</p><p num="0014">The general formula (A) compounds can be prepared according
+to USP 3,810,874, EP 165,649, EP 165,650, USP 3,250,807.
+They are geneally obtainable in a single step by a reaction
+between a perfluoropolyether derivative of formula:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">HOZCF<sub>2</sub>(OCF<sub>2</sub>CF<sub>2</sub>)m(OCF<sub>2</sub>)nOCF<sub>2</sub>ZOH</st32:che>
+wherein Z, m and n are as above, with a suitable aromatic reactant
+having the substituents X, Y, X' and Y' as defined in
+formula (A). For example a nucleophilic substitution or esterification
+reaction can be used. In the former case the alcoholate
+of compound (B) (Z = -CH<sub>2</sub>-), is used, in the latter
+case compound (B) with Z = &gt;C=O. See the above patents.</p><p num="0015">The formula (A) compounds of the present invention are
+used as stabilizers for perfluoropolyether oils, available on
+the market as for example FOMBLIN®, marketed by Ausimont.</p> <p num="0016">Said oils have perfluoroalkyl end groups, are liquid
+with a very low vapour pressure value and have a viscosity at
+20°C generally in the range 10-100,000 cSt, preferably 30-2,000
+cSt.</p><p num="0017">The perfluoropolyether oils are formed by repeating 
+units statistically distributed along the chain, and have for
+example the following structures:
+<sl><li>(1)
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">B-O-[C<sub>3</sub>F<sub>6</sub>O]<sub>m'</sub>(CFT'O)<sub>n'</sub>-B'</st32:che>
+   wherein:
+<sl><li>T' = F, CF<sub>3</sub>;</li><li>B and B', equal to or different from each other, are selected
+from -CF<sub>3</sub>, -C<sub>2</sub>F<sub>5</sub> or -C<sub>3</sub>F<sub>7</sub>;</li><li>m' and n' are integers such that the m'/n' ratio is in
+the range 20-1,000, n' being different from zero, and
+the product viscosity is within the above limits;</li><li>said products can be obtained by photooxidation of the
+perfluoropropene as described in GB 1,104,432, and by
+subsequent conversion of the end groups as described in
+GB 1,226,566.</li> </sl> </li> <li>(2)
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">C<sub>3</sub>F<sub>7</sub>O-[C<sub>3</sub>F<sub>6</sub>O]<sub>o'</sub>-D</st32:che>
+wherein:
+<sl><li>D is equal to -C<sub>2</sub>F<sub>5</sub> or -C<sub>3</sub>F<sub>7</sub>;</li><li>o' is an integer such that the product viscosity is in
+the above range;</li><li>said products can be prepared by ionic oligomerization
+of the perfluoropropylenoxide and subsequent treatment
+with fluorine as described in USP 3,242,218.</li></sl></li><li>(3)
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">B-O-[CF(CF<sub>3</sub>)CF<sub>2</sub>O]<sub>q'</sub>(C<sub>2</sub>F<sub>4</sub>O)<sub>r'</sub>(CFT'O)<sub>s'</sub>-B'</st32:che>
+wherein:
+<sl><li>T' is as above; </li><li>B and B', equal to or different from each other, are selected
+from -CF<sub>3</sub>, -C<sub>2</sub>F<sub>5</sub> or -C<sub>3</sub>F<sub>7</sub>;</li><li>q', r' and s' are integers and can have also the value
+of zero, with the proviso that they are not all contemporaneously
+equal to zero, and are such that the product
+viscosity is in the above range, i.e. 10-100,000 sSt,
+preferably 30-2,000 cSt;</li><li>said products are obtainable a mixture photooxidation of
+C<sub>3</sub>F<sub>6</sub> and C<sub>2</sub>F<sub>4</sub> and subsequent treatment with fluorine as
+described in USP 3,665,041.</li></sl></li><li>(4)
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">B-O-(C<sub>2</sub>F<sub>4</sub>O)<sub>t'</sub>(CF<sub>2</sub>O)<sub>u'</sub>-B'</st32:che>
+wherein:
+<sl><li>B and B', equal to or different from each other, are selected
+from -CF<sub>3</sub>, -C<sub>2</sub>F<sub>5</sub> or -C<sub>3</sub>F<sub>7</sub>;</li><li>t' and u' are integers such that the t'/u' ratio is in
+the range 0.1-5, preferably 0.5-4, u' being different
+from zero, and the product viscosity is in the above
+range;</li><li>said products are obtained by photooxidation of C<sub>2</sub>F<sub>4</sub> as
+reported in USP 3,715,378 and subsequent treatment with
+fluorine as described in USP 3,665,041.</li></sl></li><li>(5)
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">B-O-(CF<sub>2</sub>CF<sub>2</sub>CF<sub>2</sub>O)<sub>v'</sub>-B'</st32:che>
+wherein:
+<sl><li>B and B', equal to or different from each other, are selected
+from -CF<sub>3</sub>, -C<sub>2</sub>F<sub>5</sub> or -C<sub>3</sub>F<sub>7</sub>; </li><li>v' is a number such that the product viscosity is in the
+above range;</li><li>said products are obtained as reported in EP 148,482.</li></sl></li><li>(6)
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">D-O-(CF<sub>2</sub>CF<sub>2</sub>O)<sub>z'</sub>-D'</st32:che>
+wherein:
+<sl><li>D and D', equal to or different from each other, are selected
+between -C<sub>2</sub>F<sub>5</sub> or -C<sub>3</sub>F<sub>7</sub>;</li><li>z' is an integer such that the product viscosity is in
+the above range;</li><li>said products can be obtained as reported in USP
+4,523,039.</li></sl></li></sl></p><p num="0018">The -C<sub>3</sub>F<sub>6</sub>O- unit in the above formulas can have structure
+-CF(CF<sub>3</sub>)CF<sub>2</sub>O- or -CF<sub>2</sub>CF(CF<sub>3</sub>)O-.</p><p num="0019">According to the present invention the class (4) perfluoropolyethers
+are preferably used.</p><p num="0020">The formula (A) compounds are mixed with perfluoropolyether
+oils in a percentage from 0.01 to 10% by weight,
+preferably from 0.2 to 5% with respect to the perfluoropolyether
+oil weight. Preferably the formula (I) compound is
+used.</p><p num="0021">To the aforesaid mixtures other additives commonly used
+in the perfluoropolyether lubricating compositions can be added.</p><p num="0022">The compositions comprising the invention additives can
+be used in the presence of metals and in the presence of air 
+and oxygen at high tempertures, higher than 200°C, up to the
+oil decomposition temperature. In particular the invention
+additive can be used at temperatures of about 320°C, preferably
+up to 300°C.</p><p num="0023">The invention compositions, perfluoropolyether lubricating
+oil + additive, can be used for the above uses, preferably
+the additive has formula (I).</p><p num="0024">The following Examples are given for illustrative and
+not limitative purposes of the invention.</p><heading><b>EXAMPLES</b></heading><heading><u style="single">Microoxidation test</u></heading><p num="0025">The microoxidation test used in the Examples has been
+carried out using the equipment described in the following publication:
+Carl E. Snyder, Jr. and Ronald E. Dolle, Jr., ASLE
+Transactions, 13(3), 171-180 (1975). The used operating conditions
+have been the following:
+<ul list-style="bullet"><li>Perfluoropolyether oil utilized: Fomblin®M30 having kinematic
+viscosity at 20°C of 270 cSt (2.7·10<sup>8</sup> m<sup>2</sup>/s) and acidity,
+determined with the method indicated hereinafter,
+lower than 0.01 mg KOH/g;</li><li>Test temperature: 300°C;</li><li>Test duration: 24 h;</li><li>Air flow: 1 litre/h;</li><li>Metals dipped in the fluid: stainless steel (AISI 304) and
+titanium alloy containing A1 6%, V 4% (Titanium 6A14V).</li></ul></p><p num="0026">The tested fluid is introduced into the glass test tube
+of the equipment, shown in Fig. 1 of the above reference, and
+the test tube charged with the fluid and the metal is weighed
+and brought to the test temperature. The established time
+elapsed, the glass test tube is cooled to room temperature and
+weighed again. The per cent weight loss of the tested fluid is
+determined by the difference of the weight before and after
+the thermal treatment. The fluid is then recovered and the kinematic
+viscosity and the acidity are determined. After the
+test the surface aspect of the metals which have been dipped
+in the tested fluid is visually evaluated.</p><heading><u style="single">Determination of the perfluoropolyether oil acidity number</u></heading><p num="0027">The acidity number of the tested PFPE is measured by
+mixing under a light nitrogen flow, in the order, 5 ml of KOH
+0,01 N, 10 g of sample to be tested, 30 ml of Freon 113 and 40
+ml of MeOH. The base excess is titred with HCl 0.01 N by a potentiographic
+automatic titrator.</p><p num="0028">The acidity number N, is determined by the following formula:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">N = 0,56·(B-A)/W,</st32:df>
+wherein B = ml of HCl 0.01 N used for the control test
+(without sample), A = ml of HCl 0.01 N used in the titration
+of the base excess and W is the sample weight in grams. Therefore
+N is expressed in mg KOH/g fluid. </p><heading><u style="single">Determination of the kinematic viscosity of the perfluoropolyether
+oil</u></heading><p num="0029">The kinematic viscosity has been determined by capillary
+viscosimeter Cannon-Fenske according to the ASTM D 445 method.</p><heading><u style="single">EXAMPLE 1</u></heading><heading>Synthesis of the bis(2,4-dinitro phenil) (per)fluoropolyether
+derivative</heading><p num="0030"><img id="img-00110001" orientation="unknown" wi="112" img-format="tif" img-content="cf" file="00110001.tif" inline="no" he="34"/></p><p num="0031">11.8 g of potassium terbutylate are dissolved in 200 ml
+of terbutanol in a 500 ml three necked flask, equipped with
+mechanical stirrer, water refrigerant, thermometer and nitrogen
+head. Subsequently, maintaining the reactor at room temperature
+by means of a water bath, 100 g of ZDOL® 2000 of
+formula HOCH2CF<sub>2</sub>(OCF<sub>2</sub>CF<sub>2</sub>)m(OCF2)nOCF<sub>2</sub>CH<sub>2</sub>OH MW = 1966 EW = 993,
+m/n = 1.2 are dripped. When dripping is over, the reaction
+mixture is left under stirring for two hours under nitrogen
+head.</p><p num="0032">Lastly a solution composed of 21.2 g of 2,4-dinitro chlorobenzene
+dissolved in 28 ml of dioxane is slowly dripped at
+room temperature. A yellow brownish precipitate mainly consisting
+of KCl immediately forms.</p><p num="0033">The reactor is left under stirring for one hour at room 
+temperature, then for one hour at 65°C and lastly for another
+hour at 75°C. The reaction raw product is discharged in 600 ml
+of water. A turbid yellow brownish oil separates and the
+aqueous supernatant is extracted with two portions of 20 ml each
+of CF<sub>2</sub>Cl-CFCl<sub>2</sub> having boiling point of 47.6°C.</p><p num="0034">The fluorinated phases are joined to the oil and the mixture
+is decoloured by mixing with active carbon. The mixture
+is filtered on porous septum and dried, it is washed with two
+portions of 10 ml each of ethanol to remove the unreacted 2,4-dinitrochlorobenzene,
+it is dried under vacuum at 60°C for one
+hour. 92 g of product are isolated.</p><heading>Characterization of the product:</heading><p num="0035">NMR <sup>19</sup>F spectrum in ppm (with respect to CFCl<sub>3</sub> =0):
+
+-51/-56 (17F, (OCF<sub>2</sub>)<sub>n</sub>); -87/-91 (42F, (OCF<sub>2</sub>CF<sub>2</sub>)<sub>m</sub>); -76/-80
+(4F, OCF<sub>2</sub>CH<sub>2</sub>O);
+
+NMR <sup>1</sup>H spectrum in ppm (with respect to TMS):
+
+5.1 (4H, OCF<sub>2</sub>CH<sub>2</sub>); 8.8 (2H aromatic CNO<sub>2</sub>-CH-CNO<sub>2</sub>); 8.6 (2H
+aromatic CNO<sub>2</sub><u style="single">CH</u>-CH-); 7.8(2H aromatic Rf-CH<sub>2</sub>OC-<u style="single">CH</u>-CH-);
+
+IR spectrum (cm<sup>-1</sup>) intensity: (w) = weak, (m) = mean, (s) =
+strong, (vs) = very strong
+
+3092(w), 1612(w), 1542(w), 1351(m), 1207(vs), 1096(vs).
+
+Said NMR peakds show that the product has formula (I) for 91%
+by weight.
+
+NMR <sup>19</sup>F spectrum in ppm (with respect to the CFCl<sub>3</sub> =0):
+
+-81/-82 (0-C<u style="single">F</u><sub>2</sub>-CH<sub>2</sub>-OH);
+ 
+NMR <sup>1</sup>H spectrum in ppm (with respect to the TMS): 4.0 (0-CF<sub>2</sub>-C<u style="single">H</u><sub>2</sub>-OH).</p><heading><u style="single">EXAMPLE 2</u></heading><heading>Synthesis of the bis(p-nitrophenyl) (per)fluoropolyether derivative</heading><p num="0036"><img id="img-00130001" orientation="unknown" wi="138" img-format="tif" img-content="cf" file="00130001.tif" inline="no" he="30"/></p><p num="0037">In a flask, equal to that used in Example 1, potassium
+terbutylate, terbutanol and ZDOL® 2000 are added under the
+same conditions and amounts described therein.</p><p num="0038">Lastly a solution composed of 14.8 g of p-nitrofluorobenzene
+dissolved in 30 ml of dioxane is slowly dripped
+at room temperature. The reactor is left under stirring for
+one hour at room temperature, then for one hour at 65°C and
+lastly for two hours at 85°C. The reaction raw product is discharged
+in 600 ml of water. The oil is recovered as described
+in Example 1. The dried reaction raw product is then washed
+with two portions of 10 ml each of ethanol to remove the unreacted
+p-nitrofluorobenzene; it is dried under vacuum at 60°C
+for one hour. 85 g of product are isolated.</p><heading>Characterization of the product:</heading><p num="0039">NMR <sup>19</sup>F spectrum in p.p.m. (with respect to the CFCl<sub>3</sub> = 0):
+
+-51/-56 (17F, (OCF<sub>2</sub>)<sub>n</sub>); -87/-91 (42F, (OCF<sub>2</sub>CF<sub>2</sub>)<sub>m</sub>); -76/-80
+(4F, OCF<sub>2</sub>CH<sub>2</sub>O);
+ 
+NMR <sup>1</sup>H spectrum in ppm (with respect to TMS):
+
+4.8 (4H, OCF<sub>2</sub>CH<sub>2</sub>); 7.3 (4H aromatic in meta to NO<sub>2</sub>); 8.3
+(4H aromatic in ortho to NO<sub>2</sub>);
+
+IR spectrum (cm<sup>-1</sup>) intensity: (w) = weak, (m) = mean, (s) =
+strong, (vs) = very strong
+
+3090(w), 1789(w), 1596(m), 1596(m), 1522(m), 1456(w),
+1350(s), 1200(vs), 1100(vs).
+
+Said NMR peaks show that the product has formula (II) for 93%
+by weight.
+
+NMR <sup>19</sup>F spectrum in ppm (with respect to CFCl<sub>3</sub> =0): -81/-82
+(0-C<u style="single">F</u><sub>2</sub>-CH<sub>2</sub>-OH).
+
+NMR <sup>1</sup>H spectrum in ppm (with respect to TMS): 4.0 (0-CF<sub>2</sub>-C<u style="single">H</u><sub>2</sub>-OH).</p><heading><u style="single">EXAMPLE 3</u></heading><heading>Synthesis of the (per)fluoropolyether phenyl ester having
+formula</heading><p num="0040"><img id="img-00140001" orientation="unknown" wi="125" img-format="tif" img-content="cf" file="00140001.tif" inline="no" he="32"/></p><p num="0041">In a flask equal to that described in Example 1, 24 g of
+phenol, 200 g of an acylfluoride of formula:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">FOC(O)CF<sub>2</sub>(OCF<sub>2</sub>CF<sub>2</sub>)m(OCF<sub>2</sub>)nOCF<sub>2</sub>C(O)F</st32:che>
+prepared according to USP 3,715,378, having molecular weight
+2,400, m/n = 1.3 and 30 g of NaF, are introduced, in the order. 
+The heterogeneous mixture is heated under stirring at
+80°C for two hours. When heating is over, the product is filtered
+and heated at 135°C in a vacuum of 0.5 mm Hg (67 Pa) to
+remove the unreacted phenol. 198 g of the desired product are
+isolated.</p><heading>Characterization of the product:</heading><p num="0042">NMR <sup>19</sup>F spectrum in p.p.m. (with respect to CFCl<sub>3</sub> =0):
+
+-51/-56 (20F, (OCF<sub>2</sub>)<sub>n</sub>); -87/-91 (52F, (OCF<sub>2</sub>CF<sub>2</sub>)<sub>m</sub>); -80/-84
+(4F, OCF<sub>2</sub>(O)O);
+
+NMR <sup>1</sup>H spectrum in ppm (with respect to TMS):
+
+7.5/7.3 (4H ortho); 7.3/7.2 (6H: 2H in para, 4H in meta); IR
+spectrum (cm<sup>-1</sup>) intensity: (w) = weak, (m) = mean, (s) =
+strong, (vs) = very strong
+
+3588(w), 2364(w), 1805(vs), 1593(m), 1494(s), 1204(vs).</p><p num="0043">Said NMR peaks show that the product has formula (I) for
+100% by weight.</p><heading><u style="single">EXAMPLE 4</u></heading><heading>Microoxidation test of a perfluoropolyether oil added to the
+product obtained in Example 1.</heading><p num="0044">50 g of perfluoropolyether oil Fomblin®M30 are added
+with 0.5 g of the product obtained in Example 1 (1% by weight
+of the additive with respect to the oil) and then introduced
+into the glass test tube for the microoxidation test as above
+described. During the test the fluid has maintained limpid
+and no smoke development has been observed. </p><p num="0045">At the test end under the mentioned operating conditions
+a per cent loss ΔP% of fluid equal to 1.6% by weight has been
+measured. The kinematic viscosity has substantially remained
+unchanged (Δη= +0.84%).</p><p num="0046">The fluid acidity has not changed. The metals recovered
+from the fluid at the test end (stainless steel and Ti, Al, V
+alloy) did not show oxidation/corrosion signs, and their surface
+aspect was comparable with that of the specimens of the
+same metals not subjected to the treatment.</p><heading><u style="single">EXAMPLE 5</u></heading><heading>Microoxidation test of a perfluoropolyether oil added with
+the product obtained in Example 2.</heading><p num="0047">Example 4 is repeated by using as additive 0.5 g of the
+product obtained in Example 2.</p><p num="0048">At the test end under the mentioned operating conditions
+a per cent loss ΔP% of fluid of 1.3% has been measured. The
+kinematic viscosity has substantially remained unchanged
+(Δη= +0.6%). The fluid acidity is not changed. The metals
+recovered from the fluid at the test end (stainless steel and
+Ti, Al, V alloy) did not show oxidation/corrosion signs, and
+their surface aspect was comparable with that of the specimens
+of the same metals not subjected to the treatment.</p><heading><u style="single">EXAMPLE 6</u></heading><heading>Microoxidation test of a perfluoropolyether oil added with
+the product obtained in Example 3.</heading><p num="0049">Example 4 is repeated by using as additive 0.5 g of the
+product obtained in Example 3. At the test end under the mentioned
+operating conditions a per cent loss ΔP% of fluid
+equal to 1.7% and a kinematic viscosity variation equal to
+Δη= +2.1% have been measured.</p><p num="0050">The fluid acidity is not changed. The metals recovered
+from the fluid at the test end (stainless steel and Ti, Al, V
+alloy) did not show oxidation/corrosion signs, and their surface
+aspect was comparable with that of the specimens of the
+same metals not subjected to the treatment.</p><heading><u style="single">EXAMPLE 7 (comparative)</u></heading><heading>Microoxidation test of a not additivated perfluoropolyether
+oil in absence of metals.</heading><p num="0051">Example 4 is repeated without adding the additives of
+the present invention and in absence of metals in the perfluoropolyether
+oil.</p><p num="0052">During the test the development of white smokes has been
+observed.</p><p num="0053">At the test end under the mentioned operating conditions
+a per cent loss ΔP% of fluid of 4.6% by weight and a
+kinematic viscosity variation equal to Δη= +0.5% have been
+measured. The measured final fluid acidity has been 0.07 mg
+KOH/g.</p><heading><u style="single">EXAMPLE 8 (comparative)</u></heading><heading>Microoxidation test of a not additivated perfluoropolyether 
+oil in the presence of metals.</heading><p num="0054">Example 4 is repeated without adding the additives of
+the present invention.</p><p num="0055">During the test the intense development of white smokes
+has been observed.</p><p num="0056">At the test end under the mentioned operating conditions
+a very high per cent loss ΔP% of fluid equal to 82.8%
+by weight has been measured.</p><p num="0057">The measured final fluid acidity has been of 5.5 mg
+KOH/g. The surface aspect of the metals has resulted modified
+for the presence of evident oxidation signs (browning).</p><heading><u style="single">EXAMPLE 9</u></heading><heading>Microoxidation test of a perfluoropolyether oil added with
+the product obtained in Example 1.</heading><p num="0058">Example 4 has been repeated but by using 0.125 g of the
+product obtained in Example 1 (0.25% by weight of the additive
+with respect to the oil).</p><p num="0059">During the test the fluid has maintained limpid and no
+smoke development has been observed.</p><p num="0060">At the test end under the mentioned operating conditions
+a per cent loss ΔP% of fluid of 0.18% has been measured,
+while the kinematic viscosity has substantially remained
+unchanged (Δη= +1.33%).</p><p num="0061">The fluid acidity is not changed. The metals recovered
+from the fluid at the test end (stainless steel and Ti, Al, V 
+alloy) did not show oxidation/corrosion signs, and their surface
+aspect was comparable with that of the specimens of the
+same metals not subjected to the treatment.</p><p num="0062">The following Table 1 summarizes the results obtained in
+Examples 4-9. <img id="img-00200001" orientation="unknown" wi="134" img-format="tif" img-content="tb" file="00200001.tif" inline="no" he="230"/></p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>Use as stabilizers of perfluoropolyether lubricating oils
+at high tempertures, higher than 200°C, of compounds having
+the following general formula (A):
+
+   wherein:
+<claim-text><claim-text>X, Y, X', Y', equal to or different, are independently
+the one from the other H; NO2; C1-C4 alkyl;
+C1-C4 alkoxy, preferably methoxy group;</claim-text><claim-text>Z = -CH2-; &gt;C=O (carbonyl);</claim-text><claim-text>m and n are integers such that m is in the range 0-80,
+extremes included; n is in the range 0-20, extremes
+included, m+n being &gt;1;</claim-text></claim-text>
+   the molecular weight of the perfluoropolyether part
+(units with indexes m and n) being from 500 to 10,000,
+preferably from 1,000 to 4,000.</claim-text></claim><claim num="2"><claim-text>Use according to claim 1, wherein the general formula (A)
+compounds are selected from the following:
+
+wherein m is in the range 0-80, extremes included; n is
+in the range 0-20, extremes included, m/n preferably
+being from 0.5 to 4 when n is different from zero and m+n
+is such to give the above molecular weight.</claim-text></claim><claim num="3"><claim-text>Use according to claims 1-2, wherein the perfluoropolyether
+oils have perfluoroalkyl end groups and have a viscosity
+at 20°C in the range 10-100,000 cSt, preferably
+30- 2,000 cSt.</claim-text></claim><claim num="4"><claim-text>Use according to claim 3, wherein the perfluoropolyether
+oils have the repeating units statistically distributed
+along the chain and have the following structures:
+<claim-text><claim-text>(1)
+B-O-[C3F6O]m'(CFT'O)n'-B'
+wherein:
+<claim-text><claim-text>T' = F, CF3;</claim-text><claim-text>B and B', equal to or different from each other,
+are selected from -CF3, -C2F5 or -C3F7;</claim-text><claim-text>m' and n' are integers such that the m'/n' ratio is
+in the range 20-1,000, n' being different from zero,
+and the product viscosity is in the above limits;</claim-text></claim-text></claim-text><claim-text>(2)
+C3F7O-[C3F6O]o'-D
+wherein:
+<claim-text><claim-text>D is equal to -C2F5 or -C3F7;</claim-text><claim-text>o' is an integer such that the product viscosity is
+in the above range;</claim-text></claim-text></claim-text><claim-text>(3)
+B-O-[CF(CF3)CF2O]q'(C2F4O)r'(CFT'O)s'-B'
+wherein:
+<claim-text><claim-text>T' is as above;</claim-text><claim-text>B and B', equal to or different from each other,
+are selected from -CF3, -C2F5 or -C3F7;</claim-text><claim-text>q', r' and s' are integers and can take also the
+value of zero, with the proviso that they are not
+all contemporaneously equal to zero, and are such
+that the product viscosity is in the above range;</claim-text></claim-text></claim-text><claim-text>(4)
+B-O-(C2F4O)t'(CF2O)u'-B'
+wherein:
+<claim-text><claim-text>B and B', equal to or different from each other,
+are selected from -CF3, -C2F5 or -C3F7;</claim-text><claim-text>t' and u' are integers such that the t'/u' ratio is
+in the range 0.1-5, preferably 0.5-4, u' being different
+from zero, and the product viscosity is in
+the above range;</claim-text></claim-text></claim-text><claim-text>(5)
+B-O-(CF2CF2CF2O)v'-B'
+wherein:
+<claim-text><claim-text>B and B', equal to or different from each other,
+are selected from -CF3, -C2F5 or -C3F7;</claim-text><claim-text>v' is a number such that the product viscosity is
+in the above range;</claim-text></claim-text></claim-text><claim-text>(6)
+D-O-(CF2CF2O)z'-D'
+wherein:
+<claim-text><claim-text>D and D', equal to or different from each other,
+are selected between -C2F5 or -C3F7;</claim-text><claim-text>z' is an integer such that the product viscosity is
+in the above range.</claim-text></claim-text></claim-text></claim-text>
+   The -C3F6O- unit in the above formulas can have the
+structure -CF(CF3)CF2O- or -CF2CF(CF3)O-.</claim-text></claim><claim num="5"><claim-text>Use according to claim 4, wherein the perfluoropolyether
+oils have structure (4).</claim-text></claim><claim num="6"><claim-text>Use according to claims 1-5, wherein the compounds of
+formula (A) are mixed with the perfluoropolyether oils in
+a percentage from 0.01 to 10% by weight, preferably from
+0.2 to 5% by weight, with respect to the perfluoropolyether
+oil weight.</claim-text></claim><claim num="7"><claim-text>Use according to claims 1-6, wherein the formula (I) compound
+is used.</claim-text></claim><claim num="8"><claim-text>Use according to claims 1-7, wherein to the mixtures of
+the formula (A) compounds with perfluoropolyether oils,
+additives selected from those used in the perfluoropolyether
+lubricating compositions are added.</claim-text></claim><claim num="9"><claim-text>Use according to claims 1-8, wherein the compositions
+are used in the presence of metals and in the presence
+of air and oxygen at high temperatures, higher than
+200°C, up to the oil decomposition temperature, preferably
+up to about 320°C, still more preferably up to
+300°C.</claim-text></claim><claim num="10"><claim-text>Compositions according to claims 1-9.</claim-text></claim><claim num="11"><claim-text>Compositions according to claims 1-9, wherein the additive
+has formula (I).</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

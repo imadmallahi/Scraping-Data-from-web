@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-0995803-A2" country="EP" doc-number="0995803" kind="A2" lang="EN" family-id="26476631" status="new" date-produced="20090516" date="20000426"><bibliographic-data><publication-reference ucid="EP-0995803-A2" status="new" fvid="22823340"><document-id status="new" format="original"><country>EP</country><doc-number>0995803</doc-number><kind>A2</kind><date>20000426</date></document-id></publication-reference><application-reference ucid="EP-99120056-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>99120056</doc-number><kind>A</kind><date>19991019</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-14554899-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>14554899</doc-number><kind>A</kind><date>19990525</date></document-id></priority-claim><priority-claim ucid="JP-29889698-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>29889698</doc-number><kind>A</kind><date>19981020</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C12Q   1/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12Q   1/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C12Q   1/00B</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Kit zum Probebehandeln und Verfahren zum Probebehandeln für Analyse mit einem Biosensor</invention-title><invention-title load-source="ep" status="new" lang="EN">Sample treating kit and sample treating method using the same for analysis with a biosensor</invention-title><invention-title load-source="ep" status="new" lang="FR">Kit pour traiter un échantillon et procédé pour traiter un échantillon en l'utilisant pour analyse avec un biocapteur</invention-title><citations><patent-citations><patcit ucid="EP-0537761-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0537761</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0732406-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0732406</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-5240828-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>5240828</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="Y"/></sources></patcit><patcit ucid="JP-59006897-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>59006897</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="Y"/></sources></patcit><patcit ucid="JP-7083871-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>7083871</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="Y"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN vol. 008, no. 085 (C-219), 18 April 1984 (1984-04-18) &amp; JP 59 006897 A (SEKISUI KAGAKU KOGYO KK), 13 January 1984 (1984-01-13)</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN vol. 017, no. 699 (P-1665), 21 December 1993 (1993-12-21) &amp; JP 05 240828 A (KANZAKI PAPER MFG CO LTD), 21 September 1993 (1993-09-21)</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>PATENT ABSTRACTS OF JAPAN vol. 1995, no. 06, 31 July 1995 (1995-07-31) &amp; JP 07 083871 A (MATSUSHITA ELECTRIC IND CO LTD), 31 March 1995 (1995-03-31)</text><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>MATSUSHITA ELECTRIC IND CO LTD</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>MATSUSHITA ELECTRIC INDUSTRIAL CO., LTD.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>MATSUSHITA ELECTRIC INDUSTRIAL CO., LTD.</last-name><address><street>1006, Ohaza Kadoma</street><city>Kadoma-shi, Osaka 571-8501</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new"  format="epo"><addressbook><name>MIYASHITA MARIKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>NANKAI SHIRO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>YOSHIOKA TOSHIHIKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MIYASHITA, MARIKO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>NANKAI, SHIRO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>YOSHIOKA, TOSHIHIKO</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>MIYASHITA, MARIKO</last-name><address><street>16-2 Takaginishimachi</street><city>Nishinomiya-shi, Hyogo 663-8032</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>NANKAI, SHIRO</last-name><address><street>4-50-12 Nasuzukuri</street><city>Hirakata-shi, Osaka 573-0071</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>YOSHIOKA, TOSHIHIKO</last-name><address><street>15-15-307 Takatsuka-cho</street><city>Hirakata-shi, Osaka 573-0035</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Dr. Elisabeth Jung Dr. Jürgen Schirdewahn Dipl.-Ing. Claus Gernhardt</last-name><address><street>Clemensstrasse 30</street><city>80803 München</city><country>DE</country></address></addressbook></agent></agents></parties> <international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>ES</country><country>FR</country><country>GB</country><country>IT</country> </ep-contracting-states> </designated-states> </international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>The present invention provides a sample solution
+treating instrument facilitating rapid and simplified
+adjustment of the condition of a sample solution proper
+for analysis with a biosensor before supply to the
+biosensor. The sample solution treating instrument in
+accordance with the present invention comprises control
+means, such as a catalyst or an adsorbent, for example,
+which can remove any interfering substance for adjusting
+the sample solution proper for measurement with a
+biosensor.
+<img id="img-00000001" orientation="unknown" wi="63" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="58"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading>BACKGROUND OF THE INVENTION</heading><p num="0001">The present invention relates to an instrument
+for treating a sample solution to be supplied to a
+biosensor for analysis and a method for treating a sample
+solution using the same. More specifically, the present
+invention relates to a sample treating kit and a sample
+treating method using the same for analysis with a
+biosensor.</p><p num="0002">One method for simple quantitative measurement
+of a specific component contained in a sample solution is
+to determine oxidation current by reacting, in the
+presence of an electron acceptor, the specific component
+with an oxidoreductase corresponding to the substrate of
+the specific component and electrochemically oxidizing the
+reduced electron acceptor.</p><p num="0003">Biosensors using this measurement principle
+enable measurement of various substances if a proper
+oxidoreductase corresponding to the substrate of an
+analyte is selected.</p><p num="0004">However, since such biosensor makes analysis
+with the aid of enzyme reaction and electrode reaction,
+smooth progress of the enzyme reaction and electrode 
+reaction is mandatory in order to improve measurement
+accuracy of the biosensor.</p><p num="0005">Therefore, there are several studies to enhance
+enzyme activity by adjusting temperature and pH of the
+sample solution or remove any interfering substance with
+the enzyme or electrode reaction.</p><p num="0006">Moreover, sample solutions may sometimes include
+oxidizable substances which may produce oxidation current
+due to their concurrent oxidation with the electron
+acceptor and generate a positive error in the measured
+oxidation current. This can result in impaired
+measurement accuracy of the biosensor. Therefore,
+reduction of adverse effects of such oxidizable substance
+to a minimum becomes a requisite.</p><p num="0007">Conventional biosensors are installed with means
+for solving the above-mentioned problems inside their
+measurement system.</p><p num="0008">Here, the operation of measurement of a flow
+injection analyzer (YSI MODEL 2700 SELECT, made by Yellow
+Spring Instrument Co., Inc.) as a biosensor using an
+immobilized enzyme membrane and electrode reaction will be
+described as one example.</p><p num="0009">The measurement system of this analyzer
+comprises an electrode system including at least a working
+electrode and a counter electrode, an immobilized enzyme
+membrane attached to the electrode system, a sample 
+chamber to which a sample solution is supplied to make
+measurement there, and an electric circuitry connected to
+the electrode system.</p><p num="0010">First, one end of an aspiration tube for
+aspirating a sample whose other end communicates with the
+sample chamber is immersed in a sample solution and the
+solution is aspirated by the tube and supplied to the
+sample chamber through the communicating other end. At
+that time, a certain amount of buffer solution is
+aspirated by another aspiration tube and supplied to the
+sample chamber.</p><p num="0011">Subsequently, the sample solution and the buffer
+solution thus supplied are mixed by agitation using a
+stirrer installed in the sample chamber. When a certain
+time has passed after supply of the sample solution and
+buffer solution, electrochemical measurement is performed
+to quantitate the analyte in the sample solution.</p><p num="0012">Any analyzer having such structure adjusts pH of
+the sample solution to a suited pH for enzyme reaction and
+dilutes the sample solution to an appropriate
+concentration by supplying the buffer solution to the
+sample chamber.</p><p num="0013">Concurrent agitation of the sample solution and
+buffer solution facilitates their rapid mixing on one hand
+and promotes dissolution of the enzyme in the mixed
+solution on the other hand. This in turn enables supply 
+of sufficient oxygen to proceed enzyme reaction.</p><p num="0014">Despite the above advantages, such analyzer
+requires exchange of the immobilized enzyme membrane with
+a proper one depending on the analyte. Moreover, since
+the pH range proper for enzyme reaction varies by enzyme,
+the buffer solution must be exchanged concurrently. This
+renders manipulation of the analyzer inconvenient.</p><p num="0015">Although dilution of the sample solution reduces
+adverse effects of the interfering substances hindering
+enzyme and electrode reactions and the oxidizable
+substance, complete elimination of these effects is much
+difficult. This limits the extent of improvement of the
+measurement accuracy.</p><heading>BRIEF SUMMARY OF THE INVENTION</heading><p num="0016">A primary object of the present invention is,
+therefore, to provide a sample solution treating
+instrument that facilitates simple adjustment of a sample
+solution to be supplied to a biosensor for analysis to a
+condition facilitating rapid analysis with high accuracy.</p><p num="0017">Another object of the present invention is to
+provide a method for treating a sample solution to be
+supplied to a biosensor for analysis, using the above
+sample solution treating instrument.</p><p num="0018">The present invention provides a sample solution
+treating instrument for formulating a sample solution to 
+be supplied to a biosensor for analysis, comprising
+control means for placing the sample solution in a proper
+condition for analysis with the biosensor.</p><p num="0019">The method for treating a sample solution in
+accordance with the present invention comprises the steps
+of introducing a sample solution, which will be supplied
+to a biosensor for analysis, into the above sample
+solution treating instrument, and adjusting the sample
+solution closest to a proper condition for analysis with
+the biosensor.</p><p num="0020">In a preferred mode of the present invention,
+the control means has a catalyst located inside the
+instrument for converting an interfering substance in the
+sample solution to a harmless substance having no adverse
+effect on the measurement results.</p><p num="0021">In another preferred mode of the present
+invention, the control means has an adsorbent located
+inside the instrument for adsorbing and removing an
+interfering substance in the sample solution.</p><p num="0022">In a further preferred mode of the present
+invention, the control means has a buffer agent located
+inside the instrument for adjusting pH of the sample
+solution to a proper pH for the activity of an enzyme in
+the biosensor.</p><p num="0023">While the novel features of the invention are
+set forth particularly in the appended claims, the 
+invention, both as to organization and content, will be
+better understood and appreciated, along with other
+objects and features thereof, from the following detailed
+description taken in conjunction with the drawings.</p><heading>BRIEF DESCRIPTION OF THE SEVERAL VIEWS OF THE DRAWING</heading><p num="0024"><sl><li>FIG. 1 is a perspective view illustrating an
+appearance of a sample solution treating instrument in
+accordance with one example of the present invention.</li><li>FIG. 2 is a longitudinal cross-sectional view of
+the treating instrument of FIG. 1.</li><li>FIG. 3 is a longitudinal cross-sectional view
+illustrating a sample solution treating instrument in
+accordance with another example of the present invention.</li><li>FIG. 4 is a perspective view illustrating a
+sample solution treating instrument in accordance with a
+further example of the present invention.</li><li>FIG. 5 is a longitudinal cross-sectional view of
+a sample solution treating instrument in accordance with a
+further example of the present invention.</li><li>FIG. 6 is a plan view sketch illustrating a
+biosensor used in one example of the present invention
+from which a reaction layer has been omitted.</li><li>FIG. 7 is a longitudinal cross-sectional view
+illustrating the biosensor of FIG. 6.</li></sl></p><heading>DETAILED DESCRIPTION OF THE INVENTION</heading><p num="0025">As discussed above, the sample solution treating
+instrument in accordance with the present invention
+comprises control means which places a sample solution in
+a proper condition for analysis with a biosensor, namely,
+controls the condition of the sample solution by
+eliminating adverse influences of the above-mentioned
+interfering substances on the measurement results or
+controls the sample solution to have an adequate pH range
+or temperature range for the activity of an enzyme to be
+used. Pretreatment of the sample solution with this
+treating instrument facilitates rapid and high accuracy
+analysis of any specific component contained in the sample
+solution.</p><p num="0026">When the control means has a substance which
+catalyzes conversion of the above-mentioned interfering
+substance to a harmless substance having no effect on the
+measurement results, then it is possible to remove the
+effect of such interfering substance.</p><p num="0027">For example, when a sample solution containing
+an oxidizable interfering substance is used, if the
+treating instrument is provided with a catalyst layer
+containing an enzyme which catalyzes oxidation of this
+interfering substance or a metal oxide such as manganese
+dioxide, etc., the interfering substance is oxidized upon
+supply of the sample solution to the treating instrument 
+and is converted to a harmless substance at no risk of
+producing oxidation current. This results in improved
+measurement accuracy of the biosensor.</p><p num="0028">Exemplary oxidizable substances include a
+variety of vitamin, such as vitamin B<sub>2</sub>, vitamin C, etc.,
+dyes such as anthocyanin, tannic acid, etc., and organic
+acids such as uric acid, etc. When the sample solution
+contains, for instance, ascorbic acid, namely vitamin C,
+inclusion of ascorbate oxidase in the catalyst layer may
+result in successful conversion of ascorbic acid to
+dehydroascorbic acid which is much refractory to
+oxidation.</p><p num="0029">Alternatively, the catalyst layer may contain a
+catalyst which converts such substance to which the
+enzyme contained in the biosensor mistakenly reacts by
+taking it as an analyte, into a substance to which the
+enzyme is least likely to react.</p><p num="0030">The catalyst layer may contain a single enzyme.
+However, inclusion of two or more enzymes in the catalyst
+layer proves particularly convenient when the sample
+solution contains two or more interfering substances,
+because this facilitates treatment of the sample solution
+by only one operation.</p><p num="0031">When the control means has an adsorbent having a
+physically adsorbing ability, it is possible to remove the
+interfering substance from the sample solution. </p><p num="0032">For example, organic acids such as lactic acid
+generating during brewing foods impair accuracy of the
+measurement of glucose concentration for quality control
+of brewed foods, because they have adverse effects on the
+enzyme reaction and electrode reaction.</p><p num="0033">The measurement accuracy, however, can be
+improved by treating the sample solution to remove such
+organic acids, using a treating instrument formed with an
+adsorbent layer containing activated carbon.</p><p num="0034">Alternatively, when the control means has a
+buffer agent which can be dissolved in the sample solution
+upon supply of the sample solution to the treating
+instrument and places the sample solution in a proper pH
+range for the activity of the enzyme used, the enzyme
+activity in the biosensor can be enhanced and rapid
+measurement can be performed with high accuracy.</p><p num="0035">For example, when lactate oxidase is the enzyme
+to be used, the use of a buffer agent such as phosphate
+buffer is better in order to place the sample solution in
+a pH range between 6 and 7 which is adequate pH range for
+the activity of lactate oxidase. Any arbitrary buffer
+agent, such as McIlvaine buffer or Tris-HCl buffer, may be
+used depending on the enzyme to be used.</p><p num="0036">Resins are suitable for constituting the
+treating instrument in accordance with the present
+invention. However, the present invention is not limited 
+to the resin and any material that permits formation of
+the above-mentioned control means can be used.</p><p num="0037">As to the shape, the treating instrument in
+accordance with the present invention is not limited to a
+specific shape and any shape that can accommodate the
+above-mentioned control means and retain the sample
+solution may be used.</p><p num="0038">As to the location of the control means, it can
+be located at an arbitrary site which can make contact
+with the sample solution when the sample solution is
+supplied to the treating instrument.</p><p num="0039">A provision of heating means to the treating
+instrument enables direct supply of a sample solution
+shortly after being taken out from a low temperature
+reservoir, such as refrigerator, to a biosensor for
+measurement. Furthermore, not limited to enzyme, normal
+catalysts have a temperature at which they can exert their
+best activity. Therefore, controllability of the
+temperature of the sample solution at such temperature is
+considered much convenient, because this enables rapid
+completion of treatment and analysis of the sample
+solution.</p><p num="0040">As the heating means, it is recommended to cover
+the treating instrument with an electric heating sheet
+such as a textile incorporated with heating wires.</p><p num="0041">It is also recommended to include stirring means 
+in the treating instrument, because it helps to mix the
+sample solution with the catalyst layer or a layer of
+buffer agent homogeneously.</p><p num="0042">The method for treating a sample solution in
+accordance with the present invention comprises the steps
+of introducing a sample solution to be supplied to a
+biosensor for analysis into the sample solution treating
+instrument as explained above, and adjusting the sample
+solution closest to a proper condition for the measurement
+with the biosensor.</p><p num="0043">This structure eliminates laborious
+manipulations, such as dilution of sample solution, for
+reducing adverse effects of any interfering substance
+contained in the sample solution after its introduction
+into a biosensor.</p><p num="0044">The biosensor has a tendency of losing its
+measurement accuracy with increases of analyte
+concentrations in the sample solution. Therefore,
+diluting the sample solution to an adequate magnification
+by supplying water, buffer solution and so on enhances
+measurement accuracy of the biosensor.</p><p num="0045">In doing so, it is recommended to use a buffer
+solution that can place the sample solution in a proper pH
+range for the activity of the enzyme in the biosensor.</p><p num="0046">Supplementary agitation and/or heating of the
+sample solution would accelerate the treatment of sample 
+solution.</p><p num="0047">As the biosensor used here, disposable
+biosensors as described below are convenient. Although
+the sensors used in the following examples have no cover
+member, the use of commercially available sensors having a
+cover member for covering the base plate and forming,
+between the base plate and the cover member, a sample
+supply pathway for introducing a sample solution into the
+reaction layer is recommended. U.S. Pat. No. 5,120,420
+which discloses details of such sensor with a cover member
+is incorporated herein by reference.</p><p num="0048">In the following, the present invention will be
+described more specifically by way of concrete examples.</p><p num="0049">FIG. 1 is a perspective view illustrating a
+sample solution treating instrument in accordance with one
+example of the present invention and FIG. 2 is a
+longitudinal cross-sectional view of FIG. 1.</p><p num="0050">A control membrane 11 is formed by either
+directly pressing a substance serving as means for placing
+a sample solution in a predetermined condition against a
+bottom of a resin vessel 10, or dropping a solution
+dissolving the substance in a proper solvent or a
+dispersion of the substance in a proper dispersion medium
+on the bottom, followed by drying and volatilizing the
+solvent or the dispersion medium.</p><p num="0051">FIG. 3 is a longitudinal cross-sectional view 
+illustrating a sample solution treating instrument in
+accordance with another example of the present invention.
+A control membrane 21 is formed on an inner wall of a
+resin vessel 20 in the same manner as in FIG. 2.</p><p num="0052">FIG. 4 is a perspective view illustrating a
+sample solution treating instrument in accordance with a
+further example of the present invention.</p><p num="0053">The treating instrument is composed of a sample
+treating unit 30 comprising a porous carrier, such as
+nonwoven glass fiber cloth or filter paper, and a sample
+supply unit 31. The sample treating unit 30 retains a
+substance for placing the sample solution in a desired
+condition. The sample treating unit 30 can be formed by
+dissolving the substance in an appropriate solvent in
+which the porous carrier is immersed and dried to
+volatilize the solvent or, alternatively, by dropping a
+solution dissolving the substance or a dispersion of the
+substance in a dispersion medium on the porous carrier and
+drying it to volatilize the solvent or dispersion medium.
+The sample supply unit 31 is made of an elastic material
+capable of retaining the sample solution insides, such as
+sponge. After passing through the sample treating unit
+30, the sample solution reaches the sample supply unit 31
+communicating with the sample treating unit 30 to be
+supplied to a biosensor therefrom.</p><p num="0054">FIG. 5 is a longitudinal cross-sectional view of 
+a sample solution treating instrument in accordance with a
+further example of the present invention. Treating layers
+41 and 42 are formed inside a resin vessel 40 equipped
+with a sample solution supply nozzle 43 on its bottom.
+The treating layers are made of the substance for placing
+the sample solution in a desired condition or a liquid
+permeable material retaining the substance. The sample
+solution to be treated is introduced into the vessel 40
+through an opening of the vessel 40, treated during its
+passage through the treating layers 41 and 42, and
+supplied to a biosensor through the nozzle 43.</p><p num="0055">FIG. 6 is a plan view sketch illustrating a
+biosensor used in one example of the present invention
+from which a reaction layer has been omitted.</p><p num="0056">A silver paste is printed on an electrically
+insulating base plate 1 made of polyethylene terephthalate
+by known screen printing to form leads 2 and 3.
+Subsequently, a conductive carbon paste containing a resin
+binder is printed on the base plate 1 to form a working
+electrode 4. The working electrode 4 is so made to
+contact the lead 2. An insulating paste is further
+printed on the base plate 1 to form an insulating layer 6.
+The insulating layer 6 covers the periphery of the working
+electrode 4 to hold an exposed area of the working
+electrode 4 constant. Finally, the same conductive carbon
+paste containing a resin binder is printed on the base 
+plate 1 to contact the lead 3 thereby forming a ring-like
+counter electrode 5.</p><p num="0057">FIG. 7 is a longitudinal cross-sectional view
+illustrating the biosensor of FIG. 6. A reaction layer 7
+containing an enzyme and an electron acceptor is formed on
+the electrode system comprising the working electrode 4
+and the counter electrode 5 on the base plate 1.</p><heading>Example 1</heading><p num="0058">After preparation of a fruit juice as a sample
+solution, the glucose concentration in the fruit juice was
+measured using the biosensor illustrated in FIG. 6. The
+reaction layer 7 of the biosensor contained glucose
+oxidase (hereinafter abbreviated to "GOx") as the enzyme
+and potassium hexacyanoferrate (III) as the electron
+acceptor.</p><p num="0059">Fruit juices normally contain much ascorbic acid
+which is an oxidizable substance. Therefore, the use of
+fruit juices as they are can produce a positive error in
+the measured oxidation current and the obtained value will
+be higher than the actual value.</p><p num="0060">Therefore, prior to introduction into the
+biosensor, a fruit juice to be measured was adjusted using
+a treating instrument produced as follows.</p><p num="0061">An aqueous solution of ascorbate oxidase
+(hereinafter abbreviated to "AsOx") which is a catalyst of 
+selective oxidation reaction of ascorbic acid was dropped
+on the bottom of the resin vessel 10 in FIG. 2 and dried
+in a dry atmosphere to form a layer 11 of AsOx, which gave
+a treating instrument to be used in this example.</p><p num="0062">A fruit juice was supplied to the treating
+instrument. As a result, the ascorbic acid contained in
+the fruit juice was converted to a harmless substance,
+dehydroascorbic acid, having no adverse influence on the
+measurement of oxidation current by the catalytic action
+of AsOx.</p><p num="0063">The fruit juice thus formulated was introduced
+into the biosensor as a sample solution. When dropped on
+the reaction layer 7 of the biosensor, the sample solution
+dissolved the reaction layer 7 and the GOx present in the
+reaction layer 7 selectively oxidized the glucose
+contained in the fruit juice. This enzyme reaction
+accompanied reduction reaction of the potassium
+hexacyanoferrate (III) to potassium hexacyanoferrate (II).</p><p num="0064">When a predetermined time has passed after the
+fruit juice was dropped, a voltage was applied, with
+reference to the counter electrode 5, onto the working
+electrode 4 to reoxidize the potassium hexacyanoferrate
+(II) to potassium hexacyanoferrate (III) and the oxidation
+current flowing during reoxidation reaction was measured.</p><p num="0065">The result showed successful measurement of the
+glucose concentration in the fruit juice with the same 
+accuracy as the measurement of a glucose standard solution
+containing no ascorbic acid.</p><p num="0066">In measuring a fruit juice which was considered
+to contain much glucose, the fruit juice was diluted by
+concurrently supplying water to the treating instrument.
+The result showed that glucose quantitation was more
+accurate for the diluted sample solution than for the
+original sample solution.</p><p num="0067">When the fruit juice was adjusted to come in a
+proper pH range for the activity of AsOx using, as a
+diluent, a buffer solution with an adjusted pH between 4
+and 8 in place of water, the measurement accuracy was
+further increased.</p><p num="0068">After being supplied to the treating instrument,
+the sample solution was stirred. This accelerated
+dissolution of the AsOx layer and facilitated supply of
+sufficient oxygen to the sample solution. Promoted
+catalytic reaction of the AsOx enabled rapid treatment of
+the sample solution.</p><p num="0069">Next, a fruit juice shortly after being taken
+out from a refrigerator was supplied to the treating
+instrument whose resin vessel as shown in FIG. 2 was
+covered with an electric heating sheet in order to warm up
+the fruit juice. As a result, since the fruit juice was
+successfully heated to a proper temperature for the
+activity of AsOx, the treatment was rapid. This fruit 
+juice was supplied as it was to the biosensor for analysis
+in the same manner as described above which resulted in
+rapid and high accuracy analysis.</p><heading>Example 2</heading><p num="0070">First, fruit fermentation mash generating in the
+course of fermentation of wine (hereinafter referred to as
+"must") was prepared as a sample solution and the glucose
+concentration in the must was measured using an identical
+biosensor to that of Example 1. Measurement and control
+of the glucose concentration in the must during
+fermentation is key to management of the quality of wine.</p><p num="0071">However, must normally contains much polyphenol
+such as tannic acid, for example, which is an oxidizable
+substance. Therefore, the use of such must as it is can
+produce a positive error in the measured oxidation current
+and the obtained value will be higher than the actual
+value.</p><p num="0072">Therefore, prior to introduction into the
+biosensor, a must to be measured was treated using a
+treating instrument produced as follows.</p><p num="0073">An aqueous solution of polyphenol oxidase
+(another name is laccase) which is a catalyst of selective
+oxidation reaction of polyphenol was dropped on the bottom
+of the resin vessel 10 in FIG. 2 and dried in a dry
+atmosphere to form an enzyme layer 11, which gave a 
+treating instrument to be used in this example.</p><p num="0074">A must was supplied to the treating instrument.
+As a result, the polyphenol contained in the must was
+converted to a harmless substance, polyquinone, having no
+adverse influence on the measurement of oxidation current
+by the catalytic action of laccase.</p><p num="0075">The must thus formulated was introduced into the
+biosensor as a sample solution to measure the glucose
+concentration in the must in the same manner as in Example
+1.</p><p num="0076">The result showed successful measurement of the
+glucose concentration in the must with the same accuracy
+as the measurement of a glucose standard solution
+containing no polyphenol.</p><p num="0077">In measuring a must which was considered to
+contain much glucose, dilution of the must by concurrently
+supplying water or a buffer solution at an adjusted pH
+between 4 and 8 similar to Example 1 enabled to increase
+the measurement accuracy.</p><heading>Example 3</heading><p num="0078">A nutritional drink was prepared as a sample
+solution (RIPOVITAN D, manufactured by Taisho
+Pharmaceutical, Co., Ltd.) and fructose and glucose
+concentrations in the drink were measured in the same 
+manner as in Example 1. At measurement of fructose
+concentration, fructose dehydrogenase was contained in the
+reaction layer 7 in place of GOx.</p><p num="0079">Luxury drinks like nutritional drink normally
+contain additives such as vitamin C (ascorbic acid)
+functioning as an antioxidant, vitamin B<sub>2</sub> (riboflavin)
+functioning as a dye. All of them are oxidizable
+substances and can produce a positive error in the
+measured oxidation current if used as they are, resulting
+in a higher value than the actual value.</p><p num="0080">Therefore, prior to introduction into the
+biosensor, a nutritional drink to be measured was treated
+using a treating instrument produced as follows.</p><p num="0081">An aqueous mixture of an aqueous AsOx solution
+and another aqueous solution of riboflavinase which is a
+catalyst of selective degradation of riboflavin at a
+volumetric ratio of 1:1 was dropped on the sample treating
+unit 30 in FIG. 4 and dried in a dry atmosphere to carry
+AsOx and riboflavin on the sample treating unit 30, which
+gave a treating instrument to be used in this example.</p><p num="0082">A nutritional drink was supplied to the sample
+treating unit 30 of the treating instrument. As a result,
+the vitamin C in the nutritional drink was converted, via
+the action of AsOx, to a harmless substance,
+dehydroascorbic acid, having no adverse influence on the
+measurement of oxidation current. Similarly, the vitamin 
+B<sub>2</sub> was converted, via the action of riboflavinase, to a
+harmless substance, ribitol, having no adverse influence
+on the measurement of oxidation current.</p><p num="0083">The nutritional drink thus formulated during its
+passage through the sample treating unit 30 is introduced
+into the biosensor through the sample supply unit 31.
+Since the sample supply unit 31 is a sponge, the
+nutritional drink can be introduced into the biosensor by
+simply pressing the biosensor against the unit 31 and
+measurement can be initiated.</p><p num="0084">The nutritional drink thus formulated was
+introduced into the biosensor in the same manner as
+described above to measure the fructose and glucose
+concentrations in the drink.</p><p num="0085">The result showed successful measurement of the
+fructose and glucose concentrations in the drink with the
+same accuracy as the measurement of fructose and glucose
+standard solutions.</p><heading>Example 4</heading><p num="0086">Glucose concentration was managed in the same
+manner as in Example 1 in the course of brewing Japanese
+rice wine (hereinafter referred to as "sake").</p><p num="0087">Fermentation of sake generates a variety of
+organic acids such as lactic acid, malic acid, etc., in
+addition to ethanol. Some of those organic acids may have 
+adverse effects on the enzyme reaction and electrode
+reaction of the biosensor.</p><p num="0088">Therefore, prior to introduction into the
+biosensor, sake as a sample solution was treated using a
+treating instrument as described below.</p><p num="0089">The treating instrument used here has the
+structure as shown in FIG. 5. More specifically, it has a
+laminate of (1) a treating layer 41 formed by pressing a
+mixture of an activated carbon powder with a powder of
+polytetrafluoroethylene at an appropriate ratio into a
+pellet and (2) a treating layer 42 formed by dropping a
+solution of a buffer agent on a glass filter and drying it
+to carry the buffer agent on the glass filter. The buffer
+solution is in a pH range between 4 and 7 at which GOx
+exhibits its best activity.</p><p num="0090">A sake moromi was supplied to the treating
+instrument in order to adjust its low pH between 3 and 4
+to a proper pH at the treating layer 42 by means of the
+buffer agent and removing all organic acids contained in
+the moromi at the treating layer 41 by means of physical
+adsorption of activated carbon.</p><p num="0091">Measurement of the glucose concentration in the
+sample solution thus formulated in the same manner as in
+Example 1 was accurate.</p><p num="0092">In the foregoing example, although sake moromi
+was used as the sample to be treated with the treating 
+instrument of the present invention, the instrument was
+similarly effective for removing ethanol and organic acids
+in the must of wine.</p><heading>Example 5</heading><p num="0093">Using a medium under fermentation of lactic acid
+bacteria as a sample solution, the concentration of L-lactic
+acid in the medium was measured using the biosensor
+shown in FIG. 6. In this example, the enzyme was L-lactate
+oxidase (hereinafter abbreviated to "LOx") and the
+electron acceptor was potassium hexacyanoferrate (III).</p><p num="0094">Fermentation of lactic acid bacteria generates
+L-lactic acid with the progress of fermentation, which in
+turn changes the medium to acidic medium. The enzyme LOx
+in the biosensor decreases its activity rapidly when it
+has a pH value of 7 or less. Therefore, the use of a
+medium at advanced stages of fermentation for measurement
+with the biosensor can result in marked impairment of the
+measurement accuracy.</p><p num="0095">Therefore, the following treating instrument was
+produced for treating the medium as a sample solution in
+order to adjust pH of the sample solution.</p><p num="0096">The treating instrument was produced by
+spreading a dispersion of dipotassium hydrogenphosphate in
+toluene on the lateral wall of the vessel 10 in FIG. 3 and
+volatilizing toluene to form a control membrane 21. </p><p num="0097">The medium under fermentation of lactic acid
+bacteria was introduced into the treating instrument thus
+produced to adjust the pH of the medium to 7.</p><p num="0098">The medium thus formulated was introduced into
+the biosensor. A drop of the medium on the reaction layer
+7 of the biosensor dissolved the reaction layer 7 and LOx
+in the reaction layer 7 selectively oxidized L-lactic acid
+in the medium. This enzyme reaction accompanied reduction
+reaction of the potassium hexacyanoferrate (III) to
+potassium hexacyanoferrate (II). Then, the reduced
+potassium hexacyanoferrate (II) was electrochemically
+reoxidized to potassium hexacyanoferrate (III) in the same
+manner as in Example 1 to measure oxidation current during
+the reoxidation reaction in order to determine the
+concentration of L-lactic acid in the medium. The result
+showed successful measurement with high accuracy.</p><p num="0099">As discussed above, the present invention
+enables rapid and simplified adjustment of the condition
+of a sample solution proper for analysis with a biosensor
+prior to its supply to the biosensor, thereby enhancing
+the measurement accuracy of the biosensor.</p><p num="0100">Although the present invention has been
+described in terms of the presently preferred embodiments,
+it is to be understood that such disclosure is not to be
+interpreted as limiting. Various alterations and 
+modifications will no doubt become apparent to those
+skilled in the art to which the present invention
+pertains, after having read the above disclosure.
+Accordingly, it is intended that the appended claims be
+interpreted as covering all alterations and modifications
+as fall within the true spirit and scope of the invention.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A sample solution treating instrument for
+formulating a sample solution to be supplied to a
+biosensor for analysis, comprising control means for
+placing said sample solution in a proper condition for
+analysis with said biosensor.</claim-text></claim><claim num="2"><claim-text>The sample solution treating instrument in
+accordance with claim 1, wherein said control means has a
+catalyst located inside said instrument, said catalyst
+being a catalyst converting an interfering substance in
+said sample solution to a harmless substance having no
+adverse effect on the measurement results.</claim-text></claim><claim num="3"><claim-text>The sample solution treating instrument in
+accordance with claim 2, wherein said catalyst is at least
+one enzyme.</claim-text></claim><claim num="4"><claim-text>The sample solution treating instrument in
+accordance with claim 1, wherein said control means has an
+adsorbent located inside said instrument, said adsorbent
+being an adsorbent adsorbing and removing an interfering
+substance in said sample solution.</claim-text></claim><claim num="5"><claim-text>The sample solution treating instrument in
+accordance with claim 1, wherein said control means has a
+buffer agent located inside said instrument, said buffer
+agent being capable of adjusting pH of said sample
+solution to a proper pH for the activity of an enzyme in
+the biosensor.</claim-text></claim><claim num="6"><claim-text>The sample solution treating instrument in
+accordance with claim 1, further comprising heating means
+of said sample solution.</claim-text></claim><claim num="7"><claim-text>A method for treating a sample solution
+comprising the steps of:
+<claim-text><claim-text>introducing a sample solution, which will be
+supplied to a biosensor for analysis, into the sample
+solution treating instrument as claimed in claim 1, and</claim-text><claim-text>adjusting said sample solution closest to a
+proper condition for analysis with said biosensor.</claim-text></claim-text></claim-text></claim></claims><drawings status="new"><figure num="1"><img id="img-00280001" orientation="unknown" wi="106" img-format="tif" img-content="dr" file="00280001.tif" inline="no" he="240"/></figure><figure num="2"><img id="img-00290001" orientation="unknown" wi="103" img-format="tif" img-content="dr" file="00290001.tif" inline="no" he="198"/></figure><figure num="3"><img id="img-00300001" orientation="unknown" wi="91" img-format="tif" img-content="dr" file="00300001.tif" inline="no" he="162"/></figure><figure num="4"><img id="img-00310001" orientation="unknown" wi="83" img-format="tif" img-content="dr" file="00310001.tif" inline="no" he="209"/></figure></drawings><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

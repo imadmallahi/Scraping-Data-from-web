@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1167477-A1" country="EP" doc-number="1167477" kind="A1" lang="EN" family-id="18684718" status="new" date-produced="20090516" date="20020102"><bibliographic-data><publication-reference ucid="EP-1167477-A1" status="new" fvid="23329359"><document-id status="new" format="original"><country>EP</country><doc-number>1167477</doc-number><kind>A1</kind><date>20020102</date></document-id></publication-reference><application-reference ucid="EP-01114570-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01114570</doc-number><kind>A</kind><date>20010618</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-2000184253-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2000184253</doc-number><kind>A</kind><date>20000620</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C08F 257/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F 257/02        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F 265/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F 265/06        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F 291/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08F 291/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08L  51/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C08L  51/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D   5/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D   5/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D   5/02        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D   5/02        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D 133/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D 133/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D 151/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D 151/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D 157/00        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D 157/10        20060101AFI20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C08F 257/02</classification-symbol><classification-symbol scheme="EC">C08F 265/06</classification-symbol><classification-symbol scheme="EC">C08F 291/00+2/22</classification-symbol><classification-symbol scheme="EC">C08L  51/00B+B</classification-symbol><classification-symbol scheme="EC">C09D 151/00B+B</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Harzzusammensetzung für einen wässrigen Lack</invention-title><invention-title load-source="ep" status="new" lang="EN">Resin composition for aqueous paint</invention-title><invention-title load-source="ep" status="new" lang="FR">Composition de résine pour une peinture aqueuse</invention-title><citations><patent-citations><patcit ucid="EP-0619342-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0619342</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0728779-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0728779</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0995780-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0995780</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4654397-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4654397</doc-number><kind>A</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5571861-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5571861</doc-number><kind>A</kind></document-id><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5939482-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5939482</doc-number><kind>A</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-6005042-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>6005042</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA"  created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new"  format="epo"><addressbook><name>DAINIPPON TORYO KK</name><address><country>JP</country></address></addressbook></applicant><applicant status="new"  format="intermediate"><addressbook><name>DAI NIPPON TORYO CO., LTD.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Dai Nippon Toryo Co., Ltd.</last-name><address><street>6-1-124, Nishikujo Konohana-ku</street><city>Osaka</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>SAKAGUCHI SHINYA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SASAKI HIROHARU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TAKAMATSU ATSUSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TSUNETA KAZUYOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SAKAGUCHI, SHINYA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SASAKI, HIROHARU</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TAKAMATSU, ATSUSHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TSUNETA, KAZUYOSHI</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SAKAGUCHI, SHINYA</last-name><address><street>330, Nagahara, Kishikawa-cho</street><city>Naga-gun, Wakayama</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SASAKI, HIROHARU</last-name><address><street>7-1414-46, Shimonagata, Nishinasuno-machi</street><city>Nasu-gun, Tochigi</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TAKAMATSU, ATSUSHI</last-name><address><street>3-3356-10, Mihara</street><city>Otawara-shi, Tochigi</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>Tsuneta, Kazuyoshi 3-4-302, Miyamukaidanchi</last-name><address><street>947-1, Hazawa-cho, Kanagawa-ku</street><city>Yokohama-shi, Kanagawa-ken 221-0863</city><country>JP</country></address></addressbook></inventor></inventors> <agents><agent status="new" format="original"><addressbook><last-name>Wächtershäuser, Günter</last-name><address><street>Wächtershäuser &amp;amp; Hartz, Patentanwälte, Tal 29</street><city>80331 München</city><country>DE</country></address> </addressbook> </agent> </agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A resin composition for an aqueous paint, which
+comprises (a) a binder composed of different phase
+structure emulsion particles obtained by multi-stage
+emulsion polymerization, and (b) a compound having at
+least two hydrazide groups in its molecule, wherein the
+different phase structure emulsion particles have an
+outermost phase formed of an emulsion polymer which is an
+emulsion polymer of an ethylenic unsaturated monomer,
+having a glass transition temperature of from
+- 50°C to 15°C, and the following conditions (1) to (3)
+are satisfied:
+<sl><li>(1) the emulsion polymer forming the outermost phase
+contains from 1 to 25 mass% of an ethylenic unsaturated
+monomer having a carbonyl group,</li><li>(2) at least one phase located inside the outermost
+phase of the different phase structure emulsion particles,
+is formed of an emulsion polymer of an ethylenic
+unsaturated monomer, having a glass transition
+temperature of from 50°C to 150°C, and</li><li>(3) the binder has a minimum film-forming
+temperature of at most 30°C.</li></sl></p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">The present invention relates to a room temperature
+curable resin composition for an aqueous paint, which
+contains substantially no volatile organic compound
+(hereinafter referred to as "VOC") and which, while
+having a low minimum film-forming temperature
+(hereinafter referred to as "MFT), forms a film having an
+excellent anti-blocking property and being excellent in
+various physical properties such as water resistance,
+smoothness and weather resistance.</p><p num="0002">In recent years, environmental regulations have
+become stricter with regard to reduction of toxicity and
+VOC, and also from the viewpoint of saving resources, it
+is demanded to use water in place of an organic solvent
+as a solvent for a paint in the field of paint industry.
+As a typical paint, an aqueous emulsion paint may be
+mentioned which employs an aqueous emulsion resin as a
+binder.</p><p num="0003">However, the aqueous emulsion resin has a specific
+MFT, and when the temperature of the surface to be coated 
+was lower than MFT, it was necessary to blend an organic
+solvent as a coalescing agent for film-formation.</p><p num="0004">On the other hand, in order to prevent blocking
+which is likely to occur when coated plates are piled, it
+is necessary to use a resin of high hardness as a binder.
+However, a composition employing a resin of high hardness
+has a high MFT, and it is again necessary to blend a
+coalescing agent in a large amount. Thus, even an
+aqueous emulsion paint contained a substantial amount of
+VOC, and when drying of the coated film was inadequate,
+there was a problem that the anti-blocking property or
+water resistance tended to be poor due to the remaining
+VOC.</p><p num="0005">Further, with respect to an aqueous emulsion paint,
+a study has been made on a paint having both properties
+of a low temperature film-forming property and an anti-blocking
+property. As a result, as shown in JP-A-2-175742,
+JP-A-7-26196, JP-A-11-349828, etc., a paint
+having a good anti-blocking property has been developed
+which comprises an emulsion resin having carbonyl groups,
+having a relatively low MFT, and a compound having
+hydrazide groups, wherein particles are crosslinked to
+one another to improve the anti-blocking property.
+However, there has been a problem that, although a
+certain level of an anti-blocking property can be
+obtained only by such crosslinking of particles, the
+anti-blocking property is inadequate under severe 
+conditions.</p><p num="0006">The present invention has been made in view of such
+problems of the prior art, and it is an object of the
+present invention to provide a resin composition for an
+aqueous paint which is excellent in the low temperature
+film-forming property and which forms a coating film
+excellent in the anti-blocking property and in the water
+resistance, smoothness, weather resistance, etc., without
+using VOC such as coalescing agent which is likely to
+cause environmental pollution or bad odor, or by an
+addition of a small amount of VOC, if used.</p><p num="0007">In order to accomplish the above object, the present
+inventors have conducted an extensive study and as a
+result, they have found it possible to certainly
+accomplish the above object by the following construction
+and have arrived at the present invention.</p><p num="0008">Namely, the present invention provides a resin
+composition for an aqueous paint, which comprises (a) a
+binder composed of different phase structure emulsion
+particles obtained by multi-stage emulsion polymerization,
+and (b) a compound having at least two hydrazide groups
+in its molecule, wherein the different phase structure
+emulsion particles have an outermost phase formed of an
+emulsion polymer which is an emulsion polymer of an
+ethylenic unsaturated monomer, having a glass transition
+temperature of from -50°C to 15°C, and the following
+conditions (1) to (3) are satisfied: <sl><li>(1) the emulsion polymer forming the outermost phase
+contains from 1 to 25 mass% of an ethylenic unsaturated
+monomer having a carbonyl group,</li><li>(2) at least one phase located inside the outermost
+phase of the different phase structure emulsion particles,
+is formed of an emulsion polymer of an ethylenic
+unsaturated monomer, having a glass transition
+temperature of from 50°C to 150°C, and</li><li>(3) the binder has a minimum film-forming
+temperature of at most 30°C.</li></sl></p><p num="0009">Now, the present invention will be described in
+detail.</p><p num="0010">The binder (a) constituting the resin composition
+for an aqueous paint of the present invention is one
+composed of different phase structure emulsion particles
+prepared by multi-stage emulsion polymerization of an
+ethylenic unsaturated monomer in water.</p><p num="0011">The multi-stage emulsion polymerization is carried
+out by at least 2 stages, usually from 2 to 5 stages of
+emulsion polymerization of an ethylenic unsaturated
+monomer in water in accordance with a well known emulsion
+polymerization process, so that the emulsion polymer of
+an ethylenic unsaturated monomer thereby formed
+constitutes different phase structure emulsion particles
+comprising the outermost phase and one or more inner
+phases.</p><p num="0012">A typical example of the multi-stage emulsion 
+polymerization process may be a process comprising a
+plurality of steps of repeating emulsion polymerization
+of an ethylenic unsaturated monomer at an elevated
+temperature of from 60 to 90°C in the presence of an
+emulsifying agent and a polymerization initiator, and
+further optionally a chain transfer agent and an emulsion
+stabilizer.</p><p num="0013">Examples of the emulsifier include anionic
+surfactants, such as an aliphatic acid salt such as
+sodium lauryl sulfate, a higher alcohol sulfuric acid
+ester salt, an alkylbenzene sulfonate such as sodium
+dodecylbenzene sulfonate, a polyoxyethylenealkylether
+sulfuric acid salt, ammonium polyoxyethylenephenylether
+sulfonate, polyoxyethylene polyoxypropylene glycol ether
+sulfuric acid salt, and a so-called reactive emulsifier
+having a sulfonic acid group or a sulfuric ester group
+and a polymerizable carbon-carbon unsaturated double bond
+in its molecule; nonionic surfactants, such as a
+polyoxyethylene alkylether, polyoxynonylphenylether, a
+sorbitan aliphatic acid ester, a polyoxyethylene
+aliphatic acid ester, a polyoxyethylene-polyoxypropylene
+block copolymer, and a reactive nonionic surfactant
+having the above-mentioned group and polymerizable
+carbon-carbon unsaturated double bond in its molecule;
+cationic surfactants such as, an alkylamine salt and a
+quaternary ammonium salt; and (modified)polyvinyl alcohol.</p><p num="0014">Examples of the polymerization initiator include 
+those generally used for radical polymerization, and
+among them, a water-soluble material is preferable. For
+example, persulfates such as potassium persulfate and
+ammonium persulfate, azo type compounds such as 2,2'-azobis(2-amidinopropane)hydrochloride,
+4,4'-azobiscyanovaleric
+acid and 2,2'-azobis(2-methylbutaneamidoxime)dihydrochloride
+tetrahydrate, and
+peroxides such as aqueous hydrogen peroxide and t-butylhydroperoxide,
+may be mentioned. Further, a redox
+type compound including a combination of ferrous sulfate
+with a reducing agent such as L-ascorbic acid and sodium
+thiosulfate, is also useful.</p><p num="0015">Examples of the chain transfer agent include long
+chain alkylmercaptans such as N-dodecylmercaptan,
+aromatic mercaptans and halogenated hydrocarbons.</p><p num="0016">Examples of the emulsion stabilizer include
+polyvinyl alcohol, hydroxylethylcellulose and
+polyvinylpyrrolidone.</p><p num="0017">The emulsion polymerization is carried out by a one
+time-charging method of charging a monomer all at once, a
+monomer-dropping method of continuously dropping a
+monomer, a preemulsion method of previously mixing and
+emulsifying a monomer, water and an emulsifier and
+dropping the emulsified product, or a combination of
+these methods.</p><p num="0018">According to the present invention, in the
+preparation of different phase structure emulsion 
+particles as a binder in accordance with the above-mentioned
+methods, as an ethylenic unsaturated monomer
+which is added at the final stage of multi-stage emulsion
+polymerization and forms the outermost phase, it is
+necessary to use an ethylenic unsaturated monomer having
+a carbonyl groups in an amount of from 1 to 25 mass%,
+preferably from 5 to 20 mass%, of the total ethylenic
+unsaturated monomers to form the outermost phase, in
+combination with such an ethylenic unsaturated monomer as
+to provide an emulsion copolymer of the outermost phase
+having a glass transition temperature (hereinafter
+referred to as "Tg") of from -50°C to 15°C, preferably
+from -30°C to 10°C. Also, it is necessary to use, for at
+least one of inner phases, such an ethylenic unsaturated
+monomer as to provide an emulsion copolymer having a Tg
+of from 50°C to 150°C, preferably from 55°C to 100°C.</p><p num="0019">Also, it is necessary to use a binder having a
+minimum film-forming temperature (MFT) of at most 30°C,
+preferably at most 20°C. The lower limit of MFT may, for
+example, be 0°C, but the lower limit temperature is not
+limited to such a level.</p><p num="0020">By satisfying these conditions, it is possible to
+form a coating film without using or with use of only a
+very small amount of a VOC such as a coalescing agent,
+and it is possible to form a coating film excellent in
+the anti-blocking property or the water resistance.</p><p num="0021">In the present invention, Tg of an emulsion 
+copolymer is one calculated in accordance with the
+following FOX formula.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">1/Tg=W<st32:sub pos="post">1</st32:sub>/Tg<st32:sub pos="post">1</st32:sub>+W<st32:sub pos="post">2</st32:sub>/Tg<st32:sub pos="post">2</st32:sub>+ ····+W<st32:sub pos="post">i</st32:sub>/Tg<st32:sub pos="post">i</st32:sub>+····+W<st32:sub pos="post">n</st32:sub>/Tg<st32:sub pos="post">n</st32:sub></st32:df>
+(In the above FOX formula, Tg<sub>i</sub>(K) represents the glass
+transition temperature of a homopolymer of each monomer
+constituting a polymer comprising n kinds of monomers,
+and W<sub>i</sub> represents the mass% of each monomer, i.e.
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">(W<st32:sub pos="post">1</st32:sub>+W<st32:sub pos="post">2</st32:sub>+···+W<st32:sub pos="post">i</st32:sub>+···W<st32:sub pos="post">n</st32:sub>=1.)</st32:df></p><p num="0022">In the present invention, if Tg of the emulsion
+copolymer of the outermost phase of different phase
+structure emulsion particles is lower than -50°C, a
+coating film obtained therefrom tends to be poor in
+pollution resistance and water resistance. On the
+contrary, if Tg exceeds 15°C, film-formability tends to
+be poor at a low temperature.</p><p num="0023">Further, if MFT of the binder exceeds 30°C, film-formability
+tends to be poor unless a coalescing agent is
+used in a large amount.</p><p num="0024">Now, the ethylenic unsaturated monomer used for
+forming different phase structure emulsion particles will
+be explained.</p><p num="0025">As described above, it is necessary for the
+ethylenic unsaturated monomer used for an emulsion
+copolymer forming the outermost phase to contain an
+ethylenic unsaturated monomer having a carbonyl group as
+the essential component. Such a monomer may, for example,
+be acrolein, diacetone (meth)acrylamide, formylstyrol, a 
+(meth)acryloxyalkylpropanol, diacetone (meth)acrylate,
+acetonyl (meth)acrylate, acetoacetoxyethyl (meth)acrylate,
+2-hydroxypropyl (meth)acrylate/acetylacetate, butanediol-1,4-acrylate/acetylacrylate,
+vinyl ethyl ketone or vinyl
+isobutyl ketone.</p><p num="0026">Among them, acrolein, diacetone acrylamide or vinyl
+ethyl ketone is particularly preferred.</p><p num="0027">If such an ethylenic unsaturated monomer having a
+carbonyl group is less than 1 mass% in the total
+ethylenic unsaturated monomer constituting the outermost
+layer, no adequate crosslinking among particles can be
+attained, and the anti-blocking property tends to
+deteriorate. On the other hand, if it exceeds 25 mass%,
+the water resistance, etc., tend to be poor, such being
+undesirable.</p><p num="0028">Further, various ethylenic unsaturated monomers
+commonly used in the preparation of acrylic resins can be
+used without any restriction as comonomers
+copolymerizable with the ethylenic unsaturated monomer
+having a carbonyl group.</p><p num="0029">Typical examples of such comonomers include
+(meth)acrylate type monomers such as methyl
+(meth)acrylate, ethyl (meth)acrylate, n-propyl
+(meth)acrylate, isopropyl (meth)acrylate, n-butyl
+(meth)acrylate, isobutyl (meth)acrylate, pentyl
+(meth)acrylate, 2-ethylhexyl (meth)acrylate, decyl
+(meth)acrylate, dodecyl (meth)acrylate, stearyl 
+(meth)acrylate, α-chloroethyl (meth)acrylate, cyclohexyl
+(meth)acrylate, phenyl (meth)acrylate, methoxyethyl
+(meth)acrylate, ethoxyethyl (meth)acrylate, methoxypropyl
+(meth)acrylate and ethoxypropyl (meth)acrylate; styrene
+type monomers such as styrene, methylstyrene,
+chlorostyrene and methoxystyrene; carboxyl group-containing
+monomers such as (meth)acrylic acid, crotonic
+acid, itaconic acid, itaconic acid half ester, maleic
+acid and maleic acid half ester; hydroxyl group-containing
+monomers such as 2-hydroxyethyl (meth)acrylate,
+2(3)-hydroxypropyl (meth)acrylate, 4-hydroxybutyl
+acrylate and mono(meth)acrylic acid ester of allyl
+alcohol polyhydric alcohol; amide group-containing
+monomers such as (meth)acrylamide and maleinamide; amino
+group-containing monomers such as 2-aminoethyl
+(meth)acrylate, dimethylaminoethyl (meth)acrylate, 3-aminopropyl
+(meth)acrylate, 2-butylaminoethyl
+(meth)acrylate and vinylpyridine; epoxy group-containing
+monomers and oligomers obtained by reacting an active
+hydrogen atom-containing ethylenic unsaturated monomer
+with an epoxy compound having at least 2 glycidyl groups,
+glycidyl (meth)acrylate or allylglycidyl ether; and N-methylol
+acrylamide having a N-methylol group, vinyl
+acetate, vinyl chloride, ethylene, butadiene,
+acrylonitrile, and a dialkyl fumarate.</p><p num="0030">As described above, these comonomers are used
+optionally in such a combination as to provide an 
+emulsion copolymer forming the outermost phase having Tg
+of from -50°C to 15°C and a binder having MFT of at most
+30°C.</p><p num="0031">Further, as the ethylenic unsaturated monomer used
+for an emulsion copolymer forming at least one of inner
+phases of different phase structure emulsion particles,
+the same ethylenic unsaturated monomers as exemplified
+above can be used, but it is necessary to use them
+optionally in such a combination as to provide an
+emulsion copolymer having Tg of from 50 to 150°C and a
+binder having MFT of at most 30°C.</p><p num="0032">It is particularly preferred that the emulsion
+copolymer of at least one of inner phases has an internal
+crosslinked structure, whereby MFT can be lowered without
+lowering the anti-blocking property.</p><p num="0033">The emulsion copolymer having an internal
+crosslinked structure can be produced by a method, such
+as a method of using a monomer having at least two
+polymerizable unsaturated double bonds in its molecule,
+such as divinylbenzene, ethylene glycol di(meth)acrylate,
+trimethylolpropane tri(meth)acrylate or allyl
+(meth)acrylate; a method of using a combination of
+monomers having functional groups which mutually react at
+a temperature during the emulsion polymerization reaction,
+for example, a monomer mixture selectively comprising
+ethylenic unsaturated monomers having a combination of
+functional groups, such as a carboxyl group and a 
+glycidyl group, or a hydroxyl group and an isocyanate
+group; or a method of using a monomer mixture comprising
+silyl group-containing ethylenic unsaturated monomers,
+such as (meth)acryloxypropyl trimethoxysilane,
+(meth)acryloxypropyl triethoxysilane and
+(meth)acryloxypropylmethyl dimethoxysilane, which undergo
+a hydrolytic condensation reaction.</p><p num="0034">In the present invention, it is advisable to select
+and use a monomer so that MFT of the binder composed of
+different phase structure emulsion particles will be
+lower than MFT of a polymer obtainable by uniform
+emulsion polymerization of all monomers constituting the
+particles in one step.</p><p num="0035">Further, when a carboxyl group-containing monomer is
+used as an ethylenic unsaturated monomer, it may be
+neutralized with a neutralizing agent such as ammonia,
+dimethylethanolamine or triethanolamine.</p><p num="0036">The compound (b) having at least 2, preferably 2 or
+3, hydrazide groups in its molecule, which constitutes
+the resin composition for an aqueous paint of the present
+invention, may, for example, be a carbohydrazide, oxalic
+acid dihydrazide, malonic acid dihydrazide, succinic acid
+dihydrazide, glutaric acid dihydrazide, adipic acid
+dihydrazide, sebacic acid dihydrazide, dodecanoic diacid
+dihydrazide, isophthalic acid dihydrazide, citric acid
+trihydrazide, 1,2,4-benzenetrihydrazide, or
+thiocarbodihydrazide. Among them, a carbohydrazide, 
+adipic acid dihydrazide or succinic acid dihydrazide is
+preferred in view of the balance of e.g. the water
+resistance and the dispersibility to the emulsion.</p><p num="0037">The amount of the component (b) to be incorporated,
+is preferably an amount such that the hydrazide group
+will be from 0.1 to 2.0 equivalents, preferably from 0.3
+to 1.2 equivalents, per equivalent of the carbonyl group
+in the emulsion copolymer forming the outermost phase in
+the component (a).</p><p num="0038">If the amount of the component (b) is less than the
+above range, the reaction with the carbonyl group in the
+emulsion particles (a) tends to be inadequate, whereby
+the anti-blocking property or the coating film hardness
+can hardly be attainable. On the other hand, if it is
+excessive, an unreacted component (b) will remain, and
+the water resistance, etc., tend to be poor.</p><p num="0039">The resin composition for an aqueous paint of the
+present invention comprises a binder composed of the
+above-described emulsion particles and a compound having
+a hydrazide group. This composition may be used simply
+in the form of a dispersion (emulsion) in water as a
+clear paint, but in order to impart various functions to
+a paint, it is preferable to incorporate various
+additives, such as a dispersant, an anti-settling agent,
+a thickening agent, an antiseptic agent, a UV ray-absorber,
+a photostabilizer, and a pigment such as a
+extender pigment, a coloring pigment or a rust-preventing 
+pigment.</p><p num="0040">A paint obtained in this manner is applicable to
+various inorganic materials, metal materials, wood
+materials or plastic materials, and provides an excellent
+coating film by air-drying or force-drying at a
+temperature of at most 100°C.</p><heading>EXAMPLES</heading><p num="0041">Now, the present invention will be described in
+further detail with reference to Examples. In the
+Examples, "part" and "%" are based on mass standard
+unless otherwise specified.</p><heading>EXAMPLES 1 to 4 and COMPARATIVE EXAMPLES 1 to 5</heading><p num="0042">200 Parts of ion-exchanged water, 1 part of sodium
+hydrogencarbonate (pH regulator), and 3 parts of ammonium
+polyoxyethylene alkylphenyl sulfate (emulsifier) "Hitenol
+N-08" (manufactured by Daiichi Kogyo Seiyaku K.K.) were
+charged into a reactor equipped with a stirrer, a
+thermometer, a condenser and a dropping apparatus, and
+heated to 80°C while flushing the interior of the
+reaction with nitrogen. Then, 1 part of potassium
+persulfate (polymerization initiator) was added thereto,
+and an emulsified material (A) shown in the following
+Table 1 and Table 2 previously mixed by stirring in a
+separate container was continuously dropwise added
+thereto over 3 hours.</p><p num="0043">After finishing the dropwise addition of the first
+stage, the reaction temperature was lowered to 75°C in 1 
+hour. Thereafter, an emulsified material (B) as shown in
+the following Tables 1 and 2 previously mixed by stirring
+in the same manner as in the first stage was continuously
+dropwise added over 4 hours. After finishing the
+dropwise addition, the reaction mixture was aged by
+continuously stirring at 75°C for 2 hours, and the
+mixture was cooled to 40°C, and adjusted to pH of 9.0
+with 50% dimethylethanolamine. Further, a hydrazide
+group-containing compound as shown in Tables 1 and 2 was
+added to obtain a resin composition for an aqueous paint,
+having different phase (two phases) structure emulsion
+resin particles dispersed.</p><heading>EXAMPLES 5 and 6</heading><p num="0044">200 Parts of ion-exchanged water, 1 part of sodium
+hydrogencarbonate, and 3 parts of ammonium
+polyoxyethylene alkylphenyl sulfate were charged into a
+reactor equipped with a stirrer, a thermometer, a
+condenser and a dropping apparatus, and heated to 80°C
+while flushing the interior of the reactor with nitrogen.
+Then, 1 part of potassium persulfate was added thereto,
+and an emulsified material (A) shown in the following
+Table 1 and previously mixed by stirring in a separate
+container was continuously dropwise added thereto over 2
+hours. Thereafter, an emulsified material (B) was
+continuously dropwise added over 2 hours. After
+finishing the dropwise addition of the second stage, the
+reaction temperature was lowered to 75°C in 1 hour, and 
+an emulsified material (C) as shown in Table 1 previously
+mixed by stirring in the same manner, was continuously
+dropwise added over 3 hours. After finishing the
+dropwise addition, the reaction mixture was aged at 75°C
+for 2 hours, and the mixture was cooled to 40°C, and
+adjusted to pH of 9.0 with 50% dimethylethanolamine.
+Further, a hydrazide group-containing compound was added
+to obtain a resin composition for an aqueous paint having
+different phase (three phases) structure emulsion resin
+particles dispersed.</p><heading>COMPARATIVE EXAMPLE 6</heading><p num="0045">200 Parts of ion-exchanged water, 1 part of sodium
+hydrogencarbonate and 3 parts of ammonium polyoxyethylene
+alkylphenyl sulfate were charged into a reactor equipped
+with a stirrer, a thermometer, a condenser and a dropping
+apparatus, and heated to 80°C while flushing the interior
+of the reactor with nitrogen. Then, 1 part of potassium
+persulfate was added thereto, and an emulsified material
+(A) as shown in Table 2 previously mixed by stirring in a
+separate container was continuously dropwise added
+thereto over 4 hours. After finishing the dropwise
+addition, the reaction mixture was aged while stirring at
+80°C for 2 hours, and cooled to 40°C. Then, it was
+adjusted to a pH of 9.0 with dimethylethanolamine, and a
+hydrazide group-containing compound was further added to
+obtain a resin composition for an aqueous paint having
+uniform structure emulsion resin particles dispersed. </p><p num="0046">The abbreviations of the materials shown in Tables 1
+and 2 have the following meanings. The temperature in
+the parentheses ( ) indicates Tg of a homopolymer of each
+monomer used in calculation of a glass transition
+temperature.</p><heading><u style="single">Ethylenic unsaturated monomers</u></heading><p num="0047"><dl compact="compact" tsize="5"><dt>MMA:</dt><dd>Methyl methacrylate (105°C)</dd><dt>BA:</dt><dd>Butyl acrylate (-54°C)</dd><dt>2EHA:</dt><dd>2-Ethylhexyl acrylate (-50°C)</dd><dt>AA:</dt><dd>Acrylic acid (106°C)</dd><dt>DVB:</dt><dd>Divinylbenzene (116°C)</dd><dt>GMA:</dt><dd>Glycidyl methacrylate (41°C)</dd><dt>DAAM:</dt><dd>Diacetone acrylamide (65°C)</dd><dt>AAEM:</dt><dd>Acetoacetoxyethyl methacrylate (11°C)</dd></dl></p><heading><u style="single">Hydrazide group-containing compounds</u></heading><p num="0048"><dl compact="compact" tsize="4"><dt>ADH:</dt><dd>Adipic acid dihydrazide</dd><dt>CH:</dt><dd>Carbohydrazide</dd></dl></p><p num="0049">Further, in Tg shown in Tables 1 and 2, "total (°C)"
+means Tg of a polymer obtained by a single stage emulsion
+polymerization of a mixture of emulsified material A,
+emulsified material B (and emulsified material C), and
+"inner phase/outermost phase (°C)" means "Tg of a polymer
+obtained by polymerization of emulsified material A
+alone/Tg of a polymer obtained by polymerization of
+emulsified material B alone/(Tg of a polymer obtained by
+polymerization of emulsified material C alone)".</p><p num="0050">Aqueous resin compositions obtained in Examples 1 to 
+6 and Comparative Examples 1 to 6 were subjected to each
+test of measuring minimum film-forming temperature (MFT),
+tackiness, anti-blocking property, anti-warm water
+whitening property, smoothness and anti-freezing property,
+and the results are shown at the lower parts of Tables 1
+and 2.</p><p num="0051">The tests and evaluations were carried out by the
+following methods.</p><heading>&lt;Minimum film-forming temperature (MFT)&gt;</heading><p num="0052">A resin composition for an aqueous paint was coated
+in a thickness of 0.2 mm by an applicator on an aluminum
+plate having a temperature gradient of from 0°C to 40°C.
+After drying, the state of the coating film was observed,
+and the temperature at a boundary position where a
+continuous coating film was formed, was taken as MFT.
+However, when the boundary position was 40°C or higher,
+measurements were carried out with a temperature gradient
+of from 40°C to 80°C.</p><heading>&lt;Tackiness (accelerated pollution)&gt;</heading><p num="0053">Each resin composition for an aqueous paint was
+coated on a glass plate by a 6 mil applicator, and force-dried
+at 80°C for 5 minutes. Then, it was cooled to room
+temperature, and a carbon paper was placed on the surface
+of the coating film thus obtained, and a weight was
+placed thereon to apply a load of 0.1 kg/cm<sup>2</sup> for 24 hours.
+Thereafter, the carbon paper was slowly peeled off, and
+the degree of pollution at the position where the load 
+was applied, was visually evaluated. To one having MFT
+of 40°C or higher, 2,2,4-trimethyl-1,3-pentanediol
+monoisobutyrate was gradually added as a coalescing agent
+with stirring to bring MFT to 10°C or lower, whereupon a
+test plate was prepared.</p><heading><u style="single">Evaluation standards</u></heading><p num="0054"><sl><li>o ○: No carbon was attached.</li><li>○: Substantially no carbon was attached.</li><li>▵: Carbon was locally attached.</li><li>×: Carbon was attached at least 50% of the part where
+the load was applied.</li></sl></p><heading>&lt;Anti-blocking property&gt;</heading><p num="0055">Each resin composition for an aqueous paint was
+coated on a glass plate by a 6 mil applicator, and force-dried
+at 80°C for 5 minutes. Then, it was cooled to 60°C,
+and placed on a hot plate heated at 60°C. To one having
+MFT of 40°C or higher, the same coalescing agent as used
+in the tackiness test, was added to bring MFT to 10°C or
+lower, whereupon a test plate was prepared.</p><p num="0056">Thereafter, a gauze was placed on the surface of the
+coating film thus obtained, and a weight heated to 60°C
+was placed thereon to apply a load of 1.0 kg/cm<sup>2</sup> for 30
+minutes. Then, after cooling to room temperature, the
+gauze was slowly peeled off, and at that time, the
+resistance to the peeling off and the trace of the gauze
+were visually evaluated.</p><heading><u style="single">Evaluation standards</u></heading><p num="0057"><sl><li>o ○: The gauze naturally dropped, and there was
+substantially no trace of the gauze on a coating film.</li><li>○: The gauze did not naturally drop, but there was
+substantially no trace of the gauze on a coating film.</li><li>▵: The gauze did not naturally drop, but could be
+peeled off with a small force, and a trace of the gauze
+was slightly remained.</li><li>×: When peeling the gauze, a part of a coating film was
+also peeled off, and a trace of the gauze was distinctly
+remained.</li></sl></p><heading>&lt;Anti-warm water whitening property&gt;</heading><p num="0058">Each resin composition for an aqueous paint was
+coated on a glass plate by a 6 mil applicator and force-dried
+at 80°C for 5 minutes. Then, it was left to cool
+to room temperature.</p><p num="0059">Then, the glass plate having the coating film was
+dipped in a warm water of 50°C for 24 hours, and the
+outer appearance of the coating film was visually
+evaluated immediately after taking out from the warm
+water, and the glass plate was further left to stand for
+24 hours and dried at room temperature, whereupon the
+outer appearance of the coating film was visually
+evaluated.</p><heading><u style="single">Evaluation standards</u></heading><p num="0060"><sl><li>o ○ There was no substantial whitening of the coating
+film, and after drying, the coating film was completely
+recovered to be a clear coating film. </li><li>○: There was a slight whitening of the coating film,
+but after drying, the coating film was almost recovered
+to be a clear coating film.</li><li>▵: There was a slight whitening of the coating film.
+Even after drying, slight turbidity was observed for 24
+hours, and it was recovered to be a clear coating film
+after 48 hours.</li><li>×: The coating film was substantially whitened, and
+after drying, the coating film remained to be
+substantially whitened and could not be recovered to be a
+clear coating film.</li></sl></p><heading>&lt;Smoothness&gt;</heading><p num="0061">Each resin composition for an aqueous paint was
+coated on a glass plate by a 10 mil applicator and dried
+on a hot plate previously heated to 80°C, whereupon
+"twist shrinkage" or "mud crack" was visually evaluated.</p><heading><u style="single">Evaluation standards</u></heading><p num="0062"><sl><li>○: Substantially no "twist shrinkage" or "mud crack"
+was observed, and a continuous coating film was formed.</li><li>▵: At the edge of the coated surface, "mud crack" was
+slightly observed.</li><li>×: Over the entire coated surface, "mud crack" was
+observed, and irregularities were substantial.</li></sl></p><heading>&lt;Anti-freezing property&gt;</heading><p num="0063">Each resin composition for an aqueous paint was
+coated on a slate substrate previously heated to 80°C, by
+a roll coater, so that the coated amount would be from 
+about 6 to 9 g/m<sup>2</sup> and force-dried at 150°C for 2 minutes.
+The substrate after drying was again coated in the same
+manner by a roll coater so that the coated amount would
+be from 6 to 9 g/m<sup>2</sup> and force-dried at 150°C for 5
+minutes. After cooling, the coated substrate was put
+into a freezing cycle tester, and the test was repeated
+100 cycles in accordance with ASTM-B method. After the
+test, the outer appearance of the coating film was
+visually evaluated.</p><heading><u style="single">Evaluation standards</u></heading><p num="0064"><sl><li>○: No crack or fracture was observed.</li><li>▵: Fine fractures not visually identifiable, were
+observed locally.</li><li>×: Cracks were formed over the entire surface, and they
+were visually identifiable.</li></sl><img id="img-00230001" orientation="unknown" wi="151" img-format="tif" img-content="tb" file="00230001.tif" inline="no" he="184"/><img id="img-00240001" orientation="unknown" wi="153" img-format="tif" img-content="tb" file="00240001.tif" inline="no" he="106"/><img id="img-00250001" orientation="unknown" wi="153" img-format="tif" img-content="tb" file="00250001.tif" inline="no" he="211"/></p><p num="0065">As evident from the above Table 1, the compositions
+of Examples 1 to 6 had excellent coating film properties
+without containing VOC.</p><p num="0066">On the other hand, the composition of Comparative
+Example 1 having no hydrazide group-containing compound
+incorporated, was poor in the anti-blocking property, etc.
+Further, the composition of Comparative Example 2
+employing no carbonyl group-containing monomer was poor
+in the anti-blokcing property, smoothness, etc. Further,
+the composition of Comparative Example 3 having a
+carbonyl group-containing monomer co-polymerized
+excessively, was poor in the anti-warm water whitening
+property, smoothness and anti-freezing property. Further,
+the composition of Comparative Example 4 wherein the
+emulsion co-polymer forming the outermost phase contained
+no carbonyl group, was poor in the anti-blocking property,
+smoothness, anti-warm water whitening property, etc.
+Further, the composition of Comparative Example 5 wherein
+Tg of the emulsion co-polymer forming the outermost phase
+exceeded 15°C and Tg of the emulsion co-polymer forming
+the inner phase was lower than 50°C, required a large
+amount of a coalescing agent, and was poor in the
+smoothness, anti-freezing property, etc. Further, the
+composition of Comparative Example 6 using a single phase
+of emulsion particles and using no carbonyl group-containing
+monomer, was poor in the anti-blocking
+property, smoothness, anti-freezing property, etc. </p><p num="0067">The resin composition for an aqueous paint of the
+present invention contains substantially no VOC, whereby
+environmental pollution or bad odor can be avoided, and
+it forms a coating film having excellent anti-blocking
+property while having low MFT and further being excellent
+in water resistance, smoothness, etc.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A resin composition for an aqueous paint, which
+comprises (a) a binder composed of different phase
+structure emulsion particles obtained by multi-stage
+emulsion polymerization, and (b) a compound having at
+least two hydrazide groups in its molecule, wherein the
+different phase structure emulsion particles have an
+outermost phase formed of an emulsion polymer which is an
+emulsion polymer of an ethylenic unsaturated monomer,
+having a glass transition temperature of from
+-50°C to 15°C, and the following conditions (1) to (3)
+are satisfied:
+<claim-text><claim-text>(1) the emulsion polymer forming the outermost phase
+contains from 1 to 25 mass% of an ethylenic unsaturated
+monomer having a carbonyl group,</claim-text><claim-text>(2) at least one phase located inside the outermost
+phase of the different phase structure emulsion particles,
+is formed of an emulsion polymer of an ethylenic
+unsaturated monomer, having a glass transition
+temperature of from 50°C to 150°C, and</claim-text><claim-text>(3) the binder has a minimum film-forming
+temperature of at most 30°C.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The resin composition for an aqueous paint according
+to Claim 1, wherein the hydrazide group equivalent in the
+component (b) is from 0.1 to 2.0 equivalents per
+equivalent of the carbonyl group in the emulsion polymer
+forming the outermost phase of component (a).</claim-text></claim><claim num="3"><claim-text>The resin composition for an aqueous paint according
+to Claim 1, wherein at least one phase located inside the
+outermost phase of the different phase structure emulsion
+particles of the component (a), is formed of an emulsion
+polymer of an ethylenic unsaturated monomer having an
+internal cross-linked structure.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

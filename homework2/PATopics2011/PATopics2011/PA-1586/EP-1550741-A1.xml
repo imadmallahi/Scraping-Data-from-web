@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1550741-A1" country="EP" doc-number="1550741" kind="A1" lang="EN" family-id="32096707" status="new" date-produced="20090516" date="20050706"><bibliographic-data><publication-reference ucid="EP-1550741-A1" status="new" fvid="24381878"><document-id status="new" format="original"><country>EP</country><doc-number>1550741</doc-number><kind>A1</kind><date>20050706</date></document-id></publication-reference><application-reference ucid="EP-03751401-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>03751401</doc-number><kind>A</kind><date>20031009</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-0312945-W" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>0312945</doc-number><kind>W</kind><date>20031009</date></document-id></priority-claim><priority-claim ucid="JP-2002295964-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002295964</doc-number><kind>A</kind><date>20021009</date></document-id></priority-claim><priority-claim ucid="JP-2002295966-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2002295966</doc-number><kind>A</kind><date>20021009</date></document-id></priority-claim><priority-claim ucid="JP-2003167075-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>2003167075</doc-number><kind>A</kind><date>20030611</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C23C  26/02        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C23C  26/02        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C23C  26/02</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">ROTOR UND BESCHICHTUNGSVERFAHREN DAFÜR</invention-title><invention-title load-source="ep" status="new" lang="EN">ROTOR AND COATING METHOD THEREFOR</invention-title><invention-title load-source="ep" status="new" lang="FR">ROTOR ET PROCEDE DE REVETEMENT DESTINE A CELUI-CI</invention-title><citations><non-patent-citations><nplcit status="new"><text>See references of WO  2004033755A1</text><sources><source name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>ISHIKAWAJIMA HARIMA HEAVY IND</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>MITSUBISHI ELECTRIC CORP</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>ISHIKAWAJIMA-HARIMA JUKOGYO KABUSHIKI KAISHA</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>MITSUBISHI DENKI KABUSHIKI KAISHA</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Ishikawajima-Harima Jukogyo Kabushiki Kaisha</last-name><address><street>2-1, Ote-machi 2-chome, Chiyoda-ku</street><city>Tokyo 100-8182</city><country>JP</country></address></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>MITSUBISHI DENKI KABUSHIKI KAISHA</last-name><address><street>2-3, Marunouchi 2-chome, Chiyoda-ku</street><city>Tokyo 100-8310</city><country>JP</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>AKIYOSHI MASAO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>ARAI MIKIYA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>GOTO AKIHIRO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>OCHIAI HIROYUKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SABURI SHIGERU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SAKAI JUN</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TEZUKA TSUNAO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TSUGUMI SHOGO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>WATANABE MITSUTOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>YAMAKAWA TSUYOSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new"  format="intermediate"><addressbook><name>AKIYOSHI, MASAO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>ARAI, MIKIYA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GOTO, AKIHIRO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>OCHIAI, HIROYUKI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SABURI, SHIGERU</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SAKAI, JUN</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TEZUKA, TSUNAO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TSUGUMI, SHOGO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>WATANABE, MITSUTOSHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>YAMAKAWA, TSUYOSHI</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>AKIYOSHI, MASAO</last-name><address><street>2-3, Marunouchi 2-chome</street><city>Chiyoda-ku, Tokyo 100-8310</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>ARAI, MIKIYA</last-name><address><street>2-1, Ohtemachi 2-chome</street><city>Chiyoda-ku, Tokyo 100-8182</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GOTO, AKIHIRO</last-name><address><street>2-1, Ohtemachi 2-chome</street><city>Chiyoda-ku, Tokyo 100-8182</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>OCHIAI, HIROYUKI</last-name><address><street>2-1, Ohtemachi 2-chome</street><city>Chiyoda-ku, Tokyo 100-8182</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SABURI, SHIGERU</last-name><address><street>2-1, Ohtemachi 2-chome</street><city>Chiyoda-ku, Tokyo 100-8182</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>SAKAI, JUN</last-name><address><street>2-1, Ohtemachi 2-chome</street><city>Chiyoda-ku, Tokyo 100-8182</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TEZUKA, TSUNAO</last-name><address><street>2-1, Ohtemachi 2-chome</street><city>Chiyoda-ku, Tokyo 100-8182</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>TSUGUMI, SHOGO</last-name><address><street>2-1, Ohtemachi 2-chome</street><city>Chiyoda-ku, Tokyo 100-8182</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>WATANABE, MITSUTOSHI</last-name><address><street>2-1, Ohtemachi 2-chome</street><city>Chiyoda-ku, Tokyo 100-8182</city><country>JP</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>YAMAKAWA, TSUYOSHI</last-name><address><street>2-1, Ohtemachi 2-chome</street><city>Chiyoda-ku, Tokyo 100-8182</city><country>JP</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Grünecker, August, Dipl.-Ing.</last-name><address><street>Patentanwälte Grünecker, Kinkeldey, Stockmair &amp;amp; Partner Maximilianstrasse 58</street><city>80538 München</city><country>DE</country></address></addressbook></agent></agents></parties><international-convention-data><pct-or-regional-filing-data ucid="JP-0312945-W" status="new"><document-id status="new" format="original"><country>JP</country><doc-number>0312945</doc-number><kind>W</kind></document-id></pct-or-regional-filing-data><pct-or-regional-publishing-data ucid="WO-2004033755-A1" status="new"><document-id status="new" format="original"><country>WO</country><doc-number>2004033755</doc-number><kind>A1</kind><date>20040422</date></document-id></pct-or-regional-publishing-data><designated-states><ep-contracting-states><country>CH</country><country>DE</country><country>ES</country><country>FR</country><country>GB</country><country>IT</country><country>LI</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A pulsed discharge is generated between tip ends of
+a rotating member such as a blade and a discharge electrode
+including a hard material such as cBN in dielectric liquid or
+gas by a power supply for discharge to melt the discharge
+electrode, and a part of the discharge electrode is attached
+to the tip end of the rotating member to form an abrasive
+coating film including the hard materials such as cBN.
+<img id="img-00000001" orientation="unknown" wi="91" img-format="tif" img-content="ad" file="00000001.tif" inline="no" he="70"/></p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">BACKGROUND OF THE INVENTION</u></heading><heading><u style="single">Technical Field of the Invention</u></heading><p num="0001">The present invention relates to a rotating member
+such as a blade or labyrinth seal for use in a gas turbine,
+steam turbine, compressor or the like, and a method for
+coating the rotating member. More particularly, it relates
+to a rotating member on a part of which a coating film
+including a hard material is formed, and a method for coating
+the rotating member.</p><heading><u style="single">Description of the Related Art</u></heading><p num="0002">For a rotating member such as a blade or a labyrinth
+seal, a clearance between a rotating section and a stationary
+section such as a chip clearance between the blade and a
+casing or a shroud, or a seal clearance between the labyrinth
+seal and a honeycomb seal needs to be kept/set to be
+appropriate during operation of a gas turbine. When the
+clearance is set to be excessively large fearing for contact,
+an efficiency of the gas turbine drops. Conversely, when the
+clearance is set to be excessively small, a tip end of the
+rotating member breaks and causes a trouble of the gas
+turbine.</p><p num="0003">Therefore, in consideration of the contact with
+surrounding members (casing, shroud, honeycomb seal, and the
+like) of the rotating member, a tip end of a blade or a 
+labyrinth seal is coated with an abrasive coating of a
+relatively hard material for chipping off the material of a
+contact surface of the surrounding member. The surrounding
+member is coated with an abradable coating of a material
+which is relatively easily chipped. Accordingly, the chip
+clearance or the seal clearance is adjusted to be minimized,
+when the side of the surrounding member is chipped off by the
+tip end of the rotating member by taking advantage of a
+hardness difference of the coating at the time of driving of
+the gas turbine.</p><p num="0004">Here, FIG. 1A is a perspective view of a usual
+turbine blade, FIG. 1B is a perspective view of the turbine
+blade with a chip shroud, and FIG. 1C is a perspective view
+of a compressor blade. It is to be noted that a platform or
+a dovetail on a turbine disk side is omitted from these
+figures. In a turbine blade 1 shown in FIG. 1A, the whole
+surface of a blade tip end is coated with an abrasive coating
+5a. In a turbine blade 2 with a chip shroud shown in FIG. 1B,
+the whole surfaces of the tip ends of chip fins 4 disposed on
+a chip shroud 3 (i.e., the tip ends of the turbine blade) are
+coated with abrasive coatings 5b. Furthermore, for the blade
+1 of the compressor shown in FIG. 1C, an abrasive coating 5c
+is applied over the region of the blade tip end (including
+the backside of the figure).</p><p num="0005">Moreover, FIG. 2 is a sectional view showing one
+example of a labyrinth seal tip end. The labyrinth seal is
+disposed in the clearance between a rotating section and a 
+stationary section to prevent leakage of air or combustion
+gas, and is a seal structure frequently used in a gas turbine
+and compressor. In general, an annular labyrinth seal 6
+including concave/convex portion is disposed on a rotating
+section side, and a honeycomb seal (not shown) including a
+structure easy to be chipped off is disposed on a stationary
+section side. FIG. 2 is a sectional view cut in a plane
+including a center axis of the labyrinth seal 6, and an
+abrasive coating 5d is applied to the tip end of the convex
+portion of the labyrinth seal 6.</p><p num="0006">These abrasive coatings have heretofore been applied
+by methods such as welding, thermal spraying, and plating
+(e.g., see References 1 and 2). With the coating by the
+welding, a welding rod or a powder body is used to coat
+predetermined portions such as the tip end of the turbine
+blade or the labyrinth seal. With the coating by the thermal
+spraying, zirconia is thermally sprayed which has a small
+difference of thermal expansion from a mother material and
+whose hardness is relatively high (Vickers hardness of 1300
+HV). With the coating by the plating, abrasive grains
+(Vickers hardness of 4500 HV) of cubic boron nitride (cBN)
+high in hardness is electrically attached by nickel plating.</p><p num="0007">It is to be noted that other prior arts related to
+the present invention are described in References 3, 4.
+
+[Reference 1]
+
+   Japanese Laid-Open Patent Publication No. 11-286768
+
+[Reference 2]
+ 
+   Japanese Laid-Open Patent Publication No. 2000-345809
+
+[Reference 3]
+
+   Japanese Laid-Open Patent Publication No. 7-301103
+
+[Reference 4]
+
+   Japanese Laid-Open Patent Publication No. 8-319804</p><p num="0008">However, in the above-described methods, a portion
+which does not have to be coated is masked in order to
+closely attach the abrasive coating, the surface to be coated
+needs to be blast-treated in order to enhance adhesion, and
+there are problems that there are many pretreatments and
+costs are high. In either conventional thermal spraying or
+plating method, there have been problems that the adhesion of
+the coating is bad, peel occurs at the time of the driving,
+an engine trouble is caused, and additionally the chip
+clearance or the seal clearance is not kept to be appropriate.
+Furthermore, there has been a problem that with the coating
+by the welding, only a metal much lower in hardness can be
+coated as compared with a ceramic, and therefore abrasive
+properties (properties for chipping off a material to be
+ground) are inferior. Moreover, there has been a problem
+that a quality level fluctuates by an operator's expertise,
+and a welding crack easily occurs with respect to a material
+bad in thermal conductivity and small in elongation.
+Furthermore, there has been a problem that post-treatments
+such as grinding for processing to a required dimension after
+the welding are required, and a lot of trouble is required.</p><p num="0009">Moreover, according to References 3 and 4, in the 
+coating method, discharge is performed between the rotating
+member and an electrode on first discharge conditions such
+that the electrode is consumed, and the electrode is formed
+in accordance with a shape of a coating film forming portion.
+Thereafter, the coating film is formed by discharge between
+the electrode and the rotating member on second discharge
+conditions. Then, even when the electrode is not processed
+beforehand for a product shape, a coating object portion can
+appropriately be coated. On the first discharge conditions
+for consuming the electrode, the electrode is set to have a
+minus polarity, a pulse width is set to 1 µs or less, and a
+current value is set to 10 A or less. On the second
+discharge conditions for forming the coating film, the
+electrode is preferably set to have the minus polarity, the
+pulse width is set to 2 to 10 µs, and the current value is
+set to 5 to 20 A.</p><p num="0010">Moreover, in the conventional abrasive coating,
+since the whole area of the tip end of the blade is coated,
+there has been a problem that a coating range is broad and
+yield of products is bad.</p> <p num="0011">Furthermore, heretofore, the coating has been
+performed by the plating or the thermal spraying. Therefore,
+in the production (manufacturing) of the labyrinth seal,
+coating pretreatments such as a blast process and a process
+of attaching a masking tape are required before the coating,
+and coating post-treatments such as a process of removing the 
+masking tape are required after the coating. Therefore, an
+operation time required for the production (manufacturing) of
+the labyrinth seal lengthens, and it is not easy to enhance
+productivity of the labyrinth seal.</p><p num="0012">Additionally, for the same reason, the abrasive coat
+cannot firmly be attached to the tip edge of a seal fin.
+Therefore, there has been a problem that the abrasive coat
+easily peels off the tip edge of the seal fin and the quality
+level of the labyrinth seal is not stable.</p><heading><u style="single">SUMMARY OF THE INVENTION</u></heading><p num="0013">The present invention has been developed to solve
+the above-described various problems. That is, a first
+object of the present invention is to provide a rotating
+member which does not require any pretreatment or post-treatment
+and which has good adhesion and which is coated
+with a precise and abrasive coating of a relatively hard
+material (hereinafter referred to as a hard material in the
+present specification for the sake of convenience) compared
+to a material of an opponent component that contacts with the
+rotating member during rotation, and a method for coating the
+rotating member.</p> <p num="0014">Moreover, the first object is also to provide a
+method for forming a long-service-life coating in tests of
+high cycle fatigue (HCF) or low cycle fatigue (LCF) in an
+abrasive coated component.</p> <p num="0015">Furthermore, a second object of the present 
+invention is to provide a rotating member in which an area of
+coating of a hard material can be optimized to enhance a
+yield and a method for coating the rotating member.</p> <p num="0016">Additionally, a third object of the present
+invention is to provide a rotating member in which an
+operation time required for production of a labyrinth seal is
+reduced and productivity of labyrinth components can be
+enhanced and a method for coating the rotating member.</p><p num="0017">To achieve the first object, according to a first
+invention, there is provided a method for coating a rotating
+member, comprising the steps of: generating a pulsed
+discharge between a rotating member formed into a
+predetermined shape and a discharge electrode of a green
+compact in dielectric liquid or gas to transfer a hard
+material of the discharge electrode or a hard material
+changed from a material of the discharge electrode onto the
+rotating member by each discharge pulse so that a hard
+concavity and convexity is formed on the rotating member,
+wherein the green compact includes the hard material or the
+material changing into the hard material by the discharge;
+and repeatedly generating the discharge pulse to form on the
+rotating member a hard coating film having the concavity and
+convexity.</p><p num="0018">Moreover, according to a second invention, in the
+method for coating the rotating member, the hard coating film
+is an abrasive coating film that is formed on a part of the 
+rotating member and rubs against and shaves an opponent
+component.</p><p num="0019">According to the first and second inventions, since
+the so-called discharge coating method is used, pretreatments
+such as masking and blast treatment or post-treatments such
+as the grinding are not necessary, the coating film or a
+layer having good adhesion can be formed, further the coating
+film containing remarkably hard materials such as a cubic
+boron nitride (cBN) can be coated, and the hard coating film
+and the coating film having good abrasive properties can be
+formed.</p><p num="0020">Abrasive properties are enhanced by the treatment on
+a condition for a coating having coarse surface.</p><p num="0021">Moreover, according to a third invention, the method
+comprises the steps of: generating discharge between the
+rotating member and the discharge electrode on a first
+discharge condition on which the discharge electrode is
+consumed so that a shape of the discharge electrode is made
+to conform to a shape of a coating film forming portion on
+the rotating member; and thereafter generating discharge
+between the discharge electrode and the rotating member on a
+second discharge condition to form the coating film on the
+rotating member.</p><p num="0022">Furthermore, according to a fourth invention,
+preferably, on the first discharge condition, the discharge
+electrode has a minus polarity, a pulse width is 1 µs or less,
+and a current value is 10 A or less, and on the second 
+discharge condition, the discharge electrode has a minus
+polarity, the pulse width is 2 to 10 µs, and a current value
+is 5 to 20 A.</p><p num="0023">Additionally, the coating film is preferably formed
+on the tip end of the rotating member. Furthermore, for the
+hard member, as in an eighth invention, the discharge
+electrode of a green compact containing one of or a mixture
+of cBN, TiC, TiN, TiAlN, TiB<sub>2</sub>, WC, Cr<sub>3</sub>C<sub>2</sub>, SiC, ZrC, VC, B<sub>4</sub>C,
+Si<sub>3</sub>N<sub>4</sub>, ZrO<sub>2</sub>-Y, and Al<sub>2</sub>O<sub>3</sub>.</p><p num="0024">Moreover, the material forming the hard member by
+the discharge is preferably one of or a mixture of Ti, Cr, W,
+V, Zr, Si, Mo, and Nb or a mixture of these, and these are
+formed into carbide by the discharge in an oil to form a hard
+coating film.</p><p num="0025">Since a so-called discharge coating method is used
+according to this method, the tip end of the rotating member
+can easily be coated with the hard material. From the
+viewpoint of resistance to oxidation, a coating film
+containing TiC, WC, or cBN is preferably formed on the
+rotating member that is driven at a low temperature, a
+coating film containing cBN or Cr<sub>3</sub>C<sub>2</sub> is used in the rotating
+member that is driven at a high temperature, and a coating
+film containing ZrO<sub>2</sub>-Y or Al<sub>2</sub>O<sub>3</sub> is formed on the rotating
+member that is driven at a further high temperature.</p><p num="0026">Accordingly, a fifth, sixth, seventh, and ninth
+invention, there is provided a method of enhancing a fatigue
+strength of a coated surface. </p><p num="0027">A coating film which does not easily stretch as
+compared with a mother material is formed on the surface.
+Then, since a thin coating film bears a tensile load, the
+coating film on the surface easily cracks. In the coating by
+a discharge surface treatment, since a hard layer is firmly
+welded to the mother material, the crack of the coating film
+is developed into that of the mother material. To avoid this,
+it is necessary to form a coating film having a ductility, a
+layer for preventing the development of the crack between the
+mother material and the coating film, or a coating layer
+strong against pull.</p><p num="0028">In a fifth invention, in the coating film, a ratio
+of a coated area coated with the hard material in a coating
+film forming portion, that is, coverage is suppressed, a
+portion not coated with the hard material, that is, the
+portion having the ductility is scattered and left, and the
+ductility is left.</p><p num="0029">In a sixth invention, the discharge electrode is
+made to contain a metal which does not easily form carbide,
+accordingly the portion of a metal having the ductility is
+scattered and formed between the hard materials, and the
+ductility is left.</p><p num="0030">In a seventh invention, a porous coating film mainly
+formed of a metal is formed as a base. Thereafter, since the
+coating film containing the hard material is formed on the
+porous coating film, the crack of the coating layer is
+prevented from being developed into the mother material. </p><p num="0031">In a ninth invention, the surface of the coating
+layer is peened, and residual stress of compression is left.
+Even when the mother material stretches, a tensile stress is
+reduced.</p><p num="0032">These fifth to seventh, and ninth inventions are
+effective not only for the coating with the hard material but
+also for the discharge surface treatment for forming the
+coating film on the surface such as wear-resistant coating.</p><p num="0033">Moreover, according to the eighth invention, since a
+remarkably hard ceramic usable in the coating of the hard
+material is provided, it is possible to provide the coating
+of an effective hard material.</p><p num="0034">Furthermore, according to a tenth invention, there
+is provided a rotating member having an abrasive coating film
+on a part thereof that is formed by a pulsed discharge
+between the rotating member and a discharge electrode of a
+green compact in dielectric liquid or gas, wherein the green
+compact includes a hard material or a material that changes
+into a hard material by the discharge, and the abrasive
+coating film includes the hard material of the green compact
+or the hard material that is changed from the material of the
+green compact by the discharge. The rotating member is
+characterized in that the pretreatments such as a masking or
+blast process or the post-treatments such as grinding are not
+unnecessary and the coating film or the layer having good
+adhesion is formed. Furthermore, the coating film is
+preferably formed on the tip end of the rotating member. </p><p num="0035">For the rotating member, the discharge is caused
+between the rotating member and the discharge electrode in
+the dielectric liquid or gas to form an abrasive coating film
+including the hard material on a part of the rotating member,
+so that the rotating member superior in abrasive properties
+can be formed.</p><p num="0036">According to the eleventh to fourteenth inventions,
+since the coating film having the ductility is formed, the
+layer for preventing the development of the crack is formed
+between the mother material and the coating film, and the
+coating layer strong against the pull is formed, the rotating
+member high in fatigue strength is provided.</p><p num="0037">Moreover, according to a fifteenth invention, a
+remarkably hard ceramic usable in the coating of the hard
+material is provided, and accordingly the rotating member
+having good abrasive properties is provided.</p><p num="0038">To achieve the second object, according to a 16th
+invention, there is provided a rotating member in which only
+the vicinity of a portion of the rotating member having a
+possibility of contact with a component disposed opposite to
+the rotating member is coated with a hard material.
+Accordingly, a rotating member little in labor of operation,
+small in electrode use amount, good in yield of products and
+low in cost is obtained.</p><p num="0039">In a 17th invention, there is a further inexpensive
+rotating member in which a range to be coated is locally 
+limited.</p><p num="0040">In an 18th invention, there is provided a rotating
+member coated in a method for enhancing the abrasive
+properties of the tenth to 17th inventions. The rotating
+member is coated on the conditions for a coarse surface
+roughness to enhance the abrasive properties.</p><p num="0041">A 19th invention is a concrete example of the 16th
+invention, and there is provided a blade whose tip end is
+coated with a hard material. Only a corner of the blade in a
+rotation advance direction and the vicinity of the corner are
+coated with the hard material.</p><p num="0042">Since the range of the coating of the hard material
+is optimized, the yield can be enhanced, the operation time
+is shortened, and the coating material can be saved.</p><p num="0043">A 20th invention is a concrete example of the 17th
+invention, and there is provided a rotating member in which
+the coating film is formed on not all, but some of blades of
+a rotor or a blisk. The number of coated blades is minimized,
+and accordingly the operation time is reduced and the coating
+material can further be saved.</p><p num="0044">To achieve a third object, in a 21st invention, the
+rotating member is a rotating labyrinth seal component which
+is one of structure elements of a labyrinth seal structure
+which suppresses leak of a gas or liquid between a stationary
+component and a rotating component.</p><p num="0045">The rotating member comprises an annular seal 
+component main body, and an annular seal fin integrally
+formed on an outer peripheral surface of the seal component
+main body, and a tip edge of the seal fin is coated with a
+hard material. For the coat of the hard material, an
+electrode for coating having consumability is used, a pulsed
+discharge is caused between the electrode for coating and the
+tip edge of the seal fin in dielectric liquid or gas, and the
+coat includes the hard material formed of a constituting
+material of the electrode for coating formed on the tip edge
+of the seal fin by a discharge energy or a reactant of the
+constituting material.</p><p num="0046">Here, in general, the "electrode for coating having
+the consumability" means a green compact electrode (including
+a thermally treated green compact electrode) obtained by
+compression molding of a powdered metal (including a metal
+compound), a mixed material of the powdered metal and a
+powdered ceramic, or the powdered ceramic having conductivity.
+Further, "electrode for coating having the consumability"
+also means a silicon electrode formed of solid silicon. It
+is to be noted that the ceramic having conductivity is
+appropriately subjected to a surface treatment.</p><p num="0047">According to a 21st invention, the coat of the hard
+material is a coating film including a hard material
+constituted of a constituting material of the electrode for
+coating or a reactant of the constituting material formed on
+the tip edge of the seal fin by a discharge energy generated
+between the electrode for coating and the tip edge of the 
+seal fin without performing plating or thermal spraying.
+Therefore, in the production of the rotating labyrinth seal
+component, coating pretreatments such as a blast treatment
+and a process of attaching a masking tape and coating post-treatments
+such as a process of removing the masking tape are
+unnecessary.</p><p num="0048">Moreover, since a boundary portion between the coat
+of the hard material coated by the discharge energy and a
+mother body of the seal fin has alloy composition changing
+properties (alloy composition changes depending on the
+position), the coat of the hard material can firmly be
+connected to the tip edge of the seal fin.</p><p num="0049">Furthermore, in the 21st invention, preferably as in
+the 22nd invention, the coat of the hard material includes a
+plurality of local coating films locally formed on a
+plurality of portions in a peripheral direction in the tip
+edge of the seal fin.</p><p num="0050">By this constitution, the coat of the hard material
+includes a plurality of local coats. Therefore, in other
+words, the coating film including the hard material
+constituted of the constituting material of the electrode for
+coating or the reactant of the constituting material is
+locally formed on a plurality of portions of the peripheral
+direction in the tip edge of the seal fin, not in the whole
+periphery of the tip edge of the seal fin. Therefore, the
+electrode for coating can be formed in a small and simple
+shape in accordance with the size or the shape of the portion 
+to be treated in the tip edge of the seal fin. Moreover, the
+amount of an electrode material for use in the electrode for
+coating can be reduced.</p><p num="0051">It is to be noted that as described above, since the
+coat of the hard material (local coat of the hard material)
+can firmly be connected to the tip edge of the seal fin, the
+entire rotating labyrinth seal component can have sufficient
+abrasive properties by the local coat of the plurality of
+hard materials without coating the whole periphery of the tip
+edge of the seal fin with the hard material.</p><p num="0052">Further in the tenth invention, preferably as in the
+15th invention, the electrode for coating is the green
+compact electrode obtained by compression molding of the
+powdered metal, the mixed material of the powdered metal and
+the powdered ceramic, or the powdered ceramic having the
+conductivity, or the solid silicon electrode. Furthermore,
+the ceramic is one of or a mixture of cBN, Cr<sub>3</sub>C<sub>2</sub>, TiC, TiN,
+TiAlN, TiB<sub>2</sub>, ZrO<sub>2</sub>-Y, ZrC, VC, B<sub>4</sub>C, WC, SiC, Si<sub>3</sub>N<sub>4</sub>, and Al<sub>2</sub>O<sub>3</sub>.</p><p num="0053">Here, the "powdered metal" also includes a powdered
+metal compound. It is to be noted that a ceramic that does
+not have conductivity is appropriately subjected to the
+surface treatment so as to secure the conductivity.</p><p num="0054">Moreover, in a 23rd invention, there is provided a
+labyrinth seal structure which suppresses a leakage of a gas
+or liquid between a stationary component and a rotating
+component, comprising: a stationary-side seal component
+integrally disposed on the stationary component; an annular 
+seal component main body which is disposed inside the
+stationary-side seal component and which is capable of
+rotating integrally with the rotating component and which is
+integrally disposed on the rotating component; an annular
+seal fin integrally formed on an outer peripheral surface of
+the seal component main body; and a hard coat formed on the
+tip edge of the seal fin, wherein the hard coat is a coating
+film including a hard material constituted of a constituting
+material or a reactant of the constituting material of an
+electrode for coating formed on the tip edge of the seal fin
+by a discharge energy of a pulsed discharge between the
+electrode for coating and the tip edge of the seal fin, and
+the electrode for coating has consumability.</p><p num="0055">Here, the "stationary-side seal component" includes
+a honeycomb-shaped stationary honeycomb seal component, or a
+stationary abradable seal component whose inside is coated
+with an abradable coat.</p><p num="0056">Moreover, in general, the "electrode for coating
+having the consumability" means a green compact electrode
+(including a thermally treated green compact electrode)
+obtained by compression molding of a powdered metal
+(including a metal compound), a mixed material of the
+powdered metal and a powdered ceramic, or the powdered
+ceramic having conductivity. Further, the "electrode for
+coating having the consumability" also means a silicon
+electrode formed of solid silicon. It is to be noted that
+for the ceramic which does not have the conductivity, the 
+surface of the ceramic powder which does not have the
+conductivity is subjected to a treatment for forming a
+conductive coating film so as to appropriately secure the
+conductivity.</p><p num="0057">According to the 23rd invention, the rotating
+labyrinth seal component includes the coat of the hard
+material. Therefore, to integrally rotate the rotating
+labyrinth seal component with the rotating component, even
+when the stationary-side seal component is deformed, and the
+rotating labyrinth seal component contacts with the
+stationary-side seal component, the stationary-side seal
+component is simply shaved by the coat of the hard material
+in the rotating labyrinth seal component, and the rotating
+labyrinth seal component is hardly shaved.</p><p num="0058">Accordingly, a clearance between the stationary-side
+seal and the rotating labyrinth seal component is inhibited
+from being enlarged during the rotation of the rotating
+component, and a seal effect of the labyrinth seal structure
+can be kept in an appropriate state. Moreover, the rotating
+labyrinth seal component is set so as to slightly contact
+with the stationary-side seal component during initial
+rotation of the rotating component. Accordingly, during or
+after the initial rotation, the clearance between the
+stationary-side seal component and the rotating labyrinth
+seal component can be reduced as much as possible, and the
+seal effect of the labyrinth seal structure can further be
+enhanced. </p><p num="0059">Moreover, the coat of the hard material is the
+coating film including the hard material constituted of the
+constituting material of the electrode for coating or the
+reactant of the constituting material formed on the tip edge
+of the seal fin by the discharge energy generated between the
+electrode for coating and the tip edge of the seal fin
+without performing the plating or thermal spraying.
+Therefore, in the production of the rotating labyrinth seal
+component, the coating pretreatments such as the blast
+treatment and the process of attaching the masking tape and
+the coating post-treatments such as the process of removing
+the masking tape are unnecessary.</p><p num="0060">Furthermore, since the boundary portion between the
+coat of the hard material coated by the discharge energy and
+the mother material of the seal fin has alloy composition
+changing properties, the coat of the hard material can firmly
+be connected to the tip edge of the seal fin.</p><p num="0061">Furthermore, in a 24th invention, preferably the
+coat of the hard material includes a plurality of local
+coating films locally formed on a plurality of portions in
+the peripheral direction in the tip edge of the seal fin.</p><p num="0062">By this constitution, the coat of the hard material
+includes a plurality of local coats of the hard material.
+Therefore, in other words, the coating film including the
+hard material constituted of the constituting material of the
+electrode for coating or the reactant of the constituting
+material is locally formed on a plurality of portions to be 
+treated of the peripheral direction in the tip edge of the
+seal fin, not in the whole periphery of the tip edge of the
+seal fin. Therefore, the electrode for coating can be formed
+into the small and simple shape in accordance with the size
+or the shape of the portion to be treated in the tip edge of
+the seal fin. Moreover, the amount of the electrode material
+for use in the electrode for coating can be reduced.</p><p num="0063">It is to be noted that as described above, since the
+coat of the hard material (local coat of the hard material)
+can firmly be connected to the tip edge of the seal fin, the
+entire rotating labyrinth seal components can have sufficient
+abrasive properties by the local coats of the plurality of
+hard materials without coating the whole periphery of the tip
+edge of the seal fin with the hard material.</p><p num="0064">In a 25th invention, there is provided a method for
+manufacturing a rotating member of a blade or a labyrinth
+member, comprising: a first step of forming a forging
+material or a casting material into a predetermined shape by
+mechanical processing; and a second step of generating a
+pulsed discharge between a rotating member formed into a
+predetermined shape and a discharge electrode of a green
+compact or solid silicon in dielectric liquid or gas to
+transfer a hard material of the discharge electrode or the
+hard material changed from a material of the discharge
+electrode onto the rotating member by each discharge pulse so
+that a hard concavity and convexity is formed on the rotating
+member, wherein the green compact includes the hard material 
+or the material changing into the hard material by the
+discharge, and repeatedly generating the discharge pulse to
+form on the rotating member a hard coating film having the
+concavity and convexity.</p><p num="0065">In a 26th invention, in the above-described
+manufacturing method, in the second step, an abrasive coating
+film that rubs against and shaves an opponent component is
+formed as the hard coating film on a part of the rotating
+member.</p><p num="0066">In a 27th invention, there is provided the method
+for manufacturing the rotating member, wherein the second
+step comprises the steps of forming a discharge electrode
+into a shape in accordance with a shape of a predetermined
+portion of the rotating member.</p><p num="0067">In a 28th invention, there is provided a method for
+providing discharge conditions that the shape of the
+discharge electrode conform to that of the coating film
+forming portion of the rotating member to form the electrode
+without any trouble.</p><p num="0068">In a 29th invention, there is provided the method
+for manufacturing the rotating member which does not easily
+collapse from fatigue, wherein during the forming of the
+coating film in the second step, a discharge condition is
+controlled to set a coverage to be 95% or less in the coating
+film forming portion, the coverage being a ratio of an area
+at which the coating film including the hard material is
+formed. </p><p num="0069">In a 30th invention, there is provided the method of
+manufacturing the rotating member, wherein the ratio of the
+coverage is controlled to provide the rotating member which
+does not easily collapse from fatigue.</p><p num="0070">In a 31st invention, there is provided the method
+for manufacturing the rotating member which does not easily
+collapse from fatigue, wherein in the second step, the green
+compact electrode containing 5% or more by volume of a metal
+which does not easily react into carbide is used to perform
+the discharge.</p><p num="0071">In a 32nd invention, there is provided the method
+for manufacturing the rotating member which does not easily
+collapse from fatigue, wherein the second step comprises the
+steps of: forming a porous coating film on a coating film
+forming portion of the rotating member; and thereafter
+forming the coating film including the hard material on the
+porous coating film. In a 33rd invention, there is
+provided the method for manufacturing the rotating member
+superior in abrasive properties by using the appropriate
+discharge electrode material of the green compact in the
+second step.</p><p num="0072">In a 34th invention, there is provided the method of
+manufacturing the rotating member which does not easily
+collapse from fatigue, further comprising: a third step of
+subjecting the coating film formed in the second step to a
+peening treatment.</p><p num="0073">Other objects and advantageous characteristics of 
+the present invention will be apparent from the following
+description with reference to the accompanying drawings.</p><heading><u style="single">BRIEF DESCRIPTION OF THE DRAWINGS</u></heading><p num="0074"><sl><li>FIG. 1A is a perspective view of a usual turbine
+blade, FIG. 1B is a perspective view of the turbine blade
+with a chip shroud, and FIG. 1C is a perspective view of a
+compressor blade;</li><li>FIG. 2 is a perspective view showing one example of
+a conventional labyrinth seal tip end;</li><li>FIG. 3 is a diagram showing a first embodiment of a
+rotating member and coating method of the present invention;</li><li>FIG. 4 is a diagram showing a second embodiment of
+the rotating member and coating method of the present
+invention;</li><li>FIG. 5 is a diagram showing a third embodiment of
+the rotating member and coating method of the present
+invention;</li><li>FIG. 6 is a diagram showing a fourth embodiment of
+the rotating member and coating method of the present
+invention;</li><li>FIGS. 7A, 7B, and 7C are perspective views of the
+usual turbine blade according to a fifth embodiment of the
+rotating member of the present invention;</li><li>FIGS. 8A, 8B, and 8C are perspective views of the
+turbine blade with a chip shroud according to a sixth
+embodiment of the rotating member of the present invention; </li><li>FIGS. 9A, and 9B are perspective views of the
+compressor blade according to a seventh embodiment of the
+rotating member of the present invention;</li><li>FIG. 10 is a diagram showing the fifth embodiment of
+the coating method according to the present invention;</li><li>FIG. 11 is a schematic diagram of a labyrinth seal
+structure according to an eighth embodiment of the rotating
+member of the present invention;</li><li>FIG. 12 is a front view of a labyrinth seal of FIG.
+11; and</li><li>FIG. 13 is a schematic diagram of a discharge
+processing machine according to the eighth embodiment of the
+coating method according to the present invention.</li></sl></p><heading><u style="single">DESCRIPTION OF THE PREFERRED EMBODIMENT</u></heading><p num="0075">Preferable embodiments of the present invention will
+hereinafter be described with reference to the drawings. It
+is to be noted that components common to the respective
+drawings are denoted with the same reference numerals, and
+redundant description is omitted.</p><p num="0076">FIG. 3 is a diagram showing a first embodiment of a
+rotating member and coating method of the present invention.
+This figure shows that a tip end of a blade 1 for use in a
+gas turbine or a compressor is coated with a hard material.</p><p num="0077">In the method of the present invention, as shown in
+FIG. 3, the blade 1 and a discharge electrode 11 including
+cubic boron nitride (cBN) is submerged in a processing tank 
+12 filled with dielectric liquid (oil). A pulsed discharge
+is caused between the tip end of the blade 1 and the
+discharge electrode 11 by a power supply for discharge 14 to
+melt the discharge electrode 11. A part of the electrode is
+welded to the tip end of the blade 1 to form a cBN-containing
+coating film 10. Here, only sections of the blade 1 and
+discharge electrode 11 are shown, the blade 1 is fixed by a
+blade fixing jig, and the discharge electrode 11 is fixed by
+an electrode fixing jig (not shown). It is to be noted that
+FIG. 3 shows an example of the blade, but a labyrinth seal
+which is the same rotating member can also be coated with the
+hard material in a similar method. It is to be noted that in
+the figure, reference numeral 13 denotes the blade fixing jig.</p><p num="0078">In the above description, cBN is used as the hard
+material, and cBN is a coating material optimum for the
+turbine blade exposed at a high temperature, in that Vickers
+hardness is 4500 HV at room temperature, and Vickers hardness
+close to 2000 HV can be maintained even at high temperature
+of 900°C or more. Additionally, from the viewpoint of
+resistance to oxidation, a hard material of TiC, WC can be
+used in the rotating member for use at a low temperature,
+Cr<sub>3</sub>C<sub>2</sub> can be used in the rotating member for use at a high
+temperature, and ZrO<sub>2</sub>-Y or Al<sub>2</sub>O<sub>3</sub> can be used in the rotating
+member for use at a further high temperature. Therefore,
+according to the present invention, a coating film containing
+TiC, WC, or cBN is formed on the rotating member for use at
+the low temperature, a coating film containing cBN or Cr<sub>3</sub>C<sub>2</sub> 
+is used in the rotating member for use at the high
+temperature, and a coating film containing ZrO<sub>2</sub>-Y or Al<sub>2</sub>O<sub>3</sub> is
+formed on the rotating member for use at the further high
+temperature. Needless to say, these hard materials may also
+be mixed to form an optimum coating film. It is to be noted
+that a discharge coating technique is disclosed, for example,
+in "Surface Treatment Method of Metal Material by In-liquid
+Discharge" of Japanese Laid-Open Patent Publication No. 7-197275,
+and the description is omitted.</p><p num="0079">Here, since ceramics such as cBN are hard insulating
+materials, a single ceramic such as cBN cannot be formed into
+the discharge electrode, but the discharge electrode
+containing the ceramics such as cBN can be formed by use of a
+conductive binder. For example, Co-based alloy powder can be
+used as a binder, and ceramic powder such as cBN may be mixed
+with a Co-based alloy powder, charged in a press mold, and
+compressed/molded. It is to be noted that an amount of
+binder is preferably about 50% or more by a volume ratio.</p><p num="0080">Furthermore, the powder of ceramics such as cBN may
+be coated with titanium (Ti), nickel (Ni), or cobalt (Co)
+which is a binder to form the discharge electrode. A
+particle diameter of the whole powder needs to be smaller
+than a pole distance between the electrode and a work during
+a discharge surface treatment, and is therefore preferably
+about 10 µm or less. The powder of ceramics such as cBN can
+easily be coated with a thin coating film of a Ti, Ni, or Co
+metal by vapor deposition. </p><p num="0081">When the conductive binder is mixed, and the
+discharge electrode containing the ceramics such as cBN is
+formed in this manner, the discharge can be caused in the
+portion of the binder, the discharge electrode is brought
+into a molten state by heat energy, and a part of the
+discharge electrode can be welded/attached to the tip end of
+the rotating member such as the blade. As a result, the tip
+end of the rotating member can be coated with a hard coating
+film containing the ceramics such as cBN.</p><p num="0082">Here, Table 1 shows results of a wear test in which
+two test pieces (upper and lower test pieces) coated by the
+coating method of the present invention are ground (rubbed)
+with each other at the high temperature.
+<tables><table><tgroup cols="3"><tbody><row><entry align="center"/><entry align="center">Coating material</entry><entry align="center">Wear amount (µm)</entry></row><row><entry align="left">Upper test piece</entry><entry align="center">Ni alloy</entry><entry align="center">600 or more</entry></row><row><entry align="left">Lower test piece</entry><entry align="center">cBN coating</entry><entry align="center">0</entry></row></tbody></tgroup></table></tables></p><p num="0083">The upper test piece is RENE77 which is a nickel-based
+alloy, and the lower test piece is cBN which is the
+coating film of the present invention. For test conditions,
+temperature: 800 degrees centigrade, surface pressure: 7 MPa,
+cycle number: 10<sup>7</sup> cycles, and amplitude: 0.35 mm. As seen
+from Table 1, a wear amount of 600 µm or more is measured on
+an Ni alloy, but no wear is detected on the coating film of
+cBN. From this result, it is seen that cBN is superior in
+abrasive properties. It is to be noted that this Ni alloy is
+an alloy constituted of a component ratio of Ni: 57%, Cr: 15%,
+Co: 15%, Mo: 5%, Ti: 3.5%, Al: 4.4, C: 0.1%. </p><p num="0084">When a so-called discharge coating method is used to
+coat the tip end of the rotating member such as the blade
+with the coating film containing the ceramics such as cBN,
+the hard coat can easily be applied by use of characteristics
+of the ceramics such as cBN, and a coating film having good
+adhesion and quality level can be coated as compared with
+conventional methods such as welding and thermal spraying.
+According to the present invention, since a thin coating film
+(or a layer) that has a thickness of several microns to 30 µm
+can be formed, the coating film is not easily cracked, and
+precision can be controlled by a unit of several µm.
+Therefore, it is possible to provide a coating method optimum
+for precision components such as the blade and labyrinth seal.</p><p num="0085">Coarser surface roughness for abrasive properties of
+shaving the opponent component to be ground is preferable.
+In the example, the surface roughness is coarser than 1.2
+µmRa.</p><p num="0086">As described above, since the so-called discharge
+coating method is used in the present invention, the
+pretreatments such as the masking and blast process are
+unnecessary, the coating film having good adhesion can easily
+and inexpensively be formed, and further a coating film
+containing ceramics such as cubic boron nitride (cBN) can be
+coated. Therefore, a portion of the rotating member
+requiring the abrasive properties can be coated with a hard
+coating film superior in abrasive properties.</p><p num="0087">A coating layer of the hard material is hard, and 
+small in ductility. Therefore, a tensile stress applied to
+the component is not borne by a mother material in a
+component having a large ductility, and is borne only by the
+coating layer of the surface. Therefore, the surface cracks,
+and there is a possibility that the crack is developed into
+the mother material. To avoid this, a method of imparting
+the ductility to the coating layer is used.</p><p num="0088">Table 2 shows the number of cycles reaching
+destruction in a high cycle fatigue (HCF) test in which an
+outer diameter of a round rod is coated with the hard
+material and a tensile load is going to be repeated in an
+axial direction.</p><p num="0089">Without any coating of the hard material, the
+material does not break up to one million cycles. However,
+in the coating in which a ratio of a coated area in a coating
+surface with the hard material, that is, a coverage (see FIG.
+4) of coating is 98%, the material breaks at 20 thousand
+cycles. When the coverage is suppressed at about 95%, the
+material does not break up to one million cycles.
+<tables><table><tgroup cols="4"><tbody><row><entry align="center"/><entry align="center">Coating state</entry><entry align="center">Cycle number of break</entry></row><row><entry align="right"/><entry align="left">No coating</entry><entry align="center">One million cycles</entry></row><row><entry align="right"/><entry align="left">98% coverage of TiC</entry><entry align="center">20 thousand cycles</entry></row><row><entry align="right"/><entry align="left">95% coverage of TiC</entry><entry align="center">One million cycles</entry></row><row><entry>HFC test conditions: 500°C, 650 MPa, pull of round rod having a diameter of 5 mm in axial direction at 30 Hz</entry></row></tbody></tgroup></table></tables></p><p num="0090">When the coverage of the coating is lowered to 95%
+or less, the abrasive properties of the whole coating surface 
+are slightly sacrificed to increase the ductility. When the
+coverage is raised, the ductility decreases, and fatigue
+strength drops. However, at 95%, the fatigue strength does
+not largely drop, and the abrasive properties little drop.
+In one method of lowering the coverage, a discharge time is
+reduced, a range in which the discharge does not occur is
+left, and the coverage can be reduced. The treatment is
+usually performed for a time of five minutes/square
+centimeter, but the time may be reduced to about 3.8
+minutes/square centimeter.</p><p num="0091">A calculation equation is as follows:
+<st32:df xmlns:st32="http://www.matrixware.com/ns/st32/" align="center">Time for obtaining a coverage of 95%<st32:break type="required"/>
+= time for obtaining a coverage of 98%*LOG(1-0.95)/LOG(1-<st32:break type="required"/>
+0.98).</st32:df>
+The coverage of 98% is regarded as a coverage of 100%. To
+calculate the time from a time for obtaining a coverage of
+50%, 0.98 in LOG(1-0.98) is changed to 0.5.</p><p num="0092">In another method, as shown in FIG. 5, with the use
+of the electrode to which a metal powder that is not easily
+carbonized is added, ductile properties of the metal is
+imparted to the coating layer. When the electrode contains
+5% or more of a metal that is not easily carbonized, 5% or
+more of a portion having the ductility remains, and an effect
+similar to that of Table 2 can be expected. Also in this
+method, the abrasive properties of the whole coating surface
+are slightly sacrificed. Examples of the metal which is not
+easily carbonized include cobalt, nickel, and iron. For the 
+coverage, one blade has been described. However, there are a
+large number of blades. Therefore, even if the coverage is
+low, or the abrasive properties are not seen in a certain
+portion of a certain blade, the other blades can cover the
+properties. This also applies to an annular seal because if
+one portion on the circumference of the annular seal has the
+abrasive properties, it is possible to obtain the abrasive
+properties.</p><p num="0093">Moreover, as still another method, as shown in FIG.
+6, a porous layer is formed as a base for the coating layer
+of the hard material in order to prevent the crack of the
+coating layer from being developed into the mother material.
+The porous layer is formed under the coating layer. This
+base is also formed by discharge coating. The porous layer
+having a thickness of 0.05 mm or more can be formed by using
+the electrode obtained by compression molding of a powder of
+metals such as Stellite. Thereafter, the porous layer is
+coated with the hard material.</p><p num="0094">Moreover, the surface of the coating of the hard
+material is peened, the surface is accordingly stretched, a
+compression stress is left, and a tensile stress is reduced
+even when the mother material is elongated. The fatigue
+strength can be enhanced by the effect.</p><p num="0095">FIGS. 7A to 7C, 8A to 8C, 9A and 9B are perspective
+views showing fifth to seventh embodiments of the rotating
+member of the present invention. It is to be noted that in 
+these figures, a platform or a dovetail on a disk side is
+omitted.</p><p num="0096">In the turbine blade 1 of FIG. 7A, the corner of the
+blade in a rotation advance direction, that is, the blade tip
+end of a blade surface on the back side and a tip end surface
+are coated with a coating 20 of the hard material.</p><p num="0097">In a thin turbine blade of FIG. 7B, the blade tip
+end of a blade surface on the back side and the entire tip
+end surface are coated, and the opposite surface may not be
+coated.</p><p num="0098">In the turbine blade of FIG. 7C, the blade tip end
+of a blade surface on the back side is coated, and the entire
+tip end surface is not coated.</p><p num="0099">In the turbine blade 2 with the chip shroud of FIG.
+8A, the corner of the tip end of a chip fin 4 in the rotation
+advance direction, or the surface of the chip fin 4 in the
+rotation advance direction, that is, the backside surface of
+the tip end of the chip fin 4 on are coated with a coating 21
+of the hard material. It is to be noted that the chip shroud
+3 is disposed to prevent resonance of the blades 2 at the
+time of a high-speed rotation of the gas turbine and to
+prevent a high-temperature gas from leaking to the outside of
+the blades 2.</p><p num="0100">In a small blade of FIG. 8B, the entire surface of
+the tip end and the surface of the rotation advance direction
+(i.e., on the backside surface of the tip end of the chip fin
+4) are coated, and the opposite surface may not be coated. </p><p num="0101">In the turbine blade of FIG. 8C, the surface of the
+rotation advance direction (i.e., the backside surface of the
+tip end) is coated, and the whole surface of the tip end is
+not coated.</p><p num="0102">In the compressor blade 1 of FIG. 9A, the corner of
+the blade in the rotation advance direction, that is, the
+blade tip end of a blade surface on the front side and the
+tip end surface are coated with a coating 22 of the hard
+material.</p><p num="0103">In the compressor blade of FIG. 9B, the surface of
+the rotation advance direction, that is, the blade tip end of
+a blade surface on the front side is coated, and the entire
+surface of the tip end is not coated.</p><p num="0104">In the blades of FIGS. 9A and 9B, an abrasive
+property test was carried out by simulation of an actual
+device, a difference was not recognized in the property.</p><p num="0105">As described above, the coating of the hard material
+is applied so as to shave the abradable coating by the tip
+ends of the blades 1, 2 by taking advantage of the hardness
+difference, at the time of driving the blades 1, 2 to keep a
+minimum chip clearance. The abradable coating is applied on
+the casing or the shroud. Moreover, this phenomenon starts
+by the contact between the casing or the shroud and the
+corners of the blades 1, 2 in the rotation advance direction,
+and ends when the casing or the shroud is shaved. That is,
+after the contact of the corner, another portion of the same
+blade hardly contacts with the casing or the shroud. In 
+consideration of this fact, the coating of the hard material
+does not have to be applied over the entire region of the
+blade tip end as in the related art. As described in the
+present invention, it is sufficient that only the range of
+the contact with the abradable coating, that is, only the
+corner of the rotation advance direction, or only the surface
+of the rotation advance direction is coated with the coatings
+20, 21, 22 of the hard material. When the range to be coated
+is optimized in this manner, the range to be coated is
+narrowed, the yield of products is enhanced, the operation
+time can be shortened, the expensive coating material can be
+saved, and the cost can be reduced.</p><p num="0106">FIG. 10 is a diagram showing a fifth embodiment of
+the coating method according to the present invention, and is
+a diagram showing the coating method of the blades shown in
+FIGS. 7A to 7C. In the coating method of the present
+invention, the blade 1 and a discharge electrode 23 is
+submerged in the processing tank 12 filled with the
+dielectric liquid (oil), the discharge electrode 23 is
+disposed in the vicinity of the corner in the rotation
+advance direction of the blade 1, the discharge is caused
+between them, and only the corner of the blade 1 in the
+rotation advance direction is coated with the coating 20 of
+the hard material.</p><p num="0107">The coating 20 of the hard material is formed to
+have a very thin thickness of 10 to 20 µm (exaggerated for
+ease of seeing in the figure). Therefore, after molding the 
+blade 1 as usual, it is sufficient to apply the coating 20 of
+the hard material only to a range of contact with the
+opposite member, that is, only the corner of the rotation
+advance direction or the surface of the rotation advance
+direction. Needless to say, the corner of the blade 1 is
+shaved by the thickness of the coating 20 of the hard
+material by machine processing, and a casting mold in
+consideration of the thickness beforehand may be used to mold
+the blade 1.</p><p num="0108">Moreover, in a case of a thin blade, the coating of
+the hard material may be formed entirely on the rotation
+advance direction surface and the tip end surface. However,
+the surface disposed opposite to the rotation advance
+direction surface does not have to be coated.</p><p num="0109">It is to be noted that only the sections of the
+blade 1 and discharge electrode 23 are shown in FIG. 10.</p><p num="0110">In this coating method, the discharge electrode 23
+shaped so as to coat only the blade tip end of the blade
+surface on the back side and the tip end surface is
+preferably used so that only the corner of the blade 1 in the
+rotation advance direction can be subjected to the discharge
+coating. For example, the discharge electrode 23 has a
+substantially L-shaped section, and a shape curved along the
+back side of the blade.</p><p num="0111">The electrode may be processed beforehand into a
+product shape. However, alternatively, the electrode may be
+formed in accordance with the product shape by the discharge 
+on the discharge condition on which the electrode is easily
+consumed. As this condition, the electrode is set to have a
+minus polarity, and the discharge is caused on comparatively
+small energy condition on which the pulse width is set to 1
+µs or less, and the current value is 10 A or less. Then, the
+damage onto the product is suppressed, and the electrode can
+accord with the product shape.</p><p num="0112">When the coating film is formed, the electrode is
+assumed to have the minus polarity, and the discharge is
+caused on comparatively large energy condition on which the
+pulse width is about 2 to 10 µs, and the current value is
+about 5 to 20 A.</p><p num="0113">It is to be noted that although not shown, with the
+turbine blade with the chip shroud 2 shown in FIGS. 8A to 8C,
+such an electrode to coat the corner of the chip fin 4 in the
+rotation advance direction may be used.</p><p num="0114">In the discharge coating, the discharge is caused on
+the surfaces disposed opposite to each other by application
+of a voltage between the blade 1 and the discharge electrode
+23 submerged in the dielectric liquid, the surface of the
+discharge electrode 23 is molten by the discharge, and the
+molten element is attached on the surface of the blade 1 to
+form the alloy on the surface. A solidified coating material
+is used for the discharge electrode 23.</p><p num="0115">Since the thickness of the coating can be controlled
+by the degree of several micrometers, the discharge coating
+is a coating method optimum for the precision components such 
+as the blade 1. Moreover, a place where the discharge does
+not occur is not coated. Therefore, since the portion to be
+coated can locally be coated, the pretreatments such as the
+masking are unnecessary. Since heat generation is small, the
+blade is not thermally deformed, and the post-treatment is
+also unnecessary.</p><p num="0116">As described above, in the present invention, since
+the coating range of the hard material is optimized, the
+yield of products can be enhanced. Since the operation time
+can be shortened, and the coating material can be saved, the
+cost can be reduced. Furthermore, since the so-called
+discharge coating is used, only the corner of the rotation
+advance direction of the blade or the surface of the rotation
+advance direction can easily and inexpensively can be coated
+with the hard material.</p><p num="0117">Moreover, even when all the blades assembled onto a
+rotor are not coated with the hard material, some of the
+blades are coated with the hard material, and it is then
+possible to obtain the effect. This also applies to the
+annular seal, as long as one or more portions on the
+circumference may have the abrasive properties.</p><p num="0118">FIG. 11 is a schematic diagram of a labyrinth seal
+structure according to an eighth embodiment of the rotating
+member of the present invention, and FIG. 12 is a front view
+of a labyrinth seal of FIG. 11. FIG. 13 is a schematic 
+diagram of a discharge processing machine according to the
+eighth embodiment of the coating method according to the
+present invention.</p><p num="0119">As shown in FIGS. 11 and 12, a labyrinth seal
+structure 31 according to the embodiment of the present
+invention is used in the gas turbine of a jet engine, and
+inhibits a leak of a combustion gas between an engine
+stationary component 33 and an engine rotating component 35.
+The labyrinth seal structure 31 includes, as constituting
+elements, a honeycomb-shaped stationary-side honeycomb seal
+component 37 integrally disposed on the engine stationary
+component 33, and a rotating labyrinth seal component 39
+disposed inside the stationary-side honeycomb seal component
+37 and capable of rotating integrally with the engine
+rotating component 35. It is to be noted that a stationary-side
+abradable seal component whose inside is coated with the
+abradable coat may also be used instead of the stationary-side
+honeycomb seal component 37.</p><p num="0120">A concrete constitution of the rotating labyrinth
+seal component 39 which is an important part of the
+embodiment of the present invention is as follows.</p><p num="0121">That is, an annular seal component main body 41
+which is a main body of the rotating labyrinth seal component
+39 is integrally disposed on the engine rotating component 35,
+and a plurality of annular seal fins 43 are integrally formed
+on the outer peripheral surface of the seal component main
+body 41. Tip edges of the respective seal fins 43 are coated 
+with coats 45 of the hard material. Furthermore, for each
+coat 45 of the hard material, an electrode 47 for coating
+having consumability (see FIG. 13) is used, and a pulsed
+discharge is caused between the electrode 47 for coating and
+the tip edge of the seal fin 43. The constituting material
+of the electrode 47 for coating or the reactant of the
+constituting material forms into the coating film containing
+the hard material on a plurality of treated portions in the
+tip edges of the seal fins 43 by the discharge energy, and
+accordingly a plurality of (four in the embodiment of the
+present invention) local coats 45a of the hard material are
+applied at equal intervals.</p><p num="0122">Here, in the embodiment of the present invention, in
+general, "the electrode for coating having the consumability"
+means a green compact electrode (including a thermally
+treated green compact electrode) obtained by compression
+molding of a powdered metal (including a metal compound), a
+mixed material of the powdered metal and a powdered ceramic,
+or the powdered ceramic having conductivity. "The electrode
+for coating having the consumability" may also mean a silicon
+electrode formed of solid silicon. It is to be noted that
+the ceramic having conductivity is subjected to the surface
+treatment for forming a conductive coating film on the
+ceramic powder, and molded by compression, so that the
+conductivity is secured. Especially, examples of the
+"powdered metal" include Ti, Co, and the like, and the
+examples of the "powdered ceramic" include cBN, TiC, TiN, 
+TiAlN, AlN, TiB<sub>2</sub>, WC, Cr<sub>3</sub>C<sub>2</sub>, SiC, ZrC, VC, B<sub>4</sub>C, Si<sub>3</sub>N<sub>4</sub>, ZrO<sub>2</sub>-Y,
+Al<sub>2</sub>O<sub>3</sub>, and the like.</p><p num="0123">The examples of the material which reacts by the
+discharge energy to form the coating film containing the hard
+material include Ti, W, Cr, Zr, Si, V, Mo, Nb.</p><p num="0124">Furthermore, the electrode 47 for coating has a
+shape approximate to that of the portion to be treated in the
+tip edges of the seal fins 43.</p><p num="0125">Next, a concrete constitution of a discharge
+processing machine 49 for use in coating the coat 45 of the
+hard material, and a coating method for coating the coat 45
+of the hard material will be described with reference to FIG.
+13.</p><p num="0126">That is, in the discharge processing machine 49
+according to the embodiment of the present invention, a bed
+51 is used as a processing machine base, and a table 53 is
+disposed on the bed 51. The table 53 can be moved in X-axis
+directions (left and right directions in FIG. 13) by driving
+an X-axis servo motor (not shown), and can be moved in Y-axis
+directions (front and back directions of a sheet surface of
+FIG. 13) by driving a Y-axis servo motor (not shown).</p><p num="0127">A processing tank 55 in which dielectric liquid L
+such as dielectric oil is disposed on the table 53, and a
+support plate 57 is disposed in the processing tank 55. A
+support tool 59 to which the seal component main body 41 is
+fixed is disposed on the support plate 57.</p><p num="0128">A processing head 61 is disposed via a column (not 
+shown) above the bed 51 (above in FIG. 13), and this
+processing head 61 can move in Z-axis directions (upward and
+downward directions in FIG. 13) by driving a Z-axis servo
+motor. Moreover, an electrode hold member 63 for holding the
+electrode 47 for coating is disposed on the processing head
+61.</p><p num="0129">It is to be noted that the electrode hold member 63
+and the support tool 59 are electrically connected to a power
+supply 65.</p><p num="0130">Therefore, the seal component main body 41 is fixed
+by the support tool 59 in a state in which a portion of the
+tip edge of the seal fin 43 to be treated in the peripheral
+direction is directed right upwards in the processing tank 55.
+Next, the table 53 is moved in the X-axis and Y-axis
+directions (at least either one direction) by driving the X-axis
+and Y-axis servo motors. Thereby, the position of the
+seal fin 43 is determined such that the portion of the tip
+end of the seal fin 43 to be treated faces the electrode 47
+for coating.</p><p num="0131">Moreover, the electrode 47 for coating is moved
+integrally with the processing head 61 in the Z-axis
+direction by driving the Z-axis servo motor, while a pulsed
+voltage is generated between the electrode 47 for coating and
+the portion of the tip end of the tip fin 43 to be treated in
+the dielectric liquid L. Accordingly, the electrode material
+of the electrode 47 for coating is locally diffused in and/or
+welded to the portion of the tip edge of the seal fin 43 to 
+be treated by the discharge energy, and the portion of the
+tip edge of one seal fin 43 to be treated can locally be
+coated with a local coat 45a of the hard material.</p><p num="0132">Furthermore, when the table 53 is moved in the Y-axis
+directions by driving the Y-axis servo motor, the
+position of another seal fin 43 is determined such that the
+portion of the tip fin of the seal fin 43 to be treated faces
+the electrode 47 for coating. Then, as described above, the
+electrode material of the electrode for coating 47 is locally
+diffused in and/or welded to the portion of the tip edge of
+this seal fin 43 to be treated by the discharge energy, and
+the portion of the tip edge of the seal fin 43 to be treated
+is locally coated with the local coat 45a of the hard
+material.</p><p num="0133">After locally coating the portion of the tip edge of
+a plurality of the seal fins 43 to be treated with the local
+coat 45a of the hard material, the similar operation is
+repeated. Thereby, also the other portions of the tip edges
+of a plurality of the seal fins 43 to be treated are also
+locally coated with the local coats 45a of the hard material.</p><p num="0134">Next, the function of the embodiment of the present
+invention will be described.</p><p num="0135">The rotating labyrinth seal component 39 includes
+the coat 45 of the hard material. Therefore, to integrally
+rotate the rotating labyrinth seal component 39 and the
+engine rotating component 35, even when the engine stationary
+component is deformed and the rotating labyrinth seal 
+component 39 contacts with the stationary-side honeycomb seal
+component 37, the stationary-side honeycomb seal component 37
+is only shaved by the coat 45 of the hard material in the
+rotating labyrinth seal component 39. The rotating labyrinth
+seal component 39 is substantially hardly shaved.</p><p num="0136">Accordingly, the clearance between the stationary-side
+honeycomb seal component 37 and the rotating labyrinth
+seal component 39 is inhibited from increasing during the
+rotation of the engine rotating component 35, and the seal
+effect of the labyrinth seal structure 31 can be kept in an
+appropriate state. The rotating labyrinth seal component 39
+is set beforehand so as to slightly contact with the
+stationary-side honeycomb seal component 37 at the time of
+the initial rotation of the engine rotating component 35.
+Accordingly, the clearance between the stationary-side
+honeycomb seal component 37 and the rotating labyrinth seal
+component 39 can be set to be as small as possible during and
+after the initial rotation, and the seal effect of the
+labyrinth seal structure 31 can further be enhanced.</p><p num="0137">Moreover, coating of the coats 45 of the hard
+material is performed on the portions of the tip edges of the
+seal fins 43 by diffusing and/or welding of the electrode
+material of the electrode 47 for coating by the discharge
+energy generated between the electrode for coating 47 and the
+portion of the tip edge of the seal fin 43 without performing
+the plating or thermal spraying. Therefore, in the
+production of the rotating labyrinth seal component 39, the 
+coating post-treatments such as the blast treatment and the
+process of removing the masking tape are unnecessary.</p><p num="0138">Furthermore, the boundary portion between the coat
+45 of the hard material formed by the discharge energy and
+the mother body of the seal fin 43 has alloy composition
+changing properties, and the coat of the hard material can
+firmly be connected to the tip edge of the seal fin 43.</p><p num="0139">Moreover, the coat 45 of the hard material includes
+a plurality of local coats 45a of the hard material. In
+other words, the electrode material 47 of the electrode for
+coating is locally diffused in and/or welded to a plurality
+of portions to be treated of the peripheral direction in the
+tip edge of the seal fin 43, not in the whole periphery of
+the tip edge of the seal fin 43. Therefore, the electrode 47
+for coating can be formed to have a small and simple shape in
+accordance with the size and/or the shape of the portion of
+the tip edge of the seal fin 43 to be treated. Accordingly,
+the amount of the electrode material used to form the
+electrode 47 for coating can be reduced.</p><p num="0140">It is to be noted that as described above, the coat
+45 of the hard material (local coat 45a of the hard material)
+can firmly be connected to the tip edge of the seal fin 43.
+Therefore, even when the entire tip edge periphery of the
+seal fin 43 is not coated with the coat 45 of the hard
+material, the sufficient abrasive properties of the entire
+rotating labyrinth seal component 39 can be achieved by a
+plurality of local coats 45a of the hard material. </p><p num="0141">As described above, according to the embodiment of
+the present invention, in the production of the rotating
+labyrinth seal component 39, the coating pretreatments such
+as the blast process and the process of attaching the masking
+tape, and the coating post-treatments such as the process of
+removing the masking tape are not required. Therefore, the
+operation time required for the production of the rotating
+labyrinth seal component 39 is reduced, and it is easy to
+enhance the productivity of the rotating labyrinth seal
+components 39.</p><p num="0142">Moreover, since the coat 45 of the hard material can
+firmly be connected to the tip edge of the seal fin 43, the
+coat 45 of the hard material does not easily peel off from
+the tip edge of the seal fin 43, and the quality level of the
+rotating labyrinth seal component 39 is stabilized.</p><p num="0143">Furthermore, the entire rotating labyrinth seal
+component 39 has sufficient abrasive properties, and the
+electrode 47 for coating can be formed to have the small and
+simple shape in accordance with the size/shape of the portion
+to be treated of the tip edge in the seal fin 43. Moreover,
+the amount of the electrode material used to form the
+electrode for coating 47 can be reduced. Therefore, the
+production cost of the rotating labyrinth seal component 39
+can be reduced.</p><p num="0144">It is to be noted that the present invention is not
+limited to the description of the embodiment of the present
+invention. For example, instead of the discharge in the 
+dielectric liquid L, the discharge in the electrically
+insulating gas can be performed. Thus, various modifications
+can be carried out.</p><p num="0145">As described above, according to the present
+invention, in the production of the rotating labyrinth seal
+component, the coating pretreatments such as the blast
+process and the process of attaching the masking tape, and
+the coating post-treatments such as the process of removing
+the masking tape are not required. Therefore, the operation
+time required for the production of the rotating labyrinth
+seal component is reduced, and it is easy to enhance the
+productivity of the rotating labyrinth seal components.</p><p num="0146">Moreover, since the coat of the hard material can
+firmly be connected to the tip edge of the seal fin, the coat
+of the hard material does not easily peel off from the tip
+edge of the seal fin, and the quality level of the labyrinth
+seal is stabilized.</p><p num="0147">Furthermore, in addition to the above-described
+effect, the entire rotating labyrinth seal component has
+sufficient abrasive properties, and the electrode for coating
+can be formed to have the small and simple shape in
+accordance with the size/shape of the portion to be treated
+of the tip edge in the seal fin. Moreover, the amount of the
+electrode material used to form the electrode for coating can
+be reduced. Therefore, the production cost of the rotating
+labyrinth seal component can be reduced.</p><p num="0148">It is to be noted that some preferable embodiments 
+of the present invention have been described, but it would be
+understood that the scope of the present invention is not
+limited to these embodiments. Conversely, the scope of the
+present invention includes all improvements, modifications,
+and equivalents included in the appended claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A method for coating a rotating member,
+comprising the steps of:
+<claim-text><claim-text>generating a pulsed discharge between a rotating
+member formed into a predetermined shape and a discharge
+electrode of a green compact in dielectric liquid or gas to
+transfer a hard material of the discharge electrode or a hard
+material changed from a material of the discharge electrode
+onto the rotating member by each discharge pulse so that a
+hard concavity and convexity is formed on the rotating member,
+wherein the green compact includes the hard material or the
+material changing into the hard material by the discharge;
+and</claim-text><claim-text>repeatedly generating the discharge pulse to form on
+the rotating member a hard coating film having the concavity
+and convexity.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The method for coating the rotating member
+according to claim 1, wherein the hard coating film is an
+abrasive coating film that is formed on a part of the
+rotating member and rubs against and shaves an opponent
+component.</claim-text></claim><claim num="3"><claim-text>The method for coating the rotating member
+according to claim 1 or 2, comprising the steps of:
+<claim-text><claim-text>generating discharge between the rotating member and
+the discharge electrode on a first discharge condition on
+which the discharge electrode is consumed so that a shape of
+the discharge electrode is made to conform to a shape of a
+coating film forming portion on the rotating member; and</claim-text><claim-text>thereafter generating discharge between the
+discharge electrode and the rotating member on a second
+discharge condition to form the coating film on the rotating
+member.</claim-text></claim-text></claim-text></claim><claim num="4"><claim-text>The method for coating the rotating member
+according to claim 3, wherein on the first discharge
+condition, the discharge electrode has a minus polarity, a
+pulse width is 1 µs or less, and a current value is 10 A or
+less, and
+   on the second discharge condition, the discharge
+electrode has a minus polarity, the pulse width is 2 to 10 µs,
+and a current value is 5 to 20 A.</claim-text></claim><claim num="5"><claim-text>The method for coating the rotating member
+according to any one of claims 1 to 4, wherein for the
+coating film, a coverage which is a ratio of a coated area in
+a coating film forming portion is 95% or less.</claim-text></claim><claim num="6"><claim-text>The method for coating the rotating member
+according to any one of claims 1 to 4, wherein the coating
+film is formed by using the discharge electrode that contains
+5% or more by volume of a metal which does not easily react
+into carbide.</claim-text></claim><claim num="7"><claim-text>The method for coating the rotating member
+according to any one of claims 1 to 4, wherein at the time of
+forming the coating film, a porous coating film is formed as
+a base, and then, the coating film including the hard
+material is formed on the porous coating film.</claim-text></claim><claim num="8"><claim-text>The method for coating the rotating member
+according to any one of claims 1 to 7, wherein the coating
+film is formed by using the discharge electrode of the green
+compact including one of or a mixture of cBN, TiC, TiN, TiAlN,
+TiB2, WC, Cr3C2, SiC, ZrC, VC, B4C, Si3N4, ZrO2-Y, and Al2O3.</claim-text></claim><claim num="9"><claim-text>The method for coating the rotating member
+according to any one of claims 1 to 8, further comprising the
+step of peening the coating film.</claim-text></claim><claim num="10"><claim-text>A rotating member having an abrasive coating
+film on a part thereof that is formed by a pulsed discharge
+between the rotating member and a discharge electrode of a
+green compact or solid silicon in dielectric liquid or gas,
+   wherein the green compact includes a hard material
+or a material that changes into a hard material by the
+discharge, and
+   the abrasive coating film includes the hard material
+of the green compact or the hard material that is changed
+from the material of the green compact or solid silicon by
+the discharge.</claim-text></claim><claim num="11"><claim-text>The rotating member according to claim 10,
+wherein a coverage of coating is 95% or less in a coating
+film forming portion.</claim-text></claim><claim num="12"><claim-text>The rotating member according to claim 10,
+wherein the discharge electrode of the green compact includes
+the hard material or the material that changes into the hard
+material by the discharge and includes 5% or more by volume
+of a metal which does not easily react into carbide.</claim-text></claim><claim num="13"><claim-text>The rotating member according to claim 10,
+wherein the coating film includes:
+<claim-text><claim-text>a first porous layer that is formed on the part of
+the rotating member by a pulsed discharge between the
+rotating member and a discharge electrode of a green compact
+or solid silicon in dielectric liquid or gas, wherein the
+first porous layer includes a hard material of the green
+compact or a hard material that is changed from a material of
+the green compact or solid silicon by the discharge; and</claim-text><claim-text>a second layer that is formed on the first porous
+layer by a pulsed discharge between the first porous layer
+and a discharge electrode of a green compact or solid silicon
+in dielectric liquid or gas, wherein the second layer
+includes a hard material of the green compact or a hard
+material that is changed from a material of the green compact
+or solid silicon by the discharge.</claim-text></claim-text></claim-text></claim><claim num="14"><claim-text>The rotating member according to any one of
+claims 10 to 13, wherein the coating film includes a peened
+layer that is formed by penning the formed coating film.</claim-text></claim><claim num="15"><claim-text>The rotating member according to any one of
+claims 10 to 14, wherein the discharge electrode includes the
+green compact, the thermally treated green compact or solid
+silicon,
+   the green compact is obtained by compression molding
+of a powdered metal, a powder of a compound of the metal, a
+powder of a ceramic or a mixture thereof, and
+   the ceramic is one of or a mixture of cBN, Cr3C2, TiC,
+TiN, TiAlN, TiB2, ZrO2-Y, ZrC, VC, B4C, WC, SiC, Si3N4, and
+Al2O3.</claim-text></claim><claim num="16"><claim-text>The rotating member according to any one of
+claims 10 to 15, wherein the coating film is formed on the
+part on the rotating member that faces or contacts with an
+opponent component.</claim-text></claim><claim num="17"><claim-text>The rotating member according to any one of
+claims 10 to 16, wherein the coating film is formed on a
+portion of the part on the rotating member that faces or
+contacts with an opponent component.</claim-text></claim><claim num="18"><claim-text>The rotating member according to any one of
+claims 10 to 17, comprising a rotating member body and a
+casing component that covers the rotating member body,
+   wherein the coating film having hard concavity and
+convexity is formed on a part of the rotating member body by
+repeatedly generating discharge pulse between the rotating
+member body and the discharge electrode to transfer the hard
+material of the discharge electrode or the hard material
+changed from the material of the discharge electrode onto the
+part of the rotating member body, and
+   the casing component is made of a material of which
+hardness is smaller than that of the hard material of the
+coating film.</claim-text></claim><claim num="19"><claim-text>The rotating member according to any one of
+claims 10 to 15, wherein the rotating member is a blade, the
+blade and a discharge electrode are submerged in dielectric
+liquid or gas to dispose the discharge electrode in the
+vicinity of a corner of a blade tip end in a rotation advance
+direction and/or the vicinity of a surface of the blade tip
+end in the rotation advance direction and/or the vicinity of
+the blade tip end surface, the discharge is generated between
+the blade and the discharge electrode so that the coating
+including the hard material is formed on the corner of the
+blade tip end in the rotation advance direction, or the
+adjacent surface to the blade tip in the rotation advance
+direction, or the end surface of the blade tip, or both of
+the adjacent surface to the blade tip in the rotation advance
+direction and the end surface of the blade tip.</claim-text></claim><claim num="20"><claim-text>The rotating member according to any one of
+claims 10 to 16, wherein the abrasive coating film including
+the hard material is formed on not all, but some of blades of
+a rotor or a blisk.</claim-text></claim><claim num="21"><claim-text>The rotating member according to any one of
+claims 10 to 15, wherein the rotating member is a rotating
+labyrinth seal component which is one of structure elements
+of a labyrinth seal structure to suppress a leak of a gas or
+liquid between a stationary component and a rotating
+component,
+   the rotating member comprises:
+<claim-text><claim-text>an annular seal component main body; and</claim-text><claim-text>an annular seal fin integrally formed on an outer
+peripheral surface of the seal component main body,</claim-text><claim-text>a tip edge of the seal fin is coated with the
+abrasive coating film including the hard material,</claim-text><claim-text>the discharge electrode having consumability is used,
+a pulsed discharge is generated between the discharge
+electrode and the tip edge of the seal fin in dielectric
+liquid or gas so that the abrasive coating film is formed to
+include the hard material of the discharge electrode or the
+hard material changed from the material of the discharge
+electrode by the discharge.</claim-text></claim-text></claim-text></claim><claim num="22"><claim-text>The rotating member according to claim 21,
+wherein the abrasive coating film including the hard material
+comprises a plurality of local coating films locally formed
+on a plurality of portions in a peripheral direction in the
+tip edge of the seal fin.</claim-text></claim><claim num="23"><claim-text>A labyrinth seal structure which suppresses a
+leakage of a gas or liquid between a stationary component and
+a rotating component, comprising:
+<claim-text><claim-text>a stationary-side seal component integrally disposed
+on the stationary component;</claim-text><claim-text>an annular seal component main body which is
+disposed inside the stationary-side seal component and which
+is capable of rotating integrally with the rotating component
+and which is integrally disposed on the rotating component;</claim-text><claim-text>an annular seal fin integrally formed on an outer
+peripheral surface of the seal component main body; and</claim-text><claim-text>a hard coat formed on the tip edge of the seal fin,</claim-text><claim-text>wherein the hard coat is a coating film including a
+hard material constituted of a constituting material or a
+reactant of the constituting material of an electrode for
+coating formed on the tip edge of the seal fin by a discharge
+energy of a pulsed discharge between the electrode for
+coating and the tip edge of the seal fin, and the electrode
+for coating has consumability.</claim-text></claim-text></claim-text></claim><claim num="24"><claim-text>The labyrinth seal structure according to claim
+23, wherein the coat including the hard material comprises a
+plurality of local coating films locally formed on a
+plurality of portions in a peripheral direction in the tip
+edge of the seal fin.</claim-text></claim><claim num="25"><claim-text>A method for manufacturing a rotating member of
+a blade or a labyrinth member, comprising:
+<claim-text><claim-text>a first step of forming a forging material or a
+casting material into a predetermined shape by mechanical
+processing; and</claim-text><claim-text>a second step of generating a pulsed discharge
+between a rotating member formed into a predetermined shape
+and a discharge electrode of a green compact or solid silicon
+in dielectric liquid or gas to transfer a hard material of
+the discharge electrode or the hard material changed from a
+material of the discharge electrode onto the rotating member
+by each discharge pulse so that a hard concavity and
+convexity is formed on the rotating member, wherein the green
+compact includes the hard material or the material changing
+into the hard material by the discharge, and repeatedly
+generating the discharge pulse to form on the rotating member
+a hard coating film having the concavity and convexity.</claim-text></claim-text></claim-text></claim><claim num="26"><claim-text>The method for manufacturing the rotating
+member according to claim 25, wherein in the second step, an
+abrasive coating film that rubs against and shaves an
+opponent component is formed as the hard coating film on a
+part of the rotating member.</claim-text></claim><claim num="27"><claim-text>The method for manufacturing the rotating
+member according to claim 25 or 26, wherein the second step
+comprises the steps of:
+<claim-text><claim-text>generating discharge between the rotating member and
+the discharge electrode on a first discharge condition on
+which the discharge electrode is consumed so that a shape of
+the discharge electrode is made to conform to a shape of a
+coating film forming portion on the rotating member; and</claim-text><claim-text>thereafter generating discharge between the
+discharge electrode and the rotating member on a second
+discharge condition to form the coating film on the rotating
+member.</claim-text></claim-text></claim-text></claim><claim num="28"><claim-text>The method for manufacturing the rotating
+member according to claim 27, wherein on the first discharge
+condition, the discharge electrode has a minus polarity, a
+pulse width is 1 µs or less, and a current value is 10 A or
+less, and
+   on the second discharge condition, the discharge
+electrode has a minus polarity, the pulse width is 2 to 10 µs,
+and a current value is 5 to 20 A.</claim-text></claim><claim num="29"><claim-text>The method for manufacturing the rotating
+member according to any one of claims 25 to 28, wherein
+during the forming of the coating film in the second step, a
+discharge condition is controlled to set a coverage to be 95%
+or less in the coating film forming portion, the coverage
+being a ratio of an area at which the coating film including
+the hard material is formed.</claim-text></claim><claim num="30"><claim-text>The method for manufacturing the rotating
+member according to claim 29, wherein the ratio of the
+coverage is controlled by reducing a discharge treatment time
+to 76% or less of a discharge treatment time for a coverage
+of 100%.</claim-text></claim><claim num="31"><claim-text>The method for manufacturing the rotating
+member according to any one of claims 25 to 28, wherein in
+the second step, the green compact electrode containing 5% or
+more by volume of a metal which does not easily change into
+carbide is used to perform the discharge.</claim-text></claim><claim num="32"><claim-text>The method for manufacturing the rotating
+member according to any one of claims 25 to 28, wherein the
+second step comprises the steps of: forming a porous coating
+film on a coating film forming portion of the rotating
+member; and thereafter forming the coating film including the
+hard material on the porous coating film.</claim-text></claim><claim num="33"><claim-text>The method for manufacturing the rotating
+member according to any one of claims 25 to 29, wherein the
+discharge electrode of the green compact used in the second
+step is a green compact discharge electrode formed by
+compression molding of one of or a mixture of cBN, TiC, TiN,
+TiAlN, TiB2, WC, Cr3C2, SiC, ZrC, VC, B4C, Si3N4, ZrO2-Y, and
+Al2O3.</claim-text></claim><claim num="34"><claim-text>The method for manufacturing the rotating
+member according to any one of claims 25 to 33, further
+comprising: a third step of subjecting the coating film
+formed in the second step to a peening treatment.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

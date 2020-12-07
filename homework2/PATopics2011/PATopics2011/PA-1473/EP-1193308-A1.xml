@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1193308-A1" country="EP" doc-number="1193308" kind="A1" lang="EN" family-id="24710792" status="new" date-produced="20090516" date="20020403"><bibliographic-data><publication-reference ucid="EP-1193308-A1" status="new" fvid="23395095"><document-id status="new" format="original"><country>EP</country><doc-number>1193308</doc-number><kind>A1</kind><date>20020403</date></document-id></publication-reference><application-reference ucid="EP-01308096-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>01308096</doc-number><kind>A</kind><date>20010924</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-67550400-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>67550400</doc-number><kind>A</kind><date>20000929</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C10L   1/10        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L   1/14        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L   1/16        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L   1/18        20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C10L   1/188       20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C10L   1/192       20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C10L   1/195       20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C10L   1/22        20060101AFI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C10L   1/222       20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">C10L  10/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L  10/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10L  10/04        20060101ALI20060310RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C10L   1/14B</classification-symbol><classification-symbol scheme="EC">C10L  10/00</classification-symbol><classification-symbol scheme="ICO">M10L1:14B</classification-symbol><classification-symbol scheme="ICO">M10L1:16A</classification-symbol><classification-symbol scheme="ICO">M10L1:16B</classification-symbol><classification-symbol scheme="ICO">M10L1:16P1B</classification-symbol><classification-symbol scheme="ICO">M10L1:18D</classification-symbol><classification-symbol scheme="ICO">M10L1:18D1</classification-symbol><classification-symbol scheme="ICO">M10L1:18D1B</classification-symbol><classification-symbol scheme="ICO">M10L1:18P10F</classification-symbol><classification-symbol scheme="ICO">M10L1:22P10</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Ein Mannichkondensationsprodukt, ein Poly(oxyalkylen)monool, und eine Carbonsäure enthaltende Brennstoffzusatzszusammensetzungen</invention-title><invention-title load-source="ep" status="new" lang="EN">Fuel additive compositions containing a mannich condensation product, a poly(oxyalkylene)monool, and a carboxylic acid</invention-title><invention-title load-source="ep" status="new" lang="FR">Compositions d'additifs pour combustible contenant un produit de condensation Mannich, un poly(oxyalkylène)monool, et un acide carboxylique</invention-title><citations><patent-citations><patcit ucid="EP-0647700-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0647700</doc-number><kind>A1</kind></document-id><sources><source category="XD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0831141-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0831141</doc-number><kind>A1</kind></document-id><sources><source category="YD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-1008642-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>1008642</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-3798247-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>3798247</doc-number><kind>A</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4071327-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4071327</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4398921-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4398921</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-4877416-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>4877416</doc-number><kind>A</kind></document-id><sources><source category="AD" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>CHEVRON ORONITE CO</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>CHEVRON ORONITE TECHNOLOGY B V</name><address><country>NL</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>CHEVRON ORONITE COMPANY LLC</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>CHEVRON ORONITE TECHNOLOGY B.V.</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Chevron Oronite Company LLC</last-name><address><street>Third Floor, 2613 Camino Ramon</street><city>San Ramon, CA 94583-4289</city><country>US</country></address></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Chevron Oronite Technology B.V.</last-name><address><street>Petroleumweg 32</street><city>3196 KD Vondelingenplaat, Rotterdam</city><country>NL</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>AHMADI MAJID R</name><address><country>US</country></address></addressbook></inventor><inventor status="new"  format="epo"><addressbook><name>GRAY JAMES A</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SENGERS HENK P M</name><address><country>NL</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>AHMADI, MAJID R.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GRAY, JAMES A.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SENGERS, HENK P.M.</name></addressbook></inventor><inventor status="new"  format="original"><addressbook><last-name>AHMADI, MAJID R.</last-name><address><street>321 Del Monte Way</street><city>Pinole, California 94564</city><country>US</country></address></addressbook></inventor><inventor status="new"  format="original"><addressbook><last-name>GRAY, JAMES A.</last-name><address><street>730 Arlington Circle</street><city>Novato, California 94947</city><country>US</country></address></addressbook></inventor><inventor status="new"  format="original"><addressbook><last-name>SENGERS, HENK P.M.</last-name><address><street>Willem de Zwijgerlaan 40</street><city>3116 HZ Schiedam</city><country>NL</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Nash, David Allan</last-name><address><street>Haseltine Lake &amp;amp; Co., Imperial House, 15-19 Kingsway</street><city>London WC2B 6UD</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country><country>NL</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A fuel additive composition comprising:
+<sl><li>a) a Mannich condensation product of (1) a high molecular weight alkylsubstituted
+hydroxyaromatic compound wherein the alkyl group has
+a number average molecular weight of from about 300 to about
+5,000 (2) an amine which contains an amino group having at least
+one active hydrogen atom, and (3) an aldehyde, wherein the
+respective molar ratio of reactants (1), (2), and (3) is 1:0.1-10:0.1-10;</li><li>b) a hydrocarbyl-terminated poly(oxyalkylene) monool having an
+average molecular weight of about 500 to about 5,000, wherein the
+oxyalkylene group is a C<sub>2</sub> to C<sub>5</sub> oxyalkylene group and the
+hydrocarbyl group is a C<sub>1</sub> to C<sub>30</sub> hydrocarbyl group; and</li><li>c) a carboxylic acid as represented by the formula:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sub>1</sub>(COOH)<sub>x</sub></st32:che>
+or anhydride thereof, wherein R<sub>1</sub> represents a hydrocarbyl group
+having about 2 to about 50 carbon atoms, and x represents an
+integer of 1 to about 4.</li></sl></p><p>The unique fuel additive composition provides excellent control of engine deposits,
+particularly engine intake system deposits, such as intake valve deposits. The
+improved performance may be attributable to the improved compatibility of the fuel
+additive composition of the present invention. The improved compatibility
+manifests itself in less insoluble material, haze, and floes. Improved anti-corrosion
+properties are also provided by the fuel additive composition of the present
+invention.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><b>BACKGROUND OF THE INVENTION</b></heading><heading><u style="single">Field of the Invention</u></heading><p num="0001">The present invention relates to fuel additive compositions containing a Mannich
+condensation product, a hydrocarbyl-terminated poly(oxyalkylene) monool, and a
+carboxylic acid. In one aspect the present invention relates to the use of these
+additive compositions in fuel compositions to prevent and control engine deposits,
+particularly engine intake system deposits, such as intake valve deposits. In a
+further aspect the present invention relates to a method of improving the
+compatibility of a fuel additive composition.</p><heading><u style="single">Description of the Related Art</u></heading><p num="0002">Numerous deposit-forming substances are inherent in hydrocarbon fuels. These
+substances, when used in internal combustion engines, tend to form deposits on
+and around constricted areas of the engine contacted by the fuel. Typical areas
+commonly and sometimes seriously burdened by the formation of deposits include
+carburetor ports, the throttle body and venturies, engine intake valves, etc.</p><p num="0003">Deposits adversely affect the operation of the vehicle. For example, deposits on
+the carburetor throttle body and venturies increase the fuel to air ratio of the gas
+mixture to the combustion chamber thereby increasing the amount of unburned
+hydrocarbon and carbon monoxide discharged from the chamber. The high fuel-air
+ratio also reduces the gas mileage obtainable from the vehicle. </p><p num="0004">Deposits on the engine intake valves when they get sufficiently heavy, on the other
+hand, restrict the gas mixture flow into the combustion chamber. This restriction,
+starves the engine of air and fuel and results in a loss of power. Deposits on the
+valves also increase the probability of valve failure due to burning and improper
+valve seating. In addition, these deposits may break off and enter the combustion
+chamber possibly resulting in mechanical damage to the piston, piston rings,
+engine head, etc.</p><p num="0005">The formation of these deposits can be inhibited as well as removed by
+incorporating an active detergent into the fuel. These detergents function to
+cleanse these deposit-prone areas of the harmful deposits, thereby enhancing
+engine performance and longevity. There are numerous detergent-type gasoline
+additives currently available which, to varying degrees, perform these functions.</p><p num="0006">Mannich condensation products are known in the art as fuel additives for the
+prevention and control of engine deposits. For example, U.S. Patent No. 4,
+231,759, issued November 4, 1980 to Udelhofen et al., discloses reaction products
+obtained by the Mannich condensation of a high molecular weight alkyl-substituted
+hydroxyaromatic compound, an amine containing an amino group having at least
+one active hydrogen atom, and an aldehyde, such as formaldehyde. This patent
+further teaches that such Mannich condensation products are useful detergent
+additives in fuels for the control of deposits on carburetor surfaces and intake
+valves.</p><p num="0007">U.S. Patent No. 5,876,468, issued March 2, 1999 to Moreton, discloses a
+compound comprising a Mannich reaction product of a polyisobutylene-substituted
+phenol wherein at least 70% of the terminal olefinic double bonds in the
+polyisobutylene are of the vinylidene type, an aldehyde, and ethylenediamine
+(EDA). This compound is shown to be a more effective detergent in hydrocarbon
+fuels than Mannich compounds made from dimethylaminopropylamine (DMAPA),
+diethylenetriamine (DETA), and triethylenetetramine (TETA). However, the other 
+compounds are shown to have good detergency properties relative to base fuel.
+Moreton also discloses an additive package consisting of the EDA Mannich,
+alkoxylated alkylphenol, and an aromatic solvent.</p><p num="0008">Generally, Mannich condensation products are utilized in combination with other
+fuel additive components. For example, polyolefins and polyether compounds are
+also well known in the art as fuel additives. It is not uncommon for the literature to
+refer to the enhanced benefits of the combination of two or more such fuel
+additives for the prevention and control of engine deposits.</p><p num="0009">U.S. Patent No. 5,514,190, issued May 7, 1996 to Cunningham et al., discloses a
+fuel additive composition for the control of intake valve deposits which comprises
+(a) the Mannich reaction product of a high molecular weight alkyl-substituted
+phenol, an amine, and an aldehyde, (b) a poly(oxyalkylene) carbamate, and (c) a
+poly(oxyalkylene) alcohol, glycol or polyol, or a mono or diether thereof.</p><p num="0010">U.S. Patent No. 5,634,951, issued June 3, 1997 to Colucci et al., discloses
+gasoline compositions containing Mannich condensation products as detergents.
+This patent teaches that carrier fluids, including liquid polyalkylenes, may be
+added to the compositions to enhance the effectiveness of the Mannich
+condensation products in minimizing or reducing intake valve deposits and/or
+intake valve sticking.</p><p num="0011">U.S. Patent No. 5,697,988, issued December 16, 1997 to Malfer et al., discloses a
+fuel additive composition which provides reduced fuel injector, intake valve, and
+combustion chamber deposits which comprises (a) the Mannich reaction product
+of a high molecular weight alkyl-substituted phenol, an amine, and an aldehyde,
+(b) a polyoxyalkylene compound, preferably a polyoxyalkylene glycol or monoether
+derivative thereof, and (c) optionally a poly-alpha-olefin. </p><p num="0012">U.S. Patent No. 6,048,373, issued April 11, 2000 to Malfer et al., discloses a fuel
+composition comprising (a) a spark-ignition internal combustion fuel, (b) a Mannich
+detergent; and (c) a polybutene having a molecular weight distribution (Mw/Mn) of
+1.4 or below.</p><p num="0013">U.S. Patent No. 4,357,148, issued November 2, 1982 to Graiff, discloses the
+control or reversal of octane requirement increase together with improved fuel
+economy in a spark ignition internal combustion engine is achieved by introducing
+with the combustion charge a fuel composition containing an octane requirement
+increase-inhibiting amount of certain oil-soluble aliphatic polyamines and certain
+low molecular weight polymers and/or copolymers of mono-olefins having up to 6
+carbon atoms, in a certain ratio.</p><p num="0014">U.S. Patent No. 4,877,416, issued October 31, 1989 to Campbell, discloses a fuel
+composition which contains (a) from about 0.001 to 1.0 percent by weight of a
+hydrocarbyl-substituted amine or polyamine having an average molecular weight
+of about 750 to 10,000 and at least one basic nitrogen atom, and (b) a
+hydrocarbyl-terminated poly(oxyalkylene) monool having an average molecular
+weight of about 500 to 5,000, wherein the weight percent of the hydrocarbyl-terminated
+poly(oxyalkylene) monool in the fuel composition ranges from about
+0.01 to 100 times the amount of hydrocarbyl-substituted amine or polyamine.</p><p num="0015">U.S. Patent No. 5,006,130, issued April 9, 1991 to Aiello et al., discloses an
+unleaded gasoline composition containing a mixture of (a) about 2.5 parts per
+million by weight or higher of basic nitrogen in the form of an oil-soluble aliphatic
+alkylene polyamine containing at least one olefinic polymer chain, said polyamine
+having a molecular weight of about 600 to 10,000, and (b) from about 75 to about
+125 parts per million by weight based on the fuel composition of certain oil-soluble
+olefinic polymers, a poly(oxyalkylene) alcohol, glycol or polyol or a mono or diether
+thereof, non-aromatic naphthenic or paraffinic oils or polyalphaolefins. This 
+patent further teaches that, as a matter of practicality, the basic nitrogen content of
+the aliphatic polyamine component is usually about 4.0 or below and that this
+generally corresponds to a concentration of about 100 to 160 ppm when the
+aliphatic polyamine is a 1,050 molecular weight aliphatic diamine, such as N-polyisobutenyl
+N'-N'-dimethyl-1, 3-diaminopropane.</p><p num="0016">U.S. Patent No. 5,405,419, issued April 11, 1995 to Ansari et al., discloses a fuel
+additive composition comprising (a) a fuel-soluble aliphatic hydrocarbyl-substituted
+amine having at least one basic nitrogen atom wherein the hydrocarbyl group has
+a number average molecular weight of about 700 to 3,000; (b) a polyolefin polymer
+of a C<sub>2</sub> to C<sub>6</sub> monolefin, wherein the polymer has a number average molecular
+weight of about 350 to 3,000; and (c) a hydrocarbyl-terminated poly(oxyalkylene)
+monool having an average molecular weight of about 500 to 5,000. This patent
+further teaches that fuel compositions containing these additives will generally
+contain about 50 to 500 ppm by weight of the aliphatic amine, about 50 to 1,000
+ppm by weight of the polyolefin and about 50 to 1,000 ppm by weight of the
+poly(oxyalkylene) monool. This patent also discloses that fuel compositions
+containing 125 ppm each of aliphatic amine, polyolefin and poly(oxyalkylene)
+monool provide better deposit control performance than compositions containing
+125 ppm of aliphatic amine plus 125 ppm of poly(oxyalkylene) monool.</p><p num="0017">U.S. Patent No. 3,798,247, March 19, 1974 issued to Piasek and Karll, discloses
+that the reaction under Mannich condensation conditions, like other chemical
+reactions, does not go to theoretical completion and some portion of the reactants,
+generally the amine, remains unreacted or only partially reacted as a coproduct.
+Unpurified products of Mannich processes also commonly contain small amounts
+of insoluble particle byproducts of the Mannich condensation reaction that appear
+to be the high molecular weight condensation product of formaldehyde and
+polyamines. The amine and amine byproducts lead to haze formation during
+storage and, in diesel oil formulations, to rapid buildup of diesel engine piston ring 
+groove carbonaceous deposits and skirt varnish. The insoluble or borderline
+soluble byproducts are substantially incapable of removal by filtration and severely
+restrict product filtration rate. These drawbacks were overcome by adding long-chain
+carboxylic acids during the reaction to reduce the amount of solids formation
+from the Mannich reaction. This was thought to render the particulate polyamineformaldehyde
+condensation product soluble through formation of amide-type links.
+In particular, oleic acid worked well at 0.1 to 0.3 mole/mole of alkylphenol. The
+quantity of unconsumed or partially reacted amine was not mentioned in the
+patent.</p><p num="0018">U.S. Patent No. 4,334,085, issued June 6, 1982 to Basalay and Udelhofen,
+discloses that Mannich condensation products can undergo transamination, and
+use this to solve the problem of byproduct amine-formaldehyde resin formation
+encountered in U.S. Patent No. 3,748,247 eliminating the need for using a fatty
+acid. U.S. Patent No. 4,334,085 defined transamination as the reaction of a
+Mannich adduct based on a single-nitrogen amine with a polyamine to exchange
+the polyamine for the single-nitrogen amine. The examples in this patent infer that
+the unconsumed amine and partially reacted amine discussed in U.S. Patent
+3,798,247 are not merely unconsumed, but must be in chemical equilibrium with
+the product of the Mannich condensation reaction. In Example 1 of U.S. Patent
+No. 4,334,085, a Mannich condensation product is made from 0.5 moles of
+polyisobutylphenol, 1.0 mole of diethylamine and 1.1 moles of formaldehyde. To
+0.05 moles of this product was added 0.05 moles of tetraethylenepentamine
+(TEPA) and then the mixture was heated to 155°C while blowing with nitrogen.
+The TEPA replaced 80 to 95% of the diethylamine in the Mannich as the nitrogen
+stripped off the diethylamine made available by the equilibrium with the Mannich.</p><p num="0019">U.S. Patent No. 5,360,460, issued November 1, 1994 to Mozdzen et al., discloses
+a fuel additive composition comprising (A) an alkylene oxide condensate or the
+reaction product thereof and an alcohol, (B) a monocarboxylic fatty acid, and (C) a 
+hydrocarbyl amine, or the reaction product thereof, and an alkylene oxide. The fuel
+additive composition deals with cleaning of injection ports, lubricating a fuel line
+system in a diesel vehicle, and with minimizing corrosion in the fuel line system.
+However, the use of a Mannich condensation product is neither disclosed nor
+suggested.</p><heading><b>SUMMARY OF THE INVENTION</b></heading><p num="0020">It has now been discovered that a certain combination of a Mannich condensation
+product, a hydrocarbyl-terminated poly(oxyalkylene) monool, and a carboxylic acid
+affords a unique fuel additive composition which provides excellent control of
+engine deposits, particularly engine intake system deposits, such as intake valve
+deposits.</p><p num="0021">Accordingly, the present invention provides a novel fuel additive composition
+comprising:
+<sl><li>a) a Mannich condensation product of (1) a high molecular weight alkyl-substituted
+hydroxyaromatic compound wherein the alkyl group has
+a number average molecular weight of from about 300 to about
+5,000 (2) an amine which contains an amino group having at least
+one active hydrogen atom, and (3) an aldehyde, wherein the
+respective molar ratio of reactants (1), (2), and (3) is 1:0.1-10:0.1-10;</li><li>b) a hydrocarbyl-terminated poly(oxyalkylene) monool having an
+average molecular weight of about 500 to about 5,000, wherein the
+oxyalkylene group is a C<sub>2</sub> to C<sub>5</sub> oxyalkylene group and the
+hydrocarbyl group is a C<sub>1</sub> to C<sub>30</sub> hydrocarbyl group; and</li><li>c) a carboxylic acid as represented by the formula:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sub>1</sub>(COOH)<sub>x</sub></st32:che> 
+or anhydride thereof, wherein R<sub>1</sub> represents a hydrocarbyl group
+having about 2 to about 50 carbon atoms, and x represents an
+integer of 1 to about 4.</li></sl></p><p num="0022">The present invention further provides a fuel composition comprising a major
+amount of hydrocarbons boiling in the gasoline or diesel range and an effective
+deposit-controlling amount of a fuel additive composition of the present invention.</p><p num="0023">The present invention still further provides a fuel concentrate comprising an inert
+stable oleophilic organic solvent boiling in the range of from about 150°F to about
+400°F and from about 10 to about 90 weight percent of a fuel additive composition
+of the present invention.</p><p num="0024">The present invention yet provides for a method of improving the compatibility of a
+fuel additive composition comprising blending together the components of the fuel
+additive composition of the present invention.</p><p num="0025">The present invention provides further still for a method of controlling engine
+deposits in an internal combustion engine by operating an internal combustion
+engine with a fuel composition containing the fuel additive composition of the
+present invention.</p><p num="0026">Among other factors, the present invention is based on the surprising discovery
+that the unique combination of a Mannich condensation product, a hydrocarbyl-terminated
+poly(oxyalkylene) monool, and a carboxylic acid provides excellent
+control of engine deposits, particularly engine intake system deposits, such as
+intake valve deposits. It is not unusual for small quantities of low molecular weight
+amine and amine-formaldehyde intermediate (both measured as water-soluble
+amine) in the Mannich to interact with organic acid mixtures that are typically used
+in fuel additive formulations to provide anti-corrosion properties. The interaction 
+can lead to formation of insoluble material, haze, and flocs. Therefore, it is quite
+surprising that the formulation compatibility is greatly improved by the presence of
+a selected carboxylic acid or anhydride that interacts with the residual amine. In
+addition, the selected carboxylic acid or anhydride provides anti-corrosion
+properties. Thus, the improved compatibility manifests itself in less insoluble
+material, haze, and flocs.</p><heading><b>DETAILED DESCRIPTION OF THE INVENTION</b></heading><p num="0027">The fuel additive composition of the present invention comprises a Mannich
+condensation product, a hydrocarbyl-terminated poly(oxyalkylene) monool, and a
+carboxylic acid.</p><heading><u style="single">Definitions</u></heading><p num="0028">Prior to discussing the present invention in detail, the following terms will have the
+following meanings unless expressly stated to the contrary.</p><p num="0029">The term "hydrocarbyl" refers to an organic radical primarily composed of carbon
+and hydrogen which may be aliphatic, alicyclic, aromatic or combinations thereof,
+e.g., aralkyl or alkaryl. Such hydrocarbyl groups may also contain aliphatic
+unsaturation, i.e., olefinic or acetylenic unsaturation, and may contain minor
+amounts of heteroatoms, such as oxygen or nitrogen, or halogens, such as
+chlorine. When used in conjunction with carboxylic fatty acids, hydrocarbyl will
+also include olefinic unsaturation.</p><p num="0030">The term "alkyl" refers to both straight- and branched-chain alkyl groups.</p><p num="0031">The term "alkylene" refers to straight- and branched-chain alkylene groups having
+at least 2 carbon atoms. Typical alkylene groups include, for example, ethylene
+(-CH<sub>2</sub>CH<sub>2</sub>-), propylene (-CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>-), isopropylene (-CH(CH<sub>3</sub>)CH<sub>2</sub>-), n-butylene 
+(-CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>-), sec-butylene (-CH(CH<sub>2</sub>CH<sub>3</sub>)CH<sub>2</sub>-), n-pentylene
+(-CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>-), and the like.</p><p num="0032">The term "polyoxyalkylene" refers to a polymer or oligomer having the general
+formula:
+<img id="img-00100001" orientation="unknown" wi="47" img-format="tif" img-content="cf" file="00100001.tif" inline="no" he="23"/>
+wherein R<sub>a</sub> and R<sub>b</sub> are each independently hydrogen or lower alkyl groups, and c
+is an integer from about 5 to about 100. When referring herein to the number of
+oxyalkylene units in a particular polyoxyalkylene compound, it is to be understood
+that this number refers to the average number of oxyalkylene units in such
+compounds unless expressly stated to the contrary.</p><p num="0033">The term "fuel" or "hydrocarbon fuel" refers to normally liquid hydrocarbons having
+boiling points in the range of gasoline and diesel fuels.</p><heading><u style="single">The Mannich Condensation Product</u></heading><p num="0034">Mannich reaction products employed in this invention are obtained by condensing
+an alkyl-substituted hydroxyaromatic compound whose alkyl-substituent has a
+number average molecular weight of from about 300 to about 5,000, preferably
+polyalkylphenol whose polyalkyl substituent is derived from 1-mono-olefin
+polymers having a number average molecular weight of from about 300 to about
+5,000, more preferably from about 400 to about 3,000; an amine containing at
+least one &gt;NH group, preferably an alkylene polyamine of the formula:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">H<sub>2</sub>N-(A-NH-)<sub>y</sub>H</st32:che> 
+wherein A is a divalent alkylene radical having 1 to about 10 carbon atoms and y is
+an integer from 1 to about 10; and an aldehyde, preferably formaldehyde, in the
+presence of a solvent.</p><p num="0035">High molecular weight Mannich reaction products useful as additives in the fuel
+additive compositions of this invention are preferably prepared according to
+conventional methods employed for the preparation of Mannich condensation
+products, using the above-named reactants in the respective molar ratios of high
+molecular weight alkyl-substituted hydroxyaromatic compound, amine, and
+aldehyde of approximately 1.0:0.1-10:1-10. A suitable condensation procedure
+involves adding at a temperature of from room temperature to about 95°C, the
+formaldehyde reagent (e.g., formalin) to a mixture of amine and alkyl-substituted
+hydroxyaromatic compounds alone or in an easily removed organic solvent, such
+as benzene, xylene, or toluene or in solvent-refined neutral oil, and then heating
+the reaction mixture at an elevated temperature (about 120°C to about 175°C)
+while the water of reaction is distilled overhead and separated. The reaction
+product so obtained is finished by filtration and dilution with solvent as desired.</p><p num="0036">Preferred Mannich reaction product additives employed in this invention are
+derived from high molecular weight Mannich condensation products, formed by
+reacting an alkylphenol, an ethylene polyamine, and a formaldehyde affording
+reactants in the respective molar ratio of 1.0:0.5-2.0:1.0-3.0, wherein the alkyl
+group of the alkylphenol has a number average weight of from about 300 to about
+5,000.</p><p num="0037">Representative of the high molecular weight alkyl-substituted hydroxyaromatic
+compounds are polypropylphenol, polybutylphenol, and other polyalkylphenols,
+with polyisobutylphenol being the most preferred. Polyalkylphenols may be
+obtained by the alkylation, in the presence of an alkylating catalyst such as BF<sub>3</sub>, of
+phenol with high molecular weight polypropylene, polybutylene, and other 
+polyalkylene compounds to give alkyl substituents on the benzene ring of phenol
+having a number average molecular weight of from about 300 to about 5,000.</p><p num="0038">The alkyl substituents on the hydroxyaromatic compounds may be derived from
+high molecular weight polypropylenes, polybutenes, and other polymers of
+mono-olefins, principally 1-mono-olefins. Also useful are copolymers of
+mono-olefins with monomers copolymerizable therewith, wherein the copolymer
+molecule contains at least about 90% by weight of mono-olefin units. Specific
+examples are copolymers of butenes (1-butene, 2-butene, and isobutylene) with
+monomers copolymerizable therewith wherein the copolymer molecule contains at
+least about 90% by weight of propylene and butene units, respectively. Said
+monomers copolymerizable with propylene or said butenes include monomers
+containing a small proportion of unreactive polar groups, such as chloro, bromo,
+keto, ether, or aldehyde, which do not appreciably lower the oil-solubility of the
+polymer. The comonomers polymerized with propylene or said butenes may be
+aliphatic and can also contain non-aliphatic groups, e.g., styrene, methylstyrene,
+p-dimethylstyrene, divinyl benzene, and the like. From the foregoing limitation
+placed on the monomer copolymerized with propylene or said butenes, it is clear
+that said polymers and copolymers of propylene and said butenes are
+substantially aliphatic hydrocarbon polymers. Thus, the resulting alkylated
+phenols contain substantially alkyl hydrocarbon substitutents having a number
+average molecular weight of from about 300 to about 5,000.</p><p num="0039">In addition to the foregoing high molecular weight hydroxyaromatic compounds,
+other phenolic compounds which may be used include, high molecular weight
+alkyl-substituted derivatives of resorcinol, hydroquinone, cresol, cathechol, xylenol,
+hydroxy-di-phenyl, benzylphenol, phenethylphenol, naphthol, tolylnaphthol, among
+others. Preferred for the preparation of such preferred Mannich condensation
+products are the polyalkylphenol reactants, e.g., polypropylphenol and
+polybutylphenol, particularly polyisobutylphenol, whose alkyl group has a number 
+average molecular weight of about 300 to about 5,000, preferably about 400 to
+about 3,000, more preferably about 500 to about 2,000, and most preferably about
+700 to about 1,500.</p><p num="0040">As noted above, the polyalkyl substituent on the polyalkyl hydroxyaromatic
+compounds employed in the invention may be generally derived from polyolefins
+which are polymers or copolymers of mono-olefins, particularly 1-mono-olefins,
+such as ethylene, propylene, butylene, and the like. Preferably, the mono-olefin
+employed will have about 2 to about 24 carbon atoms, and more preferably, about
+3 to about 12 carbon atoms. More preferred mono-olefins include propylene,
+butylene, particularly isobutylene, 1-octene and 1-decene. Polyolefins prepared
+from such mono-olefins include polypropylene, polybutene, especially
+polyisobutene, and the polyalphaolefins produced from 1-octene and 1-decene.</p><p num="0041">The preferred polyisobutenes used to prepare the presently employed polyalkyl
+hydroxyaromatic compounds are polyisobutenes which comprise at least about
+20% of the more reactive methylvinylidene isomer, preferably at least about 50%
+and more preferably at least about 70% methylvinylidene isomer. Suitable
+polyisobutenes include those prepared using BF<sub>3</sub> catalysts. The preparation of
+such polyisobutenes in which the methylvinylidene isomer comprises a high
+percentage of the total composition is described in U.S. Patent
+Nos. 4,152,499 and 4,605,808.</p><p num="0042">Examples of suitable polyisobutenes having a high alkylvinylidene content include
+Ultravis 10, a polyisobutene having a molecular weight of about 950 and a
+methylvinylidine content of about 76%, and Ultravis 30, a polyisobutene having a
+molecular weight of about 1,300 and a methylvinylidene content of about
+74%, both available from British Petroleum, and Glissopal 1000, 1300, and
+2200, available from BASF. </p><p num="0043">The preferred configuration of the alkyl-substituted hydroxyaromatic compound is
+that of a para-substituted mono-alkylphenol. However, any alkylphenol readily
+reactive in the Mannich condensation reaction may be employed. Accordingly,
+ortho mono-alkylphenols and dialkylphenols are suitable for use in this invention.</p><p num="0044">Representative amine reactants are alkylene polyamines, principally polyethylene
+polyamines. Other representative organic compounds containing at least one
+&gt;NH group suitable for use in the preparation of the Mannich reaction products are
+well known and include the mono- and di-amino alkanes and their substituted
+analogs, e.g., ethylamine, dimethylamine, dimethylaminopropyl amine, and
+diethanol amine; aromatic diamines, e.g., phenylene diamine, diamino
+naphthalenes; heterocyclic amines, e.g., morpholine, pyrrole, pyrrolidine,
+imidazole, imidazolinidine, and piperidine; melamine and their substituted analogs.</p><p num="0045">The alkylene polyamine reactants which are useful with this invention include
+polyamines which are linear, branched, or cyclic; or a mixture of linear, branched
+and/or cyclic polyamines wherein each alkylene group contains from 1 to about 10
+carbon atoms. A preferred polyamine is a polyamine containing from about
+2 to about 10 nitrogen atoms per molecule or a mixture of polyamines containing
+an average of from about 2 to about 10 nitrogen atoms per molecule such as
+ethylenediamine, diethylene triamine, triethylene tetramine, tetraethylene
+pentamine, pentaethylene hexamine, hexaethylene heptamine, heptaethylene
+octamine, octaethylene nonamine, monoethylene decamine, and mixtures of such
+amines. Corresponding propylene polyamines such as propylene diamine,
+dipropylene triamine, tripropylene tetramine, tetrapropylene pentamine, and
+pentapropylene hexamine are also suitable reactants. A particularly preferred
+polyamine is a polyamine or mixture of polyamines having from about 3 to about 7
+nitrogen atoms, with diethylene triamine or a combination or mixture of ethylene
+polyamines whose physical and chemical properties approximate that of
+diethylene triamine being the most preferred. In selecting an appropriate 
+polyamine, consideration should be given to the compatibility of the resulting
+detergent/dispersant with the gasoline fuel mixture with which it is mixed.</p><p num="0046">Ordinarily the most highly preferred polyamine, diethylene triamine, will comprise a
+commercially available mixture having the general overall physical and/or chemical
+composition approximating that of diethylene triamine but which can contain minor
+amounts of branched-chain and cyclic species as well as some linear polyethylene
+polyamines such as triethylene tetramine and tetraethylene pentamine. For best
+results, such mixtures should contain at least about 50% and preferably at least
+about 70% by weight of the linear polyethylene polyamines enriched in diethylene
+triamine.</p><p num="0047">The alkylene polyamines are usually obtained by the reaction of ammonia and
+dihalo alkanes, such as dichloro alkanes. Thus, the alkylene polyamines are
+obtained from the reaction of about 2 to about 11 moles of ammonia with 1 to
+about 10 moles of dichloro alkanes having about 2 to about 6 carbon atoms and
+the chlorines on different carbons.</p><p num="0048">Representative aldehydes for use in the preparation of the high molecular weight
+Mannich reaction products employed in this invention include the aliphatic
+aldehydes such as formaldehyde, acetaldehyde, propionaldehyde, butyraldehyde,
+valeraldehyde, caproaldehyde, heptaldehyde, and stearaldehyde. Aromatic
+aldehydes which may be used include benzaldehyde and salicylaldehyde.
+Illustrative heterocyclic aldehydes for use herein are furfural and thiophene
+aldehyde, etc. Also useful are formaldehyde-producing reagents such as
+paraformaldehyde, or aqueous formaldehyde solutions such as formalin. Most
+preferred is formaldehyde or formalin. </p><heading><u style="single">The Hydrocarbyl-Terminated Poly(oxyalkylene) Monool</u></heading><p num="0049">The hydrocarbyl-terminated poly(oxyalkylene) polymers employed in the present
+invention are monohydroxy compounds, i.e., alcohols, often termed monohydroxy
+polyethers, or polyalkylene glycol monohydrocarbylethers, or "capped"
+poly(oxyalkylene) glycols and are to be distinguished from the poly(oxyalkylene)
+glycols (diols), or polyols, which are not hydrocarbyl-terminated, i.e., not capped.
+The hydrocarbyl-terminated poly(oxyalkylene) alcohols are produced by the
+addition of lower alkylene oxides, such as ethylene oxide, propylene oxide, the
+butylene oxides, or the pentylene oxides to the hydroxy compound R<sub>2</sub>OH under
+polymerization conditions, wherein R<sub>2</sub> is the hydrocarbyl group which caps the
+poly(oxyalkylene) chain. Methods of production and properties of these polymers
+are disclosed in U.S. Pat. Nos. 2,841,479 and 2,782,240 and Kirk-Othmer's
+"Encyclopedia of Chemical Technology", 2<sup>nd</sup> Ed Volume 19, p. 507. In the
+polymerization reaction, a single type of alkylene oxide may be employed, e.g.,
+propylene oxide, in which case the product is a homopolymer, e.g., a
+poly(oxyalkylene) propanol. However, copolymers are equally satisfactory and
+random copolymers are readily prepared by contacting the hydroxyl-containing
+compound with a mixture of alkylene oxides, such as a mixture of propylene and
+butylene oxides. Block copolymers of oxyalkylene units also provide satisfactory
+poly(oxyalkylene) polymers for the practice of the present invention. Random
+polymers are more easily prepared when the reactivities of the oxides are
+relatively equal. In certain cases, when ethylene oxide is copolymerized with other
+oxides, the higher reaction rate of ethylene oxide makes the preparation of random
+copolymers difficult. In either case, block copolymers can be prepared. Block
+copolymers are prepared by contacting the hydroxyl-containing compound with
+first one alkylene oxide, then the others in any order, or repetitively, under
+polymerization conditions. A particular block copolymer is represented by a
+polymer prepared by polymerizing propylene oxide on a suitable monohydroxy 
+compound to form a poly(oxypropylene) alcohol and then polymerizing butylene
+oxide on the poly(oxyalkylene) alcohol.</p><p num="0050">In general, the poly(oxyalkylene) polymers are mixtures of compounds that differ in
+polymer chain length. However, their properties closely approximate those of the
+polymer represented by the average composition and molecular weight.</p><p num="0051">The polyethers employed in this invention can be represented by the formula:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sub>2</sub>O-(R<sub>3</sub>O)<sub>z</sub>-H</st32:che>
+wherein R<sub>2</sub> is a hydrocarbyl group of from 1 to about 30 carbon atoms; R<sub>3</sub> is a C<sub>2</sub>
+to C<sub>5</sub> alkylene group; and z is an integer such that the molecular weight of the
+polyether is from about 500 to about 5,000.</p><p num="0052">Preferably, R<sub>2</sub> is a C<sub>7</sub> to C<sub>30</sub> alkylphenyl group. Most preferably, R<sub>2</sub> is
+dodecylphenyl.</p><p num="0053">Preferably, R<sub>3</sub> is a C<sub>3</sub> or C<sub>4</sub> alkylene group. Most preferably, R<sub>3</sub> is a C<sub>3</sub> alkylene
+group.</p><p num="0054">Preferably, the polyether has a molecular weight of from about 750 to about 3,000;
+and more preferably from about 900 to about 1,500.</p><heading><u style="single">The Carboxylic Acid</u></heading><p num="0055">The fuel additive composition of the present invention may further contain a
+carboxylic acid compound. The carboxylic acid to be employed in the invention
+preferably is a compound which is represented by the formula:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sub>1</sub>(COOH)<sub>x</sub></st32:che> 
+or anhydride thereof, wherein R<sub>1</sub> represents a hydrocarbyl group having about 2 to
+about 50 carbon atoms, and x represents an integer of 1 to about 4.</p><p num="0056">The preferred hydrocarbyl groups are aliphatic groups, such as an alkyl group or
+an alkenyl group, which may have a straight chain or a branched chain. Examples
+of preferred carboxylic acids are aliphatic acids having about 8 to about 30 carbon
+atoms and include caprylic acid, pelargonic acid, capric acid, lauric acid, myristic
+acid, palmitic acid, margaric acid, stearic acid, isostearic acid, arachidic acid,
+behenic acid, lignoceric acid, cerotic acid, montanic acid, melissic acid, caproleic
+acid, palmitoleic acid, oleic acid, eraidic acid, linolic acid, linoleic acid, fatty acid or
+coconut oil, fatty acid of hardened fish oil, fatty acid of hardened rapeseed oil, fatty
+acid of hardened tallow oil, and fatty acid of hardened palm oil. The examples
+further include dodecenyl succinic acid and its anhydride. Preferably, the
+carboxylic acid is oleic acid.</p><heading><u style="single">Improved Compatibility</u></heading><p num="0057">One aspect of the present invention is a method of improving the compatibility of a
+fuel additive composition which comprises blending together:
+<sl><li>a) a Mannich condensation product of (1) a high molecular weight alkyl-substituted
+hydroxyaromatic compound wherein the alkyl group has
+a number average molecular weight of from 300 to about 5,000 (2)
+an amine which contains an amino group having at least one active
+hydrogen atom, and (3) an aldehyde, wherein the respective molar
+ratio of reactants (1), (2), and (3) is 1:0.1-10:0.1-10;</li><li>b) a hydrocarbyl-terminated poly(oxyalkylene) monool having an
+average molecular weight of about 500 to about 5,000, wherein the 
+oxyalkylene group is a C<sub>2</sub> to C<sub>5</sub> oxyalkylene group and the
+hydrocarbyl group is a C<sub>1</sub> to C<sub>30</sub> hydrocarbyl group; and</li><li>c) a carboxylic acid as represented by the formula:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">R<sub>1</sub>(COOH)<sub>x</sub></st32:che>
+or anhydride thereof, wherein R<sub>1</sub> represents a hydrocarbyl group
+having about 2 to about 50 carbon atoms, and x represents an
+integer of 1 to about 4; wherein the Mannich condensation product
+and the carboxylic acid are blended together at a temperature
+ranging from about room temperature (about 20°C) to about 100°C.</li></sl></p><p num="0058">In general, the amount of carboxylic acid is about 1 to about 10% of the weight of
+the Mannich condensation product, or there is typically about 0.2 to about 1.5
+equivalent of carboxylic acid per equivalent of water-soluble amine in the Mannich
+condensation product.</p><p num="0059">In fuel additive applications, the presence of small amounts of low molecular
+weight amine in dispersant components such as the Mannich condensation
+product can lead to formulation incompatibilities (for example, with certain
+corrosion inhibitors or demulsifiers) and air sensitivity (for example, reaction with
+carbon dioxide in the air). For example, corrosion inhibitors are typically complex
+mixtures of organic acids of wide molecular weight range. These can react with
+trace amounts of low molecular weight amines in the Mannich component at room
+temperature to form insoluble salts and at higher temperatures to form insoluble
+amides. Formulation incompatibility and air sensitivity are manifested by formation
+of haze, floc, solids, and/or gelatinous material in the formulation over time. The
+incompatibility may occur in the absence of air. Consequently, the manufacturing
+process for amine dispersant type fuel additives may include a step to remove low
+molecular weight amines to low levels, or the compatibility issue may be
+addressed during formulation. However, the unique chemistry of Mannich 
+condensation products must be considered with either approach. In particular, the
+chemical equilibrium can generate additional low molecular weight amines if the
+product is heated too much during the purification step or after a formulation has
+been prepared. Therefore, there is a need for either an economical process to
+reduce the unconsumed amine and the amine-formaldehyde intermediate to a low
+level after the Mannich reaction or a chemical scavenger that renders the water-soluble
+amine harmless to formulation compatibility. The carboxylic acid treatment
+of the Mannich condensation product of the present invention provides improved
+compatibility with other additives in the desired finished fuel additive composition.
+Compatibility in this instance generally means that the components in the present
+invention as well as being fuel soluble in the applicable treat rate also do not
+cause other additives to precipitate under normal conditions. The improved
+compatibility manifests itself in less insoluble material, haze, and flocs.</p><heading><u style="single">Fuel Compositions</u></heading><p num="0060">The fuel additive composition of the present invention will generally be employed
+in hydrocarbon fuels to prevent and control engine deposits, particularly intake
+valve deposits. Typically, the desired control of engine deposits will be achieved
+by operating an internal combustion engine with a fuel composition containing the
+additive composition of the present invention. The proper concentration of additive
+necessary to achieve the desired control of engine deposits varies depending
+upon the type of fuel employed, the type of engine, engine oil, operating conditions
+and the presence of other fuel additives.</p><p num="0061">Generally, the present fuel additive composition will be employed in a hydrocarbon
+fuel in a concentration ranging from about 31 to about 4,000 parts per million
+(ppm) by weight, preferably from about 51 to about 2,500 ppm. </p><p num="0062">In terms of individual components, hydrocarbon fuel containing the fuel additive
+composition of this invention will generally contain about 20 to about 1,000 ppm,
+preferably about 30 to about 400 ppm, of the Mannich condensation product
+component, about 10 to about 4,000 ppm, preferably about 20 to about 800 ppm,
+of the hydrocarbyl-terminated poly(oxyalkylene) monool component, and 1 to
+about 100, preferably 1 to about 20 ppm of the carboxylic acid. The weight ratio of
+the Mannich condensation product to hydrocarbyl-terminated poly(oxyalkylene)
+monool to carboxylic acid will generally range from about 100:50:1 to about
+100:400:10, and will preferably be about 100:50:1 to about 100:300:5.</p><p num="0063">Preferably, the Mannich condensation product and carboxylic acid will be blended
+together at a temperature ranging from about room temperature (about 20°C) to
+about 100°C, more preferably from about room temperature to about 75°C, and
+most preferably, from about room temperature to about 60°C.</p><p num="0064">The fuel additive composition of the present invention may be formulated as a
+concentrate using an inert stable oleophilic (i.e., dissolves in gasoline) organic
+solvent boiling in the range of about 150°F to about 400°F (about 65°C to about
+205°C). Preferably, an aliphatic or an aromatic hydrocarbon solvent is used, such
+as benzene, toluene, xylene, or higher-boiling aromatics or aromatic thinners.
+Aliphatic alcohols containing about 3 to about 8 carbon atoms, such as
+isopropanol, isobutylcarbinol, n-butanol, and the like, in combination with
+hydrocarbon solvents are also suitable for use with the present additives. In the
+concentrate, the amount of the additive will generally range from about 10 to about
+70 weight percent, preferably about 10 to about 50 weight percent, more
+preferably from about 20 to about 40 weight percent.</p><p num="0065">In gasoline fuels, other fuel additives may be employed with the additive
+composition of the present invention, including, for example, oxygenates, such as
+t-butyl methyl ether, antiknock agents, such as methylcyclopentadienyl 
+manganese tricarbonyl, and other dispersants/detergents, such as hydrocarbyl
+amines, or succinimides. Additionally, antioxidants, corrosion inhibitors, metal
+deactivators, demulsifiers, other inhibitors, and carburetor or fuel injector
+detergents may be present.</p><p num="0066">In diesel fuels, other well-known additives can be employed, such as pour point
+depressants, flow improvers, lubricity improvers, cetane improvers, and the like.</p><p num="0067">The gasoline and diesel fuels employed with the fuel additive composition of the
+present invention include clean burning gasoline where levels of sulfur, aromatics
+and olefins range from typical amounts to only trace amounts and clean burning
+diesel fuel where levels of sulfur and aromatics range from typical amounts to only
+trace amounts.</p><p num="0068">A fuel-soluble, nonvolatile carrier fluid or oil may also be used with the fuel additive
+composition of this invention. The carrier fluid is a chemically inert hydrocarbon-soluble
+liquid vehicle which substantially increases the nonvolatile residue (NVR),
+or solvent-free liquid fraction of the fuel additive composition while not
+overwhelmingly contributing to octane requirement increase. The carrier fluid may
+be a natural or synthetic fluid, such as mineral oil, refined petroleum oils, synthetic
+polyalkanes and alkenes, including hydrogenated and unhydrogenated
+polyalphaolefins, and synthetic polyoxyalkylene-derived fluids, such as those
+described, for example, in U.S. Patent No. 4,191,537 to Lewis, and polyesters,
+such as those described, for example, in U.S. Patent Nos. 3,756,793 to Robinson
+and 5,004,478 to Vogel et al., and in European Patent Application Nos. 356,726,
+published March 7, 1990, and 382,159, published August 16, 1990.</p><p num="0069">These carrier fluids are believed to act as a carrier for the fuel additive composition
+of the present invention and to assist in the control of engine deposits, particularly
+engine intake system deposits, such as the intake valves. The carrier fluid may 
+also exhibit synergistic engine deposit control properties when used in
+combination with the fuel additive composition of this invention.</p><p num="0070">The carrier fluids are typically employed in amounts ranging from about 25 to
+about 5,000 ppm by weight of the hydrocarbon fuel, preferably from about 100 to
+about 3,000 ppm of the fuel. Preferably, the ratio of carrier fluid to fuel additive will
+range from about 0.2:1 to about 10:1, more preferably from about 0.5:1 to about
+3:1.</p><p num="0071">When employed in a fuel concentrate, carrier fluids will generally be present in
+amounts ranging from about 20 to about 60 weight percent, preferably from about
+30 to about 50 weight percent.</p><heading><b>EXAMPLES</b></heading><p num="0072">The invention will be further illustrated by the following examples, which set forth
+particularly advantageous specific embodiments of the present invention. While
+the examples are provided to illustrate the present invention, it is not intended to
+limit it.</p><p num="0073">In the following examples and tables, the components of the fuel additive
+composition are defined as follows:
+<sl><li>A. The term "Mannich" refers to a Mannich condensation product made
+from the reaction of polyisobutylphenol, formaldehyde, and
+diethylenetriamine in a ratio of 1:2:1, prepared in the manner as
+described in Example 1. The polyisobutylphenol was produced from
+polyisobutylene containing at least 70% methylvinylidene isomer as
+described in U.S. Patent No. 5,300,701. </li><li>B. The Oleic Acid was available as TI 05 from Cognis Corporation as
+well as from J. T. Baker Company and other suppliers.</li><li>C. The term "POPA" refers to a dodecylphenyl-terminated
+poly(oxypropylene) monool having an average molecular weight of
+about 1,000.</li></sl></p><heading><b>EXAMPLE 1 - MANNICH CONDENSATION PRODUCT</b></heading><p num="0074">A Mannich condensation product was produced in a reactor equipped with a
+distillation column and an overhead Dean-Stark trap system by the following
+general procedure. A solution of polyisobutylphenol in Solvesso Aromatic 100
+solvent was charged to the reactor at about 40° to 45°C. Solvesso Aromatic 100
+solvent is manufactured by Exxon-Mobil Chemical Company. The
+polyisobutylphenol was produced from polyisobutylene containing at least 70%
+methylvinylidene isomer as described in U.S. Patent No. 5,300,701. The
+polyisobutylphenol had a nonvolatile residue of 62.1% and a hydroxyl number of
+39.1 mg KOH/g. Diethylenetriamine (DETA) having an assay of 99.2% was
+charged to the reactor in the ratio one mole of DETA per mole of
+polyisobutylphenol and thoroughly mixed with the polyisobutylphenol. Heating of
+the reactor was started after charging of the DETA. When the reactor temperature
+was about 55° to 60°C, paraformaldehyde, having a purity of 91.9%, was charged
+to the reactor. The charge ratio was two moles of formaldehyde per mole of
+polyisobutylphenol. The temperature was increased over three hours to about
+175° to 177°C and the pressure gradually lowered to about 520 to 540 mm Hg. As
+byproduct water formed, water and solvent vapor distilled from the reactor and
+passed up through the distillation column. The byproduct water and solvent were
+separated and the solvent returned to the column as reflux so that no net solvent
+was taken overhead. The final temperature and pressure were held for 6 hours to
+make sure the Mannich condensation reaction went to completion. The Mannich
+condensation product was cooled to 40°C, transferred to a filter-feed tank, and 
+polished filtered using a filter precoat of HyFlo Super Cel filter aid. Crude product
+was used as the precoat liquor, and then the Mannich condensation product was
+passed through the filter without any filter aid as body feed. HyFlo Super Cel filter
+aid is a diatomaceous earth manufactured by World Minerals Incorporated.
+
+The Mannich condensation product was clear (0% haze using Nippon Denshoku
+Model 300A haze meter), light gold in color (2.5 by ASTM D1500), and contained
+2.8% nitrogen and 70% nonvolatile residue. A 3-gram sample of the Mannich
+condensation product was diluted with 100 mL of hexane and 0.1 mL of
+demulsifier and then extracted twice with 40 mL of warm water. The water extract
+was titrated with 0.1 N hydrochloric acid. The water-soluble amine content was
+measured as 0.176 mEq/g.</p><p num="0075">In another analytical method, 2 g of the Mannich condensation product was diluted
+with 0.5 g of n-butanol and 1 g of deionized water in a vial and thoroughly mixed.
+After phase separation, the aqueous layer was recovered and analyzed by gas
+chromatography (GC). Reference standards and mass spectroscopy were used to
+identify the major peaks. Based on this analysis, the Mannich condensation
+product contained 0.61% DETA and 0.16% of 1-(2-aminoethyl), 3-isodiazolidine
+(DETA with one formaldehyde-derived methylene group bridging two adjacent
+nitrogens). There were other DETA-formaldehyde compounds present, but the
+major constituent was 1-(2-aminoethyl), 3-isodiazolidine. The GC method does not
+account for all of the water-soluble amine measured by the titration method
+because not all GC peaks are quantified and because of differences in the
+extraction procedures.</p><heading><b>EXAMPLE 2 - MANNICH CONDENSATION PRODUCT</b></heading><p num="0076">Following the same procedure and charge mole ratios as in Example 1, a second
+batch of Mannich condensation product was produced. The starting
+polyisobutylphenol had a nonvolatile residue of 67.5% and a hydroxyl number of 
+40.0 mg KOH/g. The DETA had an assay of 99.2% and the paraformaldehyde an
+assay of 91.6%. The Mannich condensation product was cooled to 60°C and
+transferred to storage without the need for filtering.</p><p num="0077">The Mannich condensation product was clear (1% haze using Nippon Denshoku
+Model 300A haze meter), light gold in color (2.5 by ASTM D1500), and contained
+2.7% nitrogen and 72% nonvolatile residue. The water-soluble amine content was
+measured as 0.176 mEq/g, giving the same result as in Example 1.
+
+The gas chromatography analysis indicated that the Mannich condensation
+product contained 0.65% DETA and 0.15% of 1-(2-aminoethyl), 3-isodiazolidine.
+Again, there were other DETA-formaldehyde compounds present, but the major
+constituent was 1-(2-aminoethyl), 3-isodiazolidine.</p><heading><b>EXAMPLE 3 - COMPARATIVE COMPATIBILITY AND AIR SENSITIVITY OF
+FORMULATION WITH MANNICH CONDENSATION PRODUCT</b></heading><p num="0078">A typical formulation was blended at room temperature with treated Mannich
+condensation product and was used to test the effect of water-soluble amine
+concentration in the Mannich product on the compatibility and air sensitivity of the
+formulation with other components. The formulation is shown in Table 1. Light
+alkylate solvent is an aromatic solvent manufactured by Chevron Oronite S.A.
+<tables><table><tgroup cols="2"><tbody><row><entry nameend="2" namest="1">Typical Compatibility and Air Sensitivity Test Formulation</entry></row><row><entry align="center">Component</entry><entry align="center">Weight Percent</entry></row><row><entry align="left">Mannich condensation product</entry><entry align="center">30</entry></row><row><entry align="left">Light alkylate solvent</entry><entry align="center">38.8</entry></row><row><entry align="left">Synthetic carrier fluid</entry><entry align="center">30</entry></row><row><entry align="left">Demulsifier</entry><entry align="center">0.4</entry></row><row><entry align="left">Corrosion inhibitor</entry><entry align="center">0.8</entry></row></tbody></tgroup></table></tables></p><p num="0079">Mannich condensation product formulation compatibility is measured at room
+temperature in a 100-mL cylindrical oil sample bottle made of clear glass and filled
+with the formulation. A cork is inserted into the mouth of the bottle to keep out air.
+The sample is stored in a rack open to the light in the room. Two qualitative visual
+rating scales are used; one for fluid appearance with ratings in the range of 0 to 6,
+and one for the amount of sedimentation with ratings in the range 0 to 4. A low
+rating number indicates good compatibility and a high rating number indicates poor
+compatibility. For example, an appearance rating of 6 means the formulation
+contained heavy cloud (close to opaque). A rating of 4 for sedimentation indicates
+the presence of a large amount of sediment in the bottom of the bottle. The typical
+requirement for a pass in this test is a fluid appearance rating in the range of 0 to 2
+(absolutely bright to slight cloud) and a sedimentation rating 0 to 1 (no sediment to
+very slight sediment).</p><p num="0080">The air sensitivity of the test formulation containing treated Mannich condensation
+product is measured at room temperature using about 100 g of sample in a 250-mL
+beaker that is open to the air. A 500-mL beaker is inverted over the 250-mL
+beaker to keep out air drafts that would quickly cause solvent evaporation, while
+still allowing equilibration with the surrounding air. The beaker is weighed at the
+end to make sure the weight loss due to solvent evaporation is less than about
+5%. If enough solvent is lost, phase separation can occur. The air sensitivity test
+uses the same rating scales as the compatibility test. Both tests are supplemented
+when possible with haze measurements using a Nippon Denshoku Model 300A
+haze meter.</p><p num="0081">Diluted crude Mannich condensation product from Examples 1 and 2, each
+containing 0.176 mEq/g of water-soluble amine, were evaluated in the
+compatibility test for up to 30 days as shown in Table 2. Both diluted crude
+Mannich condensation product samples caused failures in the formulation
+compatibility test. </p><p num="0082">The formulation that contained diluted crude Mannich condensation product from
+Example 1 failed immediately after blending due to cloud formation and had a
+haze of 55.1% after 30 days.</p><p num="0083">The formulation that contained diluted crude Mannich condensation product from
+Example 2 failed the test immediately after blending due to haze, floc, and
+sediment. The percent haze after 30 days for three different samples was in the
+range about 36.6 to 58.8%. Percent haze over about 15 to 20% is considered
+unacceptable.</p><p num="0084">Since both samples did poorly in the compatibility test, no air sensitivity tests were
+conducted. Analysis of the sediment by infrared spectroscopy (IR) and nuclear
+magnetic spectroscopy (NMR) indicated the haze was caused by a reaction of the
+carboxylic acid corrosion inhibitor with the residual amine in the Mannich
+condensation product.
+<tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Comparative Formulation Compatibility with Untreated Mannich Condensation Product</entry></row><row><entry align="center" namest="1"/><entry align="center" namest="2"/><entry nameend="5" align="center" namest="3">Fluid/Sediment Rating in Compatibility Test</entry></row><row><entry align="center">Example</entry><entry align="center">Blend Number</entry><entry align="center">Initial</entry><entry align="center">7-days</entry><entry align="center">30-days</entry><entry align="center">%Haze (30-days)</entry></row><row><entry align="center">1</entry><entry align="center">10</entry><entry align="center">3/0</entry><entry align="center">3/0</entry><entry align="center">6/2</entry><entry align="center">55.1</entry></row><row><entry align="center">2</entry><entry align="center">9</entry><entry align="center">3/0</entry><entry align="center">6/0</entry><entry align="center">6/2</entry><entry align="center">58.8</entry></row><row><entry align="center">2</entry><entry align="center">11</entry><entry align="center">4/2</entry><entry align="center">3/2</entry><entry align="center">3/3</entry><entry align="center">36.6</entry></row><row><entry align="center">2</entry><entry align="center">13</entry><entry align="center">4/1</entry><entry align="center">3/2</entry><entry align="center">3/0</entry><entry align="center">41.8</entry></row></tbody></tgroup></table></tables></p><heading><b>EXAMPLE 4 - IMPROVEMENT OF COMPATIBILITY WITH OLEIC ACID</b></heading><p num="0085">After charging 200 g of Mannich condensation product from Example 2 to a 500-mL
+reaction flask, 9.94 g of oleic acid from J. T. Baker Company (1 equivalent per
+equivalent of water-soluble amine or 5.0% oleic acid on untreated Mannich
+product) was added and the mixture was stirred and held at 100°C. The oleic acid
+had an acid number of 202 mg KOH/g. The measured water-soluble amine
+content of the treated Mannich was 0.171 mEg/g indicating that a salt was
+probably formed between the oleic acid and residual amine as opposed to an
+amide. This procedure was repeated at 60°C using 0.5 and 0.25 equivalents of
+oleic acid per equivalent of water-soluble amine (2.5% and 1.24% oleic acid on
+Mannich condensation product from Example 2). The water soluble amine
+contents of the treated Mannich were 0.153 mEg/g and 0.169 mEg/g, respectively,
+again indicating little change in the original water-soluble amine content of the
+Mannich product and the presence of an oleic acid salt. The closed-bottle
+compatibility test was performed using these three samples and gave the results in
+Table 3.
+<tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Formulation Compatibility of Oleic Acid Treated Mannich Condensation Product</entry></row><row><entry align="center" namest="1"/><entry align="center" namest="2"/><entry nameend="5" align="center" namest="3">Fluid/Sediment Rating in Compatibility Test</entry></row><row><entry align="center">Blend Number</entry><entry align="center">Oleic Acid, % of Example 2 Mannich</entry><entry align="center">Initial</entry><entry align="center">7-days</entry><entry align="center">30-days</entry><entry align="center">% Haze (30-days)</entry></row><row><entry align="center">24</entry><entry align="center">5.0</entry><entry align="center">1/0</entry><entry align="center">1/0</entry><entry align="center">1/0</entry><entry align="center">0</entry></row><row><entry align="center">25</entry><entry align="center">2.5</entry><entry align="center">1/0</entry><entry align="center">1/0</entry><entry align="center">1/0</entry><entry align="center">0.1</entry></row><row><entry align="center">26 Comparative</entry><entry align="center">1.24</entry><entry align="center">3/0</entry><entry align="center">3/0</entry><entry align="center">3/0</entry><entry align="center">18.7</entry></row></tbody></tgroup></table></tables></p><p num="0086">At 2.5% and 5% treat levels of the Mannich condensation product with oleic acid,
+the formulation compatibility was changed from an immediate failure to a strong
+pass. A treat level of 1.24% was not adequate to pass the compatibility test.
+These results are very surprising because the oleic acid seems to prefer to react
+with the residual amine rather than the amine that is part of the Mannich base
+structure. In addition, the offending corrosion inhibitor has carboxylic acid
+functionality like the oleic acid.</p><heading><b>EXAMPLE 5 - EFFECT OF OLEIC ACID TREATMENT TEMPERATURE ON
+FORMULATION COMPATIBILITY</b></heading><p num="0087">Mannich condensation product from Example 2 was treated with 3% oleic acid
+(percent on untreated product) at 20°C (room temperature) and 60°C following the
+procedure in Example 4. Two other samples were prepared at 150°C following a
+slightly different procedure.</p><p num="0088">A 150°C temperature treatment was done as follows. 2,000 g of untreated
+Mannich condensation product from Example 2 were charged to a 5-L cylindrical
+reactor equipped with an agitator, heating mantle with temperature control, and
+Dean-Stark trap for collecting water. 60 g of the oleic acid described in Example 4
+were added to the reactor and mixed with the Mannich condensation product. The
+mixture was heated to 150°C with nitrogen purge of about 50 cm<sup>3</sup>/minute and held
+at this temperature for 2 hours. There was negligible refluxing. After cooling to
+room temperature, the final mixture weight was 2,055.3 g indicating a weight loss
+of 4.7 g. Theoretical water yield was estimated as 7.8 g if all oxygen is eliminated
+as water (imidazo linkage) or half as much if a simple amide linkage is formed.
+The Dean-Stark trap recovery was only 0.4 mL of water. It was unclear whether
+the water of reaction was removed. The water-soluble amine content after the
+treatment was 0.178 mEg/g. This gave a clear product that was light golden 
+brown in color with a total nitrogen of 2.60%, nonvolatile residue of 72.8%, haze of
+3.7%. This treatment corresponds to Blend Number 60.</p><p num="0089">The 150°C temperature procedure was repeated with 2,000 g of untreated
+Mannich condensation product from Example 2 and 60 g of oleic acid except the
+pressure was lowered during the hold period to 264 mm Hg in order to force reflux
+to the Dean-Stark trap. This gave a final treated product weight of 2,015.9 g. 39.8
+g of Exxon Aromatic 100 solvent was added back to make up for the solvent loss
+to the Dean-Stark trap and dry ice trap. 4.1 g of water phase was collected in the
+Dean-Stark trap and 4.3 g in the dry ice trap giving a total of 8.4 g of water phase.
+The theoretical water yield, if an amide is formed, is about 7.8 g. The Dean-Stark
+trap contained 16.7 g of solvent phase while the dry ice trap contained 2.3 g of
+solvent phase. This gave a clear product that was light golden brown in color with
+a water-soluble amine content of 0.116 mEg/g, total nitrogen of 2.56%, nonvolatile
+residue of 70.5%, haze of 3.9%. This treatment corresponds to Blend Number 63.
+<tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1">Formulation Compatibility of Mannich Condensation Product Treated with Oleic Acid at Various Temperatures</entry></row><row><entry align="center" namest="1"/><entry align="center" namest="2"/><entry align="center" namest="3"/><entry nameend="6" align="center" namest="4">Fluid/Sediment Rating in Compatibility Test</entry></row><row><entry align="center">Blend Number</entry><entry align="center">Oleic Acid % of Example 2 Mannich Product</entry><entry align="center">Treatment Temp., °C</entry><entry align="center">Initial</entry><entry align="center">7-days</entry><entry align="center">30-days</entry><entry align="center">% Haze (30-days)</entry></row><row><entry align="center">72</entry><entry align="center">3</entry><entry align="center">RT<!--footnotes removed--></entry><entry align="center">1/0</entry><entry align="center">0/0</entry><entry align="center">0/0</entry><entry align="center">0.2</entry></row><row><entry align="center">86</entry><entry align="center">5</entry><entry align="center">RT</entry><entry align="center">0/0</entry><entry align="center">0/0</entry><entry align="center">0/0</entry><entry align="center">0</entry></row><row><entry align="center">59</entry><entry align="center">3</entry><entry align="center">60</entry><entry align="center">1/0</entry><entry align="center">0/0</entry><entry align="center">0/0</entry><entry align="center">0.1</entry></row><row><entry align="center">60</entry><entry align="center">3</entry><entry align="center">150</entry><entry align="center">2/0</entry><entry align="center">3/0</entry><entry align="center">3/0</entry><entry align="center">32.2</entry></row><row><entry align="center">Comparative</entry></row><row><entry align="center">63</entry><entry align="center">3</entry><entry align="center">150</entry><entry align="center">3/0</entry><entry align="center">3/0</entry><entry align="center">3/1</entry><entry align="center">20.6</entry></row><row><entry align="center">Comparative<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0090">Table 4 shows that both high temperature treatments gave poor results while
+treatments at room temperature (RT), 60°C, and 100°C (Example 4) gave good
+compatibility results. Blend Number 24 in Table 4 gives a direct comparison with
+Blend 86 in Table 3 using 5% oleic acid at 100°C. The 150°C temperature
+treatment results are not surprising considering that the Mannich condensation
+product is in equilibrium with the DETA and DETA-formaldehyde intermediates.
+Thus, while the oleic acid is reacting with some residual amine, more is being
+generated.</p><heading><b>EXAMPLE 6 - EFFECT OF OLEIC ACID TREATMENT ON FORMULATION AIR
+SENSITIVITY</b></heading><p num="0091">Several formulation samples using oleic acid treated Mannich product were
+evaluated for air sensitivity using the test described in Example 3. This is a very
+severe test since the formulation would incur minimal air exposure during storage
+and handling. If solvent loss during the test is excessive, phase separation of
+components can occur. Table 5 shows the air sensitivity ratings. These ratings
+are much more difficult to perform with a 250-mL beaker compared to a 100-mL
+cylindrical bottle. The variability that can be encountered in the rating during this
+test is exemplified by the initial readings for Blends 82 and 92 in Table 5.
+Sometimes a maximum sediment rating of 4 was given regardless of the quantity
+of sediment simply because the material was gelatinous indicating a component
+separation.</p><p num="0092">Using a maximum fluid/sediment rating of 2/1 as a pass in the test, the formulation
+air sensitivity was acceptable up to about 3 to 8 days, depending upon the sample,
+as shown in Table 5. This is an improvement over an immediate failure on
+blending when no oleic acid treatment is done as shown in Example 3. None of
+these samples exhibit typical sediment, but rather the formation of very small
+gelatinous droplets that accumulate on the bottom and the side of the beaker at 
+the air interface. It appears the material forms at the air interface and some of it
+settles to the bottom of the beaker. A sample of the gelatinous material was
+recovered and analyzed by IR, proton-NMR, and carbon-NMR. It was determined
+to be a DETA-carbamate salt formed by the reaction of CO<sub>2</sub> in the air with DETA.
+This effect was not seen with the formulations made from untreated Mannich
+product because the formulations failed the compatibility test immediately due to
+haze and floc.
+<tables><table><tgroup cols="4"><tbody><row><entry nameend="4" namest="1">Air Sensitivity Test of Formulations with Mannich Condensation Product Treated with Oleic Acid at Various Temperatures</entry></row><row><entry align="left">Blend Number</entry><entry align="center">82</entry><entry align="center">92</entry><entry align="center">86</entry> </row><row><entry align="left">Oleic Acid on Example 2 Mannich, %</entry><entry align="center">3</entry><entry align="center">3</entry><entry align="center">5</entry> </row> <row><entry align="left">Treatment Temperature, °C</entry> <entry align="center">60</entry><entry align="center">RT<!--footnotes removed--></entry><entry align="center">RT</entry></row><row><entry nameend="4" align="left" namest="1">Fluid/Sediment Rating in Air Sensitivity Test</entry></row><row><entry align="left">Initial</entry><entry align="center">0/0</entry><entry align="center">2/0</entry><entry align="center">0/0</entry></row><row><entry align="left">1-day</entry><entry align="center">0/0</entry><entry align="right"/><entry align="center">2/0</entry></row><row><entry align="left">3-days</entry><entry align="right"/><entry align="right"/><entry align="center">2/4</entry></row><row><entry align="left">4-days</entry><entry align="center">1/1</entry><entry align="center">2/4</entry></row><row><entry align="left">6-days</entry><entry align="center">2/1</entry><entry align="right"/><entry align="center">2/4</entry></row><row><entry align="left">7-days</entry><entry align="right"/><entry align="center">2/4</entry></row><row><entry align="left">8-days</entry><entry align="center">2/2</entry></row><row><entry align="left">9-days</entry><entry align="right"/><entry align="right"/><entry align="center">2/4</entry></row><row><entry align="left">11-days</entry><entry align="center">2/4</entry><entry align="center">2/4</entry></row><row><entry align="left">%Haze at 30-days</entry><entry align="center">2.1</entry><entry align="center">7.7</entry><entry align="center">2.8<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><heading><b>EXAMPLE 7 - IMPROVING FORMULATION AIR SENSITIVITY WITH
+DODECENYLSUCCINIC ANHYDRIDE</b></heading><p num="0093">200 g of Mannich condensation Example 2 were mixed with 9.73 g of
+dodecenylsuccinic anhydride (DDSA) in a 500 mL reaction flask for 30 minutes at
+60°C. DDSA was supplied by Milliken Chemicals and had a neutralization number
+of 406 mg KOH/g. Milliken uses C<sub>12</sub> branched-olefin derived from propylene
+tetramer to make DDSA. The appearance of the Mannich was unchanged by the
+treatment. A second treatment was done at room temperature. Table 6 shows the
+formulation compatibility was greatly improved after treatment of the Mannich
+condensation product with one equivalent of DDSA per equivalent of water-soluble
+amine compared to the untreated Mannich condensation product results in
+Example 3, Table 2. Formulation air sensitivity was also improved considerably
+over the oleic acid treatment method as shown in Table 7 compared to the results
+in Table 5.
+<tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1">Formulation Compatibility of Mannich Condensation Product Treated with DDSA</entry></row><row><entry align="center" namest="1"/><entry align="center" namest="2"/><entry align="center" namest="3"/><entry nameend="6" align="center" namest="4">Fluid/Sediment Rating in Compatibility Test</entry></row><row><entry align="center">Blend Number</entry><entry align="center">DDSA, % of Example 2 Mannich</entry><entry align="center">Treatment Temp., °C</entry><entry align="center">Initial</entry><entry align="center">7-days</entry><entry align="center">30-days</entry><entry align="center">% Haze (30-days)</entry></row><row><entry align="center">49</entry><entry align="center">4.9</entry><entry align="center">60</entry><entry align="center">0/0</entry><entry align="center">0/0</entry><entry align="center">0/0</entry><entry align="center">0.3</entry></row><row><entry align="center">85</entry><entry align="center">4.9</entry><entry align="center">RT<!--footnotes removed--></entry><entry align="center">0/0</entry><entry align="center">0/0</entry><entry align="center">0/0</entry><entry align="center">0.2<!--footnotes removed--></entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="7"><tbody><row><entry nameend="7" namest="1">Air Sensitivity Test of Formulation with Mannich Condensation Product Treated with DDSA</entry></row><row><entry align="center" namest="1"/><entry align="center" namest="2"/><entry align="center" namest="3"/><entry nameend="6" align="center" namest="4">Fluid/Sediment Rating (Open-Beaker)</entry></row><row><entry align="center">Blend Number</entry><entry align="center">Oleic Acid % On Batch #2</entry><entry align="center">Treatment Temp., °C</entry><entry align="center">Initial</entry><entry align="center">7-days</entry><entry align="center">30-days</entry><entry align="center">% Haze (30-days)</entry></row><row><entry align="center">85</entry><entry align="center">4.9</entry><entry align="center">RT<!--footnotes removed--></entry><entry align="center">0/0</entry><entry align="center">1/0</entry><entry align="center">3/0</entry><entry align="center">7.5<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><heading><b>EXAMPLE 8 - FORD 2.3L ENGINE DYNAMOMETER TESTING</b></heading><p num="0094">The fuel additive composition of the present invention was tested in a four-cylinder
+Ford 2.3L engine dynamometer test stand to evaluate intake system deposit
+control performance. The four-cylinder Ford 2.3L engine is port fuel injected and
+has twin spark plugs. The engine is prepared for tests in accordance with
+accepted engine testing practices. The engine test is 60 hours in length and
+consists of 277 repetitions of a 13-minute cycle.</p><p num="0095">The details of the test cycle for the Ford 2.3L engine are set forth in Table 8.
+<tables><table><tgroup cols="3"><tbody><row><entry nameend="3" namest="1">Ford 2.3L Engine Dynamometer Test Cycle</entry></row><row><entry align="center">Cycle Step Duration (Seconds)</entry><entry align="center">Engine Speed (RPM)</entry><entry align="center">Engine Manifold Absolute Pressure (Millimeters of Mercury)</entry></row><row><entry align="left">   270</entry><entry align="center">2000</entry><entry align="center">230</entry></row><row><entry align="left">   510</entry><entry align="center">2800</entry><entry align="center">539</entry></row><row><entry align="left">Total 780</entry></row></tbody></tgroup></table></tables></p><p num="0096">The test results from the Ford 2.3L Engine Dynamometer Test are set forth in
+Table 9. <tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Ford 2.3L Engine Dynamometer Test Results</entry></row><row><entry align="center">Sample</entry><entry align="center">Mannich (ppma)</entry><entry align="center">Oleic Acid (ppm)</entry><entry align="center">POPA (ppm)</entry><entry align="center">Ratio (POPA/Mannich)</entry><entry align="center">AVG IVD (mg./vlv.)</entry></row><row><entry align="center">Base</entry><entry align="right">0</entry><entry align="center">0</entry><entry align="right">0</entry><entry align="center">-</entry><entry align="center">849.1</entry></row><row><entry align="center">1</entry><entry align="right">50</entry><entry align="center">0</entry><entry align="right">50</entry><entry align="center">1</entry><entry align="center">466.8</entry></row><row><entry align="center">2</entry><entry align="right">50</entry><entry align="center">2.24<!--footnotes removed--></entry><entry align="right">50</entry><entry align="center">1</entry><entry align="center">239.8</entry></row><row><entry align="center">3</entry><entry align="right">50</entry><entry align="center">2.24<!--footnotes removed--></entry><entry align="right">50</entry><entry align="center">1</entry><entry align="center">310.4</entry></row><row><entry align="center">4</entry><entry align="right">75</entry><entry align="center">0</entry><entry align="right">75</entry><entry align="center">1</entry><entry align="center">108</entry></row><row><entry align="center">5</entry><entry align="right">75</entry><entry align="center">3.4<!--footnotes removed--></entry><entry align="right">75</entry><entry align="center">1</entry><entry align="center">101.3</entry></row><row><entry align="center">6</entry><entry align="right">75</entry><entry align="center">3.4<!--footnotes removed--></entry><entry align="right">75</entry><entry align="center">1</entry><entry align="center">153.1<!--footnotes removed--><!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0097">As can be seen in Samples 2, 3, and 5 in Table 9, addition of oleic acid provides
+an unexpected reduction in IVD mass relative to comparative Samples 1 and 4.</p><heading><b>EXAMPLE 9 - GM 2.4L ENGINE DYNAMOMETER TESTING</b></heading><p num="0098">The fuel additive composition of the present invention was tested in a four-cylinder
+GM 2.4L engine dynamometer test stand to evaluate intake system deposit control
+performance. The four-cylinder GM 2.4L engine is port fuel injected and is of a
+four valve per cylinder configuration. The engine is prepared for tests in
+accordance with accepted engine testing practices. The engine test is
+approximately 124 hours in length and consists of 74 repetitions of a 100-minute
+cycle.</p><p num="0099">The details of the test cycle for the GM 2.4L engine are set forth in Table 10. <tables><table><tgroup cols="3"><tbody><row><entry nameend="3" namest="1">GM 2.4L Engine Dynamometer Test Cycle</entry></row><row><entry align="center">Cycle Step Duration (Seconds)</entry><entry align="center">Engine Speed (RPM)</entry><entry align="center">Engine Manifold Absolute Pressure (Millimeters of Mercury)</entry></row><row><entry align="left">   15</entry><entry align="center">800</entry><entry align="center">No Spec</entry></row><row><entry align="left">   705</entry><entry align="center">2000</entry><entry align="center">365</entry></row><row><entry align="left">   1005</entry><entry align="center">2400</entry><entry align="center">398</entry></row><row><entry align="left">   690</entry><entry align="center">2000</entry><entry align="center">365</entry></row><row><entry align="left">   1485</entry><entry align="center">2400</entry><entry align="center">398</entry></row><row><entry align="left">   1095</entry><entry align="center">1500</entry><entry align="center">353</entry></row><row><entry align="left">   1005</entry><entry align="center">2400</entry><entry align="center">398</entry></row><row><entry align="left">Total 6000</entry></row></tbody></tgroup></table></tables></p><p num="0100">The test results from the GM 2.4L Engine Dynamometer Test are set forth in
+Table 11.
+<tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">GM 2.4L Engine Dynamometer Test Results</entry></row><row><entry align="center">Sample</entry><entry align="center">Mannich (ppma)</entry><entry align="center">Oleic Acid (ppm)</entry><entry align="center">POPA (ppm)</entry><entry align="center">Ratio (POPA/Mannich)</entry><entry align="center">AVG IVD (mg./vlv.)</entry></row><row><entry align="center">Base</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">-</entry><entry align="center">303.3</entry></row><row><entry align="center">1</entry><entry align="center">50</entry><entry align="center">0</entry><entry align="center">50</entry><entry align="center">1</entry><entry align="center">105.3</entry></row><row><entry align="center">2</entry><entry align="center">50</entry><entry align="center">2.24<!--footnotes removed--></entry><entry align="center">50</entry><entry align="center">1</entry><entry align="center">94.1</entry></row><row><entry align="center">3</entry><entry align="center">50</entry><entry align="center">2.24<!--footnotes removed--></entry><entry align="center">50</entry><entry align="center">1</entry><entry align="center">26.9<!--footnotes removed--><!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0101">As can be seen in Samples 2 and 3 in Table 11, the addition of oleic acid provides
+an unexpected improvement in Avg. IVD relative to comparative Sample 1. </p><heading><b>EXAMPLE 10 - DAIMLER-BENZ M102E 2.3L ENGINE DYNAMOMETER
+TESTING</b></heading><p num="0102">The fuel additive composition of the present invention was tested in a four-cylinder
+Daimler Benz 2.3L engine dynamometer test stand to evaluate intake system
+deposit control performance. The four-cylinder Daimler Benz 2.3L engine has KE-Jetronic
+fuel metering. The engine is prepared for tests in accordance with
+accepted engine testing practices. The engine test is 60 hours in length and
+consists of 800 repetitions of a 270-second cycle.</p><p num="0103">The details of the test cycle for the M102E engine are set forth in Table 12.
+<tables><table><tgroup cols="4"><tbody><row><entry nameend="4" namest="1">Daimler-Benz M102E 2.3L Engine Dynamometer Test Cycle</entry></row><row><entry align="center"/><entry align="center">Cycle Step Duration (Seconds)</entry><entry align="center">Engine Spee (RPM)</entry><entry align="center">Engine Torque (Nm)</entry></row><row><entry align="left"/><entry align="right">30</entry><entry align="right">800</entry><entry align="center">0.0</entry></row><row><entry align="left"/><entry align="right">60</entry><entry align="right">1300</entry><entry align="center">29.4</entry></row><row><entry align="left"/><entry align="right">120</entry><entry align="right">1850</entry><entry align="center">32.5</entry></row><row><entry align="left"/><entry align="right">60</entry><entry align="right">3000</entry><entry align="center">35.0</entry></row><row><entry align="left">Total:</entry><entry align="right">270</entry></row></tbody></tgroup></table></tables></p><p num="0104">The test results from the Daimler-Benz M102E Engine Dynamometer Test are set
+forth in Tables 13. <tables><table><tgroup cols="6"><tbody><row><entry nameend="6" namest="1">Daimler-Benz M102E Engine Dynamometer Test Results</entry></row><row><entry align="center">Sample</entry><entry align="center">Mannich (ppma)</entry><entry align="center">Oleic Acid (ppm)</entry><entry align="center">POPA (ppm)</entry><entry align="center">Ratio (POPA/Mannich)</entry><entry align="center">AVG IVD (mg./vlv.)</entry></row><row><entry align="center">1</entry><entry align="center">200</entry><entry align="center">0</entry><entry align="center">200</entry><entry align="center">1</entry><entry align="center">51</entry></row><row><entry align="center">2</entry><entry align="center">200<!--footnotes removed--></entry><entry align="center">8.96</entry><entry align="center">200</entry><entry align="center">1</entry><entry align="center">23</entry></row><row><entry align="center">3</entry><entry align="center">125</entry><entry align="center">0</entry><entry align="center">125</entry><entry align="center">1</entry><entry align="center">120</entry></row><row><entry align="center">4</entry><entry align="center">125<!--footnotes removed--></entry><entry align="center">5.60</entry><entry align="center">125</entry><entry align="center">1</entry><entry align="center">7<!--footnotes removed--></entry></row></tbody></tgroup></table></tables></p><p num="0105">As can be seen in Table 13 addition of oleic acid in Samples 2 and 4 provide an
+unexpected reduction in IVD mass relative to comparative Samples 1 and 3.</p><heading><b>EXAMPLE 11 - EFFECT OF OLEIC ACID TREATMENT ON ANTI-CORROSION
+PROPERTIES</b></heading><p num="0106">Corrosion tests according to ASTM D665A were carried out to demonstrate the
+effect of oleic acid treatment on the anti-corrosion properties of a formulation
+based on Mannich. The D665A test is the most common corrosion test for
+evaluating anti-corrosion performance of gasoline in dynamic conditions, such as
+in vehicles or pipelines. In this test a polished cylindrical steel specimen was
+immersed in a mixture of 300-mL gasoline and 30-mL water. The mixture was
+stirred for 24 hours at room temperature (about 20 °C). At the end of this period
+the steel specimen was rated for the degree of corrosion which had occurred. In
+this example an Eurosuper-based gasoline was evaluated with and without
+Mannich formulations. The results are shown below in Table 14. The reference
+Mannich formulation was a mixture of Mannich with a synthetic carrier (300 and
+200 mg/kg, respectively). Adding the Mannich formulation (Formulation "A") to
+the base gasoline slightly improved the corrosion performance, which is not
+unusual for a detergent package. Adding a corrosion inhibitor at 3 ppm - a 
+commonly applied treat rate (Formulation "B") - improved the corrosion
+performance significantly. However, this effect was exceeded by adding 6 ppm
+oleic acid to the Mannich (Formulation "C")
+<tables><table><tgroup cols="5"><tbody><row><entry nameend="5" namest="1">Anti-corrosion Properties</entry></row><row><entry align="left" namest="1">Base gasoline</entry><entry nameend="5" align="center" namest="2">Eurosuper 95 RON</entry></row><row><entry align="left">Additive package</entry><entry align="center">no</entry><entry align="center">A</entry><entry align="center">B</entry><entry align="center">C</entry></row><row><entry align="left">Components, mg/kg</entry></row><row><entry align="left">Mannich condensation product</entry><entry align="center">0</entry><entry align="center">300</entry><entry align="center">300</entry><entry align="center">300</entry></row><row><entry align="left">Oleic acid</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">6</entry></row><row><entry align="left">Synthetic carrier fluid (POPA)</entry><entry align="center">0</entry><entry align="center">200</entry><entry align="center">200</entry><entry align="center">200</entry></row><row><entry align="left">Corrosion inhibitor</entry><entry align="center">0</entry><entry align="center">0</entry><entry align="center">3</entry><entry align="center">0</entry></row><row><entry align="left">   Total mg/kg</entry><entry align="center">0</entry><entry align="center">500</entry><entry align="center">503</entry><entry align="center">506</entry></row><row><entry nameend="5" align="right" namest="1">ASTM D665A Results (in triplicate)</entry></row><row><entry align="left">Corrosion rating</entry><entry align="center">E/E/C</entry><entry align="center">C/C/B+</entry><entry align="center">B/B/B</entry><entry align="center">A/A/B+</entry></row></tbody></tgroup></table></tables><tables><table><tgroup cols="2"><tbody><row><entry align="center">Rating</entry><entry align="center">Test Surface Rusted, %</entry></row><row><entry align="center">A</entry><entry align="center">None</entry></row><row><entry align="center">B++</entry><entry align="center">&lt;0.1%</entry></row><row><entry align="center">B+</entry><entry align="center">&lt;5%</entry></row><row><entry align="center">B</entry><entry align="center">5 - 25%</entry></row><row><entry align="center">C</entry><entry align="center">26 - 50%</entry></row><row><entry align="center">D</entry><entry align="center">51 - 75%</entry></row><row><entry align="center">E</entry><entry align="center">76 - 100%</entry></row></tbody></tgroup></table></tables></p><p num="0107">While the present invention has been described with reference to specific
+embodiments, this application is intended to cover those various changes and
+substitutions that may be made by those skilled in the art without departing from
+the spirit and scope of the appended claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A fuel additive composition comprising:
+<claim-text><claim-text>a) a Mannich condensation product of (1) a high molecular weight alkyl-substituted
+hydroxyaromatic compound wherein the alkyl group has
+a number average molecular weight of from about 300 to about
+5,000 (2) an amine which contains an amino group having at least
+one active hydrogen atom, and (3) an aldehyde, wherein the
+respective molar ratio of reactants (1), (2), and (3) is 1:0.1-10:0.1-10;</claim-text><claim-text>b) a hydrocarbyl-terminated poly(oxyalkylene) monool having an
+average molecular weight of about 500 to about 5,000, wherein the
+oxyalkylene group is a C2 to C5 oxyalkylene group and the
+hydrocarbyl group is a C1 to C30 hydrocarbyl group; and</claim-text><claim-text>c) a carboxylic acid as represented by the formula:
+R1(COOH)x
+or anhydride thereof, wherein R1 represents a hydrocarbyl group
+having about 2 to about 50 carbon atoms, and x represents an
+integer of 1 to about 4.</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The fuel additive composition according to Claim 1, wherein the alkyl group
+on said alkyl-substituted hydroxyaromatic compound has a number average
+molecular weight of about 400 to about 3,000.</claim-text></claim><claim num="3"><claim-text>The fuel additive composition according to Claim 2, wherein the alkyl group
+on said alkyl-substituted hydroxyaromatic compound has a number average
+molecular weight of about 500 to about 2,000.</claim-text></claim><claim num="4"><claim-text>The fuel additive composition according to Claim 3, wherein the alkyl group
+on said alkyl-substituted hydroxyaromatic compound has a number average
+molecular weight of about 700 to about 1,500.</claim-text></claim><claim num="5"><claim-text>The fuel additive composition according to Claim 1, wherein said alkyl-substituted
+hydroxyaromatic compound is a polyalkylphenol.</claim-text></claim><claim num="6"><claim-text>The fuel additive composition according to Claim 5, wherein the
+polyalkylphenol is polypropylphenol or polyisobutylphenol.</claim-text></claim><claim num="7"><claim-text>The fuel additive composition according to Claim 6, wherein the
+polyalkylphenol is polyisobutylphenol.</claim-text></claim><claim num="8"><claim-text>The fuel additive composition according to Claim 7, wherein the
+polyisobutylphenol is derived from polyisobutene containing at least about
+70% methylvinylidine isomer.</claim-text></claim><claim num="9"><claim-text>The fuel additive composition according to Claim 1, wherein the amine
+component of said Mannich condensation product is an alkylene polyamine
+having the formula:
+H2N-(A-NH)y-H
+wherein A is a divalent alkylene radical having 1 to about 10 carbon atoms
+and y is an integer from 1 to about 10.</claim-text></claim><claim num="10"><claim-text>The fuel additive composition according to Claim 9, wherein the alkylene
+polyamine is polyethylene polyamine.</claim-text></claim><claim num="11"><claim-text>The fuel additive composition according to Claim 10, wherein the
+polyethylene polyamine is diethylene triamine.</claim-text></claim><claim num="12"><claim-text>The fuel additive composition according to Claim 1, wherein the respective
+molar ratio of reactants (1), (2), and (3) is 1.0:0.5-2.0:1.0-3.0.</claim-text></claim><claim num="13"><claim-text>The fuel additive composition according to Claim 1, wherein the aldehyde
+component of said Mannich condensation product is formaldehyde,
+paraformaldehyde, or formalin.</claim-text></claim><claim num="14"><claim-text>The fuel additive composition according to Claim 1, wherein said
+hydrocarbyl-terminated poly(oxyalkylene) monool has an average molecular
+weight of about 900 to about 1,500.</claim-text></claim><claim num="15"><claim-text>The fuel additive composition according to Claim 1, wherein the oxyalkylene
+group of the hydrocarbyl-terminated polyoxyalkylene group of said
+hydrocarbyl-terminated poly(oxyalkylene) monool is a C3 to C4 oxyalkylene
+group.</claim-text></claim><claim num="16"><claim-text>The fuel additive composition according to Claim 15, wherein the
+oxyalkylene group of said hydrocarbyl-terminated poly(oxyalkylene) monool
+is a C3 oxypropylene group.</claim-text></claim><claim num="17"><claim-text>The fuel additive composition according to Claim 15, wherein the
+oxyalkylene group of said hydrocarbyl-terminated poly(oxyalkylene) monool
+is a C4 oxybutylene group.</claim-text></claim><claim num="18"><claim-text>The fuel additive composition according to Claim 1, wherein the hydrocarbyl
+group of said hydrocarbyl-terminated poly(oxyalkylene) monool is a C7 to
+C30 alkylphenyl group.</claim-text></claim><claim num="19"><claim-text>A fuel additive composition according to Claim 1, wherein said carboxylic
+acid is a monocarboxylic acid having about 8 to about 30 carbon atoms.</claim-text></claim><claim num="20"><claim-text>A fuel additive composition according to Claim 19, wherein said
+monocarboxylic acid is oleic acid.</claim-text></claim><claim num="21"><claim-text>A fuel composition comprising a major amount of
+hydrocarbon fuel boiling in the gasoline or diesel
+range and an effective deposit controlling amount
+of a fuel additive composition according to any
+proceeding claim.</claim-text></claim><claim num="22"><claim-text>A fuel composition according to claim 21, wherein
+said composition comprises about 20 to about 1,000
+ppm of the Mannich Condensation product, about 10
+to about 4,000 ppm of the hydrocarbyl-terminated
+poly(oxyalkylene) monool, and about 1 to about 100
+ppm of the carboxylic acid.</claim-text></claim><claim num="23"><claim-text>A fuel composition according to claim 22, wherein
+said composition comprises about 30 to about 400
+ppm of the Mannich Condensation product, about 20
+to about 800 ppm of the hydrocarbyl-terminated
+poly(oxyalkylene) monool, and about 1 to about 20
+ppm of the carboxylic acid.</claim-text></claim><claim num="24"><claim-text>A fuel concentrate comprising an inert stable
+oleophilic organic solvent boiling in the range of
+from about 150°F to about 400°F and from about 10
+to about 90 weight percent of an additive
+composition as claimed in any one of claims 1 to
+20.</claim-text></claim><claim num="25"><claim-text>A method of improving the compatibility of a fuel
+additive composition, said method comprising
+blending together the fuel additive composition of
+any of claims 1 to 20, wherein the Mannich
+Condensation product and the carboxylic acid are
+blended together at a temperature in the range of
+about room temperature to about 100°C.</claim-text></claim><claim num="26"><claim-text>A method of controlling engine deposits in an
+internal combustion engine, said method comprising
+operating an internal combustion engine with a
+fuel composition according to claim 21, 22 or 23.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

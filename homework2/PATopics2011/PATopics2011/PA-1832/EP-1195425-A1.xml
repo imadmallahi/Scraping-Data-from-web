@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1195425-A1" country="EP" doc-number="1195425" kind="A1" lang="EN" family-id="8170022" status="new" date-produced="20090516" date="20020410"><bibliographic-data><publication-reference ucid="EP-1195425-A1" status="new" fvid="23429537"><document-id status="new" format="original"><country>EP</country><doc-number>1195425</doc-number><kind>A1</kind><date>20020410</date></document-id></publication-reference><application-reference ucid="EP-00121752-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00121752</doc-number><kind>A</kind><date>20001005</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="EP-00121752-A" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>00121752</doc-number><kind>A</kind><date>20001005</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">C10M 129/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 129/10        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 129/54        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 133/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 133/12        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 133/56        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 135/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 135/30        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 139/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 139/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 159/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 159/20        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 159/22        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 159/24        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 163/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10M 163/00        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C10M 169/00        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10M 169/04        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10N  10/02        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10N  10/04        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10N  20/00        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10N  30/04        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10N  30/06        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10N  30/10        20060101ALN20051220RMJP        </classification-ipcr><classification-ipcr status="new">C10N  40/25        20060101ALN20051220RMJP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C10M 163/00</classification-symbol><classification-symbol scheme="ICO">M10M203:10</classification-symbol><classification-symbol scheme="ICO">M10M203:102</classification-symbol><classification-symbol scheme="ICO">M10M203:104</classification-symbol><classification-symbol scheme="ICO">M10M203:106</classification-symbol><classification-symbol scheme="ICO">M10M205:00</classification-symbol><classification-symbol scheme="ICO">M10M205:026</classification-symbol><classification-symbol scheme="ICO">M10M207:023</classification-symbol><classification-symbol scheme="ICO">M10M207:024</classification-symbol><classification-symbol scheme="ICO">M10M207:026</classification-symbol><classification-symbol scheme="ICO">M10M207:027</classification-symbol><classification-symbol scheme="ICO">M10M207:028</classification-symbol><classification-symbol scheme="ICO">M10M207:144</classification-symbol><classification-symbol scheme="ICO">M10M207:146</classification-symbol><classification-symbol scheme="ICO">M10M207:16</classification-symbol><classification-symbol scheme="ICO">M10M207:26</classification-symbol><classification-symbol scheme="ICO">M10M207:262</classification-symbol><classification-symbol scheme="ICO">M10M215:04</classification-symbol><classification-symbol scheme="ICO">M10M215:06</classification-symbol><classification-symbol scheme="ICO">M10M215:064</classification-symbol><classification-symbol scheme="ICO">M10M215:065</classification-symbol><classification-symbol scheme="ICO">M10M215:066</classification-symbol><classification-symbol scheme="ICO">M10M215:067</classification-symbol><classification-symbol scheme="ICO">M10M215:068</classification-symbol><classification-symbol scheme="ICO">M10M215:08</classification-symbol><classification-symbol scheme="ICO">M10M215:082</classification-symbol><classification-symbol scheme="ICO">M10M215:086</classification-symbol><classification-symbol scheme="ICO">M10M215:12</classification-symbol><classification-symbol scheme="ICO">M10M215:122</classification-symbol><classification-symbol scheme="ICO">M10M215:24</classification-symbol><classification-symbol scheme="ICO">M10M215:26</classification-symbol><classification-symbol scheme="ICO">M10M215:28</classification-symbol><classification-symbol scheme="ICO">M10M215:28+2</classification-symbol><classification-symbol scheme="ICO">M10M217:042</classification-symbol><classification-symbol scheme="ICO">M10M217:043</classification-symbol><classification-symbol scheme="ICO">M10M217:046</classification-symbol><classification-symbol scheme="ICO">M10M217:06</classification-symbol><classification-symbol scheme="ICO">M10M219:046</classification-symbol><classification-symbol scheme="ICO">M10M219:087</classification-symbol><classification-symbol scheme="ICO">M10M219:088</classification-symbol><classification-symbol scheme="ICO">M10M219:089</classification-symbol><classification-symbol scheme="ICO">M10M223:045</classification-symbol><classification-symbol scheme="ICO">M10M290:02</classification-symbol><classification-symbol scheme="ICO">M10M290:04</classification-symbol><classification-symbol scheme="ICO">M10N210:02</classification-symbol><classification-symbol scheme="ICO">M10N240:10</classification-symbol><classification-symbol scheme="ICO">M10N240:101</classification-symbol><classification-symbol scheme="ICO">M10N240:104</classification-symbol><classification-symbol scheme="ICO">M10N240:105</classification-symbol><classification-symbol scheme="ICO">M10N240:106</classification-symbol><classification-symbol scheme="IDT">M10N210:01</classification-symbol><classification-symbol scheme="IDT">M10N230:04</classification-symbol><classification-symbol scheme="IDT">M10N230:041</classification-symbol><classification-symbol scheme="IDT">M10N230:10</classification-symbol><classification-symbol scheme="IDT">M10N240:102</classification-symbol><classification-symbol scheme="IDT">M10N240:103</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Schmierölzusammensetzung für flüssiggasbetriebene Brennkraftmaschine</invention-title><invention-title load-source="ep" status="new" lang="EN">Lubricating oil composition for gas-fuelled engines</invention-title><invention-title load-source="ep" status="new" lang="FR">Composition d'huile lubrifiante pour moteur alimenté en gaz liquéfié</invention-title><citations><patent-citations><patcit ucid="US-5726133-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5726133</doc-number><kind>A</kind></document-id><sources><source category="XD" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5906969-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5906969</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1994028095-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1994028095</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="WO-1999055808-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1999055808</doc-number><kind>A1</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>INFINEUM INT LTD</name><address><country>GB</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>INFINEUM INTERNATIONAL LIMITED</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Infineum International Limited</last-name><address><street>P.O. Box 1, Milton Hill</street><city>Abingdon, Oxfordshire OX13 6BB</city><country>GB</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>CHAMBARD LAURENT</name><address><country>GB</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>DUNN ADRIAN</name><address><country>GB</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>GARNER TERANCE</name><address><country>GB</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>CHAMBARD, LAURENT</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>DUNN, ADRIAN</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>GARNER, TERANCE</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>CHAMBARD, LAURENT</last-name><address><street>27b Huntersfield, Stanford in the Vale</street><city>Oxfordshire, SN7 8NQ</city><country>GB</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>DUNN, ADRIAN</last-name><address><street>22 Craven Common, Uffington</street><city>Faringdon, Oxfordshire, SN7 7RN</city><country>GB</country></address></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>GARNER, TERANCE</last-name><address><street>8 Arndale Beck</street><city>Didcot, Oxfordshire, OX11 7SU</city><country>GB</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Mansell, Keith Rodney</last-name><address><street>Infineum UK Ltd, Law Department, P.O. Box 1, Milton Hill</street><city>Abingdon, Oxfordshire OX13 6BB</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>AT</country><country>BE</country><country>CH</country><country>CY</country><country>DE</country><country>DK</country><country>ES</country><country>FI</country><country>FR</country><country>GB</country><country>GR</country><country>IE</country><country>IT</country><country>LI</country><country>LU</country><country>MC</country><country>NL</country><country>PT</country><country>SE</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>A gas-fuelled engine lubricating oil composition has a TBN in the range of 2 to 20
+and comprises:
+<sl><li>(A) oil of lubricating viscosity;</li><li>(B) a salicylate detergent having a TBN of 250 or less;</li><li>(C) a detergent having a TBN of greater than 250;</li><li>(D) an ashless dispersant; and</li><li>(E) an anti-wear additive;</li></sl></p></abstract><description load-source="ep" status="new" lang="EN"><p num="0001">This invention relates to gas-fuelled engine lubrication.</p><p num="0002">Gas-fuelled engines, sometimes referred to as gas-fired engines or merely gas
+engines, are known and may be used in the oil and gas industry, for example to
+drive pumping stations of natural gas pipelines, blowers and generators in
+purification plants and on gas tankers; and to compress natural gas at well heads
+and along pipe lines. Their design may be two- or four-stroke, spark-ignited or
+compression-ignited, though four-stroke compression-ignited designs constitute a
+large percentage. Natural gas constitutes a typical fuel.</p><p num="0003">Problems in their lubrication are firstly, that the lubricant is subjected to sustained
+high temperatures leading to its oxidation, and secondly, that the engines emit
+relatively high quantities of oxides of nitrogen, leading to nitration of the lubricant.
+These problems reduce the working life of the lubricant.</p><p num="0004">US-A-5 726 133 describes a way of meeting the above problems by using, in a
+natural gas engine oil, an additive mixture comprising a mixture of detergents
+comprising at least one first alkali or alkaline earth metal salt or mixture thereof of
+TBN of 250 and less, and at least one second alkali or alkaline earth metal salt or
+mixture thereof which is more neutral than the first salt.</p><p num="0005">EP-A-0 860 495 describes a lubricating oil composition stated to be excellent for
+NOx oxidation resistance and thermal oxidation resistance and suitable as a long-life
+engine oil for gas engine heat pumps. The composition includes a metal
+salicylate having a TBN of from 100 to 195, and optionally includes a metal
+phenate having a TBN of from 100 to 300.</p><p num="0006">There is, however, a desire to further improve the lubricant performance in the
+above respects, for example to enable the interval between lubricant changes to
+be extended. </p><p num="0007">The present invention meets this desire, as evidenced by and in the examples
+hereof, by using, as a first detergent, one only salicylate having a TBN of 95 or
+less and a second detergent having a TBN of greater than 250.</p><p num="0008">Accordingly, a first aspect of the present invention is a gas-fuelled engine
+lubricating oil composition having a TBN in the range of 2 to 20 comprising:
+<sl><li>(A) an oil of lubricating viscosity, in a major amount; and added thereto, in
+respective minor amounts:</li><li>(B) one only metal hydrocarbyl-substituted salicylate detergent having a
+TBN of 95 or less;</li><li>(C) one or more metal detergents such as a
+salicylate, sulfonate, or phenate, having a TBN of greater than 250;</li><li>(D) one or more dispersants, such as an ashless dispersant; and</li><li>(E) one or more anti-wear additives;</li></sl></p><p num="0009">A second aspect of the present invention is a method of lubricating a gas-fuelled
+internal combustion engine comprising operating the engine and lubricating it with
+a composition according to the first aspect of the invention.</p><p num="0010">A third aspect of the present invention is a method for enhancing the resistance of
+a gas-fuelled lubricating oil composition to oxidation and nitration comprising
+providing the composition with additives (B) to (E) as defined in the first aspect of
+the invention.</p><p num="0011">"Major amount" means in excess of 50 mass % of the composition.</p><p num="0012">"Minor amount" means less than 50 mass % of the composition, both in respect of
+the stated additive and in respect of the total mass % of all the additives present in
+composition, reckoned as active ingredient of the additive or additives.</p><p num="0013">"Comprises or comprising" or cognate words is taken to specify the presence of
+stated features, steps, integers or components, but does not preclude the 
+presence or addition of one or more other features, steps, integer components or
+groups thereof.</p><p num="0014">"TBN" (Total Base Number) is as measured by ASTM D2896.</p> <p num="0015">Unless otherwise started, all proportions are expressed as mass % active
+ingredient, i.e. as if solvent or diluent or other inert material were absent.</p><p num="0016">The features of the invention will now be discussed in more detail below.</p><heading><u style="single">Lubricating Oil Composition</u></heading><p num="0017">Preferably, the TBN of the lubricant composition is in the range of from 6 to 20,
+such as from 6.5 to 20.</p> <heading><u style="single">(A) Oil of Lubricating Viscosity</u> </heading> <p num="0018">The oil of lubricating viscosity (sometimes referred to as lubricating oil) may be any
+oil suitable for the lubrication of a gas-fuelled engine. The lubricating oil may
+suitably be an animal, a vegetable or a mineral oil. Suitably the lubricating oil is a
+petroleum-derived lubricating oil, such as a naphthenic base, paraffinic base or
+mixed base oil. Alternatively, the lubricating oil may be a synthetic lubricating oil.
+Suitable synthetic lubricating oils include synthetic ester lubricating oils, which oils
+include diesters such as di-octyl adipate, di-octyl sebacate and tridecyl adipate, or
+polymeric hydrocarbon lubricating oils, for example liquid polyisobutene and polyalpha
+olefins. Commonly, a mineral oil is employed. The lubricating oil may
+generally comprise greater than 60, typically greater than 70, mass % of the
+composition, and typically have a kinematic viscosity at 100°C of from 2 to 40, for
+example for 3 to 15, mm<sup>2</sup>s<sup>-1</sup> and a viscosity index of from 80 to 100, for example
+from 90 to 95.</p><p num="0019">Another class of lubricating oils is hydrocracked oils, where the refining process
+further breaks down the middle and heavy distillate fractions in the presence of
+hydrogen at high temperatures and moderate pressures. Hydrocracked oils
+typically have a kinematic viscosity at 100°C of from 2 to 40, for example from 3 to
+15, mm<sup>2</sup>s<sup>-1</sup> and a viscosity index typically in the range of from 100 to 110, for
+example from 105 to 108. </p><p num="0020">The oil may include 'brightstock' which refers to base oils which are solventextracted,
+de-asphalted products from vacuum residuum generally having a
+kinematic viscosity at 100°C of from 28 to 36 mm<sup>2</sup>s<sup>-1</sup> and are typically used in a
+proportion of less than 30, preferably less than 20, more preferably less than 15,
+most preferably less than 10, such as less than 5, mass %, based on the mass of
+the composition.</p><heading><u style="single">(B) Salicylate Detergent</u></heading><p num="0021">A detergent is an additive that reduces formation of piston deposits, for example
+high-temperature varnish and lacquer deposits, in engines; it has acid-neutralising
+properties and is capable of keeping finely divided solids in suspension. It is
+based on metal "soaps", that is metal salts of acidic organic compounds,
+sometimes referred to as surfactants, which, in respect of (B), is salicylic acid.</p><p num="0022">The detergent comprises a polar head with a long hydrophobic tail, the polar head
+comprises a metal salt of the salicylic acid. Large amounts of a metal base are
+included by reacting an excess of a metal compound, such as an oxide or
+hydroxide, with an acidic gas such as carbon dioxide to give an overbased
+detergent which comprises neutralised detergent as the outer layer of a metal
+base (e.g. carbonate) micelle.</p><p num="0023">The metal may be an alkali or alkaline earth metal, e.g., sodium, potassium,
+lithium, calcium, and magnesium. Calcium is preferred.</p><p num="0024">Surfactants for the surfactant system of the overbased metal detergents contain at
+least one hydrocarbyl group, for example, as a substituent on an aromatic ring.
+The term "hydrocarbyl" as used herein means that the group concerned is
+primarily composed of hydrogen and carbon atoms and is bonded to the
+remainder of the molecule via a carbon atom, but does not exclude the presence
+of other atoms or groups in a proportion insufficient to detract from the
+substantially hydrocarbon characteristics of the group. Advantageously,
+hydrocarbyl groups in surfactants for use in accordance with the invention are
+aliphatic groups, preferably alkyl or alkylene groups, especially alkyl groups, which
+may be linear or branched. The total number of carbon atoms in the surfactants
+should be at least sufficient to impact the desired oil-solubility. </p><p num="0025">The salicylates may be non-sulfurized or sulfurized, and may be chemically
+modified and/or contain additional substitutents. Processes for sulfurizing a
+hydrocarbyl-substituted salicylic acid are well known to those skilled in the art.
+Salicylic acids are typically prepared by the carboxylation, by the Kolbe-Schmitt
+process, of phenoxides, and in that case, will generally be obtained, normally in a
+diluent, in admixture with uncarboxylated phenol.</p><p num="0026">Preferred substituents in oil-soluble salicylic acids from which the salicylates may
+be derived are alkyl substituents. In alkyl-substituted salicylic acids, the alkyl
+groups advantageously contain 5 to 100, preferably 9 to 30, especially 14 to 20,
+carbon atoms. Where there are more than one alkyl groups, the average number
+of carbon atoms in all of the alkyl groups is preferably at least 9 to ensure
+adequate oil-solubility.</p><p num="0027">The salicylates may be used in a proportion in the range of 0.5 to 30, preferably 2
+to 15 or to 20, mass % based on the mass of the lubricating oil composition.</p><heading>(C) <u style="single">Metal Detergents having a TBN greater than 250</u></heading><p num="0028">The surfactants that may be used include salicylates, sulfonate, phenates,
+sulfurized phenates, thiophosphates, naphthenates, and oil-soluble carboxylates.
+The metal may be an alkali metal or an alkaline earth metal such as sodium,
+potassium, lithium, calcium and magnesium. Calcium is preferred.</p><p num="0029">The detergent may, for example, be a complex detergent comprising an
+overbased mixture of more than one metal surfactants, such as a calcium alkyl
+phenate and a calcium alkyl salicylate. Such a complex detergent is a hybrid
+material in which the surfactant groups, eg phenate and salicylate, are
+incorporated during the overbasing process. Examples of complex detergents are
+described in the art.</p><p num="0030">Another example of a detergent that may be used comprises a sulfurized and
+then overbased mixture of a calcium alkyl phenate and a calcium alkyl salicylate
+such as described in EP-A-750,659, for example as: <sl><li>a detergent-dispersant additive for lubricating oil of the sulfurised and
+superalkalinised, alkaline earth alkylsalicylate-alkylphenate type, characterised in
+that:
+<sl><li>(a) the alkyl substituents of the said alkylsalicylate-alkylphenate are in a
+proportion of at least 35 wt.% and at most 85 wt.% of linear alkyl in
+which the number of carbon atoms is between 12 and 40, preferably
+between 18 and 30 carbon atoms, with a maximum of 65 wt.% of
+branched alkyl in which the number of carbon atoms is between 9 and
+24 and preferably 12 carbon atoms;</li><li>(b) the proportion of alkylsalicylate in the alkylsalicylate-alkylphenate
+mixture is at least 22 mole % and preferably at least 25 mole %, and</li><li>(c) the molar proportion of alkaline in the alkylsalicylate-alkylphenate as a
+whole is between 1.0 and 3.5.</li></sl></li></sl></p><p num="0031">Preferably, the metal detergents (C) have a TBN in the range of 250 to 500,
+more preferably 250 to 400.</p><heading>(D) <u style="single">Dispersants</u></heading><p num="0032">A dispersant is an additive for a lubricating composition whose primary function is
+to hold solid and liquid contaminants in suspension, thereby passivating them and
+reducing engine deposits at the same time as reducing sludge depositions. Thus,
+for example, a dispersant maintains in suspension oil-insoluble substances that
+result from oxidation during use of the lubricating oil, thus preventing sludge
+flocculation and precipitation or deposition on metal parts of the engine.</p><p num="0033">A noteworthy class of dispersants are "ashless", meaning a non-metallic organic
+material that forms substantially no ash on combustion, in contrast to metal-containing,
+hence ash-forming, materials. Ashless dispersants comprise a long
+chain hydrocarbon with a polar head, the polarity being derived from inclusion of,
+e.g. an O, P or N atom. The hydrocarbon is an oleophilic group that confers oil-solubility,
+having for example 40 to 500 carbon atoms. Thus, ashless dispersants 
+may comprise an oil-soluble polymeric hydrocarbon backbone having functional
+groups that are capable of associating with particles to be dispersed.</p><p num="0034">Examples of ashless dispersants are succinimides, eg polyisobutene succinic
+anhydride: polyamine condensation products which may be borated or unborated.</p><heading>(E) <u style="single">Antiwear Additive</u></heading><p num="0035">The antiwear additives may be metallic or non-metallic, preferably the former.</p><p num="0036">Dihydrocarbly dithiophosphate metal salts are examples of the anti-wear additives
+used in the present invention. The metal in the dihydrocarbyl dithiophosphate
+metal may be an alkali or alkaline earth metal, or aluminium, lead, tin,
+molybdenum, manganese, nickel or copper. Zinc salts are preferred, preferably in
+the range of 0.1 to 1.5, preferably 0.5 to 1.3, mass %, based upon the total mass
+of the lubricating oil composition. They may be prepared in accordance with
+known techniques by firstly forming a dihydrocarbyl dithiophosphoric acid (DDPA),
+usually by reaction of one or more alcohols or a phenol with P<sub>2</sub>S<sub>5</sub> and then
+neutralizing the formed DDPA with a zinc compound. For example, a
+dithiophosphoric acid may be made by reacting mixtures of primary and secondary
+alcohols. Alternatively, multiple dithiophosphoric acids can be prepared
+comprising both hydrocarbyl groups that are entirely secondary and hydrocarbyl
+groups that are entirely primary. To make the zinc salt, any basic or neutral zinc
+compound may be used but the oxides, hydroxides and carbonates are most
+generally employed. Commercial additives frequently contain an excess of zinc
+due to use of an excess of the basic zinc compound in the neutralisation reaction.</p><p num="0037">The preferred zinc dihydrocarbyl dithiophosphates are oil-soluble salts of
+dihydrocarbyl dithiophosphoric acids and may be represented by the following
+formula:
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">[(RO) (R<sup>1</sup>O) P(S)S]<sub>2</sub> Zn</st32:che>
+where R and R<sup>1</sup> may be the same or different hydrocarbyl radicals containing from
+1 to 18, preferably 2 to 12, carbon atoms and including radicals such as alkyl,
+alkenyl, aryl, arylalkyl, alkaryl and cycloaliphatic radicals. Particularly preferred as
+R and R<sup>1</sup> groups are alkyl groups of 2 to 8 carbon atoms. Thus, the radicals may,
+for example, be ethyl, n-propyl, I-propyl, n-butyl, I-butyl, sec-butyl, amyl, n-hexyl, I-hexyl, 
+n-octyl, decyl, dodecyl, octadecyl, 2-ethylehexyl, phenyl, butylphenyl,
+cyclohexyl, methylcyclopentyl, propenyl, butenyl. In order to obtain oil-solubility,
+the total number of carbon atoms (i.e. in R and R<sup>1</sup>) in the dithiophoshoric acid will
+generally be 5 or greater. The zinc dihydrocarbyl dithiophosphate can therefore
+comprise zinc dialkyl dithiophosphates.</p><p num="0038">The composition of the present invention may, optionally, have further added
+there-to in a minor amount (F) one or more antioxidants as discussed in further
+detail below.</p><heading>(F) <u style="single">Anti-oxidants</u></heading><p num="0039">As stated these may be amines or phenolic. As examples of amines there may be
+mentioned secondary aromatic amines such as diarylamines, for example
+diphenylamines wherein each phenyl group is alkyl-substituted with an alkyl group
+having 4 to 9 carbon atoms. As examples of anti-oxidants there may be
+mentioned hindered phenols, including mono-phenols and bis-phenols.</p><p num="0040">Preferably, the anti-oxidant, if present, is provided in the composition in an amount
+of up to 3 mass %.</p><p num="0041">Other additives such as pour point depressants, anti-foamants, and/or demulsifiers
+may be provided, if necessary.</p><p num="0042">It may be desirable, although not essential, to prepare one or more additive
+packages or concentrates comprising the additives, whereby additives (B) to (E),
+and (F) if provided, can be added simultaneously to the base oil to form the
+lubricating oil composition. Dissolution of the additive package(s) into the
+lubricating oil may be facilitated by solvents and by mixing accompanied with mild
+heating, but this is not essential. The additive package(s) will typically be
+formulated to contain the additive(s) in proper amounts to provide the desired
+concentration, and/or to carry out the intended function in the final formulation
+when the additive package(s) is/are combined with a predetermined amount of
+base lubricant. Thus, additives (B) to (E), and (F) if provided, in accordance with
+the present invention, may be admixed with small amounts of base oil or other 
+compatible solvents together with other desirable additives to form additive
+packages containing active ingredients in an amount, based on the additive
+package, of, for example, from 2.5 to 90, preferably from 5 to 75, most preferably
+from 8 to 60, mass % of additives in the appropriate proportions, the remainder
+being base oil.</p><p num="0043">The final formulations may typically contain about 5 to 40 mass % of the additive
+packages(s), the remainder being base oil.</p><p num="0044">The term 'active ingredient' (a.i.) as used herein refers to the additive material that
+is not diluent.</p><p num="0045">The terms 'oil-soluble' or 'oil-dispersable' as used herein do not necessarily
+indicate that the compounds or additives are soluble, dissolvable, miscible or
+capable of being suspended in the oil in all proportions. These do mean, however,
+that they are, for instance, soluble or stably dispersible in oil to an extent sufficient
+to exert their intended effect in the environment in which the oil is employed.
+Moreover, the additional incorporation of other additives may also permit
+incorporation of higher levels of a particular additive, if desired.</p><p num="0046">The lubricant compositions of this invention comprise defined individual (i.e.
+separate) components that may or may not remain the same chemically before
+and after mixing.</p><heading><u style="single">Examples</u></heading><p num="0047">The present invention is illustrated by, but in no way limited to, the following
+examples.</p><heading><u style="single">Examples 1 &amp; 2</u></heading><p num="0048">Gas-fuelled engine lubricating oil compositions of the invention were
+prepared by blending methods known in the art. Their compositions were as
+follows: <tables><table><tgroup cols="3"><tbody><row><entry align="left">COMPONENTS</entry><entry align="left">Example 1</entry><entry align="left">Example 2</entry></row><row><entry align="left">(B)  Ca salicylate, TBN 65</entry><entry align="left">3.46</entry><entry align="left">3.85</entry></row><row><entry align="left">(C)  Ca salicylate, TBN 281</entry><entry align="left">0.35</entry><entry align="left">0.39</entry></row><row><entry align="left">(D)  Borated succimmide dispersant</entry><entry align="left">3.41</entry><entry align="left">3.80</entry></row><row><entry align="left">   Unborated succimmide dispersant</entry><entry align="left">2.58</entry><entry align="left">2.88</entry></row><row><entry align="left">(E)  ZDDP anti-wear additive</entry><entry align="left">0.26</entry><entry align="left">0.29</entry></row><row><entry align="left">(F)  Diphenylamine anti-oxidant</entry><entry align="left">0.35</entry><entry align="left">0.39</entry></row><row><entry align="left">(A)  Base Oil</entry><entry align="left">Balance</entry></row><row><entry align="left">   TBN</entry><entry align="left">7.1</entry><entry align="left">8</entry></row><row><entry align="left">   Ash (sulfated) (%)</entry><entry align="left">0.45</entry><entry align="left">0.50</entry></row><row><entry align="left">Antifoams were also present</entry></row></tbody></tgroup></table></tables></p><p num="0049">The above figures, where appropriate, represent mass % of an additive
+components that, with the exception of (F), includes diluent or solvent. The figure
+for (F) represents active ingredient.</p><heading><u style="single">Comparison Examples</u></heading><p num="0050">As comparision gas-fuelled enguine lubricating oil compositions (Examples A and
+B), there were used commercially available lubricating oils, the detergency of each
+of which was phenate-based and was salicylate-free. Example A had a TBN of
+5.2 and 0.45% sulfated ash and Examples B had a TBN of 8.8 and 0.80% sulfated
+ash.</p><heading><u style="single">TESTS</u></heading><p num="0051">Sample of Examples 1 and 2, and A and B were each tested according to the GFC
+T-021-A-90 procedure, an industry standard, at 170°C for a period of 216 hours,
+with an intermediate test after 144 hours.</p><p num="0052">The samples were analysed for:
+<ul list-style="bullet"><li>kinematic viscosity at 100°C (ASTM D445)</li><li>TAN (ASTM D664)</li><li>TBN (ASTM D2896)</li><li>Infra-Red Oxidation and Nitration (spectroscopic method known in the art)</li></ul></p><p num="0053">The identity of the method is indicated in parentheses</p><heading><u style="single">RESULTS</u></heading><p num="0054">The results of the tests are summarised in the table below.
+<tables><table><tgroup cols="5"><tbody><row><entry align="center" namest="1">SAMPLE
+
+(EXAMPLE REF)</entry><entry align="center"  namest="2">TEST</entry><entry nameend="5" align="center" namest="3">TEST TIME (hours)</entry></row><row><entry align="center"/><entry align="center"/><entry align="center">0</entry><entry align="center">144</entry><entry align="center">216</entry></row><row><entry align="center">1</entry><entry align="center">VISCOSITY
+
+(mm<sup>2</sup>s<sup>-1</sup>)</entry><entry align="center">14.08</entry><entry align="center">15.43</entry><entry align="center">17.43</entry></row><row><entry align="center" namest="1">2</entry><entry align="center" namest="3">14.38</entry><entry align="center"  namest="4">15.37</entry><entry align="center"  namest="5">17.59</entry></row><row><entry align="center"  namest="1">A</entry><entry align="center" namest="3">13.66</entry><entry align="center" namest="4">23.27</entry><entry align="center" namest="5">-</entry></row><row><entry align="center" namest="1">B</entry><entry align="center" namest="3">14.05</entry><entry align="center" namest="4">18.25</entry><entry align="center" namest="5">26.89</entry></row><row><entry align="center">1</entry><entry align="center">TAN
+
+(mg KOHg<sup>-1</sup>)</entry><entry align="center">0.59</entry><entry align="center">2.02</entry><entry align="center">4.14</entry></row><row><entry align="center" namest="1">2</entry><entry align="center" namest="3">0.65</entry><entry align="center" namest="4">0.71</entry><entry align="center" namest="5">3.65</entry></row><row><entry align="center" namest="1">A</entry><entry align="center" namest="3">0.44</entry><entry align="center" namest="4">5.64</entry><entry align="center" namest="5">8.22</entry></row><row><entry align="center" namest="1">B</entry><entry align="center" namest="3">0.38</entry><entry align="center" namest="4">4.45</entry><entry align="center" namest="5">7.17</entry></row><row><entry align="center">1</entry><entry align="center">TBN
+
+(mg KOHg<sup>-1</sup>)</entry><entry align="center">7.12</entry><entry align="center">2.47</entry><entry align="center">1.44</entry></row><row><entry align="center" namest="1">2</entry><entry align="center" namest="3">7.96</entry><entry align="center" namest="4">3.08</entry><entry align="center" namest="5">1.75</entry></row><row><entry align="center" namest="1">A</entry><entry align="center" namest="3">5.22</entry><entry align="center" namest="4">0.5</entry><entry align="center" namest="5">0.5</entry></row><row><entry align="center" namest="1">B</entry><entry align="center" namest="3">8.81</entry><entry align="center" namest="4">0.5</entry><entry align="center" namest="5">0.5</entry></row><row><entry align="center">1</entry><entry align="center">IR Oxidation
+
+(cm<sup>-1</sup>)</entry><entry align="center">0</entry><entry align="center">28.91</entry><entry align="center">54.69</entry></row><row><entry align="center" namest="1">2</entry><entry align="center" namest="3">0</entry><entry align="center" namest="4">25.00</entry><entry align="center" namest="5">50.78</entry></row><row><entry align="center" namest="1">A</entry><entry align="center" namest="3">0</entry><entry align="center" namest="4">54.41</entry><entry align="center" namest="5">-</entry></row><row><entry align="center" namest="1">B</entry><entry align="center" namest="3">0</entry><entry align="center" namest="4">47.06</entry><entry align="center" namest="5">70.59</entry></row><row><entry align="center">1</entry><entry align="center">IR Nitration
+
+(cm<sup>-1</sup>)</entry><entry align="center">0</entry><entry align="center">3.13</entry><entry align="center">7.81</entry></row><row><entry align="center" namest="1">2</entry><entry align="center" namest="3">0</entry><entry align="center" namest="4">3.13</entry><entry align="center" namest="5">6.25</entry></row><row><entry align="center" namest="1">A</entry><entry align="center" namest="3">0</entry><entry align="center" namest="4">20.59</entry><entry align="center" namest="5">-</entry></row><row><entry align="center" namest="1">B</entry><entry align="center" namest="3">0</entry><entry align="center" namest="4">12.50</entry><entry align="center" namest="5">22.79</entry></row></tbody></tgroup></table></tables></p><p num="0055">A dash indicates that the sample was too thick to measure. In all tests, lower
+values indicate superior performance. Thus, the results show the superiority of
+Examples 1 and 2 over each of Examples A and B that lacked salicylate.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>A gas-fuelled engine lubricating oil composition having a TBN in the range of 2
+to 20 comprising:
+<claim-text><claim-text>(A) an oil of lubricating viscosity, in a major amount; and added thereto, in
+respective minor amounts:</claim-text><claim-text>(B) one only metal hydrocarbyl-substituted salicylate detergent having a
+TBN of 95 or less;</claim-text><claim-text>(C) one or more metal detergents such as a
+salicylate, sulfonate, or phenate, having a TBN of greater than 250;</claim-text><claim-text>(E) one or more dispersants, such as an ashless dispersant; and</claim-text><claim-text>(F) one or more anti-wear additives;</claim-text></claim-text></claim-text></claim><claim num="2"><claim-text>The composition as claimed in claim 1 further added thereto, in a minor
+amount, being (F) one or more antioxidants, such as amine or phenolic anti-oxidants.</claim-text></claim><claim num="3"><claim-text>The composition as claimed in claim 1 or claim 2 wherein the metal of the
+hydrocarbyl-substituted salicylate (B) is calcium.</claim-text></claim><claim num="4"><claim-text>The composition as claimed in any of claims 1 to 3 wherein metal detergent (C)
+is a calcium hydrocarbyl-substituted salicylate or a complex detergent that
+contains a salicylate surfactant, having a TBN in the range of 250 to 500,
+preferably 250 to 400.</claim-text></claim><claim num="5"><claim-text>The composition as claimed in any of claims 2 to 4 wherein the anti-oxidant (F)
+is present in the composition in an amount of up to 3 mass %.</claim-text></claim><claim num="6"><claim-text>A method of lubricating a gas-fuelled internal combustion engine comprising
+operating the engine and lubricating it with a composition as claimed in any of
+claims 1 to 5.</claim-text></claim><claim num="7"><claim-text>A method for enhancing the resistance of a gas-fuelled lubricating oil
+composition to oxidation and nitration comprising providing the composition
+with additives (B) to (F) as defined in any of claims 1 to 5.</claim-text></claim></claims><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>

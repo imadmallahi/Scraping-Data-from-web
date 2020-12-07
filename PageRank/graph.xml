@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph>
+	<node>
+		<name>A</name>
+	</node>
+	<node>
+		<name>B</name>
+		<link>C</link>		
+	</node>	
+	<node>
+		<name>C</name>
+		<link>B</link>	
+	</node>
+	<node>
+		<name>D</name>
+		<link>A</link>
+		<link>B</link>
+	</node>
+	<node>
+		<name>E</name>
+		<link>B</link>
+		<link>F</link>
+		<link>D</link>
+	</node>
+	<node>
+		<name>F</name>
+		<link>E</link>
+		<link>B</link>
+	</node>
+	<node>
+		<name>G</name>
+		<link>E</link>
+		<link>B</link>
+	</node>
+	<node>
+		<name>H</name>
+		<link>E</link>
+		<link>B</link>		
+	</node>
+	<node>
+		<name>I</name>
+		<link>E</link>
+		<link>B</link>		
+	</node>
+	
+	<node>
+		<name>L</name>
+		<link>E</link>
+	</node>
+	<node>
+		<name>M</name>
+		<link>E</link>
+	</node>
+	
+
+</graph>
+
+

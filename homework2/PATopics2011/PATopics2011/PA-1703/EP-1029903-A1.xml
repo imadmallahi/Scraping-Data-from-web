@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.matrixware.com/dtds/patents/v1.2/patent-document.dtd"><patent-document ucid="EP-1029903-A1" country="EP" doc-number="1029903" kind="A1" lang="EN" family-id="22960855" status="new" date-produced="20090516" date="20000823"><bibliographic-data><publication-reference ucid="EP-1029903-A1" status="new" fvid="22901158"><document-id status="new" format="original"><country>EP</country><doc-number>1029903</doc-number><kind>A1</kind><date>20000823</date></document-id></publication-reference><application-reference ucid="EP-00301278-A" status="new" is-representative="NO"><document-id status="new" format="epo"><country>EP</country><doc-number>00301278</doc-number><kind>A</kind><date>20000218</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-25357699-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>25357699</doc-number><kind>A</kind><date>19990219</date></document-id></priority-claim></priority-claims><technical-data status="new"><classifications-ipcr><classification-ipcr status="new">B41J   2/01        20060101AFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41J   2/01        20060101CFI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101ALI20051220RMJP        </classification-ipcr><classification-ipcr status="new">B41M   5/00        20060101CLI20051220RMJP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C09D  11/00        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">C09D  11/00C</classification-symbol><classification-symbol scheme="EC">C09D  11/00C20</classification-symbol></classification-ecla><invention-title load-source="ep" status="new" lang="DE">Lösungsmittel zur Auslaufbeschränkung für pigmentierte Tinten und für auf Farbstoffen basierende Tinten</invention-title><invention-title load-source="ep" status="new" lang="EN">Bleed control solvents for pigmented and dye-based inks</invention-title><invention-title load-source="ep" status="new" lang="FR">Solvants pour le contrôle des bavures pour encres pigmentées et pour encres à base de colorants</invention-title><citations><patent-citations><patcit ucid="EP-0801118-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0801118</doc-number><kind>A2</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="EP-0859037-A1" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0859037</doc-number><kind>A1</kind></document-id><sources><source category="A" name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="EP-0872344-A2" status="new"><document-id status="new" format="epo"><country>EP</country><doc-number>0872344</doc-number><kind>A2</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="GB-2316412-A"  status="new"><document-id status="new"  format="epo"><country>GB</country><doc-number>2316412</doc-number><kind>A</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></patcit></patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>HEWLETT PACKARD CO</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>HEWLETT-PACKARD COMPANY</name></addressbook></applicant><applicant status="new" format="original"><addressbook><last-name>Hewlett-Packard Company</last-name><address><street>3000 Hanover Street</street><city>Palo Alto, California 94304</city><country>US</country></address></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>REHMAN ZIA</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>REHMAN, ZIA</name></addressbook></inventor><inventor status="new" format="original"><addressbook><last-name>REHMAN, ZIA</last-name><address><street>3010 NE Glacier Way</street><city>Corvallis, OR 97330</city><country>US</country></address></addressbook></inventor></inventors><agents><agent status="new" format="original"><addressbook><last-name>Colgan, Stephen James</last-name><address><street>CARPMAELS &amp;amp; RANSFORD 43 Bloomsbury Square</street><city>London WC1A 2RA</city><country>GB</country></address></addressbook></agent></agents></parties><international-convention-data><designated-states><ep-contracting-states><country>DE</country><country>FR</country><country>GB</country></ep-contracting-states></designated-states></international-convention-data></bibliographic-data><abstract load-source="ep" status="new" lang="EN"><p>Two classes of solvents, organic esters and diols and triols, help to reduce bleed
+between black (pigment-containing) inks and color (water-soluble dye-based) inks
+when used in formulating inks that contain self-dispersed pigments. The solvents help
+self-dispersed pigments to agglomerate by producing successful mutual collisions
+when the electrostatic potential is reduced with positively charged color inks. It
+appears that these solvents may be changing the dielectric constant of the ink, thereby
+reducing the repulsion potential of the pigment particles themselves.</p></abstract><description load-source="ep" status="new" lang="EN"><heading><u style="single">TECHNICAL FIELD</u></heading><p num="0001">The present invention relates to generally to ink-jet inks, and, more particularly,
+to ink-jet inks with improved bleed control.</p><heading><u style="single">BACKGROUND ART</u></heading><p num="0002">In ink development work with a new technology, one of the most important
+parameters to be considered is the bleed control between black and color inks, often
+referred to as "K/C control" or "K/C bleed". Using self-dispersed pigments as the colorant
+tends to result in relatively poor bleed control, compared to pigments that use a
+separate dispersant molecule. In these inks, the black ink contains the pigment, while
+the color inks contain one or more appropriate water-soluble dyes (cyan, yellow, magenta).</p><p num="0003">One might ask why it is so difficult to control bleed wit self-dispersed pigments
+even tough they have a negative charge and the color ink is low pH. The answer
+to this question is crucial in inventing a solvent system tat can reduce bleed.
+Self dispersed pigments, such as available from Cabot Corp., have negatively-charged
+groups that are covalently-bonded to the pigment surface. Theoretically, either a positive
+charge from cations, or a proton from a low pH color ink in the vicinity of two
+negatively-charged black, self-dispersed pigment particles should lower their electrostatic
+potential and allow the pigments to come closer and agglomerate. This apparently 
+does not happen to the desired extent with the self-dispersed pigment and they
+don't crash with the same intensity on the paper. Without subscribing to any particular
+theory, it appears tat their mutual collisions do not lead to agglomeration; in other
+words, their collisions are elastic in nature in that the two colliding particles bounce
+back away from each other. This is in contrast to a pigment-based ink using a separate
+dispersant, such as disclosed in U.S. Patent 5,500,082, issued to H. Matrick et al. Such
+dispersant molecules with large "tentacles" (long chain carbons) sticking out and
+which have a more chance to "stick together" in the event of a collision.</p><p num="0004">Thus, there is a need to provide an ink containing a self-dispersing pigment that
+evidences improved bleed control.</p><heading><u style="single">DISCLOSURE OF INVENTION</u></heading><p num="0005">In accordance with the present invention, two classes of solvents that help to
+reduce bleed are used in formulating inks that contain self-dispersed pigments. The two
+classes are organic esters and certain diols and triols.</p><p num="0006">The solvents disclosed herein help self-dispersed pigments to agglomerate by
+producing successful mutual collisions when the electrostatic potential is reduced with
+positively charged color inks. The details of this mechanism are not understood
+clearly yet. These solvents could be changing the dielectric constant of the ink,
+thereby reducing the repulsion potential of the pigment particles themselves.</p><heading><u style="single">BEST MODES FOR CARRYING OUT THE INVENTION</u></heading><p num="0007">In accordance with the present invention, bleed control between black (K) inks
+containing self-dispersed pigments and color (CYM - cyan, yellow, magenta) inks
+containing water-soluble dyes is improved by incorporating either an organic ester or a
+diol in the black ink formulation. </p><heading><u style="single">1. Organic Esters</u></heading><p num="0008">Non-surfactant organic esters having the formula R-COOR' may be suitably
+employed in the practice of the present invention, where R and R' are independently
+hydrogen, alkanes, alkenes, alkynes, alkoxies, carboxylates, and mixtures thereof, including
+both straight chain and branched chain structures and further including all
+stercoisomers. Examples of the ester group (-COOR') include citrate, succinate, lactate,
+formate, gluconate, tartrate, malonate, fumarate, malate, sebacate, laurate, glutarate,
+acetate, oxylate, adipicate, pimelicate, subericate, azelaicate and mixtures
+thereof. The number of carbon atoms in the R and R' groups ranges from 1 to 5. The
+organic esters that are useful in the practice of the present invention are those that are
+solvents, not surfactants.</p><p num="0009">Examples of such non-surfactant organic esters include triethyl citrate, triethyl
+citrate, triethyl citrate, and acetyl triethyl citrate; these esters are available under the
+tradenames Citroflex 2, Citroflex 1, Citroflex A1, Citroflex A2, respectively, all from
+Morflex Inc.</p><p num="0010">The concentration of the organic esters employed in the practice of the present
+invention is within the range of about 0.5 to 7 wt%, preferably about 2 to 4 wt%, and
+most preferably about 3 wt%, of the ink composition.</p><heading><u style="single">2. Diols and Triols</u></heading><p num="0011">Several diols and triols were tested and showed substantial improvement in
+black/color bleed. These diols are 2-methyl-2,4-pentanediol (hexylene glycol), 1,2-octanediol,
+2-methyl-1,3-propanediol, 3-methyl-1,5-pentanediol, 2,5-dimethyl-2,5-hexanediol,
+and 1,2-hexanediol. The triol is 3-methyl-1,3,5-pentanetriol.</p><p num="0012">The concentration range of the diols/triols, other than 1,2-octanediol, employed
+in the practice of the present invention is within the range of about 0.1 to 10
+wt%, preferably about 1 to 7 wt%, and most preferably about 2 to 5 wt%, of the ink
+composition. The concentration range of 1,2-octanediol is within the range of about
+0.25 to 1 wt%, preferably about 0.5 wt%, of the ink composition. </p><p num="0013">Not all diols are useful in reducing bleed between black and color inks. Examples
+of such diols include 3-hexyne-2,5-diol, and 2,5-dimethyl-3-hexyne-2,5-diol.</p><heading><u style="single">3. Ink Compositions - Black Inks</u></heading><p num="0014">The black inks of the invention comprise a pigment and a vehicle. Specifically,
+the black inks of the present invention comprise about 5 to 50 wt%, preferably about
+10 to 25 wt%, water-miscible organic co-solvent, about 0.05 to 10 wt%, preferably
+about 0.5 to 10 wt%, pigment, about 0.005 to 50 wt%, preferably about 0.1 to 10 wt%,
+more preferably about 0.5 to 5 wt%, durable latex polymer, about 0.005 to 50
+wt%, preferably about 0.1 to 10 wt%, more preferably about 0.5 to 5 wt%, primer latex
+polymer, and water, in addition to the ester or diol/triol additive discussed above.
+Other components and additives to the ink may also be present, as discussed below.</p><heading><u style="single">3A. Self-Dispersed Pigments</u></heading><p num="0015">In one embodiment, the colorant employed in the ink is a self-dispersing pigment.
+Such pigments suitable for use in the practice of the present invention include
+all chemically-modified, water-dispersible pigments known for use in ink-jet printing.
+These chemical modifications impart water-dispersibility to the pigment precursors
+that encompass all organic pigments.</p><p num="0016">For self-dispersibility or water solubility, the pigments herein are modified by
+the addition of one or more organic groups comprising at least one aromatic group or
+a C<sub>1</sub>-C<sub>12</sub> alkyl group and at least one ionic or ionizable group. The ionizable group is
+one that forms its ionic groups in the aqueous medium. The ionic group may be anionic
+or cationic. The aromatic groups may be further substituted or unsubstituted. Examples
+include phenyl or naphthyl groups and the ionic group is sulfonic acid, sulfinic
+acid, phosphonic acid, carboxylic acid, ammonium, quaternary ammonium, or phosphonium
+group.</p><p num="0017">Depending on the process selected, the pigment can either be anionic or cationic
+in character. As commercially available, the anionic chromophores are usually 
+associated with sodium or potassium cations, and the cationic chromophores are usually
+associated with chloride or sulfate anions.</p><p num="0018">For modification, one preferred method is treatment of a carbon black pigment
+with aryl diazonium salts containing at least one acidic functional group. Examples of
+axyl diazonium salts include those prepared from sulfinic acid, 4-aminobenzoic acid,
+4-aminosalicylic acid, 7-amino-4-hydroxy-2-naphthylenesulfonic acid, aminophenylboronic
+acid, aminophenylphosphonic acid, and metalinic acid.</p><p num="0019">Ammonium, quaternary ammonium groups, quaternary phosphonium groups,
+and protonated amine groups represent examples of cationic groups that can be attached
+to the same organic groups discussed above.</p><p num="0020">Reference is made to U.S. Patents 5,707,432; 5,630,868; 5,571,311; and
+5,554,739 for a discussion of modified carbon black pigments and methods of attaching
+the functionalized groups.</p><p num="0021">The following water-insoluble pigments are useful in the practice of the invention;
+however, this listing is not intended to limit the invention. The following
+pigments are available from Cabot: Monarch® 1400, Monarch® 1300, Monarch®
+1100, Monarch® 1000, Monarch® 900, Monarch® 880, Monarch® 800, and Monarch®
+700. The following pigments are available from Ciba-Geigy: Igralite® Rubine
+4BL. The following pigments are available from Columbian: Raven 7000, Raven
+5750, Raven 5250, Raven 5000, and Raven 3500. The following pigments are available
+from Degussa: Color Black FW 200, Color Black FW 2, Color Black FW 2V,
+Color Black FW 1, Color Black FW 18, Color Black S 160, Color Black S 170, Special
+Black 6, Special Black 5, Special Black 4A, Special Black 4, Printex U, Printex
+V, Printex 140U, and Printex 140V. The following pigment is available from DuPont:
+Tipure® R-101. The following pigment is available from Hoechst: Permanent Rubine
+F6B. The following pigment is available from Sun Chemical: LHD9303 Black.</p><p num="0022">Self-dispersing pigments are also commercially available from Cabot as Cab-O-Jet®
+200 and Cab-O-Jet® 300.</p><p num="0023">In another embodiment herein, the black pigment is dispersed in the ink composition
+with the aid of a dispersing agent. Such black pigments include any black 
+pigment that is dispersed with a dispersant having an anionic functionality, for example,
+the Joncryl polymers available from S.C. Johnson Polymer. Of course, any other
+dispersant exhibiting anionic charges may be employed in the practice of the present
+invention. For a more complete discussion of black pigments and anionic dispersants,
+see U.S. Patents 5,181,045 and 5,785,743.</p><heading><u style="single">3B. Latex Polymers</u></heading><p num="0024">Ink-jet inks have recently been developed that utilize latex polymers to
+achieve smearfastness. Examples of such latex polymers are disclosed in, for example,
+application Serial Number 09/120,270 and application Serial No. 09/120,046, both
+filed July 21, 1998.</p><p num="0025">There are two types of such latex polymers employed in the practice of the
+present invention. The first type is referred to as "durable core/shell" polymers and are
+given by the formula
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">[(A)<sub>m</sub> (B)<sub>n</sub> (C)<sub>p</sub> (D)<sub>q</sub> (E)<sub>r</sub>]<sub>x</sub></st32:che>
+wherein A, B, C, D, and E represent functionalities as follows:
+<sl><li>A = at least one hydrophobic component contributing to improved durable,
+film-forming properties selected from moieties which, when homopolymerized
+to a solid state, have a glass transition temperature (T<sub>g</sub>) in the
+range between -150°C to +25°C;</li><li>B = at least one hydrophobic and solvent barrier moiety used to adjust
+the T<sub>g</sub> of the hydrophobic component of the polymer (I) which, when homopolymerized
+to a solid state, has a T<sub>g</sub> greater than +25°C;</li> <li>C = at least one hydrophilic component, selected from a wide variety
+of water-soluble monomers (optional);</li><li>D = at least one UV absorber (optional);</li><li>E = a moiety having at least one highly polar functional group (optional); </li><li>m = 5 to 95 wt%;</li><li>n = 5 to 95 wt%;</li> <li>p = 0 to 60 wt%;</li> <li>q = 0 to 50 wt%;</li> <li>r = 0 to 40 wt%;</li><li><st32:f xmlns:st32="http://www.matrixware.com/ns/st32/">m + n + p + q + r = 100 wt%</st32:f>; and</li><li>x = 1 to 100,000.</li></sl></p><p num="0026">Preferably, the final T<sub>g</sub> of the polymer(s) (I) is within the range of about -25°
+to +110°C, and more preferably, the final T<sub>g</sub> is within the range of about -15° to
++90°C, and most preferably within the range of about -10°C to +75°C.</p><p num="0027">The molecular weight (weight avenge) of polymer (I) is between about 1,000
+and 2,000,000, preferably between about 5,000 and 500,000, and most preferably
+between about 10,000 and 70,000.</p><p num="0028">Either the C moiety or the E moiety must be present in the polymer to provide
+a polymer having either a hydrophilic portion or a highly polar portion. Alternatively,
+one or more surfactants may be used in conjunction with polymer (I), whether in the
+presence or the absence of the C or E, or both, moieties. The surfactant(s) may be anionic,
+cationic, non-ionic, or zwitterionic.</p><p num="0029">The second type of latex polymers is referred to as "primer core/shell" polymers,
+which also have a hydrophilic portion and a hydrophobic portion and have the
+following general structure given by formula (II)
+<st32:che xmlns:st32="http://www.matrixware.com/ns/st32/">[(A)<sub>m</sub> (B)<sub>n</sub> (C)<sub>p</sub> (E)<sub>r</sub>]<sub>y</sub></st32:che>
+wherein A, B, C, and E are as described above and where m, n, and r are as follows:
+<sl><li>m = 0 to 90 wt%, preferably 10 to 60 wt%, and more preferably 15 to
+50 wt%;</li><li>n = 0 to 90 wt%, preferably 10 to 60 wt%, and more preferably 15 to 50
+wt%; </li><li>p = 0 to 90 wt%, preferably 10 to 60 wt%, and more preferably 15 to
+50 wt%;</li><li>r = 0.01 to 100 wt%, preferably 0.01 to 60 wt%, and more preferably 1
+to 40 wt%;</li><li><st32:f xmlns:st32="http://www.matrixware.com/ns/st32/">m + n + r = 100 wt%</st32:f>; and</li><li>y = 1 to 100,000, preferably 10 to 10,000, and more preferably 100 to
+1,000.</li></sl>
+Preferably, either m or n is non-zero.</p><p num="0030">TheT<sub>g</sub> of the primer core/shell polymers is within the range of about -100° to
++100°C, preferably within the range of about -25° to +25°C, and more preferably
+within the range of about 0° to +25°C.</p><p num="0031">The molecular weight (weight average) of polymer (II) is between about 100
+and 2,000,000, preferably between about 1,000 and 500,000, and most preferably
+between about 5,000 and 300,000.</p><p num="0032">The durable and primer core/shell polymers are used with pigment colorants to
+disperse them in aqueous-based inks.</p><heading><u style="single">3C. Vehicle</u></heading><p num="0033">The vehicle comprises one or more co-solvents and water. The co-solvents
+comprise one or more organic, water-miscible solvents commonly employed in ink-jet
+printing. Classes of co-solvents employed in the practice of this invention include, but
+are not limited to, aliphatic alcohols, aromatic alcohols, diols, glycol ethers,
+poly(glycol) ethers, caprolactams, formamides, acetamides, and long chain alcohols.
+Examples of compounds employed in the practice of this invention include, but are
+not limited to, primary aliphatic alcohols of 30 carbons or less, primary aromatic alcohols
+of 30 carbons or less, secondary aliphatic alcohols of 30 carbons or less, secondary
+aromatic alcohols of 30 carbons or less, 1,2-alcohols of 30 carbons or less, 1,3-alcohols
+of 30 carbons or less, 1,ω-alcohols of 30 carbons or less, ethylene glycol alkyl
+ethers, propylene glycol alkyl ethers, poly(ethylene glycol) alkyl ethers, higher
+homologs of poly(ethylene glycol) alkyl ethers, poly(propylene glycol) alkyl ethers, 
+higher homologs of poly(propylene glycol) alkyl ethers, N-alkyl caprolactams, unsubstituted
+caprolactams, substituted formamides, unsubstituted formamides, substituted
+acetamides, and unsubstituted acetamides. Specific examples of co-solvents that are
+preferably employed in the practice of this invention include, but are not limited to, N-methyl
+pyrrolidone, 1,5-pentanediol, 2-pyrrolidone, diethylene glycol, 1,3,5-(2-methyl)-pentanetriol,
+tetramethylene sulfone, 3-methoxy-3-methylbutanol, glycerol,
+and 1,2-alkyldiols.</p><p num="0034">The balance of the ink is water, together with other additives commonly added
+to ink-jet inks, which are employed to optimize the properties of the ink for specific applications.
+For example, as is well-known to those skilled in the art, biocides may be
+used in the ink composition to inhibit growth of microorganisms, sequestering agents
+such as EDTA may be included to eliminate deleterious effects of heavy metal impurities,
+and buffer solutions may be used to control the pH of the ink. Other known additives
+such as viscosity modifiers and other acrylic or non-acrylic polymers may be
+added to improve various properties of the ink compositions as desired. The purity of
+all components is that normally employed in conventional commercial practice of
+formulating ink-jet inks.</p><p num="0035">The pH of the pigment-based dye may be adjusted to a slightly basic value,
+say about 8.5, with potassium hydroxide, sodium hydroxide, sodium carbonate, or triethanol
+amine.</p><heading><u style="single">4. Ink Compositions - Color Inks</u></heading><p num="0036">The color inks of the invention comprise at least one water-miscible dye and a
+vehicle. Specifically, the color inks of the present invention comprise anionic dyes,
+such as direct, acid, and basic dyes. Examples of anionic dyes include, but are not
+limited to Food Black 2, Direct Black 19, Acid Blue 9, Direct Blue 199, Direct Red
+227, and Acid Yellow 23. Examples of cationic dyes include, but are not limited to,
+Basic Blue 3, Basic Violet 7, Basic Yellow 13, and Basic Yellow 51. The concentration
+of such a dye preferably ranges from about 0.1 to 7 wt%. Less than about 0.1
+wt% results in an ink of unacceptable lightness, while greater than about 7 wt% results 
+in clogging of the orifices in the ink-jet pen. More preferably, the dye is present
+within the range of about 0.1 to 4 wt% of the ink-jet ink composition. A mixture of
+dyes may also be employed.</p><p num="0037">The vehicle and additive(s) for an ink-jet ink containing at least one water-miscible
+dye are the same as for the pigment-based ink.</p><heading><u style="single">EXAMPLES</u></heading><heading><u style="single">Example 1. Organic Ester</u>.</heading><p num="0038">A black ink was formulated with the following components:
+<dl compact="compact" tsize="8"><dt>6 wt%</dt><dd>2-pyrollidone</dd><dt>7 wt%</dt><dd>3-hexyne-2,5-diol</dd><dt>3.5 wt%</dt><dd>triethyl citrate</dd><dt>3.8 wt%</dt><dd>LEG-1 (liponic ethylene glycol, available from Liponics)</dd><dt>3 wt%</dt><dd>durable latex polymer QX25A, comprising (hexyl acrylate)<sub>40</sub>
+(methyl methacrylate)<sub>40</sub> (methyl polyethylene glycol (mw=2000)
+methacrylate)<sub>20</sub></dd><dt>1 wt%</dt><dd>primer latex polymer QX26B, comprising (methyl
+methacrylate)<sub>32</sub> (hexyl acrylate)<sub>46</sub> (methyl polyethylene glycol (mw=350)
+methacrylate)<sub>12</sub> (acrylic acid)<sub>10</sub></dd><dt>3 wt%</dt><dd>pigment (Monarch 700 treated with p-aminobenzoic acid
+(PABA) and amino dodecanoic acid (ADDA)</dd><dt>balance</dt><dd>water.</dd></dl>
+The pH of the ink was adjusted to 8.5 with potassium hydroxide.</p><p num="0039">The color inks (cyan, yellow, and magenta) contained water-soluble dyes, and
+comprised proprietary, development compositions.</p><heading><u style="single">Comparative Example 1</u>.</heading><p num="0040">The CYMK inks of Example 1 were formulated, except that the triethyl citrate
+was omitted from the black ink. </p><heading><u style="single">Results between Example 1 and Comparative Example 1</u>.</heading><p num="0041">Both CYMK sets of inks were printed on Gilbert Bond and Champion Data
+Copy papers. A set of printing patterns, developed by Hewlett-Packard for testing bleed
+control, was used. In testing bleed control, black and color inks are printed in various
+combinations of adjacent patterns.</p><p num="0042">The ink of Example 1 was observed to evidence better black-to-color bleed
+control than the ink of Comparative Example 1. Further, the ink of Example 1 bad better
+long- and short-term decap than the ink of Comparative Example 1. The ink of Example
+1 evidenced good start-up and printability.</p><heading><u style="single">Example 2. Diol</u>.</heading><p num="0043">A black ink was formulated with the following components:
+<dl compact="compact" tsize="8"><dt>6 wt%</dt><dd>2-pyrollidone</dd><dt>7 wt%</dt><dd>3-hexyne-2,5-diol</dd><dt>3 wt%</dt><dd>2-methyl-2,4-pentanediol</dd><dt>3.8 wt%</dt><dd>LEG-1</dd><dt>3 wt%</dt><dd>durable latex polymer QX25A (same as Example 1)</dd><dt>1 wt%</dt><dd>primer latex polymer QX26B (same as Example 1)</dd><dt>3 wt%</dt><dd>pigment (same as Example 1)</dd><dt>balance</dt><dd>water.</dd></dl>
+The pH of the ink was adjusted to 8.5 with potassium hydroxide.</p><p num="0044">The color inks (cyan, yellow, and magenta) contained water-soluble dyes, and
+comprised proprietary, development compositions.</p><heading><u style="single">Comparative Example 2</u>.</heading><p num="0045">The CYMK inks of Example 2 were formulated, except that the 2-methyl-2,4-pentanediol
+was omitted from the black ink. </p><heading><u style="single">Results between Example 2 and Comparative Example 2</u>.</heading><p num="0046">Both CYMK sets of inks were printed on Gilbert Bond and Champion Data
+Copy papers. A set of printing patterns, developed by Hewlett-Packard for testing bleed
+control, was used. In testing bleed control, black and color inks are printed in various
+combinations of adjacent patterns.</p><p num="0047">The ink of Example 2 was observed to evidence better black-to-color bleed
+control than the ink of Comparative Example 2. Further, the ink of Example 2 had better
+long- and short-term decap than the ink of Comparative Example 2. The ink of Example
+2 evidenced good start-up and printability.</p><heading><u style="single">Example 3. Diol</u>.</heading><p num="0048">A black ink was formulated with the following components:
+<dl compact="compact" tsize="8"><dt>6 wt%</dt><dd>2-pyrollidone</dd><dt>7 wt%</dt><dd>3-hexyne-2,5-diol</dd><dt>0.5 wt%</dt><dd>1,2-octanediol</dd><dt>3.8 wt%</dt><dd>LEG-1</dd><dt>3 wt%</dt><dd>durable latex polymer QX25A (same as Example 1)</dd><dt>1 wt%</dt><dd>primer latex polymer QX26B (same as Example 1)</dd><dt>3 wt%</dt><dd>pigment (same as Example 1)</dd><dt>balance</dt><dd>water.</dd></dl>
+The pH of the ink was adjusted to 8.5 with potassium hydroxide.</p><p num="0049">The color inks (cyan, yellow, and magenta) contained water-soluble dyes, and
+comprised proprietary, development compositions.</p><heading><u style="single">Comparative Example 3</u>.</heading><p num="0050">The CYMK inks of Example 3 were formulated, except that the 1,2-octanediol
+was omitted from the black ink. </p><heading><u style="single">Results between Example 3 and Comparative Example 3</u>.</heading><p num="0051">Both CYMK sets of inks were printed on Gilbert Bond and Champion Data
+Copy papers. A set of printing patterns, developed by Hewlett-Packard for testing bleed
+control, was used. In testing bleed control, black and color inks are printed in various
+combinations of adjacent patterns.</p><p num="0052">The ink of Example 3 was observed to evidence better black-to-color bleed
+control than the ink of Comparative Example 3. Further, the ink of Example 3 had better
+long- and short-term decap than the ink of Comparative Example 3. The ink of Example
+3, however, evidenced feathering if the 1,2-octanediol was used at higher concentration
+levels, greater than about 1 wt%.</p><heading><u style="single">INDUSTRIAL APPLICABILITY</u></heading><p num="0053">The organic esters and diols/triols, as disclosed herein, is expected to find use in
+ink-jet inks for control of bleed between black and color inks.</p><p num="0054">Thus, there have been disclosed ink-jet ink compositions to which certain
+organic esters or diols/triols have been added for the control of bleed between black and
+color inks. It will be apparent to those skilled in this art that various changes and
+modifications of an obvious nature may be made, and all such changes and
+modifications are intended to fall within the scope of the appended claims.</p></description><claims load-source="ep" status="new" lang="EN"><claim num="1"><claim-text>An ink-jet ink composition for ink-jet printing in combination with at least
+one water-soluble dye-based ink, said ink-jet ink composition containing a self-dispersing
+pigment and a vehicle, said ink-jet ink composition further containing at least
+one solvent selected from the group consisting of organic esters, diols, and triols,
+present in an effective amount to reduce bleed between pigment-based inks and water-soluble
+dye-based inks.</claim-text></claim><claim num="2"><claim-text>The ink-jet ink of Claim 1 wherein said organic ester is R-COOR', where R
+and R' are independently hydrogen, alkanes, alkyls, alkenes, alkynes, alkoxys,
+carboxylates, and mixtures thereof, including both straight chain and branched chain
+structures and further including all steroisomers and wherein R and R' each have from
+1 to 5 carbon atoms.</claim-text></claim><claim num="3"><claim-text>The ink-jet ink of Claim 2, wherein said -COOR' group is selected from the
+group consisting of citrate, succinate, lactate, formate, gluconate, tartrate, malonate,
+fumarate, malate, sebacate, laurate, glutarate, acetate, oxylate, adipicate, pimelicate,
+subericate, azelaicate and mixtures thereof.</claim-text></claim><claim num="4"><claim-text>The ink-jet ink of Claim 3 wherein said organic ester comprises at least one
+ester selected from the group consisting of triethyl citrate, triethyl citrate, triethyl
+citrate, and acetyl triethyl citrate.</claim-text></claim><claim num="5"><claim-text>The ink-jet ink of Claim 2 wherein said organic ester has a concentration in
+said ink-jet ink ranging from about 0.5 to 7 wt%.</claim-text></claim><claim num="6"><claim-text>The ink-jet ink of Claim 1 wherein said diol comprises at least one diol
+selected from the group consisting of 2-methyl-2,4-pentanediol, 1,2-octanediol, 2-methyl-1,3-propanediol,
+3-methyl-1,5-pentanediol, 2,5-dimethyl-2,5-hexanediol, 1,2-hexanediol,
+and wherein said triol consists essentially of 3-methyl-1,3,5-pentanetriol.</claim-text></claim><claim num="7"><claim-text>The ink-jet ink of Claim 6 wherein said diol or said triol, other than 1,2-octanediol,
+each has a concentration in said ink-jet ink ranging from about 0.1 to 10
+wt% and wherein said 1,2-octanediol has a concentration ranging from about 0.25 to 1
+wt%.</claim-text></claim><claim num="8"><claim-text>The ink-jet ink of Claim 1 further containing at least one latex polymer
+selected from the group consisting of:
+<claim-text><claim-text>(a)
+[(A)m (B)n (C)p (D)q (E)r]x
+wherein A, B, C, D, and E represent functionalities as follows:
+<claim-text><claim-text>A = at least one hydrophobic component contributing to improved durable,
+film-forming properties selected from moieties which, when homo-polymerized
+to a solid state, have a glass transition temperature (Tg) in the
+range between -150°C to +25°C;</claim-text><claim-text>B = at least one hydrophobic and solvent barrier moiety used to adjust
+the Tg of the hydrophobic component of the polymer (I) which, when homo-polymerized
+to a solid state, has a Tg greater than +25°C;</claim-text><claim-text>C = at least one hydrophilic component, selected from a wide variety
+of water-soluble monomers (optional);</claim-text><claim-text>D = at least one UV absorber (optional);</claim-text><claim-text>E = a moiety having at least one highly polar functional group (optional);</claim-text><claim-text>m = 5 to 95 wt%;</claim-text><claim-text>n = 5 to 95 wt%;</claim-text><claim-text>p = 0 to 60 wt%;</claim-text><claim-text>q = 0 to 50 wt%;</claim-text><claim-text>r = 0 to 40 wt%;</claim-text><claim-text>m + n + p + q + r = 100 wt%; and</claim-text><claim-text>x = 1 to 100,000; and</claim-text></claim-text></claim-text><claim-text>(b)
+[(A)m (B)n (C)p (E)r]y
+wherein A, B, C, and E are as described above and where m, n, p, and r of formula
+(II) are as follows:
+<claim-text><claim-text>m = 0 to 90 wt%;</claim-text><claim-text>n = 0 to 90 wt%;</claim-text><claim-text>p = 0 to 90 wt%;</claim-text><claim-text>r = 0.01 to 100 wt%;</claim-text><claim-text>m + n + p + r = 100 wt%; and</claim-text><claim-text>y = 1 to 100,000.</claim-text></claim-text></claim-text></claim-text></claim-text></claim><claim num="9"><claim-text>A method for reducing bleed between pigment-based inks containing a self-dispersing
+pigment and a vehicle and water-soluble dye-based inks, said method
+comprising adding to said ink-jet ink containing said self-dispersing pigment said
+effective amount of said solvent selected from the group consisting of organic esters,
+diols, and triols of Claim 1.</claim-text></claim></claims><search-report-data status="new"><doc-page id="img--90000001" orientation="portrait" wi="156" status="new" file="90000001.tif" he="242" type="tif"/><doc-page id="img--90010001" orientation="portrait" wi="157" status="new" file="90010001.tif" he="238" type="tif"/></search-report-data><copyright>User acknowledges that Matrixware and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws.  User acquires no ownership rights to this xml including but not limited to its format.  User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.matrixware.com/legal/marec/data_licence.html</copyright></patent-document>
